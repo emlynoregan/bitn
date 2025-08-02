@@ -58,7 +58,11 @@ class ArchiveSearch {
     
     async loadSearchData() {
         try {
-            const response = await fetch('/js/search-data.json');
+            // Use the base URL from Hugo if available, otherwise fall back to relative path
+            const baseUrl = window.HUGO_BASE_URL || '';
+            const searchDataUrl = baseUrl.endsWith('/') ? baseUrl + 'js/search-data.json' : baseUrl + '/js/search-data.json';
+            
+            const response = await fetch(searchDataUrl);
             if (!response.ok) {
                 throw new Error(`HTTP ${response.status}: ${response.statusText}`);
             }

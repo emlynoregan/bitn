@@ -21,10 +21,10 @@
     <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
     
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -70,8 +70,12 @@
     
     <!-- Search functionality -->
     {{ if .Site.Params.enableSearch }}
-        <script src="{{ "js/lunr.min.js" | relURL }}"></script>
-        <script src="{{ "js/search.js" | relURL }}"></script>
+        <script>
+            // Set base URL for JavaScript
+            window.HUGO_BASE_URL = "{{ .Site.BaseURL }}";
+        </script>
+        <script src="{{ "js/lunr.min.js" | absURL }}"></script>
+        <script src="{{ "js/search.js" | absURL }}"></script>
     {{ end }}
     
     <!-- Analytics -->
