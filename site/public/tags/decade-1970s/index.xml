@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decade-1970s on Burra in the News - Historical Archive</title>
-    <link>http://localhost:1313/tags/decade-1970s/</link>
+    <link>http://localhost:1313/bitn/tags/decade-1970s/</link>
     <description>Recent content in Decade-1970s on Burra in the News - Historical Archive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 1978 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/decade-1970s/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bitn/tags/decade-1970s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1978-1993 BCS &amp; CN.doc</title>
-      <link>http://localhost:1313/publications/bcs/1978-1993-bcs-cn/</link>
+      <link>http://localhost:1313/bitn/publications/bcs/1978-1993-bcs-cn/</link>
       <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/bcs/1978-1993-bcs-cn/</guid>
+      <guid>http://localhost:1313/bitn/publications/bcs/1978-1993-bcs-cn/</guid>
       <description>&lt;p&gt;9 June 1978&lt;/p&gt;&#xA;&lt;p&gt;This appears to be the first issue to incorporate community involvement, though under the existing title of the ‘Burra Community School Newsletter’. The title Burra School &amp;amp; Community News’ appeared on the issue of 6 July.&lt;/p&gt;&#xA;&lt;p&gt;It says that this edition of the school newsletter is the first to be distributed more widely; being available free from Wilkinson’s and Beinke’s in Burra and from the general stores in Mt Bryan, Booborowie and Hallett.&lt;/p&gt;</description>
     </item>
   </channel>
