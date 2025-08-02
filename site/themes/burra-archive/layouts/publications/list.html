@@ -66,7 +66,7 @@
                     </a>
                     
                     <!-- Era indicator -->
-                    {{ $startYear := (split .Params.date_range "-") | first | int }}
+                    {{ $startYear := index (split .Params.date_range "-") 0 | int }}
                     {{ if lt $startYear 1880 }}
                         <span class="text-xs text-blue-600 bg-blue-50 px-2 py-1 rounded">Mining Era</span>
                     {{ else if lt $startYear 1950 }}

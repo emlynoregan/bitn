@@ -1,7 +1,5 @@
 ---
 title: "Browse by Publication"
-type: "section"
-layout: "publications"
 ---
 
 # Browse by Publication

@@ -1,7 +1,7 @@
-baseURL: 'https://yourusername.github.io/bitn/'  # Will be updated with actual GitHub Pages URL
-languageCode: 'en-us'
-title: 'Burra in the News - Historical Archive'
-description: 'A comprehensive digital archive of Burra's newspaper coverage spanning from 1845 to 2016, compiled by Eric Fuss'
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Burra in the News - Historical Archive"
+description: "A comprehensive digital archive of Burra newspaper coverage spanning from 1845 to 2016, compiled by Eric Fuss"
 
 # Theme configuration
 theme: 'burra-archive'  # Custom theme for the historical archive
@@ -14,12 +14,13 @@ canonifyURLs: true
 
 # Content configuration
 enableRobotsTXT: true
-enableGitInfo: true
+enableGitInfo: false
 enableEmoji: false
 
 # Pagination
-paginate: 20
-paginatePath: 'page'
+pagination:
+  pagerSize: 20
+  path: 'page'
 
 # Menu configuration
 menu:

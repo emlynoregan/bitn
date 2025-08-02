@@ -1,5 +1,6 @@
 ---
 title: "About This Archive"
+description: "Learn about the Burra in the News digital archive, its contents, and how to use this comprehensive historical resource."
 type: "page"
 ---
 
@@ -7,11 +8,11 @@ type: "page"
 
 ## Overview
 
-The **Burra in the News** digital archive represents a comprehensive collection of newspaper coverage about Burra, South Australia, spanning from **1845 to 2016**. This remarkable archive contains **{{ .Site.Params.totalDocuments }} historical documents** with over **190,000 paragraphs** of content, making it one of the most extensive digital collections of regional Australian newspaper coverage.
+The **Burra in the News** digital archive represents a comprehensive collection of newspaper coverage about Burra, South Australia, spanning from **1845 to 2016**. This remarkable archive contains **14 historical documents** with over **190,000 paragraphs** of content, making it one of the most extensive digital collections of regional Australian newspaper coverage.
 
 ## The Compiler: Eric Fuss
 
-This archive is the result of meticulous research and compilation work by **{{ .Site.Params.compiler }}**. Through dedicated effort and scholarly attention to detail, Eric systematically collected, organized, and preserved these historical newspaper references, ensuring that over 170 years of Burra's documented history remains accessible for future generations.
+This archive is the result of meticulous research and compilation work by **Eric Fuss**. Through dedicated effort and scholarly attention to detail, Eric systematically collected, organized, and preserved these historical newspaper references, ensuring that over 170 years of Burra's documented history remains accessible for future generations.
 
 ## Archive Contents
 
@@ -66,7 +67,7 @@ This digital archive was created using modern web technologies to ensure:
 
 ### Search Capabilities
 The archive features comprehensive search functionality allowing users to:
-- Search across all {{ .Site.Params.totalDocuments }} documents simultaneously
+- Search across all 14 documents simultaneously
 - Find specific people, places, events, and topics
 - Filter by publication and time period
 - Access contextual snippets and full document text
@@ -94,8 +95,8 @@ When using content from this archive, please credit:
 ## Technical Details
 
 ### Archive Statistics
-- **{{ .Site.Params.totalDocuments }}** historical documents
-- **{{ .Site.Params.dateRange }}** coverage period
+- **14** historical documents
+- **1845-2016** coverage period
 - **Multiple publication sources** for diverse perspectives
 - **Full-text searchable** content
 - **Responsive design** for all devices
@@ -115,7 +116,7 @@ For questions or comments about this digital archive, please use the contact inf
 ## Acknowledgments
 
 Special recognition goes to:
-- **{{ .Site.Params.compiler }}** for the original research and compilation
+- **Eric Fuss** for the original research and compilation
 - **Historical societies** and **libraries** that preserved original materials
 - **The Burra community** for supporting historical preservation
 - **Digital humanities** community for tools and methodologies
