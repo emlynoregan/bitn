@@ -1,0 +1,18 @@
+name: 'Burra Archive'
+description: 'A custom Hugo theme for the Burra in the News historical archive'
+license: 'MIT'
+licenselink: 'https://github.com/yourusername/bitn/blob/main/LICENSE'
+author:
+  name: 'Burra Archive Project'
+  homepage: 'https://github.com/yourusername/bitn'
+
+# Theme capabilities
+features:
+  - 'responsive design'
+  - 'historical archive optimized'
+  - 'search functionality'
+  - 'publication browsing'
+  - 'timeline navigation'
+
+# Minimum Hugo version
+min_version: '0.121.0'

@@ -1,0 +1,112 @@
+baseURL: 'https://yourusername.github.io/bitn/'  # Will be updated with actual GitHub Pages URL
+languageCode: 'en-us'
+title: 'Burra in the News - Historical Archive'
+description: 'A comprehensive digital archive of Burra's newspaper coverage spanning from 1845 to 2016, compiled by Eric Fuss'
+
+# Theme configuration
+theme: 'burra-archive'  # Custom theme for the historical archive
+
+# Build configuration
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+canonifyURLs: true
+
+# Content configuration
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: false
+
+# Pagination
+paginate: 20
+paginatePath: 'page'
+
+# Menu configuration
+menu:
+  main:
+    - name: 'Home'
+      url: '/'
+      weight: 10
+    - name: 'Browse by Publication'
+      url: '/publications/'
+      weight: 20
+    - name: 'Timeline'
+      url: '/timeline/'
+      weight: 30
+    - name: 'Search'
+      url: '/search/'
+      weight: 40
+    - name: 'About'
+      url: '/about/'
+      weight: 50
+
+# Site parameters
+params:
+  author: 'Eric Fuss'
+  description: 'A digital preservation of historical newspaper coverage of Burra, South Australia'
+  keywords: ['Burra', 'South Australia', 'newspaper', 'history', 'archive', 'genealogy']
+  
+  # Archive information
+  archiveTitle: 'Burra in the News'
+  compiler: 'Eric Fuss'
+  dateRange: '1845-2016'
+  totalDocuments: 14
+  
+  # Search configuration
+  enableSearch: true
+  searchPlaceholder: 'Search the archive...'
+  
+  # Social and contact
+  contact:
+    email: 'contact@example.com'  # Update with actual contact
+  
+  # Analytics (optional)
+  # googleAnalytics: 'G-XXXXXXXXXX'
+  
+  # GitHub repository
+  githubRepo: 'https://github.com/yourusername/bitn'
+
+# Taxonomies
+taxonomies:
+  publication: 'publications'
+  decade: 'decades'
+  tag: 'tags'
+
+# Output formats
+outputs:
+  home: ['HTML', 'RSS', 'JSON']
+  page: ['HTML']
+  section: ['HTML', 'RSS']
+
+# Output format configuration for search
+outputFormats:
+  SearchIndex:
+    mediaType: 'application/json'
+    baseName: 'search'
+    isPlainText: true
+    path: '/js/'
+
+# Markup configuration
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allow HTML in markdown
+  highlight:
+    style: 'github'
+    lineNos: false
+    codeFences: true
+
+# Privacy configuration
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    respectDoNotTrack: true
+    anonymizeIP: true
+  youtube:
+    privacyEnhanced: true
+
+# Security
+security:
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']

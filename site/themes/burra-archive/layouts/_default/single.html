@@ -1,0 +1,148 @@
+{{ define "title" }}{{ .Title }}{{ end }}
+
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+    <!-- Breadcrumb navigation -->
+    <nav class="text-sm text-gray-600 mb-6" aria-label="breadcrumb">
+        <ol class="flex items-center space-x-2">
+            <li><a href="/" class="hover:text-amber-600">Home</a></li>
+            <li><span class="mx-2">/</span></li>
+            {{ if .Params.publication }}
+            <li><a href="/publications/{{ .Params.publication | urlize }}/" class="hover:text-amber-600">{{ .Params.publication }}</a></li>
+            <li><span class="mx-2">/</span></li>
+            {{ end }}
+            <li class="text-gray-800 font-medium">{{ .Title }}</li>
+        </ol>
+    </nav>
+
+    <article class="bg-white rounded-lg shadow-md overflow-hidden">
+        <!-- Article header -->
+        <header class="bg-gradient-to-r from-amber-50 to-amber-100 p-6 border-b border-amber-200">
+            <h1 class="text-3xl font-serif font-bold text-gray-800 mb-4">{{ .Title }}</h1>
+            
+            <!-- Metadata -->
+            <div class="flex flex-wrap items-center gap-4 text-sm text-gray-600">
+                {{ if .Params.publication }}
+                <div class="flex items-center">
+                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"></path>
+                    </svg>
+                    <span class="font-medium">{{ .Params.publication }}</span>
+                </div>
+                {{ end }}
+                
+                {{ if .Date }}
+                <div class="flex items-center">
+                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                    </svg>
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                </div>
+                {{ end }}
+                
+                {{ if .Params.paragraph_count }}
+                <div class="flex items-center">
+                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                    </svg>
+                    <span>{{ .Params.paragraph_count }} paragraphs</span>
+                </div>
+                {{ end }}
+                
+                {{ if .Params.extraction_method }}
+                <div class="flex items-center">
+                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <span class="text-xs">{{ .Params.extraction_method }}</span>
+                </div>
+                {{ end }}
+            </div>
+            
+            <!-- Tags -->
+            {{ if .Params.tags }}
+            <div class="mt-4">
+                {{ range .Params.tags }}
+                <span class="inline-block bg-amber-200 text-amber-800 text-xs px-2 py-1 rounded mr-2 mb-2">
+                    {{ . }}
+                </span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </header>
+
+        <!-- Article content -->
+        <div class="p-6">
+            {{ if .Params.description }}
+            <div class="bg-blue-50 border-l-4 border-blue-400 p-4 mb-6">
+                <p class="text-blue-800 font-medium">{{ .Params.description }}</p>
+            </div>
+            {{ end }}
+            
+            <!-- Main content -->
+            <div class="prose prose-lg max-w-none">
+                {{ .Content }}
+            </div>
+            
+            <!-- Document navigation -->
+            {{ if or .NextInSection .PrevInSection }}
+            <nav class="mt-12 pt-6 border-t border-gray-200" aria-label="document navigation">
+                <div class="flex justify-between items-center">
+                    {{ if .PrevInSection }}
+                    <a href="{{ .PrevInSection.Permalink }}" 
+                       class="flex items-center text-amber-600 hover:text-amber-700 font-medium">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                        </svg>
+                        <div class="text-left">
+                            <div class="text-xs text-gray-500">Previous</div>
+                            <div class="truncate max-w-xs">{{ .PrevInSection.Title }}</div>
+                        </div>
+                    </a>
+                    {{ else }}
+                    <div></div>
+                    {{ end }}
+                    
+                    {{ if .NextInSection }}
+                    <a href="{{ .NextInSection.Permalink }}" 
+                       class="flex items-center text-amber-600 hover:text-amber-700 font-medium">
+                        <div class="text-right">
+                            <div class="text-xs text-gray-500">Next</div>
+                            <div class="truncate max-w-xs">{{ .NextInSection.Title }}</div>
+                        </div>
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </a>
+                    {{ end }}
+                </div>
+            </nav>
+            {{ end }}
+        </div>
+    </article>
+
+    <!-- Related documents -->
+    {{ if .Params.publication }}
+    <section class="mt-12">
+        <h3 class="text-xl font-serif font-bold text-gray-800 mb-6">More from {{ .Params.publication }}</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {{ range first 3 (where .Site.RegularPages "Params.publication" .Params.publication) }}
+                {{ if ne .Permalink $.Permalink }}
+                <div class="bg-white rounded-lg shadow-md p-4 border border-gray-200 hover:shadow-lg transition-shadow">
+                    <h4 class="font-semibold text-gray-800 mb-2">
+                        <a href="{{ .Permalink }}" class="hover:text-amber-600">{{ .Title }}</a>
+                    </h4>
+                    {{ if .Date }}
+                    <p class="text-sm text-gray-500 mb-2">{{ .Date.Format "January 2, 2006" }}</p>
+                    {{ end }}
+                    {{ if .Summary }}
+                    <p class="text-sm text-gray-600">{{ .Summary | truncate 100 }}</p>
+                    {{ end }}
+                </div>
+                {{ end }}
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</div>
+{{ end }}

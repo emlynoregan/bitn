@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+    <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+    <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <!-- RSS Feed -->
+    {{ range .AlternativeOutputFormats -}}
+        <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end -}}
+    
+    <!-- JSON-LD structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ArchiveComponent",
+        "name": "{{ .Site.Title }}",
+        "description": "{{ .Site.Params.description }}",
+        "creator": {
+            "@type": "Person",
+            "name": "{{ .Site.Params.compiler }}"
+        },
+        "dateCreated": "1845",
+        "dateModified": "2016",
+        "about": {
+            "@type": "Place",
+            "name": "Burra, South Australia"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+    <!-- Header -->
+    {{ partial "header.html" . }}
+    
+    <!-- Main content -->
+    <main role="main">
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+    
+    <!-- Search functionality -->
+    {{ if .Site.Params.enableSearch }}
+        <script src="{{ "js/lunr.min.js" | relURL }}"></script>
+        <script src="{{ "js/search.js" | relURL }}"></script>
+    {{ end }}
+    
+    <!-- Analytics -->
+    {{ if .Site.GoogleAnalytics }}
+        {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+</body>
+</html>

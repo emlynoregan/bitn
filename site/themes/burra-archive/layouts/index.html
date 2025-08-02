@@ -1,0 +1,132 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+    <!-- Hero section -->
+    <section class="bg-gradient-to-r from-amber-50 to-amber-100 rounded-lg p-8 mb-12 text-center">
+        <h2 class="text-3xl font-serif font-bold text-gray-800 mb-4">
+            Welcome to the {{ .Site.Params.archiveTitle }} Archive
+        </h2>
+        <p class="text-lg text-gray-700 mb-6 max-w-3xl mx-auto leading-relaxed">
+            Explore {{ .Site.Params.totalDocuments }} historical documents spanning {{ .Site.Params.dateRange }}, 
+            meticulously compiled by {{ .Site.Params.compiler }}. This digital archive preserves 
+            over a century of Burra's newspaper coverage, making it searchable and accessible 
+            for researchers, genealogists, and history enthusiasts.
+        </p>
+        <div class="flex flex-wrap justify-center gap-4">
+            <a href="/publications/" 
+               class="bg-amber-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-amber-700 transition-colors">
+                Browse by Publication
+            </a>
+            <a href="/timeline/" 
+               class="bg-white text-amber-600 border-2 border-amber-600 px-6 py-3 rounded-lg font-medium hover:bg-amber-50 transition-colors">
+                View Timeline
+            </a>
+            <a href="/search/" 
+               class="bg-gray-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-gray-700 transition-colors">
+                Search Archive
+            </a>
+        </div>
+    </section>
+
+    <!-- Featured content grid -->
+    <section class="mb-12">
+        <h3 class="text-2xl font-serif font-bold text-gray-800 mb-8 text-center">Archive Highlights</h3>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Publication overview card -->
+            <div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-amber-600">
+                <h4 class="text-xl font-semibold text-gray-800 mb-3">Multiple Publications</h4>
+                <p class="text-gray-600 mb-4">
+                    Coverage from various newspapers including SA Register, Record, 
+                    Burra Broadcaster, and more, providing diverse perspectives on local events.
+                </p>
+                <a href="/publications/" class="text-amber-600 hover:text-amber-700 font-medium">
+                    Explore Publications →
+                </a>
+            </div>
+
+            <!-- Date range card -->
+            <div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-blue-600">
+                <h4 class="text-xl font-semibold text-gray-800 mb-3">Historical Span</h4>
+                <p class="text-gray-600 mb-4">
+                    From 1845 to 2016, witness Burra's transformation through major historical periods 
+                    including mining booms, world wars, and modern development.
+                </p>
+                <a href="/timeline/" class="text-blue-600 hover:text-blue-700 font-medium">
+                    View Timeline →
+                </a>
+            </div>
+
+            <!-- Research value card -->
+            <div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-green-600">
+                <h4 class="text-xl font-semibold text-gray-800 mb-3">Research Value</h4>
+                <p class="text-gray-600 mb-4">
+                    Invaluable for genealogical research, local history studies, and understanding 
+                    South Australian regional development patterns.
+                </p>
+                <a href="/about/" class="text-green-600 hover:text-green-700 font-medium">
+                    Learn More →
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent additions or featured documents -->
+    <section class="mb-12">
+        <h3 class="text-2xl font-serif font-bold text-gray-800 mb-8 text-center">Featured Documents</h3>
+        
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6">
+                <p class="text-gray-600 text-center mb-6">
+                    Discover some of the most significant documents in our collection, 
+                    each telling a unique story of Burra's rich history.
+                </p>
+                
+                <!-- This will be populated with actual documents once content is processed -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="border border-gray-200 rounded-lg p-4">
+                        <h5 class="font-semibold text-gray-800 mb-2">Early Mining Era</h5>
+                        <p class="text-sm text-gray-600 mb-3">
+                            SA Register coverage from 1845-1876, documenting the copper mining boom 
+                            that put Burra on the map.
+                        </p>
+                        <span class="inline-block bg-amber-100 text-amber-800 text-xs px-2 py-1 rounded">
+                            1845-1876
+                        </span>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-4">
+                        <h5 class="font-semibold text-gray-800 mb-2">Modern Era</h5>
+                        <p class="text-sm text-gray-600 mb-3">
+                            Contemporary coverage from the Burra Broadcaster, showing the town's 
+                            evolution into a heritage tourism destination.
+                        </p>
+                        <span class="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
+                            1991-2016
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="text-center mt-6">
+                    <a href="/publications/" 
+                       class="inline-block bg-amber-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-amber-700 transition-colors">
+                        Browse All Documents
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About the compiler -->
+    <section class="bg-gray-50 rounded-lg p-8 text-center">
+        <h3 class="text-2xl font-serif font-bold text-gray-800 mb-4">About the Compiler</h3>
+        <p class="text-gray-700 max-w-2xl mx-auto leading-relaxed">
+            This archive represents the meticulous research work of <strong>{{ .Site.Params.compiler }}</strong>, 
+            who dedicated significant effort to collecting, organizing, and preserving these historical 
+            newspaper references. The digital preservation ensures this valuable research remains 
+            accessible for future generations of researchers and community members.
+        </p>
+    </section>
+</div>
+{{ end }}

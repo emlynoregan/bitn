@@ -1,0 +1,3337 @@
+---
+date: '1985-01-01T00:00:00'
+end_year: 1987
+extraction_method: LibreOffice + python-docx
+original_filename: 1985-87 Northern  Argus .doc
+paragraph_count: 1660
+publication: Unknown Publication
+start_year: 1985
+tags:
+- unknown-publication
+- decade-1980s
+- period-1985-1987
+- 1980s
+title: 1985-87 Northern  Argus .doc
+total_characters: 261227
+type: article
+---
+
+CXV, 8020, 21 August 1985, page 1
+
+Fire at Jennison’s in Burra
+
+On Sunday morning fire caused extensive damage to Jennison’s Tyre Services. The alarm was raised by a passer-by at 5.52 a.m. The local MFS and six CFS volunteers attended. They were able to contain the fire in the eastern section of the building and bring it under control in an hour. The office area was water and smoke damaged, but the tyre area was saved. Unofficial estimates of damage are put at several hundred thousand dollars. [Two photographs of the aftermath.]
+
+CXV, 8020, 21 August 1985, page 23
+
+Obituary. George Hiles Cockrum of Mt Bryan died last week. He was secretary of the Burra Senior Citizens for some years. [Born 16 June 1904, Adelaide: buried Burra 14 August 1985.]
+
+Marriage. Salisbury Uniting Church, 24 August
+
+Debbie Denton, daughter of Ian & Jenny Denton of Farrell Flat, will marry Chris Bishop.
+
+Birth. To Rosemary & John Taylor, a son.
+
+Burra Scouting Movement has arranged a Family film night on Friday at BCS: Hills Angels.
+
+The Church of England annual dinner dance was held last Friday in the Burra Town Hall.
+
+Burra Town Hall has a new coat of paint.
+
+Women’s Agricultural Bureaux held a congress at Burra Town Hall last week. There were 175 delegates from SA & NSW. Freda Pink of Burra was given an award for services to the community over the past ten years. Freda id the Regional Councillor for the Mid North and editor of the quarterly WAB Newsletter.
+
+A Public Meeting is called for the Civic Centre on Thursday to begin plans for Burra’s float in the Jubilee 150 procession in Adelaide on New Year’s Eve.
+
+Wesley College, Glen Waverley, Victoria, 23 Year 9 & 10 students presented the play Our Town in Burra Town Hall last week.
+
+Accident. A car and semi-trailer collided just south of Mt Bryan at 11 p.m. last Friday. One person from the car received minor injuries.
+
+CXV, 8021, 28 August 1985, page 18
+
+Mr & Mrs Percy Thomas celebrated their diamond wedding.
+
+[Married Kooringa Methodist Church 27 August 1925.]
+
+Birth. To Ruth & Gil Strachan of ‘The Gums’, a son.
+
+Burra Creek has been flowing for several weeks after nothing for some three years.
+
+Greg Drew of the Department of Mines and Energy will conduct another Mine Walk on the second weekend of the school holidays, Sunday 8 September at 1 p.m.
+
+Burra Cubs look like having to go into recess after the resignation of their Akela, Donna Salter. The Commissioner will visit Burra on 17 June to talk to parents.
+
+Students of Brian Reader’s Class of costume making will show their period costumes at BCS on Thursday 19 September at 8 p.m. The idea is to show people what they might make for events in Jubilee 150.
+
+A Second Day of Fishing is being organised at Burra Swimming Pool for 22 September. Admission will be free, but there is a 50 cent charge for each fish caught.
+
+A Burra-Clare Barrow Push is being organised for 13 October.
+
+A Public Meeting at Burra Civic Centre last Thursday decided a float would be built for the Jubilee 150 Procession in Adelaide on New Year’s Eve. Nic Van Buuren was elected Chairman and Roger Boehm is the Secretary and Artistic Director. [A committee is also listed.] Plans are to build a replica of Morphett’s Pumphouse on a semi-trailer. Support will be provided by miners walking with wheelbarrows, but ideas are still coming in.
+
+Advt. Barry & Maureen Wright, 1 Young Street. Dealers in Wool, Skins and Stock Feed.
+
+Buyers for Adelaide Wool.
+
+CXV, 8022, 4 September, 1985, MISSING
+
+CXV, 8023, 11 September 1985, page 23
+
+The Burra Show will be opened on 12 October by John Olsen, Leader of the Opposition.
+
+[An article then outlines some of the sections and attractions.] Burra Rural Youth Club is organising a licensed disco in the Burra Town Hall on Show Night. The Burra Yacht Club will hold its annual regatta on Burra Creek on Sunday 13 October.
+
+Greg Drew’s Mine Walk on Sunday drew a crowd of about 50. After a thorough investigation of the mine site, the group moved on later in the afternoon to inspect the smelts paddock, where the process was described and many interesting stories told of its heyday.
+
+Marriage. St Mary’s Burra, recently
+
+Trevor Alderson married Sandra Leibhardt.
+
+Burra’s Venturers are off to the Flinders Ranges on a camp this week, working towards their Queen’s Scout Award.
+
+CXV, 8024, 18 September 1985, pages 1 & 6
+
+Copper Interpretation Centre
+
+Rumours say that the Copper Interpretation Centre, which was the major component of the Jubilee 150 Burra heritage Town Project, is dead. The project was announced by the Premier in May 1983 as one of three major Jubilee 150 projects – the others being the Port Adelaide Maritime Museum and the restoration of Fort Glanville. All were to be funded by a $2 million grant from the Commonwealth Government and Burra’s share was to be $470,000.
+
+From the start controversy has dogged Burra’s plans to have a Copper Interpretation centre – a concept of Ian Auhl and adopted by the Burra Burra DC. The Heritage Conservation Branch requested the Department of Environment and Planning to conduct a feasibility study and that favoured spending the major part of the allocation on a selection of heritage projects instead of just on the Copper Interpretation Centre. The Burra Burra DC voted unanimously to go on with the original concept.
+
+The steering Committee was chaired by Barry Rowney of the Heritage Conservation Branch, who became the working party chairman. There were representatives from the Heritage Conservation Unit., the History Trust of SA, the Department of Tourism, the Department of Mines and Energy, the Burra Burra DC and Burra National Trust.
+
+The Burra Burra DC had some years earlier purchased the Salvation Army Citadel with the idea of its being developed as the Copper Interpretation Centre. An officer from the Heritage Conservation Branch deemed this to be unsuitable because of its ‘social atmosphere’ and geographic location. Other sites then considered were:
+
+A new building at the Bon Accord Mine site.
+
+A new building adjacent to Peacock’s Chimney.
+
+A new building on the plateau on the eastern side of the Mine Pool.
+
+A new building where Morphett’s Pumphouse boiler house stood.
+
+Designs were drawn up and the first completed were costed at about twice the available funds. Amended designs cut the building virtually in half, gave minimal space to administration, but retained an adequate gallery area and the plateau site was chosen. The working party approved this and Barry Rowney of the Heritage Conservation Branch indicated verbally that the Branch would recommend approval.
+
+Tenders were called and the lowest received was about 100% over the estimated cost. The working party immediately moved to vary the proposal slightly and move it to the boiler house site with a building the same size and similar silhouette to the former boiler house. Two architects have indicated their interest and belief that this building could be achieved within budget and could be completed by the target date of October 1986.
+
+Rumours of the scuttling of the whole project and for the reallocation of the funds elsewhere have been circulating for two weeks. The Burra Burra DC has sought urgent answers from the Premier. The Department of Mines and Energy has been so supportive of the idea that it has already contributed $25,000 to be concentrated on Morphett’s Pumphouse and surrounds. Burra’s Tourist Officer Jenny O’Connor has joined the Council in lobbying fiercely for the project and to counter the claim that Burra has been slow to react - though no meetings were held between January 1984 and November 1984 and then only at the insistence of the Burra Burra Dc Chairman James Hawker. The allegation that there is now insufficient time to complete the project is denied by the architects. Of concern id the allegation that the Heritage Conservation Branch, which has been closely associated with the project, will not now approve building on the boiler house site. It has been alleged that the head of the Heritage Conservation Branch, Jon Womersley, when asked if his Department had any alternatives to offer, said, ‘No’.
+
+CXV, 8024, 18 September 1985, page 17
+
+Birth. To Julie-anne & Anthony Lloyd, a son, Christopher James.
+
+Obituary. Helena Kellaway, wife of Stan Kellaway, died during the last week.
+
+[Identity of the deceased is not easy to trace, but she appears likely to have been born as Ada Lena Frahm 14 February 1915 at Bower. If so she married Clarence Victor Siostrom in 1934 under the name Helean Ida Frahm and was widowed in 1954. She subsequently became Stanley Kellaway’s second wife.]
+
+Rosie Lloyd has spent a week training at the Australian Institute of Sport in Canberra on her chosen area of the 400 m hurdles.
+
+Burra Senior Citizens have decided to plant a section of the Burra Creek bank opposite the Civic Centre as their Tidy Towns project.
+
+The Caring & Sharing Group begins again on 24 September when a counsellor from Marriage Guidance will speak.
+
+CXV, 8024, 18 September 1985, page 18
+
+BCS. Agricultural Studies students have been successful at the Royal Adelaide Show in the led Steer Competition. The Murray Grey came 4th on the hoof and 1st on the hook in its section and handler Stephen Kellock came 3rd in the steer handlers’ class. The Aberdeen Angus was not placed on the hoof, but was 2nd on the hook. The poll shorthorn came 5th in the heavyweight class on the hoof, but 2nd best on the hook.
+
+Burra Burra DC. Allan Dwyer has resigned to take up a position as Deputy Town Clerk at Broken Hill in November. He took up his duties as District Clerk at Burra in November 1984.
+
+A Tourism Seminar for local government bodies will be held at Burra on 24 September, hosted by the Mid North Tourist Association. Jim Hullick, Secretary General of the Local Government Association, is the key speaker. Part of the day’s activities will be a guided bus tour of Burra’s attractions.
+
+Burra’s Venturers’ expedition to the Flinders Ranges id reported in c. 3⁄4 column.
+
+The Barrier Highway. A tender for $2.5 million has gone to R.K. & B.J. Matulick Pty Ltd to construct 14.5 km of road from 3.5 km south of Burra to 5.5 km south of Hanson plus about 0.6 km of the Clare-Hanson Road at its junction with the Barrier Highway.
+
+CXV, 8024, 18 September 1985, page 19
+
+Burra Hospital. The 108th Annual Report was presented by the Chairman of the Board Mr Harry Quinn.
+
+In the past year stage one of the Fire Protection Project has been completed. This is a major undertaking. In the coming year the laundry hot water system will be improved and a safety verandah balustrade erected. Advances totalling $639,601 were needed over the year and this was within the allocated budget.
+
+[Organisations and individuals who contributed during the year were thanked, as were Meals on wheels and the sewing circle led by Mrs F. Scroop.]
+
+The Aged Hostel Accommodation Committee has begun steps to get hostel-type accommodation for the aged at Burra and an appeal is likely to be launched to supplement costs.
+
+Harry Quinn was re-elected Chairman with Ron Thamm as Vice-Chairman. John Maidment replaced Michael Scholz who resigned from the Board.
+
+CXV, 8025, 25 September 1985, MISSING
+
+CXV, 8026, 2 October 1985, page ?
+
+Malowen Lowarth, Cottage 11 Paxton Square will be open to the public for the first time over the October long weekend. The name is Cornish for Hollyhock Garden. The National Trust set up the interior as it would have been some 130-140 years ago. Dirt floors have been laid, canvas ceilings installed and appropriate furnishings collected and put in place. After the long weekend it will be opened on a regular basis.
+
+CXV, 8026, 2 October 1985, page ?
+
+Ian Auhl writes a letter to the editor commenting on the Copper Interpretation Centre Crisis.
+
+If Burra loses the Jubilee 150 grant it threatens the viability of the town itself as a tourist town. The Copper Interpretation Centre was intended to interpret SA’s copper mining and place SA’s copper mining towns in a world perspective. Burra was recognised as the appropriate place for this by the Board of Jubilee 150 and as a result of a concept by R.J. Noye of Clare and lobbying by myself and the Burra Burra DC a grant of $270,000 was made to establish the Copper Interpretation Centre. The Centre would give SA a genuine historic town to show visitors - SA’s counterpart at Maldon in Victoria – and not to Swan Hill or Sovereign Hill. Burra is the genuine article. ‘Surely Burra will protest en masse to having its money, honestly obtained, dishonestly sidetracked to some other project.’
+
+Perhaps the time has come got the town to strike against the delaying tactics of a government department ‘which seems to have decided from the very beginning of negotiations that it knows what it best for Burra’.
+
+I have protested personally to the Premier and to the State Ombudsman with no tangible results. Other concerned people in Clare, Burra and Adelaide have also protested.
+
+‘The net result of such protests is not a genuine attempt to find a satisfactory home for the Copper Centre, but to cease negotiations with Burra Council and to re-allocate the grant altogether.’
+
+CXV, 8026, 2 October 1985, page ?
+
+Burra Community Library celebrated its 7th birthday on 25 September. A visit of author Rod Martin was the highlight.
+
+CXV, 8026, 2 October 1985, page ?
+
+Burra Copper Interpretation Centre
+
+Premier John Bannon has called for a report on the Copper Interpretation Centre from the Minister of Environment and Planning. The Copper Interpretation Centre is the major component of the Burra Heritage Town Jubilee 150 project. The Council has repeated a request for an urgent meeting between the Burra Heritage Town Project and the executive committee of the Jubilee 150 Board to resolve the matter.
+
+Council is seeking to present and demonstrate a viable alternative within the project and to enable members of the Board and the working party to meet for discussions. It considers it unfortunate and unwarranted for the Jubilee 150 Board to consider the reallocation of a portion of the monies already granted to Burra for the Heritage Town Project. The cost over-run of $64,000 on the Jubilee 150 job creation scheme at Paxton Square cottages was met by Council in the first instance. A special meeting of Council was called for Monday 30 September to discuss the situation and an urgent reconvening of the working party has been called for. A petition opposing the reallocation of the monies has been organised.
+
+CXV, 8026, 2 October 1985, page ?
+
+The Northern Automotive Restoration Club will conduct its fourth annual rally over the October long weekend, with Burra as its destination.
+
+CXV, 8026, 2 October 1985, page 9
+
+The Mid North Tourist Association Seminar The Role of Local Government in Tourism, was held in burra on 24 September. [It is reported in a little more than two columns.]
+
+CXV, 8026, 2 October 1985, page 17
+
+Burra’s October Long Weekend
+
+John Olsen will open the 1985 Show. Several new sections will be featured. A shearing competition returns after a break of some years and there will be a blade shearing demonstration. A trophy will be awarded for the best invention. A junior grain and fodder section has been added.
+
+The National Trust will have its three fire engines on display.
+
+Paul O’Bryan & His Country & Western Band will play throughout the day.
+
+On Saturday night Burra Rural Youth will hold a licensed Show Disco in the Burra Town Hall.
+
+Burra Yacht Club Regatta is on Sunday 13 October.
+
+11 a.m. Junior Yacht Race for those aged 12 & under.
+
+12 noon. Senior Yacht Race for those 15 and under.
+
+1 p.m. Ladies’ Yacht Race.
+
+3 p.m. Open Yacht Race.
+
+There will also be a strawberry eating contest for those aged 12 and under and the Clare-Burra Barrow Push will arrive at about 2 p.m., with the junior section coming from Farrell Flat.
+
+The Copperman Competition will be held and involves (among other things) two crossings of the creek without getting wet.
+
+At night there will be a cabaret at the Town Hall.
+
+On Monday all the National Trust sites will be open and staffed.
+
+CXV, 8026, 2 October 1985, page 18
+
+Birth. To Helen & Garry Earle on 25 September, a daughter, Amanda Kate.
+
+The Girl Guides held a Fashion Parade & Luncheon in the Sports Complex on Tuesday.
+
+The Uniting Church Fete will be held on 5 October.
+
+Dalgety Bennett Farmers’ new premises were opened recently by well-known merino identity Ron Pearse, former manager of the now closed Koonoona Merino Stud. A crowd of more than 200 attended the new air-conditioned building next to the Burra Hotel. A feature of the building is its façade in bluestone taken from the old Farmers’ Union building that was on the same site. It and the bullnosed verandah are both in keeping with Burra’s heritage. Branch manager Andrew Butler said the new premises would be an asset to the rural community in Burra and district. It would offer a bigger and better showroom and improved product display. John Secomb, the Dalgety Bennetts Farmers’ northern regional manager, said that when he started in Burra with Oates Ltd in 1960 there were five stock agents in town. Today there were two. Noel O’Brien, the firm’s general manager, also spoke at the opening.
+
+CWA Warnes Group held its 40th anniversary lunch at the Burra Civic Centre on 26 September. Burra Branch President Mrs Irene Hirschausen welcomed the visitors. [Details and some history of CWA activities extend for more than a column.]
+
+CXV, 8027, 9 October 1985, page 5
+
+Letter to the Editor from Helen Stockman
+
+I must add my voice to those already raised regarding the reallocation of $210,000 set aside for the Copper Interpretation Centre. It seems the Jubilee 150 Board held that:
+
+Burra was slow to react to the crisis
+
+There was not now time to complete the project.
+
+It was only at the stage that tenders were received that the working party became aware of the architect’s gross miscalculations and an approach was then immediately made to the Jubilee 150 Board to vary the proposal slightly – for a smaller building on the boilerhouse site rather than the larger one on the plateau.
+
+The working party immediately consulted two architects who believe that the project as revised can be completed within budget and in the time available. The official opening was always scheduled for October 1986. The reallocation of the money has been done without conferring with Burra and in unseemly haste.
+
+When you employ an architect recommended by the Heritage Branch itself you expect the job is being done properly and it is quite unfair for Burra to be punished for that man’s mistake. Objections to the proposed site by the Heritage Conservation Unit should be investigated thoroughly. To be totally purist about the ruins there is to let them decay until they finally collapse and that is not acceptable to me or to many others in Burra. Enthusiastic support has been given by the Department of Mines and Energy. Burra is not accustomed to making a botch of heritage based projects.
+
+CXV, 8027, 9 October 1985, page 21
+
+The Library Association of Australia (SA Branch) held its 1985 Country Conference in Burra on 4 & 5 October. Many of those attending stayed in Paxton Square. Delegates enjoyed a conference dinner at the Old Jinker Restaurant and a tour of Burra’s historic sites.
+
+Burra Pony Club celebrates its 10th birthday this year and is planning a horse show on Aberdeen Oval on 10 November to celebrate. Twenty-seven events are planned. The club secretary is Bronwyn Steele.
+
+Burra Burra Dc is currently working on the Copperhouse bypass road. To counter dust problems the road will be oiled past the saleyards area and it is hoped to oil the rest of it that is being converted to open surface standard for the summer.
+
+Burra Uniting Church Fete on Saturday was well attended.
+
+Obituary. Miss Dorothy Cornelius died in Adelaide on 5 October.
+
+[Born Dorothy Cornelius 9 January 1924 Barmera: died 2 October 1985 RAH, Adelaide.]
+
+Obituary. Mr Greg Lomman.
+
+[George Fredrick Jehu Lomman born 11 May 1917 Booborowie: died 7 October 1985.]
+
+Obituary. Miss Dorothy Hogan.
+
+[Probably Dorothea Josephine Hogan born 19 January 1911, Redruth: died 4 October 1985 RAH.]
+
+CXV, 8028, 16 October 1985, page 1
+
+Clare-Burra Barrow Push, 13 October
+
+In the senior section Burra breathers came in 1st, winning $300. Daydream from Broken Hill came 2nd and received $200. Gladstone Cowboys were 3rd.
+
+In the Junior Section (Farrell Flat-Burra) the winners were the Saints Challengers from Clare, who won $100 and The Heroics, also from Clare, were 2nd.
+
+Eleven teams have so far registered for the 1986 Broken Hill-Burra Barrow Push and eight others have indictaed interest. [Photo of Burra breathers on the road.]
+
+CXV, 8028, 16 October 1985, page 16
+
+Burra Yacht Club Regatta
+
+Commodore Peter Reilly was pleased with the number of entries.
+
+In the junior race 1st place went to Bakery Bunyip, followed by Nautyless, Mermaid and then Milko.
+
+In the senior race Nautyless came 1st followed by Super Cat, Bakery Bunyip and Swagman.
+
+In the women’s race Nautyless again came 1st followed by Super Cat and Bakery Bunyip.
+
+In the open event Nautyless of Mt Bryan was again the winner followed by Pink Panther, Ozzie 84 and Bakery Bunyip.
+
+Local organisations did well catering for the crowd.
+
+The Copperman Event involved rowing a canoe 200 m, eating some strawberries and cream, sitting on a vertical drum and paddling across the creek before walking across the creek on two ropes. Brenton Gambling was the winner with Ian Kleinig as runner-up.
+
+The Council Overseer Case
+
+On 11 October the Industrial Court ruled that Mr Ronald Arthur Moreland be reinstated as Overseer by the Burra Burra DC and that he be paid his wages from the time of his dismissal to his reinstatement. A special meeting of Council was called for 15 October to discuss the judgement.
+
+Jubilee 150 Funding
+
+Burra Burra DC delegation met with the Jubilee 150 Board Executive Committee on 10 October and were told that the Board had recommended that funds earmarked for the Copper Interpretation Centre be withdrawn. The Burra Burra DC Chairman has requested an urgent meeting with the Premier, the Chairman of the Jubilee 150 Board and a representative from the Department of Environment and Planning – Heritage Conservation Branch.
+
+Obituary. Florrie Pryzbilla [sic: for Przibilla] formerly of Burra North died in Adelaide last week.
+
+[Born Florence Grace Bass 14 May 1899 Mt Bryan: died 10 October 1985. Married Albert Edward Przibilla 1930.]
+
+Alison Kerr & Allan Dwyer will be farewelled this week. Allan goes to take a position in Broken Hill as Deputy Town Clerk and Alison has a position with the Thebarton City Council.
+
+CXV, 8028, 16 October 1985, page 17
+
+Burra Show. After early drizzle the sun shone brightly for Burra’s 108th Show.
+
+[This was not the 108th Burra Show. The correct figure cannot be obtained by subtracting 1877 from the present year. The first Show was held in 1877, but there were no shows from 1886 to 1893, apparently due to apathy, which provoked considerable comment in the local paper at the time. The 1897 Show was cancelled due to the appallingly bad season and the 1914 Show was cancelled due to the combined effects of the outbreak of World War I and a devastating drought. (The event returned in 1915.) Twenty-five years of Shows from 1915-39 ended in 1940 when the Show was cancelled due to World War II. The Show remained suspended until 1946, since when it has been an annual event.]
+
+The Society’s President Jock Duncan was well pleased with the attendance. John Olsen Leader of the Opposition officially opened the show. This year some asphalt around the pavilions improved the area for visitors. Cheree Deverson was Miss Mini Show Girl. Sonya Fuller was winner in the Sub-Junior Section with Alison Reed in the Junior Section and Vanessa Pearce taking the Miss Show Girl title. [Photo.]
+
+Brophy’s Boxing Troupe was popular.
+
+Jim Robinson won the shearing competition.
+
+Phil Venning gave two blade shearing demonstrations.
+
+The new inventions section was won by Melvyn Pearce with a sheep feeder.
+
+[Results of various sections are then printed in c. 13⁄4 columns.]
+
+The Burra Rural Youth disco in the Town Hall in the evening was successful.
+
+BCS. Andrew Burns gained the best results for BCS students in the Westpac Maths Competition.
+
+Tim Stockman received highest marks for BCS Year 7 students in an Australia-Wide Science Competition.
+
+CXV, 8029, 23 October 1985, page ?
+
+Burra Burra DC at a special meeting on 15 October decided to lodge an appeal against the recent decision of the Industrial Court in favour of reinstating Ronald A. Moreland.
+
+CXV, 8029, 23 October 1985, page 17
+
+Burra Burra DC has received a grant of $54,000 under the Federal Government’s Community Employment Program. It will be used on the Market Square parking facilities and should employ five people for 23 weeks. The Council has contributed $46,892.
+
+CXV, 8029, 23 October 1985, page 18
+
+Burra National Trust has organised a bus trip to Gladstone Gaol, the Yesterday Museum of Costume and the early settler’s cottage and town tour of Orroroo.
+
+Obituary. Mrs Ellen Ryan of Burra died in Adelaide last week aged 95.
+
+[Born Ellen Mary McCabe 8 February 1889 Broken Hill: died 17 October 1985 Cowandilla.]
+
+Marriage. This weekend Karen Lynch married John Redden.
+
+Michael, Anne-Marie & Heidi Matuschka are moving soon to Crystal Brook. While here they have been involved in golf, bowls, Lions and the National Trust, among other interests.
+
+Jump Rope for Heart was held at BCS earlier in the year and raised over $1,800. Karen Hammond raised the most with $211.
+
+Jubilee 150 Project
+
+The working party reconvened on Friday.
+
+Work remains to be done on the $30,000 Bon Accord Project.
+
+$80,000 has been set aside for the Morphett’s Enginehouse along with $25,000 from the Department of Mines and Energy for the same site. The building will be re-roofed, stonework repaired and re-pointed, the floors replaced and displays installed. A partial re-timbering of the shaft is also contemplated. The $210,000 earmarked for the Copper Interpretation Centre has been re-allocated by the Jubilee 150 Board.
+
+SA Country Choral Association Choir will perform Handel’s Messiah in St Mary’s. John Hall will play the organ and Boyd Dawkins will conduct the choir on Sunday 10 November at 7 p.m. Soloists will be David Galliver (tenor), Rosemary Nairn (contralto), June Klingberg (contralto) and Celine Egar (soprano). Admission is free, but a donation of $4 per adult is suggested.
+
+CXV, 8030, 30 October 1985, page 18
+
+Gulf Road Medallion
+
+A competition is being held to design a medallion to commemorate the bullockies and muleteers who carted ore, coal and other materials on the Gulf Road between Burra and Port Wakefield. It closes on 20 November. The design must be for both sides of the medallion and must measure 200 mm in diameter. (The final medallion will be 50 mm in diameter.) Contact David Bannear for further information.
+
+Burra SES is to be restructured. Mr Wally Charles’ appointment as Controller has been terminated and Steve Woolley is acting Controller. Burra Burra DC decided on 21 October to buy a suitable SES vehicle and in the short term to house the group’s vehicle and equipment in the Christian Bible Chapel shed.
+
+Accident. A motor vehicle and a section car collided at the Farrell Flat level crossing on 22 October. The section car driver was slightly injured and the other driver was unhurt.
+
+The Sheet Metal Manufacturers’ Association of SA held its AGM in Burra. About 30 attended, staying in Paxton Square cottages.
+
+Neil Andrew Federal Member for Wakefield presented the Burra Girl Guides with an Australian Flag on 23 October. The Group was celebrating its 7th birthday.
+
+Burra Scouts will hold a Jamboree Jig at the Show Hall on 9 November to raise money for five scouts attending the 14th Scout Jamboree in Sydney at the end of the year. A three course meal will be followed by dancing to Jack Kleinig’s music.
+
+Marriage. This weekend. Robyn Spackman will marry Steven Meyer.
+
+Ash Thomas, the new doctor, his wife Katthy and daughter Bonnie are welcomed to Burra.
+
+David & Jenny Heath and daughter will soon move to Katherine, NT, where David will be manager of a branch.
+
+Scouts & Cubs bottle drive on 6 December.
+
+The Lewis Board of Management reports an occupancy rate of 83% for Paxton Square cottages for September.
+
+CXV, 8027 (2), 6 November 1985, page 18 Check this irregular numbering
+
+Marjorie & Perce Thomas celebrated their Diamond Wedding (60th) at Resthaven, Bellevue Heights on 24 August. The original wedding party was present for the occasion:
+
+Flower girl Joan Spangler nee Bown of Taperoo
+
+Bridesmaid Eva Wilks nee Thomas of Burra
+
+Bride & Groom, formerly of Burra
+
+Best Man Syd Brown, formerly of Burra.
+
+The late Rev. Edwin Smith officiated at Kooringa Methodist Church 27 August 1925.
+
+[The bride was born Daphne Marjorie Jean Bown.]
+
+[Check: Syd Brown may have been the bride’s brother Sydney Edward Bown.]
+
+Jennison’s Tyre Service
+
+Frank Fennell completed 25 years’ service with Jennison’s Tyre Service recently and celebrated with a barbecue on 24 August. He received a gold watch from Ray Jennison. From 1 November Jennisons have sold their tyre business to R.W. & G.R. Smedley who will trade as Burra Tyres. Frank Fennell will continue as an employee of Burra Tyres.
+
+The Heath Family will be farewelled at the Kooringa Hotel on 8 November.
+
+The Veteran & Vintage Motor Cycle Club of SA will visit Burra next weekend.
+
+Darren James has been doing well at cricket recently. Just over a week ago he scored 107 retired versus Booborowie and last weekend scored 109 retired versus Spalding.
+
+CXV, 8028 (2), 13 November 1985, page 18 Check this irregular numbering
+
+The Melbourne Cup Luncheon at Burra Town Hall on Tuesday was a great success. Rosemary Nairn and a band of singers entertained.
+
+Obituary. Ted Williams.
+
+[Edwin Thomas Williams born 12 April 1904 Ironmine: died 5 November 1985 Clare.]
+
+St Mary’s was full on Sunday night for the performance of Handel’s Messiah by the SA Country Choral Association Choir.
+
+Burra National Trust has reproduced the superb old calendar with pen and wash drawings of Burra’s early buildings for use in 1986.
+
+Accident. A car rolled over on the Burra to Booborowie road on 9 November and a 25-year-old farm hand was admitted to Burra Hospital with injuries sustained in the accident.
+
+Burra Pony Club’s 10th Anniversary Horse Show drew a crowd of c. 300. Club President Bill Keane was pleased with the response. Ray Wardle, the club’s inaugural President, opened the show. [Two photos.]
+
+Burra Scouts’ Jamboree Jig drew a good crowd. The three-course meal was followed by dancing, games and later a bonfire and sing-a-long. Five scouts and their leader Rob Letcher will leave for the Jamboree on 28 December. (Jason Taylor, Ben Letcher, Michael Day, Scott Gardner & Justin Fidock.)
+
+Mt Bryan’s Gala Weekend was a great success. About 400 attended. A street parade started with vintage cars, Son Wilsden & his Clydesdales, the Yankalilla Light Horse and Burra National Trust’s fire engines. A Back-to-School followed. This coincided with the centenary of the original school building, which is now the teacher’s residence. Ruth Stolte’s book Razorback Range Country was launched by the publisher Peter Cotton. The weekend also marked the 75th birthday of the Mt Bryan Soldiers’ Memorial Hall. On Saturday afternoon there were displays by the Yankalilla Light Horse, sheep dog displays and hayrides. Tim Butler of Radio 5CK compered the ball that night in the Soldiers’ Memorial Hall. Many attended in period costume. Ralph Oakley won the beard growing contest for those who started clean shaven on 3 August. Dave Parnell won the longest beard of all prize. Sunday’s combined church service was conducted by former resident Fr Laurie Quinn assisted by Fr Richard Morris, Rev. Malcolm Thomas and Fr Eugene Kelly. The United Light Brass Band supplied the music. A community lunch was followed by a Pleasant Sunday Afternoon compered by Marlene Richards of Hallett.
+
+CXV, 8029 (2), 20 November 1985, pages 1 & 2 Check this irregular numbering
+
+Market Square
+
+A petition with 570 signatures has called for a halt to any further installation of electricity poles in Market Square and for postponement of redevelopment work until an artist’s impression has been published in the press and a public meeting held to discuss proposals.
+
+The petition was organised by Burra National Trust and presented to Council by its President Mrs Maureen Wright. For some years the Council has had plans to underground the electricity, improve traffic flow and redesign parking. Although plans have been publicised they did not clearly show the position and design of the new lightin poles. The type of light pole has created concern. The standard goose-neck poles were deemed unsuitable for a heritage town and their position on proposed protuberances has also roused concern. In presenting the petition Mrs Wright spoke about Burra as a Heritage Town and urged the Council to reconsider the pole choice. Mr John Modra of the Highways Department spoke outlining the accepted standards and stressed that the safety factor. The funding arrangements were also outlined. Council accepted the petition and will discuss the situation at its executive meeting early this week. Meanwhile undergrounding of power lines is proceeding as there was general consensus that this was desirable. Other work has been halted.
+
+Plans were also produced at the meeting for the proposed Burra North deviation or Ludgvan Street Bypass. The Highways Department hopes to proceed with that project in the next financial year. [1986-87]
+
+[Photo of goose-neck poles in Commercial Street and the south side of Market Square.]
+
+CXV, 8029 (2), 20 November 1985, page 23 Check this irregular numbering
+
+Broken Hill-Burra Barrow Push 1986
+
+Plans are well under way for the West End-Toyota Great Barrow Push from Broken Hill to Burra according to Secretary Chris Reed. Teams will assemble at Broken Hill on 21 January. Team nominations close on 2 December. The recent Clare-Burra Barrow Push was a great success. Prizes for the 1986 Push:
+
+1st, $10,000
+
+2nd $1,000
+
+3rd $500
+
+There will also be a series of $1,000 prizes for the 1st Sporting Team, the 1st team over 40, the 1st team under 17, the 1st all female team and the 1st service club team.
+
+The Prime Minister has been asked to present the prizes and if he is able to accept he will be the first PM to visit Burra since Billy Hughes in 1924*. Burra breathers won the Clare-Burra Push.
+
+[*This claim is incorrect. W. Hughes visited twice as PM, on 28 August 1920 and 29 March 1922. After that there was a visit by S.M. Bruce in March 1925 when he was PM and from J.B. Chifley when he was PM in 1946.]
+
+The Mid North Regional Tourist Association had a three-day visit to Burra last week. Members of the Board had a dinner at the Old Jinker Restaurant. While in Burra the Board stayed at Paxton Square Cottages and had a tour of the town.
+
+CXV, 8030 (2), 27November 1985, MISSING Check this irregular numbering
+
+CXV, 8031, 4 December 1985, page 23
+
+Burra Pony Club bestowed life membership on two members during their recent Christmas dinner. Recipients were Mrs Shirley Thamm and Mr Bob Steele. Sixteen members attended the dinner.
+
+Burra’s Jubilee 150 Float is taking shape.
+
+[Photo of the model of Morphett’s Enginehouse being painted by Roger Boehm.]
+
+Mrs Florrie Scroop was presented with a sheaf of flowers at the Burra Hospital Ladies’ Auxiliary Gala Day at Burra Town Hall last Friday. In honour of her 50 years service to the auxiliary a brass plaque will be mounted in the foyer of the hospital.
+
+CXV, 8032, 11 December 1985, page ?
+
+Burra Barrow Birds find that due to unforeseen circumstances they need a replacement runner and a reserve. Anyone interested should contact Di. Day.
+
+CXV, 8032, 11 December 1985, page ?
+
+Market Square
+
+Following the recent petition the goose-neck poles in Market Square have been removed. At a meeting of the Burra Burra DC on Monday 9 December plans and an artist’s impression of the square were on display. Details of alternative lighting and its cost were also displayed. A public meeting on the matter will be held at the Civic Centre on Thursday 19 December at 8 p.m. Undergrounding of power lines continues.
+
+CXV, 8032, 11 December 1985, page 26
+
+Burra Hospital’s new secretary-manager, John Chilton, has been welcomed along with his wife Yvonne and children Kara (7) and Nathan (4). [Photo of John.]
+
+Weather. A storm struck Burra on Sunday 1 December. About 50 points fell in about ten minutes. At ‘The Gap’ 56 points fell and hail with it. A fire, probably caused by lightning burnt about 7 ha at ‘The Gap’.
+
+On Friday 6 December a ferocious storm hit Burra about midday causing some localised flooding. At Baldina Station 80 points fell in ten minutes, after which the rain gauge failed. Hail, some of it up to golf ball size accompanied the storm. Trees within two miles of the homestead were stripped of about half their foliage. Creeks rose rapidly. At the homestead many windows were smashed and paint was stripped from doors. A car had its windscreen and windows broken and the bodywork dented. The eastern road was blocked till about 5.30 p.m.
+
+Model T Ford enthusiasts visited Burra last weekend.
+
+BCS. Three students have been selected for the Australian All-Schools Championships in Perth 12-16 December. They are Rosie Lloyd, Graham Kessell and Craig McDowell.
+
+Marriage. At Aldgate on Saturday
+
+Amanda Cockington, daughter of Dudley & Jan Cockinton of Redcliffe Station, married Stephen Richards.
+
+Marriage. Novar Gardens on 21 December.
+
+Chris Lloyd, second daughter of Margaret & Don Lloyd, will marry Peter Fox.
+
+Ricky Loffler now works at the Burra branch of the State Bank.
+
+Robert van Gasteren is an apprentice with the local butcher John Maidment.
+
+Stephen Hoskins will begin a nursing course next year.
+
+Alison Cousins has a position with the public service in the New Year.
+
+Burra’s Festival of Carols will be held in the Hospital grounds on Sunday 15 December.
+
+BCS. The 60/40 Prom to end 1985 will be held in the Burra Town Hall on 18 December.
+
+Nick van Buuren is directing the construction of Burra’s Jubilee 150 float for the Adelaide procession on New Year’s Eve.
+
+CXV, 8033, 18 December 1985, page 18
+
+Market Square. An artist’s impression of the Market Square redevelopment is printed.
+
+Christmas in Burra
+
+Late night shopping will be on Thursday 19 December and on 24 December. On 19 December a film The Adventures of the Wilderness Family will be shown at the Town Hall. On Christmas Eve Blackbeard starring Peter Ustinov will be screened. Both are free per favour of Burra Traders. Father Christmas will come at 7.30 p.m. Christmas Eve and there will be a hurdy-gurdy and a do-nut stand.
+
+Burra Community Library has had a four year project to list all obituaries from 100 years of the Burra Record. On Wednesday the librarian Colin Fidock said typing up about 6,000 entries was well under way. It is planned to publish it as a Jubilee 150 project.
+
+Gary & Jan Donaldson have opened a gallery in Burra named Cousin Jack’s. It features arts and crafts from SA ranging from studio pottery by Peter Anderson and Alison Cooper to paintings by local artists Pat Brereton and Ken Field. Also featured are Margaret Warwick (enamellist), Martin Corbin (wood craftsman) and Peter Hart (coppersmith). The gallery is situated in an old lodge hall owned by Gary Donaldson.
+
+[The former Scout Hall and Buffalo Lodge in Market Street.]
+
+Fire. Lightning started a fire north of Booborowie on Sunday, adjacent to George Dare’s home. It was controlled after burning 5-10 acres.
+
+The Broken Hill-Burra Barrow Push is on in five weeks’ time and sixteen teams have nominated.
+
+Gary Williams will leave Burra at the end of the year and he was farewelled at the indoor hockey grand finals last Tuesday night.
+
+Cathy Jones, who has been the Girl Guide leader for some time, has taken a job in Adelaide next year.
+
+The Hospital Ladies’ Auxiliary Gals Day recently raised c. $2,000.
+
+Obituary. Doris O’Bryan died on 7 December.
+
+Obituary. Mr Buck Kotz died at home on 13 December.
+
+[Alexander Kotz, born 3 December 1920, Saddleworth.]
+
+The Festival of Carols drew a full house at the Civic Centre last Sunday night.
+
+CXV, 8033, 18 December 1985, page 19
+
+Ray Ball & her husband Michael and Mercedita Kirk were naturalised as Australian citizens at a ceremony at the last meeting of the Burra Burra DC. [Photo.]
+
+Shaun Dollman received his Queen’s Scout Badge from Scout Leader Jack Kleinig at the recent Christmas break-up. [Photo.]
+
+Burra Burra DC received emergency arterial road funding recently. It will enable completion of sub-base work on the last section of the Burra-Spalding Road, worked on earlier this year.
+
+CXV, 8034, MISSING
+
+CXV, 8035, 8 January 1986, page ?
+
+The Telephone Directory 1986 for Yorke Peninsula and the Mid North features a cover photo of Paxton Square. [Photo.]
+
+Burra’s Jubilee 150 Float was shown in Burra on Christmas Eve and on the morning of 31 December it went to Adelaide to participate in the Jubilee Procession. Walking in front of the float were Colin & Dani Fidock and Nick & Audrey Van Buuren. On the float itself were a number of children: Kirsty Warnes, Felicity Lines, Kylie Reed, Andre Cuttle, Paul Jacka & Todd Ryan. Following the float were Joan & John Reed, Sue Langford, Peter, Louisa & Alecia Fidock, Barry Wright, Harry & Vi Chipping, Janelle Davidson, Maria & Karen Reed and Chris Reed, while Gary Hirschausen drove the semi on which the float was mounted.
+
+CXV, 8035, 8 January 1986, page 18
+
+Burra Breathers Barrow Push Team has been sponsored by Adelaide –based Financial Planners Robert J. Elrington & Associates. The team comprises: Peter Bartlett (manager), Colin Baker, Des Menz, Maurie Taylor, Gary Williams, Dick Cuttle, Paul Smedley and Neil Page.
+
+Burra’s Australia Day Champagne Breakfast will be held in the Unicorn Brewery Cellars. The Burra auxiliary of the Crippled Children’s Association and Burra Apex Club are combining for the occasion. It is planned to sell 120 tickets at $10 per head.
+
+CXV, 8036, 15 January 1986, page 15
+
+A huge load, dwarfing a normal semi-trailer, passed by Burra on 8 January bound for Portland aluminium works. It was a cylinder weighing c. 100 tons. [Photo.]
+
+Dogs have been attacking sheep just west of Burra recently. One has been destroyed, but the other escaped.
+
+Burra Breathers and other local entries are training for the Broken Hill-Burra Barrow Push, due to arrive in Burra on 26 January. [Photo.]
+
+Arragong Picture framing Services opened recently in Morehead Street and has now expanded to carry a large selection of posters, along with prints and paintings. John Stivan is the proprietor.
+
+Marriage. Eric Clode recently married Coralie Stocker.
+
+Jane Tiver, daughter of Murray & Jan Tiver recently received her B.Sc. in WA.
+
+Janelle Adams & Melissa Hayes of Broken Hill have joined the Burra Barrow Birds team.
+
+CXV, 8037, 22 January 1986, page 18
+
+Barrow Push Teams are assembling in Broken Hill. In Burra in anticipation of the finish Market Square will be closed to traffic from 10 a.m. to 4 p.m. on Sunday. Live bands will play in the rotunda. Food and drink stalls will operate and Radio 5PI will have its van there. Other stalls will be set up. The SES is providing a service all along the route and medical back-up has been arranged. From 4 p.m. celebrations will move to the creek area where there will also be stalls and a disco has been arranged in the Town Hall at 8 p.m. by the Burra Rural Youth Club.
+
+A Burra Picnic Race Meeting & Gymkhana is being arranged for Sunday 6 April at Thistlebeds Station 10 miles east of Burra on property owned by the Kellock family. There will be a woolshed dance on 5 April. Proceeds will aid the RFDS and the Hostel for the Aged in Burra.
+
+The Courthouse Hotel is being renovated. A major part of the renovation is the restoration of stone walling on the western side, replacing the steel sliding doors, dating from the building’s use as a garage. The Burra Uniting Church is making the old hotel into a self-sufficient camp site to cater for c. 30 people. It will be able to accommodate small groups or could be used in conjunction with Redruth Camping Centre, which caters for c. 50. All the work is being done in keeping with the style of the 1858 building.
+
+Burra Burra DC has received correspondence notifying it that the plan for Market Square redevelopment had not been forwarded to the Australian Heritage Commission for approval, as was required. The whole of the town is on the Register of the National Estate and therefore the project must not proceed without the approval of the State heritage Branch. After a recent meeting a small working party from the Council, the Highways Department, the Road Traffic Board, the National Trust and the State Heritage Branch will meet to look at the proposal.
+
+Birth. To Kerry & Allen Hicks at Burra Hospital recently, a son, Travis John.
+
+Birth. To June & Danny O’Bryan before Christmas, a son, Daniel Luke.
+
+Geoff Dare has managed the unusual feat of rolling a header and living to tell the tale.
+
+CXV, 8037, 22 January 1986, page 19
+
+Advt. There is a large advertisement for Arragong Picture Framing Service, Proprietor John Stiven, 18 Morehead Street, Burra North. [Photo.]
+
+CXV, 8038, 29 January 1986, page 1
+
+The Broken Hill-Burra Barrow Push for 1986 was won by the Dampier Salt Shakers with an average speed of 22.69 k.p.h. for 351 km. They won $10,000. [Photo.]
+
+[Photo of the Collinsville Rams who came in 5th.]
+
+Second were the Paringa Pushers, winning $1,000 and third the Pllbarrow Hedland Running Club who won $500. The $1,000 special prizes were distributed as follows:
+
+1st sporting team, Pilbarrow Hedland Running Club
+
+1st over 40s team, Savery’s Retrovision Boilers
+
+1st service team, RAAF Edinburgh Team No.1
+
+1st all female team, Burra Barrow Birds.
+
+[Further details are given in an article filling page 1.]
+
+CXV, 8038, 29 January 1986, page 18
+
+Burra Burra DC. The new District Clerk is Rod Walsh [Photo.]
+
+He comes from Penneshaw where he was District Clerk-CEO. He comes with his wife Lynne and three children aged 4, 2 and a few months. Rod is a water skier and represented SA in the South Pacific Zone of the Australian Titles 1978-75 [sic]. He also plays golf, tennis and squash. He has been associated with Apex. He begins work at Burra 16 January.
+
+Burra Citizen of the Year is Mrs Florence Scroop who was nominated by the Board of Management of the Burra Hospital. Over many years she has been involved in service to the community. Among her interests are:
+
+Treasurer of Burra North Red Cross for 45 years.
+
+Aberdeen Clubrooms Women’s Committee.
+
+Head Steward of Burra Show Flower Section.
+
+Helper with Meals on Wheels.
+
+Staunch supporter in the past of Aberdeen Tennis Club, Aberdeen Football Club and Aberdeen Netball Club.
+
+President of the Burra Hospital auxiliary until it went into temporary recess in 1975.
+
+Member of the Hospital Sewing Circle since 1931 and currently its convenor.
+
+Burra Junior Citizen of the Year is Ian Kleinig, nominated by the Leader of Burra Venturer’s Unit, David Jennings. He is a steward of the church and has many achievements in scouting, academic pursuits and sports – especially in track and field and swimming, though also active in football, volleyball and tennis. He has completed his Queen’s Scout award, the highest award in scouting. He and a fellow Venturer saved the local Cubbing section from collapse by volunteering as leaders.
+
+[Photo of Ian Kleinig, Mr Neil Andrew MHR (who made the presentations) & Mrs Florence Scroop.]
+
+Obituary. Mr Allan Edwards, formerly of Mt Bryan, died in Adelaide last week.
+
+[Allen Albert Edwards born 6 January 1914, Tarcowie: buried Burra 21 January 1986.]
+
+[Photo: Burra National Trust members in colonial costume. Colin Fidock back row left and Dani Fidock front row right.]
+
+CXV, 8039, 5 February 1986, page 18
+
+Rosie Lloyd (17) competed in the Australian & NZ Secondary Schools’ Athletics Competition in Auckland and Hamilton. She came 2nd in two 400 metre hurdle events and 3rd in the 310 metre long distance run [sic!]. She was also a member of the winning 4 x 400 metre relay.
+
+[Photo of Rosie with coach, BCS Physical Education teacher Richard Bednall.]
+
+A 24 hour Swimming Marathon is planned for Burra Pool, starting at 4 p.m. on 15 February. A marathon held two years ago raised over $6,000, which was shared between the pool and the Royal Life Saving Society. The pool benefited with a verandah for the amenities block, which will shortly be installed. This year’s event will be spent on fencing and a pergola in the toddlers’ paddling pool area.
+
+Theft. $1,207 was stolen from the Burra Hotel on the night of 22/23 January.
+
+CXV, 8040, 12 February 1986, page 18
+
+Undergrounding of power lines in Market Street has commenced and this will continue into Market Square.
+
+Road Works on the Barrier Highway to the south of Burra began last October and are expected to be completed in mid 1986. Some 15 km of highway are being reconstructed.
+
+Super Mac Team & Burra Breathers will take part in the sack truck race this month from Wilmington to Port Germein.
+
+Birth. To Josie & Adrian Hill on 7 January, a son, Cameron Robert.
+
+Obituary. Eric Angel died recently.
+
+[Buried: Burra 31 January 1986 aged 77.]
+
+Obituary. [Miss] Gwen Humphrys, formerly of Burra, died recently.
+
+[Born 5 December 1915, Kooringa: died 20 January 1986.]
+
+BCS teacher Col. Baker has been transferred to the Mallee. He will be missed from the school, Apex and sporting bodies.
+
+Burra Pony Club held its annual beach picnic for horses and riders at Wallaroo last Sunday.
+
+CXV, 8040, 12 February 1986, page 19
+
+The Ian Auhl Collection
+
+The Burra Burra DC has recently acquired the Ian Auhl Burra History Collection. The collection, which will be kept in the custody of the Burra Community Library, consists of an indexed collection of newspaper references to the Burra Burra Mine and its townships covering the period from the discovery of copper in 1845 to the closure of the Burra Burra Mine in 1877.
+
+It also includes a biographical index of names of people mentioned in the references, a collection of maps relating to Burra and district, a collection of photographs and negatives relating to Burra and district, a library of books relating to Burra and an extensive collection of miscellaneous references to the Mine and its townships and various other indexes.
+
+The collection was begun in 1965 when Ian Auhl was principal of Burra Primary School. It finished in 1985 with the submission to the publishers of the author’s book The Story of the Monster Mine – The Burra Burra Mine and its Townships 1845-77. It began with items researched from copies of the SA Register dating from 1852 and held by the Burra Institute Library. When Mr Auhl was transferred to Adelaide in 1969 arrangements were made for the State Library to photocopy each newspaper item. Subsequently each item researched and submitted was photocopied and all newspaper items were microfilmed and negatives made of all photographs. The collection was begun when the author was preparing tourist pamphlets and realised that Burra had no local paper till 1876. No books on the history of the mine and its townships existed apart from some centenary publications.
+
+The intended use of the material was to prepare tourist pamphlets and then a short history of the mine and its townships. This resulted in the publication in 1969 of the Burra Sketchbook with drawings by Maurice Perry, which has been reprinted five times. It was subsequently used in the compilation of the Burra Conservation Study in 1978 and in various Burra histories and to make submissions to the District Council and in making submissions for heritage listing for Burra Buildings and of course for Ian Auhl’s major history as mentioned, to be published in 1986. It has supplied authors, organisations, families and individuals with information on the history of Burra and its people. Mr Auhl has said that he considers the Conservation Study of 1978 to be the most valuable result of the collection.
+
+Originally the collection was to be housed in the Copper Museum and Interpretation Centre. The author’s ill health and doubts about the funding for that centre have made it necessary for the author to agree to the housing of the collection in the Burra Community Library, in the care of the Library Board of Management in accordance with an agreed management policy drawn up by the Librarian Colin Fidock. A complete copy of all but the photographic material has been made by the librarian of the Mortlock Library. Both the Burra Community Library and the State Library are processing the material to make it available for public access in 1986. The author and librarians envisage the collection as growing in the future as there is still the period after the closure of the mine in 1877 to be researched and written about.
+
+The microfilm of the Burra Record for 1876 to 1977 is available. Challenges to Burra’s role as a historic town can only be met by substantiated facts, properly documented. Mr Auhl considers that the future security and growth of the collection is assured and has expressed his gratitude to Colin Fidock and the staff and to Roger Henderson, Principal of Burra Community School for their co-operation and understanding.
+
+Mr Auhl has expressed a hope that the collection ‘will attract the commitment to its further use and growth in the course of the future of Burra and district.’
+
+CXVI, 8041, 19 February 1986, page 26
+
+St Mary’s, Burra is undergoing repairs with the aid of a $25,000 heritage grant.
+
+It has been having problems with the letting in of water on the weather wall and into the organ loft. A National Trust architect estimated the repairs at about $30,000 three years ago. The Heritage Commission grant came in response to an application by the Rector Fr Richard Morris. As well as the grant they offered a loan for the rest of the cost. Fr Morris believes the trouble stems from the replacement of lime mortar with cement about twenty-five years ago. Clare builders McKendrick & Ahern began work about a month ago and expect to finish at the end of March. They will re-point and repair the weather wall at the top where the pointing was bad. They will replace the guttering and attend to flashings, ridge capping and parapet walls, waterproofing the last. The windows will be sealed and the interior re-plastered in preparation for painting. The 81-year-old pipe organ cost $700 in 1905 and was overhauled four years ago for $4,000. Its replacement today would cost about $70,000.
+
+Recent renovations have allowed the removal of a window from the original St Mary’s from its storage in the organ loft. It will now be repaired and placed in a more visible position in the church. It was originally placed in old St Mary’s in 1872.
+
+[Photo of the church with scaffolding in place and of Fr Morris with the old stained glass window.]
+
+BCS. The Senior School swimming carnival last Friday resulted in Jennison House being the victor.
+
+Burra Scouts held their first meeting of the year last Friday, but the Cubs will have to go into recess unless a leader is found.
+
+Burra Burra DC, February meeting
+
+Council approved in principle the formation of a Burra Heritage Advisory Committee.
+
+The committee is envisaged as being made up of top class professionals as well as community and Council representatives and would, it is believed, become a valuable consultative body.
+
+Its brief could include preparation of a long term management plan for Burra as well as comment and assistance on projects like the Market Square redevelopment.
+
+John Barton, pharmacist at Burra and a Councillor, was naturalised at a ceremony at the Civic Centre on 10 February. [Photo.]
+
+The 24 Hour Swimming Marathon last weekend raised almost $4,000. Keryl Maidment raised the most money with $201.
+
+Tourist Officers from various regions met at Burra last Tuesday 11 February for the Inland Tourism Seminar. Cr Des Woolley as Chairman of the Burra Tourist Association chaired the meeting, which was held to discuss their proposed Inland Australia Ring Route. The ring is roughly Broken Hill to Peterborough to Burra, then Morgan, Renmark, Mildura, Wentworth and Broken Hill. There are opportunities to strike out from places en route to the Flinders Ranges or the Clare Valley. Burra Burra DC Chairman Mr James Hawker was the guest speaker, resplendent in his 1830s attire.
+
+He said Burra’s chief tourist resources were its fine examples of mid Victorian buildings and its copper mining heritage. He outlined the Council’s actions:
+
+The purchase of a building for use as a tourist office
+
+Appointment of a Tourist Officer
+
+Purchase of other heritage items
+
+Has sought publicity through supporting activities like the Barrow Push
+
+Tourism meant employment. In 1982 14,000 visited the Burra Tourist Office and in 1985 there were 30,000 visitors. Jenny O’Connor Burra’s Tourist Officer also addressed the meeting, during which she paid tribute to the work of historian Ian Auhl.
+
+CXVI, 8042, 26 February 1986, page 18
+
+Burra National Trust Branch held a working bee at Morphett’s Enginehouse last Sunday – preparing the site for work to commence on the Jubilee 150 restoration project there. [Photo.]
+
+Ian Auhl’s new book, The Story of the Monster Mine is to be launched by the Director of the Department of Mines and Energy Mr R. Keith Johns at the Mines Department Building on 25 March. Mr Johns’ great great grandfather was Thomas Roberts, the first Captain of the Burra Burra Mine.
+
+Ian Auhl was born in Burra in 1914 into a family which had lived in the district since pioneering days. He returned in 1964 as headmaster of Burra Primary School. Following his retirement he has written prolifically on Burra and this large book of 488 pages, 15 colour plates, 50 illustrations, plus maps and numerous photographs is the culmination of years of valuable research.
+
+Pam Marlow has carried out the initial work on the Jubilee Project to build a scale model of the Burra Mine to be housed in the Bon Accord Mining Museum. The module of Morphett’s Enginehouse, boiler house and capstan has been on display in Bence’s window. This is one of 33 groups of buildings which will slot into the landscape model, which is about 5 metres by 6.5 metres in area. It will provide a picture of how the mine looked in about 1860. The landscape is planned for completion in May and the glazing of the display is due to be done in September, ahead of the museum’s opening in October. Pam and Phil Marlow and children have recently moved to Pinaroo, so on site work will be limited to school holidays. Pam will continue to work on the models at her new home. Many others have contributed to the huge task, especially Brian Salter and Peter Stitt.
+
+Burra Burra DC has recently purchased a second-hand Toyota Landcruiser personnel carrier to seat up to 8 for the Burra SES. It is currently undergoing necessary fitting out.
+
+The Caring & Sharing Group is meeting again this year and Dr R. Oswald was guest speaker at their last meeting when he spoke on high blood pressure. On 4 March he will conduct a workshop on drug and alcohol abuse.
+
+Market Square. The meeting mentioned in CXV, 8037, 22 January 1986, page 18 to discuss proposals was convened on 21 February. The Council produced the plan for the Square that they had approved. After discussion they agreed to retain the existing curved kerb line, to remove the proposed protuberance from the north side of Commercial Street adjacent to the ANZ Bank and on the south side to change the protuberances to slightly raised areas. On the basis of these changes indication was given that the Heritage Branch would now give written approval. Council will also look into the question of lighting.
+
+Sealing the Burra-Hanson Section of the Barrier Highway is proceeding steadily.
+
+CXVI, 8043, 5 March 1986, page 6
+
+D. Rayfield & G.R. O’Connor wrote separate letters challenging the previous report of the meeting relating to Market Square. In lengthy arguments their allegations are in essence:
+
+There was disagreement about who should be allowed to attend the meeting.
+
+The meeting was less amicable than portrayed in the article.
+
+The agreed plan does not represent much of a change from the Council’s original position.
+
+Agreement with it represents considerable backing down by those initially opposed to the proposal.
+
+The essential change they object to is the loss of the curved roadway (despite the retention of its kerb line) thus destroying the 140-year-old character of Market Square.
+
+Theft. A car was stolen from outside its owner’s address in Kingston Street and later found completely wrecked on the Barrier Highway north of Manoora.
+
+Theft. A number of children aged 5-10 have been cautioned for stealing items from cars in Market Square and Queen Street.
+
+Other Crimes. A series of local crimes are troubling Police. A hotel has been broken into and about $3,300 stolen. Items to the value of about $3,100 have been stolen from a maintenance depot.
+
+A shop at Burra North was broken into and cigarettes, food stuffs and drinks worth $600 were stolen.
+
+The Sunday Mail (Adelaide) 2 March 1986 Magazine Section, page 43
+
+There is a full page article on the opposition in Burra to the re-development of Market Square.
+
+The article says citizens are taking on the Council, the Highways Department and the State Heritage Branch to save the roadway round the curve of Market Square.
+
+Council wishes to close this roadway in the interests of better traffic flow and safety. Protesters say this is a nonsense and the last serious accident was more than 35 years ago and Council is merely indulging in a whim. The Burra Preservation Organisation has been formed to defend the Square and has nearly 300 members. They claim that Market Square is the heart of Burra historically and economically. It is said to be the first spot laid out by the South Australian Mining Association, the place where settlers gathered to pay a shilling a bucket for water and where people have always gathered for celebrations and thanksgiving.
+
+The row erupted first in December when goose-neck street lights appeared and residents wanted lights more in keeping with the character of the 140-year-old architecture. About 140 ratepayers attended a meeting and all but one of the lights have been removed. Protesters say they have not been informed of the plans for the Square and are angry. BPO Chairman Gerry O’Connor believes the Square is the town’s most impressive asset. Leonard Bence said ‘We don’t want a model paved square where people can park’.
+
+[Other objectors cited were Richard Dollman (22), Derek Rayfield and Jenny O’Connor.]
+
+Jenny O’Connor said tourism had doubled in the last two years.
+
+John McBride and Angas McInnes also objected. National Trust Chairwoman Mrs Maureen Wright said the National Trust would have preferred to have retained the road, but the Trust does not violently oppose the compromise plan. Out of it all comes the realisation that the Market Square precinct is not on the State heritage List.
+
+[Photos:
+
+Market Square showing the road in issue.
+
+Jenny O’Connor
+
+Richard Dollman
+
+Leonard Bence
+
+The Square on Anzac Day about 50 years ago.]
+
+CXVI, 8043, 5 March 1986, page 21
+
+MFS. The annual assessment competition for members of the Burra MFS was held last Sunday morning in Market Square. A simulated dangerous chemical spill was dealt with. [2 photos.]
+
+Halley’s Comet. Pastor Harry Scott will speak at Burra Civic Centre on Sunday 9 March.
+
+[He apparently used the image of a gradually decaying comet as part of a gradually decaying physical universe to draw a parallel: ‘this is occurring not only in the physical sense but morally as well’.]
+
+BCS. The Kooringa building is receiving a facelift to the value of $90,000 from the Department of Housing and Construction. Walls and window frames will be renovated. The building will also be re-painted, including the roof. A stone mason is currently at work. In the longer term it is planned to re-roof the building in about 1991.
+
+Burra Scouts went abseiling last Friday night with the Venturers in the railway cutting quarry. [The Aberdeen ballast quarry.]
+
+CXVI, 8043, 5 March 1986, page 22
+
+The Redruth Guild – part of the Burra Uniting Church, will hold a special luncheon on 20 March to mark the closing of the guild after 60 years of providing friendship and fellowship for a group of women in Burra North. Reta Jennison is currently President and was secretary for more than 50 years. She is sorry to see its demise, but numbers have dwindled and their ages have increased. Mavis Satchell, a member of long ago, will return for the day and will entertain with her singing. The Guild’s funds will be donated to the Redruth Camp Centre for the repair of the Redruth Church so that it may be used as a place of worship for the camp or as a museum.
+
+H.E. the Governor Sir Donald Dunstan & Lady Dunstan will attend the Burra Civic Jubilee 150 Ball.
+
+Market Square. A group of members of the Burra Preservation Society waited by the Tourist Office on Friday for the arrival of a Channel 4 news crew who were to do filming about the controversy over the redevelopment of the square. The society has called a meeting in the Civic Centre on 6 March at 8 p.m. to report on progress on the question.
+
+CXVI, 8044, 12 March 1986, page 18
+
+Burra National Trust AGM was held in Burra Civic Centre last Tuesday 4 March.
+
+President Maureen Wright said they were one of 57 branches in SA (the only state with a branch system). In Burra the Trust owned six properties and was responsible for three others. (Leasing the Paxton Square Cottage No. 11 and caring for the jinker and Powder Magazine.) This was a large job and the income came from key hire, bus tours and fund-raising. Most of 1985’s objectives had been realised. The J150 $30,000 allocated to the Bon Accord had been spent. An application has been made for a $21,000 CEP grant to work on the Bon Accord surrounds and re-fence and define the car park. $5000 was being spent on a case to house Pam Marlow’s mine model and a History Trust grant of $8,500 will be spent on display and interpretation. Lock-up restoration work is almost complete under the care of architect David Gilbert, using a National Estate grant of $12,000.
+
+A small committee has worked to prepare scripts for signs for the sites and liaison with the Department of Mines, Department of Tourism and the Burra Burra DC will allow special enamelled signs at Trust sites at the same time as signs are done for the J150 project at the mine.
+
+Volunteers will photograph all buildings in Burra on the same day within the next two months.
+
+A dramatic event is planned for Redruth Gaol in association with the Arts Council and Flinders University drama students.
+
+In 1985 the Trust became involved with several issues including the redevelopment of Market Square. I am disturbed that Council seems reluctant to consult with us over issues of major importance. The Council’s recent decision to form a Burra Heritage Advisory Committee is a good one.
+
+[Mrs Wright then went on to thank all those who had helped the Trust throughout the year.]
+
+Elections: President, Mrs Maureen Wright; Vice-President Management, Helen Stockman; Vice-President Works & Buildings, Barry Wright; Vice President Funding & Catering, Cheryl John; Secretary, Robyn Page; Treasurer, Avian Pink and Curator, Colin Fidock.
+
+The guest speaker was Jeff Daniels, development officer from National Trust Headquarters who spoke on Heritage in Trust.
+
+BCS. The primary section of the school held its swimming carnival last week.
+
+Senior school students will be off campus this week.
+
+Years 8 & 9 students will be at Barmera and Years 10, 11 & 12 students are doing work experience.
+
+CXVI, 8045, 19 March 1986, page 5
+
+BCS. A concentrated immunization campaign will be conducted at the school shortly.
+
+Burra Burra DC at its March meeting adopted the revised traffic management plan for Market Square and Commercial Street. It was also resolved to consult with the National Trust branch over the selection of lighting before making a decision to reduce the number of lighting poles from 25 to 16.
+
+CXVI, 8045, 19 March 1986, page 19
+
+‘Cousin Jack’s’. There is an article that reads like a paid advertisement for Gary Donaldson’s Fine crafts Gallery, featuring a wide range of quality SA Crafts and especially his own woodcraft. Located at 20 Market Square [sic: in mistake for Market Street] Burra North, opposite the Ambulance Station.
+
+Birth. To Jenny & Michael Mengersen, a son, Aaron. [Mengerson in the paper.]
+
+Burra Burra DC will hold electors’ meetings as follows:
+
+Mt Bryan 8 April
+
+Booborowie 10 April
+
+Farrell Flat 15 April
+
+Burra Civic Centre 17 April
+
+Vandalism has been reported recently at the Redruth Gaol with attempts to jemmy locks and an article was taken from the Breaker Morant display.
+
+The Caring & Sharing Group had 25 at the workshop on drug and alcohol abuse. Rosemary Opperman will speak on ambulance services at the next meeting.
+
+Burra Burra DC is negotiating a lease on part of the goods shed at the railway station to accommodate the SES and DFS units.
+
+National Trust AGM. Colin Fidock reported on the restoration of buildings made possible by a combination of voluntary labour and grants. He spoke particularly of:
+
+The completion and opening of Malowen Lowarth.
+
+Continuing work on Redruth Gaol.
+
+Restoration of the lock-up (at one time threatened with demolition).
+
+From the key hire system $7,835 had been generated and commission from National Trust Tours added $3,322. O’Connor Tours brought in $4,800 and other fund raising contributed $3,000. Grants of over $74,000 had passed through the books in 1985. He estimated operating expenses for 1985 at $20,000.
+
+CXVI, 8046, 26 March 1986, page 4
+
+R.M. Gebhardt of Mt Bryan writes re electors’ meetings. He writes a one-column attack on them as a waste of time and a farce. Councillors are willing to accept praise for minor works done, but will not seriously discus the levels of rates, which are high. He says there is no way they can afford to spend $650,000 on the Market Square project. Also the administrative costs are excessive at 52% of income, when Hallett DC has only 26%.
+
+E.T. Baulderstone writes on Paxton Square costs.
+
+He writes as Treasurer of the Lewis Board of Management.
+
+The following is an outline of the management, finance, etc. of the Paxton Square Cottages Project.
+
+Most people are aware that the cottages contribute to the history of SA and Australia.
+
+I have been connected with their management for the past 20 years and wish to bring the correct facts to the notice of the grumblers who insist their rates are spent financing these cottages.
+
+About four years ago the cottages were transferred to the Burra Burra DC gratis, the main reason being that the Council was in a position to receive grants, etc. for their development.
+
+During the last three years approximately $500,000 has been made available in grants etc.
+
+The Council appointed a management board to manage these grants and arranged for a loan of $100,000 for the first stage, which opened in April 1983 as holiday cottages.
+
+18 months later the second stage was opened.
+
+Since being in operation, the board has paid all loan repayments, amounting to over $65,000 and capital expenditure $42,000, in addition to the maintenance and operating costs.
+
+We are now in a position to contribute $40,000 towards the third stage with a cost of $120,000.
+
+The Council has arranged for a loan of $80,000 for the balance, which will be repaid from our profits and will cost the ratepayers nothing, while making the property more valuable.
+
+A complete financial statement is rendered at each monthly meeting of the board and a copy is forwarded to Council.
+
+A yearly statement is presented at the annual public meeting attended by very few ratepayers.
+
+‘Stop grumbling and uttering false statements among the people of our community. I am available at most times to answer queries in a sensible manner.’
+
+CXVI, 8046, 26 March 1986, page 15
+
+The Redruth Guild Diamond Jubilee luncheon was attended by about 100 people. It was a luncheon and musical afternoon and as it was to be the Guild’s final gathering before closure, it was attended by many former ministers and their wives. Redruth Wesleyan Church was established in 1851, but later demolished. A second church was built in 1857 and the present building was erected in 1874. When Burra became a town with just one Methodist Church, the services were held at the Kooringa Church, but the Guild continued for many years, finding fellowship and raising funds for the church. The final act of the Guild will be to donate its funds to the renovation of the Redruth Church so it can be used as a worship centre for the Redruth Camping Centre or for a museum. Reta Jennison was the Guild Secretary for some 52 years and then became President up to its final meeting. The Guild has been operating for 61 years.
+
+[Photo of Dorothy Reed, Joyce Thomas, Rev. Malcolm Thomas, Mavis Satchell (with back to camera) and Nesta Beames. Also a photo of Dorothy Reed (Secretary) and Reta Jennison (President).]
+
+Burra Burra DC. Some members of Council will visit Wakefield Plains Council on 1 April to discuss the benefits of Council amalgamations. Wakefield Plains results from the amalgamation of the Balaklava, Port Wakefield and Owen Councils.
+
+The Council proposes to petition the Minister of Local Government in October this year to change the rating system from land value [site] to capital value.
+
+CXVI, 8046, 26 March 1986, page 16
+
+Birth. To Bob & Gay Sommerville nee Edwards at Clare Hospital, a son, Paul James.
+
+Obituary. Return Thanks notice reveals the death of Gordon Maxted.
+
+[Born 2 February 1900, Adelaide: died 21 February 1986.]
+
+Burra Burra DC. Council’s Supplementary Development Plan’s Steering Committee met on 17 March to continue its work. Simon Tonkin, planning consultant from Bone & Tonkin Planners Pty Ltd advised that the draft document should be available to Council next month.
+
+Marriage. Burra last weekend:
+
+Debra Gibbons married Darren Burnett.
+
+Marriage. Jim Elliott recently married Audrey Tilbrook.
+
+Marriage. Karen Jacka was married recently in Adelaide.
+
+Marriage. Daphne Sellick recently married Robert Achurch.
+
+Phil McDonald of the State Bank has been transferred to the Regional Office.
+
+Peter & Chris Muller are going to Ceduna where Peter has a job with the Council.
+
+Burra Artist Ken Field will have an exhibition of paintings in Polly’s Tea Room on 4 April.
+
+Farrell Flat Tennis Club will hold a luncheon and fashion parade at Burra Sports Complex on 8 April.
+
+Ian Auhl’s Book The Story of the Monster Mine is now available from the District Council of Burra.
+
+CXVI, 8047, 2 April 1986, page 18
+
+Obituary. Milton Williams died last week.
+
+[Thomas John Milton Williams born 9 June 1906 Belalie East: Died 22 March 1986 Burra.]
+
+Doug Ransom, Council’s architect, his wife Helga Linnert and their son Oliver will leave Burra shortly for Adelaide.
+
+Burra Tourist Officer Jenny O’Connor reported recently to Council
+
+Visits to the Tourist Office in 1982 were 14,259 including children.
+
+Visits in 1985 were 30,669 excluding children.
+
+$7,835 was generated from the key system.
+
+$4,800 came from O’Connor’s Tours
+
+$3,322 came from National Trust Tours.
+
+A total of $15,957 went to Burra National Trust to help with its heritage work.
+
+Redruth Camp Centre catered for 13 schools compared with 2 in 1983.
+
+[Other statistics on visitors are cited.]
+
+McBride Cottages in Chapel Street have been given by the McBride Cottage Trust (along with money accrued from rents) to the Burra Burra DC. The Council and the SA Housing Trust will now re-develop the row to become one-bedroom units with new kitchens, bathrooms and laundries. With the money accrued the Council has purchased a block of land [diagonally] opposite the Kooringa Hotel and the SA Housing Trust intends to construct a group of aged person’s cottages there and on the block alongside the old Salvation Army Citadel. Plans are being drawn up to blend in with the type of architecture in the area. The balance of the funds in the McBride Trust will be used to landscape the vicinity of the Chapel Street row.
+
+CXVI, 8048, 9 April 1986, page 1
+
+Market Square
+
+About 45 members of the Burra Preservation Organisation blocked Market Square with cars and trucks at 6 a.m. last Thursday to stop Council workers from proceeding with the re-development. By mid-morning about 20 remained and when a bulldozer moved in several protestors stepped onto its blade, halting work for the day. On Friday Council workers began at 6 a.m. and removed grass in the square’s centre while police restrained a small group of protestors. Secretary of BPO Derek Rayfield said the BPO had been prepared to sit down and compromise last Thursday, but all requests had been ignored. Eunice Baker, a member of BPO, said although she felt uncomfortable participating in the blockade, she saw it as a last ditch attempt to preserve the square.
+
+BPO believes the proposed changes with road widening and new car parking spaces would destroy the historical character of the square and restrict the free flow of traffic. Burra District Clerk Rod Walsh said the changes were needed to improve traffic management.
+
+A petition prepared by BPO was signed by more than 800 people. Council Chairman James Hawker said people had been misled about the changes and intimidated into signing the petition. A blatantly inaccurate map of the changes had accompanied the petition.
+
+Derek Rayfield in a letter to the Argus blamed the Council itself for the story regarding the removal of the Rotunda and the rose garden. He denied any improper actions in collecting the 819 signatures. Council has said in a circular that the lack of formalised parking arrangements results in illegal parking and hazardous traffic manoeuvres and Council fears for its legal position in the event of accidents.
+
+Last November 570 people signed a petition calling a halt to the installation of new electricity [i.e. light] poles in Market Square. They deemed the standard goose-necked poles unsuitable for a heritage town and as a result those installed were removed. Council now proposes to install round-type ETSA post-top lights and there will be no goose-neck poles.
+
+In January the re-development was halted when the Community Employment Program notified Council that an oversight had been made in not getting the changes approved by the Australian Heritage Commission. A meeting in Adelaide on 21 February resulted in the State Heritage Branch indicating its assent for the scheme to continue. The estimated cost for the project is $109,000 of which $50,000 comes from a J150 Local Government Road Assets Program loan with a subsidised interest rate of 9% for 12 years and a grant of $54,000 from the Community Employment Program. Council’s contribution is $5,800.
+
+CXVI, 8048, 9 April 1986, page 4
+
+Jenny O’Connor writes a short obituary for Market Square.
+
+D. Rayfield for the Burra Preservation Organisation writes a letter of some 13⁄4 columns.
+
+He protests about a letter in the Argus of 2 April from L. Evans. He says that L. Evans, as far as he can determine, is a figment of someone’s imagination. The story of the Rotunda and rose garden being moved did not originate from the BPO, but from ‘our illustrious White House’. A public meeting last December gave Council a vote of no confidence on the lights and the re-development and called for a poll on the issue. This was ignored.
+
+At a meeting in Burra in late January Mr B. Rowney of State Heritage, Adelaide, said that the radiused roadway in front of the Tourist Office should stay as it was and not be tampered with. Mr Don Hele of National Trust, Adelaide, expressed the same view. At the meeting on 21 February in Adelaide the State heritage Director Mr Jon Womersley ruled that the radiused road would be closed and modified protuberances be constructed, State Heritage over-riding objections to this.
+
+[He then goes on at length to justify the validity of the petition and to express his disappointment on behalf of the BPO at the actions of Councillors’ in the whole saga.]
+
+Georgina Hyde writes a 1⁄2-column letter protesting the poor state of Burra’s footpaths. It is no wonder that very often visitors and locals alike are seen walking on the roads.
+
+CXVI, 8048, 9 April 1986, page 17
+
+The Thistlebeds Picnic Race Meeting was a great success. There were 23 events ranging from the Collinsville Merino Stud Cup over 1,400 metres to the Sleepy Lizard Derby. The woolshed dance on Saturday night was well patronised. Proceeds will be divided between the RFDS and Burra Senior Citizen’s Hostel for the aged. [Photo of the Sleepy Lizard Derby.]
+
+Burra Caring & Sharing Group had only a small attendance for Rosemary Opperman’s talk on the St John’s Ambulance Brigade. The next meeting will hear Mary O’Connell speak on the subject ‘What the Citizens’ Advice Bureau can do for you.’
+
+Birth. To Wendy & Michael Burge on 2 April, a daughter, Kate Marie.
+
+Birth. To Norm & Bev. Mason, a son.
+
+Obituary. Bill Field died last week.
+
+[William Alfred Field born 21 December 1919, Kooringa: died 2 April 1986.]
+
+Graham Kessell was named outstanding male athlete at the SA Country Athletic Championships at Berri over Easter.
+
+Elders Pastoral sponsored a Lucerne Variation & Management meeting at Burra on 4 April. The group visited the irrigated lucerne project at ‘East Bungaree’ and then went on to ‘Collinsville’. After dinner at the Burra Hotel Ian Kaehne from the SA Department of Agriculture spoke on Lucerne varieties and management. [Photo.]
+
+CXVI, 8048, 9 April 1986, page 24
+
+Ken Field’s art exhibition was opened at Polly’s Tearooms on 4 April. The building was formerly the Burra Record Office and has been set out now as tea rooms and an art and craft gallery by Hank & Anna Bernhard to provide lunches and afternoon teas daily, except Mondays and Tuesdays and provides evening meals (BYO) on Friday & Saturday. As well as Ken Field’s painting there is a display of pottery and Anna Bernhard’s antique dolls.
+
+CXVI, 8049, 16 April 1986, page 1
+
+Accident. An 18-year-old apprentice carpenter from Moonta had an amazing escape when the car he was driving was ripped in half at an accident at 7.40 p.m. on 13 April. The Sigma sedan collided with a stobie pole on Smelts Road and the two sections of it ended up 48 metres apart. The driver walked away from the wreckage and has been reported by police for driving without due care and for exceeding the prescribed concentration of alcohol.
+
+CXVI, 8049, 16 April 1986, page 22
+
+The Northern Regional Cultural Trust visited Burra on 8 April for a Board meeting and to inform local councillors, teachers, artists, gallery proprietors and others how the Trust works. They explained how funds can be made available for architectural assistance with a dollar for dollar subsidy on minor upgrading works. They can assist also for such things as sound and lighting and publicity for events.
+
+The Booborowie Electors Meeting was well attended. Chairman of the Burra Burra DC James Hawker mentioned the abuse hurled at himself and other Councillors and Council employees over the past weeks. He warned that if the meeting degenerated into abuse it would immediately be closed. He admitted that finances were tight, but denied Council was unable to pay its bills. Office staff had been reduced through attrition. He said he could not comment on the Industrial Court Case after legal advice. The Burra North bypass was mentioned and Council was compelled to have a Supplementary Development Plan.
+
+CXVI, 8049, 16 April 1986, page 23
+
+Ian Auhl’s 475 page The Story of the Monster Mine is being well received. Mr Auhl was born in Burra and returned later as Principal of the Primary School. He majored in History at the University of Adelaide and was a member of the Council of the National Trust for some years. He has published a number of books on Burra and was awarded the OAM in 1979 for services to conservation. The book is available from the Burra Burra DC and the Burra Tourist Information Office.
+
+Birth. To Nerida & John Brak on 6 April, a son, Tristan Leigh.
+
+Birth. To Dr Ash Thomas & Kathy on 7 April, a son, Sando Douglas.
+
+Obituary. Mr Jack Williams died at Burra Hospital last week aged 88.
+
+[Clarence John Williams born 12 May 1897, Ironmine: died 4 April 1986.]
+
+Burra Golf Club held its open day last Sunday.
+
+Burra Community Library held its AGM last Wednesday. Elected: Chairman, Mrs Sue Warnes; Vice-Chairman, Mrs Helen Stockman; Secretary, Mrs Betty Thamm and Treasurer, Mrs Tess Hopkins.
+
+CXVI, 8049, 16 April 1986, page 25
+
+Notice. Clare Campus of Light College of TAFE will offer Advanced Cake Decoration at Burra, conducted by Maxine Halliday of Adelaide at BCS Home Economics Centre on 20 April.
+
+Obituary. Cornelius van der Does died 9 April at Burra Hospital aged 76. He was the husband of Paula and father of Kees, Pauline and Henk (dec.).
+
+CXVI, 8049, 16 April 1986, page 28
+
+Advt. Dalgety Bennetts Farmers will auction ‘Spring Hill’ at the Burra Civic Centre on 2 May at 2 p.m. under instructions from W.A. Field. 378.92 ha freehold comprising sections 147, 148, 258 & Part sections 149 & 166 in the Hundred of Kooringa and sections 312, Part 311, 309 and 313 in the Hundred of Kingston.
+
+[The improvements are listed.]
+
+CXVI, 8050, 23 April 1986, page 21
+
+Free Bridge for Burra
+
+The School of Civil Engineering at the SA Institute of Technology has offered a prestressed concrete test bridge free to any interested Council. It is 11 metres long by 1.6 metres wide and could be used as a footbridge across the Burra Creek. Burra expressed interest and the bridge was delivered last Friday and will be stored until it is decided where to site it. A prefabricated pedestrian bridge of similar span would cost about $12,000 excluding siting costs.
+
+Burra Sharing & Caring Group will hear Geoff Camp, director of nursing at the Burra Hospital at their next meeting when he speaks on: Life after 60 in Burra.
+
+Burra will be twinned with Temple in Texas after contact with Kerrville broke down. Temple is a railroad town on the Gulf, Colorado & Santa Fe Railroad and the Missouri, Kansas and Texas Lines. Its population is 47,483. [Further details are given.]
+
+Burra Hospital Day Care Centre has a luncheon and fashion parade at the Burra Sports Complex on 24 April.
+
+Burra Red Cross has a tree planting ceremony at Aberdeen Clubrooms on 7 May followed by luch and a hat parade.
+
+Burra National Trust will have a day trip to Wolta Wolta on 10 May and will also visit the Trust Museum in Clare and the Medika Gallery in Blyth, returning via the Stringybark Reserve National Park.
+
+CXVI, 8050, 23 April 1986, page 22
+
+Morphett’s Enginehouse
+
+Te work on this J150 project has begun. The work will see stonework re-pointed, the building re-roofed in slate, floors replaced and the building made waterproof. Displays on Cornish beam engines will be installed. As well as Jubilee 150 funds, the Department of Mines and Energy has contributed some $80,000. It is intended to re-open the miners’ entrance to the shaft and to re-timber the upper section of the shaft if funds permit. This would enable the public to view the shaft itself. Three pieces of timber, each some 48 feet long are being imported from Canada to be used in the shaft.*
+
+[*Reports on CXVI, 8052, 7 May 1986, page 19 and CXVI, 8061, 9 July 1986 indicate these timbers were actually to support the new floors in the building.]
+
+Burra Burra DC continues work on the Burra-Spalding Road. $40,000 has been spent already.
+
+CXVI, 8051, 30 April 1986, page 17
+
+The Hawker Family has bought back East Bungaree stud. East Bungaree Pty Ltd has sold the property to Hawker Bungaree Proprietors. The stud’s history goes back to 1841 and was held by the Hawker family until 1980, when following the death of G. Stanley Hawker it was sold to the late W.H. Wylie. The new joint proprietors will be George and Andrew Hawker. The two studs will remain separate entities. Hawker Bungaree Proprietors now become one of the largest stud Merino breeders in the world, owning in excess of 30,000 stud merino sheep. [Photo.]
+
+CXVI, 8051, 30 April 1986, page 21
+
+Burra Radio & Electrical Service will open in new premises on Friday – [immediately west of Pearce’s Buildings]. Gerry & Merilyn Baulderstone bought the business three and a half years ago and have now expanded with a huge stock of electrical goods, spare parts and specialise in television and radio. The official opening of the new premises will be on 2 May. Gerry and Merilyn are both Burra born. Gerry worked with his brother in the green grocery business in Burra before moving to Clare and running a fruit and vegetable business there for fourteen years. On returning to Burra he opened up the electrical business. [Photos of the building and of Gerry Baulderstone.]
+
+BCS. Twenty-six parents and teachers attended a meeting at the school on 18 April to discuss with Bob Baker of the Isolated Children’s and Parents’ Association and a representative of the Minister of Education’s Working Party, the boarding options for country children. The working party was convened after BCS made a submission for a boarding facility on the Burra campus. The consensus was that the proposal did not raise too many difficulties. The working party will report to the Minister by the end of May.
+
+The Burra Yacht Club has written to the Burra Burra DC expressing concern about the condition of the creek and the lack of public toilets on the eastern bank. A clean-up was seen as necessary with the approaching Copper Festival in October, for health and safety reasons. The letter suggested approaching the Department of Tourism for funding for toilets and offered $2,000 towards such a project. Council agreed to breaching the dam wall and allowing the Yacht Club to proceed with a clean-up with the assistance of Council employees if necessary. The Department of Tourism will be approached concerning toilets.
+
+Burra Burra DC has received a $10,000 debit order from the Highways Department for tree planting along the Barrier Highway south of Burra.
+
+CXVI, 8051, 30 April 1986, page 22
+
+The Anzac Dawn Service was held in the RSL Hall due to inclement weather. Quite a good crowd attended.
+
+Burra Scouts & Venturers have had a weekend camp at the World’s End Gorge.
+
+CXVI, 8052, 7 May 1986, page 18
+
+The Jubilee Industry Trade Train has been at Burra and attracted much interest. Quite a large crowd, many in period costume, went through the train and visited the food stalls at the station. Radio 5PI broadcast from the platform. There were also rides on camels and the old Denis Fire Engine. Several school groups visited the train on Monday. [Photo of Audrey Little making damper.]
+
+Marriage. Cynthia Nenke & David Robinson were married at Greenock last Saturday.
+
+Business Changes in Burra:
+
+Gerry Baulderstone’s new Burra Radio & Electrical Store opened in the premises rebuilt after Jennison’s fire.
+
+Steve Woolley has moved his video and photographic service into the shop vacated by Burra Radio and Electrical.
+
+Gillian Dewhirst has her flower shop in the former video store.
+
+South Australian Housing Trust says it will begin remodelling the McBride cottages in July. The cost is estimated to be c. $160,000.
+
+Burra Burra DC has a road grant for 1986-87 of $63,000, up 3%. Des Menz presented a plan for the interior of the railway goods shed, part of which is to be leased to house the SES & CFS.
+
+Council will endeavour to get some funds from SES for upgrading the shed.
+
+The BCS Jubilee 150 Project is a book to be called Relatively Speaking, Mementoes and Memories of Burra.
+
+Over 450 entries have been submitted by students and about 40 adults are contributing to the effort as well.
+
+CXVI, 8052, 7 May 1986, page 19
+
+Accident. A toilet block at the Burra Showgrounds was substantially demolished when a driverless car ran away from a house on the perimeter of the showgrounds and crashed into it on Saturday. [Photo.]
+
+Morphett’s Enginehouse. Four massive pieces of Canadian timber that will be used to support the new floors in the building were unloaded at the site last Friday. They are each 48 feet in length. [Photo.]
+
+CXVI, 8053, 14 May 1986, page 18
+
+Xenia Stockman was 85 on 7 May.
+
+Sir Henry Ayers’ great granddaughter visited Burra on Sunday. She lives in Paris and made herself known to Burra Tourist Officer Jenny O’Connor.
+
+Theft. On Sunday 4 May painting and repair tools to the value of $2,800 were stolen from Jennison’s Tyre Service.
+
+Accident. On Monday 5 May a Tarago van rolled over in Paradise Street, Burra and a passenger from NSW was taken to the Burra Hospital.
+
+Accident. A semi-trailer driven by Mick Wayman and loaded with fifty head of cattle rolled over on the Barrier Highway two kilometres north of Mt Bryan on 8 May. The driver was trapped for 11⁄2 hours and half the cattle were either killed in the accident or had to be destroyed soon after.
+
+Burra Scouting
+
+Six Queen’s Scouts from Burra went to Adelaide on the weekend of 2-4 May. On Friday the scouts and their parents had a special dinner at the Hotel Adelaide. On Sunday morning they were presented with their certificates from H.E. Sir Donald Dunstan at Government House. Those receiving certificates were Ian Kleinig, Robert van Gasteren, Peter Fidock, Graham Gardner, Shaun Dollman and John Jones. [Photo of the scouts.]
+
+Burra National Trust was advised last week that the Redruth Gaol had been selected as the Commonwealth Bank’s Heritage 88 project for SA. Branch President Maureen Wright, Colin Fidock and James Hawker all travelled to Ayers House in Adelaide for the presentation. The Bank is committing $500,000 to one project in each state. The gaol came into Burra National Trust control some nine years ago and they have since done considerable work to conserve it. It was built in 1856 as the first gaol in SA outside the metropolitan area of Adelaide. It later served as a girls’ reformatory and more recently as a location for the film Breaker Morant. It receives about 3,000 visitors a year. Burra’s share of the grant is to be $50,000. [Photo.]
+
+Jenny O’Connor & O’Connor’s Tours were successful in the Regional Tourism Awards announced last week.
+
+CXVI, 8053, 14 May 1986, page 19
+
+Sara Drew of Booborowie won the Jubilee Industry Trade Train colouring-in competition and received a $50 savings account from Peter Bartlett, manager of the Burra Branch of the State Bank of SA.
+
+CXVI, 8053, 14 May 1986, page 21
+
+Burra North Red Cross met for World Red Cross Day on 7 May. Before the luncheon three trees were planted by Florrie Scroop (Treasurer), Joan Steele (Secretary) and Joan Dare (President). A hat parade followed the luncheon.
+
+CXVI, 8054, 21 May 1986, page 18
+
+Burra Pony Club was represented by Bronwyn Steele and Lyn Keane in the big procession through Adelaide last weekend, heralding the World Three Day Championships in Gawler.
+
+The Copper Road Re-enactment plans are progressing. Principal animal handlers will be Jim Kelly, bullocky of Naracoorte and Jim Lowe of Goolwa, muleteer and donkey team driver. The ketch Falie will be at Port Wakefield to be loaded with copper ore brought by the bullock drays, pack animals and wagon from Burra.
+
+CXVI, 8055, 28 May 1986, page 17
+
+Burra Burra DC
+
+Rod Payze Assistant Commissioner (Planning) and John Steele (Regional Engineer) with the Highways Department visited at the last meeting to address Council on the proposed Ludgvan Street deviation. A plan was shown.
+
+Cr Terry Tresize resigned as he and his wife Maree and children have moved to Kangaroo Island. Nominations are consequently called for a Councillor for Farrell Flat Ward with an election on 12 July if required.
+
+The Burra Civic Jubilee Ball will be attended by the Governor Sir Donald Dunstan and Lady Dunstan on 7 June. There will be a five piece dance orchestra and a troupe of dancers from Danse Victoriana who will demonstrate two brackets of old style dances during the evening. A lavish supper in the style of 150 years ago has been planned. The hall has been specially prepared and the beautiful turned wood balcony and balustrades have been exposed after being hidden for many years. Decorations will be in Victorian style and Burra’s Queen’s Scouts will assist, dressed in the uniforms of the state’s colonial soldiers.
+
+[Photo of Danny O’Bryan and Jack Oates uncovering the turned wood of the balcony at the Town Hall.]
+
+Marguarite Lang was naturalised at a ceremony at the May meeting of the Burra Burra DC.
+
+Architect Bob Shannon has offered some street furniture to the re-development of Market Square and it has been accepted with thanks.
+
+David Jennings received a gold award for the Duke of Edinburgh’s Award Scheme from the Duke at a ceremony at the Adelaide Festival Centre on 21 May. David will be running the scheme in Burra.
+
+Burra Venturers have had a three-day survival course at Paradise. They lived on goat; curried, barbecued and roasted. Three scouts were introduced to Venturers during the exercise. While there the group experienced a flash flood – a reminder of why you should not camp in a creek bed.
+
+CXVI, 8055, 28 May 1986, page 18
+
+The Bush Picnic Race Committee met at a special dinner on Friday night to hand over two cheques as a result of their successful race meeting at Thistlebeds in April. Chairman John Maidment presented a cheque for $750 to the RFDS represented by Robert Ryan. The second cheque was accepted by Ray Jennison, Chairman of the Burra Aged Persons Hostel Committee.
+
+[Photo of Les Saunders (Secretary), David Kellock (Senior Vice-President), Robert Ryan, John Maidment (President) and Ray Jennison.]
+
+Rosie Lloyd (hurdler) attended the ANZ Youth Sports athletic clinic in Melbourne over the weekend of 23-25 May with eight other young SA athletes. They have a chance of winning a $10,000 scholarship.
+
+Rosie and four others will represent Australia in china in August at an athletics meet between Australia, China and Japan to be held in Beijing and Tianjin.
+
+CXVI, 8056, 4 June 1986, page ?
+
+D. Rayfield writes to the editor that in Burra there are signs of improved roads and footpaths under a Bi-centennial CEP scheme, but recently Council, presumably for lack of funding has gone around taking up large quantities of existing footpath edging so it could be put down in Market Square. Residents have been told it was removed to widen footpaths, but work has not continued in these areas. ‘The people in the White House must think we are a gullible lot.’
+
+CXVI, 8056, 4 June 1986, page 18
+
+Paxton Square
+
+Phase three of the Paxton Square redevelopment is under way. The re-creation of the old manse is all but completed and the restoration of the Bible Christian Chapel is proceeding. The original manse was pulled down many years ago*, but with the restoration of both the Bridge Terrace and the Kingston Street Rows of cottages the Lewis Board of Management felt that the next step ought to be the reconstruction of the manse for use by the caretaker and his family, who currently live in two of the cottages in the Kingston Street row. Once the cottage is completed they will move in, freeing the two cottages for holiday rental. The Bible Christian Chapel next door is believed to be the oldest Bible Christian Chapel in Australia and restoration is being undertaken with great care. The original wooden roofing will be left exposed from the interior and it will be used as the booking office for the cottages and an interpretive centre for the square. A sum of $80,000 has been borrowed by the District Council to enable the development and this loan will be repaid by the Lewis Board of Management. Work has been authorised by the State heritage Conservation Branch.
+
+[Photo of Chapel and new cottage.]
+
+[*The original manse was demolished in July 1971.]
+
+Kay & Tom Boulger & assistant Andrea Charles are photographed in the period costume they don each Friday for work in their shop as part of their tribute to the State’s Jubilee Year.
+
+The Burra Mine Model is progressing. Pam Marlow has been in Burra for the last week to work on the model of the mine as it was about 1860, at the peak of its productive life. [Photo of Pam with Brian Salter.]
+
+Birth. To David & Sue Loffler, a daughter, Sasha Jade.
+
+Birth. To Chris & Christine Taylor, a son, Nicholas.
+
+Birth. To Cheryl & Richard Nankivell, a daughter. A first granddaughter for Audrey & John Nankivell and for Derek & Karen Hayes.
+
+Birth. To Penny & Peter Bartlett, a son, Banjamin [sic] Luke.
+
+Obituary. Rosslyn Colin Campbell died in Burra recently.
+
+[Born 30 July 1909 Huddleston (Clare Region): buried Burra 26 May 1986.]
+
+CWA. The 42nd Warnes Group Conference was held at Yacka 14 April.
+
+CXVI, 8057, 11 June 1986, page ?
+
+C.R. Irlam writes to the editor complaining of the secrecy in the our of court settlement the Burra Burra DC has made as a result of the Industrial Court’s finding that it had unfairly dismissed an employee.
+
+CXVI, 8057, 11 June 1986, page 19
+
+Birth. To Marie & Jack Richards in Perth, a daughter. A grandchild for Margaret Lehmann.
+
+The Burra Civic Jubilee Ball on Saturday was a great success. Roger Boehm, driving one of the National Trust’s buggies, delivered quite a few to the Town Hall. The Hall looked fine after its spit and polish. Cr James Hawker met the Governor and Lady Dunstan at the kerbside and accompanied them into the hall where Sir Donald Dunstan declared the ball officially open. Mr Hawker presented the Governor with a copy of Ian Auhl’s new book, The Story of the Monster Mine. During his speech the Governor said his great great grandfather had walked to Burra in 1847 and the family had lived for a time in dugouts in the creek. Later, upon hearing that Florrie Scroop was Australia Day Award winner for the Jubilee Year, Lady Dunstan sent her the posy she had been given on arrival. A troupe of dancers from Danse Victoriana performed during the evening. A contingent of BCS students assisted on the night as did the Queen’s Scouts and their leader David Jennings.
+
+[Photos:
+
+Governor and Lady Dunstan with the Councillors.
+
+Burra Burra DC Chairman Cr Hawker presents Ian Auhl’s book to the Governor.
+
+The Governor declaring the ball open.
+
+CXVI, 8057, 11 June 1986, page 20
+
+Obituary. Claude Allen died 8 June 1984 from an ‘In Memorium’ notice.
+
+In Memorium: Farrell Flat manual telephone exchange passed into history 12 June 1985.
+
+CXVI, 8058, 18 June 1986, MISSING
+
+CXVI, 8059, 25 June 1986, page 3
+
+Mt Bryan School held a Country & Western Night on 19 June.
+
+CXVI, 8059, 25 June 1986, page 4
+
+Booborowie Hall Committee will hold a dinner on 5 July.
+
+CXVI, 8059, 25 June 1986, page 5
+
+Burra District Auxiliary of the Crippled Children’s Association will hold a quiz night on 25 July.
+
+Roger Henderson & Leo Vasilunas have received their B. Ed. Degrees recently.
+
+Swimming Prizes for the 1986 Swimming Marathon were awarded at the Civic Centre on 18 June. Also Mr Ray Martin of the Royal Life Saving Society presented Rikki Loffler with his Distinction Award for passing the advanced examination for practical knowledge in the art of natation and ability to render aid in resuscitating an apparently drowned person. Jan Jacka presented Ray Martin with a cheque for $1,687 – half the proceeds of the marathon.
+
+CXVI, 8059, 25 June 1986, page 18
+
+Redbanks. The Minister of Recreation & Sport has declared a portion of Redbanks Reserve designated for off-road recreational vehicles. 150 ha of the 1,000 ha reserve is designated for a two year trial and if the trial is a success more reserves of a similar nature may be designated throughout the state. The Redbanks Reserve is to be leased to the Burra Burra DC.
+
+Weather. At last there has been some rain. The ‘inside’ country received an inch, but eastern pastoral areas got only a sprinkling.
+
+Birth. To Kathy & Les. Smale on 12 June, a daughter.
+
+Birth. To Nusia & Trevor Gent on 18 June at Burra Hospital, a son, Allan.
+
+Notice. The Arts Council’s Floating Palais will be presented at Burra Town Hall 27 June.
+
+Notice. The Apex Club screens Cocoon at the Burra Town Hall 28 June.
+
+CXVI, 8060, 2 July 1986, page 18
+
+Burra SES held its AGM on 26 June and a good crowd attended. [Photo of Rhys Vengastern (sic: Van Gasteren?) (Rescue Officer), Andrew McInnes (Deputy Controller) and Des James (Controller).]
+
+Burra Lions held their handover dinner at Burra Sports Complex 21 June. Robin Eberhard is the new President with Ian Warnes as Secretary and Gary Tapscott as Treasurer.
+
+Trevor Willmott is the new manager of Dalgety Bennetts Farmers at Burra. He succeeds Andrew Butler who has been appointed stud stock representative for the Northern and West Coast Areas of SA. He will continue to be based in Burra.
+
+David Bannear directed operations at the miners’ entrance to Morphett’s Shaft on Sunday before a crowd of Apexians. Danny O’Bryan and his back-hoe uncovered the entrance about 20 metres from the shaft. The object is to recreate the entrance so that people will be able to walk through it into the shaft itself. The project is funded by the Department of Mines and Energy. This and the restoration of Morphett’s Enginehouse is the final leg of the Jubilee 150 Burra Heritage Town Project. [Photo of the unearthing of the entrance.]
+
+Obituary. Mary Cox, formerly of Burra, died recently and has been buried here.
+
+[Born Ethel May Thomas 26 May 1903 Solomontown: buried Burra 24 June 1986. Married Herbert Vincent Cox 1926.]
+
+John & Joan Reed and family are being farewelled in Burra before they leave for Coober Pedy.
+
+CXVI, 8061, 9 July 1986, page ?
+
+Don Lloyd writes to the editor:
+
+It was a pleasure to hear Mr Hawker refer to the recently revealed turned wood frontage to the gallery at the Town Hall. How fortunate that it was covered up and not removed. In the same week the unique signpost in Market Square was removed. Hoe many years had that been part of Burra? Over the years much heritage has been removed. In recent years the main school building and the Town Hall steps have been under threat and the maternity wing of the hospital has been demolished. What will be threatened next? Will the wall in front of Polly’s Tea Rooms be plastered or the wooden steps from the road destroyed. The proposed Ludgvan Street deviation will see more destroyed and the railway overpass will probably be bulldozed so it can be enlarged. The expensive mess that is now Market Square will not prevent accidents. The signpost should be returned and restored to its original state with wooden posts and chains.
+
+Peter Veitch (39) has been appointed General Manager of Collinsville Stud. He is currently manager of Wesfarmer Rural Ltd’s branch at Esperance, WA. [Details of his experience are printed.]
+
+Morphett’s Enginehouse work is proceeding. [Photo of the installation of one of the huge Oregon timbers to support the second storey floor.]
+
+The ‘CollinsvilleRams’ set off for WA last Saturday to compete in the Goldsworthy Black Rock Stakes – a 118 km race run at night on 12 July. Wheelbarrows are required to have a good set of headlights and a red tail light and have a bag capable of holding 11 kg of iron ore etc. Runners: Graham, Trevor & Mick Kessell, Scott & Glen Billings, John Robinson, Gary James, Brian Willsdon, Melanie Condt, ‘Red’ Danny O’Brien, Andrew Wardle and Paul Neale, plus a support team.
+
+Marriage. At Mt Bryan Uniting Church last Saturday
+
+Robyn Oakley married Wade Brooks. They will live at Orroroo.
+
+Ric Williams won ‘most consistent of all classes’ at the Waikerie Speedway over the seson.
+
+Pam Marlow is seeking volunteers to help with applying plaster to her model of the Burra Mine next Saturday 14 July.
+
+Weather. Burra had some good rain and some good showers extended to the east.
+
+Burra Community Library held a trading table and raised $484 – quite close to the target of $500.
+
+Burra Scouting will hold a family barbecue at the Burra Showgrounds next Friday night. The District Commissioner Bob Beare will attend.
+
+CXVI, 8062, 16 July 1986, page 18
+
+Birth. To Susan & Mike Soulsby of the National Bank, a daughter, Marianne.
+
+Golf. Many women golfers endured atrocious weather last week at Burra to participate in the Bronze Salver Competition. One returned to the clubhouse saying she had endured sun, the rain, the wind, the hail and the snow.
+
+LOOK FOR ANY OTHER SNOW REFERENCES
+
+CXVI, 8063, 23 July 1986, page ?
+
+Notice. Burra Burra DC st a meeting on 14 July elected John William McMahon Chairman in place of James Seymour Hawker and elected Graham Malcolm Kellock as Deputy Chairman.. [Photo.]
+
+CXVI, 8063, 23 July 1986, page 22
+
+The ‘Collinsville Rams’ finished 3rd in the Black Rock Stakes in WA. [Considerable details of the race are printed.]
+
+Bullocky Jim Kelly of Naracoorte visited Burra last Wednesday to meet representatives of the Coppertown Festival Committee and others. He came especially to inspect facilities available for the October Copper Road re-enactment, when a bullock dray laden with copper ore will leave for Port Wakefield. Provision has to be made for camp sites, firewood, fodder, water, etc. [Photo.]
+
+Burra Burra DC
+
+Pat Smith has been appointed Councillor for Farrell Flat Ward after the transfer of Cr Terry Tresize to Kangaroo Island with his employment.
+
+From the profits of the Civic Ball $50 will go to the Community News and the balance of $580.22 to the Burra Town Hall Management Committee.
+
+District Clerk Rod Walsh has refused to comment on the claim that kerbstones have been removed from residential areas in Commercial Road to be used in the Market Square re-development. The Burra Preservation Organisation has protested and the National Trust has asked shy the stones have been removed from existing footpath areas.
+
+Birth. To Sue & Gerald Pens last week, a daughter, Abbie Susan.
+
+Birth. To Jackie & David Marsland, a daughter, Jessica Anne.
+
+The Church of England’s Dinner Dance was a pleasant night out and quite a few dressed in period costume.
+
+The Burra Cycling Classic will begin at Burra on 2 august near the Commercial Hotel and end at c. 3.30 p.m.
+
+CXVI, 8063, 23 July 1986, page ?
+
+Kingston Street Cottages for the Elderly
+
+Representatives of the Council and the Housing Trust of SA met on 18 July to discuss their joint venture to erect cottages for the aged in Kingston Street alongside the old Salvation Army Citadel. The proposal is to build two double units with each unit to have two bedrooms, a kitchen, separate dining room and lounge. The design will have bull-nosed verandahs. The Housing Trust will also soon start work on the renovation of the McBride Cottages in Chapel Street, where the heritage Branch has been involved as they are on the State heritage List.
+
+A Leighton Football Club reunion will be held at Burra Sports Complex on Saturday 30 August.
+
+Birth. To Wendy Rayfield & Jeff Underwood at Burra Hospital recently, a daughter, Tansie Marie.
+
+CXVI, 8064, 30 July 1986, page ?
+
+Burra Winner in the SA Tourism Awards 1986: Tourist Service Award, O’Connor’s Tours.
+
+Burra’s Community Bus is now entering its 5th year of operation. It is operated by the Lions Club and a charged of 40 cents per passenger is made. It is run on Thursdays by O’Connor’s Tours and gets people to the shops from their homes and back again.
+
+Australia Post recently surveyed letter box use in SA and found that Burra’s three Victorian era letter boxes were not used enough to justify their retention. The National Trust and Burra Preservation Society objected to their removal and as a result Australia Post has agreed to let them remain. Only the Burra North box will remain operational. The boxes near the Burra Hospital and the Kooringa Hotel will be closed. Remarkably few post boxes from the Victorian era remain in SA.
+
+BCS junior students visited Redruth Gaol last week for story telling as part of Children’s Book Week. Students are also busy rehearsing for the school play Man of Steel to be performed at the Burra Town Hall on 14 & 15 August.
+
+A meeting at the school on 19 August will further steps towards the formation of an Old Scholars Association.
+
+The Bush Picnic Race Meeting Committee held its AGM recently. The next race meeting will be 29 March 1987. Elected: President, John Maidment; Senior Vice-President, David Kellock and Secretary-Treasurer, Les Saunders. Proceeds will again be split between RFDS and Burra Senior Citizens Hostel.
+
+CXVI, 8064, 30 July 1986, page ?
+
+Obituary. A Return Thanks Notice reveals that Andrew Thomas (Drew) Anderson died on 11 June 1986.
+
+[Born 1953.]
+
+CXVI, 8064, 30 July 1986, page ?
+
+Morphett’s Enginehouse. A letter from the J150 Board has notified the Burra Burra DC that $120,000 has been allocated to the restoration of Morphett’s Enginehouse at the Burra Mine. The funds are going for re-pointing of stonework, the installation of doors and windows, rebuilding all floors and balconies on the second storey level and re-roofing. The slates are presently being placed on the new roof. [Photo.]
+
+Trevor Willmott is the new manager of Dalgety Bennetts Fisher in Burra. [Photo.]
+
+CXVI, 8065, 6 August 1986, page ?
+
+D. Rayfield writes a letter to the editor again bemoaning the desecration of Market Square.
+
+BCS. 32 athletes from Burra attended the SA Country Secondary Schools cross country competition at Carisbrook Park near Salisbury.
+
+Burra Mine. A management committee for the Burra Mine Area has been formed under section 666C of the Local Government Act.
+
+Burra Burra DC is to make application to the National Estate Program 1986-87 for a grant to quarry kerbstones as they are a characteristic of the town’s streetscape.
+
+The Council was recently addressed by John Womersley, manager of the State Heritage Branch. As a result Council has moved to consider the appointment of a heritage advisor/planning officer through the National Estate Program.
+
+Weather. On the weekend Saturday began fine, but ended with pouring rain and was very cold. On Sunday the golf championship was called off due to intense cold.
+
+Burra Cycling Classic
+
+The 150 km race began at 10.30 a.m. and headed for Mt Bryan and then returned to Burra before going on to Clare, Sevenhill, Penwortham, Watervale, Auburn, Saddleworth, Manoora, Hanson and thence back to Burra. It started in winter sunshine, but ended in rain, wind and very cold conditions. The winner was Simon Gabrynowicz, a male nurse, who won $300. The fastest time was by Malcolm Clasohm. There were 30 competitors.
+
+CXVI, 8066, 13 August 1986, page ?
+
+Obituary. Mrs Lilian Jeffery died on 4 August.
+
+[Born Lilian Mabel Bishop 24 July 1902 Farrell’s Flat. Married Leonard Mark Jeffery 1921.]
+
+Obituary. Mrs Effie Blanche Robinson of Hanson died on 6 August. For many years she was the postmistress at Hanson.
+
+[Born Effie Blanche Hughes 20 February 1905, Clare. Married Sydney Horace Pearce Robinson 1927.]
+
+CXVI, 8066, 13 August 1986, page ?
+
+Burra Burra DC. Notice of Adoption of Assessment and Declaration of Rates.
+
+Residential land in Burra 2 cents in the dollar
+
+Commercial land in Burra 4.25 cents in the dollar
+
+Residential land in Booborowie 10 cents in the dollar
+
+Residential land in Farrell Flat 5 cents in the dollar
+
+Residential land in Mount Bryan 8 cents in the dollar
+
+Rural land o.4 cents in the dollar except for the eastern ward which is 0.35 cents in the dollar
+
+Minimum rates Township of Burra $230
+
+Minimum rates Townships of Booborowie, Farrell Flat & Mt Bryan $160
+
+Minimum rates elsewhere $100.
+
+CXVI, 8066, 13 August 1986, page ?
+
+Rosalie Lloyd has been chosen for the Australian Junior Team to compete against Japan and China to be held in China. She will compete in the 400 metre hurdles. There are 34 athletes in the Australian team. Burra people have raised $1,000 towards this trip and last Saturday the Apex Club presented her with a cheque for $300. The team flies to Tokyo on 20 August and then on to Beijing and returns on 30 August.
+
+CXVI, 8066, 13 August 1986, page ?
+
+BCS. Rehearsals for Man of Steel continue, with performances on 14 & 15 August.
+
+CXVI, 8067, 20 August 1986, page ?
+
+Morphett’s Enginehouse. The Minister of Tourism Ms Barbara Wiese has advised Burra Burra DC that under the Tourism Development Assistance Scheme $68,000 will be granted to help develop Morphett’s Enginehouse at the Burra Mine. The development of the town and Burra Mine is strengthening the appeal of the whole region. This funding will enable the development of lookouts, roads, pathways and minor works necessary to complete the Morphett’s Enginehouse project. The cost of this stage is $78,000, of which the Council proposes to contribute $15,000.
+
+CXVI, 8067, 20 August 1986, page ?
+
+Birth. To Dick & Karina Cuttle, a son.
+
+Burra Golf Club open day on Sunday was held in very changeable weather. About 111 hit off.
+
+Pam Marlow was in Burra for last weekend to work on her model of the Burra Mine.
+
+The recent wet weather has seen the creeks full of flood waters, but except for cutting a couple of roads no damage has been done.
+
+CXVI, 8067, 20 August 1986, page 19
+
+Burra Burra DC has increased its rates by an average 7.64%. The main expenditure proposals for 1986-87:
+
+$4,000 to CFS for two-way radio equipment
+
+$10,500 for a proposed new Burra rubbish dump
+
+$15,000 for a Supplementary Development Plan incorporating heritage management
+
+$2,000 towards an amenities block an Farrell Flat Institute
+
+$1,000 towards improvements at Burra Town Hall
+
+$3,000 towards improvements at Burra Tourist Office
+
+$6,500 for Tourist staff employment
+
+$500 for a quarry study for road materials
+
+$10,000 for SES plant and equipment
+
+$390,000 for Council’s Works Program
+
+And Council is considering a contribution to the Ian Auhl mezzanine floor in the Community Library.
+
+The Mezzanine Floor in the Burra Community Library is rapidly taking shape. It is built above the resource room and with attractive balustrading will be the repository for Burra’s local history collection. It is a joint venture of the Education Department, the Public Libraries Division and the District Council and will house the Ian Auhl Burra History Index and collection, the obituary index and any family histories in Burra. Furnishings will include an original bookshelf from the Institute Library – about 100 years old and original cupboards from the District Council of Burra, of about the same age. Tables and benches have been made from original mine timber submerged for a century and made by the Court House Hotel Co-operative when it was in action.
+
+[Photo of Chief Librarian Colin Fidock in the partly completed room.]
+
+BCS. The student production of Man of Steel was well received by an appreciative audience. Director/Producer John Keal was well pleased with the performances. Justin Hall did well as the ‘Man of Steel’ and so did Helen Moorhouse as the female lead. Other notable performances came from George Gebhardt and David Baulderstone, while Stacy Hirschausen gave the show some extra oomph as ‘Volga Olga.’
+
+Accident. A 36-uear-old male from Hanson faces a number of charges after driving head-on into a police vehicle in Commercial Street. He failed to stop and was apprehended at Hanson and then refused a breath analysis test.
+
+Fr Richard Morris of St Mary’s Anglican Church with his wife Mary and daughter Joan will leave for Kerrville, Texas on 23 August to take up a two month exchange of duties with Rev. Marvin Bond and his 23-year-old son Michael, who will come to Burra for the same period. [Details of the Kerrville town and parish are printed.]
+
+A UF & S Rural Expo is planned for 29 August in Burra Town Hall, with proceeds to aid the Farmers’ Fighting Fund.
+
+CXVI, 8068, 27 August 1986, page ?
+
+Notice. J.M. & H.P. Hirschausen of 6 St Just Street, Burra, are applying for the conversion of an existing stone building into a licensed tavern and restaurant. The location is Lot 78 Commercial Street. Representations concerning this application are to be made by 3 September.
+
+[Lot 78 is on the eastern side of Drew Lane.]
+
+CXVI, 8068, 27 August 1986, page ?
+
+Burra Golf. Some three years ago Jim Richards was President of the Golf Club and he initiated a junior golf club, which under his guidance and with assistance from others golfers, has gone from strength to strength. Today 21 young boys aged 7-13 play the game regularly. Last Sunday the junior championship was played and taken out by Marcus Scholz. Earlier in the year some of the boys attended a golf clinic at Eudunda where Chris Baulderstone and Sean Knight both did well, bringing home trophies.
+
+CXVI, 8068, 27 August 1986, page ?
+
+Obituary. Reginald Wood died in Burra last week.
+
+[Reginald Trafford Wood born 24 September 1901, Terowie: buried Burra 21 August 1986.]
+
+Marriage. Next Weekend
+
+Sylvia Gisi formerly if Burra will marry Gary Williams formerly a teacher at Burra.
+
+Ann & Bryan Rees from the National Bank were farewelled last week. Bryan will take up an appointment in the metropolitan area.
+
+The Burra Swimming Pool Committee held an open meeting on Wednesday and attracted a good crowd. Council has made $7,000 available in the budget this year and the committee will also have gate takings etc. at about $6,000. The meeting decided that lawn mowing and removal of rubbish will be done by volunteers. The pool requires volunteers as it has to be drained and repainted and the Health Inspector will be asked to report on the amenities block. The AGM will be held on 24 September.
+
+CXVI, 8068, 27 August 1986, page ?
+
+The Burra Heritage Town Jubilee 150 Project will be opened by the Hon. R.G. Payne MP, Minister of Mines and Energy on Sunday 5 October at 1.30 p.m. at Morphett’s Engine House. After the opening guests will tour the building and then be taken to the other two sites of the project; the Bon Accord Mine Museum and the Kingston St Row of Paxton Square Cottages. Period costume is to be encouraged for the occasion.
+
+$150,000 was spent on the Kingston Street Row, which has been restored and adapted for holiday accommodation.
+
+$30,000 was spent on the Bon Accord, largely for structural repairs. A Museum’s Accreditation Grant of $8,500 from the History Trust of SA has been spent on displays.
+
+The National Trust Branch at Burra has contributed about $6,000 to the Pam Marlow model of the Monster Mine at the Bon Accord Museum.
+
+Morphett’s Enginehouse restoration has been described as unique in the Southern Hemisphere and possibly a world’s first. [Although there are intact enginehouses in Cornwall, none there has been restored from a ruined state.]
+
+Visitors will be able to visit the three restored floors of the Enginehouse and view the mine pool and Morphett’s Shaft from the balconies on the second floor. The Department of Mines and Energy is providing funding to allow the timbering of the top 40 feet or so of the shaft and the eventual re-opening of the miners’ adit.
+
+CXVI, 8068, 27 August 1986, page ?
+
+The Burra Show is to be held on Saturday 11 October.
+
+This Jubilee Year Show, the society’s 109th, is to be a memorable one.
+
+[This was not the 109th Burra Show. The correct figure cannot be obtained by subtracting 1877 from the present year. The first Show was held in 1877, but there were no shows from 1886 to 1893, apparently due to apathy, which provoked considerable comment in the local paper at the time. The 1897 Show was cancelled due to the appallingly bad season and the 1914 Show was cancelled due to the combined effects of the outbreak of World War I and a devastating drought. (The event returned in 1915.) Twenty-five years of Shows from 1915-39 ended in 1940 when the Show was cancelled due to World War II. The Show remained suspended until 1946, since when it has been an annual event.]
+
+Special features for 1986:
+
+Jim Kelly of Naracoorte and his bullocks
+
+Blade and mechanical shearing competition and display of historic handpieces by Frank Doeke
+
+Sammy & Samantha Seagull
+
+Paul O’Bryan’s Band
+
+Elders will show an historic film of a Burra Market sheep sale
+
+Elders will arrange for a display from the shoe On the Sheep’s Back to come to Burra.
+
+CXVI, 8069, 3 September 1986, page ?
+
+Burra & Hallett SES Units along with police and ambulance services conducted an exercise last Thursday. The scenario was a gas explosion at the Burra Hotel, which collapsed the stairs and left 14 people trapped on the top floor, some seriously injured. [Photo.]
+
+CXVI, 8069, 3 September 1986, page 19
+
+The UFS Rural Expo at the Burra Town Hall on Friday drew about 450-500 persons. There was a barbecue and many stalls, a display of heritage quilts [photo], computers, sausage making [photo of Sue & Len Hentschke], wool spinning and microwave oven demonstrations, among other things. Looking Good Boutique launched its spring collection and proceeds went to the Farmers’ Fighting Fund. [Heritage Quilts were drawn from two classes making quilts for the Jubilee Year celebrations.]
+
+CXVI, 8070, 10 September 1986, page ?
+
+Marriage. Mt Bryan Uniting Church 5 July
+
+Wade Brooks of Orroroo married Robyn Oakley of Mt Bryan.
+
+CXVI, 8070, 10 September 1986, page 17
+
+Birth. To Keryl & Daryl Maidment on 27 August, a daughter, Anita.
+
+Flinders University Drama Students are spending two weeks in Burra in preparation for their production of She’ll be Riot at the Redruth Gaol as part of the 1986 Coppertown Festival.
+
+[Details in c. 11⁄3 columns with photo of students on the Town Hall steps.]
+
+The Pioneer Day Procession in Adelaide had a small group from Burra as part of the show. Jenny O’Connor pushed a pram with Des Woolley pushing a barrow. Steve & Gaye Woolley’s two daughters and two sons of Graham and Raelene Waters walked along in period costume. The procession started at the Parade Ground and ended at Wayville Showgrounds.
+
+Morphett’s Enginehouse – Photo showing progress with scaffolding around the building and the balconies, roof and new was facing the shaft all in place.
+
+CXVI, 8071, 17 September 1986, page ?
+
+D. Rayfield writes to the editor re the Burra rates.
+
+The rates have not risen by 7.64% - in fact the average house owner in Burra has had a rate rise of 15% and in other towns of 14.28%. The increase for many commercial properties is far greater – 50% or more. This far exceeds the inflation rate, which is currently about 8.3%.
+
+CXVI, 8071, 17 September 1986, page ?
+
+Pam Marlow’s Model of the Burra Mine in about 1860, housed in the Bon Accord Mine Museum, is now nearing completion after some four years of labour. About half the time was taken in research and development of techniques. The model is part of the Burra Burra DC’s Jubilee Project. The model is at a scale of 1:87, which allows for about half a square kilometre to be displayed. The model shows the mine in its peak of prosperity. The general landscape has been created from plaster over chicken wire to which individual module boards containing groups of building fit. This has been done because Pam has lived at Aldgate and Pinnaroo since 1983 and this permits her to work at home. The model will be open to the public view from 5 October.
+
+CXVI, 8071, 17 September 1986, page 18
+
+Ken Harpur, Melbourne playwright, has been working on the script for She’ll by Riot. He says the Gaol lends itself to promenade style theatre. He has made many visits to the gaol. [Details of some of his other work are printed with a photo.]
+
+Ten Burra Venturers spent a week recently climbing and hiking around Wilpena Pound.
+
+CXVI, 8072, 24 September 1986, page ?
+
+Pat Brereton. An article tells of this Burra artist who has a studio, previously the Hanson tennis shed, close to her house. She has spent the past eleven years mastering watercolour. In 1972 art classes started in Burra and in 1975 Adelaide artist Eddie Taylor took Pat under his wing and taught her some basics. She had her first exhibition at Hawker in 1982 and since then at Clare, Tea Tree Gully, Woodville, Victor Harbor and Whyalla. She has been married for 31 years and has 4 daughters and 6 grandchildren. [Photo.]
+
+CXVI, 8072, 24 September 1986, page ?
+
+M.T. & B.M. Kellock’s poll merino ram was judged supreme champion at the Royal Adelaide Show. [Photo.] It was the third year in a row that a poll sheep topped the show. The show’s grand champion merino ram was bred at the Old Ashrose Hallett stud of E.J. Ashby & Sons. Old Ashrose also produced the grand champion poll merino ewe.
+
+CXVI, 8072, 24 September 1986, page ?
+
+Adelaide Merino Ram Sales saw an Argentinean buyer bid $102,000 for a JC & S 55 ram from Collinsville. The previous record was $79,000 for a Collinsville ram sold in Adelaide in 1981. The ram will go to an AI program by Goyaike Breeding Society in the SW of Argentina.
+
+Joe Burke of Wyoming USA bought one ram from East Bungaree and 12 Collinsville rams for a total of $284,600. Collinsville’s first pen attracted his highest bid of $66,000.
+
+[Photo of three Collinsville rams that sold for $66,000, $102,000 and $44,000.]
+
+CXVI, 8072, 24 September 1986, page 18
+
+Burra Hospital Foyer has been modernised and the Ladies’ auxiliary has recently spent $3,500 on new curtains for some sections.
+
+Obituary. Mr Dick Reed died last week. He is survived by his wife Dorothy and children Peter & Chris.
+
+[Richard Malcolm Reed born 29 April 1910, Kooringa: died 16 September 1986.]
+
+The J150 Book Relatively Speaking will be launched in October at the Burra Town Hall. Over 400 people have contributed.
+
+Burra Uniting Church Fete will be held on 27 September.
+
+Kelvin Harman, production manager of She’ll be Riot, will be working in Burra for two or three weeks organising the building of the stage settings for the show (13 in all), co-ordinating the technical staff and overseeing lighting and sound.
+
+Don Hele, Chairman of the Urban Conservation Committee of the National Trust, spoke last Friday night to a group of traders, Council and other members of the community about adopting the ‘Main Street Program’ for Burra.
+
+The program was devised in the USA by Mary Means and it calls for total cooperation and foresight. It covers organisation, design, promotion and economic restructuring. Over 600 American towns have used the program to reverse trends of a dying main commercial street. Economic expertise was needed as well as the services of perhaps an architect or consultant on trading. The scheme would restore buildings externally to what they were. Owners of premises should wait till they could afford to restore buildings properly. Nothing looks sadder than unused buildings. Signage should be unobtrusive. Slides of examples of good restoration from Port Adelaide, Gawler, and Aldgate were shown. In Burra food availability needs improvement and things like aluminium tiles on old cottages spoil the character of the town.
+
+Burra Hospital. The 109th annual report from the Chairman Harry Quinn voiced concerns about possible changes in Burra. Recent media reports highlighted proposals to remove maternity and acute care beds from smaller country hospitals in favour of additional nursing home type beds. The Board wished to voice their opposition to this. The changes would see a loss of services and therefore of trained staff and job opportunities and potentially health risks for trauma and other acute patients and expectant mothers.
+
+CXVI, 8073, 1 October 1986, page ?
+
+Fire. Three cottages in the unrestored row of Paxton Square were gutted by fire on Sunday causing an estimated $50,000 damage. Police who investigated believe the fire was deliberately started by using a cigarette lighter or matches to ignite a mattress. Smoke was seen coming from under the cottage roofs at 3.30 p.m. on Sunday. It took hold in the wooden shingles covered in corrugated iron. The walls of the cottages were intact after the fire, which took two hours to extinguish. The decently restored Kingston street row will be officially opened on 5 October as part of the Burra Heritage Town Jubilee 150 Project. [Two photos of the fire in Paxton Terrace.]
+
+Burra Heritage Town J150 Project which received a grant of $270,000 opens on Sunday 5 October at the Burra Mine site. The Director General of the Department of Mines & Energy, Mr Keith Jones, will open the three project sites: Morphett’s Enginehouse, Bon Accord Mine Museum and the Kingston Street row of the Paxton Square cottages. Speakers will include Kym Bonython, Chairman of the J150 Board. The three foot thick walls of Morphett’s Enginehouse now stand as strong as they did last century. A pumping accident nearly tore the place apart in the 1870s and a fire that gutted the Enginehouse and the shaft in the 1920s left it a ruin. A J150 allocation of $90,000 and the Department of Mines & Energy grant of $35,000, plus contributions from the Burra Burra DC and the Department of Tourism have seen the building restored. It is now the world’s only restored Cornish Enginehouse. Burra Apex has been working to restore the adit tunnel to the shaft and they hope to have it ready for Sunday’s opening. [Photo of Morphett’s Enginehouse with the framework of the lining for the shaft alongside it.]
+
+CXVI, 8073, 1 October 1986, page ?
+
+Paxton Square
+
+In the unrestored cottage (one of eleven) vandals had sat on the dirt floor and scrawled psychedelic-coloured words on the stone walls where whitewash peeled off in fragments. They had sat around a burnt out shell of a fireplace and passed through the corrugated iron lean-to added in the 1930s, when poor families in the Great Depression had sheltered extra babies and boiled their clothes in coppers.
+
+The three rows of eleven cottages each were built by the SA Mining Association in 1849. Two thousand miners and their families had lived in dugouts in the creek banks, but floods had forced them out so Paxton Square was built. There were a few changes over the years. Verandahs were added in the 1930s and the rows of backyard toilets were later removed. In 1913 John Lewis, a former Burra resident, bought the square and presented it to the Burra Corporation to be used by ‘the indigent and deserving people who did not get drunk’.
+
+[Actually the Corporation rejected the offer, fearing that the income generated would not cover maintenance and they would be left with a bill. Eventually a Trust was established to manage the cottages.]
+
+Paxton Square was gazetted a Historic Reserve in 1969.
+
+Twenty-two of the thirty-three cottages have now been restored and adapted to low cost holiday accommodation. They feature whitewashed walls, open fireplaces, Berber carpets, slate floors and pine furnishings. The renovations were possible following a $150,000 J150 grant, money from a Federal Government job creation scheme and funds from the Lewis Board of Management.
+
+CXVI, 8073, 1 October 1986, page ?
+
+Bon Accord Mine Site
+
+Many relics of the busy mining days at Burra have been placed in the restored Engineer’s Workshop (1858) of the Bon Accord Mine, adjacent to the Burra Mine site. Mining stopped at ‘The Bon’ when little copper was found and the miners went to the Victorian gold rush. When they returned another effort was made, but also failed. The mine’s main shaft was utilised as the town’s water source in the 1870s* when the Burra Mine closed. Water from ‘The Bon’ was piped into Burra until 1966 and afterwards the E & WS Department gradually transferred the site to the National Trust. The restoration of the Bon Accord site was made possible through a J150 grant of $30,000, History Trust of SA grants totalling $11,783 and National Trust expenditure of about $6,000.
+
+[This is not quite accurate. The real story is complex, but in outline, the reticulation of water from the Bon Accord in the 1870s was extremely limited. It extended to only a handful of homes and was mainly directed to water troughs for animals. It was not extended to Kooringa until 1884. The water did not at this time come from the main shaft, but from one straddling the border of the property on Linkson Street. The pumping operations were not transferred to the old main Bon Accord shaft until 1908.]
+
+CXVI, 8073, 1 October 1986, page 15
+
+Netball. BBHJ1 are premiers in their grade for 1986. [Photo.]
+
+CXVI, 8073, 1 October 1986, page ?
+
+Plane Crash near Burra
+
+A pilot from Ipswich, Queensland, had a lucky escape on the property of Don Stockman about 7 km southwest of Burra on Friday. The crop-spraying plane seems to have damaged its undercarriage when it hit a rock on takeoff and when it landed the undercarriage collapsed. The pilot got out unscathed, but a minute or so later the plane burst into flame and was destroyed. [Photo.]
+
+Burra Apex Sports Person of the Year Awards
+
+Senior Award went to Estelle Nicholls of the Burra Women’s Bowling Club.
+
+She was the Club Champion and Champion of Champions in the North Eastern Women’s Bowling Association and also a member of the team that won the Burra Pairs & Triples Championships.
+
+The Junior Award went to Darren Jones, son of Des & Yvonne.
+
+He was Captain of the Burra Junior Cricket Team (who were season’s premiers) with a batting average of 94.8 and two centuries – 107 not out and 109 not out. He also took 25 wickets and 25 catches. He also played in Burra’s ‘A’ Grade cricket team. In football he won the North Eastern Association Junior Colts Medal and was the Association’s top goal kicker with 68 goals. He is also a prominent athlete in track and field.
+
+Mt Bryan Red Cross held a ‘Jubilee Affair’ at Belcunda last Wednesday. Luncheon was followed by a parade of jubilee gowns.
+
+CXVI, 8073, 1 October 1986, page ?
+
+Alison Reed has passed her seniors’ exam in ballet from the Royal Academy of Dancing.
+
+O’Connor’s Tours won the State Award for Tourist Services at the National Tourism Awards in Adelaide last week.
+
+The Jailbreakers were in town last weekend for a very enjoyable performance at Redruth Gaol.
+
+CXVI, 8074, 8 October 1986, page 22
+
+Burra’s J150 Project Officially Opened
+
+On Sunday 5 October between 300 and 400 people gathered at Morphett’s Enginehouse for the official opening of the Burra Heritage Town J150 project by the Director-General of the Department of Mines & Energy, Mr Keith Johns. [Details given in the issue of 1 October are basically repeated about the nature of the project.]
+
+Chairman of the Burra Burra DC Mr Jack McMahon gave a brief history of the project. He paid tribute to the work of Ian Auhl for his research and the documentation of Burra’s History. He thanked the various members of the working party and the contractors and architects and also Adelaide & Wallaroo Fertilizers for help with site works and fencing and Burra Apexians for more than 800 hours of volunteer work. Kym Bonython spoke as Chairman of the J150 Board. Keith Johns said his great grandfather was Thomas Roberts, Burra’s first mine captain. Just as he was about to declare the project open, a severe rainstorm burst over Burra, scattering the assembled people, but later the weather improved and buses ran a shuttle service to allow people to visit the three sites of the project.
+
+[Photo of the crowd at Morphett’s Enginehouse and on page? one showing Keith Johns addressing them.]
+
+Rev. Marvin Bond from Kerrville Texas and his son Michael are in Burra for two months, having exchanged roles with Fr Morris of St Mary’s, who is in Texas with his wife Mary and daughter Joan. [Photo of Rev. Bond.]
+
+Marriage. At Burra Uniting Church last Saturday Jane Kellock married David Hill.
+
+Birth. To Elspeth & Graham Radford of ‘Glenora’ on 30 September, a son, Thomas David.
+
+Obituary. Mr Bill Corner died last week.
+
+[William James Corner died 26 September 1986 aged 72.]
+
+John Jones is recovering in Burra Hospital from a fall while rock climbing in the Flinders Ranges on a school camp last week. He was flown from Hawker to Port Augusta by RFDS.
+
+Len Simpson has retired from the Council Staff after some 23 years’ service.
+
+She’ll be Riot cast have been rehearsing in earnest and director Jules Holledge has spent many hours with them in preparation for next weekend’s performance.
+
+CXVI, 8075, 15 October 1986, page ?
+
+Burra Yacht Club Regatta [Photo of the crowd at the event last Sunday.]
+
+Ratepayers Wish to Secede
+
+193 Burra Burra Dc ratepayers have proposed seceding from the District and joining Hallett DC. A hearing will be held in November. Hallett DC has proposed to the Local Government Advisory Commission that the Hundreds of Kingston, Mongolata, Rees and part of Ayers be annexed to Hallett.
+
+Spokesman for the 193 ratepayers, Bob Gebhardt, said Burra roads and Council plant were run down because of lavish expenditure on unnecessary projects like the J150 project and tourist ventures. Also Burra rural rates were twice those of Hallett and there was no communication between the Council and ratepayers.
+
+Burra Burra District Clerk, Rodney Walsh refused to comment. A meeting of Booborowie and Mt Bryan residents (who are in the affected area) set up a steering committee of twelve at a meeting on 26 June to plan the secession. Further ratepayer meetings were held at Mt Bryan on 15 September and at Hallett on 18 September. Chairman of the Hallett DC, John Hale, said that Council was in favour of the move. Hallett had only one permanent and one casual staff, while Burra had 6 administration staff. The change would add one to Hallett’s staff. They would like to see Burra return to a Corporation while Hallett took care of rural ratepayers.
+
+CXVI, 8075, 15 October 1986, page ?
+
+Hallett Flower Show, which has been held now for more than 40 years, will be held on Friday 17 October.
+
+CXVI, 8075, 15 October 1986, page 17
+
+Coppertown Festival Photographs
+
+Entertainer Dan Burt, a one-man band
+
+Kerry Jervis of Adelaide and her Large Munsterlander at the Burra Sanction Dog Show
+
+Bullock teams cross the Kooringa (Kingston Street) Bridge at the start of the Gulf Road re-enactment
+
+Mustang cars at the school oval after taking part in the street procession
+
+CXVI, 8075, 15 October 1986, page 18
+
+The Gulf Road Re-enactment began on Monday. Marquees were filled with food while bullocky Jim Kelly and his off-siders yoked the bullocks. They then went to the Smelts area where the teams were hitched to their wagons and loaded with ore for their three week trek to Port Wakefield. When they got back to the creek Jim Lowe was ready with his teams of mules and donkeys. The Chilean Cultural Attaché attended and a Scottish band played. The travellers then set off to Hanson for their first overnight camp.
+
+The Copper Festival 1986 attracted thousands. It is estimated 1,500 took part in the procession, which featured Burra’s magnificent Jubilee 150 float, band, cars, people in period costume, carts, horses, donkeys, Clydesdales, etc. After the procession attention turned to the Burra Yacht Club’s annual regatta, at which the winners were:
+
+Boys: Aaron Schiller & Justin Smart in Nautyless
+
+Girls’ & Women’s Mandy Baker & Jane Villis
+
+Open Rikki Loffler & Aaron Slape in Pink Panther
+
+Nautyless won the Tracker James Memorial Cup.
+
+The new event for dragon boats was won by the Matulick team.
+
+In the afternoon the crowd enjoyed bands, buskers, clowns, food stalls etc.
+
+The National Trust sites were open and large crowds visited the newly opened Morphett’s Enginehouse and business was brisk at the Bon Accord Mine Museum, where the mine model and the illuminated shaft attracted favourable comment.
+
+The Burra Yacht Club Cabaret at the Town Hall was a success while the show She’ll be Riot at the Gaol was also enjoyed by many.
+
+Photos:
+
+One of the boat races on the creek
+
+The Junior Tanunda Brass Band
+
+The dragon boat race.
+
+The Burra Show on Saturday was one of the best.
+
+[Again it is falsely reported as the 109th: See explanation CXVI, 8068, 27 August 1986, page ?]
+
+[Photo of four of the eight blade shearers who took to the board simultaneously in the blade shearing competition/demonstration that was won by Andrew McInnes.]
+
+CXVI, 8075, 15 October 1986, page 19
+
+Burra Show
+
+[Photo of the Miss Burra Show Girl Competition:
+
+Senior Leonie Helbig
+
+Junior Mandy Drew
+
+Sub-Junior Marissa Lloyd
+
+Mini Section Sky Nicholls
+
+Relatively Speaking a book written by 400 young people of Burra and District was officially launched at Burra Town Hall on Wednesday 8 October. The guest of honour for the launch was Dr Claire Woods, Superintendent of Studies, English Language, Education Department of SA. Contributions came from BCS, Mt Bryan, Booborowie, Hallett, Leighton and Farrell Flat Schools and the Burra Kindergarten. Each story is accompanied by a photo of the child who wrote it. Colin Fidock received a copy of the book for the Burra Library and Louisa Fidock got one for designing the cover. The Harris family of Farrell Flat was given one for devising the title. [Photo of Peter Quick, Chairman of the production committee, Dr Claire Woods and Roger Henderson, Principal of BCS.]
+
+CXVI, 8076, 22 October 1986, page 18
+
+Burra Show for the Jubilee Year placed an emphasis on wool and merino sheep. [Again it is referred to wrongly as the 109th show: see note for CXVI, 8068, 27 August 1986, page ?]
+
+A video and historical display from On the Sheep’s Back were features along with a popular shearing competition. Brian Riggs, a Life Member of the society, opened the event. Andrew McInnes won the blade shearing competition with Phil Venning 2nd and Peter Stockman 3rd. Kelvale Stud won Supreme Champion Sheep and W.B. Ashby & Sons entered the Grand Champion Ram. Jim Kelly and his bullocks were another highlight. [Results are summarised in a little over 2 columns.]
+
+The Rural Expo organised by the United Farmers & Stockowners’ Association Burra Branch and held recently in Burra raised $1,220.
+
+The Jubilee 150 Music Show will visit Burra. It will give young people the chance to learn production skills for musical and theatrical performances. Following the workshop three young people will have the opportunity to get some hand-on experience at the rock and roll show to be held that night. The project is aimed at Year 11 & 12 students.
+
+Birth. To Peter & Debra Spackman at Burra Hospital 8 October, a daughter, Heidi Rose.
+
+Obituary. Leo Abbott Sen. of Farrell Flat died recently.
+
+[Leo Reilly Abbott born 14 October 1905, Redruth.]
+
+Marriage. Burra Uniting Church 25 October: Sally Hayes will marry Kym Lynch.
+
+Darren James, 14-year-old Junior Sports Person of the Year, has started this season well with 126 retired in the junior team and then in the ‘A’ Grade match against Spalding he made 98.
+
+The Gulf Road Re-enactment. On the second day Jim Kelly and his team made a stop at the Acacia Well between Burra and Hanson. Much used many years ago, it has been painstakingly restored by Norm Maxted and his son.
+
+Ben Hall, a grandson of the bushranger, had his Cobb & Co. coach in Burra last Wednesday for a scheduled stop at the BCS before packing up and heading for Peterborough. He did some running around so that a few lucky folks enjoyed a ride.
+
+CXVI, 8077, 29 October 1986, page ?
+
+Collinsville’s Annual Sheep Auction recently saw an average price of $715 for merino and poll merino rams. This was more than $200 better than the previous year. [Further details and a photo are printed.]
+
+CXVI, 8077, 29 October 1986, page ?
+
+John Olsen, Leader of the Opposition, visited BCS earlier in the month. He came to familiarise himself with the school’s aspirations to have a student boarding hostel built on campus.
+
+Burra Pony Club is planning a Jubilee Horse Show at Burra Showgrounds on 9 November.
+
+Burra auxiliary of the Adelaide Children’s Hospital recently presented two service awards to members. Dolly Cox received a 15-year service award and Irene Hirschausen a 20-year service award.
+
+CXVI, 8077, 29 October 1986, page 12
+
+Sheep Sales
+
+East Bungaree ram and ewe sale saw the top-priced ram sell for $2,050. [Photo & further details.]
+
+The annual Burra merino and poll merino ewe sale saw ewes sell to $210. A total of 782 sheep were sold. [Further details are printed.]
+
+CXVI, 8078, 5 November 1986, page 19
+
+Marriage. Burra Last Saturday: Lisa Steele married Mark Brooks.
+
+Burra Swimming Pool is being cleaned and repaired for the coming season.
+
+Accident/Obituary. Two cars collided head on at about 11.30 p.m. on 24 October 23 km south of Burra. Darren Andrew Ames, a bank officer of Ridgehaven was killed and his passenger, Margaret Coutts was critically injured and was taken by helicopter from Clare Hospital to the RAH. The occupants of the other car were Phillip Stolte of Mt Bryan and Jamie Pollard of Burra. Both were admitted to Burra Hospital with leg and facial injuries.
+
+Burra National Trust are planning to visit Princess Royal on 9 November for a picnic and garden party. Mrs Tennant will be present and the house will be open to visit.
+
+She’ll be Riot performed at Redruth Gaol during the Copper Festival weekend by Flinders University Drama Centre was greatly enjoyed. About 800 people saw the two performances on Saturday and Sunday nights, but 400 more were disappointed when Monday’s show was cancelled due to inclement weather. The show was based on Burra and its history with particular regards to the gaol. It was a promenade performance using a variety of locations for the first half, presenting cameos of Burra life. Food was supplied in the interval and the second half took place in one of the exercise yards where there was a pot-pourri of activities. There were puppets, Cornish wrestling, and activities over the underground tank area and up onto the roof as one of the reformatory girls attempted to escape. The audience was finally led out the back gate and then around the walls to a large bonfire at the front. It was written by Ken Harper and directed by Jules Holledge.
+
+CXVI, 8079, 12 November 1986, page ?
+
+John Humphrys has replaced Craig Wissell at Dalgety Bennett Farmers. Craig has been transferred to Broken Hill. John comes from Lameroo and has connections to the Humphrys who once farmed in this district.
+
+Burra Pony Club’s Jubilee Horse Show drew a crowd to the showgrounds on Sunday.
+
+The National Trust’s trip to Princess Royal on Sunday was made in perfect weather.
+
+Little Athletics. About 50 children and adults met at the school oval on Sunday and decided to form a Little Athletics Club in Burra.
+
+The J150 Travelling Music Show’s Workshop and disco proved to be popular, with a good crowd at the Town Hall for the disco on Friday night.
+
+The Burra Hospital Auxiliary’s Melbourne Cup Luncheon drew a very good crowd of 244 at the Town Hall.
+
+Burra Burra DC. At the meeting on Monday Councillors saw the video made of the final preparations of Morphett’s Enginehouse and shaft and the official opening of the Heritage Town Project, made by Richard Lockheed.
+
+CXVI, 8080, 19 November 1986, page 19
+
+Tom & Kaye Boulger & Geoff Hirschausen, owners of Drew & Crewes’ building in Commercial Street, are having it renovated and repainted with its original name. [Photo.]
+
+Child Art Week is being marked in Burra with a display of student art in the State Bank in Burra with art from Mt Bryan, Hallett and Farrell Flat Schools.
+
+[Photo of art with Bronwyn Steele & Peter Bartlett of the Burra Branch of the bank.]
+
+Vandals have poisoned four claret ash trees in Market Square. They had been donated by local residents.
+
+Burra Creek is losing some 18% of its water between the two bores which feed the creek. Due to pumping costs Council has decided to close down No. 1 bore opposite Peacock’s Chimney for the rest of this financial year. In this time the creek will be cleaned and leakage areas identified and plugged.
+
+Cr James Hawker has been elected Vice President of the Local Government Association of SA. Mr Hawker was elected to Booborowie Ward in Burra Burra DC in 1975 and was the Chairman of the Council 1981-86. [His involvements with other bodies are listed.]
+
+Birth. To Robyn & Andrew Thomas, a son, Kym Andrew.
+
+The Burra Hospital Auxiliary has raised more than $2,000 at the Melbourne Cup Luncheon.
+
+Carolyn Bowden & Debbie Moore have passed the State Final examinations as Enrolled Nurses.
+
+Burra Community Library will hold an open day on 20 November to give people an opportunity of seeing the new Local History Room mezzanine.
+
+CXVI, 8080, 19 November 1986, page 20
+
+Burra Pony Club. Show results are printed.
+
+Marriage. St John’s Lutheran Church, Burra, 22 November
+
+Rosslyn Helbig, daughter of John & Rhoda Helbig, will marry
+
+Darren Catford, son of Brian & Marj. Catford .
+
+CXVI, 8081, 26 November 1986, page 18
+
+John Barton will address the Caring & Sharing Group on 2 December on the subject of ‘Problems with Prescribed Medication’.
+
+BCS. Petrea Piggott and Justin Hall have been named in the State team to compete in the All Schools National Athletics Championships in Sydney 12-14 December.
+
+Petrea will compete in the 100, 200 & 400 metre events, the 90 m hurdles, the triple jump, the 4 x 100 m relay and the 4 x 400 m relay.
+
+Justin will compete in the U17 400 m and the 4 x 400 m relay.
+
+Burra Community Library Open Day: two photos
+
+Coralie Field – member of the Library’s Board of Management
+
+Mr & Mrs Les Warnes
+
+Bible Christian Chapel
+
+The Civic Trust awarded a commendation for the restoration of the Bible Christian Chapel in Paxton Square. It is now the booking office for Paxton Cottages and has a collection of old church furniture in keeping with its history as a Bible Christian Chapel. It was originally built in 1850 as the first Bible Christian Chapel in Australia.
+
+CXVI, 8082, 3 December 1986, page ?
+
+Burra Burra DC. Due to cuts in SA Government expenditure Council has been forced to cut SES allocation from $10,000 to $6,000.
+
+Council will express concern to the Valuer General over the embarrassment caused by the unrealistic valuations within the Council area.
+
+Symbolic children warning signs are to be erected on Smelts Road near the ETSA Depot.
+
+A sub-committee will draft a brief for the operation of the Heritage Advisory Committee.
+
+The McBride Cottages Committee will administer the cottages in Chapel Street and the new ones to be built adjacent to the old Salvation Army Citadel.
+
+Council received a Sampson Family Book, which will be housed in the Community Library.
+
+CXVI, 8082, 3 December 1986, page ?
+
+Obituary. Mr Ted Wall died in Burra last week.
+
+[Edward Wall born 23 August 1902, Hampton (Burra).]
+
+Obituary. Mrs Beryl Kellock died suddenly last week.
+
+[Born Beryl May Gillett 10 May 1914, Hampton: died 24 November 1986, Burra.]
+
+Burra Carols Service will be held at the Burra Civic Centre Sunday 14 December at 7 p.m.
+
+Burra Aged Persons Hostel had its application for funding rejected for the second year in succession.
+
+CXVI, 8082, 3 December 1986, page 19
+
+Burra Mine. Roadworks have been done in the past few weeks and car park areas formed using part of the $45,000 grant for this purpose. Further roadwork will be done later in the financial year.
+
+Burra Lutherans gathered last Sunday at the site of the original Lutheran Church in Burra for the dedication of a memorial cairn opposite the Court House in Burra North. The cairn was erected by Roger Frahn and Owen Schulz and identifies the nearby ruins as the foundations of the original church built in 1851 to serve the needs of families who came from the Harz Mountains in Germany as smelters. Not long after being built it was nearly deserted when the men went to the Victorian goldfields. It was later rented to a lodge and was destroyed by fire after one of its meetings in July 1910.*
+
+[There are several errors in this paragraph:
+
+Construction was begun in 1851, but abandoned in 1852 when the walls were about four feet high.
+
+When men returned from the goldfields it was completed and finally opened for service in September 1861.
+
+It was used by many different groups over several decades. The Aberdeen Oddfellows’ Lodge seems to have met there for most of the building’s existence. The building is reported as burning down on the evening of Wednesday 20 July 1910. Since the lodge meetings were held on alternate Thursdays, this was not following a lodge meeting. Earlier in the night Mr C. Lowe had been in the premises cleaning the lamps, but no cause for the fire could be established.]
+
+CXVI, 8083, 10 December 1986, page 29
+
+Burra Caring & Sharing Group held its AGM last week. As well as useful talks the group had continued its elderly visitation program commenced in 1984. Elected: Co-ordinator, Toni Brown; Assistant Co-ordinator, Eileen Dalwood; Secretary, Lois Maxted and Treasurer, May Fahlbusch.
+
+Farrell Flat Station has come to the end of its active life as a railway station as train will no longer stop at Farrell Flat.
+
+CXVI, 8083, 10 December 1986, page 30
+
+Robin Baker has been named in the State Team to swim in Alice Springs in January.
+
+Jim Quinn of Mt Bryan has completed 25 years on the Mt Bryan School Council.
+
+Burra Scouts held a camp this last weekend, sleeping at the Show Hall and hiking around the district.
+
+Burra National Trust. President Maureen Wright reported on the year in a Christmas letter to members.
+
+1986 had been a very busy year:
+
+The Bon Accord Mine site and Museum had been restored and the displays established.
+
+Enamel interpretive signs had been erected at most of the Trust sites with brown routed wood digns at entrances.
+
+1987 would also see much activity:
+
+Attention will focus on Redruth Gaol using a $50,000 grant from the Commonwealth Bank.
+
+A photographic record of all Burra buildings is planned.
+
+A home for Burra’s three retired fire engines is planned.
+
+Kotz Cotage is to be transferred to the National Trust.
+
+Burra CWA celebrated its 60th birthday recently.
+
+Prior to a pooled luncheon, visitors were given a trip around Burra, visiting Malowen Lowarth and the restored Paxton Cottages. In the afternoon they were entertained with items by Mavis Thomas and Marie Abbott. Mallala branch members performed a very funny skit ‘The Waitress’ and the two Woolley girls sang.
+
+Burra Show Society held its AGM and Peter Stockman was elected as the Society’s new President. The Vice-Presidents are Bob Jamieson and Ian Slade. Jock Duncan as outgoing President reported on a very successful 1986 show. With a focus on sheep and wool, the features had been:
+
+A marquee in which Elders Pastoral had set up many displays from their successful Jubilee Show ‘On the Sheep’s Back’, held earlier in the year.
+
+Vet John Kock demonstrated laproscopy of ewes.
+
+Marleston School & the Wool Corporation presented static displays.
+
+M.T. & B.M. Kellock displayed their Supreme Champion Ram from the Royal Show and his fleece.
+
+Collinsville displayed the fleece from the World Record priced $102,000 ram.
+
+Photos of sheep adorned the walls of the Show Hall.
+
+Frank Doecke presented a display of historic shearing handpieces.
+
+There was a blade and mechanical shearing competition.
+
+Another highlight was the presence of bullocky Jim Kelly and his 18-bullock team.
+
+In the year Matt Reilly has assisted in the filling in and levelling of the old railway siding and the iron fence at the bottom of the showgrounds had been rebuilt. Since the show the oval had been resown.
+
+CXVI, 8084, 17 December 1986, page 18
+
+Darren James has been chosen to participate in a live-in [cricket] coaching clinic sponsored by the State Bank this month. He has also been chosen in the Country 11 U17 Team. This is a great achievement as he is only 14.
+
+Tim Letcher of Burra became the 7th Queen’s Scout in Burra when he received his award at the Christmas break-up. This is the greatest number of Queen’s Scouts for any single group in Australia. [Photo of David Jennings (Leader), Tim Letcher and parents Jan & Rob Letcher.]
+
+Chris McCabe, former BCS principal, will be the guest speaker at the BCS Speech Day on Friday.
+
+The four poisoned ash trees in Market Square have been replaced.
+
+CXVI, 8086, 7 Jan. 1987, page 16
+
+The Learn to Swim Campaign in Burra is currently under way.
+
+BCS Speech Day had the first BCS Principal Mr Chris McCabe return as speaker.
+
+The Chairman of the School Council Tony Baker commended the various committees and spoke of the last decade’s changes in the school. In 1976 a Class 1A Principal was installed.
+
+President of the SRC David Bailey said the highlights of the year had been the visit by the Language Centre and SRC involvement in the Vice-Regal Ball. Members had learned meeting procedures and the SRC had sponsored tracksuits and donated funds for the restoration of two historic photos.
+
+Principal Roger Henderson in his final report after five years at BCS said the past year had seen the school heavily involved in Jubilee 150 events. The local history room mezzanine floor had been installed as a joint venture between the Library Board, the Education department and the District Council. Peace Day had been celebrated on 11 November. The students had produced Man of Steel. A study room had been created for Year 12 students. There had been a high degree of parent involvement.
+
+He farewelled staff members:
+
+Dick Cuttle & Kym Reynolds were going to the USA on exchange.
+
+Cheryl John, Lois Davidson, Richard Lockheed, Paul Wilson, James Harris, Genevieve Richards, Denise Bryant, Pam Telfer, Aida Innocente and Karina Cuttle were also leaving, as was bursar Helen Radford.
+
+Chris McCabe spoke on the philosophy of the BCS and its facilities and performance.
+
+President Cheree Thamm reported on the Junior SRC.
+
+Prize winners are listed.
+
+CXVI, 8087, 14 Jan. 1987, page 18
+
+A Pool Disco was held at Burra Swimming Pool last Saturday. Ian Kleinig was the DJ.
+
+Burra has a Royal Life Saving Club. Jan Jacka is the Secretary. Members can use the pool out of ordinary swimming hours.
+
+Malowen Lowarth Garden us a picture with sunflowers, hollyhocks etc. in bloom.
+
+The Model T Fire Brigade is back in Burra after being restored per favour of Mr John and it is currently on display in Jennison’s showroom. The Metropolitan Fire Brigade believes it is the oldest motorised fire engine in SA.
+
+Marriage. Prince Alfred College Chapel last Saturday
+
+Chris Drew married Anne Roberts. They will live at Leighton.
+
+No. 1 Parafield Squadron of Air Youth of SA has just had 40 members at a week long camp at the Redruth Camping Centre in Burra.
+
+CXVI, 8088, 14 Jan. 1987, page ?
+
+Article on Gary Donaldson, proprietor of ‘Cousin Jack’s’. It deals particularly with his wood turning and reads more like a paid advertisement. [Photo of Donaldson at his lathe.]
+
+CXVI, 8089, 28 Jan. 1987, page 14
+
+Mrs Olive Oates has been selected as Burra’s Australia Day Citizen of the Year.
+
+She was nominated for her services to the community through music. For years she has provided background music, played at concerts, weddings and funerals and as accompanist for singers and choirs, at Melbourne Cup Luncheons and mannequin parades, Carols by Candlelight, community singing and at church services. She has been organist for 30 years at the Methodist, now Uniting Church; coming in regularly from Poonunda, 18 miles east, for services and practices. She has taught many young people. She has also been a keen cook and many examples, especially of her yeast cooking, have found their way into elderly people’s homes.
+
+Weather. In 1986 Burra recorded 468.3 mm – a little above average.
+
+Des & Lesley Menz and family were farewelled by Councillors and Council staff on Friday. They are moving to Cobrum [sic: for Cobram] in Victoria.
+
+BCS. The Senior SRC has pledged $100 towards the cost of restoring two old photographs at Burra Town Hall. The Town Hall Committee is interested in restoring a number of photographs in readiness for setting up the old meeting room as it was years ago.
+
+Tim Letcher has been in Ballarat at the National Christian Youth Convention of the Uniting Church. Archbishop Desmond Tu Tu was the guest speaker.
+
+Trich Thamm is in Bendigo as delegate to the National Anglican Youth Synod.
+
+CXVI, 8089, 28 Jan. 1987, page 15
+
+Photo of David Nourse rescuing trout fingerlings in pools south of the town weir; to be returned to the larger lake in the creek and to the Mine Pool.
+
+CXVI, 8090, 4 Feb. 1987, page 18
+
+New BCS Principal Michael Day and his wife and two daughters are welcomed to Burra.
+
+Peter & Penny Barlett and their sons will soon leave Burra for Robe. Peter has been a keen supporter of the swimming pool.
+
+BCS. One of the school lambs was deliberately mutilated during the holidays, being found with its ears cut off and being badly flyblown.
+
+Marriage. Recently Kathy O’Flaherty married Chris Wall.
+
+Burra Burra DC will meet on 12 February with the planning consultant who is formulating the Supplementary Development Plan, Simon Tonkin and with the Regional Officer of the Department of Environment and Planning, Dean Watson. It is hoped to have the plan on public display shortly.
+
+The Burra Mine Management Committee has been pleased with the number of visitors to the Mine and Morphett’s Enginehouse since Christmas.
+
+A tender for painting the Tourist Information Centre has been accepted.
+
+CXVI, 8091, 11 Feb. 1987, page 26
+
+BCS. The Senior School Swimming Carnival was held last Friday and was won by Jennison House.
+
+The school will have a Thai exchange student for 1987, through the American Field Scholar Scheme. Sujitra Suttiserm will live with her host family Dick & Barbara Secomb and their sons Tony and Greg.
+
+National Trust SA President Bob Lewis will be the guest speaker at the Burra branch AGM on 3 March.
+
+Burra Scouts. Acting District Commissioner Bill Mugge will visit Burra on Friday. This coincides with the AGM of the Parent group and there will be a barbecue.
+
+CXVI, 8092, 18 Feb. 1987, page 2
+
+Sheep Thefts in the area have seen detectives from the Adelaide Stock Squad investigating. 28 stud Merino ewes values in excess of $14,000 have gone from Barton Hill, Black Springs. 86 sheep have been stolen from near Burra, lots of 20 and 30 from World’s End and 90 from Sevenhill.
+
+CXVI, 8092, 18 Feb. 1987, page 18
+
+Marriage. Recently Tammy Schuppan married Shane O’Bryan.
+
+Morphett’s Enginehouse is now floodlit and looks very impressive when approaching Burra at night from Mt Bryan.
+
+Colin Fidock took a number of the town’s new teachers on a tour of Burra Heritage last week and in three hours they did not see it all.
+
+Obituary. Lindsay Thomas died last week. He was a former resident of Burra and will be remembered by many for his fine voice. He was a brother to Reta Jennison.
+
+[Lindsay Howard Thomas born 2 October 1908 Redruth, Burra.]
+
+Colin & Dani Fidock & James & Penny Hawker dressed in their Jubilee Year costumes for a celebratory lunch at Government House on Sunday to mark the end of the State Jubilee celebrations.
+
+Burra Scouting had a busy night on Friday. Alex and Peter Stockman went up from Cubs to Scouts. Andrew Jennings went from Scouts to Venturers. Acting District Commissioner Bill Mugge presented a Leader’s Certificate to Jan Hudd and a Leader Service Award (5 years) to Group Leader Jacky Kleinig. He also spoke about the Jamboree to be held in Adelaide at the end of 1988.
+
+The Parent Group AGM saw the election of: President, Peter Stockman; Vice-President (yet to be filled); Secretary, Carolyn Nottle; Assistant Secretary, Jean Kleinig; Treasurer, Janet Slade and Publicity Officer, Helen Stockman.
+
+Morphett’s Enginehouse, recently restored, has been nominated for the Australian Heritage Award 1987. It is believed to be the first Cornish Enginehouse to be restored from a ruin. The award winner will be announced in April. [Photo.]
+
+Burra’s Bush Picnic Race Meeting & Gymkhana will be held on Sunday 22 March and will aid the RFDS and Burra Aged Persons Hostel.
+
+Burra Aged Persons Hostel
+
+Representatives of the Burra Burra DC, the Hospital Board and Carmel O’Connor met with Neil Andrew MP on Friday to express their concern at Burra’s failure so far to attract funding for an Aged Persons’ Hostel. Carmel O’Connor has conducted a survey indicating an urgent need for such a hostel – the nearest is at Eudunda, and it is full. Currently about 25 people in Burra need such accommodation. Plans for a 25 bed facility were drawn up, then reduced to 20 and then to 15 to try to get funding, but to no avail. People must leave the district and some are occupying hospital beds because there is nowhere else to go. The hospital had allocated $100,000 towards the estimated $700,000 cost.
+
+CXVI, 8093, 25 Feb. 1987, page 12
+
+Cousin Jack’s inaugural exhibition is called ‘Off the Sheep’s Back’. Five renowned SA craftspeople and companies have responded to the theme:
+
+Beryl Stutchbury, artist and screen printer
+
+Chris Oswald, master of appliqué
+
+Christian Vocke, ceramics maker
+
+Billabong Crafts of Victoria
+
+Rodriguez Screen Printing
+
+The exhibit runs from 1031 March. The exhibition occupies two new exhibition rooms, which retain the flavour of this 1860s premises.
+
+CXVI, 8093, 25 Feb. 1987, page 13
+
+Burra Merino Studs. A short article is reprinted from the Burra Centenary Souvenir of 1945. Another extract from the same source describes Burra’s annual off-shears sales.
+
+Cousin Jack’s of Burra now boasts the largest turned wood display in SA. Cousin Jack’s opened on 15 December 1985. [A photo of resident artist and proprietor Gary Donaldson with a selection of his work is accompanied by a brief article.]
+
+CXVI, 8093, 25 Feb. 1987, page 18
+
+Marie & Peter Hall also attended the Vice-Regal wind-up celebrations for Jubilee 150.
+
+Weather. A downpour of over 2 inches fell on Burra on Thursday, causing some flooding. To the east falls ranged from 1⁄4 to 4 inches.
+
+Maureen & Barry Wright are back from their River Murray trip and now must set about revising the River Murray Charts.
+
+Birth. To Diane & Gavin Lehmann of Pollville, Mt Bryan, a daughter.
+
+The Pool Disco planned for last Saturday was cancelled due to the cool weather.
+
+CXVII, 8094, 4 Mar. 1987, page 20
+
+Cousin Jack’s exhibition ‘Off the Sheep’s Back’ is open seven days a week.
+
+[Photo of Gary Donaldson, proprietor, with a customer and some of his turned wood wares, together with a brief description of the exhibition.]
+
+CXVII, 8094, 4 Mar. 1987, page 21
+
+Mrs Fay Jones of Burra North has won the 1st prize in the latest Reader’s Digest cash give away - $45,000.
+
+Burra MFS Crew went through its annual competition conducted by the MFS in Burra last Sunday afternoon. The crew comprised: John Nankivell, Mike Scholz, Richard Bollman, Bob Taylor, Rodney Phillips, Michael Mengersen and Las Gardner. [Photo, which is identified in the issue of 11 March 1987, page 22, as the Burra Team.]
+
+The SKOL World Tourism Conference will be held in Adelaide in November. During their week stay two groups of 200 each are expected to visit Burra on a day trip.
+
+Burra Venturer Unit recently sent 11 members and 3 adults to Gawler Airfield for flights in a motorised glider.
+
+The Pool Disco moved to the Scout Hall due to the wet and windy weather.
+
+BCS. The Junior & Senior Primary Swimming Carnivals were held on Thursday and Friday respectively in fine sunny weather.
+
+Members of the History Trust of SA visited Burra with a representative of the Department of the Arts to inspect the Bon Accord Museum and Morphett’s Enginehouse. The Bon Accord Museum is seeking a grant for archaeological work and Morphett’s Enginehouse is seeking accreditation as a museum and also a grant for the installation of an audio display.
+
+Reta & Murray Tiver have recently celebrated their 60th wedding anniversary.
+
+Ian Auhl paid a surprise visit to Burra one day last week. He visited the local history room at the Library. He has recently donated more books and paintings to that valuable collection.
+
+CXVII, 8095, 11 Mar. 1987, page 9
+
+Burra Community Library will be one of seven libraries visited by 40 librarians on a trip through the Barossa Valley and Mid North and Yorke Peninsula. The plan is to give the teacher librarians and teachers a chance to see and hear new ideas. The visitors will stay overnight in Paxton Square Cottages.
+
+CXVII, 8095, 11 Mar. 1987, page 22
+
+Ian Gemmell, the new managing director of Adelaide & Wallaroo Fertilizers Ltd visited Burra on 5 March on a familiarisation trip. Industrial Equity Ltd now controls A & WF and appointed Ian Gemmell recently. He comes from G. & R. Wills and previously from Atco Industries. He said the present plan was to retain the current number of staff at Burra – about 40. In the last three months about $1.4 million has been spent at Burra – about $1 million of that on rebuilding and upgrading the roaster and the rest on maintenance and a large storage facility for manganese (which is treated for a few weeks each year). The company’s main activities will be the manufacture of fertilizers. [Photo of Ian Gemmell and Burra Plant Manager Nick Van Buuren.]
+
+Weather. Rainfall in the last two or three weeks has been about three inches and as a result there is a fine crop of mushrooms in the district.
+
+Birth. To Rosey & Rob Zacher in Queensland recently, a son, Ori Llewellyn. Rosey is the daughter of Ian & Margaret Allen and Rob was a former drama teacher in Burra.
+
+National Trust 22nd AGM was held at the Burra Civic Centre on 3 March.
+
+Chairman Maureen Wright reported on the past year. The major project had been the Bon Accord Mine Site & Museum. A grant of $11,283 came from the History Trust of SA and $30,000 from Burra’s Jubilee 150 grant, combined with much voluntary labour to produce a fine museum display. Colin Fidock was responsible for the preparation of the graphics and pictures – a job requiring much research and most of his spare time. Pam Marlow’s Monster Mine Model is one of the highlights of the museum. The Branch has recently applied to the History Trust of SA for an archaeological study leading to a better understanding of the Bon Accord history.
+
+In 1987 the branch will undertake further restoration work at Redruth Gaol, funded by the Commonwealth Bank. It is one of six sites in Australia to be funded as part of their $500,000 ‘Heritage 88 Project’ and represents SA’s portion.
+
+This $50,000 will enable much needed restoration and upgrading of the approach to the gaol and to the car park.
+
+This year saw the installation of enamel interpretive signs at all our main sites and identification signs. A grant of $1,500 from the Department of Tourism was matched by the Burra National Trust.
+
+In 1986 Mr John restored Burra’s first [motorised] fire engine – a Model T Ford. The MFS believes it is SA’s oldest motorised fire engine and the oldest Model T fire engine in Australia. The other two fire engines owned by the Branch took part in the Bay to Birdwood Run last year – the Diamond T and the Denis. On the drive home the 1936 Diamond T clocked up its first 5,000 miles.
+
+The Branch now urgently needs a building to house them. Elected: Chairman, Maureen Wright; Vice-Chairman Management, Helen Stockman; Vice-Chairman Works & Buildings, Barry Wright; Vice-Chairman Fundraising & Catering, Audrey Little; Secretary, Robyn Page and Treasurer pro tem Avian Pink.
+
+Bob Lewis was the guest speaker. Bob is President of the National Trust SA and a son of Essington Lewis.
+
+[Photo of Maureen Wright with Ted Baulderstone and Bob Lewis.]
+
+CXVII, 8096, 18 Mar. 1987, page 4
+
+The Bon Accord Mine Site & Museum is entered for a Regional Tourism Award.
+
+Owned by the Burra Branch of the National Trust, the ‘Bon’ received some $30,000 from the Jubilee 150 Board last year and the Burra National Trust branch added a further $19,000 so that the building could be restored and displays installed. Visitors today can see the 300 foot Bon Accord shaft, from which Burra drew its water supply for many years. The Bon Accord Mining Co.’s lease bordered that of the SA Mining Association’s hugely successful Burra Burra Mine. The Bon Accord buildings were completed in 1859, but despite all efforts no deposit of copper was found. There is yet 100 years of waterworks history to be discovered at the ‘Bon’ and some archaeological studies are yet to be undertaken. It has just been announced that the ‘Bon’ has received a Community Development grant of almost $20,000 to ensure that work continues for some time. The site is on the register of State Heritage Items and is registered by the National Trust of SA. The Bon accord Mine Engineer’s Workshop is also on the State heritage Register and classified by the National Trust. The Bon Accord residence and pumphouse is registered by the National Trust.
+
+[Photo of Donna Salter at the Bon Accord Mining Museum.]
+
+CXVII, 8096, 18 Mar. 1987, page 18
+
+Damian [sic] Quinn of Mt Bryan, 16-year-old son of Jim & Rosemary Quinn, has been awarded a Sir Charles Bright Scholarship for $550 – the first country recipient of such an award. The scholarships are available to handicapped people and three were awarded this year. Damien [sic] is profoundly deaf and until last year was a student at BCS. In his Year 12 studies he received ‘A’ in both technology subjects. The scholarship will enable him to continue TAFE studies towards a welding certificate. Premier John Bannon presented the cheque on 4 March.
+
+Burra Tourist Office is looking very spruce with its new paint. It makes the Rotunda look a little sad.
+
+Doug Holly, brother to Shirley Thamm, is about to ride his bike in the Apple & Pear Veterans Tour (50-71-year-olds) 3,800 km from Brisbane to Adelaide over 31 days. He is one of four veteran riders in the SA team and is aged 53.
+
+CXVII, 8097, 25 Mar. 1987, page 4
+
+Morphett’s Enginehouse is an entry in the Mid North Tourism Awards. The rebuilding of the enginehouse is believed to be the first of its kind in the world. It is due to funding from the Jubilee 150 Board, the Department of Mines & Energy, the Department of tourism and the Burra Burra DC. It stands among other ruins on the lip of the open cut. Some of Burra’s elderly folk who witnessed its burning in 1926 can scarcely believe its transformation. It originally housed a Cornish beam engine and was built in 1858 to facilitate the de-watering of the mine. Its huge pump moved at 8 strokes per minute and raised 3 million gallons of water per day. The three interior chambers have been rebuilt with a large cut-out representing the huge 80 inch cylinder which once worked there. Many displays centred upon Cornish beam engines have been placed there and visitors can get a commanding view of the modern open cut and its lake from the top floor. The building’s environs are equally fascinating. The excavated miners’ adit now gives people access to the 600 foot deep Morphett’s Shaft. In walking through the tunnel people are treading on timbers that have lain there for 140 years, some of them charred from the 1926 fire. Around the area are archaeological artefacts, interpretive signs, Morphett’s Whim House and the old reservoir.
+
+CXVII, 8097, 25 Mar. 1987, page 5
+
+A Back to Hanson was held on 15 March and 200-250 people attended. A morning church service was conducted by Norrie Baynes of Booborowie, who preached at Hanson for many years and he was assisted by Dorothy White, nee Woollacott. A display of the town’s history by Kim Brereton was a huge success. Everyone enjoyed cartoons of the 1940’s by ‘HEK’. The oldest visitor was Dora Wade 84 and she cut the cake, helped by Flo Blieschke, Laurel Neill and Kim Brereton. Organiser Pat Brereton was pleased with the success.
+
+CXVII, 8097, 25 Mar. 1987, page 18
+
+Burra Hospital Board is very concerned about proposed funding cuts mooted for next financial year. SA Health Commission has warned that over-runs will not be funded and will become a first charge against next year’s funds. The budget was cut this year and there are mandatory 1-2% cuts for next year. CEO John Chilton said the daily bed cost at Burra was currently $107 compared with up to $300 at some metropolitan hospitals. The community was urged to write to health authorities and government representatives about this serious situation.
+
+Burra National Trust has been given a grant of $19,995 to assist with upgrading buildings and grounds of the historic Bon Accord Mine Site. This was announced by Neil Andrew, Federal Member for Wakefield. The Branch will contribute $5,025.
+
+The Bush Picnic Race Meeting & Gymkhana attracted a large crowd on Sunday – well in excess of that hoped for. Perfect weather prevailed.
+
+Mid North Merino Field Days kept the town busy during the week with visitors from all over Australia. Apparently all accommodation in Burra was booked out.
+
+Marriage. St Mary’s Burra on Saturday 28 March
+
+Lisa Smedley, daughter of Ron & Geraldine Smedley, will marry Russell Murphy.
+
+Thomas Edmonds will sing at the Uniting Church Dinner next Friday night 27 March.
+
+CXVII, 8098, 1 Apr. 1987, page 4
+
+Derek Rayfield of Burra North writes re the Burra Creek Plan. The Burra Creek certainly needed tidying up, but does it need a plan orchestrated by our former engineer for the Council and estimated at 1986 prices to cost $186,000? The burden will largely fall on Burra ratepayers in the form of yet another large loan and the cost will also fall on residents of Booborowie, Farrell Flat and Mt Bryan, though the Council does little to improve those townships. Surely it is time for a public meeting and for work to be done when funds become available and not by going into another enormous debt.
+
+Jim Dempsey writes thanking all who organised the Back to Hanson for their great effort. He returned after 30 years absence and found it great to meet so many old friends. It was 50 years since he did his QC examination at Hanson School in 1937 and the whole of that class was present: Jacqueline Hogan, Jane Canny, Bernice Dixon, Margaret Rogers and himself.
+
+Miss Mabel Cottage is an entrant for a Mid North Region Tourism Award. It stands near Redruth Gaol in the area formerly known as Llwychr [sic]. It was built at least 125 years ago. By 1851 more than 5,000 people were living in the towns around the mine and Burra was then the largest [inland] provincial centre in Australia. Miss Mabel was born in the cottage in 1883, the 12th of 13 children of Samuel and Ann Baker (nee Edwards). Samuel had married Ann, the daughter of a Welsh smelter, in 1862 and they moved to the Penglawdd Street cottage soon after. Samuel outlived Ann by three years, dying in 1938 aged 98. Miss Mabel lived there until just before her death in 1983 in her 100th year. The cottage has changed little since her death. It retains the charm of country life as she would have known it. Miss Mabel loved fruit and flowers and the garden has been replanted with heritage roses, fruit trees and herbs and the old pines and pepper trees remain. Accommodation is available for up to six people in three double bedrooms and the pantry is well stocked. There is a well-appointed kitchen, a spacious dining area and sitting room and visitors are greeted with freshly cut flowers and a bottle of Clare Valley wine.
+
+CXVII, 8098, 1 Apr. 1987, page 12
+
+Mid North Stud Merino Field Days were a huge success. A Collinsville ram sold for $20,000 to F.G. & R.M. Andrews of Kongal Park, Mundulla. [Other sales are listed and there is a photo of a Collinsville ram sold for $15,000 with stud groom Peter Stewart, proprietor Neil Garrett, Bruce Cameron of Elders, Albany WA and David Jones of Collinsville.]
+
+CXVII, 8098, 1 Apr. 1987, page 18
+
+Burra Hotel has installed a satellite dish, which enables them to receive TV through Sky Channel. It is the only hotel in this area so far to provide this service.
+
+A Japanese film crew has been in the area filming Under the Shade of a Coolabah Tree and on Friday they shot a scene in the front bar of the Booborowie Hotel, using local people in the scene.
+
+BCS Sports Day was held recently and Jennison House was victorious for the 4th year in succession.
+
+Birth. To Gordon & Gail Hains of the National Bank, a son, Brett Matthew.
+
+Birth. To Tom & Debbie Quinn of Mt Bryan, a son, Thomas James.
+
+Burra Parish Uniting Church held its annual dinner last Friday. World-famous singer Thomas Edmonds accompanied by Dr Peter Tillett provided the entertainment. During the evening Rev. Malcolm Thomas and his wife Mavis were farewelled. Malcolm’s new appointment is on the Sturt Patrol.
+
+Burra Scouts had a visit to Adelaide & Wallaroo Fertilizers Ltd last Thursday.
+
+Burra Picnic Races & Gymkhana on 22 March drew a crowd of c. 700 in perfect weather. The main race, the Collinsville Cup, was at first declared a no race, but was later re-run. Club President John Maidment and Secretary Les Saunders said the day grossed $5-6,000.
+
+Vandalism. Children aged 9-10 have broken a number of windows at the Burra Youth Club.
+
+Burra Burra DC. Nominated for election:
+
+Eastern Ward John Michael Oates
+
+Farrell Flat Ward Clyde George Atkins
+
+Hanson Ward Murray Adrian Tiver
+
+Kooringa Ward Graham Malcolm Kellock
+
+Leighton Ward John William McMahon
+
+Mt Bryan Ward Robert Marcus Gebhardt
+
+Booborowie Ward Colleen Yvonne Woodgate
+
+James Seymour Hawker
+
+Burra Town Ward Georgie Nelda Heath
+
+Desmond Ross Woolley
+
+Christopher Malcolm Reed
+
+Derek Earnest Maxted
+
+Gary John Donaldson
+
+Robyn Lea Page
+
+Guy Bryant Dollman
+
+Jennifer Anne O’Connor
+
+Stephen John Downs Woolley
+
+Barry John Wright
+
+An election will be held for Booborowie & Burra Town Wards (for which four are required) on 2 May. All other nominees were declared elected unopposed.
+
+CXVII, 8099, 8 Apr. 1987, page 4
+
+Donna & Bryan Salter are entered for the Mid North Tourism Awards in the Tourism Services Category.
+
+They are lessees of the Bon Accord Mine Museum. Every Hour they conduct a tour of the Bon Accord and seek to build up a picture of how miners worked and of the conditions at the mine. The fine displays set up by curator Colin Fidock add to the overall impression. Bryan has previous experience as a TAFE lecturer and works the forge at the ‘Bon’. Both are active members of the National Trust and prior to working at the Bon Accord Museum, Donna was a tour guide for the Trust in Burra for two years. She took an active part in the creation of Malowen Lowarth Cottage in Paxton Square. Bryan was involved with building the framework for the mine model. Both are keenly interested in preserving Burra’s heritage. [Photo.]
+
+CXVII, 8099, 8 Apr. 1987, page 19
+
+‘Come Out Week’ saw BCS students enjoy a variety of events including story telling by Kel Watkins, a parade through Market Square and the ‘Death Defying Theatre’.
+
+Burra Hospital. Following the resignation of Mr G. Camp as Director of Nursing, the Board has appointed Sister Lesley Phillips to fill the position from 9 April. She has been acting Director of Nursing on a number of occasions.
+
+The Unicorn Brewery Cellars have been purchased by the Burra Burra DC for $25,000 with a 50% grant from the Department of Tourism. Minister Barbara Wiese said the cellars and tunnels are important relics of Burra’s heyday as Australia’s major copper producer and will significantly add to the town’s tourism package. The land on which the entrance is located was owned by Stan Woollacott of Burra. The cellars were built in 1873 and operated till 1903. In 1980 they were placed on the state Heritage Register.
+
+Girls at the [Redruth] Camping Centre awoke in the early hours of Wednesday morning to find a male person in their room. Police are investigating.
+
+Three Adelaide Youths aged 19 were arrested on 1 April for shooting sheep and damaging Highways Department signs east of Burra.
+
+A Hotel Manage was forcibly removed from licensed premises on 4 April and arrested and charged with assaulting police and resisting arrest.
+
+Adam Day came fourth in the U16 heptathlon at the recent National Championships in Sydney.
+
+At a Little Athletics Association Meeting:
+
+Petrea Piggott set a new Australian U15 record for 200 m of 25.7 seconds
+
+She also set state records in the 100 m and 400 m.
+
+Cheryl Day ran 3rd in the U13 200 m.
+
+Andrew Kleinig got a bronze medal in the U15 javelin.
+
+Enamel Interpretive Signs have been erected around Burra to complement the Key-Hire & Drive Yourself tour of the town. They were designed by the Department of Mines & Energy and the Department of Tourism assisted with the cost. [Photo of the Chair of the Burra Mine Management Committee, Helen Stockman with signs on the Mine Hill overlooking Kooringa.]
+
+CXVII, 8101, 15 Apr. 1987, pages 12 & 13 [Note that there was no issue numbered 8100.]
+
+Mid North Tourism Awards 1987
+
+Burra won four awards:
+
+Accommodation [Miss Mabel Cottage]
+
+Tourist Services [Donna & Bryan Salter]
+
+Tourist Shop & Souvenirs [Jan & Gary Donaldson of Cousin Jack’s]
+
+Special Recognition as an Historic Mining Town
+
+CXVII, 8101, 15 Apr. 1987, page 20
+
+Darren James of the Junior Burra Cricket Club team took four wickets in four successive deliveries in the team’s recent grand final. He took two wickets in two balls and then in the next over four wickets in consecutive balls. Booborowie went from 0 for 49 to 6 for 52 in three overs. Burra went on to win their second premiership in a row.
+
+CXVII, 8101, 15 Apr. 1987, page 22
+
+Burra Burra DC: Meet the Candidates
+
+Norm Maxted is a sitting member and father of four. He is self employed as a silo agent and mail delivery contractor. He has been a ratepayer for more than 30 years. Has been involved in school and sporting affairs. His special interest is in tourist accommodation, particularly in caravan parks, but also in the SES, planning and sound financial management.
+
+Des Woolley (55) has previously served on Council. He seeks endorsement to continue to achieve only that which has benefit to the town and district.
+
+Guy Dollman (53) is married and a father of four. He was born in Burra and educated here and at Scotch College. He and his wife Dawn own Burra Motor Co., which he took over from his father in 1967. He wants to see Burra progress while preserving its heritage.
+
+Georgina Heath lives in Burra with her husband and two young sons. She seeks to promote and maintain the basic services like roads, footpaths, street lighting and general tidiness. She wants a balanced view of present needs and heritage issues.
+
+[There is a photo of each candidate.]
+
+Telecom Australia has advised Neil Andrew MP for Wakefield of improved telephone services for Mannanarie, Tarcowie, Pekina and Mt Bryan. A modern telephone exchange was brought into service at Mannanarie on 7 April. On 26 May a new automatic exchange at Tarcowie will replace manual exchanges as Tarcowie and Pekina. On 2 June Mt Bryan will change from manual to a new automatic exchange.
+
+CXVII, 8101, 15 Apr. 1987, page 23
+
+Coaches Sylvia Pohlner & Ray Hill took 15 children to the State Championships of the Royal Life Saving Society at the Aquatic Centre [in Adelaide] recently. David Jennings won the Sir Ewen Waterman Cup for water skills and Sylvia Pohlner won the Meldrum Trophy for water skills. Bianca Hirschausen won the Gunner Cup for water skills, defeating ten adults in the process. Lorraine Walker got a silver medal and Tamy Walker a bronze.
+
+Burra SES had an exercise last week to free a person trapped beneath the steering wheel of a car.
+
+Geoff Camp, former Director of Nursing at Burra Hospital, was given a rousing farewell at the hands of the nurses last week. Tied into a wheelchair, he was liberally plastered with eggs and flour and paraded through the streets in the back of a ute. He took it all in good fun. [Photo.]
+
+Burra Scouts had a weekend camp at Woodhouse in the Mt Lofty Ranges last weekend.
+
+Burra Town Hall Funds were boosted last Friday with takings from an Autumn-Winter Fashion Parade.
+
+Obituary. Caroline Nankivell died in Burra last week.
+
+[Born Caroline Wilton Gebhardt 13 August 1899 Kooringa: died 8 April 1987 Burra. Married William Alfred Nankivell in 1928.]
+
+CXVII, 8102, 22 Apr. 1987, page 15
+
+Burra Burra DC: Meet the Candidates
+
+Chris Reed is married with two children and involved in the family farming business. The reed family has been in Burra for five generations. He has been much involved in community activities, having been Chairman of the Coppertown Festival, and secretary of the Burra-Broken Hill Barrow Push. With the downturn in the rural economy the town has to develop tourism to maintain services and employment. Rationalisation of Council plant and staff and services has been the right step. The Council needs to be efficient if it is to keep its identity in the face of threatened Council amalgamations.
+
+Gary Donaldson is a professional wood-turner and has lived in Burra for two years as co-proprietor of the award-winning Cousin Jack’s. He was formerly a supervisor trainer with the E & WS Department and has extensive experience in management, customer contact and presentation techniques training. He advocates open government and is a strong supporter of Burra’s destiny as a quality tourism product.
+
+Barry Wright has been a Burra North resident for four years. He and his wife own a wool and skin business and have renovated the old Sara’s Store, which now operates as Sara’s Secondhand Goods and Clothes. Before coming to Burra they successfully published and distributed a set of navigation charts of the River Murray upstream of Renmark. Barry is an active member of the Burra National Trust and has been involved in community projects like the Copper Festival. He sees his role in Council as promoting better communication with the public and more business enterprise in the district.
+
+Stephen Downs-Woolley is 32 and has lived in the town for seven years. He is a former police officer and sees the town’s future as a major tourist business centre. He is a past President of Apex and has served on the Kindergarten and other committees, including the Barrow Push, Jubilee 150, Trade Train and Copper Festival.
+
+Derek Rayfield is the son of a London cabbie and was in the RAF and private business before migrating in 1969 and becoming a member of the RAAF. He is married with three children and three grandchildren. He has lived in Burra since 1978. He has been involved with Senior Citizens and the National Trust and id the Secretary of the Caring and Sharing Group and of the Burra Preservation Organisation. He is also an active member of the elderly visitation program. He would, in Council, seek to prevent financial negligence, encourage community involvement in major decisions and seek to maintain roads, footpaths and erect toilets in Burra North.
+
+Robyn Page comes originally from Parramatta in NSW and came to SA with her family in 1969. She gained her B Ed and with her husband came to Burra in 1981. They have one son. She has since been involved in many community activities. She is particularly keen to see the community involved in decision making and seeks a balance between development of tourism and heritage aspects of Burra.
+
+Jenny O’Connor is 46 and a mother of five. She is Burra’s Tourist Officer and is descended from a family with Burra connections over 6 generations. She has had a ten year connection with Burra Scouting and five years as leader of the Cubs. She has an interest in improving facilities for the young of the district. She also has a long connection with Senior Citizens (Her mother Mrs Ryan was President of the Pensioners’ Group for 17 years before the Senior Citizens was established). She has been a member of the National Trust for 18 years and a school bus driver for 13. She is committed to the town’s heritage and sees tourism as Burra’s industry of the future. She believes in open communication.
+
+[There is a photo of each candidate.]
+
+Burra Radio & Electrical was broken into on 17 April and goods to the value of $3,000 to $4,000 were stolen. A 19-year-old Adelaide youth has been arrested for the offence.
+
+Burra Community Sports Complex has had a number of items stolen in the past 6 to 9 months. Police discovered several youths to be the culprits and community work has been arranged for the offenders.
+
+CXVII, 8102, 22 Apr. 1987, page 17
+
+Tourists are coming to Burra such that accommodation was fully booked over Easter. Paxton square is fully booked until after the Anzac weekend. Redruth Camping Centre had a capacity crowd for Easter with c. 90 from Frome Presbytery.
+
+Marriage. On Easter Saturday
+
+Bev Smith married Jim Low. Both are teachers at BCS.
+
+Sale. The former Smelters’ Home Hotel, also known as Opie’s Flats, will be auctioned by elders on 2 May. It began as a hotel in 1849 when Mr J. Robins was licensee. It was then newly built, standing at the extreme northern end of section 1 – the original section taken by the SA Mining Association. After changing hands several times, the licence passed to W. Woollacott in 1861 (famous for hauling the giant boiler from Pt Adelaide to Burra on the jinker now housed adjacent to Market Square). The Opie family acquired it in 1863 and it became known as Opie’s Hotel. It was de-licensed about 19221. Ian Auhl says it is believed to be the oldest hotel in SA still in its original condition, having been converted into flats just by closing doors along a passageway leading from the bar to the rear of the building. It retains its shingle roof under the galvanised iron. The walls are eighteen inches thick and there is a large dry cellar under the bar. The building has casement windows throughout2. The building has eighteen rooms and is of about 40 squares set on an acre of land with more than 200 foot frontage to the Barrier Highway. There is a large underground tank and the remains of a stone stable. It is on the recorded list of the National Trust. The current owners are Gerry & Carmel O’Connor.
+
+[1It closed in 1917 and the licence was transferred to the Booborowie Hotel.
+
+2This is nearly true, but there are a couple of double hung sash windows.]
+
+CXVII, 8102, 22 Apr. 1987, page 18
+
+Notice. Burra Burra DC gives notice of a proposal to close and sell part of Ursula Street. The Council has received this proposal and calls for persons wishing to make representations concerning the proposal to do so no later than 1 May.
+
+Advt. Dalgety Bennetts Farmers will auction the house at 4 Butterworth Street on 15 May at 2 p.m. on the property, under instructions from SA Teacher Housing Authority. It is a double fronted stone residence of three bedrooms, lounge, kitchen, bathroom, etc.
+
+Advt. Elders Pastoral will auction 24 Queen Street, Burra, on 8 May at 2 p.m. under instructions from SA Teacher Housing Authority. Allotment 4 of the subdivision of allotment 32, on which is erected an asbestos and timber framed three bedroom house with lounge, kitchen, bathroom etc.
+
+CXVII, 8103, 29 Apr. 1987, page 15
+
+Advt. Jennison’s of Burra, 28-30 Commercial Street: Closing Down Sale
+
+Elders Pastoral will auction at 12 noon on Wednesday 27 May all surplus equipment, office furniture, sundries and wrecking motor vehicles.
+
+Jennison’s will cease trading on 15 May due to us leasing our premises to Elders Pastoral. Neil Webster & Andrew Nourse of our staff will commence trading on 18 May as Burra Auto Repairs, from our current repair building – entrance off Kangaroo Street. They will operate an authorised Ford Parts, Service and Warranty outlet, acting as agents for Vanstone Ford of Clare.
+
+Mt Bryan Uniting Church, formerly Methodist Church, will celebrate fifty years of the church building on 3 May with an 11 a.m. service conducted by Rev. Gowan Armstrong, who served there in the 1950s when it was part of the Hallett-Terowie Methodist Circuit. A pooled luncheon will follow in the Soldiers’ Memorial Hall and then there will be a Pleasant Sunday Afternoon.
+
+The red brick building was erected to replace a wood and iron structure dating from 1913. This structure then became the Sunday School Hall. When the red brick building was opened it was used by two congregations, which merged into one – the congregation from the wood and iron building and the one from the former Bible Christian Chapel, built in 1871 and still standing about 2 km northeast of the town. It is believed that the declining population in the district prompted the merger. A short history of Methodism in the Mt Bryan District has been written and will be available on 3 May.
+
+Two Unicorn Brewery bottles complete with labels have been found during renovations on a row of cottages in Taylor Street, belonging to Mt Matt Reilly. [Photo of worker Bill Corbett with the two bottles.]
+
+Burra Community Library held its AGM.
+
+Librarian Colin Fidock gave a comprehensive survey of the nine years of the Community Library’s existence. Over this period the enrolment has been fairly steady at about 59.2% of the population of the district. Statistics show that the library’s collection was well-used. A video pilot scheme had been well received and should be budgeted for in the future (though no provision had been made for 1987-88). Improved services had been made available for the Burra Hospital from 1985. In 1986 the goal of providing a local history room had been achieved. In 1986 more than 87 requests to do research in this collection had been made and in addition school students used the resource. Shirley Thamm and Debbie Brown had continued their Burra Obituary Project.
+
+Library Depots operated at Booborowie, Mt Bryan and Farrell Flat. The library’s 8th birthday was highlighted with the publication of Relatively Speaking. The Jubilee 150 year had been a busy one with a number of displays and the completion of the local history room.
+
+Elected to the Board: Chairman, Sue Warnes; Vice-Chairman, Helen Stockman; Secretary, Betty Thamm and Treasurer, Tess Hopkins.
+
+Birth. To Carmel & John Lloyd in Adelaide last week, a son, Thomas Ashley.
+
+Obituary. Mrs Sylvia Spackman died 22 April.
+
+[Born Sylvia Mary Briese 9 July 1910 Morgan. Married Clarence Edward Nelson Spackman in 1934.]
+
+A Swarm of Grasshoppers flew into Burra on Friday last. There was a carpet of them on the bowling green, but fortunately on Saturday they moved on.
+
+Weather. A severe dust storm hit Burra at about 11 a.m. on Monday, cutting visibility significantly. It heralded a cool change.
+
+CXVII, 8104, 6 May 1987, page 19
+
+Obituary.
+
+The Burra community was saddened to hear of the death of Edward Thomas Baulderstone late last week, following a long illness.
+
+The last Mayor of the Corporation of Burra prior to its amalgamation with the District Council of Burra in 1969, Ted’s contribution to the public and community life of this town deserves recognition.
+
+Born in 1904, Ted lived his young years at Scott Creek in the Adelaide Hills. The eldest of six children, he left school aged 13 and began working in a market garden.
+
+He and his wife, plus the eldest of their children, came to Burra in 1931 during the Depression years, to establish a country market for the fruit and vegetables he grew in the Adelaide Hills. Over the next few years, he established a green grocery business here.
+
+In 1946 he became a Councillor in the Corporation of Burra, and between 1954 and 1969 was Mayor.
+
+His achievements during those years were many, but the more notable was the building of the St John Ambulance Centre, and the development of the Burra Oval.
+
+However, probably the most visionary of all his work related to the Corporation’s purchase of the old Burra Mine area with a view to its preservation and development into a tourist attraction.
+
+Happily, he saw much conservation and development take place over the ensuing years and was very pleased with the Burra Heritage Town Jubilee project’s work in that area. Ted was always interested in history and heritage-they were great loves of his.
+
+He became immersed in the work of preserving Paxton's Square and again was rewarded by seeing the Square develop onto a fine accommodation area.
+
+He was a member of the former Lewis Trust, and was treasurer of the Lewis Board of Management which administers the Square, right up until his death.
+
+In 1985, the town showed its appreciation to him by awarding him the Australia Day Citizen of the Year Award.
+
+To name all the committees and groups with which Ted was associated over his life in Burra would be a monumental task, but suffice to say he was a very public-minded citizen, and retained an astute interest in the affairs of the town right up until his death.
+
+To the Baulderstone family is offered the condolences and sympathy of the community.
+
+Ted always acknowledged the support given him by his wife Doreen, who predeceased him by some three years, over his public life. He is survived by four sons and three daughters, and their families.
+
+[Edward (Ted) Thomas Baulderstone born 1 September 1904 Clarence Park: died 30 April 1897 Elizabeth.]
+
+BCS. On Thursday 7 May and Friday 8 May students, staff and parents will take part in a conference ‘Into the 90s’. Following on from a published guide from the Education Department the y will discuss the good things about the school as they see it and the problems, as well as providing ideas and hopes for the future. On Thursday evening there will be an informal session where Barry Budarick from the Education Department will be the guest speaker. There will be some group discussions.
+
+Burra Burra DC Election Results [under the preferential voting system]
+
+Booborowie Ward Colleen Yvonne Woodgate 83 elected
+
+James Seymour Hawker 65
+
+Burra Town Ward Georgie Nelda Heath 17
+
+Desmond Ross Woolley 57 elected
+
+Christopher Malcolm Reed 124 elected
+
+Derek Earnest Maxted 88 elected
+
+Gary John Donaldson 12
+
+Robyn Lea Page 48
+
+Guy Bryant Dollman 33
+
+Jennifer Anne O’Connor 65 elected
+
+Stephen John Downs Woolley 7
+
+Barry John Wright 21
+
+The sitting members had been James hawker, D.R. Woolley and N. Maxted.
+
+CXVII, 8105, 13 May 1987, page 22
+
+Tim Letcher, Burra’s most recent Queen’s Scout, received his Royal Certificate from H.E. the Governor Sir Donald Dunstan at the Annual Act of Loyalty Service on 3 May, following the annual Queen’s Scout and Queen’s Guide dinner.
+
+John & Debbie Clark proprietors of the Kooringa Hotel have engaged Harry Majcen as chef to offer restaurant standard meals. Chef Majcen favours French provincial style cooking in the main. [Photo.]
+
+CXVII, 8105, 13 May 1987, page 23
+
+Birth. To Sue & Peter Ryan, a son, Matthew Peter.
+
+Maude & Joe Phillips celebrated their 50th wedding anniversary on 7 May.
+
+Marriage. At Burra 23 May
+
+Karen Mengersen, daughter of Peter & Daphne Mengersen, will marry Shaun Rainy.
+
+The couple will live in Brisbane.
+
+The Bush Picnic Race Meeting Committee presented cheques on Friday at a dinner at the Burra Hotel. Chairman John Maidment presented a cheque for $2,500 to the Chairman of the Aged Persons Hostel Committee, Ray Jennison. Les Saunders presented a cheque for $2,600 to the RFDS. A 1988 meeting is already being planned.
+
+Jennison’s Tyre Service will cease trading on 15 May. The Jennison family connection with Burra’s automotive businesses stretches back to 1922 when Ray’s father, Horton Jennison was the BMC dealer. In 1956 Ray returned to Burra from Adelaide and the Jennisons then applied for the Ford dealership. The wool industry was booming and branching into the automotive business in Burra was timely. Horton Jennison died in 1967. In the early days of the business it operated from the section of the building adjacent to Pearce’s Buildings. The rest of the building was purchased from the late Glen Finch in 1960. Later the firm bought the Eastern Telegraph [actually Telephone] Exchange on the south side of Commercial Street, which many will recall had housed the Air Force Clubrooms on the top floor. This building was demolished to make way for the car yard. The remaining business area on the south side as we know it today was purchased from H.C. Davies in 1958 and from C.J. Pearce & Son in 1966. In 1978 the Toyota dealership was added. Disaster struck in August 1985 when fire destroyed the section of building closest to Pearce’s Buildings. This was rebuilt. Ray Jennison is the third longest serving Ford dealer principal in SA. He was a member of the Ford National Dealer Council for some 13 years. In 1964 Jennison’s began business in Clare and leased that business from 1969-72. Between 1972 and 1978 he again operated it, until selling to Clare Valley Motors. Ray has also had an active involvement in the community. His retirement closes a long chapter in Burra’s Commercial history. From 19 May Neal Webster and Andrew Nourse, currently on the staff of Jennison’s Tyre Service, will begin business as Burra auto Repairs and will operate as authorised Ford Part & Warranty outlet from an entrance off Kangaroo Street. The rest of the premises on the south side of Commercial Street will be leased to Elders Pastoral.
+
+[Photo of Ray Jennison and another of the western part of the premises on the north side of Commercial Street said to be taken in 1925. It is a little odd that no mention was made in this article of the changes to the business reported in the Review Times Record, 68, 1, 31 October 1985, page 2 where it says that the tyre part of the business had recently been sold to Ron & Geraldine Smedley and that the new business would operate as Burra Tyres.]
+
+CXVII, 8106, 20 May 1987, page 15
+
+Obituary. A 24-year-old male rider of a motorcycle died at Redbanks on Saturday morning when he lost control of his machine and went over a twenty foot cliff into a dry creek bed.
+
+BCS. The ‘Into the 90s’ Conference identified seven main concerns:
+
+The needs to develop core curriculum – especially in the areas of Maths and English.
+
+The need for a counselling position.
+
+The need to have programs that prepared students better for the demands of Year 12.
+
+The need to prepare students with social and life skills.
+
+A concentration on basic reading, writing and arithmetic skills.
+
+The promotion of better teacher/parent interaction.
+
+Recognition of the importance of the early years of schooling.
+
+Birth. To Matt & Judy Reilly, a son, James Allen.
+
+Birth. To Jan & Richard Riggs, a son, Tom.
+
+Obituary. Mrs Xenia Stockman died on 13 May [Burra Hospital].
+
+[Born Xenia Dorothy Elizabeth Thamm 7 May 1901, Walloway. Married Hedley Bradtke Stockman in 1933.]
+
+Burra Burra DC met on 11 May for the first time after elections. Cr Jack McMahon was elected Chairman with Graham Kellock as Deputy Chairman. [The membership of various council committees is printed.]
+
+CXVII, 8106, 20 May 1987, page 16
+
+Maureen Wright recently bought a large wooden bench for $560 at an auction in Kapunda. It was described as being from the Burra Mines. She asks if anyone can verify that because if they can the Burra National Trust would buy it at the purchase price. [Photo.]
+
+CXVII, 8107, 27 May 1987, page 19
+
+Paxton Square. The three cottages destroyed by fire are being restored to lock-up stage. [Photo.]
+
+Marriage. Elaine Heneker of Mt Bryan has married Trevor Bailey.
+
+Marriage. Claire Acford, daughter of Rob & Diana Acford of Walkerville, married
+
+Greg Woolley, son of Des & Gloria Woolley of Burra. They will live in Rockingham, WA.
+
+Birth. To Don & Miriam Griffen, a daughter, Amelia Louise.
+
+Mary Rayner, an entrant in the Mrs SA Contest, benefited from a barbecue at Basin Farm.
+
+Thomas Pickett’s Eatery has opened in Burra’s commercial centre.
+
+CXVII, 8106, 20 May. 1987, page 20
+
+Birth. To Kym & Teresa Earle nee Pledger, at Burra Hospital on 22 May, a daughter, Sarah Jane.
+
+CXVII, 8108, 3 June 1987, page 19
+
+Burra Golf Club has spent c. $12,000 on further development of the course. Pipes have been laid to all tee blocks and all areas around the blacks, so that they can be grassed. This began when the club combined with the Leighton Cricket Club to lay a pipeline from the Bon Accord Mine shaft to the Aberdeen Oval and the golf course. The Golf Club committee installed a large tank from which water can be reticulated.
+
+Polly’s Tea Room, run by Anna & Hank Bernhard, is a popular place and their recently introduced miner’s lunch comprising pea soup, a Cornish pasty and apple crumble with cream has been a hit. The chance to see the old Burra Record printing office is another attraction.
+
+Elders Pastoral premises in Commercial Street were sold at auction last week for $40,000. The property was bought by Neil Page, Tom Owen and Ian Low of Ian Low and Partners and will be used as office accommodation. Elders Pastoral is in the process of moving into the former Jennison’s Tyre Services premises, where they will conduct their business from 15 June.
+
+[Photo of Gary Tapscott (of Elders) with Neil Page & Tom Owen in front of the building sold – the former Goldsbrough Mort offices west of Phillips Building.]
+
+Burra Swimming Pool Board of Management AGM was held last Thursday night. Chairman John Barton reported on the year. The committee had operated with a set Council budget of $7,000. The 1986-87 summer had been unusually cold and gate takings for 92 days had been $3,534.40, while operating costs had been $3,754.49, to give a deficit of $217.08. [The figures cited give a deficit of $220.09.]
+
+For the coming season the pool had been re-painted at a cost of $3,500, so this financial year is expected to end with a deficit of c. $1,500 over the Council’s budgeted deficit of $7,000. This sum will be drawn from the Swimming Pool Committee’s fund raising account. Elected: Chairman, John Barton; Secretary, Jan. Jacka and Treasurer, John Brak.
+
+CXVII, 8109, 10 June 1987, page 19
+
+Peter Kelly has recently purchased the greengrocery business of the Baulderstones. Peter comes from Sevenhill.
+
+Bob Lewis is President of the National Trust SA and a grandson of the late Hon. John Lewis MLC, formerly of Burra. In March he presented a framed portrait of his grandfather to the Lewis Board of Management. It now hangs in the restored Bible Christian Chapel, which serves as the booking office for Paxton Square cottages. The Hon. John Lewis bought the Square in 1913 from SA Mining Association.
+
+[Photo of the portrait with the caretaker of the cottages, Brian Bevan.]
+
+A Special Steam Train passed through Burra on the Queen’s Birthday long weekend en route to Peterborough and returned at night. This may be the last steam train going to Peterborough as AN has announced plans to remove the track north of Hallett.
+
+Burra Senior Citizens enjoyed seeing slides shown by Fr Richard Morris and his wife Mary, from their trip to Texas last year.
+
+Burra Scouts had a two day hike with leader Rob Letcher, out Mt Bryan East way over the weekend.
+
+Burra Venturers and their leader David Jennings organised a soap box derby and skateboard challenge over the long weekend. It was a lot of fun and the slalom course added to the challenge.
+
+Birth. To Lyn & Chris Hillman, a son.
+
+CXVII, 8110, 17 June 1987, page 25
+
+Advt. Burra Burra DC Sale of Land for Non Payment of Rates
+
+Forty lots are advertised, of which 39 are vacant land. The exception is Pt Lots 95 & 96 and closed road in Truro Street, held by the Public Trustee in the estate of H. Cullen.
+
+[One interesting item is Lot 188 Chapman Street (Millerton) in the name of Rev. D.J.H. Ibbetson, who was Rector of St Mary’s 1855-61 and who died as Rector of St John’s Adelaide in 1871.]
+
+Birth. To Amanda & Richie Glazbrook, in Adelaide on 29 May, a daughter, Lisa Jayne.
+
+Lindsay Woodman will be 90 next week. [Lindsay George Woodman died 6 May 1990.]
+
+Obituary. Murray Tiver Sen. of Abberton Park has died aged 83.
+
+[Murray Harold Tiver born 3 November 1904 Aberdeen: died 12 June 1987 Modbury.]
+
+Burra Picnic Race Club held its AGM last week and elected: President, John Maidment; Vice-President, David Kellock and Secretary-Treasurer, Les Saunders.
+
+Venturers’ Leader David Jennings and Queen’s Scout John Jones climbed Peacock’s Chimney as part of a Venturer climbing exercise. While on the top they measured Johnny Green. He stands 66 inches high and was made by L.G. Hosking. He bears the date 23 August 1972. [Photo.]
+
+Three American Field Scholarship Students visited BCS last Friday.
+
+CXVII, 8111, 24 June 1987, page ?
+
+Clare & Burra Mail Service will be upgraded from 1 July. Mail despatched from both centres currently closes at 4.15 p.m. and from 1 July will close at 5 p.m. Monday to Friday. The same delivery standards will be maintained.
+
+CXVII, 8111, 24 June 1987, page 11
+
+Elders Pastoral has relocated to 28/30 Commercial Street in Burra. The new premises will provide modern office facilities, a bigger merchandise range and easier access. The new premises are leased from Ray Jennison. The offices have been refitted and services include a client lounge, on line computer with quick access to clients’ balances etc., video text with information on the share market, weather, and stock and finance reports.
+
+CXVII, 8111, 24 June 1987, pages 12, 13
+
+Elders Pastoral
+
+Pages 12 & 13 are a two page spread of advertising for Elders with photos and brief biographical details of:
+
+Gary Tapscott: manager at Burra since 1982, but moving to Keith in July.
+
+Peter Rolstone: incoming manager who comes from Wudinna.
+
+Robert Heath: Senior Salesman.
+
+Geoff. Atkinson: Senior Clerk.
+
+Tony Cooling: Salesman at Burra for 12 months.
+
+Andrew Pike: Merchandising Clerk at Burra since February.
+
+CXVII, 8111, 24 June 1987, page 14
+
+Elders Pastoral will celebrate the centenary of their sheep sales in Burra this year with records showing the first sale at the present saleyards site was on 25 November 1887 when some 15,000 sheep and 420 cattle were offered. The two storey Elders office building is now the Tourist Information Centre. The land for the saleyards was acquired from James Shakes and John Lewis at a cost of £518-15-0. The original red and blue gum post and rail sheep yards cost £120-16-0.
+
+In 1902 a newspaper report says Burra was then recognised as the principal market in SA and Elder, Smith & Co. decided to erect their own yards. The then new yards were designed to hold 40,000 sheep and at the recent off-shears sale 44,000 sheep were offered and sold.
+
+Elder’s first Burra office were modest facilities at the rear of Drew & Crewes’ Store. Tenders were called for the two storey office in 1890 and it was open for business in 1891. They moved to their recently vacated offices after merging with Goldsbrough Mort in the 1960s. In 1887 the flat rate of commission was 6.5% and in 1890 Elders at Burra sold 204,898 sheep. Records show that up to 1892 the total number of sheep sold by agents at Burra exceeded 500,000 per annum. One record about 1890 reports a private sale of 19,995 two-toothed ewes sold for 17/9 each and one injured one at 3/-, revealing a generation that expected nothing and gave nothing.
+
+In 1906 one of the first pieces of high-tech equipment was introduced to the office – a typewriter. In 1904 the office took delivery of its first motor vehicle, but horses and buggies were retained till 1917.
+
+CXVII, 8111, 24 June 1987, page 19
+
+Gary Tapscott, his wife Vicki and son Sam were farewelled at the Commercial Hotel on Sunday. They move to Keith in early July.
+
+Douglas Alexander, an architect for Flightpath Architects in Adelaide, has been appointed Burra’s heritage advisor. He is expected to spend time in Burra about once a fortnight for a two year period. His salary comes from a $38,000 grant from the National Estate program. He was project architect for the very successful SA Maritime Museum and has been a member of the Thebarton Council.
+
+R.A. Huxtable, ANZ Bank manager has been moved to Crystal Brook. His replacement is Mr D.G. White who has been manager at Karoonda and most recently at Jamestown, where he was appointed in 1983. He will be accompanied by his wife Colleen and children Troy, Samantha and Randall. He expects to take up the position in early August. [Photo of Mr White.]
+
+Burra Burra DC referendum on changing to capital value rating system was defeated.
+
+Collinsville Open Day is reported in c. 11⁄2 columns.
+
+McBride’s Cottages. Work is progressing on renovating the row of McBride’s Cottages in Chapel Street. $160,000 is being spent on this joint venture between the Burra Burra DC and the Housing Trust of SA. The cottages were handed to the Burra Burra DC by the McBride’s Cottages Trustees to enable the project. They are expected to be ready for occupancy in mid August. [Photo.]
+
+CXVII, 8112, 1 July 1987, page 22
+
+Train activity has been busy this past fortnight carting wheat from the Hallett and Burra silos.
+
+Obituary. Syd Collins died in the Burra Hospital last week.
+
+[Harold Sidney Collins born 26 September 1899 Farrell’s Flat: died 23 June 1987, though the headstone in Burra Cemetery gives a birth date 28 September 1900 for Sidney Harold Collins.]
+
+Obituary. Mrs Glad Reilly died recently. She was the mother of Peter and Matt Reilly.
+
+[Born 1 January 1923 and died 24 June 1987.]
+
+Obituary. Mrs Marj. Jeffery, wife of former Council Chairman Roy Jeffery, died last week. She taught at Burra School for many years. [Born Marjorie Olive Tiver 27 May 1903: died 26 June 1987 Burra. Married Roy Joseph Jeffery 1928.]
+
+Obituary. Mrs Anne Perry, wife of former District Clerk Tom Perry, has died in Adelaide. She was a teacher for many years. [Born Annie Morrison 11 August 1910 Whitwarta.]
+
+Burra & District Lions Club gathered on 20 June for their 9th handover dinner. Apart from preparing a float and otherwise assisting at the Copper festival, their main project for the year had been the installation of seating at the oval. The new President is John Maidment. [Donations from them for the year are listed.]
+
+Let’s Not Forget, a book recording the obituaries of the Burra District 1848-1976 has been completed and published. It has been a mammoth task under the auspices of the Burra Community Library Board. Some nine volunteers have waded through microfiche [actually microfilm] copies of the Burra Record and then typists, followed by proof readers took over. There are over 6,500 entries in the 75 page book. It retails for $25 from the library. [Photo of Debbie Brown and Colin Fidock with the book.]
+
+CXVII, 8112, 1 July 1987, page 23
+
+Elders Pastoral
+
+The opening of their new premises was performed by state manager Lindsay Wapper and is reported in c. 1 column with two photos:
+
+Lindsay Wapper and Gary Tapscott.
+
+Peter Rolstone, Jim Battye, Arthur Wright, Binks Williams and Gary Tapscott.
+
+CXVII, 8112, 1 July 1987, page 24
+
+Obituary. Ruby Pearl Midwinter.
+
+[Born Ruby Pearl Robinson 15 January 1899 Burra. Married William Albert Midwinter in 1922.]
+
+Marriage. Clare Uniting Church 4 July
+
+Judith Leadbeater, youngest daughter of Peter & Dilys Leadbeater, will marry
+
+Phillip Baulderstone, eldest son of Allen & Marcia Baulderstone of Burra.
+
+CXVII, 8113, 8 July 1987, page 20
+
+Andrew Hogan, only son of Colin and Yvonne Hogan and grandson of Pat and Gill Hogan, formerly residents of Burra, will be ordained into the priesthood at St Francis Xavier’s Cathedral, Adelaide on 25 July.
+
+An Evening of Gilbert & Sullivan will be put on at Mt Bryan on 1 August.
+
+Burra Pony Club had a show jumping school at Burra Showgrounds last weekend.
+
+Burra Picnic Race Club President John Maidment reported on the past year at the recent AGM. The amount raised was $6,090 of which $2,500 was given to Burra Aged Persons Hostel and $2,600 to RFDS. 1987 was the club’s second meeting.
+
+Burra’s Changing Commercial Scene
+
+Coppertown Coffee Shop is now Thomas Pickett’s Eatery.
+
+Baulderstone’s greengrocery has been sold to Peter Kelly.
+
+Elders Pastoral has moved to the former Jennison’s site.
+
+Ian Low & Partners have purchased the old Elders Pastoral premises.
+
+There is a new bakery franchise – Price’s of Kadina.
+
+Bence’s Menswear is now Ivan Bain Menswear of Jamestown.
+
+There are plans for a commercial printery.
+
+CXVII, 8114, 15 July 1987, page 23
+
+Burra’s New Rubbish Dump has been opened in the northeast portion of the mine area. It cost $10,000 to create.
+
+CXVII, 8114, 15 July 1987, page 24
+
+Obituary. Bob Gill, formerly of Burra North died on 9 July.
+
+Obituary. Mr Alan Peter Williams died 9 July. [Born 20 April 1923 Redruth.]
+
+David Jennings & his son Andrew were seen recently at the top of Peacock’s Chimney giving Johnny Green a fresh coat of paint.
+
+A balloon released in Bendigo on 7 July was found just north of Burra in the morning of 8 July.
+
+Morphett’s Enginehouse has attracted a grant of $2,000 from the Museum’s accreditation and grants program. The Burra Mine Management Committee will add $1,000 for a project to register and catalogue all the portable artefacts around the enginehouse.
+
+CXVII, 8115, 22 July 1987, page 19
+
+Obituary. Mrs Feaby Mickel died recently.
+
+[Born Feaby Reilly 21 July 1892 Terowie. Married Andreas Rudolf Mickel 1918.]
+
+Burra Burra DC. The Supplementary Development Plan is nearly completed and it is anticipated it will be available to the public in late August for two months for comment.
+
+Adelaide & Wallaroo Fertilizer employees at Burra were told last Thursday they had won the Directors’ Safety Pennant & Award for the seventh consecutive year with over 800 days of injury free activity now. A cheque for $500 was given, to be donated to a chosen charity. For 1987 the staff chose the Burra SES and Andrew McInnes accepted the cheque on their behalf. The money will help to set up the new radio room at the goods shed area, part of which is being refurbished as SES quarters.
+
+The managing director of A & W F Ian Gemmell said the plant at Burra had provided 16% more copper oxide in the last few months and of outstanding quality. Large quantities of manganous oxide had also been produced. The company will soon be mining copper ore from Mt Gunson, ensuring a more consistent supply of raw materials.
+
+Burra Venturers and their leader David Jennings have been undertaking an initiative course in the Burra Creek area in terrible weather. It is part of the Queen’s Scout Award. [Several of their activities are described.]
+
+Burra Burra DC has supported the Lewis Board of Management in an approach to the National Estate Program for the renovation and adaptation of the Paxton Street [i.e. Paxton Terrace] row of Paxton Square. They are applying for $68,000 and will contribute $34,000 of their own funds.
+
+The Community Employment Program will provide a grant of $104,137 for tourist development at the Burra Mine. There will be a sponsor contribution of $13,674 made up of $5,000 from the Department of Mines & Energy, $5,000 from the Department of Tourism and $3,674 from the Burra Mine Management Committee along with a non cash donation of $12,892. The project is scheduled over 28 weeks.
+
+Historic ruins will be excavated and stabilised under archaeological supervision. Walking trails and interpretive signs will be provided. Debris will be removed from the Morphett Chimney flue and the area around Morphett’s Whim House will be cleared. [A more detailed list of sites to be stabilised and given signage follows.]
+
+CXVII, 8116, 29 July 1987, page 19
+
+Theft. On 21 July a 19-year-old carpenter and a 16 year-old youth were reported for having broken into the Burra Community & Sports Club and stealing liquor on 10 July.
+
+Accident. Two semitrailers collided about seven km east of Burra on the Morgan Road while travelling in the same direction. The leading vehicle jack-knifed on the slippery road and the following vehicle collided with it. The first vehicle sustained about $15,000 damage and the second $30,000 to $40,000. The driver of the following vehicle received minor injuries.
+
+Burra Senior Citizens’ Club AGM was held recently. President Laurel Neill reported a busy and happy year. Membership was 62 with an average attendance of 38. The club had been involved in the Tidy Town’s competition with the emphasis on maintaining the club’s projects – the park opposite the Barker Homes near the Hospital and the creek bank opposite the Civic Centre.
+
+The Library Board’s trading table was well supported on Saturday morning.
+
+The Crippled Children’s Association held a trading table on Friday that was well supported.
+
+Obituary. Bob Steele died last week. He had been very active in the community with a long running interest in the Burra Pony Club, Legacy and Lions and was also a former Councillor.
+
+[Robert James Steele born 15 September 1922 Peterborough: died 22 July 1987.]
+
+Obituary. Mrs Lillian Collins, wife of the late Sidney Collins, died last week.
+
+[Born Lillian Emily Caines 30 June 1904 Pt Pirie West: died 21 July 1987. Married Harold Sidney Collins 1932.]
+
+Birth. To Tammy & Shane O’Bryan at Burra Hospital last week, a son.
+
+The Burra Cycling Classic will be run next weekend.
+
+Chapel Street is undergoing major roadworks. The first stage involves the reconstruction of the road from Commercial Street to the bridge and includes 140 m of 600 mm stormwater drain. The original drain, which extended across Commercial Street and down Chapel Street to the creek, had become blocked with silt. Another box culvert drain was blocked with tree roots and silt. The road itself was never well constructed and the seal consequently continually broke down, making maintenance costs exorbitant. [Photo.]
+
+CXVII, 8117, 5 August 1987, page 19
+
+Birth. To David & Robyn Nourse on 29 July, a son, Richard Angus.
+
+Burra Apexians held their handover dinner at the Old Jinker Restaurant last Friday. The new President is Michael Scholz. Vice-President is K. Hanlin with John Hood as Secretary and Neil Page as Treasurer.
+
+The Burra Cycling Classic was held last weekend. Thirty-six cyclists competed and the event was run in fine weather. Darrel Beddome was the winner, collecting the $300 prize and also the $120 reward for fastest time. [Photo of the starting line in Best Place.]
+
+BCS. Students are rehearsing for the production of Oklahoma on 6, 7 & 8 August in Burra Town Hall.
+
+Justin Fidock has been received into the Venturer Unit from the Scouts.
+
+Burra Burra DC has achieved a surplus of $11,718 for the financial year ending 30 June 1987. The major expenditure was $467,541 on roadworks. For 1987-88 the minimum rates will be $275 in Burra, $190 in Farrell Flat, Booborowie and Mt Bryan and $120 in rural areas. The estimated rate income is $622,239 – an increase of 11.6%. They anticipated Government grants would fall by 18.2%.
+
+[Major expenditures are then listed along with grants received to date.]
+
+CXVII, 8118, 12 August 1987, page 21
+
+Obituary. Jack (Johnny) Monaghan of Farrell Flat died last week.
+
+Obituary. Ken James died last week. [Kenneth Clifton James born 19 Feb. 1908: died 27 July 1987.]
+
+Obituary. Vic Gisi, formerly a Burra garage proprietor died recently.
+
+BCS production of Oklahoma played to good houses in Burra last week. Principals were: Karin Preiss (Laurey), Mat Boaden (Curley), Bernie Fahey (Aunt Eller), Andrew Blaikie (Will Parker), Jenny Elliott (Ado Annie Carnes) and Terry Schiller who did a great job as Jud Fry. The director was John Keal and producer was Colin Fidock.
+
+Burra Mine Management Committee held its first AGM on 5 August and Chairman Helen Stockman presented the first annual report. The committee was formed to operate Morphett’s Enginehouse and develop the Burra Mine site. The first year had seen experimentation with the hours of opening for the Enginehouse, the training of guides and the appointment of a site manager. Much work had also been done on management, conservation policy, promotion and publicity. To the end of July 1987 there had been visits by 3,155 adults, 243 children, 589 families and 307 pensioners. In addition there were some tourist bus groups and students.
+
+In May the History Trust had granted $2,000 for a cataloguing and registration of portable artefacts on the site. The recent DEP grant of some $104,137 towards a total project of $130,703 will enable much more conservation and some walking trails to be undertaken.
+
+CXVII, 8119, 19 August 1987, page 19
+
+Units for the Aged
+
+Two double units, each with two bedrooms are currently being built as accommodation for the aged. They are on the corner of Kingston Street and Smelts Road [Welsh Place]. Their design has taken into account the surrounding buildings on the State Heritage Register. They will have sandstone-coloured ashlar block for the front walls with the rest plastered in a matching colour. Roofs will be corrugated Colorbond iron and each unit will have a front verandah.
+
+Birth. To Libby nee Thamm and Peter, a son, Clinton Peter. A grandson for Brian & Shirley Thamm.
+
+Obituary. Mr Eddie Heinrich died in Adelaide recently. [Edward Louis Heinrich born 6 November 1919 Booborowie: died 7 August 1987.]
+
+The Kingston Street Bridge was slightly damaged when the car of a 26-year-old male driver collided with it on 13 August. The driver was not hurt.
+
+Matthews Emporium had a crowd at the doors when they opened their furniture and furnishings sale last Friday. The earliest customers arrived at 4 a.m. with sleeping bags and later cooked sausages for breakfast in Market Square.
+
+[Check again, but it seems that neither this nor the report in the Review Times Record says that this was a closing down sale. Nevertheless in CXVII, 8130, 4 November 1987 page 19 a report says that the State Bank of SA has bought the store with the intention of relocating to it.]
+
+Burra Mine Management Committee has published a book on the recently reconstructed Morphett’s Enginehouse and the Cornish Beam Engine. It was compiled by Greg Drew, a committee member and officer of the Department of Mines and Energy.
+
+CXVII, 8120, 26 August 1987, page 19
+
+Burra Burra DC has asked John Brak, the planning officer, to draw up a concept plan for the creek bank adjacent to Best Place. It will look to future use and requirements and is to include a toilet block and perhaps a bus park.
+
+Council is to write to petrol companies about fuel tankers coming through the town rather than making use of the bypass.
+
+Children’s Book Week took on a nautical theme at Burra Community Library with marine decorations and a kayak as centrepiece.
+
+The 1988 Burra-Broken Hill Barrow Push will be started by famous Australian folk singer John Williamson. He plans to give a concert in Burra on 12 January, flag out the runners on 13 January, follow them to Broken Hill and give another concert there.
+
+Burra featured in a large segment of the Leylend Brothers’ program on Sunday Night. It must have been filmed some time ago, as Morphett’s Enginehouse was a ruin surrounded by scaffolding.
+
+CXVII, 8121, 2 September 1987, page 19
+
+The Royal Exchange Hotel Social Club presented a cheque to the Burra Hospital for $1,500. It will be spent on a new drugs trolley and surgical instruments. Publican Ron Lycett and the Social Club President David Maidment said most of the money came from a recent disco. [Photo.]
+
+Petrea Piggott has won the Lions Junior Sportsperson of the year award.
+
+Burra Hockey Club had a successful trading table on Friday, raising c. $300.
+
+BCS. The Social Club’s Springtime Dinner Dance at the Town Hall on Saturday night attracted c. 140.
+
+BBH Footballers and the Mail Medal Count:
+
+‘A’ Grade Mike Soulsby was runner up by one point.
+
+‘B’ Grade Neil Page was the winner.
+
+‘B’ Grade Rob Oswald was leading goal kicker.
+
+Senior Colts Jamie Coad was the winner.
+
+Junior Colts John Villis was runner-up.
+
+CXVII, 8122, 9 September 1987, page 19
+
+Burra Kindergarten last week held a Teddy Bears’ Picnic.
+
+Bon Accord Mine Museum
+
+The CEP project valued at $25,000 is nearing completion. The project covered repairs and some landscaping. The E & WS shed over the shaft has been painted and new guttering fitted. All fencing has been renewed. Large artefacts have been raised on blocks. Pathways have been created. Pointing and stabilising of walls was carried out. The foundations of the town’s original waterworks are believed to have been uncovered. A picnic area has been formed.
+
+Chris Baulderstone, daughter of Marcia and Allen, has been chosen for the state team for indoor cricket and will soon play in Surfers Paradise.
+
+Chris Hennekam and Alan Pearce have moved from Cubs to the Scout Troupe.
+
+Roger Boehm, art teacher at BCS will be giving an art exhibition at the Bible Christian Chapel in Paxton Square over the coming weekend.
+
+CXVII, 8123, 16 September 1987, page 19
+
+Royal Adelaide Show
+
+David & Graham Kellock of Kelvale Stud won the grand champion poll ewe and reserve grand champion poll ewe.
+
+Rex & Peter Stockman of ‘Springvale’ had the reserve grand champion ewe.
+
+At the ram sales Collinsville Stud broke the world record for both a horn and poll ram with $215,000 and $110,000 respectively.
+
+Burra National Trust will have a bus tour to Bungaree on 20 September.
+
+Burra artist Roger Boehm held his first art exhibition – a series of pen and wash – in the Bible Christian Chapel in Paxton Square last weekend. Almost all the 22 paintings were sold. The subjects of most were rural buildings and homesteads.
+
+Sujitra Suttiserm, who likes to be called Lek, is an American Field Scholar exchange student from Thailand who has been at BCS for the past few months while staying with Dick and Barbara Secomb on a farm just north of Burra. She goes home in January.
+
+CXVII, 8124, 23 September 1987, page 23
+
+St John’s Ambulance Service awarded the National Medal to Burra members on 7 September. Divisional Officer Ralph Oakley received one for 18 years continuous service, Pte Brian Thamm one for 25 years continuous service and John Stivan one for 17 years.
+
+Burra & District Crippled Children’s Auxiliary had about 150 women to their Spring & Summer Parade & Luncheon.
+
+Obituary. Ernie Zanker died at Burra Hospital recently. When younger, Ernie did a large portion of the tree planting and tending at the Burra Golf Course. He also enjoyed sketching and painting.
+
+[Born John Ernst Zanker 10 August 1902 Pekina: died 10 September 1987.]
+
+Jan Letcher received her accreditation as a lay preacher at a special commissioning service in the Uniting Church on Sunday evening.
+
+Birth. To Trudy & Kym Robinson, a son, Danny. A grandchild for Bob & Pat, Greet.
+
+Burra Hockey Club break-up for the season was held last week.
+
+[The information on awards was garbled in the paper and the corrected version was published CXVII, 8125, 30 September 1987, page 23: Neil Brown was best and fairest in Burra Senior Team and Justin Fidock was best and fairest in the Junior Team.]
+
+Two very improved players received President’s Trophies: Paul Williams and Jason Shepherd.
+
+BBH Netball. The J1 team won their Grand Final on Saturday.
+
+CXVII, 8124, 23 September 1987, page 24
+
+Obituary. Bill Norris.
+
+CXVII, 8125, 30 September 1987, page 23
+
+Obituary. Mrs Belle Hannaford of Hallett has died aged 93.
+
+Born Bell Lucas 20 February 1894 Petersburg [Peterborough]. Married Victor Roy Hannaford 1925.]
+
+Birth. To Michelle & Lyndon Plew, a daughter.
+
+Burra Lions Club has erected new shades at the Burra Swimming Pool.
+
+Best Place Creek Area Plan is currently on public display. The plan offers low maintenance landscaping with provision for toilets and car and bus parking and the extension of the bicycle track from Redruth Bridge to St Just Street. Currently the nearest public toilets to the Burra North Shopping area are located at the Burra North Playground, about 1 km away. The Ludgvan Street deviation will close Redruth Bridge to vehicular traffic.
+
+Local History Room Opened
+
+This was built last year in the form of a mezzanine floor adjacent to the Burra Community Library and was funded jointly by the Sa Libraries Board, the Education Department and the Burra Burra DC. Chairman of the Burra Community Library Board of Management Sue Warnes welcomed everyone and introduced librarian Colin Fidock. He said:
+
+History was a reflection of lives. Local History was a heritage we handed on to following generations. Ian Auhl the teacher and historian was able to see how significant the discovery of copper and the growth of the Burra Mine was to SA, but also to the growth of and in the lives of those who lived and will live in this district. The people of Burra were indebted to his dedication and conviction. He had given so much of his life in showing how proud Australians should be of this remarkable town. The Local History Room holds in perpetual trust the life work of Ian Auhl in a notable collection of indexes, references, books and photographs of Burra and District, along with genealogical references of great significance to family history researchers and access to state records via microfilm and fiche, supplemented now by the two publications ‘Let’s Not Forget’ and ‘Relatively Speaking’.
+
+Colin went on to acknowledge the efforts of Ian and Eva Auhl, the late Ann Perry, Shirley Thamm, Margaret Henderson, Di Day, Debbie Brown, Tess Hopkins, Chris McCabe, Cynthia Burnett and Roger Henderson for his belief in, and striving for such a special room. He also thanked the bodies who had funded it.
+
+Chris McCabe was then called upon to open the room in the absence of Ian Auhl who was prevented from attending by illness. He read a speech prepared by Ian Auhl for the occasion. Ian recalled the lack of library facilities when he had first come to Burra in the 1960s and referred to the marvellous Community Library now in place. He too thanked those who had worked to bring together this collection of Burra’s History.
+
+He said that when he had come to Burra in 1964 he knew nothing of its History except that he had been born here in 1914. Though he had then written nothing, he was hooked on Burra from the moment he arrived. He said he had told the story up to 1877 so there was plenty yet to research and more of the story to be told. This history room is the starting place for that story.
+
+Before Chris cut the ribbon to open the room, Roger Henderson, past Principal of BCS performed a short acknowledgement and read two citations to accompany framed photographs of Ian Auhl and Colin Fidock.
+
+The opening of the room coincided with the ninth birthday of the Burra Community Library.
+
+CXVII, 8126, 7 October 1987, page 21
+
+Burra’s 110th Show* will be opened on 10 October by Ms June Appleby MP who is deputising for the Minister of Agriculture Mr Kym Mayes.
+
+[*The correction of this repeatedly made error becomes tedious. The correct figure cannot be obtained by subtracting 1877 from the present year. The first Show was held in 1877, but there were no shows from 1886 to 1893, apparently due to apathy, which provoked considerable comment in the local paper at the time. The 1897 Show was cancelled due to the appallingly bad season and the 1914 Show was cancelled due to the combined effects of the outbreak of World War I and a devastating drought. (The event returned in 1915.) Twenty-five years of Shows from 1915-39 ended in 1940 when the Show was cancelled due to World War II. The Show remained suspended until 1946, since when it has been an annual event.]
+
+CXVII, 8126, 7 October 1987, page 22
+
+Burra Yacht Club Regatta will be held on Sunday 11 October. There will be yacht races every hour with dragon boat races between other events. Dragon boats with crews of nine raced for the first time last year. The club will again sell their souvenir beer glasses, using their usual logo, as they have done every year since 1980. The day’s racing will be followed by a cabaret in the Town Hall at 8 p.m. at which Dick Frankel’s Jazz Band will play.
+
+CXVII, 8126, 7 October 1987, page 23
+
+During the School Holidays Burra Caravan Park and Paxton Square Cottages have virtually been full.
+
+BCS has been advised that a part-time salary has been made available for the appointment of an educational officer to work in the area of local history. The salary will be used to generate resource material for students at all levels about the history of Burra. Principal Mike Day said he was delighted the Education Department had been able to make the salary available.
+
+Scouting. From 29 September to 3 October Burra venturers and the Kleinig, Gardner, Letcher, Jacka and Jennings families travelled to Rawnsley Park at Wilpena Pound for hiking and rock climbing.
+
+Burra Hospital
+
+The Chairman of the Board recently presented the 110th annual report. Harry Quinn said the 1986-87 year had been one of change and challenge. It had been a time of financial restraint and increasing demand. All hospitals faced a 1% budget cut after allowing for only a 4% inflation rate. Burra was one of the cheapest hospitals in the state on the basis of cost per occupied bed day and had felt the cuts more than some places with ‘fat’ to cut. Additional monies had to be sought to balance the budget. During the year the part-time physiotherapist was not replaced and one trainee nurse position was cut. Community support had been ongoing and was much valued. Meals on wheels continued to provide a service for an increasing frail aged population. The Ladies’ Auxiliary enabled the hospital to buy much needed equipment. During the year the SA Health Commission proposed to remove obstetric and neo-natal from all country hospitals, but after community response any change appears to have been deferred for the time being. SA Health refused to update laundry equipment and the hospital has transferred laundry services to Central Linen, effecting a saving in salaries and goods and services. This reduced the need for voluntary sewing women who had worked for years for the hospital. He thanked Mrs Florrie Scroop and her helpers for all their efforts over the years. Burra St John Ambulance Service had donated a $2,900 patient lifter. Bathroom floors had been resurfaced and several other safety initiatives undertaken. Unfortunately requests for funding for an Aged Persons Hostel near the hospital were unsuccessful. The casualty and outpatient area needed expansion due to increased tourist traffic. There had been no major building improvements for fourteen years. Stronger approaches to SA Health were needed for more equitable funding for expenses and capital works.
+
+CXVII, 8127, 14 October 1987, page 24
+
+Marriage. In New Zealand Darryl Woolley, son of Des & Gloria Woolley of Burra has married Marjorie Deeson.
+
+Birth. To Peter & Kerrin Woolley some weeks ago, a son, Liam Patrick.
+
+Birth. To Ruth & Gil Strachan, a daughter, Katherine.
+
+Birth. To Roy & Sharon O’Connor, a daughter, Kylie Joy.
+
+CXVII, 8128, 21 October 1987, page 18
+
+Obituary. Mrs Gwen Mitchell died at Burra Hospital on 6 October.
+
+[Born Gwenda Muriel Genevyeve Neill 12 November 1909 Croydon SA. Married John Oliver Mitchell 1932.]
+
+Birth. To Jacqui & Peter McMahon on 26 September, a daughter.
+
+Marriage. St Mary’s Burra, last Saturday
+
+Juanita Quiessner married Kevin Campman.
+
+Dani Fidock is presently in Adelaide in hospital, recovering from a car accident.
+
+Trevor Rogers has arrived in Burra with his wife Anne to become the new Uniting Church minister in Burra.
+
+Burra Mine
+
+The CEP workers at the mine discovered an interesting archaeological relic last week. It appears to be a driving mechanism for the crushers adjacent to the ore dressing tower. Archaeologist David Bannear says it is one of the few pieces if engine to remain intact and to have escaped the scrapping process of the early twentieth century. It will be transferred to the Bon Accord Mine Museum. The CEP scheme will run for 28 weeks and cost a total of $135,000. [Photo of Mark Charles and the piece of machinery.]
+
+Adelaide & Wallaroo Fertilizers Ltd held a board meeting in Burra on 7 October. Board members inspected the Burra operations. Managing Director Ian Gemmell said the company had approved a $7.5 million investment in mining and processing operations at Mt Gunson, Copley and Lyndhurst. The mining project team led by Nick van Buuren had met a demanding schedule, bringing the mining and processing into production this week. Almost 50 people were employed at Mt Gunson and this secured the future operations at Burra, which employed another 40. Most of these 80-90 people came from the Burra district. Over lunch the board met a number of local guests, many of them were farmers. Mr Ken Williams, Chairman of the Board, was able to tell them of recent changes in fertilizer and agricultural product activities. The company was changing from a South Australian supplier to a national supplier of fertilizers and was entering an exciting period of growth.
+
+CXVII, 8129, 28 October 1987, page 19
+
+Burra Pony Club Horse Show last weekend was held successfully in excellent weather.
+
+Obituary. Mrs Nesta Beames, wife of Rev. Alan Beames, died last week. Rev. Beames is a former Uniting Church minister in Burra.
+
+Birth. To Judith & Roger Neale in Burra last week, a son, Grant Andrew.
+
+An AIDS information night was held at the school last Thursday.
+
+Burra Little Athletics had a very successful first season in 1986-87. Over 50 registrations were received. Meetings were held either Friday evenings or Sunday afternoons. In the club’s first major championship they brought home the winner’s trophy from the Santos Regionals at Clare. A number of athletes took major placings in the State Individual Championships and two athletes, Petrea Piggott and Adrian Day, were selected in the state team to compete in Darwin. Rob Letcher is President of the group with Di Day as Secretary.
+
+Burra Apex Club has installed a pop-up watering system at Burra Kindergarten at a cost of c. $800.
+
+Rev. Trevor Rogers was welcomed to Burra Uniting Church and a special induction service was held on 14 October. Chairman of the Frome Presbytery Rev. Doug Hosking officiated. Trevor has previously been a farmer in the Maitland area and a part-time shearer. He and his late wife Margaret have two children. Margaret died in 1982 and in 1984 he married Ann who comes to Burra with him.
+
+Ludgvan St Deviation. Work on stage one of the project has begun. There has been a Highways Department grant of $200,000 this financial year and it is expected stage one can be completed by Christmas. Council is also reconstructing Chapel Street in stages and the first stage is between Commercial Street and the bridge. A tourism road grant will enable work on West Street in Burra North and Council expects to seal all three of these roads in December.
+
+BCS students have done well in the Australian Mathematics Competition – Cory Heneker, William Piggott & Kirsty Warnes received distinctions. In the Australian Schools scientific Competition seven students received Certificates of Achievement.
+
+SKAL International Conference on Tourism will send 360 delegates to Burra on 3 & 5 November for day visits.
+
+Fire Appliances
+
+The Director of the CFS in SA has announced that the CFS Board will allocate a new vehicle to be housed at Baldina area at no cost to the Burra Burra DC.
+
+On 13 October a recommendation was put to the Burra Burra DC by the Burra & District Fire Fighting Association that three more Hino 4x4 2,000 litre fire appliances, fully equipped, be funded by Council with CFS Board contributing 70% of the capital cost. Council agreed to contribute $60,000 by means of a debenture loan over five years. The four appliances subsidised by Council are valued at $336,000 and will be allocated to Farrell Flat, Mt Bryan, Burra and Baldina. They should be available in late April/May 1988. The present appliances will then be sold by tender.
+
+CXVII, 8130, 4 November 1987, page 19
+
+Marriage. Last Saturday Jenny Pearce married Les Hastings at Clare.
+
+Birth. To Brett & Heather Afford (nee Lloyd), a son, Dudley James. A grandson for Joyce & Ray Lloyd.
+
+Gaolbreakers’ Party at Redruth Gaol on Saturday night was a riotous night of music and fun.
+
+Obituary. Albert Bruce died last week.
+
+[Albert James Bruce born 9 May 1894 World’s End: died 23 October 1987.]
+
+Hallett Red Cross Flower Show. After 40 years the organisers felt interest was waning last year and so this year held a Frolic & Family Night. The branch was well satisfied with the result.
+
+St John’s Lutheran Church at Burra celebrated its 20th anniversary at Burra North on Sunday. Extra marquees were erected for the crowd with amplified relay of the service. Pastor Arnold Schmidt, who was minister for Burra when the building was bought, returned for the service as guest speaker. Six pastors attended, all of whom had had some connection with the church in Burra. Bill Campbell of Campbell’s Lowloaders also attended. The firm had transported the building to Burra twenty years ago. After the service a luncheon was held in the Burra Show Hall.
+
+The SA Rogaining Association held an event last weekend in the Mt Bryan East area. The event encompassed 55 checkpoints. Burra Apexians catered.
+
+The State Bank of SA has contracted to buy Matthews Emporium in Market Square. The purchase will be completed at the end of November. Burra branch manager John Peake says the bank needed more space and was attracted by the site’s location in the middle of the shopping area. Refurbishment will begin as soon a possible and the old premises will be sold once the move to the new site has taken place.
+
+CXVII, 8131, 11 November 1987, page 19
+
+The Lewis Board of Management Chairman Andrew Gebhardt said at the recent AGM that Paxton Square had had a financially profitable year. In July the board paid back $50,000 of its original loan of $100,000 borrowed for the Bridge Street [Terrace] row of cottages. The cottages were enjoying increasing visitor traffic. In the past twelve months the board had been saddened by the death of Mr Ted Baulderstone. They would continue with his vision and continue to develop Paxton Square. The three cottages gutted by fire last year had been repaired, though there was still ongoing discussion with the insurance adjuster about weather damage between the time of the fire and the time work was completed on repairs – a period of about 9-10 months.
+
+SKAL International Tourism Conference
+
+SKAL Delegates visited Burra last week in four bus loads on Tuesday and Thursday. Burra Tourist Officer Jenny O’Connor escorted each group around town. They had lunch at the Burra & Community Sports Club.
+
+Burra Hospital Auxiliary held a very successful Melbourne Cup Luncheon at Burra Town Hall. Rosemary Nairn and the Woodville Madrigal Group provided entertainment.
+
+CXVII, 8132, 18 November 1987, page 19
+
+Scouts & Venturers are raffling a huge Christmas stocking – value is in excess of $400.
+
+Grasshoppers are approaching Burra from the east despite extensive spraying in the Thistlebeds, Glenora, Poonunda and Caroona areas. There are band of them just east of the hills. So far there has been no crop damage, though some pastures have been affected.
+
+Damien Slade has been invested as a Burra Scout.
+
+Marriage. Bronwyn Steele will marry Thomas Williams this Saturday. They will live at Gum Creek.
+
+Paxton Square Rows have been named after Ted Baulderstone, Andrew Gebhardt and Bob Lewis.
+
+Burra Hospital Gala Day will be held on 28 November to raise much needed funds.
+
+BCS Junior School Sports Day was held last Friday.
+
+CXVII, 8133, 25 November 1987, page 23
+
+Royal Exchange Hotel Social Club handed over two cheques each for $200 last week to the 1st Burra Scout Group and to Burra Girl Guides.
+
+John Olsen, Leader of the Opposition, opened the SES Shed at the railway yards on Sunday. Chairman of the Burra Burra DC Jack McMahon welcomed everyone to the opening before introducing Mr Olsen to speak and cut the ribbon. Rooms are being built in the vast shed to house radio, stores, an office and lecture room. There is also plenty of room to store vehicles and gear. SES Divisional Officer Mr Ian McDonough also attended.
+
+[Photo.]
+
+Burra Lions President John Maidment presented a cheque for $250 to Ray Jennison, Chairman of the Aged Persons Hostel Committee, last week.
+
+Burra Burra DC held a barbecue on Sunday to thank the town’s volunteers.
+
+The Letcher family will soon be leaving Burra for Adelaide and on Friday night the Scouts will hold a farewell barbecue for them.
+
+CXVII, 8134, 2 December 1987, page 15
+
+Birth. To Rodney & Meg Dohse at Burra Hospital this week, a daughter, Stephanie Frances. A grandchild for Colleen & Ashley Woodgate.
+
+Jan & Murray Tiver attended the graduation dinner of their daughter Jane in Perth last Friday. She has completed her degree in veterinary science.
+
+Burra Girl Guides are looking for a new leader for 1988.
+
+The Letcher Family was farewelled at a barbecue at the Scout Hall in Burra Showgrounds last Friday, attended by Scouts, Venturers, Guides, Brownies, parents and friends. The family is moving to Adelaide after nine years in Burra. [Photo.]
+
+Burra Apex Club, St John Ambulance Service & Hallett Red Cross have together donated funds to enable a baby capsule rental scheme to be operated in Burra. [Photo.]
+
+Elders Pastoral held their centenary market in Burra on 25 November when 26,000 sheep were penned for the occasion. Elders’ State Manager Lindsay Wapper gave a short address outlining the history of Elders in Burra. A copy of the advertisement for the first sale was displayed. Mr Tom Rogers, manager of Elders Pastoral Livestock Department started the auction dressed in nineteenth century clothing and started the call in pounds shillings and pence. As was the custom last century when new yards were used for the first time a hat was presented to the first buyer. Two further hats were presented later in the day. [Photo.]
+
+CXVII, 8135, 9 December 1987, page 27
+
+Birth. To Rina & Chan Duong, a son (their fourth).
+
+John & Mavis Reed, formerly of Burra, celebrate their 50th wedding anniversary on 11 December. They were married at Redruth Methodist Church in 1937.
+
+Two New Burra Shops
+
+Country Pine Interiors
+
+Thimbles & Things
+
+Collinsville Junior Rams Team is in training for the 1988 Burra to Broken Hill Barrow Push.
+
+Burra Hospital Gala Day on 29 November was a great success. A large crowd gathered before noon and enjoyed lunch before settling in for the afternoon’s entertainment. Many organisations such as Apex, Lions, the Kindergarten and the Day Care Centre all contributed to its success. Hospital-run stalls raised $2,900, the Day Care Centre raised $840 and more than $1,600 was raised by the Hospital Auxiliary with its quilt raffle. Burra Rural Youth will ass the profit from their disco the previous night. In all the Hospital is likely to receive over $5,000.
+
+A Break-in at the Nick-Inn at Burra North occurred in the early hours of Thursday 26 November and a quantity of money was taken. Suspects from the Riverland area are believed connected with this and a series of break-ins at Spalding.
+
+CXVII, 8136, 16 December 1987, page 22
+
+The Annual Carol Service attracted a good crowd despite the heat.
+
+BCS. Sportsman Robert Oatey will be guest speaker at the annual speech day on Friday 18 December.
+
+Birth. To Debbie & Robert Jones of Mt Bryan, a son, Adam.
+
+Birth. To Lindy & John Hood, a daughter, Courtney Jane.
+
+Obituary. Miss Nell Heinrich.
+
+[Elenor Gladys Heinrich also registered as Eleanor Gladys Heinrich born 29 May 1912 Copperhouse.]
+
+St Mary’s Burra. The new Bishop of Willochra Rt Rev. David McCall was in Burra on Sunday for a confirmation service for ten candidates. [They are listed.]
+
+Burra Burra DC. At Christmas break-up celebrations Michael Lennon, Assistant Director Department of Local Government, presented Local Government Service Awards to John Burge, Farrell Flat Ward Councillor, for 17 years’ service and to James Hawker, immediate past Chairman of the Council and past Councillor for Booborowie Ward, for 12 years’ service.
+
+Burra Apexians and their wives held their Christmas break-up last Tuesday. They took the opportunity to farewell the Thai exchange student Lek and also Apexian Jim Low and his wife Bev who leave shortly to take teaching appointments at Cummins.
+
+Burra Scouts, Venturers, Cubs, Girl Guides and Brownies held their break-up at the Sports Complex last Friday night. Senior Citizens were invited as guests as usual. Various presentations were made. Dave Jennings as leader of the Venturers said it was anticipated there would soon be three new Queen’s Scouts: Anthony Kleinig, Scott Gardner and Leighton Dollman. He said there were plenty of children in the town to sustain the movement, but few parents willing to become involved.
+
+Burra Branch of the National Trust has presented the painting Peter’s Vision to St Mary’s Church on permanent loan. Mr Stanley Warner had gifted them the 18th/19th century painting. The presentation was accepted by the Bishop of Willochra at the service in St Mary’s on Sunday. [Photo.]
+
+CXVII, 8137, 23 December 1987, page 16
+
+Mark Deamer became a naturalized Australian on 14 December at a ceremony in the staffroom at BCS conducted by Burra Burra DC Chairman Jack McMahon. A celebration lunch followed.
+
+Malowen Lowarth has received a Certificate of Merit at the recent Museum of the Year Awards.
+
+Miss Anna Stefopoulos has been appointed educational officer at BCS. He 0.4 time appointment is for at least one year. She has been teaching at BCS for two years and is well acquainted with the Local History Room. Anna will be developing resource material for use by Burra and visiting students R-12, will liaise with local tour guides and promote via publications or research the prominence of Burra’s history in state and national terms and will educate staff and students in local history research skills. She will promote the uniqueness of Burra’s History with a view to organising conferences locally and will provide the opportunity for the establishment of a local history society. [Photo.]
+
+Farrell Flat Post Office will be closed on 31 December, having served the town for since 1870. Reg & Pauline Rattley will finish their time at the Post Office after seventeen years’ service. In the future the mail will be sorted at the hotel and be distributed in private boxes installed at the hotel.
+
+Research Award for Burra
+
+At the opening of the Local History Room a cheque for $500 was presented to the Library Board from Ian & Eve Auhl and they have also gifted all royalties from Ian’s books in the future to this same end. A local history research award will be offered known as the Ian & Eve Auhl Research Award to further the research into the history of Burra and District and the furtherance of the local history collection.
+
+[Details and conditions are printed.]
+
+BCS. The two American exchange teachers are leaving at the end of the year and so is Lek, our American Field Scholar from Thailand. Other departures will be the Fidock family, who are moving to Adelaide and Bev & Jim Low, who are moving to Cummins.
+
+Business Moves in Burra
+
+In Commercial Street Burra Photo Services and Video Shop, Steve Woolley’s insurance office and Granny’s Greenhouse are to move along the street to what was Burra Radio & Electrical.

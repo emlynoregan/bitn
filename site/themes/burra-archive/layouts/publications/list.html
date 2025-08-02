@@ -1,0 +1,111 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+    <!-- Page header -->
+    <div class="text-center mb-12">
+        <h1 class="text-4xl font-serif font-bold text-gray-800 mb-4">{{ .Title }}</h1>
+        <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+            {{ .Content }}
+        </p>
+    </div>
+
+    <!-- Publications grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+        {{ range .Pages }}
+        {{ if eq .Type "publication" }}
+        <div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200 archive-card">
+            <div class="p-6">
+                <!-- Publication header -->
+                <div class="flex items-start justify-between mb-4">
+                    <h3 class="text-xl font-serif font-bold text-gray-800">
+                        <a href="{{ .Permalink }}" class="hover:text-amber-600">{{ .Title }}</a>
+                    </h3>
+                    <span class="inline-block bg-amber-100 text-amber-800 text-xs px-2 py-1 rounded">
+                        {{ .Params.date_range }}
+                    </span>
+                </div>
+                
+                <!-- Publication stats -->
+                <div class="space-y-2 mb-4">
+                    <div class="flex items-center text-sm text-gray-600">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                        <span>{{ .Params.document_count }} documents</span>
+                    </div>
+                    
+                    <div class="flex items-center text-sm text-gray-600">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        </svg>
+                        <span>{{ .Params.total_paragraphs | default 0 | humanize }} paragraphs</span>
+                    </div>
+                    
+                    <div class="flex items-center text-sm text-gray-600">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                        <span>{{ .Params.date_range }}</span>
+                    </div>
+                </div>
+                
+                <!-- Publication description -->
+                {{ if .Summary }}
+                <p class="text-sm text-gray-600 mb-4">{{ .Summary }}</p>
+                {{ end }}
+                
+                <!-- Browse button -->
+                <div class="flex justify-between items-center">
+                    <a href="{{ .Permalink }}" 
+                       class="inline-flex items-center text-amber-600 hover:text-amber-700 font-medium text-sm">
+                        Browse Documents
+                        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </a>
+                    
+                    <!-- Era indicator -->
+                    {{ $startYear := (split .Params.date_range "-") | first | int }}
+                    {{ if lt $startYear 1880 }}
+                        <span class="text-xs text-blue-600 bg-blue-50 px-2 py-1 rounded">Mining Era</span>
+                    {{ else if lt $startYear 1950 }}
+                        <span class="text-xs text-green-600 bg-green-50 px-2 py-1 rounded">Agricultural Era</span>
+                    {{ else }}
+                        <span class="text-xs text-purple-600 bg-purple-50 px-2 py-1 rounded">Modern Era</span>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+
+    <!-- Archive overview -->
+    <section class="bg-gradient-to-r from-amber-50 to-amber-100 rounded-lg p-8 text-center">
+        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">Complete Archive Overview</h2>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-2xl mx-auto">
+            <div>
+                <div class="text-3xl font-bold text-amber-600">{{ .Site.Params.totalDocuments }}</div>
+                <div class="text-sm text-gray-700">Documents</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-amber-600">{{ len .Pages }}</div>
+                <div class="text-sm text-gray-700">Publications</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-amber-600">171</div>
+                <div class="text-sm text-gray-700">Years Covered</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-amber-600">190K+</div>
+                <div class="text-sm text-gray-700">Paragraphs</div>
+            </div>
+        </div>
+        <p class="mt-6 text-gray-700 max-w-2xl mx-auto">
+            This comprehensive collection represents one of the most extensive digital archives 
+            of regional Australian newspaper coverage, meticulously compiled by {{ .Site.Params.compiler }}.
+        </p>
+    </section>
+</div>
+{{ end }}
