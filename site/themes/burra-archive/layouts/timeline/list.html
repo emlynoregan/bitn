@@ -10,19 +10,6 @@
         </p>
     </div>
 
-    <!-- Debug Publications -->
-    <div class="max-w-4xl mx-auto mb-8 p-4 bg-gray-100 rounded text-sm">
-        <strong>Debug: Publications found:</strong>
-        {{ $allPubs := where .Site.Pages "Type" "publication" }}
-        {{ if eq (len $allPubs) 0 }}
-            <span class="text-red-600">No publications found!</span>
-        {{ else }}
-            {{ range $allPubs }}
-                <div>{{ .Title }} ({{ .Params.date_range }}) - Type: {{ .Type }}</div>
-            {{ end }}
-        {{ end }}
-    </div>
-
     <!-- Timeline -->
     <div class="relative">
         <!-- Timeline items -->
