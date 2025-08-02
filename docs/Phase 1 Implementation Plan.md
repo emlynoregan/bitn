@@ -6,7 +6,7 @@
 **Outcome**: Live website with basic search, responsive design, and content browsing
 
 ---
-
+ 
 ## 🎯 Phase 1 Objectives
 
 ### Primary Goals
