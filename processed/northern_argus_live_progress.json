@@ -1,6 +1,5 @@
 [
   {
-    "record_id": "northern_argus_1985_08_21_001",
     "source_document": "1985-87_Northern__Argus.md",
     "source_line_start": 11,
     "source_line_end": 15,
@@ -28,12 +27,25 @@
       "eric_notes": [
         "Two photographs of the aftermath."
       ]
+    },
+    "record_id": "northern_argus_11"
+  },
+  {
+    "record_id": "northern_argus_16",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 16,
+    "source_line_end": 18,
+    "original_text": "CXV, 8020, 21 August 1985, page 23",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 16-18)",
+      "note": "Content found between processed records - may need manual review"
     }
   },
   {
-    "record_id": "northern_argus_1985_08_21_002",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 17,
+    "source_line_start": 19,
     "source_line_end": 19,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Obituary.  George Hiles Cockrum of Mt Bryan died last week.  He was secretary of the Burra Senior Citizens for some years.  [Born 16 June 1904, Adelaide: buried Burra 14 August 1985.]",
@@ -59,13 +71,13 @@
       "eric_notes": [
         "Born 16 June 1904, Adelaide: buried Burra 14 August 1985."
       ]
-    }
+    },
+    "record_id": "northern_argus_19"
   },
   {
-    "record_id": "northern_argus_1985_08_21_003",
     "source_document": "1985-87_Northern__Argus.md",
     "source_line_start": 21,
-    "source_line_end": 21,
+    "source_line_end": 23,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Marriage.  Salisbury Uniting Church, 24 August\n\nDebbie Denton, daughter of Ian & Jenny Denton of Farrell Flat, will marry Chris Bishop.",
     "metadata": {
@@ -78,9 +90,9 @@
       "headline": "Marriage Announcement",
       "people_mentioned": [
         "Debbie Denton",
-        "Chris Bishop",
         "Ian Denton",
-        "Jenny Denton"
+        "Jenny Denton",
+        "Chris Bishop"
       ],
       "places_mentioned": [
         "Salisbury",
@@ -90,13 +102,13 @@
         "marriage"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_21"
   },
   {
-    "record_id": "northern_argus_1985_08_21_004",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 23,
-    "source_line_end": 23,
+    "source_line_start": 25,
+    "source_line_end": 25,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Birth.  To Rosemary & John Taylor, a son.",
     "metadata": {
@@ -116,13 +128,13 @@
         "birth"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_25"
   },
   {
-    "record_id": "northern_argus_1985_08_21_005",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 25,
-    "source_line_end": 25,
+    "source_line_start": 27,
+    "source_line_end": 27,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Burra Scouting Movement has arranged a Family film night on Friday at BCS: Hills Angels.",
     "metadata": {
@@ -132,22 +144,22 @@
       "issue_number": "8020",
       "page": "23",
       "article_type": "community_notice",
-      "headline": "Family Film Night",
+      "headline": "Family Film Night Announcement",
       "people_mentioned": [],
       "places_mentioned": [
-        "BCS"
+        "Burra"
       ],
       "topics": [
         "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_27"
   },
   {
-    "record_id": "northern_argus_1985_08_21_006",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 27,
-    "source_line_end": 27,
+    "source_line_start": 29,
+    "source_line_end": 29,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "The Church of England annual dinner dance was held last Friday in the Burra Town Hall.",
     "metadata": {
@@ -160,19 +172,19 @@
       "headline": "Church of England Annual Dinner Dance",
       "people_mentioned": [],
       "places_mentioned": [
-        "Burra Town Hall"
+        "Burra"
       ],
       "topics": [
-        "community"
+        "event"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_29"
   },
   {
-    "record_id": "northern_argus_1985_08_21_007",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 29,
-    "source_line_end": 29,
+    "source_line_start": 31,
+    "source_line_end": 31,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Burra Town Hall has a new coat of paint.",
     "metadata": {
@@ -185,21 +197,21 @@
       "headline": "Burra Town Hall Renovation",
       "people_mentioned": [],
       "places_mentioned": [
-        "Burra Town Hall"
+        "Burra"
       ],
       "topics": [
         "infrastructure"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_31"
   },
   {
-    "record_id": "northern_argus_1985_08_21_008",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 31,
-    "source_line_end": 31,
+    "source_line_start": 33,
+    "source_line_end": 33,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
-    "original_text": "Women’s Agricultural Bureaux held a congress at Burra Town Hall last week.  There were 175 delegates from SA & NSW.  Freda Pink of Burra was given an award for services to the community over the past ten years.  Freda is the Regional Councillor for the Mid North and editor of the quarterly WAB Newsletter.",
+    "original_text": "Women’s Agricultural Bureaux held a congress at Burra Town Hall last week.  There were 175 delegates from SA & NSW.  Freda Pink of Burra was given an award for services to the community over the past ten years.  Freda id the Regional Councillor for the Mid North and editor of the quarterly WAB Newsletter.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-08-21",
@@ -212,21 +224,20 @@
         "Freda Pink"
       ],
       "places_mentioned": [
-        "Burra Town Hall",
         "Burra"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_33"
   },
   {
-    "record_id": "northern_argus_1985_08_21_009",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 33,
-    "source_line_end": 33,
+    "source_line_start": 35,
+    "source_line_end": 35,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "A Public Meeting is called for the Civic Centre on Thursday to begin plans for Burra’s float in the Jubilee 150 procession in Adelaide on New Year’s Eve.",
     "metadata": {
@@ -236,10 +247,9 @@
       "issue_number": "8020",
       "page": "23",
       "article_type": "community_notice",
-      "headline": "Public Meeting for Jubilee 150 Float",
+      "headline": "Public Meeting Announcement for Jubilee 150 Float",
       "people_mentioned": [],
       "places_mentioned": [
-        "Civic Centre",
         "Burra",
         "Adelaide"
       ],
@@ -248,13 +258,13 @@
         "event"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_35"
   },
   {
-    "record_id": "northern_argus_1985_08_21_010",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 35,
-    "source_line_end": 35,
+    "source_line_start": 37,
+    "source_line_end": 37,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Wesley College, Glen Waverley, Victoria, 23 Year 9 & 10 students presented the play Our Town in Burra Town Hall last week.",
     "metadata": {
@@ -269,20 +279,20 @@
       "places_mentioned": [
         "Glen Waverley",
         "Victoria",
-        "Burra Town Hall"
+        "Burra"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "theater"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_37"
   },
   {
-    "record_id": "northern_argus_1985_08_21_011",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 37,
-    "source_line_end": 37,
+    "source_line_start": 39,
+    "source_line_end": 39,
     "issue_reference": "CXV, 8020, 21 August 1985, page 23",
     "original_text": "Accident.  A car and semi-trailer collided just south of Mt Bryan at 11 p.m. last Friday.  One person from the car received minor injuries.",
     "metadata": {
@@ -301,13 +311,13 @@
         "accident"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_39"
   },
   {
-    "record_id": "northern_argus_1985_08_28_001",
     "source_document": "1985-87_Northern__Argus.md",
     "source_line_start": 41,
-    "source_line_end": 43,
+    "source_line_end": 45,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Mr & Mrs Percy Thomas celebrated their diamond wedding.\n\n[Married Kooringa Methodist Church 27 August 1925.]",
     "metadata": {
@@ -316,8 +326,8 @@
       "volume": "CXV",
       "issue_number": "8021",
       "page": "18",
-      "article_type": "news",
-      "headline": "Diamond Wedding Celebration",
+      "article_type": "community_notice",
+      "headline": "Mr & Mrs Percy Thomas Diamond Wedding Celebration",
       "people_mentioned": [
         "Percy Thomas"
       ],
@@ -325,19 +335,19 @@
         "Kooringa"
       ],
       "topics": [
-        "community",
-        "celebration"
+        "celebration",
+        "wedding"
       ],
       "eric_notes": [
         "Married Kooringa Methodist Church 27 August 1925."
       ]
-    }
+    },
+    "record_id": "northern_argus_41"
   },
   {
-    "record_id": "northern_argus_1985_08_28_002",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 45,
-    "source_line_end": 45,
+    "source_line_start": 47,
+    "source_line_end": 47,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Birth.  To Ruth & Gil Strachan of ‘The Gums’, a son.",
     "metadata": {
@@ -359,13 +369,13 @@
         "birth"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_47"
   },
   {
-    "record_id": "northern_argus_1985_08_28_003",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 47,
-    "source_line_end": 47,
+    "source_line_start": 49,
+    "source_line_end": 49,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Burra Creek has been flowing for several weeks after nothing for some three years.",
     "metadata": {
@@ -381,16 +391,16 @@
         "Burra Creek"
       ],
       "topics": [
-        "infrastructure"
+        "environment"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_49"
   },
   {
-    "record_id": "northern_argus_1985_08_28_004",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 49,
-    "source_line_end": 49,
+    "source_line_start": 51,
+    "source_line_end": 51,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Greg Drew of the Department of Mines and Energy will conduct another Mine Walk on the second weekend of the school holidays, Sunday 8 September at 1 p.m.",
     "metadata": {
@@ -406,17 +416,17 @@
       ],
       "places_mentioned": [],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "education"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_51"
   },
   {
-    "record_id": "northern_argus_1985_08_28_005",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 51,
-    "source_line_end": 51,
+    "source_line_start": 53,
+    "source_line_end": 53,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Burra Cubs look like having to go into recess after the resignation of their Akela, Donna Salter.  The Commissioner will visit Burra on 17 June to talk to parents.",
     "metadata": {
@@ -434,16 +444,17 @@
         "Burra"
       ],
       "topics": [
-        "community"
+        "community",
+        "youth"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_53"
   },
   {
-    "record_id": "northern_argus_1985_08_28_006",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 53,
-    "source_line_end": 53,
+    "source_line_start": 55,
+    "source_line_end": 55,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "Students of Brian Reader’s Class of costume making will show their period costumes at BCS on Thursday 19 September at 8 p.m.  The idea is to show people what they might make for events in Jubilee 150.",
     "metadata": {
@@ -461,17 +472,17 @@
         "BCS"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "education"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_55"
   },
   {
-    "record_id": "northern_argus_1985_08_28_007",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 55,
-    "source_line_end": 55,
+    "source_line_start": 57,
+    "source_line_end": 57,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "A Second Day of Fishing is being organised at Burra Swimming Pool for 22 September.  Admission will be free, but there is a 50 cent charge for each fish caught.",
     "metadata": {
@@ -487,17 +498,17 @@
         "Burra Swimming Pool"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "recreation"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_57"
   },
   {
-    "record_id": "northern_argus_1985_08_28_008",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 57,
-    "source_line_end": 57,
+    "source_line_start": 59,
+    "source_line_end": 59,
     "issue_reference": "CXV, 8021, 28 August 1985, page 18",
     "original_text": "A Burra-Clare Barrow Push is being organised for 13 October.",
     "metadata": {
@@ -511,72 +522,121 @@
       "people_mentioned": [],
       "places_mentioned": [],
       "topics": [
-        "community",
         "event"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_59"
   },
   {
-    "record_id": "northern_argus_1985_08_28_009",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 59,
-    "source_line_end": 59,
-    "issue_reference": "CXV, 8021, 28 August 1985, page 18",
+    "source_line_start": 61,
+    "source_line_end": 61,
+    "issue_reference": "CXV, 8021, 28 August 1985, page 1",
     "original_text": "A Public Meeting at Burra Civic Centre last Thursday decided a float would be built for the Jubilee 150 Procession in Adelaide on New Year’s Eve.  Nic Van Buuren was elected Chairman and Roger Boehm is the Secretary and Artistic Director.  [A committee is also listed.]  Plans are to build a replica of Morphett’s Pumphouse on a semi-trailer.  Support will be provided by miners walking with wheelbarrows, but ideas are still coming in.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-08-28",
       "volume": "CXV",
       "issue_number": "8021",
-      "page": "18",
-      "article_type": "community_notice",
-      "headline": "Public Meeting for Jubilee 150 Float",
+      "page": "1",
+      "article_type": "news",
+      "headline": "Public Meeting at Burra Civic Centre",
       "people_mentioned": [
         "Nic Van Buuren",
         "Roger Boehm"
       ],
       "places_mentioned": [
-        "Burra Civic Centre",
+        "Burra",
         "Adelaide"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "Jubilee 150",
+        "community"
       ],
       "eric_notes": [
         "A committee is also listed."
       ]
-    }
+    },
+    "record_id": "northern_argus_61"
   },
   {
-    "record_id": "northern_argus_1985_09_04_001",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 61,
-    "source_line_end": 61,
+    "source_line_start": 63,
+    "source_line_end": 65,
+    "issue_reference": "CXV, 8021, 28 August 1985, page 1",
+    "original_text": "Advt.  Barry & Maureen Wright, 1 Young Street.  Dealers in Wool, Skins and Stock Feed.\nBuyers for Adelaide Wool.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-08-28",
+      "volume": "CXV",
+      "issue_number": "8021",
+      "page": "1",
+      "article_type": "advertisement",
+      "headline": "Barry & Maureen Wright Advertisement",
+      "people_mentioned": [
+        "Barry Wright",
+        "Maureen Wright"
+      ],
+      "places_mentioned": [
+        "Young Street",
+        "Adelaide"
+      ],
+      "topics": [
+        "business",
+        "advertisement"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_63"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 65,
+    "source_line_end": 65,
+    "issue_reference": "CXV, 8021, 28 August 1985, page 18",
+    "original_text": "Buyers for Adelaide Wool.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-08-28",
+      "volume": "CXV",
+      "issue_number": "8021",
+      "page": "18",
+      "article_type": "advertisement",
+      "headline": "Advertisement for Buyers for Adelaide Wool",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "business"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_65"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 67,
+    "source_line_end": 67,
     "issue_reference": "CXV, 8022, 4 September, 1985, MISSING",
-    "original_text": "",
+    "original_text": "CXV, 8022, 4 September, 1985, MISSING",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-04",
       "volume": "CXV",
       "issue_number": "8022",
-      "page": "MISSING",
       "article_type": "missing_issue",
       "headline": "Missing Issue",
-      "people_mentioned": [],
-      "places_mentioned": [],
-      "topics": [],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_67"
   },
   {
-    "record_id": "northern_argus_1985_09_11_001",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 63,
-    "source_line_end": 63,
+    "source_line_start": 69,
+    "source_line_end": 73,
     "issue_reference": "CXV, 8023, 11 September 1985, page 23",
-    "original_text": "The Burra Show will be opened on 12 October by John Olsen, Leader of the Opposition.\n\n[An article then outlines some of the sections and attractions.]  Burra Rural Youth Club is organising a licensed disco in the Burra Town Hall on Show Night.  The Burra Yacht Club will hold its annual regatta on Burra Creek on Sunday 13 October.",
+    "original_text": "The Burra Show will be opened on 12 October by John Olsen, Leader of the Opposition.\n[An article then outlines some of the sections and attractions.]  Burra Rural Youth Club is organising a licensed disco in the Burra Town Hall on Show Night.  The Burra Yacht Club will hold its annual regatta on Burra Creek on Sunday 13 October.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-11",
@@ -584,7 +644,7 @@
       "issue_number": "8023",
       "page": "23",
       "article_type": "news",
-      "headline": "Burra Show Announcement",
+      "headline": "Burra Show Opening",
       "people_mentioned": [
         "John Olsen"
       ],
@@ -595,18 +655,19 @@
       ],
       "topics": [
         "event",
+        "show",
         "community"
       ],
       "eric_notes": [
         "An article then outlines some of the sections and attractions."
       ]
-    }
+    },
+    "record_id": "northern_argus_69"
   },
   {
-    "record_id": "northern_argus_1985_09_11_002",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 65,
-    "source_line_end": 65,
+    "source_line_start": 75,
+    "source_line_end": 75,
     "issue_reference": "CXV, 8023, 11 September 1985, page 23",
     "original_text": "Greg Drew’s Mine Walk on Sunday drew a crowd of about 50.  After a thorough investigation of the mine site, the group moved on later in the afternoon to inspect the smelts paddock, where the process was described and many interesting stories told of its heyday.",
     "metadata": {
@@ -620,21 +681,24 @@
       "people_mentioned": [
         "Greg Drew"
       ],
-      "places_mentioned": [],
+      "places_mentioned": [
+        "mine site",
+        "smelts paddock"
+      ],
       "topics": [
         "event",
         "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_75"
   },
   {
-    "record_id": "northern_argus_1985_09_11_003",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 67,
-    "source_line_end": 67,
+    "source_line_start": 77,
+    "source_line_end": 79,
     "issue_reference": "CXV, 8023, 11 September 1985, page 23",
-    "original_text": "Marriage.  St Mary’s Burra, recently\n\nTrevor Alderson married Sandra Leibhardt.",
+    "original_text": "Marriage.  St Mary’s Burra, recently\nTrevor Alderson married Sandra Leibhardt.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-11",
@@ -654,158 +718,180 @@
         "marriage"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_77"
   },
   {
-    "record_id": "northern_argus_1985_09_18_001",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 61,
-    "source_line_end": 61,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 1",
-    "original_text": "Copper Interpretation Centre\n\nRumours say that the Copper Interpretation Centre, which was the major component of the Jubilee 150 Burra heritage Town Project, is dead.  The project was announced by the Premier in May 1983 as one of three major Jubilee 150 projects – the others being the Port Adelaide Maritime Museum and the restoration of Fort Glanville.  All were to be funded by a $2 million grant from the Commonwealth Government and Burra’s share was to be $470,000.\n\nFrom the start controversy has dogged Burra’s plans to have a Copper Interpretation centre – a concept of Ian Auhl and adopted by the Burra Burra DC.  The Heritage Conservation Branch requested the Department of Environment and Planning to conduct a feasibility study and that favoured spending the major part of the allocation on a selection of heritage projects instead of just on the Copper Interpretation Centre.  The Burra Burra DC voted unanimously to go on with the original concept.\n\nThe steering Committee was chaired by Barry Rowney of the Heritage Conservation Branch, who became the working party chairman.  There were representatives from the Heritage Conservation Unit., the History Trust of SA, the Department of Tourism, the Department of Mines and Energy, the Burra Burra DC and Burra National Trust.\n\nThe Burra Burra DC had some years earlier purchased the Salvation Army Citadel with the idea of its being developed as the Copper Interpretation Centre.  An officer from the Heritage Conservation Branch deemed this to be unsuitable because of its ‘social atmosphere’ and geographic location.  Other sites then considered were:\n\nA new building at the Bon Accord Mine site.\n\nA new building adjacent to Peacock’s Chimney.\n\nA new building on the plateau on the eastern side of the Mine Pool.\n\nA new building where Morphett’s Pumphouse boiler house stood.\n\nDesigns were drawn up and the first completed were costed at about twice the available funds.  Amended designs cut the building virtually in half, gave minimal space to administration, but retained an adequate gallery area and the plateau site was chosen.  The working party approved this and Barry Rowney of the Heritage Conservation Branch indicated verbally that the Branch would recommend approval.\n\nTenders were called and the lowest received was about 100% over the estimated cost.  The working party immediately moved to vary the proposal slightly and move it to the boiler house site with a building the same size and similar silhouette to the former boiler house.  Two architects have indicated their interest and belief that this building could be achieved within budget and could be completed by the target date of October 1986.\n\nRumours of the scuttling of the whole project and for the reallocation of the funds elsewhere have been circulating for two weeks.  The Burra Burra DC has sought urgent answers from the Premier.  The Department of Mines and Energy has been so supportive of the idea that it has already contributed $25,000 to be concentrated on Morphett’s Pumphouse and surrounds.  Burra’s Tourist Officer Jenny O’Connor has joined the Council in lobbying fiercely for the project and to counter the claim that Burra has been slow to react - though no meetings were held between January 1984 and November 1984 and then only at the insistence of the Burra Burra Dc Chairman James Hawker.  The allegation that there is now insufficient time to complete the project is denied by the architects.  Of concern id the allegation that the Heritage Conservation Branch, which has been closely associated with the project, will not now approve building on the boiler house site.  It has been alleged that the head of the Heritage Conservation Branch, Jon Womersley, when asked if his Department had any alternatives to offer, said, ‘No’.",
+    "source_line_start": 81,
+    "source_line_end": 81,
+    "issue_reference": "CXV, 8023, 11 September 1985, page 23",
+    "original_text": "Burra’s Venturers are off to the Flinders Ranges on a camp this week, working towards their Queen’s Scout Award.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-09-11",
+      "volume": "CXV",
+      "issue_number": "8023",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Burra’s Venturers Camp",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Flinders Ranges"
+      ],
+      "topics": [
+        "event",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_81"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 83,
+    "source_line_end": 107,
+    "issue_reference": "CXV, 8024, 18 September 1985, pages 1 & 6",
+    "original_text": "Copper Interpretation Centre\nRumours say that the Copper Interpretation Centre, which was the major component of the Jubilee 150 Burra heritage Town Project, is dead.  The project was announced by the Premier in May 1983 as one of three major Jubilee 150 projects – the others being the Port Adelaide Maritime Museum and the restoration of Fort Glanville.  All were to be funded by a $2 million grant from the Commonwealth Government and Burra’s share was to be $470,000.\nFrom the start controversy has dogged Burra’s plans to have a Copper Interpretation centre – a concept of Ian Auhl and adopted by the Burra Burra DC.  The Heritage Conservation Branch requested the Department of Environment and Planning to conduct a feasibility study and that favoured spending the major part of the allocation on a selection of heritage projects instead of just on the Copper Interpretation Centre.  The Burra Burra DC voted unanimously to go on with the original concept.\nThe steering Committee was chaired by Barry Rowney of the Heritage Conservation Branch, who became the working party chairman.  There were representatives from the Heritage Conservation Unit., the History Trust of SA, the Department of Tourism, the Department of Mines and Energy, the Burra Burra DC and Burra National Trust.\nThe Burra Burra DC had some years earlier purchased the Salvation Army Citadel with the idea of its being developed as the Copper Interpretation Centre.  An officer from the Heritage Conservation Branch deemed this to be unsuitable because of its ‘social atmosphere’ and geographic location.  Other sites then considered were:\nA new building at the Bon Accord Mine site.\nA new building adjacent to Peacock’s Chimney.\nA new building on the plateau on the eastern side of the Mine Pool.\nA new building where Morphett’s Pumphouse boiler house stood.\nDesigns were drawn up and the first completed were costed at about twice the available funds.  Amended designs cut the building virtually in half, gave minimal space to administration, but retained an adequate gallery area and the plateau site was chosen.  The working party approved this and Barry Rowney of the Heritage Conservation Branch indicated verbally that the Branch would recommend approval.\nTenders were called and the lowest received was about 100% over the estimated cost.  The working party immediately moved to vary the proposal slightly and move it to the boiler house site with a building the same size and similar silhouette to the former boiler house.  Two architects have indicated their interest and belief that this building could be achieved within budget and could be completed by the target date of October 1986.\nRumours of the scuttling of the whole project and for the reallocation of the funds elsewhere have been circulating for two weeks.  The Burra Burra DC has sought urgent answers from the Premier.  The Department of Mines and Energy has been so supportive of the idea that it has already contributed $25,000 to be concentrated on Morphett’s Pumphouse and surrounds.  Burra’s Tourist Officer Jenny O’Connor has joined the Council in lobbying fiercely for the project and to counter the claim that Burra has been slow to react - though no meetings were held between January 1984 and November 1984 and then only at the insistence of the Burra Burra Dc Chairman James Hawker.  The allegation that there is now insufficient time to complete the project is denied by the architects.  Of concern id the allegation that the Heritage Conservation Branch, which has been closely associated with the project, will not now approve building on the boiler house site.  It has been alleged that the head of the Heritage Conservation Branch, Jon Womersley, when asked if his Department had any alternatives to offer, said, ‘No’.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "1",
+      "page": "1 & 6",
       "article_type": "news",
       "headline": "Copper Interpretation Centre Controversy",
       "people_mentioned": [
         "Ian Auhl",
         "Barry Rowney",
         "Jenny O’Connor",
-        "Jon Womersley",
-        "James Hawker"
+        "James Hawker",
+        "Jon Womersley"
       ],
       "places_mentioned": [
         "Burra",
+        "Port Adelaide",
+        "Fort Glanville",
         "Bon Accord Mine",
         "Peacock’s Chimney",
         "Morphett’s Pumphouse"
       ],
       "topics": [
-        "infrastructure",
+        "project",
         "heritage",
-        "government"
+        "controversy"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_83"
   },
   {
-    "record_id": "northern_argus_1985_09_18_002",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 63,
-    "source_line_end": 63,
+    "source_line_start": 109,
+    "source_line_end": 115,
     "issue_reference": "CXV, 8024, 18 September 1985, page 17",
-    "original_text": "Birth.  To Julie-anne & Anthony Lloyd, a son, Christopher James.",
+    "original_text": "Birth.  To Julie-anne & Anthony Lloyd, a son, Christopher James.\nObituary.  Helena Kellaway, wife of Stan Kellaway, died during the last week.\n[Identity of the deceased is not easy to trace, but she appears likely to have been born as Ada Lena Frahm 14 February 1915 at Bower.  If so she married Clarence Victor Siostrom in 1934 under the name Helean Ida Frahm and was widowed in 1954.  She subsequently became Stanley Kellaway’s second wife.]",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
       "page": "17",
-      "article_type": "birth",
-      "headline": "Birth Announcement",
+      "article_type": "other",
+      "headline": "Birth and Obituary",
       "people_mentioned": [
         "Julie-anne Lloyd",
         "Anthony Lloyd",
-        "Christopher James"
-      ],
-      "places_mentioned": [],
-      "topics": [
-        "birth"
-      ],
-      "eric_notes": []
-    }
-  },
-  {
-    "record_id": "northern_argus_1985_09_18_003",
-    "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 65,
-    "source_line_end": 65,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 17",
-    "original_text": "Obituary.  Helena Kellaway, wife of Stan Kellaway, died during the last week.\n\n[Identity of the deceased is not easy to trace, but she appears likely to have been born as Ada Lena Frahm 14 February 1915 at Bower.  If so she married Clarence Victor Siostrom in 1934 under the name Helean Ida Frahm and was widowed in 1954.  She subsequently became Stanley Kellaway’s second wife.]",
-    "metadata": {
-      "publication": "Northern Argus",
-      "date": "1985-09-18",
-      "volume": "CXV",
-      "issue_number": "8024",
-      "page": "17",
-      "article_type": "obituary",
-      "headline": "Obituary of Helena Kellaway",
-      "people_mentioned": [
+        "Christopher James",
         "Helena Kellaway",
         "Stan Kellaway",
-        "Ada Lena Frahm",
-        "Clarence Victor Siostrom"
+        "Clarence Victor Siostrom",
+        "Ada Lena Frahm"
       ],
       "places_mentioned": [
         "Bower"
       ],
       "topics": [
-        "death"
+        "birth",
+        "obituary"
       ],
       "eric_notes": [
         "Identity of the deceased is not easy to trace, but she appears likely to have been born as Ada Lena Frahm 14 February 1915 at Bower.  If so she married Clarence Victor Siostrom in 1934 under the name Helean Ida Frahm and was widowed in 1954.  She subsequently became Stanley Kellaway’s second wife."
       ]
-    }
+    },
+    "record_id": "northern_argus_109"
   },
   {
-    "record_id": "northern_argus_1985_09_18_004",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 67,
-    "source_line_end": 67,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
-    "original_text": "Burra Senior Citizens have decided to plant a section of the Burra Creek bank opposite the Civic Centre  as their Tidy Towns project.",
+    "source_line_start": 117,
+    "source_line_end": 119,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 17",
+    "original_text": "Rosie Lloyd has spent a week training at the Australian Institute of Sport in Canberra on her chosen area of the 400 m hurdles.\nBurra Senior Citizens have decided to plant a section of the Burra Creek bank opposite the Civic Centre  as their Tidy Towns project.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "19",
+      "page": "17",
       "article_type": "news",
-      "headline": "Burra Senior Citizens Tidy Towns Project",
-      "people_mentioned": [],
+      "headline": "Training and Community Project",
+      "people_mentioned": [
+        "Rosie Lloyd"
+      ],
       "places_mentioned": [
-        "Burra Creek",
-        "Civic Centre"
+        "Canberra",
+        "Burra",
+        "Burra Creek"
       ],
       "topics": [
-        "community",
-        "environment"
+        "training",
+        "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_117"
   },
   {
-    "record_id": "northern_argus_1985_09_18_005",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 69,
-    "source_line_end": 69,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
+    "source_line_start": 121,
+    "source_line_end": 121,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 18",
     "original_text": "The Caring & Sharing Group begins again on 24 September when a counsellor from Marriage Guidance will speak.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "19",
+      "page": "18",
       "article_type": "community_notice",
-      "headline": "Caring & Sharing Group Announcement",
+      "headline": "Caring & Sharing Group Meeting",
       "people_mentioned": [],
       "places_mentioned": [],
       "topics": [
-        "community"
+        "community",
+        "counselling"
       ],
       "eric_notes": []
+    },
+    "record_id": "northern_argus_121"
+  },
+  {
+    "record_id": "northern_argus_122",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 122,
+    "source_line_end": 124,
+    "original_text": "CXV, 8024, 18 September 1985, page 18",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 122-124)",
+      "note": "Content found between processed records - may need manual review"
     }
   },
   {
-    "record_id": "northern_argus_1985_09_18_006",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 71,
-    "source_line_end": 71,
+    "source_line_start": 125,
+    "source_line_end": 125,
     "issue_reference": "CXV, 8024, 18 September 1985, page 18",
     "original_text": "BCS.  Agricultural Studies students have been successful at the Royal Adelaide Show in the led Steer Competition.  The Murray Grey came 4th on the hoof and 1st on the hook in its section and handler Stephen Kellock came 3rd in the steer handlers’ class.  The Aberdeen Angus was not placed on the hoof, but was 2nd on the hook.  The poll shorthorn came 5th in the heavyweight class on the hoof, but 2nd best on the hook.",
     "metadata": {
@@ -815,61 +901,65 @@
       "issue_number": "8024",
       "page": "18",
       "article_type": "news",
-      "headline": "Agricultural Studies Success at Royal Adelaide Show",
+      "headline": "Agricultural Studies Students Shine at Royal Adelaide Show",
       "people_mentioned": [
         "Stephen Kellock"
       ],
-      "places_mentioned": [],
+      "places_mentioned": [
+        "Royal Adelaide Show"
+      ],
       "topics": [
-        "event",
-        "competition"
+        "agriculture",
+        "competition",
+        "education"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_125"
   },
   {
-    "record_id": "northern_argus_1985_09_18_007",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 73,
-    "source_line_end": 73,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
+    "source_line_start": 127,
+    "source_line_end": 127,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 18",
     "original_text": "Burra Burra DC.  Allan Dwyer has resigned to take up a position as Deputy Town Clerk at Broken Hill in November.  He took up his duties as District Clerk at Burra in November 1984.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "19",
+      "page": "18",
       "article_type": "news",
-      "headline": "Allan Dwyer Resignation Announcement",
+      "headline": "Allan Dwyer Resigns from Burra Burra DC",
       "people_mentioned": [
         "Allan Dwyer"
       ],
       "places_mentioned": [
-        "Broken Hill",
-        "Burra"
+        "Burra",
+        "Broken Hill"
       ],
       "topics": [
-        "employment"
+        "government",
+        "resignation"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_127"
   },
   {
-    "record_id": "northern_argus_1985_09_18_008",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 75,
-    "source_line_end": 75,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
+    "source_line_start": 129,
+    "source_line_end": 129,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 18",
     "original_text": "A Tourism Seminar for local government bodies will be held at Burra on 24 September, hosted by the Mid North Tourist Association.  Jim Hullick, Secretary General of the Local Government Association, is the key speaker.  Part of the day’s activities will be a guided bus tour of Burra’s attractions.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "19",
+      "page": "18",
       "article_type": "community_notice",
-      "headline": "Tourism Seminar Announcement",
+      "headline": "Tourism Seminar in Burra",
       "people_mentioned": [
         "Jim Hullick"
       ],
@@ -877,48 +967,90 @@
         "Burra"
       ],
       "topics": [
-        "community",
-        "event"
+        "tourism",
+        "seminar",
+        "local government"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_129"
   },
   {
-    "record_id": "northern_argus_1985_09_18_009",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 77,
-    "source_line_end": 77,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
+    "source_line_start": 131,
+    "source_line_end": 131,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 18",
+    "original_text": "Burra’s Venturers’ expedition to the Flinders Ranges id reported in c. ¾ column.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-09-18",
+      "volume": "CXV",
+      "issue_number": "8024",
+      "page": "18",
+      "article_type": "other",
+      "headline": "Venturers’ Expedition Report",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Flinders Ranges"
+      ],
+      "topics": [
+        "event",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_131"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 133,
+    "source_line_end": 133,
+    "issue_reference": "CXV, 8024, 18 September 1985, page 18",
     "original_text": "The Barrier Highway.  A tender for $2.5 million has gone to R.K. & B.J. Matulick Pty Ltd to construct 14.5 km of road from 3.5 km south of Burra to 5.5 km south of Hanson plus about 0.6 km of the Clare-Hanson Road at its junction with the Barrier Highway.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
       "volume": "CXV",
       "issue_number": "8024",
-      "page": "19",
+      "page": "18",
       "article_type": "news",
-      "headline": "Barrier Highway Tender Announcement",
+      "headline": "Tender Awarded for Barrier Highway Construction",
       "people_mentioned": [
         "R.K. Matulick",
         "B.J. Matulick"
       ],
       "places_mentioned": [
         "Burra",
-        "Hanson"
+        "Hanson",
+        "Clare"
       ],
       "topics": [
-        "infrastructure"
+        "infrastructure",
+        "road construction"
       ],
       "eric_notes": []
+    },
+    "record_id": "northern_argus_133"
+  },
+  {
+    "record_id": "northern_argus_134",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 134,
+    "source_line_end": 136,
+    "original_text": "CXV, 8024, 18 September 1985, page 19",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 134-136)",
+      "note": "Content found between processed records - may need manual review"
     }
   },
   {
-    "record_id": "northern_argus_1985_09_18_010",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 121,
-    "source_line_end": 121,
+    "source_line_start": 137,
+    "source_line_end": 139,
     "issue_reference": "CXV, 8024, 18 September 1985, page 19",
-    "original_text": "Burra Hospital.  The 108th Annual Report was presented by the Chairman of the Board Mr Harry Quinn.",
+    "original_text": "Burra Hospital.  The 108th Annual Report was presented by the Chairman of the Board Mr Harry Quinn.\n\nIn the past year stage one of the Fire Protection Project has been completed.  This is a major undertaking.  In the coming year the laundry hot water system will be improved and a safety verandah balustrade erected.  Advances totalling $639,601 were needed over the year and this was within the allocated budget.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-18",
@@ -931,45 +1063,21 @@
         "Harry Quinn"
       ],
       "places_mentioned": [
-        "Burra Hospital"
+        "Burra"
       ],
       "topics": [
-        "healthcare"
+        "health",
+        "hospital",
+        "report"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_137"
   },
   {
-    "record_id": "northern_argus_1985_09_18_011",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 123,
-    "source_line_end": 123,
-    "issue_reference": "CXV, 8024, 18 September 1985, page 19",
-    "original_text": "In the past year stage one of the Fire Protection Project has been completed.  This is a major undertaking.  In the coming year the laundry hot water system will be improved and a safety verandah balustrade erected.  Advances totalling $639,601 were needed over the year and this was within the allocated budget.",
-    "metadata": {
-      "publication": "Northern Argus",
-      "date": "1985-09-18",
-      "volume": "CXV",
-      "issue_number": "8024",
-      "page": "19",
-      "article_type": "news",
-      "headline": "Burra Hospital Fire Protection Project Update",
-      "people_mentioned": [],
-      "places_mentioned": [
-        "Burra Hospital"
-      ],
-      "topics": [
-        "infrastructure",
-        "healthcare"
-      ],
-      "eric_notes": []
-    }
-  },
-  {
-    "record_id": "northern_argus_1985_09_18_012",
-    "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 125,
-    "source_line_end": 125,
+    "source_line_start": 141,
+    "source_line_end": 141,
     "issue_reference": "CXV, 8024, 18 September 1985, page 19",
     "original_text": "[Organisations and individuals who contributed during the year were thanked, as were Meals on wheels and the sewing circle led by Mrs F. Scroop.]",
     "metadata": {
@@ -979,24 +1087,27 @@
       "issue_number": "8024",
       "page": "19",
       "article_type": "news",
-      "headline": "Acknowledgments in Burra Hospital Annual Report",
+      "headline": "Acknowledgements in Burra Hospital Report",
       "people_mentioned": [
         "Mrs F. Scroop"
       ],
-      "places_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
       "topics": [
-        "community"
+        "health",
+        "community support"
       ],
       "eric_notes": [
         "Organisations and individuals who contributed during the year were thanked, as were Meals on wheels and the sewing circle led by Mrs F. Scroop."
       ]
-    }
+    },
+    "record_id": "northern_argus_141"
   },
   {
-    "record_id": "northern_argus_1985_09_18_013",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 127,
-    "source_line_end": 127,
+    "source_line_start": 143,
+    "source_line_end": 143,
     "issue_reference": "CXV, 8024, 18 September 1985, page 19",
     "original_text": "The Aged Hostel Accommodation Committee has begun steps to get hostel-type accommodation for the aged at Burra and an appeal is likely to be launched to supplement costs.",
     "metadata": {
@@ -1013,16 +1124,16 @@
       ],
       "topics": [
         "community",
-        "healthcare"
+        "aged care"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_143"
   },
   {
-    "record_id": "northern_argus_1985_09_18_014",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 129,
-    "source_line_end": 129,
+    "source_line_start": 145,
+    "source_line_end": 145,
     "issue_reference": "CXV, 8024, 18 September 1985, page 19",
     "original_text": "Harry Quinn was re-elected Chairman with Ron Thamm as Vice-Chairman.  John Maidment replaced Michael Scholz who resigned from the Board.",
     "metadata": {
@@ -1040,22 +1151,23 @@
         "Michael Scholz"
       ],
       "places_mentioned": [
-        "Burra Hospital"
+        "Burra"
       ],
       "topics": [
-        "community",
-        "governance"
+        "health",
+        "hospital",
+        "elections"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_145"
   },
   {
-    "record_id": "northern_argus_1985_09_25_001",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 131,
-    "source_line_end": 131,
+    "source_line_start": 147,
+    "source_line_end": 147,
     "issue_reference": "CXV, 8025, 25 September 1985, MISSING",
-    "original_text": "",
+    "original_text": "CXV, 8025, 25 September 1985, MISSING",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-09-25",
@@ -1068,13 +1180,29 @@
       "places_mentioned": [],
       "topics": [],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_147"
   },
   {
-    "record_id": "northern_argus_1985_10_02_001",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 133,
-    "source_line_end": 133,
+    "source_line_start": 149,
+    "source_line_end": 149,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "missing_issue"
+    },
+    "record_id": "northern_argus_149"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 151,
+    "source_line_end": 151,
     "issue_reference": "CXV, 8026, 2 October 1985, page ?",
     "original_text": "Malowen Lowarth, Cottage 11 Paxton Square will be open to the public for the first time over the October long weekend.  The name is Cornish for Hollyhock Garden.  The National Trust set up the interior as it would have been some 130-140 years ago.  Dirt floors have been laid, canvas ceilings installed and appropriate furnishings collected and put in place.  After the long weekend it will be opened on a regular basis.",
     "metadata": {
@@ -1084,26 +1212,41 @@
       "issue_number": "8026",
       "page": "?",
       "article_type": "news",
-      "headline": "Malowen Lowarth Opening Announcement",
+      "headline": "Malowen Lowarth Opens to Public",
       "people_mentioned": [],
       "places_mentioned": [
-        "Malowen Lowarth",
         "Paxton Square"
       ],
       "topics": [
-        "community",
-        "heritage"
+        "heritage",
+        "tourism"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_151"
   },
   {
-    "record_id": "northern_argus_1985_10_02_002",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 135,
-    "source_line_end": 135,
+    "source_line_start": 153,
+    "source_line_end": 154,
     "issue_reference": "CXV, 8026, 2 October 1985, page ?",
-    "original_text": "Ian Auhl writes a letter to the editor commenting on the Copper Interpretation Centre Crisis.",
+    "original_text": "",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "missing_issue"
+    },
+    "record_id": "northern_argus_153"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 155,
+    "source_line_end": 157,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "Ian Auhl writes a letter to the editor commenting on the Copper Interpretation Centre Crisis.\n\nIf Burra loses the Jubilee 150 grant it threatens the viability of the town itself as a tourist town.  The Copper Interpretation Centre was intended to interpret SA’s copper mining and place SA’s copper mining towns in a world perspective.  Burra was recognised as the appropriate place for this by the Board of Jubilee 150 and as a result of a concept by R.J. Noye of Clare and lobbying by myself and the Burra Burra DC a grant of $270,000 was made to establish the Copper Interpretation Centre.  The Centre would give SA a genuine historic town to show visitors - SA’s counterpart at Maldon in Victoria – and not to Swan Hill or Sovereign Hill.  Burra is the genuine article.  ‘Surely Burra will protest en masse to having its money, honestly obtained, dishonestly sidetracked to some other project.’",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-10-02",
@@ -1111,23 +1254,78 @@
       "issue_number": "8026",
       "page": "?",
       "article_type": "letter",
-      "headline": "Letter to the Editor on Copper Interpretation Centre",
+      "headline": "Letter to the Editor on Copper Interpretation Centre Crisis",
       "people_mentioned": [
-        "Ian Auhl"
+        "Ian Auhl",
+        "R.J. Noye"
       ],
-      "places_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Clare"
+      ],
       "topics": [
-        "government",
-        "infrastructure"
+        "tourism",
+        "heritage",
+        "government"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_155"
   },
   {
-    "record_id": "northern_argus_1985_10_02_003",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 137,
-    "source_line_end": 137,
+    "source_line_start": 159,
+    "source_line_end": 163,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "Perhaps the time has come got the town to strike against the delaying tactics of a government department ‘which seems to have decided from the very beginning of negotiations that it knows what it best for Burra’.\n\nI have protested personally to the Premier and to the State Ombudsman with no tangible results.  Other concerned people in Clare, Burra and Adelaide have also protested.\n\n‘The net result of such protests is not a genuine attempt to find a satisfactory home for the Copper Centre, but to cease negotiations with Burra Council and to re-allocate the grant altogether.’",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "other",
+      "headline": "Protests Against Government Delays",
+      "people_mentioned": [
+        "Premier",
+        "State Ombudsman"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Clare",
+        "Adelaide"
+      ],
+      "topics": [
+        "government",
+        "protest",
+        "negotiation"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_159"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 165,
+    "source_line_end": 165,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "CXV, 8026, 2 October 1985, MISSING",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "missing_issue",
+      "headline": "Missing Issue",
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_165"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 167,
+    "source_line_end": 167,
     "issue_reference": "CXV, 8026, 2 October 1985, page ?",
     "original_text": "Burra Community Library celebrated its 7th birthday on 25 September.  A visit of author Rod Martin was the highlight.",
     "metadata": {
@@ -1137,25 +1335,42 @@
       "issue_number": "8026",
       "page": "?",
       "article_type": "news",
-      "headline": "Burra Community Library 7th Birthday Celebration",
+      "headline": "Burra Community Library Celebrates 7th Birthday",
       "people_mentioned": [
         "Rod Martin"
       ],
       "places_mentioned": [
-        "Burra Community Library"
+        "Burra"
       ],
       "topics": [
         "community",
-        "event"
+        "library",
+        "celebration"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_167"
   },
   {
-    "record_id": "northern_argus_1985_10_02_004",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 139,
-    "source_line_end": 139,
+    "source_line_start": 169,
+    "source_line_end": 169,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "CXV, 8026, 2 October 1985, page ?",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "missing_issue"
+    },
+    "record_id": "northern_argus_169"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 171,
+    "source_line_end": 175,
     "issue_reference": "CXV, 8026, 2 October 1985, page ?",
     "original_text": "Burra Copper Interpretation Centre\n\nPremier John Bannon has called for a report on the Copper Interpretation Centre from the Minister of Environment and Planning.  The Copper Interpretation Centre is the major component of the Burra Heritage Town Jubilee 150 project.  The Council has repeated a request for an urgent meeting between the Burra Heritage Town Project and the executive committee of the Jubilee 150 Board to resolve the matter.",
     "metadata": {
@@ -1165,7 +1380,36 @@
       "issue_number": "8026",
       "page": "?",
       "article_type": "news",
-      "headline": "Report Requested on Copper Interpretation Centre",
+      "headline": "Report Called on Copper Interpretation Centre",
+      "people_mentioned": [
+        "John Bannon"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "heritage",
+        "government",
+        "tourism"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_171"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 173,
+    "source_line_end": 175,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "Premier John Bannon has called for a report on the Copper Interpretation Centre from the Minister of Environment and Planning.  The Copper Interpretation Centre is the major component of the Burra Heritage Town Jubilee 150 project.  The Council has repeated a request for an urgent meeting between the Burra Heritage Town Project and the executive committee of the Jubilee 150 Board to resolve the matter.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "news",
+      "headline": "Premier calls for report on Copper Interpretation Centre",
       "people_mentioned": [
         "John Bannon"
       ],
@@ -1174,18 +1418,19 @@
       ],
       "topics": [
         "government",
-        "infrastructure"
+        "heritage",
+        "planning"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_173"
   },
   {
-    "record_id": "northern_argus_1985_10_02_005",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 141,
-    "source_line_end": 141,
+    "source_line_start": 175,
+    "source_line_end": 175,
     "issue_reference": "CXV, 8026, 2 October 1985, page ?",
-    "original_text": "The Northern Automotive Restoration Club will conduct its fourth annual rally over the October long weekend, with Burra as its destination.",
+    "original_text": "Council is seeking to present and demonstrate a viable alternative within the project and to enable members of the Board and the working party to meet for discussions.  It considers it unfortunate and unwarranted for the Jubilee 150 Board to consider the reallocation of a portion of the monies already granted to Burra for the Heritage Town Project.  The cost over-run of $64,000 on the Jubilee 150 job creation scheme at Paxton Square cottages was met by Council in the first instance.  A special meeting of Council was called for Monday 30 September to discuss the situation and an urgent reconvening of the working party has been called for.  A petition opposing the reallocation of the monies has been organised.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-10-02",
@@ -1193,25 +1438,45 @@
       "issue_number": "8026",
       "page": "?",
       "article_type": "news",
-      "headline": "Northern Automotive Restoration Club Rally Announcement",
+      "headline": "Council's Response to Copper Interpretation Centre Funding",
       "people_mentioned": [],
       "places_mentioned": [
-        "Burra"
+        "Burra",
+        "Paxton Square"
       ],
       "topics": [
-        "community",
-        "event"
+        "government",
+        "heritage",
+        "funding"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_175"
   },
   {
-    "record_id": "northern_argus_1985_10_02_006",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 143,
-    "source_line_end": 143,
+    "source_line_start": 177,
+    "source_line_end": 177,
+    "issue_reference": "CXV, 8026, 2 October 1985, page ?",
+    "original_text": "CXV, 8026, 2 October 1985, MISSING",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "?",
+      "article_type": "missing_issue",
+      "headline": "Missing Issue",
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_177"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 179,
+    "source_line_end": 179,
     "issue_reference": "CXV, 8026, 2 October 1985, page 9",
-    "original_text": "The Mid North Tourist Association Seminar The Role of Local Government in Tourism, was held in burra on 24 September.  [It is reported in a little more than two columns.]",
+    "original_text": "The Northern Automotive Restoration Club will conduct its fourth annual rally over the October long weekend, with Burra as its destination.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-10-02",
@@ -1219,94 +1484,134 @@
       "issue_number": "8026",
       "page": "9",
       "article_type": "news",
-      "headline": "Mid North Tourist Association Seminar Report",
+      "headline": "Northern Automotive Restoration Club Rally",
       "people_mentioned": [],
       "places_mentioned": [
         "Burra"
       ],
       "topics": [
-        "community",
-        "event"
+        "event",
+        "automotive"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_179"
+  },
+  {
+    "record_id": "northern_argus_180",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 180,
+    "source_line_end": 182,
+    "original_text": "CXV, 8026, 2 October 1985, page 9",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 180-182)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 183,
+    "source_line_end": 183,
+    "issue_reference": "CXV, 8026, 2 October 1985, page 17",
+    "original_text": "The Mid North Tourist Association Seminar The Role of Local Government in Tourism, was held in burra on 24 September.  [It is reported in a little more than two columns.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-09-24",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Mid North Tourist Association Seminar",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "tourism",
+        "government"
       ],
       "eric_notes": [
         "It is reported in a little more than two columns."
       ]
-    }
+    },
+    "record_id": "northern_argus_183"
   },
   {
-    "record_id": "northern_argus_1985_10_02_007",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 145,
-    "source_line_end": 145,
+    "source_line_start": 185,
+    "source_line_end": 185,
     "issue_reference": "CXV, 8026, 2 October 1985, page 17",
-    "original_text": "Burra’s October Long Weekend\n\nJohn Olsen will open the 1985 Show.  Several new sections will be featured.  A shearing competition returns after a break of some years and there will be a blade shearing demonstration.  A trophy will be awarded for the best invention.  A junior grain and fodder section has been added.\n\nThe National Trust will have its three fire engines on display.\n\nPaul O’Bryan & His Country & Western Band will play throughout the day.\n\nOn Saturday night Burra Rural Youth will hold a licensed Show Disco in the Burra Town Hall.\n\nBurra Yacht Club Regatta is on Sunday 13 October.\n\n11 a.m. Junior Yacht Race for those aged 12 & under.",
+    "original_text": "CXV, 8026, 2 October 1985, page 17",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-10-02",
       "volume": "CXV",
       "issue_number": "8026",
       "page": "17",
-      "article_type": "news",
-      "headline": "Burra October Long Weekend Events",
+      "article_type": "missing_issue"
+    },
+    "record_id": "northern_argus_185"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 187,
+    "source_line_end": 213,
+    "issue_reference": "CXV, 8026, 2 October 1985, page 17",
+    "original_text": "Burra’s October Long Weekend\n\nJohn Olsen will open the 1985 Show.  Several new sections will be featured.  A shearing competition returns after a break of some years and there will be a blade shearing demonstration.  A trophy will be awarded for the best invention.  A junior grain and fodder section has been added.\n\nThe National Trust will have its three fire engines on display.\n\nPaul O’Bryan & His Country & Western Band will play throughout the day.\n\nOn Saturday night Burra Rural Youth will hold a licensed Show Disco in the Burra Town Hall.\n\nBurra Yacht Club Regatta is on Sunday 13 October.\n\n11 a.m. Junior Yacht Race for those aged 12 & under.\n\n12 noon.  Senior Yacht Race for those 15 and under.\n\n1 p.m.  Ladies’ Yacht Race.\n\n3 p.m.  Open Yacht Race.\n\nThere will also be a strawberry eating contest for those aged 12 and under and the Clare-Burra Barrow Push will arrive at about 2 p.m., with the junior section coming from Farrell Flat.\n\nThe Copperman Competition will be held and involves (among other things) two crossings of the creek without getting wet.\n\nAt night there will be a cabaret at the Town Hall.\n\nOn Monday all the National Trust sites will be open and staffed.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-02",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "17",
+      "article_type": "community_notice",
+      "headline": "Burra’s October Long Weekend Events",
       "people_mentioned": [
         "John Olsen",
         "Paul O’Bryan"
       ],
       "places_mentioned": [
-        "Burra",
-        "Burra Town Hall",
-        "Burra Yacht Club"
+        "Burra"
       ],
       "topics": [
         "event",
+        "show",
+        "yacht race",
         "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_187"
   },
   {
-    "record_id": "northern_argus_1985_10_02_008",
+    "record_id": "northern_argus_214",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 147,
-    "source_line_end": 147,
-    "issue_reference": "CXV, 8026, 2 October 1985, page 17",
-    "original_text": "12 noon.  Senior Yacht Race for those 15 and under.\n\n1 p.m.  Ladies’ Yacht Race.\n\n3 p.m.  Open Yacht Race.\n\nThere will also be a strawberry eating contest for those aged 12 and under and the Clare-Burra Barrow Push will arrive at about 2 p.m., with the junior section coming from Farrell Flat.\n\nThe Copperman Competition will be held and involves (among other things) two crossings of the creek without getting wet.\n\nAt night there will be a cabaret at the Town Hall.\n\nOn Monday all the National Trust sites will be open and staffed.",
+    "source_line_start": 214,
+    "source_line_end": 216,
+    "original_text": "CXV, 8026, 2 October 1985, page 18",
     "metadata": {
       "publication": "Northern Argus",
-      "date": "1985-10-02",
-      "volume": "CXV",
-      "issue_number": "8026",
-      "page": "17",
-      "article_type": "news",
-      "headline": "Burra October Long Weekend Schedule",
-      "people_mentioned": [],
-      "places_mentioned": [
-        "Burra",
-        "Burra Town Hall",
-        "Farrell Flat"
-      ],
-      "topics": [
-        "event",
-        "community"
-      ],
-      "eric_notes": []
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 214-216)",
+      "note": "Content found between processed records - may need manual review"
     }
   },
   {
-    "record_id": "northern_argus_1985_10_02_009",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 149,
-    "source_line_end": 149,
+    "source_line_start": 217,
+    "source_line_end": 217,
     "issue_reference": "CXV, 8026, 2 October 1985, page 18",
     "original_text": "Birth.  To Helen & Garry Earle on 25 September, a daughter, Amanda Kate.",
     "metadata": {
       "publication": "Northern Argus",
-      "date": "1985-10-02",
+      "date": "1985-09-25",
       "volume": "CXV",
       "issue_number": "8026",
       "page": "18",
       "article_type": "birth",
-      "headline": "Birth Announcement for Amanda Kate Earle",
+      "headline": "Birth Announcement",
       "people_mentioned": [
         "Helen Earle",
         "Garry Earle",
@@ -1317,13 +1622,63 @@
         "birth"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_217"
   },
   {
-    "record_id": "northern_argus_1985_10_02_010",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 151,
-    "source_line_end": 151,
+    "source_line_start": 219,
+    "source_line_end": 219,
+    "issue_reference": "CXV, 8026, 2 October 1985, page 18",
+    "original_text": "The Girl Guides held a Fashion Parade & Luncheon in the Sports Complex on Tuesday.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-01",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Girl Guides Fashion Parade & Luncheon",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Sports Complex"
+      ],
+      "topics": [
+        "event",
+        "fashion"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_219"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 221,
+    "source_line_end": 221,
+    "issue_reference": "CXV, 8026, 2 October 1985, page 18",
+    "original_text": "The Uniting Church Fete will be held on 5 October.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-05",
+      "volume": "CXV",
+      "issue_number": "8026",
+      "page": "18",
+      "article_type": "community_notice",
+      "headline": "Uniting Church Fete Announcement",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "event",
+        "church"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_221"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 223,
+    "source_line_end": 223,
     "issue_reference": "CXV, 8026, 2 October 1985, page 18",
     "original_text": "Dalgety Bennett Farmers’ new premises were opened recently by well-known merino identity Ron Pearse, former manager of the now closed Koonoona Merino Stud.  A crowd of more than 200 attended the new air-conditioned building next to the Burra Hotel.  A feature of the building is its façade in bluestone taken from the old Farmers’ Union building that was on the same site.  It and the bullnosed verandah are both in keeping with Burra’s heritage.  Branch manager Andrew Butler said the new premises would be an asset to the rural community in Burra and district.  It would offer a bigger and better showroom and improved product display.  John Secomb, the Dalgety Bennetts Farmers’ northern regional manager, said that when he started in Burra with Oates Ltd in 1960 there were five stock agents in town.  Today there were two.  Noel O’Brien, the firm’s general manager, also spoke at the opening.",
     "metadata": {
@@ -1341,32 +1696,30 @@
         "Noel O’Brien"
       ],
       "places_mentioned": [
-        "Burra",
-        "Burra Hotel",
-        "Koonoona Merino Stud"
+        "Burra"
       ],
       "topics": [
         "business",
         "community"
       ],
       "eric_notes": []
-    }
+    },
+    "record_id": "northern_argus_223"
   },
   {
-    "record_id": "northern_argus_1985_10_02_011",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 153,
-    "source_line_end": 153,
+    "source_line_start": 225,
+    "source_line_end": 225,
     "issue_reference": "CXV, 8026, 2 October 1985, page 18",
     "original_text": "CWA Warnes Group held its 40th anniversary lunch at the Burra Civic Centre on 26 September.  Burra Branch President Mrs Irene Hirschausen welcomed the visitors.  [Details and some history of CWA activities extend for more than a column.]",
     "metadata": {
       "publication": "Northern Argus",
-      "date": "1985-10-02",
+      "date": "1985-09-26",
       "volume": "CXV",
       "issue_number": "8026",
       "page": "18",
       "article_type": "news",
-      "headline": "CWA Warnes Group 40th Anniversary Celebration",
+      "headline": "CWA Warnes Group 40th Anniversary Lunch",
       "people_mentioned": [
         "Irene Hirschausen"
       ],
@@ -1375,29 +1728,237 @@
         "Burra Civic Centre"
       ],
       "topics": [
-        "community",
-        "celebration"
+        "event",
+        "anniversary"
       ],
       "eric_notes": [
         "Details and some history of CWA activities extend for more than a column."
       ]
+    },
+    "record_id": "northern_argus_225"
+  },
+  {
+    "record_id": "northern_argus_226",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 226,
+    "source_line_end": 228,
+    "original_text": "CXV, 8027, 9 October 1985, page 5",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 226-228)",
+      "note": "Content found between processed records - may need manual review"
     }
   },
   {
-    "record_id": "northern_argus_1985_10_02_012",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 155,
-    "source_line_end": 155,
+    "source_line_start": 229,
+    "source_line_end": 241,
     "issue_reference": "CXV, 8027, 9 October 1985, page 5",
-    "original_text": "Obituary.  Miss Dorothy Cornelius died in Adelaide on 5 October.\n\n[Born Dorothy Cornelius 9 January 1924 Barmera: died 2 October 1985 RAH, Adelaide.]",
+    "original_text": "Letter to the Editor from Helen Stockman\n\nI must add my voice to those already raised regarding the reallocation of $210,000 set aside for the Copper Interpretation Centre.  It seems the Jubilee 150 Board held that:\n\nBurra was slow to react to the crisis\n\nThere was not now time to complete the project.\n\nIt was only at the stage that tenders were received that the working party became aware of the architect’s gross miscalculations and an approach was then immediately made to the Jubilee 150 Board to vary the proposal slightly – for a smaller building on the boilerhouse site rather than the larger one on the plateau.\n\nThe working party immediately consulted two architects who believe that the project as revised can be completed within budget and in the time available.  The official opening was always scheduled for October 1986.  The reallocation of the money has been done without conferring with Burra and in unseemly haste.\n\nWhen you employ an architect recommended by the Heritage Branch itself you expect the job is being done properly and it is quite unfair for Burra to be punished for that man’s mistake.  Objections to the proposed site by the Heritage Conservation Unit should be investigated thoroughly.  To be totally purist about the ruins there is to let them decay until they finally collapse and that is not acceptable to me or to many others in Burra.  Enthusiastic support has been given by the Department of Mines and Energy.  Burra is not accustomed to making a botch of heritage based projects.",
     "metadata": {
       "publication": "Northern Argus",
       "date": "1985-10-09",
       "volume": "CXV",
       "issue_number": "8027",
       "page": "5",
+      "article_type": "letter",
+      "headline": "Letter to the Editor on Copper Interpretation Centre",
+      "people_mentioned": [
+        "Helen Stockman"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "heritage",
+        "government"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_229"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 233,
+    "source_line_end": 241,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Burra was slow to react to the crisis\n\nThere was not now time to complete the project.\n\nIt was only at the stage that tenders were received that the working party became aware of the architect’s gross miscalculations and an approach was then immediately made to the Jubilee 150 Board to vary the proposal slightly – for a smaller building on the boilerhouse site rather than the larger one on the plateau.\n\nThe working party immediately consulted two architects who believe that the project as revised can be completed within budget and in the time available.  The official opening was always scheduled for October 1986.  The reallocation of the money has been done without conferring with Burra and in unseemly haste.\n\nWhen you employ an architect recommended by the Heritage Branch itself you expect the job is being done properly and it is quite unfair for Burra to be punished for that man’s mistake.  Objections to the proposed site by the Heritage Conservation Unit should be investigated thoroughly.  To be totally purist about the ruins there is to let them decay until they finally collapse and that is not acceptable to me or to many others in Burra.  Enthusiastic support has been given by the Department of Mines and Energy.  Burra is not accustomed to making a botch of heritage based projects.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-09",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Burra was slow to react to the crisis",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "heritage",
+        "architecture",
+        "construction"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_233"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 243,
+    "source_line_end": 245,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "The Library Association of Australia (SA Branch) held its 1985 Country Conference in Burra on 4 & 5 October.  Many of those attending stayed in Paxton Square.  Delegates enjoyed a conference dinner at the Old Jinker Restaurant and a tour of Burra’s historic sites.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-04",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Library Association of Australia Country Conference",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Paxton Square",
+        "Old Jinker Restaurant"
+      ],
+      "topics": [
+        "conference",
+        "event"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_243"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 245,
+    "source_line_end": 247,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "The Library Association of Australia (SA Branch) held its 1985 Country Conference in Burra on 4 & 5 October.  Many of those attending stayed in Paxton Square.  Delegates enjoyed a conference dinner at the Old Jinker Restaurant and a tour of Burra’s historic sites.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-09",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Library Association of Australia Conference",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Paxton Square",
+        "Old Jinker Restaurant"
+      ],
+      "topics": [
+        "conference",
+        "event",
+        "tourism"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_245"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 247,
+    "source_line_end": 249,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Burra Pony Club celebrates its 10th birthday this year and is planning a horse show on Aberdeen Oval on 10 November to celebrate.  Twenty-seven events are planned.  The club secretary is Bronwyn Steele.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-09",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Burra Pony Club 10th Birthday",
+      "people_mentioned": [
+        "Bronwyn Steele"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Aberdeen Oval"
+      ],
+      "topics": [
+        "event",
+        "celebration",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_247"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 249,
+    "source_line_end": 251,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Burra Burra Dc is currently working on the Copperhouse bypass road.  To counter dust problems the road will be oiled past the saleyards area and it is hoped to oil the rest of it that is being converted to open surface standard for the summer.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-09",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Copperhouse Bypass Road Work",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "infrastructure",
+        "road",
+        "construction"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_249"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 251,
+    "source_line_end": 253,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Burra Uniting Church Fete on Saturday was well attended.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-09",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "news",
+      "headline": "Burra Uniting Church Fete",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_251"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 253,
+    "source_line_end": 255,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Obituary.  Miss Dorothy Cornelius died in Adelaide on 5 October.\n\n[Born Dorothy Cornelius 9 January 1924 Barmera: died 2 October 1985 RAH, Adelaide.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-05",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
       "article_type": "obituary",
-      "headline": "Obituary of Dorothy Cornelius",
+      "headline": "Obituary of Miss Dorothy Cornelius",
       "people_mentioned": [
         "Dorothy Cornelius"
       ],
@@ -1406,28 +1967,29 @@
         "Barmera"
       ],
       "topics": [
-        "death"
+        "death",
+        "obituary"
       ],
       "eric_notes": [
         "Born Dorothy Cornelius 9 January 1924 Barmera: died 2 October 1985 RAH, Adelaide."
       ]
-    }
+    },
+    "record_id": "northern_argus_253"
   },
   {
-    "record_id": "northern_argus_1985_10_02_013",
     "source_document": "1985-87_Northern__Argus.md",
-    "source_line_start": 157,
-    "source_line_end": 157,
-    "issue_reference": "CXV, 8027, 9 October 1985, page 5",
+    "source_line_start": 257,
+    "source_line_end": 259,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
     "original_text": "Obituary.  Mr Greg Lomman.\n\n[George Fredrick Jehu Lomman born 11 May 1917 Booborowie: died 7 October 1985.]",
     "metadata": {
       "publication": "Northern Argus",
-      "date": "1985-10-09",
+      "date": "1985-10-07",
       "volume": "CXV",
       "issue_number": "8027",
-      "page": "5",
+      "page": "21",
       "article_type": "obituary",
-      "headline": "Obituary of Greg Lomman",
+      "headline": "Obituary of Mr Greg Lomman",
       "people_mentioned": [
         "Greg Lomman",
         "George Fredrick Jehu Lomman"
@@ -1436,11 +1998,1984 @@
         "Booborowie"
       ],
       "topics": [
-        "death"
+        "death",
+        "obituary"
       ],
       "eric_notes": [
         "George Fredrick Jehu Lomman born 11 May 1917 Booborowie: died 7 October 1985."
       ]
+    },
+    "record_id": "northern_argus_257"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 261,
+    "source_line_end": 263,
+    "issue_reference": "CXV, 8027, 9 October 1985, page 21",
+    "original_text": "Obituary.  Miss Dorothy Hogan.\n\n[Probably Dorothea Josephine Hogan born 19 January 1911, Redruth: died 4 October 1985 RAH.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-04",
+      "volume": "CXV",
+      "issue_number": "8027",
+      "page": "21",
+      "article_type": "obituary",
+      "headline": "Obituary of Miss Dorothy Hogan",
+      "people_mentioned": [
+        "Dorothy Hogan",
+        "Dorothea Josephine Hogan"
+      ],
+      "places_mentioned": [
+        "Redruth"
+      ],
+      "topics": [
+        "death",
+        "obituary"
+      ],
+      "eric_notes": [
+        "Probably Dorothea Josephine Hogan born 19 January 1911, Redruth: died 4 October 1985 RAH."
+      ]
+    },
+    "record_id": "northern_argus_261"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 265,
+    "source_line_end": 273,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 1",
+    "original_text": "Clare-Burra Barrow Push, 13 October\n\nIn the senior section Burra breathers came in 1st, winning $300.  Daydream from Broken Hill came 2nd and received $200.  Gladstone Cowboys were 3rd.\n\nIn the Junior Section (Farrell Flat-Burra) the winners were the Saints Challengers from Clare, who won $100 and The Heroics, also from Clare, were 2nd.\n\nEleven teams have so far registered for the 1986 Broken Hill-Burra Barrow Push and eight others have indicated interest.  [Photo of Burra breathers on the road.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "1",
+      "article_type": "news",
+      "headline": "Clare-Burra Barrow Push Results",
+      "people_mentioned": [
+        "Burra breathers",
+        "Daydream",
+        "Gladstone Cowboys",
+        "Saints Challengers",
+        "The Heroics"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Broken Hill",
+        "Farrell Flat"
+      ],
+      "topics": [
+        "event",
+        "competition",
+        "community"
+      ],
+      "eric_notes": [
+        "Photo of Burra breathers on the road."
+      ]
+    },
+    "record_id": "northern_argus_265"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 275,
+    "source_line_end": 289,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 16",
+    "original_text": "Burra Yacht Club Regatta\n\nCommodore Peter Reilly was pleased with the number of entries.\n\nIn the junior race 1st place went to Bakery Bunyip, followed by Nautyless, Mermaid and then Milko.\n\nIn the senior race Nautyless came 1st followed by Super Cat, Bakery Bunyip and Swagman.\n\nIn the women’s race Nautyless again came 1st followed by Super Cat and Bakery Bunyip.\n\nIn the open event Nautyless of Mt Bryan was again the winner followed by Pink Panther, Ozzie 84 and Bakery Bunyip.\n\nLocal organisations did well catering for the crowd.\n\nThe Copperman Event involved rowing a canoe 200 m, eating some strawberries and cream, sitting on a vertical drum and paddling across the creek before walking across the creek on two ropes.  Brenton Gambling was the winner with Ian Kleinig as runner-up.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-16",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "16",
+      "article_type": "news",
+      "headline": "Burra Yacht Club Regatta Results",
+      "people_mentioned": [
+        "Peter Reilly",
+        "Bakery Bunyip",
+        "Nautyless",
+        "Mermaid",
+        "Milko",
+        "Super Cat",
+        "Swagman",
+        "Pink Panther",
+        "Ozzie 84",
+        "Brenton Gambling",
+        "Ian Kleinig"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Mt Bryan"
+      ],
+      "topics": [
+        "event",
+        "competition",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_275"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 291,
+    "source_line_end": 291,
+    "issue_reference": "N/A",
+    "original_text": "The Copperman Event involved rowing a canoe 200 m, eating some strawberries and cream, sitting on a vertical drum and paddling across the creek before walking across the creek on two ropes.  Brenton Gambling was the winner with Ian Kleinig as runner-up.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "N/A",
+      "volume": "N/A",
+      "issue_number": "N/A",
+      "page": "N/A",
+      "article_type": "other",
+      "headline": "The Copperman Event",
+      "people_mentioned": [
+        "Brenton Gambling",
+        "Ian Kleinig"
+      ],
+      "places_mentioned": [
+        "creek"
+      ],
+      "topics": [
+        "event",
+        "competition"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_291"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 293,
+    "source_line_end": 295,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "The Council Overseer Case\n\nOn 11 October the Industrial Court ruled that Mr Ronald Arthur Moreland be reinstated as Overseer by the Burra Burra DC and that he be paid his wages from the time of his dismissal to his reinstatement.  A special meeting of Council was called for 15 October to discuss the judgement.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-11",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "The Council Overseer Case",
+      "people_mentioned": [
+        "Ronald Arthur Moreland"
+      ],
+      "places_mentioned": [
+        "Burra Burra"
+      ],
+      "topics": [
+        "court",
+        "employment"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_293"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 297,
+    "source_line_end": 299,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "Jubilee 150 Funding\n\nBurra Burra DC delegation met with the Jubilee 150 Board Executive Committee on 10 October and were told that the Board had recommended that funds earmarked for the Copper Interpretation Centre be withdrawn.  The Burra Burra DC Chairman has requested an urgent meeting with the Premier, the Chairman of the Jubilee 150 Board and a representative from the Department of Environment and Planning – Heritage Conservation Branch.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-10",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Jubilee 150 Funding",
+      "people_mentioned": [
+        "Burra Burra DC Chairman",
+        "Premier"
+      ],
+      "places_mentioned": [
+        "Burra Burra"
+      ],
+      "topics": [
+        "funding",
+        "government"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_297"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 301,
+    "source_line_end": 303,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "Obituary.  Florrie Pryzbilla [sic: for Przibilla] formerly of Burra North died in Adelaide last week.\n\n[Born Florence Grace Bass 14 May 1899 Mt Bryan: died 10 October 1985.  Married Albert Edward Przibilla 1930.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-10",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "obituary",
+      "headline": "Obituary of Florrie Pryzbilla",
+      "people_mentioned": [
+        "Florrie Pryzbilla",
+        "Albert Edward Przibilla"
+      ],
+      "places_mentioned": [
+        "Burra North",
+        "Adelaide",
+        "Mt Bryan"
+      ],
+      "topics": [
+        "death"
+      ],
+      "eric_notes": [
+        "sic: for Przibilla",
+        "Born Florence Grace Bass 14 May 1899 Mt Bryan: died 10 October 1985.  Married Albert Edward Przibilla 1930."
+      ]
+    },
+    "record_id": "northern_argus_301"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 305,
+    "source_line_end": 305,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "Alison Kerr & Allan Dwyer will be farewelled this week.  Allan goes to take a position in Broken Hill as Deputy Town Clerk and Alison has a position with the Thebarton City Council.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-16",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Farewell to Alison Kerr & Allan Dwyer",
+      "people_mentioned": [
+        "Alison Kerr",
+        "Allan Dwyer"
+      ],
+      "places_mentioned": [
+        "Broken Hill",
+        "Thebarton"
+      ],
+      "topics": [
+        "employment",
+        "farewell"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_305"
+  },
+  {
+    "record_id": "northern_argus_306",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 306,
+    "source_line_end": 308,
+    "original_text": "CXV, 8028, 16 October 1985, page 17",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 306-308)",
+      "note": "Content found between processed records - may need manual review"
     }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 309,
+    "source_line_end": 311,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "Burra Show.  After early drizzle the sun shone brightly for Burra’s 108th Show.\n\n[This was not the 108th Burra Show.  The correct figure cannot be obtained by subtracting 1877 from the present year.  The first Show was held in 1877, but there were no shows from 1886 to 1893, apparently due to apathy, which provoked considerable comment in the local paper at the time.  The 1897 Show was cancelled due to the appallingly bad season and the 1914 Show was cancelled due to the combined effects of the outbreak of World War I and a devastating drought.  (The event returned in 1915.)  Twenty-five years of Shows from 1915-39 ended in 1940 when the Show was cancelled due to World War II.  The Show remained suspended until 1946, since when it has been an annual event.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-16",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Burra Show",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "show"
+      ],
+      "eric_notes": [
+        "This was not the 108th Burra Show.  The correct figure cannot be obtained by subtracting 1877 from the present year.  The first Show was held in 1877, but there were no shows from 1886 to 1893, apparently due to apathy, which provoked considerable comment in the local paper at the time.  The 1897 Show was cancelled due to the appallingly bad season and the 1914 Show was cancelled due to the combined effects of the outbreak of World War I and a devastating drought.  (The event returned in 1915.)  Twenty-five years of Shows from 1915-39 ended in 1940 when the Show was cancelled due to World War II.  The Show remained suspended until 1946, since when it has been an annual event."
+      ]
+    },
+    "record_id": "northern_argus_309"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 313,
+    "source_line_end": 313,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "The Society’s President Jock Duncan was well pleased with the attendance.  John Olsen Leader of the Opposition officially opened the show.  This year some asphalt around the pavilions improved the area for visitors.  Cheree Deverson was Miss Mini Show Girl.  Sonya Fuller was winner in the Sub-Junior Section with Alison Reed in the Junior Section and Vanessa Pearce taking the Miss Show Girl title.  [Photo.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-16",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Burra Show Results",
+      "people_mentioned": [
+        "Jock Duncan",
+        "John Olsen",
+        "Cheree Deverson",
+        "Sonya Fuller",
+        "Alison Reed",
+        "Vanessa Pearce"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "show"
+      ],
+      "eric_notes": [
+        "Photo."
+      ]
+    },
+    "record_id": "northern_argus_313"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 315,
+    "source_line_end": 321,
+    "issue_reference": "CXV, 8020, 21 August 1985, page 1",
+    "original_text": "Brophy’s Boxing Troupe was popular.\n\nJim Robinson won the shearing competition.\n\nPhil Venning gave two blade shearing demonstrations.\n\nThe new inventions section was won by Melvyn Pearce with a sheep feeder.\n\n[Results of various sections are then printed in c. 1¾ columns.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-08-21",
+      "volume": "CXV",
+      "issue_number": "8020",
+      "page": "1",
+      "article_type": "other",
+      "headline": "Results from the Shearing Competition and Inventions Section",
+      "people_mentioned": [
+        "Jim Robinson",
+        "Phil Venning",
+        "Melvyn Pearce"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "competition",
+        "shearing",
+        "inventions"
+      ],
+      "eric_notes": [
+        "Results of various sections are then printed in c. 1¾ columns."
+      ]
+    },
+    "record_id": "northern_argus_315"
+  },
+  {
+    "record_id": "northern_argus_322",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 322,
+    "source_line_end": 324,
+    "original_text": "[Results of various sections are then printed in c. 1¾ columns.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 322-324)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 325,
+    "source_line_end": 325,
+    "issue_reference": "CXV, 8028, 16 October 1985, page 17",
+    "original_text": "The Burra Rural Youth disco in the Town Hall in the evening was successful.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-16",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Burra Rural Youth Disco",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Town Hall"
+      ],
+      "topics": [
+        "event",
+        "youth"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_325"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 327,
+    "source_line_end": 327,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 17",
+    "original_text": "BCS.  Andrew Burns gained the best results for BCS students in the Westpac Maths Competition.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "17",
+      "article_type": "news",
+      "headline": "BCS Westpac Maths Competition Results",
+      "people_mentioned": [
+        "Andrew Burns"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "education",
+        "competition"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_327"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 329,
+    "source_line_end": 329,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 17",
+    "original_text": "Tim Stockman received highest marks for BCS Year 7 students in an Australia-Wide Science Competition.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "17",
+      "article_type": "news",
+      "headline": "BCS Australia-Wide Science Competition Results",
+      "people_mentioned": [
+        "Tim Stockman"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "education",
+        "competition"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_329"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 331,
+    "source_line_end": 331,
+    "issue_reference": "CXV, 8029, 23 October 1985, page ?",
+    "original_text": "CXV, 8029, 23 October 1985, page ?",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "?",
+      "article_type": "missing_issue"
+    },
+    "record_id": "northern_argus_331"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 333,
+    "source_line_end": 333,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 17",
+    "original_text": "Burra Burra DC at a special meeting on 15 October decided to lodge an appeal against the recent decision of the Industrial Court in favour of reinstating Ronald A. Moreland.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-15",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "17",
+      "article_type": "news",
+      "headline": "Burra Burra DC Appeal Decision",
+      "people_mentioned": [
+        "Ronald A. Moreland"
+      ],
+      "places_mentioned": [
+        "Burra Burra"
+      ],
+      "topics": [
+        "court",
+        "employment"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_333"
+  },
+  {
+    "record_id": "northern_argus_334",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 334,
+    "source_line_end": 336,
+    "original_text": "CXV, 8029, 23 October 1985, page 17",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 334-336)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 337,
+    "source_line_end": 337,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Burra Burra DC has received a grant of $54,000 under the Federal Government’s Community Employment Program.  It will be used on the Market Square parking facilities and should employ five people for 23 weeks.  The Council has contributed $46,892.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra Burra DC Grant Announcement",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra Burra"
+      ],
+      "topics": [
+        "funding",
+        "employment"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_337"
+  },
+  {
+    "record_id": "northern_argus_338",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 338,
+    "source_line_end": 340,
+    "original_text": "CXV, 8029, 23 October 1985, page 18",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 338-340)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 341,
+    "source_line_end": 341,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Burra National Trust has organised a bus trip to Gladstone Gaol, the Yesterday Museum of Costume and the early settler’s cottage and town tour of Orroroo.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra National Trust Bus Trip",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Gladstone Gaol",
+        "Orroroo"
+      ],
+      "topics": [
+        "event",
+        "tour"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_341"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 343,
+    "source_line_end": 345,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Obituary.  Mrs Ellen Ryan of Burra died in Adelaide last week aged 95.\n\n[Born Ellen Mary McCabe 8 February 1889 Broken Hill: died 17 October 1985 Cowandilla.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-17",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "obituary",
+      "headline": "Obituary of Mrs Ellen Ryan",
+      "people_mentioned": [
+        "Ellen Ryan",
+        "Ellen Mary McCabe"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Adelaide",
+        "Broken Hill",
+        "Cowandilla"
+      ],
+      "topics": [
+        "death"
+      ],
+      "eric_notes": [
+        "Born Ellen Mary McCabe 8 February 1889 Broken Hill: died 17 October 1985 Cowandilla."
+      ]
+    },
+    "record_id": "northern_argus_343"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 347,
+    "source_line_end": 347,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Marriage.  This weekend Karen Lynch married John Redden.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "marriage",
+      "headline": "Marriage of Karen Lynch and John Redden",
+      "people_mentioned": [
+        "Karen Lynch",
+        "John Redden"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "marriage"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_347"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 349,
+    "source_line_end": 349,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Michael, Anne-Marie & Heidi Matuschka are moving soon to Crystal Brook.  While here they have been involved in golf, bowls, Lions and the National Trust, among other interests.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Matuschka Family Moving Announcement",
+      "people_mentioned": [
+        "Michael Matuschka",
+        "Anne-Marie Matuschka",
+        "Heidi Matuschka"
+      ],
+      "places_mentioned": [
+        "Crystal Brook"
+      ],
+      "topics": [
+        "relocation",
+        "community involvement"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_349"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 351,
+    "source_line_end": 351,
+    "issue_reference": "CXV, 8029, 23 October 1985, page 18",
+    "original_text": "Jump Rope for Heart was held at BCS earlier in the year and raised over $1,800.  Karen Hammond raised the most with $211.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-23",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Jump Rope for Heart Fundraiser Results",
+      "people_mentioned": [
+        "Karen Hammond"
+      ],
+      "places_mentioned": [
+        "BCS"
+      ],
+      "topics": [
+        "fundraising",
+        "event"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_351"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 353,
+    "source_line_end": 359,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Jubilee 150 Project\n\nThe working party reconvened on Friday.\n\nWork remains to be done on the $30,000 Bon Accord Project.\n\n$80,000 has been set aside for the Morphett’s Enginehouse along with $25,000 from the Department of Mines and Energy for the same site.  The building will be re-roofed, stonework repaired and re-pointed, the floors replaced and displays installed.  A partial re-timbering of the shaft is also contemplated.  The $210,000 earmarked for the Copper Interpretation Centre has been re-allocated by the Jubilee 150 Board.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Jubilee 150 Project",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "project",
+        "funding",
+        "infrastructure"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_353"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 357,
+    "source_line_end": 359,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "$80,000 has been set aside for the Morphett’s Enginehouse along with $25,000 from the Department of Mines and Energy for the same site.  The building will be re-roofed, stonework repaired and re-pointed, the floors replaced and displays installed.  A partial re-timbering of the shaft is also contemplated.  The $210,000 earmarked for the Copper Interpretation Centre has been re-allocated by the Jubilee 150 Board.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Morphett’s Enginehouse Funding Announcement",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "funding",
+        "construction"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_357"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 361,
+    "source_line_end": 361,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "SA Country Choral Association Choir will perform Handel’s Messiah in St Mary’s.  John Hall will play the organ and Boyd Dawkins will conduct the choir on Sunday 10 November at 7 p.m.  Soloists will be David Galliver (tenor), Rosemary Nairn (contralto), June Klingberg (contralto) and Celine Egar (soprano).  Admission is free, but a donation of $4 per adult is suggested.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "SA Country Choral Association Choir Performance",
+      "people_mentioned": [
+        "John Hall",
+        "Boyd Dawkins",
+        "David Galliver",
+        "Rosemary Nairn",
+        "June Klingberg",
+        "Celine Egar"
+      ],
+      "places_mentioned": [
+        "St Mary’s"
+      ],
+      "topics": [
+        "music",
+        "performance",
+        "choir"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_361"
+  },
+  {
+    "record_id": "northern_argus_362",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 362,
+    "source_line_end": 364,
+    "original_text": "CXV, 8030, 30 October 1985, page 18",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 362-364)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 365,
+    "source_line_end": 367,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Gulf Road Medallion\n\nA competition is being held to design a medallion to commemorate the bullockies and muleteers who carted ore, coal and other materials on the Gulf Road between Burra and Port Wakefield.  It closes on 20 November.  The design must be for both sides of the medallion and must measure 200 mm in diameter.  (The final medallion will be 50 mm in diameter.)  Contact David Bannear for further information.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Gulf Road Medallion Competition",
+      "people_mentioned": [
+        "David Bannear"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Port Wakefield"
+      ],
+      "topics": [
+        "competition",
+        "design",
+        "commemoration"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_365"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 369,
+    "source_line_end": 369,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Burra SES is to be restructured.  Mr Wally Charles’ appointment as Controller has been terminated and Steve Woolley is acting Controller.  Burra Burra DC decided on 21 October to buy a suitable SES vehicle and in the short term to house the group’s vehicle and equipment in the Christian Bible Chapel shed.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra SES Restructuring",
+      "people_mentioned": [
+        "Wally Charles",
+        "Steve Woolley"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Christian Bible Chapel"
+      ],
+      "topics": [
+        "emergency services",
+        "restructuring"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_369"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 371,
+    "source_line_end": 371,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Accident.  A motor vehicle and a section car collided at the Farrell Flat level crossing on 22 October.  The section car driver was slightly injured and the other driver was unhurt.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Motor Vehicle Accident",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Farrell Flat"
+      ],
+      "topics": [
+        "accident",
+        "traffic"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_371"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 373,
+    "source_line_end": 373,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "The Sheet Metal Manufacturers’ Association of SA held its AGM in Burra.  About 30 attended, staying in Paxton Square cottages.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Sheet Metal Manufacturers’ Association AGM",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Paxton Square"
+      ],
+      "topics": [
+        "association",
+        "meeting"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_373"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 375,
+    "source_line_end": 375,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Neil Andrew Federal Member for Wakefield presented the Burra Girl Guides with an Australian Flag on 23 October.  The Group was celebrating its 7th birthday.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Presentation of Australian Flag to Burra Girl Guides",
+      "people_mentioned": [
+        "Neil Andrew"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "presentation",
+        "celebration"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_375"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 377,
+    "source_line_end": 377,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Burra Scouts will hold a Jamboree Jig at the Show Hall on 9 November to raise money for five scouts attending the 14th Scout Jamboree in Sydney at the end of the year.  A three course meal will be followed by dancing to Jack Kleinig’s music.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra Scouts Jamboree Jig Fundraiser",
+      "people_mentioned": [
+        "Jack Kleinig"
+      ],
+      "places_mentioned": [
+        "Burra",
+        "Sydney"
+      ],
+      "topics": [
+        "fundraising",
+        "event",
+        "scouts"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_377"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 379,
+    "source_line_end": 379,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Marriage.  This weekend.  Robyn Spackman will marry Steven Meyer.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "marriage",
+      "headline": "Marriage Announcement",
+      "people_mentioned": [
+        "Robyn Spackman",
+        "Steven Meyer"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "marriage"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_379"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 381,
+    "source_line_end": 381,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Ash Thomas, the new doctor, his wife Katthy and daughter Bonnie are welcomed to Burra.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Welcome to New Doctor and Family",
+      "people_mentioned": [
+        "Ash Thomas",
+        "Katthy",
+        "Bonnie"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "welcome",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_381"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 383,
+    "source_line_end": 383,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "David & Jenny Heath and daughter will soon move to Katherine, NT, where David will be manager of a branch.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Heath Family Moving Announcement",
+      "people_mentioned": [
+        "David Heath",
+        "Jenny Heath"
+      ],
+      "places_mentioned": [
+        "Katherine",
+        "NT"
+      ],
+      "topics": [
+        "relocation"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_383"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 385,
+    "source_line_end": 385,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "Scouts & Cubs bottle drive on 6 December.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "community_notice",
+      "headline": "Scouts & Cubs Bottle Drive",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "fundraising",
+        "event"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_385"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 387,
+    "source_line_end": 387,
+    "issue_reference": "CXV, 8030, 30 October 1985, page 18",
+    "original_text": "The Lewis Board of Management reports an occupancy rate of 83% for Paxton Square cottages for September.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-10-30",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Lewis Board of Management Report",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Paxton Square"
+      ],
+      "topics": [
+        "report",
+        "occupancy"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_387"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 389,
+    "source_line_end": 389,
+    "issue_reference": "CXV, 8027 (2), 6 November 1985, page 18",
+    "original_text": "Check this irregular numbering",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-06",
+      "volume": "CXV",
+      "issue_number": "8027 (2)",
+      "page": "18",
+      "article_type": "other",
+      "headline": "Irregular Issue Numbering",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_389"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 391,
+    "source_line_end": 401,
+    "issue_reference": "CXV, 8027 (2), 6 November 1985, page 18",
+    "original_text": "Marjorie & Perce Thomas celebrated their Diamond Wedding (60th) at Resthaven, Bellevue Heights on 24 August.  The original wedding party was present for the occasion:\n\nFlower girl Joan Spangler nee Bown of Taperoo\n\nBridesmaid Eva Wilks nee Thomas of Burra\n\nBride & Groom, formerly of Burra\n\nBest Man Syd Brown, formerly of Burra.\n\nThe late Rev. Edwin Smith officiated at Kooringa Methodist Church 27 August 1925.\n\n[The bride was born Daphne Marjorie Jean Bown.]\n\n[Check: Syd Brown may have been the bride’s brother Sydney Edward Bown.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-06",
+      "volume": "CXV",
+      "issue_number": "8027 (2)",
+      "page": "18",
+      "article_type": "other",
+      "headline": "Diamond Wedding Celebration of Marjorie & Perce Thomas",
+      "people_mentioned": [
+        "Marjorie Thomas",
+        "Perce Thomas",
+        "Joan Spangler",
+        "Eva Wilks",
+        "Syd Brown",
+        "Edwin Smith"
+      ],
+      "places_mentioned": [
+        "Resthaven",
+        "Bellevue Heights",
+        "Burra"
+      ],
+      "topics": [
+        "wedding",
+        "anniversary",
+        "celebration"
+      ],
+      "eric_notes": [
+        "The bride was born Daphne Marjorie Jean Bown.",
+        "Check: Syd Brown may have been the bride’s brother Sydney Edward Bown."
+      ]
+    },
+    "record_id": "northern_argus_391"
+  },
+  {
+    "record_id": "northern_argus_402",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 402,
+    "source_line_end": 406,
+    "original_text": "[The bride was born Daphne Marjorie Jean Bown.]\n\n[Check: Syd Brown may have been the bride’s brother Sydney Edward Bown.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 402-406)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 407,
+    "source_line_end": 409,
+    "issue_reference": "CXV, 8027 (2), 6 November 1985, page 18",
+    "original_text": "Jennison’s Tyre Service\n\nFrank Fennell completed 25 years’ service with Jennison’s Tyre Service recently and celebrated with a barbecue on 24 August.  He received a gold watch from Ray Jennison.  From 1 November Jennisons have sold their tyre business to R.W. & G.R. Smedley who will trade as Burra Tyres.  Frank Fennell will continue as an employee of Burra Tyres.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-06",
+      "volume": "CXV",
+      "issue_number": "8027 (2)",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Jennison’s Tyre Service Business Update",
+      "people_mentioned": [
+        "Frank Fennell",
+        "Ray Jennison"
+      ],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "business",
+        "employment",
+        "service"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_407"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 411,
+    "source_line_end": 411,
+    "issue_reference": "CXV, 8027 (2), 6 November 1985, page 18",
+    "original_text": "The Heath Family will be farewelled at the Kooringa Hotel on 8 November.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-06",
+      "volume": "CXV",
+      "issue_number": "8027 (2)",
+      "page": "18",
+      "article_type": "community_notice",
+      "headline": "Farewell for the Heath Family",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Kooringa Hotel"
+      ],
+      "topics": [
+        "farewell",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_411"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 413,
+    "source_line_end": 413,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "The Veteran & Vintage Motor Cycle Club of SA will visit Burra next weekend.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "The Veteran & Vintage Motor Cycle Club of SA will visit Burra",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "motorcycle"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_413"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 415,
+    "source_line_end": 415,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Darren James has been doing well at cricket recently.  Just over a week ago he scored 107 retired versus Booborowie and last weekend scored 109 retired versus Spalding.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Darren James's cricket achievements",
+      "people_mentioned": [
+        "Darren James"
+      ],
+      "places_mentioned": [
+        "Booborowie",
+        "Spalding"
+      ],
+      "topics": [
+        "sports",
+        "cricket"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_415"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 417,
+    "source_line_end": 417,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Check this irregular numbering",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028 (2)",
+      "page": "18",
+      "article_type": "other",
+      "headline": "Irregular Issue Numbering",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_417"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 419,
+    "source_line_end": 419,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "The Melbourne Cup Luncheon at Burra Town Hall on Tuesday was a great success.  Rosemary Nairn and a band of singers entertained.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Melbourne Cup Luncheon success",
+      "people_mentioned": [
+        "Rosemary Nairn"
+      ],
+      "places_mentioned": [
+        "Burra Town Hall"
+      ],
+      "topics": [
+        "event",
+        "luncheon"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_419"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 421,
+    "source_line_end": 423,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Obituary.  Ted Williams.\n[Edwin Thomas Williams born 12 April 1904 Ironmine: died 5 November 1985 Clare.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "obituary",
+      "headline": "Obituary of Ted Williams",
+      "people_mentioned": [
+        "Ted Williams",
+        "Edwin Thomas Williams"
+      ],
+      "places_mentioned": [
+        "Ironmine",
+        "Clare"
+      ],
+      "topics": [
+        "death",
+        "obituary"
+      ],
+      "eric_notes": [
+        "Born 12 April 1904, Ironmine: died 5 November 1985 Clare."
+      ]
+    },
+    "record_id": "northern_argus_421"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 425,
+    "source_line_end": 425,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "St Mary’s was full on Sunday night for the performance of Handel’s Messiah by the SA Country Choral Association Choir.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Performance of Handel’s Messiah",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "St Mary’s"
+      ],
+      "topics": [
+        "event",
+        "music"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_425"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 427,
+    "source_line_end": 427,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Burra National Trust has reproduced the superb old calendar with pen and wash drawings of Burra’s early buildings for use in 1986.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra National Trust calendar reproduction",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "community",
+        "art"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_427"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 429,
+    "source_line_end": 429,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Accident.  A car rolled over on the Burra to Booborowie road on 9 November and a 25-year-old farm hand was admitted to Burra Hospital with injuries sustained in the accident.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Car accident on Burra to Booborowie road",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Booborowie"
+      ],
+      "topics": [
+        "accident",
+        "hospital"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_429"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 431,
+    "source_line_end": 431,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Burra Pony Club’s 10th Anniversary Horse Show drew a crowd of c. 300.  Club President Bill Keane was pleased with the response.  Ray Wardle, the club’s inaugural President, opened the show.  [Two photos.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra Pony Club’s 10th Anniversary Horse Show",
+      "people_mentioned": [
+        "Bill Keane",
+        "Ray Wardle"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "event",
+        "horse show"
+      ],
+      "eric_notes": [
+        "Two photos."
+      ]
+    },
+    "record_id": "northern_argus_431"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 433,
+    "source_line_end": 433,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Burra Scouts’ Jamboree Jig drew a good crowd.  The three-course meal was followed by dancing, games and later a bonfire and sing-a-long.  Five scouts and their leader Rob Letcher will leave for the Jamboree on 28 December.  (Jason Taylor, Ben Letcher, Michael Day, Scott Gardner & Justin Fidock.)",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Burra Scouts’ Jamboree Jig",
+      "people_mentioned": [
+        "Rob Letcher",
+        "Jason Taylor",
+        "Ben Letcher",
+        "Michael Day",
+        "Scott Gardner",
+        "Justin Fidock"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "event",
+        "scouts"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_433"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 435,
+    "source_line_end": 435,
+    "issue_reference": "CXV, 8028 (2), 13 November 1985, page 18",
+    "original_text": "Mt Bryan’s Gala Weekend was a great success.  About 400 attended.  A street parade started with vintage cars, Son Wilsden & his Clydesdales, the Yankalilla Light Horse and Burra National Trust’s fire engines.  A Back-to-School followed.  This coincided with the centenary of the original school building, which is now the teacher’s residence.  Ruth Stolte’s book Razorback Range Country was launched by the publisher Peter Cotton.  The weekend also marked the 75th birthday of the Mt Bryan Soldiers’ Memorial Hall.  On Saturday afternoon there were displays by the Yankalilla Light Horse, sheep dog displays and hayrides.  Tim Butler of Radio 5CK compered the ball that night in the Soldiers’ Memorial Hall.  Many attended in period costume.  Ralph Oakley won the beard growing contest for those who started clean shaven on 3 August.  Dave Parnell won the longest beard of all prize.  Sunday’s combined church service was conducted by former resident Fr Laurie Quinn assisted by Fr Richard Morris, Rev. Malcolm Thomas and Fr Eugene Kelly.  The United Light Brass Band supplied the music.  A community lunch was followed by a Pleasant Sunday Afternoon compered by Marlene Richards of Hallett.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-13",
+      "volume": "CXV",
+      "issue_number": "8028",
+      "page": "18",
+      "article_type": "news",
+      "headline": "Mt Bryan’s Gala Weekend",
+      "people_mentioned": [
+        "Son Wilsden",
+        "Ruth Stolte",
+        "Peter Cotton",
+        "Tim Butler",
+        "Ralph Oakley",
+        "Dave Parnell",
+        "Fr Laurie Quinn",
+        "Fr Richard Morris",
+        "Rev. Malcolm Thomas",
+        "Fr Eugene Kelly",
+        "Marlene Richards"
+      ],
+      "places_mentioned": [
+        "Mt Bryan"
+      ],
+      "topics": [
+        "event",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_435"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 437,
+    "source_line_end": 437,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 1 & 2",
+    "original_text": "CXV, 8029 (2), 20 November 1985, pages 1 & 2  Check this irregular numbering",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029 (2)",
+      "page": "1 & 2",
+      "article_type": "other",
+      "headline": "Check this irregular numbering",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_437"
+  },
+  {
+    "record_id": "northern_argus_438",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 438,
+    "source_line_end": 440,
+    "original_text": "Market Square",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 438-440)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 441,
+    "source_line_end": 443,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 1 & 2",
+    "original_text": "A petition with 570 signatures has called for a halt to any further installation of electricity poles in Market Square and for postponement of redevelopment work until an artist’s impression has been published in the press and a public meeting held to discuss proposals.\nThe petition was organised by Burra National Trust and presented to Council by its President Mrs Maureen Wright.  For some years the Council has had plans to underground the electricity, improve traffic flow and redesign parking.  Although plans have been publicised they did not clearly show the position and design of the new lightin poles.  The type of light pole has created concern.  The standard goose-neck poles were deemed unsuitable for a heritage town and their position on proposed protuberances has also roused concern.  In presenting the petition Mrs Wright spoke about Burra as a Heritage Town and urged the Council to reconsider the pole choice.  Mr John Modra of the Highways Department spoke outlining the accepted standards and stressed that the safety factor.  The funding arrangements were also outlined.  Council accepted the petition and will discuss the situation at its executive meeting early this week.  Meanwhile undergrounding of power lines is proceeding as there was general consensus that this was desirable.  Other work has been halted.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "1 & 2",
+      "article_type": "news",
+      "headline": "Petition against electricity poles in Market Square",
+      "people_mentioned": [
+        "Mrs Maureen Wright",
+        "Mr John Modra"
+      ],
+      "places_mentioned": [
+        "Market Square",
+        "Burra"
+      ],
+      "topics": [
+        "community",
+        "infrastructure"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_441"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 445,
+    "source_line_end": 445,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 1 & 2",
+    "original_text": "Plans were also produced at the meeting for the proposed Burra North deviation or Ludgvan Street Bypass.  [1986-87]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "1 & 2",
+      "article_type": "news",
+      "headline": "Plans for Burra North deviation",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "infrastructure",
+        "development"
+      ],
+      "eric_notes": [
+        "1986-87"
+      ]
+    },
+    "record_id": "northern_argus_445"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 447,
+    "source_line_end": 447,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 1 & 2",
+    "original_text": "[Photo of goose-neck poles in Commercial Street and the south side of Market Square.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "1 & 2",
+      "article_type": "other",
+      "headline": "Photo of goose-neck poles",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Commercial Street",
+        "Market Square"
+      ],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_447"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 449,
+    "source_line_end": 449,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, page 23",
+    "original_text": "Check this irregular numbering",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029 (2)",
+      "page": "23",
+      "article_type": "other",
+      "headline": "Irregular Issue Numbering",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [
+        "publication",
+        "numbering"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_449"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 451,
+    "source_line_end": 463,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 23",
+    "original_text": "Broken Hill-Burra Barrow Push 1986\nPlans are well under way for the West End-Toyota Great Barrow Push from Broken Hill to Burra according to Secretary Chris Reed.  Teams will assemble at Broken Hill on 21 January.  Team nominations close on 2 December.  The recent Clare-Burra Barrow Push was a great success.  Prizes for the 1986 Push:\n1st, $10,000\n2nd $1,000\n3rd $500\nThere will also be a series of $1,000 prizes for the 1st Sporting Team, the 1st team over 40, the 1st team under 17, the 1st all female team and the 1st service club team.\nThe Prime Minister has been asked to present the prizes and if he is able to accept he will be the first PM to visit Burra since Billy Hughes in 1924*.  Burra breathers won the Clare-Burra Push.\n[*This claim is incorrect.  W. Hughes visited twice as PM, on 28 August 1920 and 29 March 1922.  After that there was a visit by S.M. Bruce in March 1925 when he was PM and from J.B. Chifley when he was PM in 1946.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Plans for Broken Hill-Burra Barrow Push 1986",
+      "people_mentioned": [
+        "Chris Reed",
+        "Billy Hughes"
+      ],
+      "places_mentioned": [
+        "Broken Hill",
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "fundraising"
+      ],
+      "eric_notes": [
+        "This claim is incorrect. W. Hughes visited twice as PM, on 28 August 1920 and 29 March 1922. After that there was a visit by S.M. Bruce in March 1925 when he was PM and from J.B. Chifley when he was PM in 1946."
+      ]
+    },
+    "record_id": "northern_argus_451"
+  },
+  {
+    "record_id": "northern_argus_464",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 464,
+    "source_line_end": 466,
+    "original_text": "[*This claim is incorrect.  W. Hughes visited twice as PM, on 28 August 1920 and 29 March 1922.  After that there was a visit by S.M. Bruce in March 1925 when he was PM and from J.B. Chifley when he was PM in 1946.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 464-466)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 467,
+    "source_line_end": 467,
+    "issue_reference": "CXV, 8029 (2), 20 November 1985, pages 23",
+    "original_text": "The Mid North Regional Tourist Association had a three-day visit to Burra last week.  Members of the Board had a dinner at the Old Jinker Restaurant.  While in Burra the Board stayed at Paxton Square Cottages and had a tour of the town.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-20",
+      "volume": "CXV",
+      "issue_number": "8029",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Mid North Regional Tourist Association visit",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra",
+        "Old Jinker Restaurant",
+        "Paxton Square Cottages"
+      ],
+      "topics": [
+        "tourism",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_467"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 469,
+    "source_line_end": 469,
+    "issue_reference": "CXV, 8030 (2), 27 November 1985, MISSING",
+    "original_text": "CXV, 8030 (2), 27 November 1985, MISSING",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-11-27",
+      "volume": "CXV",
+      "issue_number": "8030",
+      "page": "",
+      "article_type": "missing_issue",
+      "headline": "Missing issue",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_469"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 471,
+    "source_line_end": 473,
+    "issue_reference": "CXV, 8031, 4 December 1985, page 23",
+    "original_text": "Burra Pony Club bestowed life membership on two members during their recent Christmas dinner.  Recipients were Mrs Shirley Thamm and Mr Bob Steele.  Sixteen members attended the dinner.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-04",
+      "volume": "CXV",
+      "issue_number": "8031",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Burra Pony Club life membership bestowed",
+      "people_mentioned": [
+        "Mrs Shirley Thamm",
+        "Mr Bob Steele"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "community",
+        "membership"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_471"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 475,
+    "source_line_end": 475,
+    "issue_reference": "CXV, 8031, 4 December 1985, page 23",
+    "original_text": "Burra’s Jubilee 150 Float is taking shape.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-04",
+      "volume": "CXV",
+      "issue_number": "8031",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Burra’s Jubilee 150 Float",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Burra"
+      ],
+      "topics": [
+        "event",
+        "celebration"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_475"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 477,
+    "source_line_end": 477,
+    "issue_reference": "",
+    "original_text": "[Photo of the model of Morphett’s Enginehouse being painted by Roger Boehm.]",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "",
+      "volume": "",
+      "issue_number": "",
+      "page": "",
+      "article_type": "other",
+      "headline": "Photo of Morphett’s Enginehouse Model",
+      "people_mentioned": [
+        "Roger Boehm"
+      ],
+      "places_mentioned": [
+        "Morphett’s Enginehouse"
+      ],
+      "topics": [
+        "model",
+        "painting"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_477"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 479,
+    "source_line_end": 479,
+    "issue_reference": "CXV, 8031, 4 December 1985, page 23",
+    "original_text": "Mrs Florrie Scroop was presented with a sheaf of flowers at the Burra Hospital Ladies’ Auxiliary Gala Day at Burra Town Hall last Friday.  In honour of her 50 years service to the auxiliary a brass plaque will be mounted in the foyer of the hospital.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-04",
+      "volume": "CXV",
+      "issue_number": "8031",
+      "page": "23",
+      "article_type": "news",
+      "headline": "Mrs Florrie Scroop honored at Gala Day",
+      "people_mentioned": [
+        "Mrs Florrie Scroop"
+      ],
+      "places_mentioned": [
+        "Burra Hospital",
+        "Burra Town Hall"
+      ],
+      "topics": [
+        "community",
+        "honor"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_479"
+  },
+  {
+    "record_id": "northern_argus_480",
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 480,
+    "source_line_end": 482,
+    "original_text": "CXV, 8032, 11 December 1985, page ?",
+    "metadata": {
+      "publication": "Northern Argus",
+      "article_type": "uncategorized",
+      "headline": "Gap content (lines 480-482)",
+      "note": "Content found between processed records - may need manual review"
+    }
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 483,
+    "source_line_end": 483,
+    "issue_reference": "CXV, 8032, 11 December 1985, page ?",
+    "original_text": "Burra Barrow Birds find that due to unforeseen circumstances they need a replacement runner and a reserve.  Anyone interested should contact Di. Day.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-11",
+      "volume": "CXV",
+      "issue_number": "8032",
+      "page": "?",
+      "article_type": "news",
+      "headline": "Burra Barrow Birds need replacement runner",
+      "people_mentioned": [
+        "Di. Day"
+      ],
+      "places_mentioned": [],
+      "topics": [
+        "community",
+        "sports"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_483"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 485,
+    "source_line_end": 487,
+    "issue_reference": "CXV, 8032, 11 December 1985, page ?",
+    "original_text": "Market Square",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-11",
+      "volume": "CXV",
+      "issue_number": "8032",
+      "page": "?",
+      "article_type": "other",
+      "headline": "Market Square",
+      "people_mentioned": [],
+      "places_mentioned": [],
+      "topics": [],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_485"
+  },
+  {
+    "source_document": "1985-87_Northern__Argus.md",
+    "source_line_start": 489,
+    "source_line_end": 489,
+    "issue_reference": "CXV, 8032, 11 December 1985, page ?",
+    "original_text": "Following the recent petition the goose-neck poles in Market Square have been removed.  At a meeting of the Burra Burra DC on Monday 9 December plans and an artist’s impression of the square were on display.  Details of alternative lighting and its cost were also displayed.  A public meeting on the matter will be held at the Civic Centre on Thursday 19 December at 8 p.m.  Undergrounding of power lines continues.",
+    "metadata": {
+      "publication": "Northern Argus",
+      "date": "1985-12-11",
+      "volume": "CXV",
+      "issue_number": "8032",
+      "page": "?",
+      "article_type": "news",
+      "headline": "Removal of goose-neck poles in Market Square",
+      "people_mentioned": [],
+      "places_mentioned": [
+        "Market Square",
+        "Burra"
+      ],
+      "topics": [
+        "infrastructure",
+        "community"
+      ],
+      "eric_notes": []
+    },
+    "record_id": "northern_argus_489"
   }
 ]

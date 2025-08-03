@@ -27,6 +27,7 @@ class NorthernArgusProcessor:
         self.instructions = self.load_instructions()
         self.all_records = []
         self.chunk_count = 0
+        self.source_lines = []  # Store source lines for gap filling
         
     def load_config(self, config_path: str) -> Dict[str, Any]:
         """Load configuration from JSON file"""
@@ -65,34 +66,20 @@ class NorthernArgusProcessor:
             print(f"ERROR: Document not found at {doc_path}")
             sys.exit(1)
     
-    def create_chunks(self, lines: List[str]) -> List[tuple]:
-        """Create overlapping chunks from the document lines"""
-        chunks = []
-        chunk_size = self.config["chunk_size"]
-        overlap_size = self.config["overlap_size"]
-        
-        start = 0
-        while start < len(lines):
-            end = min(start + chunk_size, len(lines))
-            chunk_lines = lines[start:end]
-            
-            # Calculate actual line numbers (1-indexed)
-            start_line_num = start + 1
-            end_line_num = end
-            
-            chunks.append((chunk_lines, start_line_num, end_line_num))
-            
-            # Move start position for next chunk (with overlap)
-            if end >= len(lines):
-                break
-            start = end - overlap_size
-            
-        return chunks
+    def get_max_line_processed(self, records: List[Dict[str, Any]]) -> int:
+        """Find the highest line number actually processed in the records"""
+        max_line = 0
+        for record in records:
+            source_line_end = record.get("source_line_end", 0)
+            if source_line_end > max_line:
+                max_line = source_line_end
+        return max_line
     
     def get_previous_records_summary(self) -> List[Dict[str, Any]]:
-        """Get summary of previous records for duplicate checking"""
-        # Return last 20 records for context (to avoid token limits)
-        return self.all_records[-20:] if len(self.all_records) > 20 else self.all_records
+        """Get summary of previous records for duplicate checking - NO LONGER USED"""
+        # This method is kept for backward compatibility but no longer used
+        # LLM now processes chunks independently without previous record context
+        return []
     
     def merge_records(self, new_records: List[Dict[str, Any]]) -> int:
         """Merge new records with existing ones, handling duplicates and maintaining order"""
@@ -116,18 +103,10 @@ class NorthernArgusProcessor:
                 existing_index = existing_ids[record_id]
                 existing_record = self.all_records[existing_index]
                 
-                # Check if new record is more complete (more content or metadata)
-                existing_text_len = len(existing_record.get("original_text", ""))
-                new_text_len = len(new_record.get("original_text", ""))
-                existing_metadata_count = len(str(existing_record.get("metadata", {})))
-                new_metadata_count = len(str(new_record.get("metadata", {})))
-                
-                if new_text_len > existing_text_len or new_metadata_count > existing_metadata_count:
-                    print(f"🔄 Updating record {record_id} (new version more complete)")
-                    self.all_records[existing_index] = new_record
-                    updated_count += 1
-                else:
-                    print(f"⏭️  Skipping duplicate record {record_id} (existing version is complete)")
+                # Always prefer the new record (later processing is generally better)
+                print(f"🔄 Updating record {record_id} (using latest version)")
+                self.all_records[existing_index] = new_record
+                updated_count += 1
             else:
                 # New record, add it
                 self.all_records.append(new_record)
@@ -160,6 +139,120 @@ class NorthernArgusProcessor:
         
         return added_count
     
+    def fill_gaps(self) -> int:
+        """Find gaps between records and fill with uncategorized content if non-empty"""
+        if len(self.all_records) < 2:
+            return 0
+            
+        gap_records = []
+        sorted_records = sorted(self.all_records, key=lambda r: r.get("source_line_start", 0))
+        
+        for i in range(len(sorted_records) - 1):
+            current_end = sorted_records[i].get("source_line_end", 0)
+            next_start = sorted_records[i + 1].get("source_line_start", 0)
+            
+            # Check if there's a gap (more than 1 line difference)
+            if next_start > current_end + 1:
+                gap_start = current_end + 1
+                gap_end = next_start - 1
+                
+                # Extract lines in the gap (convert to 0-indexed for array access)
+                gap_lines = []
+                for line_num in range(gap_start, gap_end + 1):
+                    if line_num <= len(self.source_lines):
+                        gap_lines.append(self.source_lines[line_num - 1])  # Convert to 0-indexed
+                
+                # Check if gap contains non-whitespace content
+                non_empty_content = any(line.strip() for line in gap_lines)
+                
+                if non_empty_content:
+                    # Create uncategorized record for this gap
+                    gap_text = "".join(gap_lines).strip()
+                    gap_record = {
+                        "record_id": f"northern_argus_{gap_start}",
+                        "source_document": "1985-87_Northern__Argus.md",
+                        "source_line_start": gap_start,
+                        "source_line_end": gap_end,
+                        "original_text": gap_text,
+                        "metadata": {
+                            "publication": "Northern Argus",
+                            "article_type": "uncategorized",
+                            "headline": f"Gap content (lines {gap_start}-{gap_end})",
+                            "note": "Content found between processed records - may need manual review"
+                        }
+                    }
+                    gap_records.append(gap_record)
+        
+        # Add gap records to main collection
+        if gap_records:
+            self.all_records.extend(gap_records)
+            # Re-sort to maintain order
+            self.all_records.sort(key=lambda r: r.get("source_line_start", 0))
+            
+        return len(gap_records)
+    
+    def reprocess_uncategorized_records(self) -> int:
+        """Try to reprocess uncategorized records with focused LLM attention"""
+        if not self.all_records:
+            return 0
+            
+        uncategorized_records = [r for r in self.all_records if r.get("metadata", {}).get("article_type") == "uncategorized"]
+        
+        if not uncategorized_records:
+            return 0
+            
+        print(f"🔄 Attempting to reprocess {len(uncategorized_records)} uncategorized records...")
+        
+        reprocessed_count = 0
+        records_to_remove = []
+        records_to_add = []
+        
+        for uncat_record in uncategorized_records:
+            record_id = uncat_record.get("record_id")
+            start_line = uncat_record.get("source_line_start")
+            end_line = uncat_record.get("source_line_end")
+            
+            if not start_line or not end_line:
+                continue
+                
+            # Extract the specific lines for this uncategorized record
+            chunk_lines = []
+            for line_num in range(start_line, end_line + 1):
+                if line_num <= len(self.source_lines):
+                    chunk_lines.append(self.source_lines[line_num - 1])  # Convert to 0-indexed
+            
+            if not chunk_lines:
+                continue
+                
+            print(f"  🎯 Reprocessing lines {start_line}-{end_line} (record {record_id})")
+            
+            try:
+                # Process this small focused chunk
+                new_records = self.process_chunk(chunk_lines, start_line, end_line)
+                
+                if new_records:
+                    print(f"    ✅ Successfully extracted {len(new_records)} records from uncategorized content")
+                    records_to_remove.append(uncat_record)
+                    records_to_add.extend(new_records)
+                    reprocessed_count += 1
+                else:
+                    print(f"    ⏭️  No records extracted - keeping as uncategorized")
+                    
+            except Exception as e:
+                print(f"    ⚠️  Error reprocessing: {e} - keeping as uncategorized")
+                continue
+        
+        # Remove uncategorized records that were successfully reprocessed
+        for record_to_remove in records_to_remove:
+            if record_to_remove in self.all_records:
+                self.all_records.remove(record_to_remove)
+        
+        # Add new records (they'll go through normal merge process)
+        if records_to_add:
+            self.merge_records(records_to_add)
+        
+        return reprocessed_count
+    
     def process_chunk(self, chunk_lines: List[str], start_line: int, end_line: int) -> List[Dict[str, Any]]:
         """Process a single chunk using OpenAI API"""
         # Add explicit line numbers to help LLM understand positioning
@@ -170,7 +263,6 @@ class NorthernArgusProcessor:
             numbered_lines.append(f"{line_num:6d}→{line}")
         
         chunk_text = ''.join(numbered_lines)
-        previous_records = self.get_previous_records_summary()
         
         # Create the prompt
         system_prompt = f"""You are processing the Northern Argus historical newspaper document according to these instructions:
@@ -186,10 +278,7 @@ Use these line numbers for accurate source_line_start and source_line_end values
 
 {chunk_text}
 
-Previous records for duplicate checking:
-{json.dumps(previous_records, indent=2) if previous_records else "[]"}
-
-Process this chunk according to the instructions and return a JSON array of new records."""
+Process this chunk according to the instructions and return a JSON array of records for all content you find."""
 
         try:
             response = self.client.chat.completions.create(
@@ -210,6 +299,15 @@ Process this chunk according to the instructions and return a JSON array of new 
                 if not isinstance(records, list):
                     print(f"WARNING: Chunk {self.chunk_count + 1} returned non-list: {type(records)}")
                     return []
+                
+                # Add record_id to each record based on source_line_start
+                for record in records:
+                    source_line_start = record.get("source_line_start")
+                    if source_line_start:
+                        record["record_id"] = f"northern_argus_{source_line_start}"
+                    else:
+                        print(f"WARNING: Record missing source_line_start: {record}")
+                
                 return records
             except json.JSONDecodeError as e:
                 print(f"❌ FATAL: Chunk {self.chunk_count + 1} returned invalid JSON: {e}")
@@ -273,24 +371,35 @@ Process this chunk according to the instructions and return a JSON array of new 
         
         # Load document
         lines = self.load_document(doc_path)
+        self.source_lines = lines  # Store for gap filling
         print(f"📄 Loaded {len(lines)} lines")
-        
-        # Create chunks
-        chunks = self.create_chunks(lines)
-        print(f"📦 Created {len(chunks)} chunks")
         
         # Ensure output directory exists
         os.makedirs("processed", exist_ok=True)
         
-        # Process each chunk
+        # Dynamic chunking - process adaptively based on what LLM actually handles
         start_time = time.time()
+        chunk_count = 0
+        current_line = 0  # 0-indexed for line array access
+        chunk_size = self.config["chunk_size"]
+        overlap_size = self.config["overlap_size"]
         
-        for i, (chunk_lines, start_line, end_line) in enumerate(chunks):
-            chunk_start_time = time.time()
-            self.chunk_count = i
-            print(f"\n⚙️  Processing chunk {i + 1}/{len(chunks)} (lines {start_line}-{end_line})")
+        while current_line < len(lines):
+            # Calculate this chunk's range
+            end_line = min(current_line + chunk_size, len(lines))
+            chunk_lines = lines[current_line:end_line]
             
-            records = self.process_chunk(chunk_lines, start_line, end_line)
+            # Convert to 1-indexed line numbers for display and processing
+            start_line_num = current_line + 1
+            end_line_num = end_line
+            
+            chunk_count += 1
+            chunk_start_time = time.time()
+            self.chunk_count = chunk_count - 1  # 0-indexed for compatibility
+            
+            print(f"\n⚙️  Processing chunk {chunk_count} (lines {start_line_num}-{end_line_num})")
+            
+            records = self.process_chunk(chunk_lines, start_line_num, end_line_num)
             
             # Calculate timing information
             chunk_elapsed = time.time() - chunk_start_time
@@ -299,19 +408,62 @@ Process this chunk according to the instructions and return a JSON array of new 
             if records:
                 added_count = self.merge_records(records)
                 print(f"✅ Extracted {len(records)} records, added {added_count} new")
+                
+                # Fill any gaps in coverage
+                gap_count = self.fill_gaps()
+                if gap_count > 0:
+                    print(f"🔍 Filled {gap_count} content gaps with uncategorized records")
+                
+                # Try to reprocess uncategorized records with focused LLM attention
+                reprocessed_count = self.reprocess_uncategorized_records()
+                if reprocessed_count > 0:
+                    print(f"🎯 Reprocessed {reprocessed_count} uncategorized records into proper categories")
+                    
+                    # Fill any new gaps that might have appeared after reprocessing
+                    additional_gaps = self.fill_gaps()
+                    if additional_gaps > 0:
+                        print(f"🔍 Filled {additional_gaps} additional gaps after reprocessing")
+                
+                # Find the actual last line processed by the LLM
+                max_line_processed = self.get_max_line_processed(records)
+                print(f"📍 LLM processed up to line {max_line_processed} (requested up to {end_line_num})")
+                
+                # Calculate next chunk start with overlap, but ensure we always move forward
+                next_start_line = max_line_processed - overlap_size + 1
+                
+                # Ensure we don't go backwards - next chunk must start after current chunk started
+                if next_start_line <= start_line_num:
+                    print("⚠️  Calculated next start would go backwards - advancing by minimum amount")
+                    next_start_line = start_line_num + 1
+                
+                current_line = next_start_line - 1  # Convert back to 0-indexed
+                
+                print(f"🔄 Next chunk will start at line {next_start_line}")
+                    
             else:
                 # This should rarely happen now since JSON errors terminate immediately
                 print("⚠️  No records extracted from this chunk (empty chunk or no content)")
+                # Advance to avoid infinite loop
+                current_line = current_line + chunk_size
             
-            # Calculate progress and ETA
-            chunks_completed = i + 1
-            chunks_remaining = len(chunks) - chunks_completed
-            progress_percent = (chunks_completed / len(chunks)) * 100
+            # Calculate progress estimates based on actual position
+            # Use the max line we've actually processed, not the current chunk position
+            if self.all_records:
+                actual_lines_processed = self.get_max_line_processed(self.all_records)
+            else:
+                actual_lines_processed = current_line + 1
             
-            # Estimate time based on average chunk processing time
-            avg_chunk_time = total_elapsed / chunks_completed
-            estimated_remaining_time = chunks_remaining * avg_chunk_time
-            estimated_total_time = total_elapsed + estimated_remaining_time
+            progress_percent = (actual_lines_processed / len(lines)) * 100
+            
+            # Estimate time based on lines per second
+            if actual_lines_processed > 0:
+                lines_per_second = actual_lines_processed / total_elapsed
+                lines_remaining = len(lines) - actual_lines_processed
+                estimated_remaining_time = lines_remaining / lines_per_second if lines_per_second > 0 else 0
+                estimated_total_time = total_elapsed + estimated_remaining_time
+            else:
+                estimated_remaining_time = 0
+                estimated_total_time = total_elapsed
             
             # Format time strings
             def format_time(seconds):
@@ -327,9 +479,27 @@ Process this chunk according to the instructions and return a JSON array of new 
             
             # Display comprehensive progress information
             print(f"💾 Progress saved ({len(self.all_records)} total records so far)")
-            print(f"📊 Progress: {progress_percent:.1f}% ({chunks_completed}/{len(chunks)} chunks)")
-            print(f"⏱️  Elapsed: {format_time(total_elapsed)} | Chunk: {format_time(chunk_elapsed)} | Avg: {format_time(avg_chunk_time)}")
+            print(f"📊 Progress: {progress_percent:.1f}% (line {actual_lines_processed}/{len(lines)})")
+            print(f"⏱️  Elapsed: {format_time(total_elapsed)} | Chunk: {format_time(chunk_elapsed)}")
             print(f"🔮 ETA: {format_time(estimated_remaining_time)} | Total Est: {format_time(estimated_total_time)}")
+            
+            # Show distinct article types found so far with counts
+            if self.all_records:
+                type_counts = {}
+                for record in self.all_records:
+                    article_type = record.get("metadata", {}).get("article_type", "unknown")
+                    type_counts[article_type] = type_counts.get(article_type, 0) + 1
+                
+                # Format counts nicely
+                type_list = []
+                for article_type in sorted(type_counts.keys()):
+                    count = type_counts[article_type]
+                    if article_type == "uncategorized":
+                        type_list.append(f"{article_type}({count})")
+                    else:
+                        type_list.append(f"{article_type}({count})" if count > 1 else article_type)
+                
+                print(f"📝 Article types found: {', '.join(type_list)}")
             
             # Brief pause to avoid rate limiting
             time.sleep(1)

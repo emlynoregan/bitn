@@ -28,8 +28,8 @@ CXV, 8025, 25 September 1985, MISSING
 Process the current chunk and output a JSON array of records. 
 
 **Key Rules**:
-1. Extract each article/item as a separate record
-2. Check against `previous_records` - skip duplicates unless you can improve them
+1. Extract each article/item as a separate record  
+2. Process everything you see - don't worry about duplicates
 3. Stop processing if the last record appears incomplete
 
 ## Output Format
@@ -37,7 +37,6 @@ Process the current chunk and output a JSON array of records.
 ```json
 [
   {
-    "record_id": "northern_argus_1985_08_21_001",
     "source_document": "1985-87_Northern__Argus.md",
     "source_line_start": 11,
     "source_line_end": 15,
@@ -60,37 +59,30 @@ Process the current chunk and output a JSON array of records.
 ]
 ```
 
-## Record ID Format
-`northern_argus_YYYY_MM_DD_###`
-
-**How to calculate**:
-1. Look at last record in `previous_records` for highest sequence number
-2. If same date: increment number (`004`, `005`, etc.)
-3. If new date: start with `001`
-
 ## Processing Steps
 
-### 1. Find Your Starting Point
-- Examine `previous_records` to see what's already processed
-- Find first unprocessed article in your chunk
-- Skip any partial duplicates
-
-### 2. Extract Each Record
+### 1. Extract Each Record
 - **Article boundaries**: Blank lines, topic headers, subject changes
 - **Original text**: Everything between boundaries (preserve exactly)
 - **Metadata**: Extract dates (→ YYYY-MM-DD), people, places, topics
 
-### 3. Handle Duplicates
-- **Skip** if previous record is complete and accurate
-- **Include anyway** if you can improve: missing content, poor metadata, wrong categorization, incomplete Eric's notes
-- **Use same record_id** when overriding
-
-### 4. Stop at Incomplete Records
+### 2. Stop at Incomplete Records
 If last item appears cut off (mid-sentence, header only, etc.), exclude it.
 
 ## Metadata Guidelines
 
-**Article Types**: `news`, `obituary`, `birth`, `marriage`, `advertisement`, `letter`, `missing_issue`, `community_notice`
+**Article Types** (choose the most appropriate):
+- `news` - General news articles, events, announcements
+- `obituary` - Death notices ("Obituary. [Name] died...")
+- `birth` - Birth announcements ("Birth. To [Parents], a [son/daughter]...")
+- `marriage` - Marriage announcements ("Marriage. [Location/Church]...")
+- `advertisement` - Business advertisements ("Advt. [Business details]...")
+- `letter` - Letters to editor ("Letter to the Editor from [Name]...")
+- `missing_issue` - Missing newspaper issues ("[Date], MISSING")
+- `community_notice` - Community announcements, events, meetings
+- `other` - Use for content that should be included but doesn't fit above categories
+
+**IMPORTANT**: Always include content that represents historical value, even if the type is unclear. Use `other` and add a descriptive headline when needed.
 
 **Topics** (use consistent keywords):
 - Events: fire, accident, death, birth, marriage, show, race
