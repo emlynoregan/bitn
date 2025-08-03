@@ -113,24 +113,32 @@ class NorthernArgusProcessor:
                 existing_ids[record_id] = len(self.all_records) - 1
                 added_count += 1
         
-        # Sort records to maintain proper order (by date, then by sequence number in ID)
+        # Sort records to maintain proper order (by source line, then by date)
         def sort_key(record):
-            record_id = record.get("record_id", "")
-            date = record.get("metadata", {}).get("date", "1900-01-01")
+            # Get source line for primary sorting (most reliable)
+            source_line = record.get("source_line_start", 99999)
             
-            # Extract sequence number from record_id (e.g., "northern_argus_1985_08_21_003" -> 3)
-            try:
-                parts = record_id.split("_")
-                if len(parts) >= 6 and parts[-1].isdigit():
-                    sequence = int(parts[-1])
-                elif len(parts) >= 5 and parts[-1] == "missing":
-                    sequence = 0  # Missing issues come first
-                else:
-                    sequence = 999  # Unknown format, put at end
-            except:
-                sequence = 999
+            # Get date for secondary sorting
+            metadata = record.get("metadata", {})
+            if metadata is None:
+                metadata = {}
+            date = metadata.get("date", "1900-01-01")
             
-            return (date, sequence)
+            # Handle empty or None dates
+            if not date or date is None:
+                date = "1900-01-01"
+            
+            # Extract line number from record_id as fallback (e.g., "northern_argus_477" -> 477)
+            if source_line == 99999:
+                try:
+                    record_id = record.get("record_id", "")
+                    parts = record_id.split("_")
+                    if len(parts) >= 3 and parts[-1].isdigit():
+                        source_line = int(parts[-1])
+                except:
+                    pass
+            
+            return (source_line, date)
         
         self.all_records.sort(key=sort_key)
         
