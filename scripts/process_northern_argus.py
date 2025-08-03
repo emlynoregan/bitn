@@ -286,10 +286,15 @@ Process this chunk according to the instructions and return a JSON array of new 
         start_time = time.time()
         
         for i, (chunk_lines, start_line, end_line) in enumerate(chunks):
+            chunk_start_time = time.time()
             self.chunk_count = i
             print(f"\n⚙️  Processing chunk {i + 1}/{len(chunks)} (lines {start_line}-{end_line})")
             
             records = self.process_chunk(chunk_lines, start_line, end_line)
+            
+            # Calculate timing information
+            chunk_elapsed = time.time() - chunk_start_time
+            total_elapsed = time.time() - start_time
             
             if records:
                 added_count = self.merge_records(records)
@@ -298,9 +303,33 @@ Process this chunk according to the instructions and return a JSON array of new 
                 # This should rarely happen now since JSON errors terminate immediately
                 print("⚠️  No records extracted from this chunk (empty chunk or no content)")
             
+            # Calculate progress and ETA
+            chunks_completed = i + 1
+            chunks_remaining = len(chunks) - chunks_completed
+            progress_percent = (chunks_completed / len(chunks)) * 100
+            
+            # Estimate time based on average chunk processing time
+            avg_chunk_time = total_elapsed / chunks_completed
+            estimated_remaining_time = chunks_remaining * avg_chunk_time
+            estimated_total_time = total_elapsed + estimated_remaining_time
+            
+            # Format time strings
+            def format_time(seconds):
+                if seconds < 60:
+                    return f"{seconds:.0f}s"
+                elif seconds < 3600:
+                    return f"{seconds/60:.1f}m"
+                else:
+                    return f"{seconds/3600:.1f}h"
+            
             # Save progress after every chunk for monitoring
             self.save_intermediate_progress()
+            
+            # Display comprehensive progress information
             print(f"💾 Progress saved ({len(self.all_records)} total records so far)")
+            print(f"📊 Progress: {progress_percent:.1f}% ({chunks_completed}/{len(chunks)} chunks)")
+            print(f"⏱️  Elapsed: {format_time(total_elapsed)} | Chunk: {format_time(chunk_elapsed)} | Avg: {format_time(avg_chunk_time)}")
+            print(f"🔮 ETA: {format_time(estimated_remaining_time)} | Total Est: {format_time(estimated_total_time)}")
             
             # Brief pause to avoid rate limiting
             time.sleep(1)
