@@ -83,3 +83,5 @@ netlify.toml
 
 # Git merge conflict files
 *.orig
+
+config.json
