@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section>
+  <h1>Records</h1>
+  <ul class="mt-4 space-y-2">
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}" class="text-blue-700 hover:underline">{{ .Title }}</a>
+        {{ with .Params.date }}<span class="text-sm text-gray-600"> • {{ . }}</span>{{ end }}
+        {{ with .Params.article_type }}<span class="text-sm text-gray-600"> • {{ . }}</span>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+
+

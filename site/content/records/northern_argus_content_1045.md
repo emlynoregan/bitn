@@ -1,0 +1,26 @@
+---
+title: Birth. To Wendy & Michael Burge on 2 April, a daughter, Kate Marie.
+type: records
+slug: northern_argus_content_1045
+url: /records/northern_argus_content_1045/
+record_id: northern_argus_content_1045
+date: '1986-04-09'
+volume: CXVI
+issue_number: '8048'
+page: '17'
+article_type: birth
+issue_reference: CXVI, 8048, 9 April 1986, page 17
+people_mentioned:
+- Wendy Burge
+- Michael Burge
+- Kate Marie
+places_mentioned: []
+topics:
+- birth
+- family
+source_document: 1985-87_Northern__Argus.md
+---
+
+Birth.  To Wendy & Michael Burge on 2 April, a daughter, Kate Marie.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

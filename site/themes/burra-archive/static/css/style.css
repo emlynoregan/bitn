@@ -26,12 +26,20 @@ body {
 /* Custom prose styles for article content */
 .prose {
   color: #374151; /* gray-700 */
-  max-width: none;
+  /* readable measure with comfortable insets */
+  max-width: 70ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .prose p {
   margin-bottom: 1.25rem;
-  text-align: justify;
+  text-align: left; /* ragged-right */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 
 .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {

@@ -1,0 +1,30 @@
+---
+title: Advt.  Barry & Maureen Wright, 1 Young Street.  Dealers in Wool, Skins and
+  Stock Feed.
+type: records
+slug: northern_argus_content_63
+url: /records/northern_argus_content_63/
+record_id: northern_argus_content_63
+date: '1985-08-28'
+volume: CXV
+issue_number: '8021'
+page: '18'
+article_type: advertisement
+issue_reference: CXV, 8021, 28 August 1985, page 18
+people_mentioned:
+- Barry Wright
+- Maureen Wright
+places_mentioned:
+- 1 Young Street
+- Adelaide
+topics:
+- business
+- wool
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Barry & Maureen Wright, 1 Young Street.  Dealers in Wool, Skins and Stock Feed.
+
+Buyers for Adelaide Wool.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

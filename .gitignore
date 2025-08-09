@@ -92,3 +92,5 @@ config.json
 ## New pass folders (exclude entire outputs)
 /processed/northern_argus_pass_01/
 /processed/northern_argus_pass_02/
+/processed/northern_argus_pass_03/
+/processed/northern_argus_pass_04/

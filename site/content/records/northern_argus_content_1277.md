@@ -1,0 +1,27 @@
+---
+title: 'Birth: To Marie & Jack Richards in Perth'
+type: records
+slug: northern_argus_content_1277
+url: /records/northern_argus_content_1277/
+record_id: northern_argus_content_1277
+date: '1986-06-11'
+volume: CXVI
+issue_number: '8057'
+page: '19'
+article_type: birth
+issue_reference: CXVI, 8057, 11 June 1986, page 19
+people_mentioned:
+- Marie
+- Jack Richards
+- Margaret Lehmann
+places_mentioned:
+- Perth
+topics:
+- birth
+- family
+source_document: 1985-87_Northern__Argus.md
+---
+
+Birth.  To Marie  & Jack Richards in Perth, a daughter.  A grandchild for Margaret Lehmann.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

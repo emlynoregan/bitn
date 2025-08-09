@@ -77,13 +77,12 @@ class ArchiveSearch {
     buildIndex() {
         try {
             this.index = lunr(function () {
-                this.ref('id');
+                this.ref('url');
                 this.field('title', { boost: 10 });
-                this.field('publication', { boost: 5 });
-                this.field('date_range', { boost: 3 });
+                this.field('type', { boost: 5 });
+                this.field('date', { boost: 3 });
                 this.field('content');
-                
-                // Add documents to index
+
                 for (const doc of window.archiveSearch.documents) {
                     this.add(doc);
                 }
@@ -155,7 +154,7 @@ class ArchiveSearch {
             
             // Get full document data for results
             const searchResults = results.map(result => {
-                const doc = this.documents.find(d => d.id === result.ref);
+                const doc = this.documents.find(d => d.url === result.ref);
                 return {
                     ...doc,
                     score: result.score
@@ -185,7 +184,7 @@ class ArchiveSearch {
                         ${this.highlightMatches(result.title, query)}
                     </h4>
                     <p class="text-sm text-amber-600 mb-2">
-                        ${result.publication} • ${result.date_range}
+                        ${(result.type || '').toString()} ${result.date ? ('• ' + result.date) : ''}
                     </p>
                     <p class="text-sm text-gray-600">
                         ${this.highlightMatches(this.truncateContent(result.content), query)}
@@ -198,7 +197,10 @@ class ArchiveSearch {
                 item.addEventListener('click', () => {
                     const url = item.getAttribute('data-url');
                     if (url) {
-                        window.location.href = url;
+                        const baseUrl = window.HUGO_BASE_URL || '';
+                        const sep = baseUrl.endsWith('/') ? '' : '/';
+                        const path = url.startsWith('/') ? url.substring(1) : url;
+                        window.location.href = baseUrl ? (baseUrl + sep + path) : url;
                     }
                 });
                 

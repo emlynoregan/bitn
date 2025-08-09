@@ -267,7 +267,7 @@ class NorthernArgusProcessor:
                     # Create uncategorized record for this gap
                     gap_text = "".join(gap_lines).strip()
                     gap_record = {
-                        "record_id": f"northern_argus_{gap_start}",
+                        "record_id": f"northern_argus_content_{gap_start}",
                         "source_document": "1985-87_Northern__Argus.md",
                         "source_line_start": gap_start,
                         "source_line_end": gap_end,
@@ -411,13 +411,14 @@ Process this chunk according to the instructions and return a JSON array of reco
                     print(f"WARNING: Chunk {self.chunk_count + 1} returned non-list: {type(records)}")
                     return []
                 
-                # Add record_kind default and record_id
+                # Add record_kind default and record_id (include kind to avoid collisions)
                 for record in records:
                     if not record.get("record_kind"):
                         record["record_kind"] = "content"
                     source_line_start = record.get("source_line_start")
                     if source_line_start:
-                        record["record_id"] = f"northern_argus_{source_line_start}"
+                        kind = (record.get("record_kind") or "content").lower()
+                        record["record_id"] = f"northern_argus_{kind}_{source_line_start}"
                     else:
                         print(f"WARNING: Record missing source_line_start: {record}")
                 

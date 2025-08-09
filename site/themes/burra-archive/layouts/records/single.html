@@ -1,0 +1,46 @@
+{{ define "main" }}
+<article class="prose max-w-none" style="padding-top: 0.5rem;">
+  <header>
+    <h1 style="margin-bottom: 0.25rem;">{{ .Title }}</h1>
+    <p class="text-sm text-gray-600" style="margin-top: 0.25rem;">
+      {{ with .Params.volume }}Vol {{ . }}, {{ end }}
+      {{ with .Params.issue_number }}Issue {{ . }}, {{ end }}
+      {{ with .Params.date }}{{ (time .).Format "2 January 2006" }}{{ end }}
+      {{ with .Params.page }}, page {{ . }}{{ end }}
+    </p>
+  </header>
+
+  <div class="mt-4 whitespace-pre-wrap" style="margin-top: 1rem;">{{ .Content }}</div>
+
+  <section class="mt-6 text-sm text-gray-700" style="margin-top: 1.5rem;">
+    {{ with .Params.people_mentioned }}
+      <p style="margin: 0.25rem 0;"><strong>People:</strong> {{ delimit . ", " }}</p>
+    {{ end }}
+    {{ with .Params.places_mentioned }}
+      <p style="margin: 0.25rem 0;"><strong>Places:</strong> {{ delimit . ", " }}</p>
+    {{ end }}
+    {{ with .Params.topics }}
+      <p style="margin: 0.25rem 0;"><strong>Topics:</strong> {{ delimit . ", " }}</p>
+    {{ end }}
+    {{ $v := .Params.volume }}
+    {{ $i := .Params.issue_number }}
+    {{ $d := .Params.date }}
+    {{ $p := .Params.page }}
+    {{ if or (or $v $i) (or $d $p) }}
+      <p style="margin: 0.25rem 0;">
+        <strong>Issue:</strong>
+        {{ with $v }}Vol {{ . }}, {{ end }}
+        {{ with $i }}{{ . }}, {{ end }}
+        {{ with $d }}{{ (time .).Format "2 January 2006" }}{{ end }}
+        {{ with $p }}, page {{ . }}{{ end }}
+      </p>
+    {{ end }}
+    {{ with .Params.source_document }}
+      {{ $name := . | path.Base }}
+      <p style="margin: 0.25rem 0;"><strong>Source:</strong> <a href="{{ printf "/downloads/markdown/%s" $name }}">{{ $name }}</a></p>
+    {{ end }}
+  </section>
+</article>
+{{ end }}
+
+

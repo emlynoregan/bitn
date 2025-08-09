@@ -1,0 +1,26 @@
+---
+title: Burra Kindergarten last week held a Teddy Bears’ Picnic.
+type: records
+slug: northern_argus_content_3029
+url: /records/northern_argus_content_3029/
+record_id: northern_argus_content_3029
+date: '1987-09-09'
+volume: CXVII
+issue_number: '8122'
+page: '19'
+article_type: community_notice
+issue_reference: CXVII, 8122, 9 September 1987, page 19
+people_mentioned: []
+places_mentioned:
+- Burra Kindergarten
+- Burra
+topics:
+- event
+- children
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Kindergarten last week held a Teddy Bears’ Picnic.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

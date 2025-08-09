@@ -1,0 +1,28 @@
+---
+title: Obituary.  Bill Field died last week.
+type: records
+slug: northern_argus_content_1049
+url: /records/northern_argus_content_1049/
+record_id: northern_argus_content_1049
+date: '1986-04-09'
+volume: CXVI
+issue_number: '8048'
+page: '17'
+article_type: obituary
+issue_reference: CXVI, 8048, 9 April 1986, page 17
+people_mentioned:
+- Bill Field
+- William Alfred Field
+places_mentioned:
+- Kooringa
+topics:
+- death
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary.  Bill Field died last week.
+
+[William Alfred Field born 21 December 1919, Kooringa: died 2 April 1986.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
