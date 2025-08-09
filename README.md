@@ -22,6 +22,25 @@ This isn't just a newspaper collection - it's a **scholarly treasure trove** wit
 - **🏛️ Historical Continuity**: Seamless coverage despite newspaper transitions
 - **🎯 Research Ready**: Multiple formats for different use cases
 
+## ✅ Current Project Status
+
+- **Archive**: All 14 original `.doc` files present with corresponding `.docx` and `.md` in `archive/`.
+- **Static site**: Hugo site configured and buildable locally; GitHub Pages workflow is set up for deployment.
+- **Search**: Lunr.js client-side search enabled; assets use absolute URLs for HTTPS on Pages.
+- **LLM processing (Northern Argus)**:
+  - Dynamic chunking with forward-only progress
+  - Line-based IDs: `northern_argus_<source_line_start>`
+  - Deduplication prefers newer records
+  - Gap detection inserts "uncategorized" records
+  - Focused reprocessing: each uncategorized gap is re-run as a mini-chunk; successful extractions replace the placeholder; gaps rechecked
+  - Live progress written after every chunk
+- **Outputs**: Incremental and live JSONs under `processed/`.
+- **Next actions**:
+  - Rotate and remove the committed API key (see Security section)
+  - Complete the Northern Argus run and export a consolidated `processed/northern_argus_records_final.json`
+  - Generate per-record pages from processed JSON and include them in the search index
+  - Add downloads page with ZIPs for `archive/originals` and `archive/markdown`
+
 ## 📊 Content Overview
 
 | Publication Series | Years | Items | Description |
@@ -40,24 +59,37 @@ This isn't just a newspaper collection - it's a **scholarly treasure trove** wit
 
 ```
 bitn/
-├── README.md                          # This file
-├── LICENSE                           # Repository license
-├── docs/                            # Project documentation
-│   ├── Burra In The News - Analysis.md      # Comprehensive archive analysis
-│   ├── Static Site Design Plan.md           # Website development plan
-│   └── Technical Architecture Explanation.md # Technology choices explained
-├── scripts/                         # Processing and utility scripts
-│   ├── batch_convert_extract.py            # Main extraction script
-│   ├── create_all_formats.py               # Multi-format generator
-│   ├── extract_documents.py                # Document extraction
-│   ├── analyze_results.py                  # Content analysis
-│   └── [other utility scripts]
-├── archive/                         # The historical content
-│   ├── originals/                          # Original .doc/.docx files
-│   ├── docx/                              # Modern .docx versions
-│   └── markdown/                          # Universal .md format
-├── burra_news_complete_extraction.json    # Complete structured data (46MB)
-└── extraction_progress.json               # Extraction process backup
+├── README.md                           # This file
+├── LICENSE
+├── .github/
+│   └── workflows/
+│       └── hugo.yml                    # GitHub Pages deployment workflow
+├── docs/                               # Project documentation
+│   ├── Burra In The News - Analysis.md
+│   ├── Static Site Design Plan.md
+│   ├── Data Design Document.md
+│   └── Technical Architecture Explanation.md
+├── scripts/                            # Processing and utility scripts
+│   ├── process_northern_argus.py       # LLM orchestration (dynamic chunking, dedup, gaps, reprocessing)
+│   ├── run_processor.py                # Entry point with setup/monitoring
+│   ├── batch_convert_extract.py        # Conversion + extraction helpers
+│   └── config.json                     # Model/config (see Security about keys)
+├── archive/                            # The historical content
+│   ├── originals/                      # Original .doc/.docx files
+│   ├── docx/                           # Converted .docx
+│   └── markdown/                       # Extracted .md
+├── processed/                          # Incremental and live outputs
+│   ├── northern_argus_live_progress.json
+│   ├── northern_argus_records_001.json
+│   ├── northern_argus_records_002.json
+│   └── northern_argus_records_003.json
+├── site/                               # Hugo site
+│   ├── config.yaml                     # baseURL, pagination, etc.
+│   ├── content/                        # Section pages
+│   ├── static/js/search.js             # Lunr search
+│   └── themes/burra-archive/           # Templates
+├── burra_news_complete_extraction.json # Legacy/aux data
+└── extraction_progress.json            # Legacy/aux data
 ```
 
 ## 🔧 Available Formats
@@ -94,9 +126,10 @@ bitn/
 3. **Citation format**: See `docs/Burra In The News - Analysis.md` for proper attribution
 
 ### For Developers
-1. **Static site**: Follow `docs/Static Site Design Plan.md`
-2. **Data processing**: Use scripts in `scripts/` folder
-3. **API development**: Import `burra_news_complete_extraction.json`
+1. **Static site**: Follow `docs/Static Site Design Plan.md`; GitHub Pages workflow at `.github/workflows/hugo.yml`
+2. **Data processing**: Use `scripts/run_processor.py` to process Northern Argus; outputs appear in `processed/`
+3. **Per-record pages**: Generate from processed JSON into `site/content/records/` (see `scripts/hugo_content_processor.py` if applicable)
+4. **Search**: Ensure generated record pages are included in `site/static/js/search-data.json`
 
 ### For Genealogists
 1. **People search**: Content includes verified birth/death dates
@@ -167,6 +200,18 @@ This archive is designed to become a comprehensive static website. See `docs/Sta
 - **📱 Mobile-first** responsive design
 - **🌐 Deployment strategy** (Netlify/GitHub Pages)
 
+## 🤖 LLM Processing Pipeline (Northern Argus)
+
+- **Model**: `gpt-4o-mini` (configurable)
+- **Dynamic chunking**: Moves forward based on the last processed source line
+- **Record IDs**: `northern_argus_<source_line_start>`
+- **Deduplication**: Newer records overwrite older duplicates
+- **Gap filling**: Inserts "uncategorized" records for missed content between records
+- **Focused reprocessing**: Each uncategorized block is re-run as its own mini-chunk; successful extractions replace placeholders; gaps checked again
+- **Monitoring**: Writes `processed/northern_argus_live_progress.json` after every chunk with timing and type counts
+
+Output JSONs are under `processed/`. After completion, consolidate to `northern_argus_records_final.json` for site generation.
+
 ## 👥 Target Audiences
 
 ### 🔬 **Researchers & Academics**
@@ -230,3 +275,9 @@ For questions about this digital archive or the original research, please:
 ---
 
 **This archive stands as a testament to the power of dedicated historical scholarship and the importance of preserving community heritage for future generations.**
+
+## 🔐 Security and API Keys
+
+- Do not commit API keys. The project's `.gitignore` excludes `config.json` globally, which covers `scripts/config.json`.
+- Keep API keys only in local, ignored files (or environment variables).
+- If a key was ever committed previously, rotate it.

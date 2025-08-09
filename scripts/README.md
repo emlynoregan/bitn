@@ -10,21 +10,26 @@ This script automates the processing of the Northern Argus historical newspaper 
    ```
 
 2. **Configure API key:**
-   Edit `config.json` and replace `"your-openai-api-key-here"` with your actual OpenAI API key.
+   - Copy the example config and edit it locally (note: `config.json` is gitignored):
+     ```bash
+     cp scripts/config.example.json scripts/config.json
+     ```
+   - Open `scripts/config.json` and set `openai_api_key`.
+   - Optional: You can also provide the key via environment variable (e.g., `OPENAI_API_KEY`) if your environment supports it.
 
 3. **Run the processor:**
    ```bash
-   python process_northern_argus.py
+   python run_processor.py
    ```
 
 ## Configuration
 
-Edit `config.json` to adjust settings:
+Edit `config.json` to adjust settings (defaults shown):
 
 - `model`: OpenAI model to use (recommended: `gpt-4o-mini`)
-- `chunk_size`: Lines per chunk (default: 250)
-- `overlap_size`: Overlap between chunks (default: 50)
-- `max_tokens`: Maximum response tokens (default: 4000)
+- `chunk_size`: Lines per chunk (default: 80)
+- `overlap_size`: Overlap between chunks (default: 20)
+- `max_tokens`: Maximum response tokens (default: 16000)
 - `temperature`: Creativity setting (default: 0.1 for consistency)
 
 ## Model Recommendation: GPT-4o-mini
@@ -43,23 +48,23 @@ Edit `config.json` to adjust settings:
 
 ## Output
 
-The script creates several files in the `processed/` folder:
+The script creates files in the `processed/` folder:
 
-- `northern_argus_live_progress.json` - **LIVE MONITORING FILE** - Updated after every chunk with all records so far
-- `northern_argus_chunk_XXX_YYYYMMDD_HHMMSS.json` - Individual chunk results (saved periodically)
-- `northern_argus_progress_YYYYMMDD_HHMMSS.json` - Cumulative progress saves (saved periodically)
-- `northern_argus_complete_YYYYMMDD_HHMMSS.json` - Final complete results
+- `northern_argus_live_progress.json` — live cumulative results, updated after each chunk (includes timing and type counts)
+- `northern_argus_records_00N.json` — incremental snapshots per run
+- `northern_argus_records_final.json` — consolidated final output (recommended to export at completion)
 
 **💡 Tip**: Open `northern_argus_live_progress.json` in your editor to watch records being added in real-time!
 
 ## Features
 
-- **Overlap handling**: Prevents missing records at chunk boundaries
-- **Duplicate detection**: Uses previous records to avoid duplicates
-- **Progress saving**: Saves every 5 chunks in case of interruption
-- **Error handling**: Continues processing even if individual chunks fail
-- **Statistics**: Provides summary of extracted records by type and date range
-- **Rate limiting**: Built-in delays to respect API limits
+- **Dynamic chunking (forward-only)**: Advances based on last processed source line
+- **Deterministic record IDs**: `northern_argus_<source_line_start>`
+- **Deduplication**: Newer records overwrite older duplicates
+- **Gap filling**: Inserts `uncategorized` records for missed content
+- **Focused reprocessing**: Re-runs each `uncategorized` block as a mini-chunk and replaces if extraction succeeds
+- **Live monitoring**: Writes progress JSON with timing and article-type counts after every chunk
+- **Fail-fast JSON handling**: Aborts on invalid JSON to prevent silent data loss
 
 ## Monitoring
 
