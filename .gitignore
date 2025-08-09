@@ -86,3 +86,6 @@ netlify.toml
 
 config.json
 /processed/runs/
+# Persist chunk outputs locally but optional to track specific files
+/processed/chunks/
+!/processed/chunks/.gitkeep

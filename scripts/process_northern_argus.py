@@ -29,6 +29,87 @@ class NorthernArgusProcessor:
         self.all_records = []
         self.chunk_count = 0
         self.source_lines = []  # Store source lines for gap filling
+        self.supports_temperature = True
+        # Verify model availability up-front to avoid wasted retries
+        self.verify_model_available()
+    
+    def create_chat_completion(self, messages: List[Dict[str, str]], temperature: float, max_tokens: int):
+        """Create a chat completion with compatibility handling for models that require
+        'max_completion_tokens' instead of 'max_tokens'."""
+        try:
+            kwargs = {
+                "model": self.config["model"],
+                "messages": messages,
+            }
+            # Only include temperature if supported and provided
+            if self.supports_temperature and temperature is not None:
+                kwargs["temperature"] = temperature
+            # Prefer max_tokens; if not supported, we'll retry below
+            kwargs["max_tokens"] = max_tokens
+            return self.client.chat.completions.create(**kwargs)
+        except Exception as e:
+            err_text = str(e)
+            if "max_tokens" in err_text and "not supported" in err_text:
+                # Retry with max_completion_tokens for newer models
+                kwargs = {
+                    "model": self.config["model"],
+                    "messages": messages,
+                    "max_completion_tokens": max_tokens,
+                }
+                if self.supports_temperature and temperature is not None:
+                    kwargs["temperature"] = temperature
+                return self.client.chat.completions.create(**kwargs)
+            if ("temperature" in err_text and ("unsupported" in err_text.lower() or "Only the default" in err_text)):
+                # Temperature not supported or only default allowed. Disable temperature and retry once.
+                self.supports_temperature = False
+                kwargs = {
+                    "model": self.config["model"],
+                    "messages": messages,
+                }
+                # Use whichever token kw the model accepts
+                token_key = "max_tokens"
+                if "max_tokens" in err_text and "not supported" in err_text:
+                    token_key = "max_completion_tokens"
+                kwargs[token_key] = max_tokens
+                return self.client.chat.completions.create(**kwargs)
+            raise
+
+    def verify_model_available(self) -> None:
+        """Perform a tiny request to check that the configured model exists and is accessible.
+        Exits the program with a clear message if the model is not available.
+        """
+        try:
+            # Try with temperature first to probe support
+            _ = self.create_chat_completion(
+                messages=[
+                    {"role": "system", "content": "Health check"},
+                    {"role": "user", "content": "ping"}
+                ],
+                temperature=0.7,
+                max_tokens=1,
+            )
+        except Exception as e:
+            err_text = str(e)
+            if ("model_not_found" in err_text) or ("does not exist" in err_text) or ("do not have access" in err_text):
+                print(f"❌ The configured model '{self.config['model']}' is not available on this API key.")
+                print("   Please update scripts/config.json to a supported model (e.g., 'gpt-4o-mini').")
+                sys.exit(1)
+            # If temperature is not supported, set flag and retry once without it
+            if ("temperature" in err_text and ("unsupported" in err_text.lower() or "Only the default" in err_text)):
+                self.supports_temperature = False
+                try:
+                    _ = self.create_chat_completion(
+                        messages=[
+                            {"role": "system", "content": "Health check"},
+                            {"role": "user", "content": "ping"}
+                        ],
+                        temperature=None,
+                        max_tokens=1,
+                    )
+                except Exception:
+                    # Defer other errors to runtime handling
+                    pass
+            # Other errors should surface normally later; don't exit here
         
     def load_config(self, config_path: str) -> Dict[str, Any]:
         """Load configuration from JSON file"""
@@ -312,8 +393,7 @@ Use these line numbers for accurate source_line_start and source_line_end values
 Process this chunk according to the instructions and return a JSON array of records for all content you find."""
 
         try:
-            response = self.client.chat.completions.create(
-                model=self.config["model"],
+            response = self.create_chat_completion(
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
@@ -372,9 +452,10 @@ Process this chunk according to the instructions and return a JSON array of reco
                 start = chunks[-1]["start"] + 1
         return chunks
 
-    def process_document_per_chunk(self, doc_path: str, output_root: str = "processed/runs"):
+    def process_document_per_chunk(self, doc_path: str, output_root: str = None):
         """Process each top-level chunk independently with retries, writing one file per chunk.
         Retries vary temperature until valid JSON is returned.
+        Uses a single persistent output directory so processing can be stopped/restarted safely.
         """
         print(f"🚀 Per-chunk processing with {self.config['model']}")
         print(f"📁 Document: {doc_path}")
@@ -384,16 +465,31 @@ Process this chunk according to the instructions and return a JSON array of reco
         self.source_lines = lines
         total_lines = len(lines)
 
-        # Prepare run directory
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        run_dir = Path(output_root) / f"run_{timestamp}"
+        # Prepare persistent output directory
+        output_dir = self.config.get("output_directory", "processed/chunks")
+        run_dir = Path(output_root) if output_root else Path(output_dir)
         run_dir.mkdir(parents=True, exist_ok=True)
 
-        # Manifest to track attempts and status
+        # Manifest to track attempts and status (persisted)
+        manifest_path = run_dir / "manifest.json"
         manifest = {"document": doc_path, "total_lines": total_lines, "chunks": []}
+        if manifest_path.exists():
+            try:
+                with open(manifest_path, "r", encoding="utf-8") as mf:
+                    prev = json.load(mf)
+                    if isinstance(prev, dict):
+                        manifest.update({k: v for k, v in prev.items() if k != "chunks"})
+                        if isinstance(prev.get("chunks"), list):
+                            manifest["chunks"] = prev["chunks"]
+            except Exception:
+                pass
 
         chunks = self.split_into_chunks(total_lines, self.config["chunk_size"], self.config["overlap_size"])
-        retry_temps = self.config.get("retry_temperatures", [self.config.get("temperature", 0.1), 0.2, 0.0, 0.3])
+        # Determine retry temperatures. If the model does not support temperature, disable it entirely
+        if self.supports_temperature:
+            retry_temps = self.config.get("retry_temperatures", [self.config.get("temperature", 0.1), 0.2, 0.0, 0.3])
+        else:
+            retry_temps = [None]
         max_workers = int(self.config.get("max_concurrency", 4))
         max_retries = int(self.config.get("max_retries", 10))
 
@@ -406,16 +502,39 @@ Process this chunk according to the instructions and return a JSON array of reco
             records: List[Dict[str, Any]] = []
             temp_used = self.config.get("temperature", 0.1)
             last_error: str = ""
+            # Stable filenames based on line range
+            out_file = run_dir / f"chunk_{start_line}-{end_line}.json"
+            err_file = run_dir / f"chunk_{start_line}-{end_line}.error.txt"
+
+            # Skip if already processed (output exists)
+            if out_file.exists() and bool(self.config.get("skip_existing", True)):
+                try:
+                    with open(out_file, "r", encoding="utf-8") as f:
+                        existing = json.load(f)
+                        existing_count = len(existing) if isinstance(existing, list) else 0
+                except Exception:
+                    existing_count = 0
+                return {
+                    "index": idx,
+                    "start": start_line,
+                    "end": end_line,
+                    "attempts": 0,
+                    "temperature_used": None,
+                    "file": out_file.name,
+                    "status": "skipped",
+                    "record_count": existing_count,
+                }
             while not success and attempt < max_retries:
                 temp_used = retry_temps[attempt % len(retry_temps)]
                 attempt += 1
-                print(f"   🔁 [chunk {idx:03d} {start_line}-{end_line}] Attempt {attempt} temp={temp_used}")
+                temp_label = ("n/a" if (temp_used is None or not self.supports_temperature) else f"{temp_used}")
+                print(f"   🔁 [chunk {idx:03d} {start_line}-{end_line}] Attempt {attempt} temp={temp_label}")
                 try:
                     records = self.process_chunk(
                         chunk_lines,
                         start_line,
                         end_line,
-                        temperature_override=temp_used,
+                        temperature_override=(None if not self.supports_temperature else temp_used),
                         fail_fast=False,
                     )
                     success = True
@@ -425,19 +544,21 @@ Process this chunk according to the instructions and return a JSON array of reco
                     time.sleep(1)
                     continue
                 except Exception as e:
-                    last_error = f"{type(e).__name__}: {e}"
+                    err_text = f"{type(e).__name__}: {e}"
+                    last_error = err_text
                     print(f"      ↪️  Retry reason: {last_error}")
+                    # Stop retrying immediately if model is unavailable
+                    if "model_not_found" in err_text or "does not exist" in err_text or "do not have access" in err_text:
+                        break
                     time.sleep(1)
                     continue
 
             # Write per-chunk file
-            out_file = run_dir / f"chunk_{idx:03d}_{start_line}-{end_line}.json"
             if success:
                 with open(out_file, "w", encoding="utf-8") as f:
                     json.dump(records or [], f, indent=2, ensure_ascii=False)
             else:
                 # Record failure marker file for inspection
-                err_file = run_dir / f"chunk_{idx:03d}_{start_line}-{end_line}.error.txt"
                 with open(err_file, "w", encoding="utf-8") as ef:
                     ef.write(f"Failed after {attempt} attempts. Last error: {last_error}\n")
                 print(f"   🚫 [chunk {idx:03d} {start_line}-{end_line}] Giving up after {attempt} attempts. Last error: {last_error}")
@@ -471,11 +592,13 @@ Process this chunk according to the instructions and return a JSON array of reco
                     completed += 1
                     if meta.get("status") == "ok":
                         print(f"✅ Completed chunk {idx:03d} ({completed}/{total})")
+                    elif meta.get("status") == "skipped":
+                        print(f"⏭️  Skipped chunk {idx:03d} ({completed}/{total}) — already processed")
                     else:
                         failures += 1
                         print(f"❌ Failed chunk {idx:03d} after {meta.get('attempts')} attempts ({completed}/{total})")
                     # Save manifest incrementally from main thread
-                    with open(run_dir / "manifest.json", "w", encoding="utf-8") as mf:
+                    with open(manifest_path, "w", encoding="utf-8") as mf:
                         json.dump(manifest, mf, indent=2, ensure_ascii=False)
                 except Exception as e:
                     print(f"⚠️ Chunk {idx:03d} failed unexpectedly: {e}")

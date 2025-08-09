@@ -6,8 +6,10 @@
   "chunk_size": 80,
   "overlap_size": 20,
   "retry_temperatures": [0.1, 0.2, 0.0, 0.3],
-  "max_concurrency": 4,
-  "max_retries": 10
+  "max_concurrency": 10,
+  "max_retries": 10,
+  "output_directory": "processed/chunks",
+  "skip_existing": true
 }
 
 
