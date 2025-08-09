@@ -65,15 +65,18 @@ def main():
     # Import and run the processor
     print("\n" + "=" * 50)
     try:
-        from process_archive import ArchiveDocumentProcessor
+        from process_archive import ArchiveDocumentProcessor, slugify_prefix_from_path
 
         processor = ArchiveDocumentProcessor()
         # Pick document from CLI if provided, otherwise use a default
         doc_path = sys.argv[1] if len(sys.argv) > 1 else "archive/markdown/1985-87_Northern__Argus.md"
+        # Direct chunks into a per-document folder to avoid collisions
+        slug = slugify_prefix_from_path(doc_path)
+        output_root = f"processed/chunks/{slug}"
 
         # Per-chunk mode with retries (default and only mode)
         print("ℹ️ Per-chunk mode with retries")
-        processor.process_document_per_chunk(doc_path)
+        processor.process_document_per_chunk(doc_path, output_root=output_root)
 
         print("\n🎉 Processing completed!")
         print("📁 Check the 'processed/' folder for results.")
