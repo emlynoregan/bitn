@@ -89,3 +89,6 @@ config.json
 # Persist chunk outputs locally but optional to track specific files
 /processed/chunks/
 !/processed/chunks/.gitkeep
+## New pass folders (exclude entire outputs)
+/processed/northern_argus_pass_01/
+/processed/northern_argus_pass_02/
