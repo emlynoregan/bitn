@@ -62,39 +62,27 @@ def main():
     """Main launcher"""
     print("🚀 Northern Argus Document Processor Launcher")
     print("=" * 50)
-    
+
     if not check_setup():
         print("\n❌ Setup check failed. Please fix the issues above.")
         sys.exit(1)
-    
+
     print("\n🎯 Starting processing...")
-    print("📋 This will:")
-    print("   • Process the full Northern Argus document (3,331 lines)")
-    print("   • Extract ~150-200 individual records")
-    print("   • Cost approximately $2-5 in OpenAI API calls")
-    print("   • Take 10-20 minutes to complete")
-    
-    # Ask for confirmation
-    try:
-        response = input("\n❓ Continue? [y/N]: ").strip().lower()
-        if response not in ['y', 'yes']:
-            print("🛑 Processing cancelled.")
-            sys.exit(0)
-    except KeyboardInterrupt:
-        print("\n🛑 Processing cancelled.")
-        sys.exit(0)
-    
-    # Import and run the main processor
+    # Import and run the processor
     print("\n" + "=" * 50)
     try:
         from process_northern_argus import NorthernArgusProcessor
-        
+
         processor = NorthernArgusProcessor()
-        processor.process_document("archive/markdown/1985-87_Northern__Argus.md")
-        
-        print("\n🎉 Processing completed successfully!")
+        doc_path = "archive/markdown/1985-87_Northern__Argus.md"
+
+        # Per-chunk mode with retries (default and only mode)
+        print("ℹ️ Per-chunk mode with retries")
+        processor.process_document_per_chunk(doc_path)
+
+        print("\n🎉 Processing completed!")
         print("📁 Check the 'processed/' folder for results.")
-        
+
     except KeyboardInterrupt:
         print("\n🛑 Processing interrupted by user.")
         sys.exit(1)

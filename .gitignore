@@ -85,3 +85,4 @@ netlify.toml
 *.orig
 
 config.json
+/processed/runs/

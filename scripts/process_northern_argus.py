@@ -13,6 +13,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 import time
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 try:
     from openai import OpenAI
@@ -35,6 +36,14 @@ class NorthernArgusProcessor:
             with open(config_path, 'r') as f:
                 config = json.load(f)
             
+            # Allow environment overrides for key and model
+            env_key = os.environ.get("OPENAI_API_KEY")
+            if env_key:
+                config["openai_api_key"] = env_key
+            env_model = os.environ.get("OPENAI_MODEL")
+            if env_model:
+                config["model"] = env_model
+
             if config["openai_api_key"] == "your-openai-api-key-here":
                 print("ERROR: Please set your OpenAI API key in scripts/config.json")
                 sys.exit(1)
@@ -261,8 +270,22 @@ class NorthernArgusProcessor:
         
         return reprocessed_count
     
-    def process_chunk(self, chunk_lines: List[str], start_line: int, end_line: int) -> List[Dict[str, Any]]:
-        """Process a single chunk using OpenAI API"""
+    def process_chunk(
+        self,
+        chunk_lines: List[str],
+        start_line: int,
+        end_line: int,
+        temperature_override: float = None,
+        fail_fast: bool = True,
+    ) -> List[Dict[str, Any]]:
+        """Process a single chunk using OpenAI API.
+        
+        Parameters:
+            chunk_lines: The raw lines of the chunk
+            start_line, end_line: 1-indexed inclusive bounds in the source document
+            temperature_override: Optional temperature to use for this call
+            fail_fast: If True, exit on JSON errors; if False, raise to allow retries
+        """
         # Add explicit line numbers to help LLM understand positioning
         numbered_lines = []
         for i, line in enumerate(chunk_lines):
@@ -296,7 +319,7 @@ Process this chunk according to the instructions and return a JSON array of reco
                     {"role": "user", "content": user_prompt}
                 ],
                 max_tokens=self.config["max_tokens"],
-                temperature=self.config["temperature"]
+                temperature=(self.config["temperature"] if temperature_override is None else temperature_override)
             )
             
             content = response.choices[0].message.content.strip()
@@ -318,35 +341,182 @@ Process this chunk according to the instructions and return a JSON array of reco
                 
                 return records
             except json.JSONDecodeError as e:
-                print(f"❌ FATAL: Chunk {self.chunk_count + 1} returned invalid JSON: {e}")
-                print(f"Response length: {len(content)} characters")
-                print(f"Max tokens configured: {self.config['max_tokens']}")
-                print(f"Chunk size: {self.config['chunk_size']} lines")
-                print(f"Content start: {content[:100]}...")
-                print(f"Content end: ...{content[-100:]}")
-                
-                # Check if this looks like truncation
-                if "Unterminated string" in str(e) or (content.strip().startswith('[') and not content.strip().endswith(']')):
-                    print("\n🔥 CRITICAL ERROR: Response truncated due to token limit!")
-                    print("📋 This means DATA LOSS - some records will be missing from the final output.")
-                    print("🛑 Terminating immediately to prevent incomplete extraction.")
-                    print("\n💡 REQUIRED FIXES:")
-                    print("   1. Increase max_tokens in config.json (try 20000+)")
-                    print("   2. Decrease chunk_size in config.json (try 50-60)")
-                    print("   3. Or upgrade to gpt-4o (larger context window)")
-                    print("\nNo data recovery attempted - fix config and restart.")
+                # Detailed diagnostics
+                print(f"❌ JSON error in chunk {self.chunk_count + 1} ({start_line}-{end_line}): {e}")
+                print(f"Response length: {len(content)} chars | Max tokens: {self.config['max_tokens']}")
+                print(f"Content start: {content[:100]}... | end: ...{content[-100:]}")
+                if fail_fast:
+                    # Preserve previous fail-fast behavior
                     sys.exit(1)
-                
-                # For other JSON errors, also fail fast 
-                print("\n🔥 CRITICAL ERROR: Invalid JSON response format!")
-                print("This indicates a prompt or model issue.")
-                print("🛑 Terminating to avoid data loss.")
-                sys.exit(1)
+                # Allow caller to retry with explicit reason
+                raise ValueError(f"INVALID_JSON_RESPONSE: {e}")
                 
         except Exception as e:
-            print(f"❌ FATAL: Unexpected error processing chunk {self.chunk_count + 1}: {e}")
-            print("🛑 Terminating to prevent data loss.")
+            if fail_fast:
+                print(f"❌ FATAL: Unexpected error processing chunk {self.chunk_count + 1}: {e}")
+                print("🛑 Terminating to prevent data loss.")
+                sys.exit(1)
+            raise
+
+    def split_into_chunks(self, total_lines: int, chunk_size: int, overlap_size: int) -> List[Dict[str, int]]:
+        """Pre-split the document into top-level chunks with overlap.
+        Returns a list of dicts with start_line and end_line (1-indexed, inclusive)."""
+        chunks = []
+        start = 1
+        while start <= total_lines:
+            end = min(start + chunk_size - 1, total_lines)
+            chunks.append({"start": start, "end": end})
+            # Next start accounts for overlap
+            start = end - overlap_size + 1
+            if start <= chunks[-1]["start"]:
+                start = chunks[-1]["start"] + 1
+        return chunks
+
+    def process_document_per_chunk(self, doc_path: str, output_root: str = "processed/runs"):
+        """Process each top-level chunk independently with retries, writing one file per chunk.
+        Retries vary temperature until valid JSON is returned.
+        """
+        print(f"🚀 Per-chunk processing with {self.config['model']}")
+        print(f"📁 Document: {doc_path}")
+        print(f"🔧 Chunk size: {self.config['chunk_size']} | Overlap: {self.config['overlap_size']}")
+
+        lines = self.load_document(doc_path)
+        self.source_lines = lines
+        total_lines = len(lines)
+
+        # Prepare run directory
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        run_dir = Path(output_root) / f"run_{timestamp}"
+        run_dir.mkdir(parents=True, exist_ok=True)
+
+        # Manifest to track attempts and status
+        manifest = {"document": doc_path, "total_lines": total_lines, "chunks": []}
+
+        chunks = self.split_into_chunks(total_lines, self.config["chunk_size"], self.config["overlap_size"])
+        retry_temps = self.config.get("retry_temperatures", [self.config.get("temperature", 0.1), 0.2, 0.0, 0.3])
+        max_workers = int(self.config.get("max_concurrency", 4))
+        max_retries = int(self.config.get("max_retries", 10))
+
+        print(f"🧵 Concurrency: {max_workers} workers")
+
+        def worker(idx: int, start_line: int, end_line: int) -> Dict[str, Any]:
+            chunk_lines = lines[start_line - 1:end_line]
+            attempt = 0
+            success = False
+            records: List[Dict[str, Any]] = []
+            temp_used = self.config.get("temperature", 0.1)
+            last_error: str = ""
+            while not success and attempt < max_retries:
+                temp_used = retry_temps[attempt % len(retry_temps)]
+                attempt += 1
+                print(f"   🔁 [chunk {idx:03d} {start_line}-{end_line}] Attempt {attempt} temp={temp_used}")
+                try:
+                    records = self.process_chunk(
+                        chunk_lines,
+                        start_line,
+                        end_line,
+                        temperature_override=temp_used,
+                        fail_fast=False,
+                    )
+                    success = True
+                except ValueError as e:
+                    last_error = str(e)
+                    print(f"      ↪️  Retry reason: {last_error}")
+                    time.sleep(1)
+                    continue
+                except Exception as e:
+                    last_error = f"{type(e).__name__}: {e}"
+                    print(f"      ↪️  Retry reason: {last_error}")
+                    time.sleep(1)
+                    continue
+
+            # Write per-chunk file
+            out_file = run_dir / f"chunk_{idx:03d}_{start_line}-{end_line}.json"
+            if success:
+                with open(out_file, "w", encoding="utf-8") as f:
+                    json.dump(records or [], f, indent=2, ensure_ascii=False)
+            else:
+                # Record failure marker file for inspection
+                err_file = run_dir / f"chunk_{idx:03d}_{start_line}-{end_line}.error.txt"
+                with open(err_file, "w", encoding="utf-8") as ef:
+                    ef.write(f"Failed after {attempt} attempts. Last error: {last_error}\n")
+                print(f"   🚫 [chunk {idx:03d} {start_line}-{end_line}] Giving up after {attempt} attempts. Last error: {last_error}")
+
+            return {
+                "index": idx,
+                "start": start_line,
+                "end": end_line,
+                "attempts": attempt,
+                "temperature_used": temp_used,
+                "file": out_file.name if success else None,
+                "status": "ok" if success else "failed",
+                "record_count": len(records or []),
+            }
+
+        # Dispatch all chunks concurrently
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_idx = {
+                executor.submit(worker, idx, ch["start"], ch["end"]): idx
+                for idx, ch in enumerate(chunks, start=1)
+            }
+
+            completed = 0
+            total = len(chunks)
+            failures = 0
+            for future in as_completed(future_to_idx):
+                idx = future_to_idx[future]
+                try:
+                    meta = future.result()
+                    manifest["chunks"].append(meta)
+                    completed += 1
+                    if meta.get("status") == "ok":
+                        print(f"✅ Completed chunk {idx:03d} ({completed}/{total})")
+                    else:
+                        failures += 1
+                        print(f"❌ Failed chunk {idx:03d} after {meta.get('attempts')} attempts ({completed}/{total})")
+                    # Save manifest incrementally from main thread
+                    with open(run_dir / "manifest.json", "w", encoding="utf-8") as mf:
+                        json.dump(manifest, mf, indent=2, ensure_ascii=False)
+                except Exception as e:
+                    print(f"⚠️ Chunk {idx:03d} failed unexpectedly: {e}")
+
+        print(f"\n🎉 All chunks processed. Output directory: {run_dir}")
+        # Summary of failures
+        failed_chunks = [c for c in manifest.get("chunks", []) if c.get("status") == "failed"]
+        if failed_chunks:
+            print(f"⚠️ {len(failed_chunks)} chunks failed after {max_retries} retries. See .error.txt files in the run directory.")
+        print("ℹ️ You can merge this run later to produce a consolidated file.")
+
+    def merge_run_directory(self, run_dir: str, output_file: str = None):
+        """Merge all per-chunk files from a run directory using normal dedup/order logic."""
+        run_path = Path(run_dir)
+        if not run_path.exists():
+            print(f"❌ Run directory not found: {run_dir}")
             sys.exit(1)
+
+        # Reset current records
+        self.all_records = []
+
+        chunk_files = sorted(run_path.glob("chunk_*.json"))
+        for cf in chunk_files:
+            try:
+                with open(cf, "r", encoding="utf-8") as f:
+                    recs = json.load(f)
+                    if isinstance(recs, list) and recs:
+                        self.merge_records(recs)
+            except Exception as e:
+                print(f"⚠️ Skipping {cf.name}: {e}")
+
+        if output_file is None:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_file = run_path / f"merged_{timestamp}.json"
+        else:
+            output_file = Path(output_file)
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(self.all_records, f, indent=2, ensure_ascii=False)
+
+        print(f"✅ Merged {len(chunk_files)} chunks → {output_file}")
     
     def save_intermediate_progress(self):
         """Save current progress to a live monitoring file"""
