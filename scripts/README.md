@@ -17,37 +17,38 @@ This folder contains the tooling to transform the original archive documents int
    - Open `scripts/config.json` and set `openai_api_key`.
    - Optional: You can also provide the key via environment variable (e.g., `OPENAI_API_KEY`) if your environment supports it.
 
-3. **Run the processor (Pass 1–2):**
+3. **Run the processor (Pass 1 – per-chunk extraction):**
    ```powershell
-python .\scripts\run_processor.py archive\markdown\1985-87_Northern__Argus.md
+python .\scripts\run_processor.py archive\markdown\<YOUR_SOURCE>.md
    ```
-   - Per-chunk mode with retries and concurrency (generic for any source file)
-   - Outputs chunk files to `processed/chunks/`
-   - You can rerun safely; existing chunk files are skipped
+   - Generic for any source file; preflight model check and retries on JSON errors
+   - Outputs chunk files to `processed/<slug>_pass_01/` (slug from filename, e.g. `1845_76_sa_register`)
+   - Safe to rerun; existing chunk files are skipped when `skip_existing` is true
 
-4. **Merge and dedupe (Pass 3):**
+4. **Backfill header metadata (Pass 2):**
    ```powershell
-python .\scripts\merge_pass.py
+python .\scripts\backfill_chunk_metadata.py processed\<slug>_pass_01 processed\<slug>_pass_02
    ```
-   - Reads `processed/northern_argus_pass_02/*` (or adjust) and writes 
-     `processed/northern_argus_pass_03/merged.json` with deduplication by (kind,start) and quality preference
+   - Derives header anchors from chunk outputs and propagates `date`/`volume`/`issue_number`/`page`
 
-5. **Gap-fill and reprocess uncategorized (Pass 4):**
+5. **Merge and dedupe (Pass 3):**
    ```powershell
-python .\scripts\process_pass4.py
+python .\scripts\merge_pass.py processed\<slug>_pass_02 processed\<slug>_pass_03\merged.json
    ```
-   - Loads Pass 3 merged, fills textual gaps as `uncategorized`, reprocesses them with focused LLM calls, fills any new gaps, and writes `processed/northern_argus_pass_04/merged.json`
-   - Backfill missing header metadata from nearest header anchors:
+   - Deduplicates by `(record_kind, source_line_start)` with a quality score heuristic
+
+6. **Gap-fill and reprocess uncategorized (Pass 4):**
+   ```powershell
+python .\scripts\process_pass4.py processed\<slug>_pass_03\merged.json archive\markdown\<YOUR_SOURCE>.md processed\<slug>_pass_04
+   ```
+   - Fills gaps, reprocesses `uncategorized` mini-chunks, writes `processed/<slug>_pass_04/merged.json`
+   - Backfill merged header metadata (and build `issue_reference`):
      ```powershell
-python .\scripts\backfill_merged_metadata.py
+python .\scripts\backfill_merged_metadata.py processed\<slug>_pass_04\merged.json processed\<slug>_pass_04\merged.backfilled.json
      ```
-   - Normalize IDs to include kind: `northern_argus_<kind>_<start>`:
+   - QA report (recommended):
      ```powershell
-python .\scripts\normalize_record_ids.py
-     ```
-   - QA report (optional but recommended):
-     ```powershell
-python .\scripts\qa_report.py
+python .\scripts\qa_report.py processed\<slug>_pass_04\merged.backfilled.json archive\markdown\<YOUR_SOURCE>.md
      ```
      Writes `qa_report.json` and `qa_report.txt` in Pass 4 folder
 
@@ -72,14 +73,14 @@ We recommend a small GPT-5 variant for higher accuracy and JSON reliability:
 
 You can set `OPENAI_MODEL=gpt5-mini` or `OPENAI_MODEL=gpt5-nano` to override.
 
-## Outputs & Folders
+## Outputs & Folders (per document)
 
-- `processed/chunks/` — per-chunk extractions (idempotent)
-- `processed/northern_argus_pass_01/` — snapshot (optional)
-- `processed/northern_argus_pass_02/` — snapshot (optional)
-- `processed/northern_argus_pass_03/merged.json` — merged and deduped
-- `processed/northern_argus_pass_04/merged.json` — gap-filled, reprocessed, backfilled; canonical for the site
-- `processed/northern_argus_pass_04/qa_report.*` — quality summary
+- `processed/<slug>_pass_01/` — per-chunk extractions
+- `processed/<slug>_pass_02/` — backfilled per-chunk outputs
+- `processed/<slug>_pass_03/merged.json` — merged and deduped
+- `processed/<slug>_pass_04/merged.json` — gap-filled + reprocessed
+- `processed/<slug>_pass_04/merged.backfilled.json` — final backfilled output
+- `processed/<slug>_pass_04/qa_report.*` — quality summary
 
 ## Features
 
@@ -108,21 +109,20 @@ p.merge_run_directory('processed/runs/run_YYYYMMDD_HHMMSS')
 
 ## Populate the Hugo Site
 
-After Pass 4, generate record pages and search index:
+After Pass 4, for each dataset you want included in the site/search:
 
 ```powershell
-python .\scripts\generate_hugo_records.py
+python .\scripts\generate_hugo_records.py processed\<slug>_pass_04\merged.backfilled.json
 ```
 
-This creates:
-- `site/content/records/_index.md` and one page per content record
-- `site/static/js/search-data.json` for Lunr search
-- Copies archive `.md` files to `site/static/downloads/markdown/` so record pages can link source downloads
+Notes:
+- The generator merges into `site/static/js/search-data.json` (dedup by URL), so running it multiple times appends additional datasets.
+- Front matter `date` is only set when ISO-formatted; non-ISO dates go to `date_display` and are shown in the UI.
 
 Start Hugo locally:
 
 ```powershell
-hugo serve --config site/config.development.yaml --contentDir site/content --themesDir site/themes --staticDir site/static --baseURL http://localhost:1313/
+hugo serve -s site
 ```
 
-Navigate to `/search` and try queries like “Redruth”; results link to `/records/<record_id>/` detail pages with download links and friendly dates.
+Then open `/search`. Hard refresh (Ctrl+F5) if results look stale.
