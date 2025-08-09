@@ -411,8 +411,10 @@ Process this chunk according to the instructions and return a JSON array of reco
                     print(f"WARNING: Chunk {self.chunk_count + 1} returned non-list: {type(records)}")
                     return []
                 
-                # Add record_id to each record based on source_line_start
+                # Add record_kind default and record_id
                 for record in records:
+                    if not record.get("record_kind"):
+                        record["record_kind"] = "content"
                     source_line_start = record.get("source_line_start")
                     if source_line_start:
                         record["record_id"] = f"northern_argus_{source_line_start}"
@@ -484,7 +486,8 @@ Process this chunk according to the instructions and return a JSON array of reco
             except Exception:
                 pass
 
-        chunks = self.split_into_chunks(total_lines, self.config["chunk_size"], self.config["overlap_size"])
+        # Increase overlap as configured for header capture
+        chunks = self.split_into_chunks(total_lines, self.config["chunk_size"], max(self.config["overlap_size"], int(self.config.get("overlap_size_boost", 30))))
         # Determine retry temperatures. If the model does not support temperature, disable it entirely
         if self.supports_temperature:
             retry_temps = self.config.get("retry_temperatures", [self.config.get("temperature", 0.1), 0.2, 0.0, 0.3])
