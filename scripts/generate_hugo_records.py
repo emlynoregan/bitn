@@ -19,6 +19,7 @@ import shutil
 import sys
 from pathlib import Path
 from typing import Any, Dict, List
+import re
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -41,6 +42,21 @@ def build_permalink(record_id: str) -> str:
 def excerpt(text: str, length: int = 200) -> str:
     t = " ".join(text.split())
     return t[:length] + ("…" if len(t) > length else "")
+
+
+def slugify_from_source_document(source_document: str) -> str:
+    """Create a stable slug prefix from a source document filename.
+    Example: '1845-76_SA_Register.md' -> '1845_76_sa_register'
+    """
+    name = Path(source_document).stem if source_document else "record"
+    s = re.sub(r"[^A-Za-z0-9]+", "_", name).strip("_")
+    return s.lower() or "record"
+
+
+def is_iso_date(value: Any) -> bool:
+    if not isinstance(value, str):
+        return False
+    return re.match(r"^\d{4}-\d{2}-\d{2}$", value) is not None
 
 
 def main():
@@ -84,18 +100,25 @@ This section contains individual records (articles, notices, letters, etc.) extr
         record_id = r.get("record_id")
         if not record_id:
             start = r.get("source_line_start") or "unknown"
-            record_id = f"northern_argus_content_{start}"
+            prefix = slugify_from_source_document(r.get("source_document") or "")
+            record_id = f"{prefix}_content_{start}"
         permalink = build_permalink(record_id)
         headline = meta.get("headline") or excerpt(r.get("original_text") or "")
 
         # Write content file
+        # Normalize date: Hugo requires parsable date in front matter; move non-ISO to separate field
+        date_val = meta.get("date")
+        hugo_date = date_val if is_iso_date(date_val) else None
+        date_display = date_val if not is_iso_date(date_val) else None
+
         fm = {
             "title": headline,
             "type": "records",
             "slug": record_id,
             "url": permalink,
             "record_id": record_id,
-            "date": meta.get("date"),
+            "date": hugo_date,
+            "date_display": date_display,
             "volume": meta.get("volume"),
             "issue_number": meta.get("issue_number"),
             "page": meta.get("page"),
@@ -122,6 +145,7 @@ This section contains individual records (articles, notices, letters, etc.) extr
         md_path.write_text(as_yaml_front_matter(fm) + "\n".join(body_lines) + "\n", encoding="utf-8")
 
         # Add to search index
+        prefix = slugify_from_source_document(r.get("source_document") or "")
         search_items.append({
             "title": headline,
             "url": permalink,
@@ -133,11 +157,32 @@ This section contains individual records (articles, notices, letters, etc.) extr
             ]).strip(),
             "date": meta.get("date"),
             "type": meta.get("article_type"),
+            "source": prefix,
         })
 
-    SEARCH_DATA.write_text(json.dumps(search_items, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Merge with existing search data if present (append + dedupe by URL)
+    merged_items: List[Dict[str, Any]] = []
+    if SEARCH_DATA.exists():
+        try:
+            existing = json.loads(SEARCH_DATA.read_text(encoding="utf-8"))
+            if isinstance(existing, list):
+                merged_items = existing
+        except Exception:
+            merged_items = []
+    # Append new items and dedupe by URL (new wins)
+    by_url: Dict[str, Dict[str, Any]] = {}
+    for it in merged_items:
+        url = it.get("url")
+        if url:
+            by_url[url] = it
+    for it in search_items:
+        url = it.get("url")
+        if url:
+            by_url[url] = it
+    final_list = list(by_url.values())
+    SEARCH_DATA.write_text(json.dumps(final_list, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ Generated {len(search_items)} record pages → {CONTENT_DIR}")
-    print(f"✅ Updated search index → {SEARCH_DATA}")
+    print(f"✅ Updated search index → {SEARCH_DATA} (total {len(final_list)} items)")
     print(f"✅ Copied source markdowns → {STATIC_DL_DIR}")
 
 

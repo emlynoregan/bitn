@@ -1,0 +1,27 @@
+---
+title: Ross’s Creek (Kapunda) section 108 of 84 acres.
+type: records
+slug: 1845_76_sa_register_content_22958
+url: /records/1845_76_sa_register_content_22958/
+record_id: 1845_76_sa_register_content_22958
+date: '1869-11-15'
+date_display: null
+volume: null
+issue_number: null
+page: '4'
+article_type: other
+issue_reference: 1869-11-15, page 4
+people_mentioned: []
+places_mentioned:
+- Ross’s Creek
+- Kapunda
+topics:
+- land
+- sale
+- agriculture
+source_document: 1985-87_Northern__Argus.md
+---
+
+Ross’s Creek (Kapunda) section 108 of 84 acres.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

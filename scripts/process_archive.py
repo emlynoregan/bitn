@@ -279,6 +279,9 @@ Process this chunk according to the instructions and return a JSON array of reco
                 for record in records:
                     if not record.get("record_kind"):
                         record["record_kind"] = "content"
+                    # Ensure source_document is set for downstream linking
+                    if doc_path and not record.get("source_document"):
+                        record["source_document"] = Path(doc_path).name
                     source_line_start = record.get("source_line_start")
                     if source_line_start:
                         kind = (record.get("record_kind") or "content").lower()

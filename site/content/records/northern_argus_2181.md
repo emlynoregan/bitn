@@ -1,0 +1,24 @@
+---
+title: Marriage of Tammy Schuppan and Shane O’Bryan
+type: records
+slug: northern_argus_2181
+url: /records/northern_argus_2181/
+record_id: northern_argus_2181
+date: '1987-02-18'
+volume: CXVI
+issue_number: '8092'
+page: '18'
+article_type: marriage
+issue_reference: CXVI, 8092, 18 Feb. 1987, page 18
+people_mentioned:
+- Tammy Schuppan
+- Shane O’Bryan
+places_mentioned: []
+topics:
+- marriage
+source_document: 1985-87_Northern__Argus.md
+---
+
+Marriage.  Recently Tammy Schuppan married Shane O’Bryan.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

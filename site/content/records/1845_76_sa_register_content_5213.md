@@ -1,0 +1,37 @@
+---
+title: Public meeting at Kooringa
+type: records
+slug: 1845_76_sa_register_content_5213
+url: /records/1845_76_sa_register_content_5213/
+record_id: 1845_76_sa_register_content_5213
+date: '1850-11-13'
+date_display: null
+volume: null
+issue_number: null
+page: '3'
+article_type: news
+issue_reference: 1850-11-13, page 3
+people_mentioned:
+- W. Lang
+places_mentioned:
+- Kooringa
+topics:
+- politics
+- franchise
+- suffrage
+- voting
+source_document: 1985-87_Northern__Argus.md
+---
+
+13 November 1850, page 3
+
+Public meeting at Kooringa
+
+The tone of this meeting to discuss a range of political matters was decidedly liberal.  W. Lang chaired the meeting.
+
+There was a proposal to extend the franchise to all holders of tenements of the annual value of £5, but what was carried by a large majority was a declaration in favour of universal suffrage.
+
+The system of voting by ballot was strongly opposed by the chairman, but carried by a large majority.
+
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

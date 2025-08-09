@@ -1,0 +1,24 @@
+---
+title: On the following Thursday there was a severe dust storm from the west.
+type: records
+slug: 1845_76_sa_register_content_12833
+url: /records/1845_76_sa_register_content_12833/
+record_id: 1845_76_sa_register_content_12833
+date: '1859-11-29'
+date_display: null
+volume: null
+issue_number: null
+page: '3'
+article_type: news
+issue_reference: 29 November 1859, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- weather
+- dust storms
+source_document: 1985-87_Northern__Argus.md
+---
+
+On the following Thursday there was a severe dust storm from the west.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

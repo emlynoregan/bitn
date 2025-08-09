@@ -1,0 +1,30 @@
+---
+title: Mr Marshall completes blowing apparatus for Burra Burra Mine
+type: records
+slug: 1845_76_sa_register_content_1371
+url: /records/1845_76_sa_register_content_1371/
+record_id: 1845_76_sa_register_content_1371
+date: '1847-03-27'
+date_display: null
+volume: null
+issue_number: null
+page: '2'
+article_type: news
+issue_reference: 27 March 1847, page 2
+people_mentioned:
+- Mr Marshall
+places_mentioned:
+- Currie Street
+- Burra Burra Mine
+topics:
+- industry
+- manufacturing
+- mining
+source_document: 1985-87_Northern__Argus.md
+---
+
+27 March 1847, page 2
+
+Mr Marshall of Currie Street has just completed for the smelting house at the Burra Burra Mine, a blowing apparatus capable of producing a continuous and powerful blast.  We were well aware of his capabilities as an organ builder and now he has undertaken to construct smiths’ bellows and blowing apparatus of all kinds.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

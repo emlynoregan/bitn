@@ -1,0 +1,22 @@
+---
+title: 2 January 1863, page 1
+type: records
+slug: 1845_76_sa_register_content_16275
+url: /records/1845_76_sa_register_content_16275/
+record_id: 1845_76_sa_register_content_16275
+date: '1863-01-02'
+date_display: null
+volume: null
+issue_number: null
+page: '1'
+article_type: other
+issue_reference: 1863-01-02, page 1
+people_mentioned: []
+places_mentioned: []
+topics: []
+source_document: 1985-87_Northern__Argus.md
+---
+
+2 January 1863, page 1
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

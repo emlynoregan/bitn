@@ -1,0 +1,36 @@
+---
+title: Notice.  The SA Mining Association gives notice of its AGM
+type: records
+slug: 1845_76_sa_register_content_8713
+url: /records/1845_76_sa_register_content_8713/
+record_id: 1845_76_sa_register_content_8713
+date: '1854-04-14'
+date_display: null
+volume: null
+issue_number: null
+page: '2'
+article_type: community_notice
+issue_reference: 14 April 1854, page 2
+people_mentioned:
+- Sanders
+- Hall
+- Allen
+- Peacock
+- Paxton
+- Waterhouse
+- Kingston
+- Beck
+- George Tinline
+places_mentioned:
+- Rundle Street
+topics:
+- meeting
+- association
+- election
+- accounts
+source_document: 1985-87_Northern__Argus.md
+---
+
+Notice.  The SA Mining Association gives notice of its AGM at the Company’s Office in Rundle Street 19 April at 11 a.m.  The purpose of the meeting is to receive the Directors’ Report, the Secretary’s Report and to examine the Auditor’s Report and accounts.  Also to elect eight Directors in place of Messrs Sanders, Hall & Allen, disqualified, and Messrs Peacock, Paxton, Waterhouse, Kingston & Beck, who retire and to elect an auditor in place of Mr GeorgeTinline who has resigned.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

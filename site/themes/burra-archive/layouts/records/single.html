@@ -5,7 +5,15 @@
     <p class="text-sm text-gray-600" style="margin-top: 0.25rem;">
       {{ with .Params.volume }}Vol {{ . }}, {{ end }}
       {{ with .Params.issue_number }}Issue {{ . }}, {{ end }}
-      {{ with .Params.date }}{{ (time .).Format "2 January 2006" }}{{ end }}
+      {{ with .Params.date }}
+        {{ $d := . }}
+        {{ if (findRE `^\d{4}-\d{2}-\d{2}$` $d) }}
+          {{ (time $d).Format "2 January 2006" }}
+        {{ else }}
+          {{ $d }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.date_display }}{{ . }}{{ end }}
       {{ with .Params.page }}, page {{ . }}{{ end }}
     </p>
   </header>
@@ -31,7 +39,14 @@
         <strong>Issue:</strong>
         {{ with $v }}Vol {{ . }}, {{ end }}
         {{ with $i }}{{ . }}, {{ end }}
-        {{ with $d }}{{ (time .).Format "2 January 2006" }}{{ end }}
+        {{ with $d }}
+          {{ if (findRE `^\d{4}-\d{2}-\d{2}$` $d) }}
+            {{ (time $d).Format "2 January 2006" }}
+          {{ else }}
+            {{ $d }}
+          {{ end }}
+        {{ end }}
+        {{ with .Params.date_display }}{{ . }}{{ end }}
         {{ with $p }}, page {{ . }}{{ end }}
       </p>
     {{ end }}

@@ -1,0 +1,23 @@
+---
+title: Monday 2 January kept as a holiday
+type: records
+slug: 1845_76_sa_register_content_18125
+url: /records/1845_76_sa_register_content_18125/
+record_id: 1845_76_sa_register_content_18125
+date: '1865-01-07'
+date_display: null
+volume: null
+issue_number: null
+page: '3'
+article_type: news
+issue_reference: 7 January 1865, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- holiday
+source_document: 1985-87_Northern__Argus.md
+---
+
+Monday 2 January was generally kept as a holiday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

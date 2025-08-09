@@ -5,9 +5,9 @@ by deriving an ordered list of "issue header" anchors from existing chunk
 outputs themselves, then propagating those anchors forward by source lines.
 
 Usage:
-  python scripts/backfill_chunk_metadata.py [chunks_dir]
+  python scripts/backfill_chunk_metadata.py [chunks_dir] [output_dir]
 
-Default chunks_dir: processed/chunks
+Default chunks_dir: processed/chunks (in-place if no output_dir)
 """
 
 import json
@@ -76,6 +76,7 @@ def parse_header_from_record(rec: Dict[str, Any]) -> Dict[str, Any]:
 
 def main():
     chunks_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("processed/chunks")
+    out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else None
     if not chunks_dir.exists():
         print(f"❌ Chunks directory not found: {chunks_dir}")
         sys.exit(1)
@@ -123,15 +124,24 @@ def main():
             rec["metadata"] = meta
             backfilled += 1
 
-    # Write records back to their files (group by path)
-    by_path: Dict[Path, List[Dict[str, Any]]] = {}
-    for path, rec in pairs_sorted:
-        by_path.setdefault(path, []).append(rec)
+    # Write records back to files.
+    if out_dir is None:
+        # In-place update
+        by_path: Dict[Path, List[Dict[str, Any]]] = {}
+        for path, rec in pairs_sorted:
+            by_path.setdefault(path, []).append(rec)
+        for path, recs in by_path.items():
+            path.write_text(json.dumps(recs, indent=2, ensure_ascii=False), encoding="utf-8")
+    else:
+        out_dir.mkdir(parents=True, exist_ok=True)
+        # Mirror filenames into output directory
+        files_map: Dict[str, List[Dict[str, Any]]] = {}
+        for path, rec in pairs_sorted:
+            files_map.setdefault(path.name, []).append(rec)
+        for name, recs in files_map.items():
+            (out_dir / name).write_text(json.dumps(recs, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    for path, recs in by_path.items():
-        path.write_text(json.dumps(recs, indent=2, ensure_ascii=False), encoding="utf-8")
-
-    print(f"✅ Backfilled {backfilled} of {total} records using {len(anchors)} anchors")
+    print(f"✅ Backfilled {backfilled} of {total} records using {len(anchors)} anchors → {'in-place' if out_dir is None else out_dir}")
 
 
 if __name__ == "__main__":

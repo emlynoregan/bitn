@@ -72,11 +72,12 @@ def main():
         doc_path = sys.argv[1] if len(sys.argv) > 1 else "archive/markdown/1985-87_Northern__Argus.md"
         # Direct chunks into a per-document folder to avoid collisions
         slug = slugify_prefix_from_path(doc_path)
-        output_root = f"processed/chunks/{slug}"
+        output_root = f"processed/{slug}_pass_01"
 
         # Per-chunk mode with retries (default and only mode)
         print("ℹ️ Per-chunk mode with retries")
         processor.process_document_per_chunk(doc_path, output_root=output_root)
+        print(f"\nPass 1 complete → {output_root}")
 
         print("\n🎉 Processing completed!")
         print("📁 Check the 'processed/' folder for results.")

@@ -4,7 +4,7 @@ Pass 4: Gap fill and uncategorized reprocessing on merged output.
 
 Reads pass 03 merged records, fills gaps using source markdown, reprocesses
 uncategorized spans with focused LLM calls, fills any new gaps, and writes
-results to processed/northern_argus_pass_04/.
+results to an output directory.
 
 Usage:
   python scripts/process_pass4.py [merged_input] [source_md] [output_dir]
@@ -30,12 +30,12 @@ def main():
     # Load merged records
     merged_records = json.loads(merged_input.read_text(encoding="utf-8"))
 
-    # Lazy import processor (ensure scripts directory on path)
+    # Lazy import generic processor (ensure scripts directory on path)
     import sys as _sys
     _sys.path.append("scripts")
-    from process_northern_argus import NorthernArgusProcessor
+    from process_archive import ArchiveDocumentProcessor
 
-    proc = NorthernArgusProcessor()
+    proc = ArchiveDocumentProcessor()
     # Load source lines for gap detection and targeted reprocessing
     lines = proc.load_document(str(source_md))
     proc.source_lines = lines
@@ -44,9 +44,9 @@ def main():
     initial_count = len(proc.all_records)
 
     # Pass 4 steps
-    gap1 = proc.fill_gaps()
-    reproc = proc.reprocess_uncategorized_records()
-    gap2 = proc.fill_gaps()
+    gap1 = proc.fill_gaps(str(source_md))
+    reproc = proc.reprocess_uncategorized_records(str(source_md))
+    gap2 = proc.fill_gaps(str(source_md))
 
     final_records = proc.all_records
     final_count = len(final_records)
