@@ -1,0 +1,25 @@
+---
+title: Cricket meeting called
+type: records
+slug: 1876_79_record_content_4823
+url: /records/1876_79_record_content_4823/
+record_id: 1876_79_record_content_4823
+date: '1878-09-20'
+date_display: null
+volume: '1.'
+issue_number: '12.'
+page: Page 2
+article_type: news
+issue_reference: 1. 12. 20 September 1878, Page 2
+people_mentioned: []
+places_mentioned:
+- Institute
+topics:
+- sports
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cricket. A meeting of the town’s two cricket clubs is called next Monday at the Institute.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

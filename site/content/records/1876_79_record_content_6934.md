@@ -1,0 +1,25 @@
+---
+title: Redruth Court 13 August
+type: records
+slug: 1876_79_record_content_6934
+url: /records/1876_79_record_content_6934/
+record_id: 1876_79_record_content_6934
+date: '1879-08-13'
+date_display: null
+volume: '11'
+issue_number: '59'
+page: '2'
+article_type: other
+issue_reference: 11, 59, 1879-08-13, page 2
+people_mentioned: []
+places_mentioned:
+- Redruth
+topics:
+- court
+- legal
+source_document: 1985-87_Northern__Argus.md
+---
+
+Redruth Court 13 August.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

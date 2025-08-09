@@ -1,0 +1,27 @@
+---
+title: Advt. Drs Nesbitt & Brummitt visit Hallett every Friday
+type: records
+slug: 1876_79_record_content_5972
+url: /records/1876_79_record_content_5972/
+record_id: 1876_79_record_content_5972
+date: '1879-02-28'
+date_display: null
+volume: I.
+issue_number: '35'
+page: '2'
+article_type: advertisement
+issue_reference: I. 35. 28 February 1879 Page 2
+people_mentioned:
+- Drs Nesbitt & Brummitt
+places_mentioned:
+- Hallett
+topics:
+- health
+- medical
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt. Drs Nesbitt & Brummitt visit Hallett every Friday and may make a second visit each week shortly if it should appear necessary.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

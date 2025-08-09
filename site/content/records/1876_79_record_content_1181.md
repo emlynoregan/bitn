@@ -1,0 +1,26 @@
+---
+title: 'Rabbits: Some district councils were paying a royalty on rabbit scalps and
+  one had received 40,000 in one month.'
+type: records
+slug: 1876_79_record_content_1181
+url: /records/1876_79_record_content_1181/
+record_id: 1876_79_record_content_1181
+date: '1876-09-22'
+date_display: null
+volume: null
+issue_number: null
+page: '1.50'
+article_type: news
+issue_reference: 22 September 1876 Page 1.50
+people_mentioned: []
+places_mentioned: []
+topics:
+- rabbits
+- agriculture
+- local government
+source_document: 1985-87_Northern__Argus.md
+---
+
+Rabbits: Some district councils were paying a royalty on rabbit scalps and one had received 40,000 in one month.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

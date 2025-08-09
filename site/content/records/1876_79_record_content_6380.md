@@ -1,0 +1,27 @@
+---
+title: Rev. James Bickford's lecture on his visit to England also only attracted a
+  small audience.
+type: records
+slug: 1876_79_record_content_6380
+url: /records/1876_79_record_content_6380/
+record_id: 1876_79_record_content_6380
+date: '1879-05-09'
+date_display: null
+volume: I
+issue_number: '45'
+page: '2'
+article_type: news
+issue_reference: I. 45. 9 May 1879 Page 2
+people_mentioned:
+- Rev. James Bickford
+places_mentioned:
+- England
+topics:
+- lecture
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Rev. James Bickford's lecture on his visit to England also only attracted a small audience.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

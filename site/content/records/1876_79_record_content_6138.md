@@ -1,0 +1,26 @@
+---
+title: Advt. Coles & Goodchild offer 6,700 sheep 7 April.
+type: records
+slug: 1876_79_record_content_6138
+url: /records/1876_79_record_content_6138/
+record_id: 1876_79_record_content_6138
+date: '1879-03-28'
+date_display: null
+volume: I.
+issue_number: '39'
+page: '2'
+article_type: advertisement
+issue_reference: I. 39.28 March 1879 Page 2
+people_mentioned:
+- Coles & Goodchild
+places_mentioned: []
+topics:
+- business
+- sale
+- livestock
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt. Coles & Goodchild offer 6,700 sheep 7 April.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

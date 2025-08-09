@@ -1,0 +1,29 @@
+---
+title: Editorial on Constitutional Reforms
+type: records
+slug: 1876_79_record_content_6458
+url: /records/1876_79_record_content_6458/
+record_id: 1876_79_record_content_6458
+date: '1879-05-23'
+date_display: null
+volume: I.
+issue_number: '47.23'
+page: '2'
+article_type: news
+issue_reference: I. 47.23 May 1879 Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- politics
+- government
+- constitutional reform
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial on Constitutional Reforms which contains the following somewhat surprising statement: -
+
+`... we hope that democracy will never have unlimited rule for we are satisfied that the best possible form of Government is a despotic one, always provided that the despot is imbued with uprightness and justice. Self-government is no government and the only reason for allowing the people to assist in the work of government is that a community for very selfishness and self-seeking is less likely to perpetuate (and too fickle to constantly maintain) a system of misrule, than an evil disposed despot.'
+
+The writer also appears to favour an appointed Upper House over an elected one.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

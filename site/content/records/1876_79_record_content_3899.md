@@ -1,0 +1,29 @@
+---
+title: Advt. The partnership of Henry Winter Lihou and Frederick Edward Bromley, butchers,
+  was dissolved in 15 March and the business will be carried on by F.E. Bromley.
+type: records
+slug: 1876_79_record_content_3899
+url: /records/1876_79_record_content_3899/
+record_id: 1876_79_record_content_3899
+date: '1878-04-12'
+date_display: null
+volume: null
+issue_number: null
+page: '2.374'
+article_type: advertisement
+issue_reference: 12 April 1878, Page 2.374
+people_mentioned:
+- Henry Winter Lihou
+- Frederick Edward Bromley
+- F.E. Bromley
+places_mentioned: []
+topics:
+- business
+- partnership
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt. The partnership of Henry Winter Lihou and Frederick Edward Bromley, butchers, was dissolved in 15 March and the business will be carried on by F.E. Bromley.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

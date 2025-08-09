@@ -1,0 +1,24 @@
+---
+title: 'Elections: Ed. was on `The Late Elections'''
+type: records
+slug: 1876_79_record_content_2207
+url: /records/1876_79_record_content_2207/
+record_id: 1876_79_record_content_2207
+date: '1877-04-27'
+date_display: null
+volume: null
+issue_number: null
+page: '1.174'
+article_type: news
+issue_reference: 27 April 1877, Page 1.174
+people_mentioned: []
+places_mentioned: []
+topics:
+- elections
+- legislative council
+source_document: 1985-87_Northern__Argus.md
+---
+
+Elections: Ed. was on `The Late Elections' [for the Legislative Council]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

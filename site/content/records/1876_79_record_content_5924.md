@@ -1,0 +1,26 @@
+---
+title: Cricket
+type: records
+slug: 1876_79_record_content_5924
+url: /records/1876_79_record_content_5924/
+record_id: 1876_79_record_content_5924
+date: '1879-02-21'
+date_display: null
+volume: I
+issue_number: '34'
+page: '2'
+article_type: news
+issue_reference: I. 34. 21 February 1879 Page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+- Kapunda
+topics:
+- sports
+- cricket
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cricket. Burra to play Kapunda at Burra on 1 March.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

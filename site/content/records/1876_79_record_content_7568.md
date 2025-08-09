@@ -1,0 +1,25 @@
+---
+title: Redruth Bridge is nearing completion
+type: records
+slug: 1876_79_record_content_7568
+url: /records/1876_79_record_content_7568/
+record_id: 1876_79_record_content_7568
+date: '1879-11-28'
+date_display: null
+volume: II
+issue_number: '74'
+page: '2'
+article_type: news
+issue_reference: II. 74.28 November 1879 Page 2
+people_mentioned: []
+places_mentioned:
+- Redruth
+topics:
+- infrastructure
+- bridge
+source_document: 1985-87_Northern__Argus.md
+---
+
+Redruth Bridge is nearing completion.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,26 @@
+---
+title: Burra Hospital conveyance signed
+type: records
+slug: 1876_79_record_content_2303
+url: /records/1876_79_record_content_2303/
+record_id: 1876_79_record_content_2303
+date: '1877-05-18'
+date_display: null
+volume: null
+issue_number: null
+page: '1.187'
+article_type: news
+issue_reference: 18 May 1877, Page 1.187
+people_mentioned: []
+places_mentioned:
+- Burra Hospital
+topics:
+- health
+- institution
+- administration
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Hospital: At last the conveyance of the hospital from SAMA to the Corporation was signed.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

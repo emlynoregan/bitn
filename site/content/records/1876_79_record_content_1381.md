@@ -1,0 +1,26 @@
+---
+title: 'Rabbits: Editorial on the rabbit menace.'
+type: records
+slug: 1876_79_record_content_1381
+url: /records/1876_79_record_content_1381/
+record_id: 1876_79_record_content_1381
+date: '1876-11-03'
+date_display: null
+volume: null
+issue_number: null
+page: '1.75'
+article_type: news
+issue_reference: 3 November 1876, Page 1.75
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- rabbit
+- editorial
+- pests
+source_document: 1985-87_Northern__Argus.md
+---
+
+Rabbits: Editorial on the rabbit menace.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,26 @@
+---
+title: Primitive Methodist Sunday School, Kooringa raised £26
+type: records
+slug: 1876_79_record_content_3369
+url: /records/1876_79_record_content_3369/
+record_id: 1876_79_record_content_3369
+date: '1877-12-28'
+date_display: null
+volume: null
+issue_number: null
+page: '2.315'
+article_type: community_notice
+issue_reference: 28 December 1877, Page 2.315
+people_mentioned: []
+places_mentioned:
+- Kooringa
+topics:
+- religion
+- fundraising
+- anniversary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Primitive Methodist Sunday School, Kooringa raised £26 at its anniversary celebrations.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

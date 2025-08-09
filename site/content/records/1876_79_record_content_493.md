@@ -1,0 +1,59 @@
+---
+title: R. Sanders replies and encloses letter from Dr Alfred Cave
+type: records
+slug: 1876_79_record_content_493
+url: /records/1876_79_record_content_493/
+record_id: 1876_79_record_content_493
+date: null
+date_display: 21 July 1876
+volume: I
+issue_number: 3 (4)
+page: page 3 [The number of the issue is hand corrected to 4 on the microfilm.]
+article_type: letter
+issue_reference: I, 3 (4), 21 July 1876, page page 3 [The number of the issue is hand
+  corrected to 4 on the microfilm.]
+people_mentioned:
+- R. Sanders
+- An Inhabitant
+- Dr Nesbitt
+- Dr Alfred Cave
+- Hewitson
+- Tonkin
+- McKenny
+- Morris
+- Lavinia McKenney
+- William McKenney
+places_mentioned:
+- Paxton Square
+- the Square
+- district
+topics:
+- public health
+- typhoid
+- epidemic
+- letter
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+R. Sanders writes another letter.
+
+I know that ‘An Inhabitant’ was not Dr Nesbitt and no carefully reading my reply could infer that I alluded to him as such.  Had he confined himself to an attempt to disprove my statements, although misrepresenting the case, (as he did,) I would not have trouble to reply.
+
+But having paraded my name so conspicuously and frequently before the public, I feel it is my duty to deny his statements and in confirmation request you publish the enclosed letter.  Many other proofs can be produced if necessary.
+
+[The letter enclosed was from Dr Alfred Cave, who wrote as principal Mine Surgeon.  He said:]
+
+Typhoid did not start at Paxton Square, as there were several district cases in the weeks before the first case there.
+
+I attended only two cases, saw two others and heard of one more, making a total of five in the Square: Hewitson, Tonkin, McKenny (fatal), unknown and Morris.
+
+None of the houses to my knowledge are overcrowded and some are the largest and best ventilated in the district.  The closets in the Square are in about the same state as they are everywhere else – that is people do not tap them until they are obliged.
+
+Not only is Paxton Square not a hotbed of disease, but there is less sickness there than in any other part of the district, as can be proved by names of patients and dates of illness.
+
+In the recent fatal epidemic of malignant scarlet fever there was one case in the Square and about twenty in the district.
+
+[Obituary: Lavinia McKenney, wife of William McKenney, died 26 May 1876 aged 32.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

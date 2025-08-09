@@ -1,0 +1,28 @@
+---
+title: New Doctor
+type: records
+slug: 1876_79_record_content_5684
+url: /records/1876_79_record_content_5684/
+record_id: 1876_79_record_content_5684
+date: '1879-01-17'
+date_display: null
+volume: I.
+issue_number: '29'
+page: '2'
+article_type: news
+issue_reference: I. 29. 17 January 1879 Page 2
+people_mentioned:
+- Dr Sangster
+places_mentioned:
+- Strathalbyn
+- Burra
+topics:
+- health
+- medical
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+New Doctor. Dr Sangster from Strathalbyn may be coming to Burra. We would have thought that two doctors were enough. A third seems due more to party feeling than any necessity.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

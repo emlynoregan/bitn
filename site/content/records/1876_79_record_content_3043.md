@@ -1,0 +1,25 @@
+---
+title: Agriculture.
+type: records
+slug: 1876_79_record_content_3043
+url: /records/1876_79_record_content_3043/
+record_id: 1876_79_record_content_3043
+date: '1877-11-02'
+date_display: null
+volume: null
+issue_number: null
+page: '2.282'
+article_type: news
+issue_reference: 2 November 1877 Page 2.282
+people_mentioned: []
+places_mentioned: []
+topics:
+- agriculture
+- harvest
+- crops
+source_document: 1985-87_Northern__Argus.md
+---
+
+Agriculture. Harvest is under way. Hay and wheat looking good with no signs of rust as yet.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
