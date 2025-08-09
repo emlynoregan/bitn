@@ -19,9 +19,9 @@ This folder contains the tooling to transform the original archive documents int
 
 3. **Run the processor (Pass 1–2):**
    ```powershell
-python .\scripts\run_processor.py
+python .\scripts\run_processor.py archive\markdown\1985-87_Northern__Argus.md
    ```
-   - Per-chunk mode with retries and concurrency
+   - Per-chunk mode with retries and concurrency (generic for any source file)
    - Outputs chunk files to `processed/chunks/`
    - You can rerun safely; existing chunk files are skipped
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple launcher for Northern Argus processor with setup checks
+Simple launcher for generic archive processor with setup checks
 """
 
 import os
@@ -12,15 +12,9 @@ def check_setup():
     """Check if everything is set up correctly"""
     print("🔍 Checking setup...")
     
-    # Check if we're in the right directory
-    if not Path("archive/markdown/1985-87_Northern__Argus.md").exists():
-        print("❌ ERROR: Northern Argus document not found!")
-        print("   Make sure you're running this from the bitn project root.")
-        return False
-    
-    # Check if instructions exist
-    if not Path("docs/Northern Argus Instructions.md").exists():
-        print("❌ ERROR: Northern Argus Instructions not found!")
+    # Check that archive exists
+    if not Path("archive/markdown").exists():
+        print("❌ ERROR: archive/markdown folder not found!")
         return False
     
     # Check config file
@@ -60,7 +54,7 @@ def check_setup():
 
 def main():
     """Main launcher"""
-    print("🚀 Northern Argus Document Processor Launcher")
+    print("🚀 Archive Document Processor Launcher")
     print("=" * 50)
 
     if not check_setup():
@@ -71,10 +65,11 @@ def main():
     # Import and run the processor
     print("\n" + "=" * 50)
     try:
-        from process_northern_argus import NorthernArgusProcessor
+        from process_archive import ArchiveDocumentProcessor
 
-        processor = NorthernArgusProcessor()
-        doc_path = "archive/markdown/1985-87_Northern__Argus.md"
+        processor = ArchiveDocumentProcessor()
+        # Pick document from CLI if provided, otherwise use a default
+        doc_path = sys.argv[1] if len(sys.argv) > 1 else "archive/markdown/1985-87_Northern__Argus.md"
 
         # Per-chunk mode with retries (default and only mode)
         print("ℹ️ Per-chunk mode with retries")
