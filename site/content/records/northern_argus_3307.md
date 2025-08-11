@@ -6,6 +6,7 @@ slug: northern_argus_3307
 url: /records/northern_argus_3307/
 record_id: northern_argus_3307
 date: '1987-12-16'
+date_display: null
 volume: CXVII
 issue_number: '8136'
 page: '22'

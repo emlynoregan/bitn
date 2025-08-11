@@ -1,0 +1,28 @@
+---
+title: Obituary.  William Woollacott, aged 65, a colonist of 33 years, at his residence
+  at Nelson, near Redruth.  13 May.
+type: records
+slug: 1880_99_record_content_4183
+url: /records/1880_99_record_content_4183/
+record_id: 1880_99_record_content_4183
+date: '1881-05-20'
+date_display: null
+volume: IV
+issue_number: '151'
+page: '2'
+article_type: obituary
+issue_reference: IV, 151, 20 May 1881, Page 2
+people_mentioned:
+- William Woollacott
+places_mentioned:
+- Nelson
+- Redruth
+topics:
+- death
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary.  William Woollacott, aged 65, a colonist of 33 years, at his residence at Nelson, near Redruth.  13 May.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

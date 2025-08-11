@@ -5,6 +5,7 @@ slug: northern_argus_1701
 url: /records/northern_argus_1701/
 record_id: northern_argus_1701
 date: '1986-10-01'
+date_display: null
 volume: CXVI
 issue_number: '8073'
 page: '?'

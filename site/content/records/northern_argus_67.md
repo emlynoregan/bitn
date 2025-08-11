@@ -5,6 +5,7 @@ slug: northern_argus_67
 url: /records/northern_argus_67/
 record_id: northern_argus_67
 date: '1985-09-04'
+date_display: null
 volume: CXV
 issue_number: '8022'
 page: null

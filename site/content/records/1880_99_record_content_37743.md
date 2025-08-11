@@ -1,0 +1,29 @@
+---
+title: The Burra Creek has been much cleaned out by the strong flows this year and
+  nearly all the sand from mining operations has gone and in many places original
+  bottom can be seen.
+type: records
+slug: 1880_99_record_content_37743
+url: /records/1880_99_record_content_37743/
+record_id: 1880_99_record_content_37743
+date: '1890-08-22'
+date_display: null
+volume: XI
+issue_number: '984'
+page: '2'
+article_type: news
+issue_reference: XI, 984, 22 Aug. 1890, page 2
+people_mentioned: []
+places_mentioned:
+- Burra Creek
+- Burra
+topics:
+- environment
+- water
+- mining
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Burra Creek has been much cleaned out by the strong flows this year and nearly all the sand from mining operations has gone and in many places original bottom can be seen.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

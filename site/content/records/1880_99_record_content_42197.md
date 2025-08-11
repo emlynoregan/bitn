@@ -1,0 +1,25 @@
+---
+title: Burra Co. VF.  Final meeting.
+type: records
+slug: 1880_99_record_content_42197
+url: /records/1880_99_record_content_42197/
+record_id: 1880_99_record_content_42197
+date: '1891-09-02'
+date_display: null
+volume: XII
+issue_number: '1055'
+page: '3'
+article_type: other
+issue_reference: XII, 1055, 2 Sep. 1891, Page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- volunteer forces
+- meeting
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Co. VF.  Final meeting.  [Just that in ‘Sparks’ column.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -5,6 +5,7 @@ slug: northern_argus_2601
 url: /records/northern_argus_2601/
 record_id: northern_argus_2601
 date: '1987-05-06'
+date_display: null
 volume: CXVII
 issue_number: '8104'
 page: '19'

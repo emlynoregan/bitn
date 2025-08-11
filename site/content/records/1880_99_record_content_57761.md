@@ -1,0 +1,26 @@
+---
+title: Also a house of 8 rooms at Mt Lofty occupied at present by Mr B. White.
+type: records
+slug: 1880_99_record_content_57761
+url: /records/1880_99_record_content_57761/
+record_id: 1880_99_record_content_57761
+date: '1895-07-24'
+date_display: null
+volume: XV
+issue_number: 319 (4)
+page: '2'
+article_type: other
+issue_reference: XV, 319 (4), 1895-07-24, page 2
+people_mentioned:
+- Mr B. White
+places_mentioned:
+- Mt Lofty
+topics:
+- land
+- housing
+source_document: 1985-87_Northern__Argus.md
+---
+
+Also a house of 8 rooms at Mt Lofty occupied at present by Mr B. White.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

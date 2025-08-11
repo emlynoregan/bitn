@@ -1,0 +1,25 @@
+---
+title: ‘Amazed Reader’ on Mayor and publicans
+type: records
+slug: 1880_99_record_content_35793
+url: /records/1880_99_record_content_35793/
+record_id: 1880_99_record_content_35793
+date: '1890-03-11'
+date_display: null
+volume: XI
+issue_number: '937'
+page: '3'
+article_type: letter
+issue_reference: XI, 937, 11 Mar. 1890, page 3
+people_mentioned:
+- Mayor
+places_mentioned: []
+topics:
+- council
+- law
+source_document: 1985-87_Northern__Argus.md
+---
+
+‘Amazed Reader’ writes, astounded that the Mayor should be criticised for drawing the attention of publicans to the state of the law.  If the Mayor sees a scoundrel picking a pocket is he required to call a meeting of Council before drawing attention to the Act?
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

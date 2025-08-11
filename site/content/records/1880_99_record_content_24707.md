@@ -1,0 +1,28 @@
+---
+title: Unemployment Relief.  The Mayor, Mr Holder, reports that on 23 Feb. the Conservator
+  of Water will be able to employ 20 men.
+type: records
+slug: 1880_99_record_content_24707
+url: /records/1880_99_record_content_24707/
+record_id: 1880_99_record_content_24707
+date: '1887-02-22'
+date_display: null
+volume: VIII
+issue_number: '622'
+page: '2'
+article_type: news
+issue_reference: VIII, 622, 22 Feb. 1887, page 2
+people_mentioned:
+- Mr Holder
+- the Mayor
+- Conservator of Water
+places_mentioned: []
+topics:
+- unemployment
+- government
+source_document: 1985-87_Northern__Argus.md
+---
+
+Unemployment Relief.  The Mayor, Mr Holder, reports that on 23 Feb. the Conservator of Water will be able to employ 20 men.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

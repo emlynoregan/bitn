@@ -1,0 +1,26 @@
+---
+title: Accident.
+type: records
+slug: 1880_99_record_content_11931
+url: /records/1880_99_record_content_11931/
+record_id: 1880_99_record_content_11931
+date: '1884-01-01'
+date_display: null
+volume: V
+issue_number: '299'
+page: '2'
+article_type: news
+issue_reference: V, 299, 1 Jan. 1884, page 2
+people_mentioned:
+- Hugh Kennedy
+- W. Henderson
+places_mentioned: []
+topics:
+- accident
+- health
+source_document: 1985-87_Northern__Argus.md
+---
+
+Accident.  Hugh Kennedy, at W. Henderson’s had a piece of iron fly into his eye from an adjoining forge on Monday.  It is possible the sight might be saved.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

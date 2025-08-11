@@ -1,0 +1,26 @@
+---
+title: The Burra Hills appreciation article
+type: records
+slug: 1880_99_record_content_33799
+url: /records/1880_99_record_content_33799/
+record_id: 1880_99_record_content_33799
+date: '1889-10-01'
+date_display: null
+volume: XI
+issue_number: '891'
+page: '2'
+article_type: news
+issue_reference: XI, 891, 1 Oct. 1889, page 2
+people_mentioned: []
+places_mentioned:
+- Burra Hills
+topics:
+- community
+- environment
+- scenery
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Burra Hills: a half column article urges people to become more appreciative of local scenery.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

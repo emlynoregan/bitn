@@ -1,0 +1,49 @@
+---
+title: 'Polo: opening match of the Burra Polo Club'
+type: records
+slug: 1880_99_record_content_26949
+url: /records/1880_99_record_content_26949/
+record_id: 1880_99_record_content_26949
+date: '1887-11-29'
+date_display: null
+volume: IX
+issue_number: '702'
+page: '2'
+article_type: news
+issue_reference: IX, 702, 29 Nov. 1887, page 2
+people_mentioned:
+- Bowman
+- Murray
+- Lewis
+- Shakes
+- Sandland
+- Ford
+- Lockyer
+- Mr Lewis
+places_mentioned:
+- Bon Accord Hotel
+- Burra
+topics:
+- sport
+- polo
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Polo.  The opening match of the Burra Polo Club was played on 26 Nov. near the Bon Accord Hotel.  [One team is referred to as Burra, but the other is not named.]
+
+Players		Bowman (Captain) scored 6	Murray (Captain)
+
+Lewis scored 2	Shakes
+
+Sandland	Ford
+
+Lockyer
+
+Mr Lewis showed the best form of the Burra players.
+
+The play of Bowman & Murray was far superior to that of the Burra players and their side won 8 to nil
+
+[This last sentence doesn’t seem to fit with the rest of the description.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

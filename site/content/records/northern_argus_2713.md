@@ -5,6 +5,7 @@ slug: northern_argus_2713
 url: /records/northern_argus_2713/
 record_id: northern_argus_2713
 date: '1987-06-03'
+date_display: null
 volume: CXVII
 issue_number: '8108'
 page: '19'

@@ -1,0 +1,26 @@
+---
+title: Gun Safety appliance by Mr D.J. O’Leary
+type: records
+slug: 1880_99_record_content_50809
+url: /records/1880_99_record_content_50809/
+record_id: 1880_99_record_content_50809
+date: '1893-08-23'
+date_display: null
+volume: XV
+issue_number: '258'
+page: '3'
+article_type: news
+issue_reference: XV, 258, 23 Aug. 1893, page 3
+people_mentioned:
+- Mr D.J. O’Leary
+places_mentioned: []
+topics:
+- safety
+- accident_prevention
+- invention
+source_document: 1985-87_Northern__Argus.md
+---
+
+Gun Safety.  On Monday we saw an automatic appliance designed by Mr D.J. O’Leary to prevent the accidental discharge of loaded guns.  It would avoid many accidents if it can be practically carried out.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

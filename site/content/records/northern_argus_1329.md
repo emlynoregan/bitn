@@ -5,6 +5,7 @@ slug: northern_argus_1329
 url: /records/northern_argus_1329/
 record_id: northern_argus_1329
 date: '1986-07-02'
+date_display: null
 volume: CXVI
 issue_number: '8060'
 page: '18'

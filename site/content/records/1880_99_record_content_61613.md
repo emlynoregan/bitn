@@ -1,0 +1,30 @@
+---
+title: P. Pendlebury
+type: records
+slug: 1880_99_record_content_61613
+url: /records/1880_99_record_content_61613/
+record_id: 1880_99_record_content_61613
+date: '1897-01-06'
+date_display: null
+volume: XV
+issue_number: 257 (2)
+page: '2'
+article_type: advertisement
+issue_reference: XV, 257 (2), 6 Jan. 1897 [2nd use of a number first used in this
+  volume in August 1893.]
+people_mentioned:
+- P. Pendlebury
+places_mentioned:
+- Terowie
+- Burra
+topics:
+- business
+- advertisement
+- legal
+- solicitor
+source_document: 1985-87_Northern__Argus.md
+---
+
+P. Pendlebury	Solicitor of Terowie, attending Burra Courts if retained.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

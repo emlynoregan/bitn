@@ -1,0 +1,27 @@
+---
+title: E.A. Moore
+type: records
+slug: 1880_99_record_content_31069
+url: /records/1880_99_record_content_31069/
+record_id: 1880_99_record_content_31069
+date: '1889-01-04'
+date_display: null
+volume: X
+issue_number: '815'
+page: '2'
+article_type: advertisement
+issue_reference: X, 815, 4 Jan. 1889, page 1
+people_mentioned:
+- E.A. Moore
+places_mentioned:
+- Kooringa
+topics:
+- labour office
+- business
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+---
+
+E.A. Moore	Labour Office, Kooringa
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

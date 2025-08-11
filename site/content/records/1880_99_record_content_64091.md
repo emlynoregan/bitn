@@ -1,0 +1,27 @@
+---
+title: It was 9.30 when Holder rose to speak
+type: records
+slug: 1880_99_record_content_64091
+url: /records/1880_99_record_content_64091/
+record_id: 1880_99_record_content_64091
+date: '1898-05-04'
+date_display: null
+volume: XV
+issue_number: 316 (11)
+page: '3'
+article_type: news
+issue_reference: XV, 316 (11), 4 May. 1898, page 3 [11th use of a number used once
+  in this volume in Nov 1894 & 9 times in May, June & July 1895.]
+people_mentioned:
+- Holder
+- Hon. F.W. Holder
+places_mentioned: []
+topics:
+- politics
+- federation
+source_document: 1985-87_Northern__Argus.md
+---
+
+It was 9.30 when Holder rose to speak and he said he hoped to finish his hour and a half speech at 10 p.m. and would trim his remarks to suit.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

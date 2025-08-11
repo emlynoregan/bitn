@@ -1,0 +1,25 @@
+---
+title: Typhoid is prevalent
+type: records
+slug: 1880_99_record_content_31787
+url: /records/1880_99_record_content_31787/
+record_id: 1880_99_record_content_31787
+date: '1889-03-05'
+date_display: null
+volume: X
+issue_number: '832'
+page: '2'
+article_type: news
+issue_reference: X, 832, 1889-03-05, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- health
+- disease
+- typhoid
+source_document: 1985-87_Northern__Argus.md
+---
+
+Typhoid is prevalent at the moment.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

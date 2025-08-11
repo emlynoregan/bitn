@@ -6,6 +6,7 @@ slug: northern_argus_2365
 url: /records/northern_argus_2365/
 record_id: northern_argus_2365
 date: '1987-04-01'
+date_display: null
 volume: CXVII
 issue_number: '8098'
 page: '18'

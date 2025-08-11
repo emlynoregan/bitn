@@ -1,0 +1,27 @@
+---
+title: A gentleman of Kooringa — £5 of groceries
+type: records
+slug: 1880_99_record_content_15733
+url: /records/1880_99_record_content_15733/
+record_id: 1880_99_record_content_15733
+date: '1884-12-23'
+date_display: null
+volume: VI
+issue_number: '400'
+page: '2'
+article_type: other
+issue_reference: VI, 400, 1884-12-23, page 2
+people_mentioned:
+- A gentleman of Kooringa
+places_mentioned:
+- Kooringa
+topics:
+- donation
+- community
+- business
+source_document: 1985-87_Northern__Argus.md
+---
+
+A gentleman of Kooringa 	£5 of groceries
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

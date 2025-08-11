@@ -1,0 +1,28 @@
+---
+title: Burra Town Council
+type: records
+slug: 1880_99_record_content_28749
+url: /records/1880_99_record_content_28749/
+record_id: 1880_99_record_content_28749
+date: '1888-06-05'
+date_display: null
+volume: IX.
+issue_number: '755'
+page: '2'
+article_type: news
+issue_reference: IX. 755. 5 June 1888, Page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+- Waterworks
+topics:
+- local government
+- infrastructure
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Town Council.
+
+The Corporation has asked the Government to take over the large amount of tools etc. at the Waterworks, at cost price.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

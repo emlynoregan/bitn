@@ -1,0 +1,25 @@
+---
+title: “Unit” continues A Trip to Farina, extending for just over 1 column.
+type: records
+slug: 1880_99_record_content_7345
+url: /records/1880_99_record_content_7345/
+record_id: 1880_99_record_content_7345
+date: '1882-07-07'
+date_display: null
+volume: IV
+issue_number: '210'
+page: '3'
+article_type: other
+issue_reference: IV, 210, 7 July 1882, Page 3
+people_mentioned: []
+places_mentioned:
+- Farina
+topics:
+- travel
+- serial
+source_document: 1985-87_Northern__Argus.md
+---
+
+“Unit” continues A Trip to Farina, extending for just over 1 column.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

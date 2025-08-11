@@ -1,0 +1,28 @@
+---
+title: Government Geologist unimpressed by Joker and Pulpara claims
+type: records
+slug: 1880_99_record_content_29731
+url: /records/1880_99_record_content_29731/
+record_id: 1880_99_record_content_29731
+date: '1888-09-14'
+date_display: null
+volume: IX.
+issue_number: '784'
+page: '2'
+article_type: news
+issue_reference: IX. 784. 14 September 1888, Page 2
+people_mentioned:
+- Government Geologist
+places_mentioned:
+- Joker
+- Pulpara
+topics:
+- mining
+- geology
+- claims
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Government Geologist is not impressed by the Joker and Pulpara claims.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

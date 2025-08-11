@@ -5,6 +5,7 @@ slug: northern_argus_2909
 url: /records/northern_argus_2909/
 record_id: northern_argus_2909
 date: '1987-07-22'
+date_display: null
 volume: CXVII
 issue_number: '8115'
 page: '19'

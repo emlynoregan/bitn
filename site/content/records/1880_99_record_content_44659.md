@@ -1,0 +1,27 @@
+---
+title: A Hunting Party of 36 men and youths shot 260 hares and rabbits in an expedition
+  from Emu Downs on 1 March.
+type: records
+slug: 1880_99_record_content_44659
+url: /records/1880_99_record_content_44659/
+record_id: 1880_99_record_content_44659
+date: '1892-03-09'
+date_display: null
+volume: XIII
+issue_number: '1082'
+page: '3'
+article_type: news
+issue_reference: XIII, 1082, 9 Mar. 1892, page 3
+people_mentioned: []
+places_mentioned:
+- Emu Downs
+topics:
+- hunting
+- rabbits
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+A Hunting Party of 36 men and youths shot 260 hares and rabbits in an expedition from Emu Downs on 1 March.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

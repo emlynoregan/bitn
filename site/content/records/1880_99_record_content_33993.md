@@ -1,0 +1,28 @@
+---
+title: Obituary.  George Chapple, aged c. 21, was drowned at Redhill
+type: records
+slug: 1880_99_record_content_33993
+url: /records/1880_99_record_content_33993/
+record_id: 1880_99_record_content_33993
+date: '1889-10-29'
+date_display: null
+volume: XI
+issue_number: '899'
+page: '2'
+article_type: obituary
+issue_reference: XI, 899, 29 Oct. 1889, page 2
+people_mentioned:
+- George Chapple
+- Ladyman
+places_mentioned:
+- Redhill
+topics:
+- death
+- drowning
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary.  George Chapple, aged c. 21, was drowned at Redhill in a dam of his employer named Ladyman.  [Registration says George Chappell, aged 20, died 24 October.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

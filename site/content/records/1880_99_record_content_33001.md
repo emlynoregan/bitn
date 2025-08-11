@@ -1,0 +1,25 @@
+---
+title: The Southern Cross has replaced the Catholic Monthly
+type: records
+slug: 1880_99_record_content_33001
+url: /records/1880_99_record_content_33001/
+record_id: 1880_99_record_content_33001
+date: '1889-07-09'
+date_display: null
+volume: X
+issue_number: '867'
+page: '2'
+article_type: news
+issue_reference: X, 867, 9 July 1889, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- publication
+- religion
+- press
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Southern Cross has replaced the Catholic Monthly and the first issue is to hand comprising 12 pages in 48 columns.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

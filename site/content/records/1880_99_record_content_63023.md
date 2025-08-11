@@ -1,0 +1,27 @@
+---
+title: Cricket.  At Douglas last Wednesday Mongolata 51 defeated Burra Juniors 28.
+type: records
+slug: 1880_99_record_content_63023
+url: /records/1880_99_record_content_63023/
+record_id: 1880_99_record_content_63023
+date: '1897-11-17'
+date_display: null
+volume: XV
+issue_number: 292 (2)
+page: '3'
+article_type: news
+issue_reference: XV, 292 (2), 17 Nov. 1897, page 3
+people_mentioned: []
+places_mentioned:
+- Douglas
+- Mongolata
+- Burra Juniors
+topics:
+- sport
+- cricket
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cricket.  At Douglas last Wednesday Mongolata 51 defeated Burra Juniors 28.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

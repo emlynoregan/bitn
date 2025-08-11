@@ -1,0 +1,27 @@
+---
+title: Kooringa Masonic Lodge
+type: records
+slug: 1880_99_record_content_66731
+url: /records/1880_99_record_content_66731/
+record_id: 1880_99_record_content_66731
+date: '1899-08-16'
+date_display: null
+volume: XV
+issue_number: '380'
+page: '2'
+article_type: news
+issue_reference: XV, 380, 16 Aug. 1899 page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+- Burra Hotel
+topics:
+- freemasonry
+- community
+- banquet
+source_document: 1985-87_Northern__Argus.md
+---
+
+Kooringa Masonic Lodge. The Freemason’s Lodge in Burra was re-opened last night with many visitors in attendance.  A banquet followed at the Burra Hotel.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

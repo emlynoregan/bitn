@@ -1,0 +1,25 @@
+---
+title: ‘O’Learyi, son of Tanneri, of the tribe of the Bachelorites.’
+type: records
+slug: 1880_99_record_content_31707
+url: /records/1880_99_record_content_31707/
+record_id: 1880_99_record_content_31707
+date: '1889-02-22'
+date_display: null
+volume: X
+issue_number: '829'
+page: '2'
+article_type: other
+issue_reference: X, 829, 1889-02-22, page 2
+people_mentioned:
+- O’Learyi
+- Tanneri
+places_mentioned: []
+topics:
+- other
+source_document: 1985-87_Northern__Argus.md
+---
+
+‘O’Learyi, son of Tanneri, of the tribe of the Bachelorites.’
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

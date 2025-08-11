@@ -1,0 +1,26 @@
+---
+title: C. & A. Fuss
+type: records
+slug: 1880_99_record_content_34953
+url: /records/1880_99_record_content_34953/
+record_id: 1880_99_record_content_34953
+date: '1890-01-03'
+date_display: null
+volume: XI
+issue_number: '918'
+page: '1'
+article_type: advertisement
+issue_reference: XI, 918, 1890-01-03, page 1
+people_mentioned:
+- C. & A. Fuss
+places_mentioned:
+- Aberdeen
+topics:
+- business
+- carpentry
+source_document: 1985-87_Northern__Argus.md
+---
+
+C. & A. Fuss	Carpenters, Builders etc., Aberdeen
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

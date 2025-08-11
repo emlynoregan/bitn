@@ -1,0 +1,25 @@
+---
+title: Advt. 6d Entertainment at the Institute
+type: records
+slug: 1880_99_record_content_4659
+url: /records/1880_99_record_content_4659/
+record_id: 1880_99_record_content_4659
+date: '1881-07-29'
+date_display: null
+volume: IV
+issue_number: '161'
+page: '2'
+article_type: advertisement
+issue_reference: IV, 161, 29 July 1881, Page 2
+people_mentioned: []
+places_mentioned:
+- Institute
+topics:
+- advertisement
+- entertainment
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  6d Entertainment at the Institute this evening.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

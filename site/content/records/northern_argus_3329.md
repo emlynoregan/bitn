@@ -5,6 +5,7 @@ slug: northern_argus_3329
 url: /records/northern_argus_3329/
 record_id: northern_argus_3329
 date: '1987-12-23'
+date_display: null
 volume: CXVII
 issue_number: '8137'
 page: '16'

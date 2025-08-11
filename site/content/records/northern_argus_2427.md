@@ -6,6 +6,7 @@ slug: northern_argus_2427
 url: /records/northern_argus_2427/
 record_id: northern_argus_2427
 date: '1987-04-08'
+date_display: null
 volume: CXVII
 issue_number: '8099'
 page: '19'

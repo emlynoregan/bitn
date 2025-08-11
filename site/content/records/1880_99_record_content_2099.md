@@ -1,0 +1,29 @@
+---
+title: Accident.
+type: records
+slug: 1880_99_record_content_2099
+url: /records/1880_99_record_content_2099/
+record_id: 1880_99_record_content_2099
+date: '1880-11-05'
+date_display: null
+volume: III
+issue_number: '123'
+page: '2'
+article_type: news
+issue_reference: III, 123, 5 November 1880, Page 2
+people_mentioned:
+- Dr Sangster
+- Wooton
+places_mentioned:
+- Eastern Road
+- Nankivell’s Gully
+topics:
+- accident
+- injury
+- transport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Accident.  Dr Sangster was driving along the Eastern Road near Nankivell’s Gully when the buggy ran along the side of a cutting and overturned.  The doctor was thrown out, but not seriously hurt.  Wooton, who was with him, suffered a broken collarbone.  The trap was not damaged.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

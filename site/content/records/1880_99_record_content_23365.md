@@ -1,0 +1,25 @@
+---
+title: The Penny Readings with bagpipes
+type: records
+slug: 1880_99_record_content_23365
+url: /records/1880_99_record_content_23365/
+record_id: 1880_99_record_content_23365
+date: '1886-09-14'
+date_display: null
+volume: VIII.
+issue_number: '578'
+page: '2'
+article_type: news
+issue_reference: VIII. 578. 14 Sep. 1886, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- entertainment
+- music
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Penny Readings with bagpipes also had a crowded house on Saturday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

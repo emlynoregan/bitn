@@ -1,0 +1,25 @@
+---
+title: by Alexander Montgomery
+type: records
+slug: 1880_99_record_content_8875
+url: /records/1880_99_record_content_8875/
+record_id: 1880_99_record_content_8875
+date: '1882-12-29'
+date_display: null
+volume: V
+issue_number: '235'
+page: '2'
+article_type: other
+issue_reference: V, 235, 1882-12-29, page 2
+people_mentioned:
+- Alexander Montgomery
+places_mentioned: []
+topics:
+- literature
+- author
+source_document: 1985-87_Northern__Argus.md
+---
+
+by Alexander Montgomery
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

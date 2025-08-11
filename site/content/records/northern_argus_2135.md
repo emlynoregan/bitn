@@ -5,6 +5,7 @@ slug: northern_argus_2135
 url: /records/northern_argus_2135/
 record_id: northern_argus_2135
 date: '1987-01-28'
+date_display: null
 volume: CXVI
 issue_number: '8089'
 page: '14'

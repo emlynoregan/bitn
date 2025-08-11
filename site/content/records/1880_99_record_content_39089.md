@@ -1,0 +1,25 @@
+---
+title: Burra Town Council, 28 November
+type: records
+slug: 1880_99_record_content_39089
+url: /records/1880_99_record_content_39089/
+record_id: 1880_99_record_content_39089
+date: '1890-12-02'
+date_display: null
+volume: XI
+issue_number: '1013'
+page: '3'
+article_type: news
+issue_reference: XI, 1013, 2 Dec. 1890, page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- council
+- local government
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Town Council, 28 November.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

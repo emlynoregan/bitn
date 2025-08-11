@@ -1,0 +1,25 @@
+---
+title: The 6d Institute series
+type: records
+slug: 1880_99_record_content_4487
+url: /records/1880_99_record_content_4487/
+record_id: 1880_99_record_content_4487
+date: '1881-07-01'
+date_display: null
+volume: IV
+issue_number: '157'
+page: '2'
+article_type: other
+issue_reference: IV, 157, 1 July 1881, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- series
+- institute
+- education
+source_document: 1985-87_Northern__Argus.md
+---
+
+[The 6d Institute series.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

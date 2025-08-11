@@ -5,6 +5,7 @@ slug: northern_argus_1925
 url: /records/northern_argus_1925/
 record_id: northern_argus_1925
 date: '1986-11-19'
+date_display: null
 volume: CXVI
 issue_number: '8080'
 page: '19'

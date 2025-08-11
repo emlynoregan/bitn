@@ -1,0 +1,26 @@
+---
+title: Comment on lady members' participation
+type: records
+slug: 1880_99_record_content_46169
+url: /records/1880_99_record_content_46169/
+record_id: 1880_99_record_content_46169
+date: '1892-07-27'
+date_display: null
+volume: XIII
+issue_number: '202'
+page: '3'
+article_type: other
+issue_reference: XIII, 202, 27 July 1892, page 3
+people_mentioned:
+- lady members
+places_mentioned: []
+topics:
+- society
+- gender
+- culture
+source_document: 1985-87_Northern__Argus.md
+---
+
+[The lady members, on the whole, tended to confine themselves to music, either instrumental or vocal, with the occasional recitation or reading.  Only occasionally are odd ones shown to be taking a more active part in speeches, debates, or delivering a paper.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

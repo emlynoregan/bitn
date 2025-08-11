@@ -1,0 +1,25 @@
+---
+title: Rates for 1881 declared
+type: records
+slug: 1880_99_record_content_3001
+url: /records/1880_99_record_content_3001/
+record_id: 1880_99_record_content_3001
+date: '1881-01-07'
+date_display: null
+volume: IV
+issue_number: '132'
+page: '2'
+article_type: news
+issue_reference: IV, 132, 1881-01-07, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- community
+- financial
+- rates
+source_document: 1985-87_Northern__Argus.md
+---
+
+The rates for 1881 were declared at 1/- general and 3d health.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

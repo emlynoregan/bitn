@@ -1,0 +1,28 @@
+---
+title: Eskell & Tattersall, Dentists visit Burra
+type: records
+slug: 1880_99_record_content_62137
+url: /records/1880_99_record_content_62137/
+record_id: 1880_99_record_content_62137
+date: '1897-04-07'
+date_display: null
+volume: XV
+issue_number: 267 (3)
+page: '2'
+article_type: advertisement
+issue_reference: XV, 267 (3), 7 Apr. 1897, page 2 [Third use of No. 267]
+people_mentioned:
+- Eskell & Tattersall
+places_mentioned:
+- Burra
+- Vivian’s [Commercial] Hotel
+topics:
+- health
+- advertisement
+- dentistry
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Eskell & Tattersall, Dentists, visit Burra every six weeks and may be consulted at Vivian’s [Commercial] Hotel.  Extractions 2/6, Gas 1/- extra.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

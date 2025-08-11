@@ -1,0 +1,24 @@
+---
+title: Editorial on Government Expenditure Estimates.
+type: records
+slug: 1880_99_record_content_18933
+url: /records/1880_99_record_content_18933/
+record_id: 1880_99_record_content_18933
+date: '1885-08-18'
+date_display: null
+volume: VII
+issue_number: '467'
+page: '2'
+article_type: other
+issue_reference: VII, 467, 18 August 1885, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- government
+- finance
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial on Government Expenditure Estimates.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

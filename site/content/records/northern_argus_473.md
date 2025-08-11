@@ -6,6 +6,7 @@ slug: northern_argus_473
 url: /records/northern_argus_473/
 record_id: northern_argus_473
 date: '1985-12-04'
+date_display: null
 volume: CXV
 issue_number: '8031'
 page: '23'

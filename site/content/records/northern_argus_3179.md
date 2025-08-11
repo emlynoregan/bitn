@@ -5,6 +5,7 @@ slug: northern_argus_3179
 url: /records/northern_argus_3179/
 record_id: northern_argus_3179
 date: '1987-10-28'
+date_display: null
 volume: CXVII
 issue_number: '8129'
 page: '19'

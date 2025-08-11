@@ -1,0 +1,27 @@
+---
+title: 'SA Parliament: 1st Session of the 11th Parliament opened'
+type: records
+slug: 1880_99_record_content_13359
+url: /records/1880_99_record_content_13359/
+record_id: 1880_99_record_content_13359
+date: '1884-06-06'
+date_display: null
+volume: V
+issue_number: '343'
+page: '2'
+article_type: news
+issue_reference: V, 343, 6 June 1884, page 2
+people_mentioned:
+- the Governor
+places_mentioned:
+- SA
+topics:
+- parliament
+- government
+- politics
+source_document: 1985-87_Northern__Argus.md
+---
+
+SA Parliament: 1st Session of the 11th Parliament was opened by the Governor on 5 June.  The House of Assembly now has 52 members, which it is hoped will produce greater stability.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

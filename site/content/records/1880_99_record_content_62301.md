@@ -1,0 +1,25 @@
+---
+title: Point Pass Sports arranged for 24 May.
+type: records
+slug: 1880_99_record_content_62301
+url: /records/1880_99_record_content_62301/
+record_id: 1880_99_record_content_62301
+date: '1897-05-19'
+date_display: null
+volume: XV
+issue_number: 271 (2)
+page: '2'
+article_type: news
+issue_reference: XV, 271 (2), 19 May 1897, page 2 [2nd use of a number first used
+  in this volume in November 1893.]
+people_mentioned: []
+places_mentioned:
+- Point Pass
+topics:
+- sport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Point Pass Sports arranged for 24 May.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

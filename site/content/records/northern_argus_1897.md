@@ -5,6 +5,7 @@ slug: northern_argus_1897
 url: /records/northern_argus_1897/
 record_id: northern_argus_1897
 date: '1986-11-05'
+date_display: null
 volume: CXVI
 issue_number: '8078'
 page: '19'

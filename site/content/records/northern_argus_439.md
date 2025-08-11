@@ -5,6 +5,7 @@ slug: northern_argus_439
 url: /records/northern_argus_439/
 record_id: northern_argus_439
 date: '1985-11-20'
+date_display: null
 volume: CXV
 issue_number: 8029 (2)
 page: 1 & 2

@@ -1,0 +1,29 @@
+---
+title: A.C. Noyes
+type: records
+slug: 1880_99_record_content_65595
+url: /records/1880_99_record_content_65595/
+record_id: 1880_99_record_content_65595
+date: '1899-01-04'
+date_display: null
+volume: XV
+issue_number: 348 (3)
+page: '2'
+article_type: advertisement
+issue_reference: XV, 348 (3), 4 Jan. 1899, page 2 [Though pages 2 & 3 were dated 1898]
+  [3rd use of a number used twice in this volume in August & September 1896]
+people_mentioned:
+- A.C. Noyes
+places_mentioned:
+- Kooringa
+topics:
+- business
+- advertisement
+- education
+- music
+source_document: 1985-87_Northern__Argus.md
+---
+
+A.C. Noyes	Music Teacher, Kooringa
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

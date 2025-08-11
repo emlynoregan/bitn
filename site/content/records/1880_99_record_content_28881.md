@@ -1,0 +1,25 @@
+---
+title: J. Rogers
+type: records
+slug: 1880_99_record_content_28881
+url: /records/1880_99_record_content_28881/
+record_id: 1880_99_record_content_28881
+date: '1888-06-22'
+date_display: null
+volume: IX.
+issue_number: '760'
+page: '2'
+article_type: other
+issue_reference: IX., 760, 1888-06-22, page 2
+people_mentioned:
+- J. Rogers
+places_mentioned: []
+topics:
+- election
+- candidate
+source_document: 1985-87_Northern__Argus.md
+---
+
+J. Rogers
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

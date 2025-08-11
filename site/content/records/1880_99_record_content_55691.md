@@ -1,0 +1,27 @@
+---
+title: Commercial St, near the Bank of Australasia
+type: records
+slug: 1880_99_record_content_55691
+url: /records/1880_99_record_content_55691/
+record_id: 1880_99_record_content_55691
+date: '1895-01-02'
+date_display: null
+volume: XV
+issue_number: '321'
+page: '2'
+article_type: advertisement
+issue_reference: XV, 321, 2 Jan. 1895, page 2
+people_mentioned: []
+places_mentioned:
+- Commercial St
+- Bank of Australasia
+topics:
+- advertisement
+- business
+- location
+source_document: 1985-87_Northern__Argus.md
+---
+
+Commercial St, near the Bank of Australasia
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

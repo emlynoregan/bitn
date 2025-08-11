@@ -1,0 +1,24 @@
+---
+title: Check the rolls now.
+type: records
+slug: 1880_99_record_content_53411
+url: /records/1880_99_record_content_53411/
+record_id: 1880_99_record_content_53411
+date: '1894-04-11'
+date_display: null
+volume: XV
+issue_number: '291'
+page: '2'
+article_type: news
+issue_reference: XV, 291, 1894-04-11, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- voting
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Check the rolls now.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

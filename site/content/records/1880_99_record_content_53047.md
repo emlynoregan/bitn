@@ -1,0 +1,24 @@
+---
+title: Cycling from out-of-town gets another ½ column report.
+type: records
+slug: 1880_99_record_content_53047
+url: /records/1880_99_record_content_53047/
+record_id: 1880_99_record_content_53047
+date: '1894-02-28'
+date_display: null
+volume: XV
+issue_number: '285'
+page: '3'
+article_type: news
+issue_reference: XV, 285, 28 Feb. 1894, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- cycling
+- sports
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cycling from out-of-town gets another ½ column report.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

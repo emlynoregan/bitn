@@ -1,0 +1,40 @@
+---
+title: Editorial on Local Government.
+type: records
+slug: 1880_99_record_content_42947
+url: /records/1880_99_record_content_42947/
+record_id: 1880_99_record_content_42947
+date: '1891-11-11'
+date_display: null
+volume: XII
+issue_number: '1065'
+page: '2'
+article_type: other
+issue_reference: XII, 1065, 11 Nov. 1891, Page 2
+people_mentioned:
+- editor
+places_mentioned:
+- SA
+- NSW
+- Victoria
+- Queensland
+- Melbourne
+topics:
+- local government
+- gambling
+- sport
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial on Local Government.
+
+The SA system of local government is better that that of NSW, Victoria and Queensland, but Burra would have been a much better place had it achieved local government earlier when the town was more prosperous.
+
+2nd Leader on Melbourne Cup Day: ‘The great racing carnival of Australasia’.
+
+The editor was not sure such addictions to pleasure ‘do not tend to weaken character’ and he rather seems to hope that, though we must have recreation ‘the absorbtion [sic] by it and the intoxication of it will gradually die out as better aims and ambitions come in’.
+
+Of course it was the gambling that he was most against.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

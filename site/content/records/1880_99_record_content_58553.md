@@ -1,0 +1,26 @@
+---
+title: The Drought.
+type: records
+slug: 1880_99_record_content_58553
+url: /records/1880_99_record_content_58553/
+record_id: 1880_99_record_content_58553
+date: '1895-11-13'
+date_display: null
+volume: XV
+issue_number: '323'
+page: '3'
+article_type: news
+issue_reference: XV, 323, 13 Nov. 1895, page 3
+people_mentioned: []
+places_mentioned:
+- Hallett
+topics:
+- event
+- drought
+- agriculture
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Drought.  The country east of Hallett is the worst it has been for 26 years.  As well as drought the rabbits are sweeping crops off wholesale.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

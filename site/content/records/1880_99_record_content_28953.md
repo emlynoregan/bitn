@@ -1,0 +1,26 @@
+---
+title: Electric Trams
+type: records
+slug: 1880_99_record_content_28953
+url: /records/1880_99_record_content_28953/
+record_id: 1880_99_record_content_28953
+date: '1888-07-03'
+date_display: null
+volume: IX.
+issue_number: '763'
+page: '2'
+article_type: news
+issue_reference: IX. 763. 3 July 1888, Page 2
+people_mentioned: []
+places_mentioned:
+- Sydney
+- Ballarat
+topics:
+- transport
+- infrastructure
+source_document: 1985-87_Northern__Argus.md
+---
+
+Electric Trams are a success in Sydney and Ballarat.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

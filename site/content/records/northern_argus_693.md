@@ -5,6 +5,7 @@ slug: northern_argus_693
 url: /records/northern_argus_693/
 record_id: northern_argus_693
 date: '1986-02-12'
+date_display: null
 volume: CXV
 issue_number: '8040'
 page: '18'

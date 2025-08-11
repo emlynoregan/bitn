@@ -1,0 +1,26 @@
+---
+title: Burra Literary Soc. musical and elocution meeting
+type: records
+slug: 1880_99_record_content_33743
+url: /records/1880_99_record_content_33743/
+record_id: 1880_99_record_content_33743
+date: '1889-09-27'
+date_display: null
+volume: XI
+issue_number: '890'
+page: '2'
+article_type: news
+issue_reference: XI, 890, 27 Sep. 1889, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- society
+- culture
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Literary Soc. held a musical and elocution meeting on 20 Sep. when over 50 members attended.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -5,6 +5,7 @@ slug: northern_argus_2207
 url: /records/northern_argus_2207/
 record_id: northern_argus_2207
 date: '1987-02-25'
+date_display: null
 volume: CXVI
 issue_number: '8093'
 page: '12'

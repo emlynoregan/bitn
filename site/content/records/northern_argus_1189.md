@@ -5,6 +5,7 @@ slug: northern_argus_1189
 url: /records/northern_argus_1189/
 record_id: northern_argus_1189
 date: '1986-05-14'
+date_display: null
 volume: CXVI
 issue_number: '8053'
 page: '18'

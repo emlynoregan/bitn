@@ -1,0 +1,28 @@
+---
+title: SA Parliament has been petitioned to prohibit Tandstickor and wax matches
+type: records
+slug: 1880_99_record_content_51573
+url: /records/1880_99_record_content_51573/
+record_id: 1880_99_record_content_51573
+date: '1893-10-25'
+date_display: null
+volume: XV
+issue_number: '267'
+page: '3'
+article_type: news
+issue_reference: XV, 267, 25 Oct. 1893, page 3
+people_mentioned: []
+places_mentioned:
+- SA
+- the colony
+topics:
+- parliament
+- safety
+- fire
+- legislation
+source_document: 1985-87_Northern__Argus.md
+---
+
+SA Parliament has been petitioned to prohibit Tandstickor and wax matches in the colony – after time to allow for shipments actually on the water.  They are dangerous and cause bushfires and fires in crops and grass.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

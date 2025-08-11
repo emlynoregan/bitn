@@ -1,0 +1,26 @@
+---
+title: Burra Literary Soc. 53 people attended on Friday
+type: records
+slug: 1880_99_record_content_51567
+url: /records/1880_99_record_content_51567/
+record_id: 1880_99_record_content_51567
+date: '1893-10-25'
+date_display: null
+volume: XV
+issue_number: '267'
+page: '3'
+article_type: community_notice
+issue_reference: XV, 267, 25 Oct. 1893, page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- society
+- attendance
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Literary Soc.  53 people attended on Friday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

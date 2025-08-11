@@ -1,0 +1,24 @@
+---
+title: Football Supporters disagree on lacrosse club
+type: records
+slug: 1880_99_record_content_41097
+url: /records/1880_99_record_content_41097/
+record_id: 1880_99_record_content_41097
+date: '1891-04-15'
+date_display: null
+volume: XII
+issue_number: '1035'
+page: '3'
+article_type: community_notice
+issue_reference: XII, 1035, 15 Apr. 1891, Page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- sport
+- organization
+source_document: 1985-87_Northern__Argus.md
+---
+
+Football Supporters disagree of any lacrosse club, so it is likely to be shelved.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

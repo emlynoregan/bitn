@@ -1,0 +1,27 @@
+---
+title: Burra Co. MI
+type: records
+slug: 1880_99_record_content_50105
+url: /records/1880_99_record_content_50105/
+record_id: 1880_99_record_content_50105
+date: '1893-05-31'
+date_display: null
+volume: XV
+issue_number: '246'
+page: '2'
+article_type: news
+issue_reference: XV, 246, 31 May. 1893, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- organization
+- military
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Co. MI
+
+[Increasingly referred to as the Mounted Rifles rather than Mounted Infantry]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

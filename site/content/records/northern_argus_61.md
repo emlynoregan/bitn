@@ -6,6 +6,7 @@ slug: northern_argus_61
 url: /records/northern_argus_61/
 record_id: northern_argus_61
 date: '1985-08-28'
+date_display: null
 volume: CXV
 issue_number: '8021'
 page: '18'

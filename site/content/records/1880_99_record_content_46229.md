@@ -1,0 +1,25 @@
+---
+title: Quotation on fairness of taxation
+type: records
+slug: 1880_99_record_content_46229
+url: /records/1880_99_record_content_46229/
+record_id: 1880_99_record_content_46229
+date: '1892-08-03'
+date_display: null
+volume: XIII
+issue_number: '203'
+page: '3'
+article_type: news
+issue_reference: XIII, 203, 3 Aug. 1892, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- council
+- taxation
+- quote
+source_document: 1985-87_Northern__Argus.md
+---
+
+‘If one person is doing more business than another it is not right that the man doing the most should be taxed higher than the other.’
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

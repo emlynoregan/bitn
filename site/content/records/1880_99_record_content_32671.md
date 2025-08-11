@@ -1,0 +1,26 @@
+---
+title: Street Trees
+type: records
+slug: 1880_99_record_content_32671
+url: /records/1880_99_record_content_32671/
+record_id: 1880_99_record_content_32671
+date: '1889-06-04'
+date_display: null
+volume: X
+issue_number: '858'
+page: '2'
+article_type: community_notice
+issue_reference: X, 858, 4 June 1889, page 2
+people_mentioned: []
+places_mentioned:
+- Town Council
+topics:
+- environment
+- street trees
+- municipal
+source_document: 1985-87_Northern__Argus.md
+---
+
+Street Trees.  The Town Council has planted 400 this year.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

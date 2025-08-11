@@ -1,0 +1,26 @@
+---
+title: The Newcastle smelter produced 1,094 tons compared with 1,196 tons.
+type: records
+slug: 1880_99_record_content_3961
+url: /records/1880_99_record_content_3961/
+record_id: 1880_99_record_content_3961
+date: '1881-05-06'
+date_display: null
+volume: IV
+issue_number: '149'
+page: '2'
+article_type: news
+issue_reference: IV, 149, 6 May 1881, Page 2
+people_mentioned: []
+places_mentioned:
+- Newcastle
+topics:
+- mining
+- production
+- statistics
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Newcastle smelter produced 1,094 tons compared with 1,196 tons.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

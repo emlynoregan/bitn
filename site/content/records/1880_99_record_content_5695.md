@@ -1,0 +1,30 @@
+---
+title: Advt.  Charles Schutz requests continued patronage for his ‘Old Line of Cabs’
+type: records
+slug: 1880_99_record_content_5695
+url: /records/1880_99_record_content_5695/
+record_id: 1880_99_record_content_5695
+date: '1881-12-09'
+date_display: null
+volume: IV
+issue_number: '180'
+page: '2'
+article_type: advertisement
+issue_reference: IV, 180, 9 December 1881, Page 2
+people_mentioned:
+- Charles Schutz
+places_mentioned:
+- Burra Livery and Bait Stables
+- Commercial St.
+topics:
+- business
+- transport
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Charles Schutz requests continued patronage for his ‘Old Line of Cabs’
+
+Burra Livery and Bait Stables, Commercial St.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

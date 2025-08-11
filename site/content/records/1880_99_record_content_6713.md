@@ -1,0 +1,24 @@
+---
+title: Editorial. Further on the Water Supply.
+type: records
+slug: 1880_99_record_content_6713
+url: /records/1880_99_record_content_6713/
+record_id: 1880_99_record_content_6713
+date: '1882-04-07'
+date_display: null
+volume: IV
+issue_number: '197'
+page: '2'
+article_type: other
+issue_reference: IV, 197, 7 April 1882, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- water supply
+- editorial
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial.  Further on the Water Supply.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

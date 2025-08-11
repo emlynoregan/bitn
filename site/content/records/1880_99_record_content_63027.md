@@ -1,0 +1,32 @@
+---
+title: On the Prince of Wales’ Birthday holiday
+type: records
+slug: 1880_99_record_content_63027
+url: /records/1880_99_record_content_63027/
+record_id: 1880_99_record_content_63027
+date: '1897-11-17'
+date_display: null
+volume: XV
+issue_number: 292 (2)
+page: '3'
+article_type: news
+issue_reference: XV, 292 (2), 17 Nov. 1897, page 3
+people_mentioned: []
+places_mentioned:
+- Riverton
+topics:
+- cricket
+- sport
+- events
+source_document: 1985-87_Northern__Argus.md
+---
+
+On the Prince of Wales’ Birthday holiday on Monday St Mary’s Cricket Club went to Riverton.
+
+Riverton 97 & 4 for 152 declared.
+
+St Mary’s 50 & 8 for 110.  The game was declared a draw.
+
+[More commonly such games were decided on the first innings.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

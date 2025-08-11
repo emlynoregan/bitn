@@ -1,0 +1,27 @@
+---
+title: John Kitson fined 2/6 for stray goats
+type: records
+slug: 1880_99_record_content_31603
+url: /records/1880_99_record_content_31603/
+record_id: 1880_99_record_content_31603
+date: '1889-02-08'
+date_display: null
+volume: X
+issue_number: '825'
+page: '2'
+article_type: news
+issue_reference: X, 825, 1889-02-08, page 2
+people_mentioned:
+- John Kitson
+places_mentioned: []
+topics:
+- legal
+- livestock
+- fine
+- stray goats
+source_document: 1985-87_Northern__Argus.md
+---
+
+John Kitson		fined 2/6 for stray goats
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: Cr Sampson amended it to stand over for a fortnight
+type: records
+slug: 1880_99_record_content_11407
+url: /records/1880_99_record_content_11407/
+record_id: 1880_99_record_content_11407
+date: '1883-12-11'
+date_display: null
+volume: V.
+issue_number: '294'
+page: '2'
+article_type: news
+issue_reference: V., 294, 1883-12-11, page 2
+people_mentioned:
+- Cr Sampson
+- Cr Tiver
+places_mentioned: []
+topics:
+- council
+- local government
+- ratepayers
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cr Sampson amended it to stand over for a fortnight.  Cr Tiver was unprepared to vote.  Cr Sampson thought the promises to ratepayers had not been fulfilled.  Amendment carried.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

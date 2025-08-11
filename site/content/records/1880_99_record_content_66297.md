@@ -1,0 +1,26 @@
+---
+title: Burra Waterworks operations and withdrawal of concessions for excess water
+type: records
+slug: 1880_99_record_content_66297
+url: /records/1880_99_record_content_66297/
+record_id: 1880_99_record_content_66297
+date: '1899-05-17'
+date_display: null
+volume: XV
+issue_number: '364'
+page: '3'
+article_type: news
+issue_reference: XV, 364, 17 May 1899 page 3
+people_mentioned: []
+places_mentioned:
+- Burra Waterworks
+topics:
+- infrastructure
+- waterworks
+- local government
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Waterworks.  The works continue to operate satisfactorily.  From 1 July all concessions for excess water have been discontinued.  [These concessions had allowed excess use in one assessment to be transferred to another assessment which had been underused, but from 1 July each assessment would stand alone and be charged accordingly.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

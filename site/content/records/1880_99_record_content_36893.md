@@ -1,0 +1,24 @@
+---
+title: Influenza is gradually declining.
+type: records
+slug: 1880_99_record_content_36893
+url: /records/1880_99_record_content_36893/
+record_id: 1880_99_record_content_36893
+date: '1890-06-10'
+date_display: null
+volume: XI
+issue_number: '963'
+page: '2'
+article_type: news
+issue_reference: XI, 963, 10 June 1890, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- influenza
+- health
+source_document: 1985-87_Northern__Argus.md
+---
+
+Influenza is gradually declining.  Fortunately there were no very serious cases this time.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

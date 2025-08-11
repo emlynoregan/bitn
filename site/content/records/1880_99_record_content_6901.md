@@ -1,0 +1,26 @@
+---
+title: St Mary’s vestry meeting
+type: records
+slug: 1880_99_record_content_6901
+url: /records/1880_99_record_content_6901/
+record_id: 1880_99_record_content_6901
+date: '1882-05-05'
+date_display: null
+volume: IV
+issue_number: '201'
+page: '2'
+article_type: community_notice
+issue_reference: IV, 201, 5 May 1882, Page 2
+people_mentioned: []
+places_mentioned:
+- St Mary’s
+topics:
+- church
+- vestry
+- property
+source_document: 1985-87_Northern__Argus.md
+---
+
+St Mary’s vestry meeting empowered the churchwardens to dispose of the fittings of the old church.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

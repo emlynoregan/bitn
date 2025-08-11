@@ -1,0 +1,24 @@
+---
+title: Report received
+type: records
+slug: 1880_99_record_content_6983
+url: /records/1880_99_record_content_6983/
+record_id: 1880_99_record_content_6983
+date: '1882-05-19'
+date_display: null
+volume: IV
+issue_number: '203'
+page: '2'
+article_type: other
+issue_reference: IV, 203, 1882-05-19, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- council
+- administration
+source_document: 1985-87_Northern__Argus.md
+---
+
+The report was received.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,26 @@
+---
+title: Issue numbering notes
+type: records
+slug: 1880_99_record_content_61315
+url: /records/1880_99_record_content_61315/
+record_id: 1880_99_record_content_61315
+date: '1896-12-09'
+date_display: null
+volume: XV
+issue_number: 253 (2)
+page: '2'
+article_type: other
+issue_reference: XV, 253 (2), 9 Dec. 1896, page 2 [Note the complete break in the
+  series of issue numbers.]
+people_mentioned: []
+places_mentioned: []
+topics:
+- other
+source_document: 1985-87_Northern__Argus.md
+---
+
+[2nd use of a number previously used in this volume in July 1893]
+
+[Note: the sequence in 1893 is orderly to 259 which is then used twice then there is no 260 then matters proceed in order to 272 which is used twice 273 is not used then in order to 276 which ends the year]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

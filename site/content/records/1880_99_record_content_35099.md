@@ -1,0 +1,27 @@
+---
+title: Riverton cricketers too good for Burra
+type: records
+slug: 1880_99_record_content_35099
+url: /records/1880_99_record_content_35099/
+record_id: 1880_99_record_content_35099
+date: '1890-01-07'
+date_display: null
+volume: XI
+issue_number: '919'
+page: '3'
+article_type: news
+issue_reference: XI, 919, 7 Jan. 1890, page 3
+people_mentioned:
+- Sparks
+places_mentioned:
+- Riverton
+- Burra
+topics:
+- sport
+- cricket
+source_document: 1985-87_Northern__Argus.md
+---
+
+But ‘Sparks’ reveals that the Riverton cricketers were too good for Burra.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

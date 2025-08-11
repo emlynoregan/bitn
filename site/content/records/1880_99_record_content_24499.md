@@ -1,0 +1,27 @@
+---
+title: ‘The Wanderer’ accuses the Advertiser of publishing obscene details of divorce
+  cases.
+type: records
+slug: 1880_99_record_content_24499
+url: /records/1880_99_record_content_24499/
+record_id: 1880_99_record_content_24499
+date: '1887-01-18'
+date_display: null
+volume: VIII
+issue_number: '612'
+page: '2'
+article_type: other
+issue_reference: VIII. 612, 18 Jan. 1887, page 2
+people_mentioned:
+- The Wanderer
+- Advertiser
+places_mentioned: []
+topics:
+- media
+- divorce
+source_document: 1985-87_Northern__Argus.md
+---
+
+‘The Wanderer’ accuses the Advertiser of publishing obscene details of divorce cases.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

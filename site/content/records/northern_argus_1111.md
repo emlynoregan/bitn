@@ -5,6 +5,7 @@ slug: northern_argus_1111
 url: /records/northern_argus_1111/
 record_id: northern_argus_1111
 date: '1986-04-23'
+date_display: null
 volume: CXVI
 issue_number: '8050'
 page: '21'

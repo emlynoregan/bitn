@@ -5,6 +5,7 @@ slug: northern_argus_3009
 url: /records/northern_argus_3009/
 record_id: northern_argus_3009
 date: '1987-09-02'
+date_display: null
 volume: CXVII
 issue_number: '8121'
 page: '19'

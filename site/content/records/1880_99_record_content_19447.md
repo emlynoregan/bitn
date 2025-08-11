@@ -1,0 +1,23 @@
+---
+title: ‘City of Big-Big’.  Letters XIII & XIV.
+type: records
+slug: 1880_99_record_content_19447
+url: /records/1880_99_record_content_19447/
+record_id: 1880_99_record_content_19447
+date: '1885-10-20'
+date_display: null
+volume: VII
+issue_number: '485'
+page: '3'
+article_type: letter
+issue_reference: VII, 485, 20 October 1885, Page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- letter
+source_document: 1985-87_Northern__Argus.md
+---
+
+‘City of Big-Big’.  Letters XIII & XIV.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

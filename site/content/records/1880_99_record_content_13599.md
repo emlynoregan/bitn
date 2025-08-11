@@ -1,0 +1,26 @@
+---
+title: Tenders called for building a public school at Mt Bryan East
+type: records
+slug: 1880_99_record_content_13599
+url: /records/1880_99_record_content_13599/
+record_id: 1880_99_record_content_13599
+date: '1884-07-01'
+date_display: null
+volume: VI
+issue_number: '350'
+page: '2'
+article_type: advertisement
+issue_reference: VI, 350, 1 July 1884, page 2
+people_mentioned: []
+places_mentioned:
+- Mt Bryan East
+topics:
+- education
+- construction
+- tender
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Tenders called for building a public school and teacher’s residence at Mt Bryan East.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,31 @@
+---
+title: Obituary.  M-C Benham’s wife died in Adelaide last Friday.
+type: records
+slug: 1880_99_record_content_63627
+url: /records/1880_99_record_content_63627/
+record_id: 1880_99_record_content_63627
+date: '1898-02-09'
+date_display: null
+volume: XV
+issue_number: 304 (2)
+page: '3'
+article_type: obituary
+issue_reference: XV, 304 (2), 9 Feb. 1898, page 3 [2nd use of a number first used
+  in this volume in July 1894.]
+people_mentioned:
+- M-C Benham’s wife
+- Edith Benham
+- Edith Gordon
+places_mentioned:
+- Adelaide
+topics:
+- death
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary.  M-C Benham’s wife died in Adelaide last Friday.
+
+[Edith Benham born Edith Gordon died 4 February 1898 aged 33.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,26 @@
+---
+title: Influenza in Burra
+type: records
+slug: 1880_99_record_content_58415
+url: /records/1880_99_record_content_58415/
+record_id: 1880_99_record_content_58415
+date: '1895-10-23'
+date_display: null
+volume: XV
+issue_number: 322 (13)
+page: page 3
+article_type: news
+issue_reference: XV, 322 (13), 23 Oct. 1895, page 3 [13th use of No. 322]
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- health
+- disease
+- influenza
+source_document: 1985-87_Northern__Argus.md
+---
+
+Influenza is rife in Burra.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

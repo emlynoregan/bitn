@@ -1,0 +1,28 @@
+---
+title: "Wilkinson’s\tBooks, Cards, Aerated Drinks, Novelties, Burra & Terowie"
+type: records
+slug: 1880_99_record_content_11899
+url: /records/1880_99_record_content_11899/
+record_id: 1880_99_record_content_11899
+date: '1884-01-01'
+date_display: null
+volume: V
+issue_number: '299'
+page: '4'
+article_type: advertisement
+issue_reference: V, 299, 1 Jan. 1884, page 2
+people_mentioned:
+- Wilkinson’s
+places_mentioned:
+- Burra
+- Terowie
+topics:
+- business
+- advertisement
+- retail
+source_document: 1985-87_Northern__Argus.md
+---
+
+Wilkinson’s	Books, Cards, Aerated Drinks, Novelties, Burra & Terowie
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

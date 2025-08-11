@@ -1,0 +1,23 @@
+---
+title: Weather — brickfielder
+type: records
+slug: 1880_99_record_content_35113
+url: /records/1880_99_record_content_35113/
+record_id: 1880_99_record_content_35113
+date: '1890-01-10'
+date_display: null
+volume: XI
+issue_number: '920'
+page: '2'
+article_type: news
+issue_reference: XI, 920, 10 Jan. 1890, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- weather
+source_document: 1985-87_Northern__Argus.md
+---
+
+Weather.  Yesterday was a regular brickfielder.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

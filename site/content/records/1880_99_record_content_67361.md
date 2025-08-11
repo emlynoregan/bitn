@@ -1,0 +1,27 @@
+---
+title: Grasshoppers invaded the town in their millions on Friday, but they soon headed
+  off south.
+type: records
+slug: 1880_99_record_content_67361
+url: /records/1880_99_record_content_67361/
+record_id: 1880_99_record_content_67361
+date: '1899-11-15'
+date_display: null
+volume: XV
+issue_number: '393'
+page: '3'
+article_type: news
+issue_reference: XV, 393, 15 Nov. 1899 page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- pest
+- agriculture
+- environment
+source_document: 1985-87_Northern__Argus.md
+---
+
+Grasshoppers invaded the town in their millions on Friday, but they soon headed off south.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

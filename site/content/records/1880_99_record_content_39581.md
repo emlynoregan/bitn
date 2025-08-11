@@ -1,0 +1,27 @@
+---
+title: Joe Ward’s Mistake by Luke Sharp, 15 July.
+type: records
+slug: 1880_99_record_content_39581
+url: /records/1880_99_record_content_39581/
+record_id: 1880_99_record_content_39581
+date: '1890-12-30'
+date_display: null
+volume: XI
+issue_number: '1020'
+page: '3'
+article_type: other
+issue_reference: XI, 1020, 1890-12-30, page 3
+people_mentioned:
+- Joe Ward
+- Luke Sharp
+places_mentioned: []
+topics:
+- fiction
+- story
+- mistake
+source_document: 1985-87_Northern__Argus.md
+---
+
+Joe Ward’s Mistake by Luke Sharp, 15 July.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

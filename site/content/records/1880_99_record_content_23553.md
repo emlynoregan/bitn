@@ -1,0 +1,27 @@
+---
+title: Burra Floricultural Society met on 6 October and resolved that the flower show
+  be on 3 November.
+type: records
+slug: 1880_99_record_content_23553
+url: /records/1880_99_record_content_23553/
+record_id: 1880_99_record_content_23553
+date: '1886-10-08'
+date_display: null
+volume: VIII.
+issue_number: '585'
+page: '2'
+article_type: community_notice
+issue_reference: VIII. 585. 8 Oct. 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- society
+- event
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Floricultural Society met on 6 October and resolved that the flower show be on 3 November.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

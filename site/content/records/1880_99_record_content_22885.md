@@ -1,0 +1,25 @@
+---
+title: Road Accident
+type: records
+slug: 1880_99_record_content_22885
+url: /records/1880_99_record_content_22885/
+record_id: 1880_99_record_content_22885
+date: '1886-07-30'
+date_display: null
+volume: VII
+issue_number: '565'
+page: '2'
+article_type: news
+issue_reference: VII. 565. 30 July 1886, page 2
+people_mentioned:
+- Mrs Chivell
+places_mentioned: []
+topics:
+- accident
+- health
+source_document: 1985-87_Northern__Argus.md
+---
+
+Road Accident. For the fourth or fifth time Mrs Chivell was thrown out of her milk cart when it capsized.  As on the other occasions, she was not seriously hurt.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

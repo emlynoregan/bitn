@@ -6,6 +6,7 @@ slug: northern_argus_765
 url: /records/northern_argus_765/
 record_id: northern_argus_765
 date: '1986-02-26'
+date_display: null
 volume: CXVI
 issue_number: '8042'
 page: '18'

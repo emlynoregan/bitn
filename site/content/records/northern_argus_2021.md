@@ -5,6 +5,7 @@ slug: northern_argus_2021
 url: /records/northern_argus_2021/
 record_id: northern_argus_2021
 date: '1986-12-10'
+date_display: null
 volume: CXVI
 issue_number: '8083'
 page: '29'

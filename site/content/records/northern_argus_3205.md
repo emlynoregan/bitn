@@ -5,6 +5,7 @@ slug: northern_argus_3205
 url: /records/northern_argus_3205/
 record_id: northern_argus_3205
 date: '1987-11-04'
+date_display: null
 volume: CXVII
 issue_number: '8130'
 page: '19'

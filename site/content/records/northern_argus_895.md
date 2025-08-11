@@ -5,6 +5,7 @@ slug: northern_argus_895
 url: /records/northern_argus_895/
 record_id: northern_argus_895
 date: '1986-03-19'
+date_display: null
 volume: CXVI
 issue_number: '8045'
 page: '19'

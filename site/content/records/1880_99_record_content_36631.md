@@ -1,0 +1,23 @@
+---
+title: Signs of the Times.
+type: records
+slug: 1880_99_record_content_36631
+url: /records/1880_99_record_content_36631/
+record_id: 1880_99_record_content_36631
+date: '1890-05-16'
+date_display: null
+volume: XI
+issue_number: '956'
+page: '3'
+article_type: news
+issue_reference: XI, 956, 16 May 1890, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- social commentary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Signs of the Times.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

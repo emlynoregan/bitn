@@ -1,0 +1,25 @@
+---
+title: "Alex. Harris\t51"
+type: records
+slug: 1880_99_record_content_8553
+url: /records/1880_99_record_content_8553/
+record_id: 1880_99_record_content_8553
+date: '1882-12-15'
+date_display: null
+volume: V
+issue_number: '233'
+page: '2'
+article_type: other
+issue_reference: V, 233, 15 December 1882, Page 2
+people_mentioned:
+- Alex. Harris
+places_mentioned: []
+topics:
+- community
+- election
+source_document: 1985-87_Northern__Argus.md
+---
+
+Alex. Harris	51
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: 'Cricket: Burra v Kapunda'
+type: records
+slug: 1880_99_record_content_35097
+url: /records/1880_99_record_content_35097/
+record_id: 1880_99_record_content_35097
+date: '1890-01-07'
+date_display: null
+volume: XI
+issue_number: '919'
+page: '3'
+article_type: news
+issue_reference: XI, 919, 7 Jan. 1890, page 3
+people_mentioned: []
+places_mentioned:
+- Burra
+- Kapunda
+topics:
+- sport
+- cricket
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Cricket.  Burra beat Kapunda by 17 runs on 6 January.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

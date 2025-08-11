@@ -5,6 +5,7 @@ slug: northern_argus_487
 url: /records/northern_argus_487/
 record_id: northern_argus_487
 date: '1985-12-11'
+date_display: null
 volume: CXV
 issue_number: '8032'
 page: '?'

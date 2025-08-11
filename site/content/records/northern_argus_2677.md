@@ -5,6 +5,7 @@ slug: northern_argus_2677
 url: /records/northern_argus_2677/
 record_id: northern_argus_2677
 date: '1987-05-20'
+date_display: null
 volume: CXVII
 issue_number: '8106'
 page: '15'

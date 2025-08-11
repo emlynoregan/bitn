@@ -1,0 +1,24 @@
+---
+title: We have no Stipendiary Magistrate.
+type: records
+slug: 1880_99_record_content_13563
+url: /records/1880_99_record_content_13563/
+record_id: 1880_99_record_content_13563
+date: '1884-06-27'
+date_display: null
+volume: V
+issue_number: '349'
+page: '2'
+article_type: news
+issue_reference: V, 349, 27 June 1884, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- legal
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+We have no Stipendiary Magistrate.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

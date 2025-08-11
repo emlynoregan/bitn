@@ -1,0 +1,72 @@
+---
+title: Obituary and Inquest.  Andrew William Seitner, born 9 July 1884, died 18 April
+  1885
+type: records
+slug: 1880_99_record_content_17549
+url: /records/1880_99_record_content_17549/
+record_id: 1880_99_record_content_17549
+date: '1885-04-24'
+date_display: null
+volume: VI
+issue_number: '434'
+page: '3'
+article_type: obituary
+issue_reference: VI, 434, 24 April 1885, Page 3
+people_mentioned:
+- Andrew William Seitner
+- Elizabeth Seitner
+- William Seitner
+- W.F. Coglin
+- Dr William Bran Baker
+- Dr Robert Brummitt
+- August Pohlner
+- James Rosser
+- Elizabeth Rosser
+- Mrs Rossett
+- Mrs Rosser
+places_mentioned:
+- Hallett
+- Commercial Hotel
+- Burra
+topics:
+- death
+- inquest
+- child neglect
+- medical
+- court
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary and Inquest.  Andrew William Seitner, born 9 July 1884, died 18 April 1885, child of Elizabeth and William Seitner, living near Hallett.  The inquest was held at the Commercial Hotel with W.F. Coglin as coroner.
+
+The mother said she had left the child with Mrs Rossett at the end of January in good health and saw it Sunday night [presumably the Sunday a week before its death?].  It was in a very bad state with bad seat and feet.  Have been in charge of the child since Wednesday.
+
+Dr William Bran Baker: -
+
+Saw the child yesterday afternoon.  It was in a bad state suffering from bronchitis.  Large granulating scars on the soles of its feet, others on the right side of its nose, the right side and back of head and whole buttock in a very inflamed state.  Scars on feet probably due to burns.  Others may be due to disease, but aggravated by neglect.  Child badly fed and carelessly attended to.  Bronchitis was the immediate cause of death.
+
+Dr Robert Brummitt: -
+
+Saw the child yesterday afternoon.  Corroborate Dr Baker, though the buttocks rather deep sores than scars and on feet deep sores in process of healing.
+
+Case adjourned to Monday when: -
+
+William Seitner: -
+
+His wife had left him with two children, a girl aged 5 and a boy aged 8 months.  He had taken the children to Mrs Rosser [sic, not Rossett in this part of the report.] and promised her 10/- per week.
+
+The deceased was then healthy and fat, though with sores on head, arm and leg, which had healed in a few weeks.  Later the Rossers forbade him to visit.  Had not seen the child till Wednesday last.  He then sent it, with his wife, who had returned, to Burra, to the doctor’s.  He owed Mrs Rosser £7 - although earning 16/- a week he owed his employer money.
+
+August Pohlner, farmer: -
+
+Had employed Seitner six weeks before and believed Mrs Seitner neglectful of the children and weak in the head - she always asked her husband what she should do.
+
+James Rosser, cook near Hallett: -
+
+Took the children on 25 January and returned them on 26 as the baby was covered with sores and had maggots.  Have kept them till 8 April.  After six or seven weeks Seitner came to board with me, but after 17 days I told him to leave as I couldn’t afford to feed him.  He paid nothing for the children’s support or himself.  Cannot say how the baby’s feet came to be blistered.
+
+Elizabeth Rosser, wife of above: -
+
+[Gave parallel evidence to her husband.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

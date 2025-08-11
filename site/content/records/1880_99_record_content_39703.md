@@ -1,0 +1,30 @@
+---
+title: "James Rule\tCoachbuilder, Blacksmith & Wheelwright, Aberdeen, near Sara &\
+  \ Dunstan’s"
+type: records
+slug: 1880_99_record_content_39703
+url: /records/1880_99_record_content_39703/
+record_id: 1880_99_record_content_39703
+date: '1891-01-07'
+date_display: null
+volume: XII
+issue_number: '1021'
+page: '2'
+article_type: advertisement
+issue_reference: XII, 1021, 7 Jan. 1891, Page 2
+people_mentioned:
+- James Rule
+- Sara & Dunstan
+places_mentioned:
+- Aberdeen
+topics:
+- business
+- advertisement
+- coachbuilding
+- blacksmith
+source_document: 1985-87_Northern__Argus.md
+---
+
+James Rule	Coachbuilder, Blacksmith & Wheelwright, Aberdeen, near Sara & Dunstan’s
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

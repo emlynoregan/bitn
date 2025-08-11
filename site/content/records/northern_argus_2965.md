@@ -5,6 +5,7 @@ slug: northern_argus_2965
 url: /records/northern_argus_2965/
 record_id: northern_argus_2965
 date: '1987-08-12'
+date_display: null
 volume: CXVII
 issue_number: '8118'
 page: '21'

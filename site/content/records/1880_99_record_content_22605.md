@@ -1,0 +1,25 @@
+---
+title: Foundation stone of the Adelaide Exhibition Building has been laid
+type: records
+slug: 1880_99_record_content_22605
+url: /records/1880_99_record_content_22605/
+record_id: 1880_99_record_content_22605
+date: '1886-06-25'
+date_display: null
+volume: VII
+issue_number: '555'
+page: '2'
+article_type: news
+issue_reference: VII. 555. 25 June 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Adelaide Exhibition Building
+topics:
+- exhibition
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Jubilee Exhibition.  The foundation stone of the Adelaide Exhibition Building has been laid.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

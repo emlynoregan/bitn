@@ -1,0 +1,27 @@
+---
+title: Silver
+type: records
+slug: 1880_99_record_content_22251
+url: /records/1880_99_record_content_22251/
+record_id: 1880_99_record_content_22251
+date: '1886-05-21'
+date_display: null
+volume: VII
+issue_number: '545'
+page: '2'
+article_type: news
+issue_reference: VII. 545. 21 May 1886, page 2
+people_mentioned:
+- Dunstan
+places_mentioned:
+- Black Hills Silver Mine
+topics:
+- silver
+- mining
+- business
+source_document: 1985-87_Northern__Argus.md
+---
+
+Silver.  It is said that Dunstan and party intend soon to float a company to develop the Black Hills Silver Mine.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

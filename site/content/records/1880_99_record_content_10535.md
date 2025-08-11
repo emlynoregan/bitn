@@ -1,0 +1,27 @@
+---
+title: Volcano. The eruption of “Cracatia” [Krakatoa] in the Sunda Strait
+type: records
+slug: 1880_99_record_content_10535
+url: /records/1880_99_record_content_10535/
+record_id: 1880_99_record_content_10535
+date: '1883-08-31'
+date_display: null
+volume: V. 260 (2)
+issue_number: null
+page: '3'
+article_type: news
+issue_reference: 'V. 260 (2). [Wrongly numbered: should be 270] 31 August 1883, Page
+  3'
+people_mentioned: []
+places_mentioned:
+- Sunda Strait
+- Batavia
+topics:
+- volcano
+- natural disaster
+source_document: 1985-87_Northern__Argus.md
+---
+
+Volcano.  The eruption of “Cracatia” [Krakatoa] in the Sunda Strait is reported.  The eruption is said to be visible nightly from Batavia.  [Djakarta].
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -5,6 +5,7 @@ slug: northern_argus_2505
 url: /records/northern_argus_2505/
 record_id: northern_argus_2505
 date: '1987-04-22'
+date_display: null
 volume: CXVII
 issue_number: '8102'
 page: '15'

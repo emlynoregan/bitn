@@ -1,0 +1,27 @@
+---
+title: Polo.
+type: records
+slug: 1880_99_record_content_65867
+url: /records/1880_99_record_content_65867/
+record_id: 1880_99_record_content_65867
+date: '1899-02-15'
+date_display: null
+volume: XV
+issue_number: 354 (2)
+page: '3'
+article_type: news
+issue_reference: XV, 354 (2), 15 Feb. 1899 page 3 [2nd use of a number used once in
+  this volume in Dec 1896]
+people_mentioned: []
+places_mentioned:
+- Broken Hill
+- Burra
+topics:
+- polo
+- sport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Polo.  The match at Broken Hill was won by Burra 8 goals to Broken Hill’s 1 behind.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

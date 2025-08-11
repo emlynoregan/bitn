@@ -1,0 +1,25 @@
+---
+title: Larrikinism against the Salvation Army
+type: records
+slug: 1880_99_record_content_24469
+url: /records/1880_99_record_content_24469/
+record_id: 1880_99_record_content_24469
+date: '1887-01-11'
+date_display: null
+volume: VIII
+issue_number: '610'
+page: '2'
+article_type: news
+issue_reference: VIII. 610, 11 Jan. 1887, page 2
+people_mentioned: []
+places_mentioned:
+- Salvation Army
+topics:
+- community
+- public order
+source_document: 1985-87_Northern__Argus.md
+---
+
+Larrikinism has surfaced again against the Salvation Army.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

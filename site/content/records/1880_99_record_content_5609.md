@@ -1,0 +1,24 @@
+---
+title: The Grand Duchess of Geroldstein.  [Offenbach, 1867]
+type: records
+slug: 1880_99_record_content_5609
+url: /records/1880_99_record_content_5609/
+record_id: 1880_99_record_content_5609
+date: '1881-12-02'
+date_display: null
+volume: IV
+issue_number: '179'
+page: '2'
+article_type: advertisement
+issue_reference: IV, 179, 2 December 1881, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- opera
+- performance
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Grand Duchess of Geroldstein.  [Offenbach, 1867]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

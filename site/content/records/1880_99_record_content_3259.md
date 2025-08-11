@@ -1,0 +1,29 @@
+---
+title: E.A. Akhurst joins Blakeney Carter
+type: records
+slug: 1880_99_record_content_3259
+url: /records/1880_99_record_content_3259/
+record_id: 1880_99_record_content_3259
+date: '1881-02-18'
+date_display: null
+volume: IV
+issue_number: '138'
+page: '2'
+article_type: news
+issue_reference: IV, 138, 18 February 1881, Page 2
+people_mentioned:
+- E.A. Akhurst
+- Mr Blakeney Carter
+places_mentioned:
+- Clare
+- Burra
+topics:
+- business
+- law
+- professional appointment
+source_document: 1985-87_Northern__Argus.md
+---
+
+E.A. Akhurst has joined Mr Blakeney Carter, solicitor of Clare, and the new firm will open an office in Burra.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

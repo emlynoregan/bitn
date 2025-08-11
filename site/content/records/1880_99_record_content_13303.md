@@ -1,0 +1,28 @@
+---
+title: Trees.  All applications for trees for ratepayers in Kooringa
+type: records
+slug: 1880_99_record_content_13303
+url: /records/1880_99_record_content_13303/
+record_id: 1880_99_record_content_13303
+date: '1884-05-30'
+date_display: null
+volume: V
+issue_number: '341'
+page: '2'
+article_type: community_notice
+issue_reference: V, 341, 30 May 1884, page 2  [Note that there was no paper on the
+  27 May as the 26 May was the Queen’s Birthday holiday.]
+people_mentioned: []
+places_mentioned:
+- Kooringa
+- North Ward
+topics:
+- trees
+- community
+- urban
+source_document: 1985-87_Northern__Argus.md
+---
+
+Trees.  All applications for trees for ratepayers in Kooringa are likely to be granted as donations have been pretty readily given.  About 400 will be planted in streets and several hundred more in reserves this year.  Residents in North Ward are now applying.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

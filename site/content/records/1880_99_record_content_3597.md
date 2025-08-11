@@ -1,0 +1,23 @@
+---
+title: Election material
+type: records
+slug: 1880_99_record_content_3597
+url: /records/1880_99_record_content_3597/
+record_id: 1880_99_record_content_3597
+date: '1881-03-25'
+date_display: null
+volume: IV
+issue_number: '143'
+page: Page 3
+article_type: news
+issue_reference: IV, 143, 25 March 1881, Page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- election
+source_document: 1985-87_Northern__Argus.md
+---
+
+Election material
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

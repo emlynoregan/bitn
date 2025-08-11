@@ -1,0 +1,27 @@
+---
+title: Kooringa and Redruth Wesleyan Church Harvest Thanksgiving Services 2 March
+type: records
+slug: 1880_99_record_content_12433
+url: /records/1880_99_record_content_12433/
+record_id: 1880_99_record_content_12433
+date: '1884-02-29'
+date_display: null
+volume: V
+issue_number: '316'
+page: '2'
+article_type: community_notice
+issue_reference: V, 316, 29 Feb. 1884, page 2
+people_mentioned: []
+places_mentioned:
+- Kooringa
+- Redruth
+topics:
+- church
+- harvest
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+Notice.  Kooringa and Redruth Wesleyan Church Harvest Thanksgiving Services 2 March.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -5,6 +5,7 @@ slug: northern_argus_2983
 url: /records/northern_argus_2983/
 record_id: northern_argus_2983
 date: '1987-08-19'
+date_display: null
 volume: CXVII
 issue_number: '8119'
 page: '19'

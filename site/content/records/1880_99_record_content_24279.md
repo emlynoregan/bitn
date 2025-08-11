@@ -1,0 +1,25 @@
+---
+title: 1886 numbering start
+type: records
+slug: 1880_99_record_content_24279
+url: /records/1880_99_record_content_24279/
+record_id: 1880_99_record_content_24279
+date: '1886-12-31'
+date_display: null
+volume: VIII
+issue_number: '607'
+page: '2'
+article_type: other
+issue_reference: VIII, 607, 1886-12-31, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- publication
+- numbering
+- date
+source_document: 1985-87_Northern__Argus.md
+---
+
+1886 begins with Volume VII, Number 505 on 1 January 1886
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

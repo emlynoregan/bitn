@@ -1,0 +1,25 @@
+---
+title: 2nd Leader on Land Monopoly and Wages
+type: records
+slug: 1880_99_record_content_34491
+url: /records/1880_99_record_content_34491/
+record_id: 1880_99_record_content_34491
+date: '1889-12-03'
+date_display: null
+volume: XI
+issue_number: '909'
+page: '2'
+article_type: news
+issue_reference: XI, 909, 3 Dec. 1889, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- land
+- economy
+- wages
+source_document: 1985-87_Northern__Argus.md
+---
+
+2nd Leader on Land Monopoly and Wages
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

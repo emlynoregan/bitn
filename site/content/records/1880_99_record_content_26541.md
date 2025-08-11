@@ -1,0 +1,27 @@
+---
+title: D. Ross will give a varied entertainment in the Institute
+type: records
+slug: 1880_99_record_content_26541
+url: /records/1880_99_record_content_26541/
+record_id: 1880_99_record_content_26541
+date: '1887-10-25'
+date_display: null
+volume: IX
+issue_number: '692'
+page: page 2
+article_type: news
+issue_reference: IX, 692, 25 Oct. 1887, page 2
+people_mentioned:
+- D. Ross
+places_mentioned:
+- Institute
+topics:
+- entertainment
+- fundraising
+- hospital
+source_document: 1985-87_Northern__Argus.md
+---
+
+D. Ross the American auctioneer will give a varied entertainment in the Institute tonight.  Half the proceeds go to the hospital.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

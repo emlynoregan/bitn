@@ -1,0 +1,25 @@
+---
+title: Rain for the week was 1.1” and the side creeks ran for the first time in nine
+  months.
+type: records
+slug: 1880_99_record_content_7369
+url: /records/1880_99_record_content_7369/
+record_id: 1880_99_record_content_7369
+date: '1882-07-14'
+date_display: null
+volume: IV
+issue_number: '211'
+page: '2'
+article_type: news
+issue_reference: IV, 211, 14 July 1882, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- weather
+- rain
+source_document: 1985-87_Northern__Argus.md
+---
+
+Rain for the week was 1.1” and the side creeks ran for the first time in nine months.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

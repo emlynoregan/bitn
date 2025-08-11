@@ -1,0 +1,26 @@
+---
+title: Editorial on banking and banks especially relating to the failure of the Commercial
+  Bank and the issuing of bank notes.
+type: records
+slug: 1880_99_record_content_21611
+url: /records/1880_99_record_content_21611/
+record_id: 1880_99_record_content_21611
+date: '1886-03-12'
+date_display: null
+volume: VII
+issue_number: '525'
+page: '2'
+article_type: news
+issue_reference: VII. 525. 12 Mar. 1886, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- banking
+- economy
+- finance
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial on banking and banks especially relating to the failure of the Commercial Bank and the issuing of bank notes.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,25 @@
+---
+title: The ‘Sparks’ column
+type: records
+slug: 1880_99_record_content_39511
+url: /records/1880_99_record_content_39511/
+record_id: 1880_99_record_content_39511
+date: '1890-12-30'
+date_display: null
+volume: XI
+issue_number: '1020'
+page: '3'
+article_type: other
+issue_reference: XI, 1020, 1890-12-30, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- column
+- local
+- news
+source_document: 1985-87_Northern__Argus.md
+---
+
+The ‘Sparks’ column reappears with its very brief comments on the local scene.  These comments are often frustratingly cryptic with references to apparently interesting events that are not elsewhere reported, but in too brief or oblique a way to now be interpreted.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

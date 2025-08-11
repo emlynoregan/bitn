@@ -1,0 +1,26 @@
+---
+title: The editor suggests it may be due to clause 36 of the Crown Lands Amendment
+  Act 1889
+type: records
+slug: 1880_99_record_content_36465
+url: /records/1880_99_record_content_36465/
+record_id: 1880_99_record_content_36465
+date: '1890-05-06'
+date_display: null
+volume: XI
+issue_number: '953'
+page: '2'
+article_type: news
+issue_reference: XI, 953, 1890-05-06, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- land
+- legislation
+- government
+source_document: 1985-87_Northern__Argus.md
+---
+
+The editor suggests it may be due to clause 36 of the Crown Lands Amendment Act 1889 which gives preference to those who would personally reside on the land for at least six months in every year.  If it is not the reason the correspondent has a remedy.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

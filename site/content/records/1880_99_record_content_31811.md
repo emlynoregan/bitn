@@ -1,0 +1,28 @@
+---
+title: Notice. Charles Schutz sold his business in licensed cabs
+type: records
+slug: 1880_99_record_content_31811
+url: /records/1880_99_record_content_31811/
+record_id: 1880_99_record_content_31811
+date: '1889-03-08'
+date_display: null
+volume: X
+issue_number: '833'
+page: '2'
+article_type: other
+issue_reference: X, 833, 8 Mar. 1889, page 2
+people_mentioned:
+- Charles Schutz
+- T.P. Halls
+places_mentioned:
+- Aberdeen
+topics:
+- business
+- sale
+- transport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Notice.  Charles Schutz has sold his business in licensed cabs to T.P. Halls of Aberdeen.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

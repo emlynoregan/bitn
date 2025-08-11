@@ -1,0 +1,28 @@
+---
+title: Mr T. Edwards takes over drapery
+type: records
+slug: 1880_99_record_content_4499
+url: /records/1880_99_record_content_4499/
+record_id: 1880_99_record_content_4499
+date: '1881-07-01'
+date_display: null
+volume: IV
+issue_number: '157'
+page: '2'
+article_type: news
+issue_reference: IV, 157, 1 July 1881, Page 2
+people_mentioned:
+- Mr T. Edwards
+- Mr Eaton
+places_mentioned:
+- Kooringa
+topics:
+- business
+- ownership
+- commerce
+source_document: 1985-87_Northern__Argus.md
+---
+
+Mr T. Edwards who has managed Mr Eaton’s drapery in Kooringa ever since the latter bought it has now taken it in his own right.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

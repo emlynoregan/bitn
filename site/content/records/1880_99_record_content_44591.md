@@ -1,0 +1,25 @@
+---
+title: What has become of the Woodcarters’ Union?
+type: records
+slug: 1880_99_record_content_44591
+url: /records/1880_99_record_content_44591/
+record_id: 1880_99_record_content_44591
+date: '1892-03-09'
+date_display: null
+volume: XIII
+issue_number: '1082'
+page: '2'
+article_type: news
+issue_reference: XIII, 1082, 9 Mar. 1892, page 2
+people_mentioned:
+- Woodcarters’ Union
+places_mentioned: []
+topics:
+- labor
+- union
+source_document: 1985-87_Northern__Argus.md
+---
+
+What has become of the Woodcarters’ Union?
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: Iron Mine Primitive Methodist anniversary
+type: records
+slug: 1880_99_record_content_23279
+url: /records/1880_99_record_content_23279/
+record_id: 1880_99_record_content_23279
+date: '1886-09-07'
+date_display: null
+volume: VIII
+issue_number: '576'
+page: '2'
+article_type: community_notice
+issue_reference: VIII. 576. 7 Sep. 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Iron Mine
+topics:
+- church
+- anniversary
+- community
+- meeting
+source_document: 1985-87_Northern__Argus.md
+---
+
+Iron Mine Primitive Methodist anniversary, Sunday 5 September with tea meeting on Wednesday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

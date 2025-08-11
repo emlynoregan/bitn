@@ -6,6 +6,7 @@ slug: northern_argus_1939
 url: /records/northern_argus_1939/
 record_id: northern_argus_1939
 date: '1986-11-19'
+date_display: null
 volume: CXVI
 issue_number: '8080'
 page: '19'

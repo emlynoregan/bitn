@@ -1,0 +1,25 @@
+---
+title: Copperhouse Sunday School Anniversary will be held on 9 October.
+type: records
+slug: 1880_99_record_content_5221
+url: /records/1880_99_record_content_5221/
+record_id: 1880_99_record_content_5221
+date: '1881-10-21'
+date_display: null
+volume: IV
+issue_number: '173'
+page: '2'
+article_type: community_notice
+issue_reference: IV, 173, 21 October 1881, Page 2
+people_mentioned: []
+places_mentioned:
+- Copperhouse
+topics:
+- religion
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Copperhouse Sunday School Anniversary will be held on 9 October.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

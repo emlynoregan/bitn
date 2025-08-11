@@ -5,6 +5,7 @@ slug: northern_argus_2487
 url: /records/northern_argus_2487/
 record_id: northern_argus_2487
 date: '1987-04-15'
+date_display: null
 volume: CXVII
 issue_number: '8101'
 page: '23'

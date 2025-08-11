@@ -1,0 +1,26 @@
+---
+title: The sexton was reappointed at £110 p.a.
+type: records
+slug: 1880_99_record_content_16077
+url: /records/1880_99_record_content_16077/
+record_id: 1880_99_record_content_16077
+date: '1885-01-02'
+date_display: null
+volume: VI
+issue_number: '402'
+page: '2'
+article_type: news
+issue_reference: VI, 402, 1885-01-02, page 2
+people_mentioned:
+- sexton
+places_mentioned:
+- Burra
+topics:
+- salaries
+- employment
+source_document: 1985-87_Northern__Argus.md
+---
+
+The sexton was reappointed at £110 p.a.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

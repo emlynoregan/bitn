@@ -5,6 +5,7 @@ slug: northern_argus_1991
 url: /records/northern_argus_1991/
 record_id: northern_argus_1991
 date: '1986-12-03'
+date_display: null
 volume: CXVI
 issue_number: '8082'
 page: '?'

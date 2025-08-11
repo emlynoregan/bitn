@@ -1,0 +1,30 @@
+---
+title: Advt.  Tenders are called for the erection of a dwelling house and butcher’s
+  shop
+type: records
+slug: 1880_99_record_content_16449
+url: /records/1880_99_record_content_16449/
+record_id: 1880_99_record_content_16449
+date: '1885-02-06'
+date_display: null
+volume: VI
+issue_number: '412'
+page: '2'
+article_type: advertisement
+issue_reference: VI, 412, 6 February 1885, Page 2
+people_mentioned:
+- Mr Rabbich Sen.
+- G. McLagan
+places_mentioned:
+- Aberdeen
+- Redruth
+topics:
+- advertisement
+- construction
+- tenders
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Tenders are called for the erection of a dwelling house and butcher’s shop for Mr Rabbich Sen. at Aberdeen.  G. McLagan, Architect, Redruth.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

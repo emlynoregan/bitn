@@ -1,0 +1,30 @@
+---
+title: Burra YMCA met on Friday
+type: records
+slug: 1880_99_record_content_11053
+url: /records/1880_99_record_content_11053/
+record_id: 1880_99_record_content_11053
+date: '1883-10-30'
+date_display: null
+volume: V. 282
+issue_number: null
+page: '2'
+article_type: community_notice
+issue_reference: V. 282, 1883-10-30, page 2
+people_mentioned:
+- E. Hosking
+- W.H. Hardy
+places_mentioned:
+- Burra
+topics:
+- organization
+- YMCA
+- discussion
+- religion
+- science
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra YMCA met on Friday when E. Hosking read a paper: Points of similarity between the British and the Israelites, to lead a discussion.  W.H. Hardy then read one on Evolution.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

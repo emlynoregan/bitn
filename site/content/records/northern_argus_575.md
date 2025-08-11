@@ -5,6 +5,7 @@ slug: northern_argus_575
 url: /records/northern_argus_575/
 record_id: northern_argus_575
 date: '1986-01-08'
+date_display: null
 volume: CXV
 issue_number: '8035'
 page: '18'

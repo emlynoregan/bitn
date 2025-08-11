@@ -1,0 +1,25 @@
+---
+title: Editorial on the Colony’s Finances.
+type: records
+slug: 1880_99_record_content_19661
+url: /records/1880_99_record_content_19661/
+record_id: 1880_99_record_content_19661
+date: '1885-10-30'
+date_display: null
+volume: VII
+issue_number: '488'
+page: '2'
+article_type: other
+issue_reference: VII, 488, 1885-10-30, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- finances
+- colony
+- editorial
+source_document: 1985-87_Northern__Argus.md
+---
+
+Editorial on the Colony’s Finances.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

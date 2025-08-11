@@ -1,0 +1,25 @@
+---
+title: "Auditor\tJohn Darby Cave (Deceased)"
+type: records
+slug: 1880_99_record_content_67301
+url: /records/1880_99_record_content_67301/
+record_id: 1880_99_record_content_67301
+date: '1899-11-08'
+date_display: null
+volume: XV
+issue_number: '392'
+page: '3'
+article_type: other
+issue_reference: XV, 392, 1899-11-08, page 3
+people_mentioned:
+- John Darby Cave
+places_mentioned: []
+topics:
+- municipal
+- officials
+source_document: 1985-87_Northern__Argus.md
+---
+
+Auditor	John Darby Cave (Deceased)
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -6,6 +6,7 @@ slug: northern_argus_1957
 url: /records/northern_argus_1957/
 record_id: northern_argus_1957
 date: '1986-11-26'
+date_display: null
 volume: CXVI
 issue_number: '8081'
 page: '18'

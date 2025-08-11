@@ -5,6 +5,7 @@ slug: northern_argus_2025
 url: /records/northern_argus_2025/
 record_id: northern_argus_2025
 date: '1986-12-10'
+date_display: null
 volume: CXVI
 issue_number: '8083'
 page: '30'

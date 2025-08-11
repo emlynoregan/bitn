@@ -1,0 +1,24 @@
+---
+title: All were against single member districts and for the transcontinental railway.
+type: records
+slug: 1880_99_record_content_35835
+url: /records/1880_99_record_content_35835/
+record_id: 1880_99_record_content_35835
+date: '1890-03-14'
+date_display: null
+volume: XI
+issue_number: '938'
+page: '3'
+article_type: news
+issue_reference: XI, 938, 14 Mar. 1890, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- politics
+- infrastructure
+source_document: 1985-87_Northern__Argus.md
+---
+
+All were against single member districts and for the transcontinental railway.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

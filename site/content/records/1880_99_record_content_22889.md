@@ -1,0 +1,24 @@
+---
+title: Weather
+type: records
+slug: 1880_99_record_content_22889
+url: /records/1880_99_record_content_22889/
+record_id: 1880_99_record_content_22889
+date: '1886-07-30'
+date_display: null
+volume: VII
+issue_number: '565'
+page: '2'
+article_type: news
+issue_reference: VII. 565. 30 July 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Mongolata
+topics:
+- weather
+source_document: 1985-87_Northern__Argus.md
+---
+
+Weather.  There has been 3” of rain at Mongolata this month.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

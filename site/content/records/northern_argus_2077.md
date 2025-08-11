@@ -5,6 +5,7 @@ slug: northern_argus_2077
 url: /records/northern_argus_2077/
 record_id: northern_argus_2077
 date: '1986-12-17'
+date_display: null
 volume: CXVI
 issue_number: '8084'
 page: '18'

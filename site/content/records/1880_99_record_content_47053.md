@@ -1,0 +1,26 @@
+---
+title: "W.H. Morton\t\tProspects of the Burra"
+type: records
+slug: 1880_99_record_content_47053
+url: /records/1880_99_record_content_47053/
+record_id: 1880_99_record_content_47053
+date: '1892-10-19'
+date_display: null
+volume: XIV
+issue_number: '214'
+page: page 2
+article_type: other
+issue_reference: XIV, 214, 19 Oct. 1892, page 2
+people_mentioned:
+- W.H. Morton
+places_mentioned:
+- Burra
+topics:
+- prospects
+- business
+source_document: 1985-87_Northern__Argus.md
+---
+
+W.H. Morton		Prospects of the Burra
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

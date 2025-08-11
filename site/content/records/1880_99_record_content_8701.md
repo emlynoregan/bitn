@@ -1,0 +1,31 @@
+---
+title: '[C. Drew’s was Heathmont on Limestone Hill and T.W. Wilkinson’s was behind
+  the Institute on Mount Pleasant.]'
+type: records
+slug: 1880_99_record_content_8701
+url: /records/1880_99_record_content_8701/
+record_id: 1880_99_record_content_8701
+date: '1882-12-29'
+date_display: null
+volume: V
+issue_number: '235'
+page: '2'
+article_type: other
+issue_reference: V, 235, 1882-12-29, page 2
+people_mentioned:
+- C. Drew
+- T.W. Wilkinson
+places_mentioned:
+- Heathmont
+- Limestone Hill
+- Institute
+- Mount Pleasant
+topics:
+- places
+- local
+source_document: 1985-87_Northern__Argus.md
+---
+
+[C. Drew’s was Heathmont on Limestone Hill and T.W. Wilkinson’s was behind the Institute on Mount Pleasant.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

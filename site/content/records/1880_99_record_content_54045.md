@@ -1,0 +1,26 @@
+---
+title: The late H.J. Walker married a sister of Cr John Sampson.
+type: records
+slug: 1880_99_record_content_54045
+url: /records/1880_99_record_content_54045/
+record_id: 1880_99_record_content_54045
+date: '1894-06-20'
+date_display: null
+volume: XV
+issue_number: '300'
+page: '3'
+article_type: news
+issue_reference: XV, 300, 20 June 1894, page 3
+people_mentioned:
+- H.J. Walker
+- Cr John Sampson
+places_mentioned: []
+topics:
+- family
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+The late H.J. Walker married a sister of Cr John Sampson.  She died 24 years ago.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

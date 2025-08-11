@@ -1,0 +1,26 @@
+---
+title: P.L. Killicoat’s offer of pipes etc. for the Kooringa oval was accepted.
+type: records
+slug: 1880_99_record_content_35601
+url: /records/1880_99_record_content_35601/
+record_id: 1880_99_record_content_35601
+date: '1890-02-21'
+date_display: null
+volume: XI
+issue_number: '932'
+page: '3'
+article_type: news
+issue_reference: XI, 932, 1890-02-21, page 3
+people_mentioned:
+- P.L. Killicoat
+places_mentioned:
+- Kooringa oval
+topics:
+- infrastructure
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+P.L. Killicoat’s offer of pipes etc. for the Kooringa oval was accepted.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

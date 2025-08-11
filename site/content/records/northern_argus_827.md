@@ -5,6 +5,7 @@ slug: northern_argus_827
 url: /records/northern_argus_827/
 record_id: northern_argus_827
 date: '1986-03-05'
+date_display: null
 volume: CXVI
 issue_number: '8043'
 page: '21'

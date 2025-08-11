@@ -1,0 +1,26 @@
+---
+title: Football.  A fair practice game was played last Saturday in preparation for
+  the Clare game next Monday.
+type: records
+slug: 1880_99_record_content_37795
+url: /records/1880_99_record_content_37795/
+record_id: 1880_99_record_content_37795
+date: '1890-08-26'
+date_display: null
+volume: XI
+issue_number: '985'
+page: '3'
+article_type: news
+issue_reference: XI, 985, 26 Aug. 1890, page 3
+people_mentioned: []
+places_mentioned:
+- Clare
+topics:
+- sport
+- football
+source_document: 1985-87_Northern__Argus.md
+---
+
+Football.  A fair practice game was played last Saturday in preparation for the Clare game next Monday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

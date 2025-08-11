@@ -1,0 +1,27 @@
+---
+title: 'Salvation Army tonight: first appearance of Captain Stewart & Lieut. Smith.'
+type: records
+slug: 1880_99_record_content_66603
+url: /records/1880_99_record_content_66603/
+record_id: 1880_99_record_content_66603
+date: '1899-07-26'
+date_display: null
+volume: XV
+issue_number: '374'
+page: '2'
+article_type: community_notice
+issue_reference: XV, 374, 26 July 1899 page 2
+people_mentioned:
+- Captain Stewart
+- Lieut. Smith
+places_mentioned:
+- Salvation Army
+topics:
+- religious
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Salvation Army tonight: first appearance of Captain Stewart & Lieut. Smith.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

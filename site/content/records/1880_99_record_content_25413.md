@@ -1,0 +1,24 @@
+---
+title: Weather.  A good season with well spaced showers so far.
+type: records
+slug: 1880_99_record_content_25413
+url: /records/1880_99_record_content_25413/
+record_id: 1880_99_record_content_25413
+date: '1887-05-10'
+date_display: null
+volume: VIII
+issue_number: '644'
+page: '2'
+article_type: news
+issue_reference: VIII, 644, 10 May 1887, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- weather
+- agriculture
+source_document: 1985-87_Northern__Argus.md
+---
+
+Weather.  A good season with well spaced showers so far.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

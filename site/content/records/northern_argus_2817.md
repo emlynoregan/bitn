@@ -6,6 +6,7 @@ slug: northern_argus_2817
 url: /records/northern_argus_2817/
 record_id: northern_argus_2817
 date: '1987-07-01'
+date_display: null
 volume: CXVII
 issue_number: '8112'
 page: '22'

@@ -1,0 +1,29 @@
+---
+title: Mrs Anderson & family, who have been residents in Commercial St for many years
+  have left for NSW to settle with other family members who have been there a long
+  time.
+type: records
+slug: 1880_99_record_content_38089
+url: /records/1880_99_record_content_38089/
+record_id: 1880_99_record_content_38089
+date: '1890-09-23'
+date_display: null
+volume: XI
+issue_number: '993'
+page: '3'
+article_type: news
+issue_reference: XI, 993, 23 Sep. 1890, page 3
+people_mentioned:
+- Mrs Anderson
+places_mentioned:
+- Commercial St
+- NSW
+topics:
+- community
+- migration
+source_document: 1985-87_Northern__Argus.md
+---
+
+Mrs Anderson & family, who have been residents in Commercial St for many years have left for NSW to settle with other family members who have been there a long time.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

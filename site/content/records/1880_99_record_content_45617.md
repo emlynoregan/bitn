@@ -1,0 +1,24 @@
+---
+title: Annotation (Eric's note)
+type: records
+slug: 1880_99_record_content_45617
+url: /records/1880_99_record_content_45617/
+record_id: 1880_99_record_content_45617
+date: '1892-06-08'
+date_display: null
+volume: XIII
+issue_number: '1095'
+page: '3'
+article_type: other
+issue_reference: XIII, 1095, 1892-06-08, page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- writing
+- occupation
+source_document: 1985-87_Northern__Argus.md
+---
+
+[He writes over ½ column of detail.  He was a butcher.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

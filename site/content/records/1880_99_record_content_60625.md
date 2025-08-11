@@ -1,0 +1,28 @@
+---
+title: Burra Quadrille Assembly wound up at the Institute last night with dancing
+  to the wee hours.
+type: records
+slug: 1880_99_record_content_60625
+url: /records/1880_99_record_content_60625/
+record_id: 1880_99_record_content_60625
+date: '1896-09-09'
+date_display: null
+volume: XV
+issue_number: '350'
+page: '3'
+article_type: community_notice
+issue_reference: XV, 350, 9 Sep. 1896, page 3
+people_mentioned: []
+places_mentioned:
+- Institute
+- Burra
+topics:
+- social
+- dance
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Quadrille Assembly wound up at the Institute last night with dancing to the wee hours.  The ladies will reciprocate on Tuesday evening next.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,26 @@
+---
+title: "Storekeepers’ Licence\tMessrs Bath & Pearce"
+type: records
+slug: 1880_99_record_content_59591
+url: /records/1880_99_record_content_59591/
+record_id: 1880_99_record_content_59591
+date: '1896-03-11'
+date_display: null
+volume: XV
+issue_number: 329 (9)
+page: '3'
+article_type: news
+issue_reference: XV, 329 (9), 11 Mar. 1896, page 3 [9th use of No. 329] [4 March on
+  page 1 only.]
+people_mentioned:
+- Messrs Bath & Pearce
+places_mentioned: []
+topics:
+- licensing
+- business
+source_document: 1985-87_Northern__Argus.md
+---
+
+Storekeepers’ Licence	Messrs Bath & Pearce
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

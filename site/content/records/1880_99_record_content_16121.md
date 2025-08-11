@@ -1,0 +1,24 @@
+---
+title: New Zealand tourist notes part III.
+type: records
+slug: 1880_99_record_content_16121
+url: /records/1880_99_record_content_16121/
+record_id: 1880_99_record_content_16121
+date: '1885-01-06'
+date_display: null
+volume: VI
+issue_number: '403'
+page: '2'
+article_type: news
+issue_reference: VI, 403, 6 January 1885, Page 2
+people_mentioned: []
+places_mentioned:
+- New Zealand
+topics:
+- tourism
+source_document: 1985-87_Northern__Argus.md
+---
+
+New Zealand tourist notes part III.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

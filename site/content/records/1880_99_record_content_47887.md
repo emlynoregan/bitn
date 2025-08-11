@@ -1,0 +1,27 @@
+---
+title: Polo is being played regularly on the Aberdeen grounds near the Bon Accord
+  Hotel.
+type: records
+slug: 1880_99_record_content_47887
+url: /records/1880_99_record_content_47887/
+record_id: 1880_99_record_content_47887
+date: '1892-12-14'
+date_display: null
+volume: XV
+issue_number: '222'
+page: '2'
+article_type: news
+issue_reference: XV, 222, 1892-12-14, page 2
+people_mentioned: []
+places_mentioned:
+- Aberdeen grounds
+- Bon Accord Hotel
+topics:
+- polo
+- sports
+source_document: 1985-87_Northern__Argus.md
+---
+
+Polo is being played regularly on the Aberdeen grounds near the Bon Accord Hotel.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

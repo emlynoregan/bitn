@@ -5,6 +5,7 @@ slug: northern_argus_1619
 url: /records/northern_argus_1619/
 record_id: northern_argus_1619
 date: '1986-09-10'
+date_display: null
 volume: CXVI
 issue_number: '8070'
 page: '?'

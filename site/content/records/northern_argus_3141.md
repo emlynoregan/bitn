@@ -5,6 +5,7 @@ slug: northern_argus_3141
 url: /records/northern_argus_3141/
 record_id: northern_argus_3141
 date: '1987-10-14'
+date_display: null
 volume: CXVII
 issue_number: '8127'
 page: '24'

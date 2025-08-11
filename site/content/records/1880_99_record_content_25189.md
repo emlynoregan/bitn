@@ -1,0 +1,24 @@
+---
+title: Letters
+type: records
+slug: 1880_99_record_content_25189
+url: /records/1880_99_record_content_25189/
+record_id: 1880_99_record_content_25189
+date: '1887-04-19'
+date_display: null
+volume: VIII
+issue_number: '638'
+page: '2'
+article_type: other
+issue_reference: VIII, 638, 19 Apr. 1887, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- letters
+- opinion
+source_document: 1985-87_Northern__Argus.md
+---
+
+Letters.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

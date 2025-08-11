@@ -1,0 +1,24 @@
+---
+title: The rubbish depot needs attention
+type: records
+slug: 1880_99_record_content_9475
+url: /records/1880_99_record_content_9475/
+record_id: 1880_99_record_content_9475
+date: '1883-02-23'
+date_display: null
+volume: V
+issue_number: '243'
+page: '2'
+article_type: news
+issue_reference: V. 243. 23 February 1883, Page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- council
+- public health
+source_document: 1985-87_Northern__Argus.md
+---
+
+The rubbish depot needs attention.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

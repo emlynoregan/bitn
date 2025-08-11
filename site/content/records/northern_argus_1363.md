@@ -5,6 +5,7 @@ slug: northern_argus_1363
 url: /records/northern_argus_1363/
 record_id: northern_argus_1363
 date: '1986-07-09'
+date_display: null
 volume: CXVI
 issue_number: '8061'
 page: '?'

@@ -1,0 +1,29 @@
+---
+title: Advt.  Entertainment.  Walhalla’s Circus makes a farewell visit to Burra for
+  one night only on 17 October at the rear of the Commercial Hotel.
+type: records
+slug: 1880_99_record_content_23577
+url: /records/1880_99_record_content_23577/
+record_id: 1880_99_record_content_23577
+date: '1886-10-12'
+date_display: null
+volume: VIII.
+issue_number: '586'
+page: '2'
+article_type: advertisement
+issue_reference: VIII. 586. 12 Oct. 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Walhalla’s Circus
+- Burra
+- Commercial Hotel
+topics:
+- entertainment
+- advertisement
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Entertainment.  Walhalla’s Circus makes a farewell visit to Burra for one night only on 17 October at the rear of the Commercial Hotel.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,28 @@
+---
+title: Obituary. Lady Ayers has died in Adelaide.
+type: records
+slug: 1880_99_record_content_4819
+url: /records/1880_99_record_content_4819/
+record_id: 1880_99_record_content_4819
+date: '1881-08-19'
+date_display: null
+volume: IV
+issue_number: '164'
+page: '2'
+article_type: obituary
+issue_reference: IV, 164, 19 August 1881, Page 2
+people_mentioned:
+- Lady Ayers
+- Anne
+- Potts
+places_mentioned:
+- Adelaide
+topics:
+- death
+- obituary
+source_document: 1985-87_Northern__Argus.md
+---
+
+Obituary.  Lady Ayers has died in Adelaide.  [Anne, nee Potts, died 13 August, aged 65.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

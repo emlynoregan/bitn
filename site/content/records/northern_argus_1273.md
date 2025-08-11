@@ -5,6 +5,7 @@ slug: northern_argus_1273
 url: /records/northern_argus_1273/
 record_id: northern_argus_1273
 date: '1986-06-11'
+date_display: null
 volume: CXVI
 issue_number: '8057'
 page: '?'

@@ -5,6 +5,7 @@ slug: northern_argus_267
 url: /records/northern_argus_267/
 record_id: northern_argus_267
 date: '1985-10-16'
+date_display: null
 volume: CXV
 issue_number: '8028'
 page: '1'

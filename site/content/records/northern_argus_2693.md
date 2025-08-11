@@ -5,6 +5,7 @@ slug: northern_argus_2693
 url: /records/northern_argus_2693/
 record_id: northern_argus_2693
 date: '1987-05-27'
+date_display: null
 volume: CXVII
 issue_number: '8107'
 page: '19'

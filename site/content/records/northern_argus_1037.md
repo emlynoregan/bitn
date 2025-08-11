@@ -6,6 +6,7 @@ slug: northern_argus_1037
 url: /records/northern_argus_1037/
 record_id: northern_argus_1037
 date: '1986-04-09'
+date_display: null
 volume: CXVI
 issue_number: '8048'
 page: '4'

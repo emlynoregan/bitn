@@ -1,0 +1,25 @@
+---
+title: Advt.  Elder, Smith & Co. on 28 August will offer 30,267 sheep and 514 cattle
+type: records
+slug: 1880_99_record_content_42115
+url: /records/1880_99_record_content_42115/
+record_id: 1880_99_record_content_42115
+date: '1891-08-26'
+date_display: null
+volume: XII
+issue_number: '1054'
+page: '2'
+article_type: advertisement
+issue_reference: XII, 1054, 26 Aug. 1891, Page 2
+people_mentioned:
+- Elder, Smith & Co.
+places_mentioned: []
+topics:
+- livestock
+- advertisement
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  Elder, Smith & Co. on 28 August will offer 30,267 sheep and 514 cattle.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

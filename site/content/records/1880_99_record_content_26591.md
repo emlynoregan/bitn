@@ -1,0 +1,28 @@
+---
+title: Letter from William Dowling SJ of St Joseph’s
+type: records
+slug: 1880_99_record_content_26591
+url: /records/1880_99_record_content_26591/
+record_id: 1880_99_record_content_26591
+date: '1887-11-01'
+date_display: null
+volume: IX
+issue_number: '694'
+page: '2'
+article_type: letter
+issue_reference: IX, 694, 1 Nov. 1887, page 2
+people_mentioned:
+- William Dowling SJ
+places_mentioned:
+- St Joseph’s
+- Sisters’ convent
+topics:
+- complaint
+- theft
+- church
+source_document: 1985-87_Northern__Argus.md
+---
+
+Letter from William Dowling SJ of St Joseph’s complaining that a person or persons are taking wood from the Sisters’ convent.  Their income is so small that this is a dastardly act.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

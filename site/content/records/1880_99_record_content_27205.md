@@ -1,0 +1,29 @@
+---
+title: Christmas Cheer to be distributed among the residents of Burra on Christmas
+  Eve
+type: records
+slug: 1880_99_record_content_27205
+url: /records/1880_99_record_content_27205/
+record_id: 1880_99_record_content_27205
+date: '1887-12-23'
+date_display: null
+volume: IX
+issue_number: '709'
+page: '2'
+article_type: community_notice
+issue_reference: IX, 709, 23 Dec. 1887, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- community
+- charity
+- food_distribution
+source_document: 1985-87_Northern__Argus.md
+---
+
+Christmas Cheer.  To be distributed among the residents of Burra on Christmas Eve:
+
+1,500 lb of beef, mutton and lamb and 13 cwt of potatoes.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

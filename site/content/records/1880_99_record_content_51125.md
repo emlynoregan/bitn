@@ -1,0 +1,26 @@
+---
+title: A good dinner for 1/- from 12 to 2 p.m. and a splendid tea 4 to 6 p.m. for
+  6d.
+type: records
+slug: 1880_99_record_content_51125
+url: /records/1880_99_record_content_51125/
+record_id: 1880_99_record_content_51125
+date: '1893-09-20'
+date_display: null
+volume: XV
+issue_number: '262'
+page: '2'
+article_type: advertisement
+issue_reference: XV, 262, 20 Sep. 1893, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- food
+- community
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+A good dinner for 1/- from 12 to 2 p.m. and a splendid tea 4 to 6 p.m. for 6d.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -5,6 +5,7 @@ slug: northern_argus_1871
 url: /records/northern_argus_1871/
 record_id: northern_argus_1871
 date: '1986-10-22'
+date_display: null
 volume: CXVI
 issue_number: '8076'
 page: '18'

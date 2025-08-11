@@ -1,0 +1,24 @@
+---
+title: Football.  A good scratch match was played on Saturday.
+type: records
+slug: 1880_99_record_content_32997
+url: /records/1880_99_record_content_32997/
+record_id: 1880_99_record_content_32997
+date: '1889-07-09'
+date_display: null
+volume: X
+issue_number: '867'
+page: '2'
+article_type: news
+issue_reference: X, 867, 9 July 1889, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- football
+- sport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Football.  A good scratch match was played on Saturday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

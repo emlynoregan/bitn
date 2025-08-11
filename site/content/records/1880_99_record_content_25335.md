@@ -1,0 +1,26 @@
+---
+title: Burra Town Council.
+type: records
+slug: 1880_99_record_content_25335
+url: /records/1880_99_record_content_25335/
+record_id: 1880_99_record_content_25335
+date: '1887-05-03'
+date_display: null
+volume: VIII
+issue_number: '642'
+page: '2'
+article_type: news
+issue_reference: VIII, 642, 3 May 1887, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+topics:
+- government
+- council
+- finance
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Town Council.  The Government advises that as the subsidy to councils was being withdrawn they would no longer have to pay the police moiety.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

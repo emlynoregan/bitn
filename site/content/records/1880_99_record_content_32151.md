@@ -1,0 +1,26 @@
+---
+title: Weather and flooding
+type: records
+slug: 1880_99_record_content_32151
+url: /records/1880_99_record_content_32151/
+record_id: 1880_99_record_content_32151
+date: '1889-04-09'
+date_display: null
+volume: X
+issue_number: '842'
+page: '2'
+article_type: news
+issue_reference: X, 842, 9 Apr. 1889, page 2
+people_mentioned: []
+places_mentioned:
+- Commercial St
+- Booborowie
+topics:
+- weather
+- flood
+source_document: 1985-87_Northern__Argus.md
+---
+
+Weather.  On Saturday morning soon after midnight rain fell heavily for several hours.  The creek that crosses Commercial St got to within 6” of the bottom of the bridge and the main creek was the highest for a long time.  Flooding was bad at Booborowie.  The total fall for the week was 4.07”
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

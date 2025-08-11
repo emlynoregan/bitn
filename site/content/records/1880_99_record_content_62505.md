@@ -1,0 +1,25 @@
+---
+title: The Weather continues good
+type: records
+slug: 1880_99_record_content_62505
+url: /records/1880_99_record_content_62505/
+record_id: 1880_99_record_content_62505
+date: '1897-07-07'
+date_display: null
+volume: XV
+issue_number: 275 (2)
+page: '2'
+article_type: news
+issue_reference: XV, 275 (2), 7 July 1897, page 2 [2nd use of a number first used
+  in this volume in December 1893.]
+people_mentioned: []
+places_mentioned: []
+topics:
+- weather
+- agriculture
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Weather continues good with green grass everywhere and prospects now encouraging for a good season.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

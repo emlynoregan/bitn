@@ -1,0 +1,24 @@
+---
+title: 'Guy Fawkes Night: ‘Plenty bon-fires’'
+type: records
+slug: 1880_99_record_content_42993
+url: /records/1880_99_record_content_42993/
+record_id: 1880_99_record_content_42993
+date: '1891-11-11'
+date_display: null
+volume: XII
+issue_number: '1065'
+page: '3'
+article_type: news
+issue_reference: XII, 1065, 11 Nov. 1891, Page 3
+people_mentioned: []
+places_mentioned: []
+topics:
+- event
+- celebration
+source_document: 1985-87_Northern__Argus.md
+---
+
+[Guy Fawkes Night] The cryptic ‘Plenty bon-fires’ is the only reference.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

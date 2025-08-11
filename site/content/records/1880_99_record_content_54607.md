@@ -1,0 +1,25 @@
+---
+title: Blind Performers appeared last Monday.
+type: records
+slug: 1880_99_record_content_54607
+url: /records/1880_99_record_content_54607/
+record_id: 1880_99_record_content_54607
+date: '1894-09-05'
+date_display: null
+volume: XV
+issue_number: '311'
+page: '3'
+article_type: news
+issue_reference: XV, 311, 5 Sep. 1894, page 3
+people_mentioned:
+- Blind Performers
+places_mentioned: []
+topics:
+- entertainment
+- performance
+source_document: 1985-87_Northern__Argus.md
+---
+
+Blind Performers appeared last Monday.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: Football.  Burra 5.5 (35) defeated Clare 2.6 (18).
+type: records
+slug: 1880_99_record_content_46717
+url: /records/1880_99_record_content_46717/
+record_id: 1880_99_record_content_46717
+date: '1892-09-14'
+date_display: null
+volume: XIV
+issue_number: '209'
+page: '3'
+article_type: news
+issue_reference: XIV, 209, 14 Sep. 1892, page 3 [See note re numbering of issues at
+  XIV, 209, 14 Sep. 1892, page 2.]
+people_mentioned:
+- Burra
+- Clare
+places_mentioned: []
+topics:
+- football
+- sport
+source_document: 1985-87_Northern__Argus.md
+---
+
+Football.  Burra 5.5 (35) defeated Clare 2.6 (18).  Reported in 1½ columns.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

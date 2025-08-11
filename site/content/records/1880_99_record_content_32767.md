@@ -1,0 +1,24 @@
+---
+title: 'Vandalism: trees destroyed'
+type: records
+slug: 1880_99_record_content_32767
+url: /records/1880_99_record_content_32767/
+record_id: 1880_99_record_content_32767
+date: '1889-06-14'
+date_display: null
+volume: X
+issue_number: '861'
+page: '2'
+article_type: news
+issue_reference: X, 861, 14 June 1889, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- crime
+- vandalism
+source_document: 1985-87_Northern__Argus.md
+---
+
+Vandalism.  Several trees have been destroyed by person or persons unknown.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

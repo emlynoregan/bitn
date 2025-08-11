@@ -1,0 +1,29 @@
+---
+title: Luke Day has closed his doors and says he anticipates a trip to China or somewhere
+  and the Burra Chinese in general have renounced the law courts after their recent
+  costly experiences.
+type: records
+slug: 1880_99_record_content_54155
+url: /records/1880_99_record_content_54155/
+record_id: 1880_99_record_content_54155
+date: '1894-07-04'
+date_display: null
+volume: XV
+issue_number: '302'
+page: '3'
+article_type: news
+issue_reference: XV, 302, 4 July 1894, page 3
+people_mentioned:
+- Luke Day
+places_mentioned:
+- Burra
+- China
+topics:
+- business
+- legal
+source_document: 1985-87_Northern__Argus.md
+---
+
+Luke Day has closed his doors and says he anticipates a trip to China or somewhere and the Burra Chinese in general have renounced the law courts after their recent costly experiences.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,23 @@
+---
+title: What Might have been Expected
+type: records
+slug: 1880_99_record_content_11659
+url: /records/1880_99_record_content_11659/
+record_id: 1880_99_record_content_11659
+date: null
+date_display: 8 Jun.
+volume: V.
+issue_number: '298'
+page: II
+article_type: other
+issue_reference: V., 298, 8 Jun., page II
+people_mentioned: []
+places_mentioned: []
+topics:
+- short story
+source_document: 1985-87_Northern__Argus.md
+---
+
+8 Jun.	II	What Might have been Expected	X	X		X	X	X	X				In the Death Station
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,28 @@
+---
+title: Threatening Letters (Received by Emperor William at Versailles 1871)
+type: records
+slug: 1880_99_record_content_39645
+url: /records/1880_99_record_content_39645/
+record_id: 1880_99_record_content_39645
+date: '1891-01-07'
+date_display: null
+volume: XII
+issue_number: '1021'
+page: Page 1
+article_type: other
+issue_reference: XII, 1021, 7 Jan. 1891, Page 1
+people_mentioned:
+- Emperor William
+places_mentioned:
+- Versailles
+topics:
+- history
+- letters
+- non-fiction
+- table_of_contents
+source_document: 1985-87_Northern__Argus.md
+---
+
+Threatening Letters (Received by Emperor William at Versailles 1871), 21 October.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

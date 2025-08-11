@@ -1,0 +1,25 @@
+---
+title: Aberdeen Level Crossing remains unprotected.
+type: records
+slug: 1880_99_record_content_37675
+url: /records/1880_99_record_content_37675/
+record_id: 1880_99_record_content_37675
+date: '1890-08-19'
+date_display: null
+volume: XI
+issue_number: '983'
+page: '3'
+article_type: news
+issue_reference: XI, 983, 19 Aug. 1890, page 3
+people_mentioned: []
+places_mentioned:
+- Aberdeen Level Crossing
+topics:
+- infrastructure
+- safety
+source_document: 1985-87_Northern__Argus.md
+---
+
+Aberdeen Level Crossing remains unprotected.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

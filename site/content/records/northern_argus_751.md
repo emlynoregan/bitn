@@ -5,6 +5,7 @@ slug: northern_argus_751
 url: /records/northern_argus_751/
 record_id: northern_argus_751
 date: '1986-02-19'
+date_display: null
 volume: CXVI
 issue_number: '8041'
 page: '26'

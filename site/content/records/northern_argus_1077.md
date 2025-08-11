@@ -5,6 +5,7 @@ slug: northern_argus_1077
 url: /records/northern_argus_1077/
 record_id: northern_argus_1077
 date: '1986-04-16'
+date_display: null
 volume: CXVI
 issue_number: '8049'
 page: '23'

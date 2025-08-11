@@ -1,0 +1,25 @@
+---
+title: Broken Hill train now has sleeping cars
+type: records
+slug: 1880_99_record_content_33767
+url: /records/1880_99_record_content_33767/
+record_id: 1880_99_record_content_33767
+date: '1889-09-27'
+date_display: null
+volume: XI
+issue_number: '890'
+page: '3'
+article_type: news
+issue_reference: XI, 890, 27 Sep. 1889, page 3
+people_mentioned: []
+places_mentioned:
+- Broken Hill
+topics:
+- transport
+- railway
+source_document: 1985-87_Northern__Argus.md
+---
+
+Broken Hill train now has sleeping cars.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

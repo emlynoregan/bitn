@@ -1,0 +1,27 @@
+---
+title: A Burra Wesleyan Conversazione and Art Exhibition
+type: records
+slug: 1880_99_record_content_23479
+url: /records/1880_99_record_content_23479/
+record_id: 1880_99_record_content_23479
+date: '1886-09-24'
+date_display: null
+volume: VIII
+issue_number: '581'
+page: '2'
+article_type: advertisement
+issue_reference: VIII. 581. 24 Sep. 1886, page 2
+people_mentioned: []
+places_mentioned:
+- Burra
+- Wesleyan Lecture Hall
+topics:
+- event
+- church
+- art
+source_document: 1985-87_Northern__Argus.md
+---
+
+Advt.  A Burra Wesleyan Conversazione and Art Exhibition will be held in the Wesleyan Lecture Hall from 29 September to 1 October.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: John Fay’s Millerton property will be sold today and not on the 16 February
+  as previously advised.
+type: records
+slug: 1880_99_record_content_21291
+url: /records/1880_99_record_content_21291/
+record_id: 1880_99_record_content_21291
+date: '1886-01-19'
+date_display: null
+volume: VII
+issue_number: '510'
+page: '2'
+article_type: news
+issue_reference: VII. 510. 19 Jan. 1886, page 2
+people_mentioned:
+- John Fay
+places_mentioned:
+- Millerton
+topics:
+- property
+- sale
+source_document: 1985-87_Northern__Argus.md
+---
+
+John Fay’s Millerton property will be sold today and not on the 16 February as previously advised.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

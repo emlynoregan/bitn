@@ -1,0 +1,25 @@
+---
+title: Jubilee Exhibition - so far costs incurred total £2,094-17-0.
+type: records
+slug: 1880_99_record_content_13821
+url: /records/1880_99_record_content_13821/
+record_id: 1880_99_record_content_13821
+date: '1884-07-18'
+date_display: null
+volume: VI
+issue_number: '355'
+page: '2'
+article_type: news
+issue_reference: VI, 355, 18 July 1884, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- exhibition
+- finance
+- legislation
+source_document: 1985-87_Northern__Argus.md
+---
+
+Jubilee Exhibition - so far costs incurred total £2,094-17-0.  The second reading of the repeal bill has been stood over pending printing of information about costs.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

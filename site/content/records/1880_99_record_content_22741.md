@@ -1,0 +1,28 @@
+---
+title: The Council in the previous issue had decided to buy the SAMA coal
+type: records
+slug: 1880_99_record_content_22741
+url: /records/1880_99_record_content_22741/
+record_id: 1880_99_record_content_22741
+date: '1886-07-09'
+date_display: null
+volume: VII
+issue_number: '559'
+page: '2'
+article_type: news
+issue_reference: VII. 559. 9 July 1886, page 2
+people_mentioned:
+- The editor
+places_mentioned:
+- Mine Yard
+- Waterworks
+topics:
+- council
+- infrastructure
+- economics
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Council in the previous issue had decided to buy the SAMA coal, which had stood for years in the old Mine Yard, for use in the Waterworks.  The editor found this strange as the money would go out of the town and potential work [in wood getting] would also be lost.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

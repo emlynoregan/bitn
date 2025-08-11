@@ -1,0 +1,28 @@
+---
+title: Burra Slag Extraction Co. at the Smelting Works.
+type: records
+slug: 1880_99_record_content_65871
+url: /records/1880_99_record_content_65871/
+record_id: 1880_99_record_content_65871
+date: '1899-02-15'
+date_display: null
+volume: XV
+issue_number: 354 (2)
+page: '3'
+article_type: news
+issue_reference: XV, 354 (2), 15 Feb. 1899 page 3 [2nd use of a number used once in
+  this volume in Dec 1896]
+people_mentioned: []
+places_mentioned:
+- Smelting Works
+- Burra
+topics:
+- slag
+- smelting
+- employment
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Slag Extraction Co. at the Smelting Works.  The machinery for the treatment of the slagheap should arrive in the next few days.  A lease of eight years has been taken out on the heap which should employ a dozen or so.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

@@ -1,0 +1,27 @@
+---
+title: 'Afternoon sung service: Tom O’Jack’s Lad O’ Pit’s Hoile, Part I with Part
+  II on'
+type: records
+slug: 1880_99_record_content_51133
+url: /records/1880_99_record_content_51133/
+record_id: 1880_99_record_content_51133
+date: '1893-09-20'
+date_display: null
+volume: XV
+issue_number: '262'
+page: '2'
+article_type: community_notice
+issue_reference: XV, 262, 1893-09-20, page 2
+people_mentioned:
+- Tom O’Jack
+places_mentioned: []
+topics:
+- service
+- music
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+Afternoon sung service: Tom O’Jack’s Lad O’ Pit’s Hoile, Part I with Part II on
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

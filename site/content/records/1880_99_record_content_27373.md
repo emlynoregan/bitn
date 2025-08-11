@@ -1,0 +1,29 @@
+---
+title: Sara & Dunstan
+type: records
+slug: 1880_99_record_content_27373
+url: /records/1880_99_record_content_27373/
+record_id: 1880_99_record_content_27373
+date: '1888-01-03'
+date_display: null
+volume: IX
+issue_number: 710 (2)
+page: '1'
+article_type: advertisement
+issue_reference: IX. 710 (2), 3 January 1888, Page 1  [Second use of No. 710]
+people_mentioned:
+- Sara & Dunstan
+places_mentioned:
+- Aberdeen
+- Terowie
+topics:
+- business
+- advertisement
+- timber
+- iron
+source_document: 1985-87_Northern__Argus.md
+---
+
+*Sara & Dunstan	Timber & Iron Merchants, Aberdeen & Terowie
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

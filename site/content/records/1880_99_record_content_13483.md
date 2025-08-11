@@ -1,0 +1,26 @@
+---
+title: Resolutions to be distributed and sent to Parliament
+type: records
+slug: 1880_99_record_content_13483
+url: /records/1880_99_record_content_13483/
+record_id: 1880_99_record_content_13483
+date: '1884-06-17'
+date_display: null
+volume: V
+issue_number: '346'
+page: '2'
+article_type: community_notice
+issue_reference: V, 346, 1884-06-17, page 2
+people_mentioned: []
+places_mentioned:
+- Parliament
+topics:
+- resolution
+- government
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+The resolutions to be distributed to interested groups and sent to Parliament in a memorial.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

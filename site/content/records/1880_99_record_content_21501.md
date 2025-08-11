@@ -1,0 +1,27 @@
+---
+title: Burra Co. RVF annual meeting
+type: records
+slug: 1880_99_record_content_21501
+url: /records/1880_99_record_content_21501/
+record_id: 1880_99_record_content_21501
+date: '1886-02-19'
+date_display: null
+volume: VII
+issue_number: '519'
+page: '2'
+article_type: community_notice
+issue_reference: VII. 519. 19 Feb. 1886, page 2
+people_mentioned:
+- Captain F.W. Holder
+places_mentioned:
+- the Institute
+- Burra
+topics:
+- meeting
+- organization
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Co. RVF annual meeting will be held in the Institute on 25 February, Captain F.W. Holder commanding.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

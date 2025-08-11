@@ -5,6 +5,7 @@ slug: northern_argus_2655
 url: /records/northern_argus_2655/
 record_id: northern_argus_2655
 date: '1987-05-13'
+date_display: null
 volume: CXVII
 issue_number: '8105'
 page: '23'

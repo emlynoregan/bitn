@@ -1,0 +1,24 @@
+---
+title: The mining boom continues.
+type: records
+slug: 1880_99_record_content_26299
+url: /records/1880_99_record_content_26299/
+record_id: 1880_99_record_content_26299
+date: '1887-09-13'
+date_display: null
+volume: IX
+issue_number: '680'
+page: '2'
+article_type: news
+issue_reference: IX, 680, 13 Sep. 1887, page 2
+people_mentioned: []
+places_mentioned: []
+topics:
+- mining
+- economy
+source_document: 1985-87_Northern__Argus.md
+---
+
+The mining boom continues.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

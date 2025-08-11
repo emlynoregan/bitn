@@ -1,0 +1,26 @@
+---
+title: W.H. Richardson was farewelled as landlord of the Dawson Hotel
+type: records
+slug: 1880_99_record_content_11527
+url: /records/1880_99_record_content_11527/
+record_id: 1880_99_record_content_11527
+date: '1883-12-28'
+date_display: null
+volume: V.
+issue_number: '298'
+page: '2'
+article_type: news
+issue_reference: V. 298. 28 December 1883, Page 2
+people_mentioned:
+- W.H. Richardson
+places_mentioned:
+- Dawson Hotel
+topics:
+- community
+- event
+source_document: 1985-87_Northern__Argus.md
+---
+
+W.H. Richardson was farewelled as landlord of the Dawson Hotel on 21 December.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

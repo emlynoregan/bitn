@@ -1,0 +1,27 @@
+---
+title: The Government Geologist hold high opinions of the country the recent bore
+  hole has passed through.
+type: records
+slug: 1880_99_record_content_65789
+url: /records/1880_99_record_content_65789/
+record_id: 1880_99_record_content_65789
+date: '1899-02-01'
+date_display: null
+volume: XV
+issue_number: 352 (3)
+page: page 3
+article_type: news
+issue_reference: XV, 352 (3), 1 Feb. 1899 page 3 [3rd use of a number used twice in
+  this volume in Nov 1896]
+people_mentioned:
+- Government Geologist
+places_mentioned: []
+topics:
+- mining
+- geology
+source_document: 1985-87_Northern__Argus.md
+---
+
+The Government Geologist hold high opinions of the country the recent bore hole has passed through.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
