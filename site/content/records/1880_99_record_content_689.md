@@ -1,0 +1,27 @@
+---
+title: Burra Cemetery deeds handed over to the Corporation
+type: records
+slug: 1880_99_record_content_689
+url: /records/1880_99_record_content_689/
+record_id: 1880_99_record_content_689
+date: '1880-03-26'
+date_display: null
+volume: II
+issue_number: '91'
+page: Page 2
+article_type: news
+issue_reference: II, 91, 26 March 1880, Page 2
+people_mentioned:
+- SAMA
+places_mentioned:
+- Burra Cemetery
+topics:
+- cemetery
+- legal
+- corporation
+source_document: 1985-87_Northern__Argus.md
+---
+
+Burra Cemetery deeds have been handed over to the Corporation in perpetuity by SAMA.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

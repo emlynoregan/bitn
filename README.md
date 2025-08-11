@@ -25,21 +25,24 @@ This isn't just a newspaper collection - it's a **scholarly treasure trove** wit
 ## ✅ Current Project Status
 
 - **Archive**: All 14 original `.doc` files present with corresponding `.docx` and `.md` in `archive/`.
-- **Static site**: Hugo site configured and buildable locally; GitHub Pages workflow is set up for deployment.
+- **Static site**: Hugo site configured and buildable locally; GitHub Pages deployment workflow present.
 - **Search**: Lunr.js client-side search enabled; assets use absolute URLs for HTTPS on Pages.
-- **LLM processing (Northern Argus)**:
-  - Dynamic chunking with forward-only progress
-  - Line-based IDs: `northern_argus_<source_line_start>`
-  - Deduplication prefers newer records
-  - Gap detection inserts "uncategorized" records
-  - Focused reprocessing: each uncategorized gap is re-run as a mini-chunk; successful extractions replace the placeholder; gaps rechecked
-  - Live progress written after every chunk
-- **Outputs**: Incremental and live JSONs under `processed/`.
+- **LLM processing status**:
+  - Northern Argus: Pass 1–4 complete (merged + backfilled + QA); integrated into site
+  - SA Register (1845–76): Pass 1–4 complete; integrated into site
+  - Record (1876–79): Pass 1–4 complete; integrated into site
+  - Record (1880–99): Pass 1–4 complete; integrated into site
+  - Record (1900–1919): Pass 1 complete; Pass 2–4 pending; not yet integrated
+  - Record (1920–39): Pass 1 complete; Pass 2–4 pending; not yet integrated
+  - Record (1940–59): Pass 1 complete; Pass 2–4 pending; not yet integrated
+  - Record (1960 – Part 77): Pass 1 complete; Pass 2–4 pending; not yet integrated
+  - Review Times Record, BCS & CN, Burra Broadcaster, Mid North Broadcaster: Pass 1–4 pending; not yet integrated
+- **Outputs**: Incremental and final JSONs under `processed/`; site content under `site/content/records/`; downloads under `site/static/downloads/markdown/`.
 - **Next actions**:
-  - Rotate and remove the committed API key (see Security section)
-  - Complete the Northern Argus run and export a consolidated `processed/northern_argus_records_final.json`
-  - Generate per-record pages from processed JSON and include them in the search index
-  - Add downloads page with ZIPs for `archive/originals` and `archive/markdown`
+  - Rotate any committed API key (see Security)
+  - Option A (recommended): clean-regenerate site content and search from the four completed Pass 4 datasets for a consistent state
+  - Option B: leave existing pages in place and append additional datasets via the generator
+  - Add a downloads page linking ZIPs for `archive/originals` and `archive/markdown`
 
 ## 📊 Content Overview
 
@@ -92,6 +95,32 @@ bitn/
 └── extraction_progress.json            # Legacy/aux data
 ```
 
+## 🔎 Processing Progress by Source (Pass-by-pass)
+
+| Source (years) | Slug prefix | Pass 1 | Pass 2 | Pass 3 | Pass 4 | Site integrated |
+|---|---|---|---|---|---|---|
+| SA Register (1845–76) | `sa_register` | ✅ `processed/sa_register_pass_01/` | ✅ `..._pass_02/` | ✅ `..._pass_03/merged.json` | ✅ `..._pass_04/merged.backfilled.json` | ✅ many files in `site/content/records/1845_76_sa_register_content_*.md` |
+| Record (1876–79) | `1876_79_record` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/1876_79_record_content_*.md` |
+| Record (1880–99) | `1880_99_record` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/1880_99_record_content_*.md` |
+| Record (1900–1919) | `1900_1919_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
+| Record (1920–39) | `1920_39_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
+| Record (1940–59) | `1940_59_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
+| Record (1960 – Part 77) | `1960_part_77_record` | ✅ | ⏳ | ⏳ | ⏳ | ⛔ |
+| Northern Argus (1985–87) | `northern_argus` | ✅ | ✅ | ✅ | ✅ | ✅ `site/content/records/northern_argus_*.md` |
+| Review Times Record | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
+| BCS & CN (1978–93) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
+| Burra Broadcaster (1991–2016) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
+| Mid North Broadcaster (2006–13) | N/A | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
+
+Notes
+- Site downloads: all 14 source markdowns are available in `site/static/downloads/markdown/`.
+- Search index: `site/static/js/search-data.json` is populated; regenerate after any bulk content updates to ensure full coverage.
+
+## 🧱 Two-track plan
+
+- Long-term: high-fidelity, reusable JSON records (stable IDs, provenance, backfilled metadata) suitable for real back-end indexing and apps.
+- Near-term: static Hugo site as a proof-of-concept to validate usability and surface the data publicly.
+
 ## 🔧 Available Formats
 
 ### 1. **Original Files** (`archive/originals/`)
@@ -126,10 +155,10 @@ bitn/
 3. **Citation format**: See `docs/Burra In The News - Analysis.md` for proper attribution
 
 ### For Developers
-1. **Static site**: Follow `docs/Static Site Design Plan.md`; GitHub Pages workflow at `.github/workflows/hugo.yml`
-2. **Data processing**: Use `scripts/run_processor.py` to process Northern Argus; outputs appear in `processed/`
-3. **Per-record pages**: Generate from processed JSON into `site/content/records/` (see `scripts/hugo_content_processor.py` if applicable)
-4. **Search**: Ensure generated record pages are included in `site/static/js/search-data.json`
+1. **Static site**: Follow `docs/Static Site Design Plan.md`; GitHub Pages workflow at `.github/workflows/hugo.yml`.
+2. **Data processing**: Use `scripts/*.py` passes (1–4) per source; outputs appear under `processed/<slug>_pass_0X/`.
+3. **Per-record pages**: Generate from Pass 4 backfilled JSON into `site/content/records/` using `scripts/generate_hugo_records.py`.
+4. **Search**: The generator updates `site/static/js/search-data.json`; regenerate after adding datasets.
 
 ### For Genealogists
 1. **People search**: Content includes verified birth/death dates
@@ -200,9 +229,9 @@ This archive is designed to become a comprehensive static website. See `docs/Sta
 - **📱 Mobile-first** responsive design
 - **🌐 Deployment strategy** (Netlify/GitHub Pages)
 
-## 🤖 LLM Processing Pipeline (Northern Argus)
+## 🤖 LLM Processing Pipeline
 
-- **Model**: `gpt-4o-mini` (configurable)
+- **Model**: configurable small-LLM (see `scripts/config.example.json`)
 - **Dynamic chunking**: Moves forward based on the last processed source line
 - **Record IDs**: `northern_argus_<source_line_start>`
 - **Deduplication**: Newer records overwrite older duplicates
@@ -210,7 +239,21 @@ This archive is designed to become a comprehensive static website. See `docs/Sta
 - **Focused reprocessing**: Each uncategorized block is re-run as its own mini-chunk; successful extractions replace placeholders; gaps checked again
 - **Monitoring**: Writes `processed/northern_argus_live_progress.json` after every chunk with timing and type counts
 
-Output JSONs are under `processed/`. After completion, consolidate to `northern_argus_records_final.json` for site generation.
+Output JSONs are under `processed/`. After Pass 4, use the backfilled merged JSON for site generation.
+
+### Clean regenerate site content from completed datasets (optional)
+
+Use this to reset `site/content/records` and build it deterministically from the four completed Pass 4 datasets.
+
+```powershell
+Remove-Item -Recurse -Force .\site\content\records
+Remove-Item -Force .\site\static\js\search-data.json
+python .\scripts\generate_hugo_records.py processed\sa_register_pass_04\merged.backfilled.json
+python .\scripts\generate_hugo_records.py processed\1876_79_record_pass_04\merged.backfilled.json
+python .\scripts\generate_hugo_records.py processed\1880_99_record_pass_04\merged.backfilled.json
+python .\scripts\generate_hugo_records.py processed\northern_argus_pass_04\merged.backfilled.json
+hugo serve -s site
+```
 
 ## 👥 Target Audiences
 

@@ -1,0 +1,26 @@
+---
+title: Dr Brummitt’s paper on Tobacco Smoking is printed
+type: records
+slug: 1880_99_record_content_1409
+url: /records/1880_99_record_content_1409/
+record_id: 1880_99_record_content_1409
+date: '1880-07-23'
+date_display: null
+volume: III
+issue_number: '108'
+page: '3'
+article_type: news
+issue_reference: III, 108, 23 July 1880, Page 3
+people_mentioned:
+- Dr Brummitt
+places_mentioned: []
+topics:
+- health
+- tobacco
+- publication
+source_document: 1985-87_Northern__Argus.md
+---
+
+Dr Brummitt’s paper on Tobacco Smoking is printed.  It outlines the history of the introduction of the habit and in this first part of the paper lists the supposed advantages of smoking.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

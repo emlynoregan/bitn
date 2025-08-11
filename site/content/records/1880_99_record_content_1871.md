@@ -1,0 +1,26 @@
+---
+title: '[The editor considered the way in which the streets of Yarcowie had been closed
+  by the passage of the railway to be quite disgraceful.]'
+type: records
+slug: 1880_99_record_content_1871
+url: /records/1880_99_record_content_1871/
+record_id: 1880_99_record_content_1871
+date: '1880-10-08'
+date_display: null
+volume: III
+issue_number: '119'
+page: '2'
+article_type: other
+issue_reference: III, 119, 1880-10-08, page 2
+people_mentioned: []
+places_mentioned:
+- Yarcowie
+topics:
+- railway
+- community
+source_document: 1985-87_Northern__Argus.md
+---
+
+[The editor considered the way in which the streets of Yarcowie had been closed by the passage of the railway to be quite disgraceful.]
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

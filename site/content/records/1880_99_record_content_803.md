@@ -1,0 +1,27 @@
+---
+title: Sara & Dunstan have won the tender for the new school at Mannanarie.
+type: records
+slug: 1880_99_record_content_803
+url: /records/1880_99_record_content_803/
+record_id: 1880_99_record_content_803
+date: '1880-04-09'
+date_display: null
+volume: II
+issue_number: '93'
+page: '3'
+article_type: news
+issue_reference: II, 93, 9 April 1880, Page 3
+people_mentioned:
+- Sara
+- Dunstan
+places_mentioned:
+- Mannanarie
+topics:
+- education
+- tender
+source_document: 1985-87_Northern__Argus.md
+---
+
+Sara & Dunstan have won the tender for the new school at Mannanarie.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

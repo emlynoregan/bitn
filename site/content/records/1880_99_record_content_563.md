@@ -1,0 +1,26 @@
+---
+title: 2nd leader on the dissolution of the House of Commons at Easter.
+type: records
+slug: 1880_99_record_content_563
+url: /records/1880_99_record_content_563/
+record_id: 1880_99_record_content_563
+date: '1880-03-12'
+date_display: null
+volume: II
+issue_number: '89'
+page: '2'
+article_type: news
+issue_reference: II, 89, 12 March 1880, Page 2
+people_mentioned: []
+places_mentioned:
+- House of Commons
+topics:
+- politics
+- government
+- editorial
+source_document: 1985-87_Northern__Argus.md
+---
+
+2nd leader on the dissolution of the House of Commons at Easter.
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)

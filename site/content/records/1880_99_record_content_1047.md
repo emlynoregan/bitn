@@ -1,0 +1,30 @@
+---
+title: Football at Riverton
+type: records
+slug: 1880_99_record_content_1047
+url: /records/1880_99_record_content_1047/
+record_id: 1880_99_record_content_1047
+date: '1880-05-21'
+date_display: null
+volume: II
+issue_number: '99'
+page: '3'
+article_type: news
+issue_reference: II, 99, 21 May 1880, Page 3
+people_mentioned:
+- Burra
+- Riverton
+places_mentioned:
+- Riverton
+topics:
+- sport
+- football
+- events
+source_document: 1985-87_Northern__Argus.md
+---
+
+Football at Riverton: - 	Half-time, Burra 1.4, Riverton 0.3
+
+Full-time, Burra 1.7, Riverton 0.5
+
+Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
