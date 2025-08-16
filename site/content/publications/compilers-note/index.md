@@ -5,7 +5,6 @@ date_range: "2015"
 type: "publication"
 ---
 
-{{< raw >}}
 # Compiler_s Note 2015.doc
 
 **Source:** Compiler_s Note 2015.doc
@@ -97,5 +96,4 @@ Most obituaries are followed by material in square brackets.  Here I have attemp
 NOTE
 
 Anything that appears in red indicates incorrect, unreliable or missing material.  Sometimes it means that my hand-written notes have been illegible, sometimes sections of the hard copy were missing or unreadable and sometimes it indicates an apparent error that needs correction or clarification.
-{{< /raw >}}
 

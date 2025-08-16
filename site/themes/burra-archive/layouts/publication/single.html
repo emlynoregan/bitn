@@ -32,20 +32,19 @@
             
             <!-- Era badge -->
             <div class="md:text-right">
-                {{ $range := replace (.Params.date_range | default "") "–" "-" }}
-                {{ $startYear := index (split $range "-") 0 | int }}
-                {{ if lt $startYear 1880 }}
-                    <span class="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium">
-                        Mining Era (1845-1877)
-                    </span>
-                {{ else if lt $startYear 1950 }}
-                    <span class="inline-block bg-green-100 text-green-800 px-4 py-2 rounded-lg font-medium">
-                        Agricultural Era (1880-1950)
-                    </span>
-                {{ else }}
-                    <span class="inline-block bg-purple-100 text-purple-800 px-4 py-2 rounded-lg font-medium">
-                        Modern Era (1950+)
-                    </span>
+                {{ with .Params.date_range }}
+                    {{ $norm := replace . "–" "-" }}
+                    {{ $yearMatch := index (findRE "^[0-9]{4}" $norm) 0 }}
+                    {{ if $yearMatch }}
+                        {{ $startYear := int $yearMatch }}
+                        {{ if lt $startYear 1880 }}
+                            <span class="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium">Mining Era (1845-1877)</span>
+                        {{ else if lt $startYear 1950 }}
+                            <span class="inline-block bg-green-100 text-green-800 px-4 py-2 rounded-lg font-medium">Agricultural Era (1880-1950)</span>
+                        {{ else }}
+                            <span class="inline-block bg-purple-100 text-purple-800 px-4 py-2 rounded-lg font-medium">Modern Era (1950+)</span>
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
             </div>
         </div>
