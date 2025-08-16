@@ -12,7 +12,7 @@ features:
   - 'historical archive optimized'
   - 'search functionality'
   - 'publication browsing'
-  - 'timeline navigation'
+  # timeline navigation removed
 
 # Minimum Hugo version
 min_version: '0.121.0'

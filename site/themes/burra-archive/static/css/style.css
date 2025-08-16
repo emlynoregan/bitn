@@ -129,27 +129,7 @@ input[type="search"]::-ms-reveal { display: none; width: 0; height: 0; }
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
-/* Publication timeline styles */
-.timeline-item {
-  position: relative;
-  padding-left: 2rem;
-  border-left: 2px solid #e5e7eb;
-}
-
-.timeline-item::before {
-  content: '';
-  position: absolute;
-  left: -6px;
-  top: 0.5rem;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background-color: var(--color-primary);
-}
-
-.timeline-item:last-child {
-  border-left: none;
-}
+/* (removed) Publication timeline styles */
 
 /* Responsive design adjustments */
 @media (max-width: 768px) {

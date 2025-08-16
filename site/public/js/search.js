@@ -47,8 +47,8 @@ class ArchiveSearch {
     async setupSearch() {
         // Get DOM elements
         this.searchInput = document.getElementById('search-input');
-        // Optional: dropdown container in header (not used for dedicated results page)
-        this.searchResults = document.getElementById('search-results');
+        // No dropdown search results in header anymore
+        this.searchResults = null;
         const loadingEl = document.getElementById('search-loading');
         const searchUiEl = document.getElementById('search-ui');
         const pageResultsEl = document.getElementById('search-page-results');
@@ -310,56 +310,7 @@ class ArchiveSearch {
         }
     }
     
-    displayResults(results, query) {
-        if (!this.searchResults) return;
-        if (results.length === 0) {
-            this.searchResults.innerHTML = `
-                <div class="search-result-item">
-                    <p class="text-gray-500 text-center">No results found for "${query}"</p>
-                    <p class="text-sm text-gray-400 text-center mt-2">Try different keywords or check spelling</p>
-                </div>
-            `;
-        } else {
-            this.searchResults.innerHTML = results.map((result, index) => `
-                <div class="search-result-item ${index === 0 ? 'bg-gray-50' : ''}" data-url="${result.url}">
-                    <h4 class="font-semibold text-gray-800 mb-1">
-                        ${this.highlightMatches(result.title, query)}
-                    </h4>
-                    <p class="text-sm text-amber-600 mb-2">
-                        ${(result.type || '').toString()} ${result.date ? ('• ' + result.date) : ''}
-                    </p>
-                    <p class="text-sm text-gray-600">
-                        ${this.highlightMatches(this.truncateContent(result.content), query)}
-                    </p>
-                </div>
-            `).join('');
-            
-            // Add click handlers
-            this.searchResults.querySelectorAll('.search-result-item').forEach(item => {
-                item.addEventListener('click', () => {
-                    const url = item.getAttribute('data-url');
-                    if (url) {
-                        const baseUrl = window.HUGO_BASE_URL || '';
-                        const sep = baseUrl.endsWith('/') ? '' : '/';
-                        const path = url.startsWith('/') ? url.substring(1) : url;
-                        const navigateUrl = baseUrl ? (baseUrl + sep + path) : url;
-                        // Prefer PJAX navigation to preserve JS state
-                        if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
-                            window.__swupInstance.navigate(navigateUrl);
-                        } else {
-                            window.location.href = navigateUrl;
-                        }
-                    }
-                });
-                
-                item.addEventListener('mouseenter', () => {
-                    this.highlightResult(item);
-                });
-            });
-        }
-        
-        this.showResults();
-    }
+    displayResults() { /* removed dropdown support */ }
     
     highlightMatches(text, query) {
         if (!text || !query) return text;
@@ -386,13 +337,8 @@ class ArchiveSearch {
         return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     }
     
-    showResults() {
-        if (this.searchResults) this.searchResults.classList.remove('hidden');
-    }
-    
-    hideResults() {
-        if (this.searchResults) this.searchResults.classList.add('hidden');
-    }
+    showResults() {}
+    hideResults() {}
     
     clearSearch() {
         this.searchInput.value = '';

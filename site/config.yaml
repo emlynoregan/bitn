@@ -31,15 +31,12 @@ menu:
     - name: 'Browse by Publication'
       url: '/publications/'
       weight: 20
-    - name: 'Timeline'
-      url: '/timeline/'
-      weight: 30
     - name: 'Search'
       url: '/search/'
-      weight: 40
+      weight: 30
     - name: 'About'
       url: '/about/'
-      weight: 50
+      weight: 40
 
 # Site parameters
 params:
