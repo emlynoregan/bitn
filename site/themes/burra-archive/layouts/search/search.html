@@ -30,10 +30,8 @@
                 </button>
             </div>
             
-            <!-- Search results container -->
-            <div id="search-results" class="mt-4 bg-white border border-gray-300 rounded-lg shadow-lg hidden max-h-96 overflow-y-auto">
-                <!-- Results will be populated by JavaScript -->
-            </div>
+            <!-- Search results container (page-level) -->
+            <div id="search-page-results" class="mt-6 space-y-4"></div>
         </div>
         
         <!-- Search tips -->
@@ -92,42 +90,6 @@
     </div>
 </div>
 
-<!-- Search status indicator -->
-<div id="search-status" class="fixed bottom-4 right-4 hidden">
-    <div class="bg-white rounded-lg shadow-lg p-3 border border-gray-200">
-        <div class="flex items-center space-x-2">
-            <div class="loading"></div>
-            <span class="text-sm text-gray-600">Searching...</span>
-        </div>
-    </div>
-</div>
-
-<script>
-// Enhanced search functionality specific to search page
-document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('search-input');
-    
-    // Auto-focus search input on search page
-    if (searchInput) {
-        searchInput.focus();
-        
-        // Show search results immediately when typing
-        searchInput.addEventListener('input', function() {
-            const results = document.getElementById('search-results');
-            if (this.value.trim().length >= 2) {
-                results.classList.remove('hidden');
-            }
-        });
-    }
-    
-    // Handle URL search parameters
-    const urlParams = new URLSearchParams(window.location.search);
-    const query = urlParams.get('q');
-    if (query && searchInput) {
-        searchInput.value = query;
-        // Trigger search if we have a query parameter
-        searchInput.dispatchEvent(new Event('input'));
-    }
-});
-</script>
+<!-- Search status indicator (optional, can be wired later) -->
+<div id="search-status" class="fixed bottom-4 right-4 hidden"></div>
 {{ end }}

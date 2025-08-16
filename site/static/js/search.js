@@ -34,14 +34,13 @@ class ArchiveSearch {
     async setupSearch() {
         // Get DOM elements
         this.searchInput = document.getElementById('search-input');
+        // Optional: dropdown container in header (not used for dedicated results page)
         this.searchResults = document.getElementById('search-results');
         const loadingEl = document.getElementById('search-loading');
         const searchUiEl = document.getElementById('search-ui');
+        const pageResultsEl = document.getElementById('search-page-results');
         
-        if (!this.searchInput || !this.searchResults) {
-            // Not a page with search UI; nothing to wire up
-            return;
-        }
+        if (!this.searchInput) return;
         
         try {
             // If index not yet built, load data and build once
@@ -56,7 +55,7 @@ class ArchiveSearch {
                 this.buildIndex();
             }
 
-            // Hide loading, show search UI
+            // Hide loading, show search UI (if present in header)
             if (loadingEl) loadingEl.style.display = 'none';
             if (searchUiEl) searchUiEl.style.display = '';
             
@@ -65,6 +64,15 @@ class ArchiveSearch {
             
             this.isInitialized = true;
             console.log('Archive search initialized successfully');
+            
+            // If we're on the dedicated search page and have a query, run it immediately
+            if (pageResultsEl) {
+                const params = new URLSearchParams(window.location.search);
+                const q = params.get('q');
+                if (q) {
+                    this.performSearch(q);
+                }
+            }
             
         } catch (error) {
             console.error('Failed to setup search:', error);
@@ -111,38 +119,37 @@ class ArchiveSearch {
     }
     
     setupEventListeners() {
-        // Search input events
-        this.searchInput.addEventListener('input', (e) => {
-            this.debounceSearch(e.target.value);
-        });
-        
+        // Dedicated search page flow: submit on Enter or button click
+        const submit = () => {
+            const query = (this.searchInput.value || '').trim();
+            if (!query) return;
+            const baseUrl = window.HUGO_BASE_URL || '';
+            const searchPath = 'search/?q=' + encodeURIComponent(query);
+            const sep = baseUrl.endsWith('/') ? '' : '/';
+            const url = baseUrl ? (baseUrl + sep + searchPath) : '/' + searchPath;
+            if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
+                window.__swupInstance.navigate(url);
+            } else {
+                window.location.href = url;
+            }
+        };
+
         this.searchInput.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                submit();
+            } else if (e.key === 'Escape') {
                 this.clearSearch();
-            } else if (e.key === 'ArrowDown') {
-                e.preventDefault();
-                this.navigateResults('down');
-            } else if (e.key === 'ArrowUp') {
-                e.preventDefault();
-                this.navigateResults('up');
-            } else if (e.key === 'Enter') {
-                e.preventDefault();
-                this.selectCurrentResult();
             }
         });
-        
-        this.searchInput.addEventListener('focus', () => {
-            if (this.searchInput.value.trim()) {
-                this.showResults();
-            }
-        });
-        
-        // Click outside to hide results
-        document.addEventListener('click', (e) => {
-            if (!this.searchInput.contains(e.target) && !this.searchResults.contains(e.target)) {
-                this.hideResults();
-            }
-        });
+
+        const btn = document.getElementById('search-button');
+        if (btn) {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                submit();
+            });
+        }
     }
     
     debounceSearch(query) {
@@ -160,7 +167,8 @@ class ArchiveSearch {
         const trimmedQuery = query.trim();
         
         if (trimmedQuery.length < 2) {
-            this.hideResults();
+            const pageContainer = document.getElementById('search-page-results');
+            if (pageContainer) pageContainer.innerHTML = '';
             return;
         }
         
@@ -175,9 +183,15 @@ class ArchiveSearch {
                     ...doc,
                     score: result.score
                 };
-            }).slice(0, 10); // Limit to 10 results
-            
-            this.displayResults(searchResults, trimmedQuery);
+            }).slice(0, 50);
+
+            const pageContainer = document.getElementById('search-page-results');
+            if (pageContainer) {
+                this.renderPageResults(pageContainer, searchResults, trimmedQuery);
+            } else {
+                // Fallback: dropdown (legacy behavior if needed)
+                this.displayResults(searchResults, trimmedQuery);
+            }
             
         } catch (error) {
             console.error('Search failed:', error);
@@ -186,6 +200,7 @@ class ArchiveSearch {
     }
     
     displayResults(results, query) {
+        if (!this.searchResults) return;
         if (results.length === 0) {
             this.searchResults.innerHTML = `
                 <div class="search-result-item">
@@ -261,11 +276,11 @@ class ArchiveSearch {
     }
     
     showResults() {
-        this.searchResults.classList.remove('hidden');
+        if (this.searchResults) this.searchResults.classList.remove('hidden');
     }
     
     hideResults() {
-        this.searchResults.classList.add('hidden');
+        if (this.searchResults) this.searchResults.classList.add('hidden');
     }
     
     clearSearch() {
