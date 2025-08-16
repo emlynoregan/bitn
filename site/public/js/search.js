@@ -49,7 +49,9 @@ class ArchiveSearch {
             hasInput: !!this.searchInput,
             hasDropdown: !!this.searchResults,
             hasPageResults: !!pageResultsEl,
-            hasPageInput: !!pageInput
+            hasPageInput: !!pageInput,
+            hasIntro: !!pageIntroEl,
+            hasStatus: !!pageStatusEl
         });
         
         if (!this.searchInput) return;
@@ -98,6 +100,12 @@ class ArchiveSearch {
                         }
                     };
                     tryRun();
+                } else {
+                    // No query → reset to intro state and paint intro into results area
+                    if (pageIntroEl) pageIntroEl.style.display = '';
+                    if (pageStatusEl) pageStatusEl.style.display = 'none';
+                    if (pageResultsEl) this.renderIntro(pageResultsEl);
+                    document.body.classList.remove('search-has-results');
                 }
             }
             
@@ -222,8 +230,9 @@ class ArchiveSearch {
             // Show status on search page and hide intro if present
             const pageStatusEl = document.getElementById('search-status');
             const pageIntroEl = document.getElementById('search-intro');
-            if (pageIntroEl) pageIntroEl.style.display = 'none';
-            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
+            console.log('[search] performSearch show status?', { hasStatus: !!pageStatusEl, hasIntro: !!pageIntroEl });
+            if (pageIntroEl) { pageIntroEl.style.display = 'none'; console.log('[search] hid intro'); }
+            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; console.log('[search] show status text=Searching…'); }
             // Perform search
             const results = this.index.search(trimmedQuery);
             console.log('[search] results', results.length);
@@ -240,7 +249,8 @@ class ArchiveSearch {
             const pageContainer = document.getElementById('search-page-results');
             if (pageContainer) {
                 this.renderPageResults(pageContainer, searchResults, trimmedQuery);
-                if (pageStatusEl) pageStatusEl.style.display = 'none';
+                if (pageStatusEl) { pageStatusEl.style.display = 'none'; console.log('[search] hide status after render'); }
+                document.body.classList.add('search-has-results');
             } else {
                 // Fallback: dropdown (legacy behavior if needed)
                 this.displayResults(searchResults, trimmedQuery);
@@ -250,7 +260,9 @@ class ArchiveSearch {
             console.error('[search] Search failed:', error);
             const pageContainer = document.getElementById('search-page-results');
             const pageStatusEl = document.getElementById('search-status');
-            if (pageStatusEl) pageStatusEl.style.display = 'none';
+            const pageIntroEl = document.getElementById('search-intro');
+            if (pageIntroEl) { pageIntroEl.style.display = 'none'; console.log('[search] renderPageResults hid intro'); }
+            if (pageStatusEl) { pageStatusEl.style.display = 'none'; console.log('[search] renderPageResults hide status'); }
             if (pageContainer) {
                 pageContainer.innerHTML = '<p class="text-red-600">Search failed. Please try again.</p>';
             } else {
@@ -399,9 +411,11 @@ class ArchiveSearch {
             if (pageStatusEl) pageStatusEl.style.display = 'none';
             if (!results || results.length === 0) {
                 container.innerHTML = `<p class="text-gray-500">No results match your search.</p>`;
+                document.body.classList.add('search-has-results');
                 return;
             }
-            container.innerHTML = results.map(r => `
+            const header = `<h2 class="text-xl font-semibold text-gray-800 mb-4">Found ${results.length} results:</h2>`;
+            container.innerHTML = header + results.map(r => `
                 <div class="p-4 bg-white rounded-lg shadow border border-gray-200">
                     <a class="block" data-url="${r.url}">
                         <h4 class="font-semibold text-gray-800 mb-1">${this.highlightMatches(r.title, query)}</h4>
@@ -429,6 +443,23 @@ class ArchiveSearch {
             });
         } catch (err) {
             console.error('[search] renderPageResults failed', err);
+        }
+    }
+
+    // Render intro block into results container when no search has happened
+    renderIntro(container) {
+        try {
+            if (!container) return;
+            const totalDocs = (window.BITN_TOTAL_DOCS || 14);
+            const range = (window.BITN_DATE_RANGE || '1845-2016');
+            container.innerHTML = `
+                <div class="text-center mb-8">
+                    <h1 class="text-3xl font-serif font-bold text-gray-800 mb-4">Search the Archive</h1>
+                    <p class="text-lg text-gray-600">Search through ${totalDocs} historical documents spanning ${range}</p>
+                </div>
+            `;
+        } catch (e) {
+            console.warn('[search] renderIntro failed', e);
         }
     }
     

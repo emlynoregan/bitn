@@ -77,6 +77,18 @@ body {
   transition: all 0.2s ease;
 }
 
+/* Hide the built-in clear (x) control on search inputs across browsers */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+input[type="search"]::-ms-clear { display: none; width: 0; height: 0; }
+input[type="search"]::-ms-reveal { display: none; width: 0; height: 0; }
+
 #search-input:focus {
   box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.1);
 }

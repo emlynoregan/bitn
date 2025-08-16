@@ -3,11 +3,6 @@ title: "Search the Archive"
 type: "search"
 layout: "search"
 ---
-
-# Search the Archive
-
-Use the search box below to find specific content within the Burra in the News historical archive. You can search by keywords, publication names, dates, or any text content within the documents.
-
 ## Search Tips
 
 - **Keywords**: Try specific terms like "mining", "copper", "school", "church"
