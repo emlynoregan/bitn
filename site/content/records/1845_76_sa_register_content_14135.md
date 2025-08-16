@@ -40,4 +40,4 @@ There is great dissatisfaction with the mail service between here and Kapunda.  
 
 It is to be hoped that the recent fire will be a salutary lesson to the town.  Precautions against such events have habitually been disregarded here, with highly flammable items stored in unsuitable places and fires carelessly suffered to exist so that it is a wonder the whole town has not been consumed long ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

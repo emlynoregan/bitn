@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The ‘Collinsville Rams’ finished 3rd in the Black Rock Stakes in WA.  [Considerable details of the race are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

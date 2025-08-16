@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  Traps and ploughs were moved into roadways.  Packing cases etc. were moved onto the pavement in front of Drew & Co.  Iron crossing-plates were overturned etc. in both Kooringa and Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

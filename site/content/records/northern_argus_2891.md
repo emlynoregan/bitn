@@ -25,4 +25,4 @@ publication_slug: northern-argus
 Obituary.  Mr Alan Peter Williams died 9 July.  [Born 20 April 1923 Redruth.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

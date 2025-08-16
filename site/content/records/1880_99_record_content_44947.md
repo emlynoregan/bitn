@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Old Sport’ writes enquiring why there have been no Burra Races this year.  There is believed to be £30 in hand so racing men should rally round and get things going again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

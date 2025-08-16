@@ -37,4 +37,4 @@ Cost of boring: -	50'	£12-10-0	100' 	£37-10-0
 
 The discussion generally approved this scheme since the Govt. plan would cost £800 plus the cost of maintaining the pumping engine etc. The bore would be cheaper and would belong to the town. SAMA has since promised £25.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

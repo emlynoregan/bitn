@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 The Parent Group AGM saw the election of: President, Peter Stockman; Vice-President (yet to be filled); Secretary, Carolyn Nottle; Assistant Secretary, Jean Kleinig; Treasurer, Janet Slade and Publicity Officer, Helen Stockman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

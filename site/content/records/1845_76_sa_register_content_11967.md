@@ -51,4 +51,4 @@ Today there was excitement at the arrival of several specimens from the section 
 
 Mr Thomas Rosewall has been appointed Captain at the Royal Mining Co.’s mine at Karkulto.  This is a wise appointment as he has been working on the ground for a long time and knows the place better than anyone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

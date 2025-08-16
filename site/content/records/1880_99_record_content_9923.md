@@ -45,4 +45,4 @@ The road from Paxton Square through the Smelting Works is to be done by day labo
 
 Tenders called for a footbridge over the Burra Creek opposite the Institute and alternative tenders for one at the site of the old one at the back of the Burra Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

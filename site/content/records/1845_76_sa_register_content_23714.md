@@ -36,4 +36,4 @@ On Wednesday a very heavy fall of rain caused the culvert in Commercial Street t
 
 [Patrick Coy died 25 October 1870 at Kooringa aged 24.  BISA research says he came from Offaly in Ireland and arrived in 1858 on the General Hewett.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

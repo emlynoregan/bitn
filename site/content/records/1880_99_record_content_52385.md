@@ -33,4 +33,4 @@ Burra High School Speech Day at the Institute.
 
 The school caters to girls, though boys to the age of eight are taken in the primary section.  There was along and searching program of items: vocal and instrumental quartets, duets, and dialogues with English and French recitations.  The Principal, Mrs McLagan, deserves to be congratulated as does Miss J. Sprod, the popular University Coach, who is assisted by Miss Dawson.  Mr Uhrlaub reported on the German classes.  He had six students this year.  The dux of the school was Miss Nellie Harry and she was the recipient of most prizes.  Miss Dawson will be replaced by Miss McKerdy of the Adelaide School of Music.  She will take the fourth class and assist Miss Sprod with music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

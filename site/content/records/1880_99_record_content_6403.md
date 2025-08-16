@@ -29,4 +29,4 @@ Letter from ‘Rubbish’ who says he has received a handbill advising that from
 
 As a professional he commands public interest re advertisements and subscriptions, but I think he is scarcely strong enough to form the sole attraction for such a large literary project and I should think the gentleman’s printers would soon find themselves in financial difficulties.  We await the first issue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

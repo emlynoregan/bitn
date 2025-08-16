@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute monthly meeting.  Plans for changes to the stage and the construction of dressing rooms were presented, but as the cost was higher than expected a committee was appointed to get less expensive plans made and submitted to an architect for costing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

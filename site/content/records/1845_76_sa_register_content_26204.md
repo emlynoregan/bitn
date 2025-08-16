@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Fencing in the district is making matters worse for settlers as road are being closed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A poor maniac has been travelling about warning the colony of a visitation of famine and pestilence as a judgement from God as revealed in a vision.  He began in March and has travelled north to the Burra Burra Mine and is now travelling south again, going from house to house.  He claims to have covered 60,000 miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

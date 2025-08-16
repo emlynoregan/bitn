@@ -36,4 +36,4 @@ Miss Maggie Coughlan, Champion Lady Dancer of the World, and
 
 The Talented Gardner Family, Brass Band & a Musical Tour of Ireland in Song, Dance and Wit.  Burra Institute 19 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

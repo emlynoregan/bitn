@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Opening of the Burra Railway.  Arrangements are in hand to welcome the Governor and other visitors on 29 August.  The goods shed has been placed at the disposal of the committee, who have arranged for a luncheon to be prepared there.  Seventy invited guests are expected and in all some two or three hundred will probably attend the spread.  Every effort will be made to secure a success and ensure a pleasing demonstration.  The Concordia Band from Adelaide has been engaged for two days to play during the celebrations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

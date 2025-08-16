@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd leader on The Education Act.  A committee was enquiring into the operation of this Act.  The present system encouraged - indeed demanded - cramming.  The role of the local boards is enlarged upon as discussed by the Minister of Education.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

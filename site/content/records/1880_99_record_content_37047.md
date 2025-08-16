@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  Neither of the daily papers has given credit to the Burra Co. VF at the review.  We understand it was the largest country company present and contributed their quota to the several movements very creditably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

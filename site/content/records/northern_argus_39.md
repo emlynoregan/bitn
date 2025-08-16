@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Accident.  A car and semi-trailer collided just south of Mt Bryan at 11 p.m. last Friday.  One person from the car received minor injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

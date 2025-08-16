@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Charles Price died suddenly on Thursday, aged 86.  Many years ago he had the Black Waterholes Garden near Burra and then took land at Mt Bryan East and then at Banbury.  At the time of his death he was gardening at Hallett.  [Died 25 April 1895.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

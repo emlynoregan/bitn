@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Annual Bible Christian Bazaar was opened on Monday in an unoccupied store adjoining Mr T. Richard’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

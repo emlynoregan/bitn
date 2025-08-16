@@ -27,4 +27,4 @@ Editorial on the Burra Show.
 
 The editor predicts a great success given good weather and he stresses its importance in infusing energy into the various industries.  The prize list has been increased in value by £60 to £200.  A new shed has been erected for perishable goods.  A new gate allows for the entrance of cattle.  The society is in a sound financial position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 D.J. O’Leary, as ex-chairman of the Waterworks Committee, writes in his own defence to the charges brought by W.T. Rabbich about the Redruth Reserve and its water supply.  The Reserve has a stand pipe and Rabbich could have rolled up his sleeves and watered the trees from that.  The real destruction of these trees and elsewhere in the town was grasshoppers.  He also defends his orders to the engineer to keep the reservoir full and be on hand for government visitors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

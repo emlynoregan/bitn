@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church Anniversary Services were held last Sunday when the Wesleyan ministers gave the sermons.  (Revs. W.A. Langsford & J.Y. Simpson.)  Attendance was only fair in poor weather.  Public tea meeting today at 4.30 & 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

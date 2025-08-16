@@ -29,4 +29,4 @@ The Burra Show was reported in the ‘Garden and Field’ as the best country sh
 
 ‘We say distinctly that is not honest.’  It is not within the spirit of the grant made by Parliament to include material from outside the district.  This is fine for exhibits ‘not for competition’, but for such prizes ought not to be awarded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

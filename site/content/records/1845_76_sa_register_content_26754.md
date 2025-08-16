@@ -35,4 +35,4 @@ A successful entertainment was held at the Redruth Wesleyan Schoolroom on Friday
 
 Rev. B. Backhouse of the British and Foreign Bible Society preached at the Primitive Methodist Church on Sunday and on Monday at a public meeting he lectured on ‘The Bible in Burmah’, using pictorial illustrations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

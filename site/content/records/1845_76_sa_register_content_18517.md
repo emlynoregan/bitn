@@ -53,4 +53,4 @@ Trade remains slack, though I hear a Melbourne Company has taken up a discovery 
 
 On Thursday evening a meeting was held at the Burra Hotel to present a testimonial to Mr Winnall for services as Superintendent of St Mary’s Sunday School for the past six or seven years and for his work in keeping the congregation together in the interregnum between ministers that preceded the arrival of the present incumbent.  He was presented with a silver salver suitable inscribed.  It was presented by Rev. Stanton in a speech of considerable length and feeling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

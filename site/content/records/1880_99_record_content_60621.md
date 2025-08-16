@@ -29,4 +29,4 @@ Obituary.  Sam Tembly, a young man of Kapunda committed suicide last week by han
 
 [Samuel James Temby was born 22 August 1869 and died 31 August 1896.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

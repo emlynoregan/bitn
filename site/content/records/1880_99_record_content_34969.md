@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Pearse	General Wheelwright has commenced business in the shop occupied by Messrs Harry & Burns, Buggies made to order, Commercial St
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

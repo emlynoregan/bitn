@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra auxiliary of the Adelaide Children’s Hospital recently presented two service awards to members.  Dolly Cox received a 15-year service award and Irene Hirschausen a 20-year service award.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -58,4 +58,4 @@ Rev. L.W. Stanton gave another of his popular entertainments assisted by Mrs Smi
 
 [The only people of this name to die in Burra were Francis Cross who died 9 January 1872 aged 61 and his wife Sarah who died 13 June 1876 aged 69.  Their BISA entry says Francis was a labourer and tailor, with no  mention of the librarian’s job, but this could well have been something he turned to as his health failed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

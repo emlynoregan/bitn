@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Lack of positive identification of the items caused the Court to dismiss the Day case, but on the other case a sentence of three months in Adelaide Gaol was imposed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

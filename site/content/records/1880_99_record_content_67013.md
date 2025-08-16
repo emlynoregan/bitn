@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Mary’s Sunday School Picnic was held on Wednesday at Princess Royal.  There was an abundance of food and sports and it was not much spoilt by a couple of showers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Obituary.  Mr Eddie Heinrich died in Adelaide recently.  [Edward Louis Heinrich born 6 November 1919 Booborowie: died 7 August 1987.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

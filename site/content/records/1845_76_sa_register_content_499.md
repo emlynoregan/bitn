@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The want of wells along the road to the Burra Burra Mines was most marked in the hot days of last week and among the many bullocks conveying copper ore, several casualties occurred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

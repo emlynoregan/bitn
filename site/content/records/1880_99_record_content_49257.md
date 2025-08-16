@@ -30,4 +30,4 @@ Mr Lake:
 
 He had been returned for Burra three years ago.  While he felt the Parliament had done some good, the truth was too many members had different policies.  He opposed the Licensed Victuallers Act and the Happy Valley Water Works (on cost).  Much money was wasted on Royal Commissions.  He now supported a progressive land tax, favoured water conservation and limiting election expenses.  He supported federation and found strikes barbarous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The Baldina road saw merely: 6 drays carrying 13 tons 12 cwt from Kooringa & 2 drays carrying 2 tons from Redruth
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

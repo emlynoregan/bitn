@@ -30,4 +30,4 @@ I have to announce that the men working on the Adelaide road are making some pro
 
 The ant-Boothby agitation has lost none of its force and seems to be in everyone’s mouth.  The prevailing opinion seems to be that something certainly out to be done to decide the question and assert out constitutional rights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

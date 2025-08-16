@@ -38,4 +38,4 @@ Great preparations are in hand for the holding of a bazaar in the Institute in a
 
 Weather.  Showers on Sunday settled the dust and it is hoped that they extended further north where they are much wanted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

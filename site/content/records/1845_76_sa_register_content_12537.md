@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Charles Campbell writes to correct some details in the report of his child’s disappearance at Baldina.  The child was in the habit of leaving the tent between 9 and 10 a.m. and coming 300 yards to where his father was cutting wood.  On Thursday he left as usual and when he failed to return as quickly as usual his mother came looking for him.  Campbell and his friend working with him searched till evening and then let the neighbours know.  A search was kept up all night.  On Friday the police were notified and the search continued through the night.  On Saturday and Sunday 25 to 30 of the Company’s men searched all day.  On Saturday evening one of the police came as far as the mule camp 10-12 miles from Burra and about 4 miles from where the child was lost.  He was told a large party was searching and then returned to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

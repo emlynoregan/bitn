@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Emily Sellers sued William Henry Linkson (29) for support for his destitute illegitimate child.  Linkson denied being the father and the evidence being inconclusive the case was dismissed.  The report is lengthy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on another fire in the town, which might have been put out by a fire reel, which was not available.  The fire was fortunately extinguished before much damage was done.  The editor also recommends that the Council build sale yards to increase their income.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

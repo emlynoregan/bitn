@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mary Ann Wilks aged 19 years 5 months, daughter of Elias and Mary Wilks, has died at her parents’ residence after a long and painful illness.  [Born 30 March 1880: died 4 September 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

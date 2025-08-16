@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 SA Country Choral Association Choir will perform Handel’s Messiah in St Mary’s.  John Hall will play the organ and Boyd Dawkins will conduct the choir on Sunday 10 November at 7 p.m.  Soloists will be David Galliver (tenor), Rosemary Nairn (contralto), June Klingberg (contralto) and Celine Egar (soprano).  Admission is free, but a donation of $4 per adult is suggested.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

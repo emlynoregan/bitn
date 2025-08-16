@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Robin Morton, on behalf of Sara & Dunstan’s employees at Narridy new Post & Telegraph Office, writes in support of Hardy and the eight-hour day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

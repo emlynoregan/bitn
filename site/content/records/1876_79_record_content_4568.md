@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Entertainment. Burra Inst. Tuesday 20t1i a concert of Secular and Sacred Music with Mr James Cater in the chair; in aid of the Kooringa Primitive Methodist Sunday school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

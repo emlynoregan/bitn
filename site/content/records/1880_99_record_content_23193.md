@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF.  There will be no special train to Terowie for the RVF drill next Wednesday at Caltowie so it is unlikely any from Burra will attend as normal services would mean going north on Tuesday and back on Thursday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

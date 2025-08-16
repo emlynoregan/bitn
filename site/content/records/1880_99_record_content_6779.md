@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Early Closing.  Some shopkeepers are gradually extending the hours of trading on Saturday to make up for the Wednesday half-holiday.  There is no excuse for this.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

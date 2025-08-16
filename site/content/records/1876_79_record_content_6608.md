@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. There will be a concert on 3 July in the Institute in aid of the new church. 2/- & I/MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

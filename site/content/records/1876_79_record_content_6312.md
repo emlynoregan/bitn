@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Lecture on `To England and Back' in the Wesleyan Schoolroom, Kooringa, Wed. 7 May, by the Rev. James Bickford. 1/- & 2/-. Proceeds to the school building fund. MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

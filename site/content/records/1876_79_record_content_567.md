@@ -78,4 +78,4 @@ Captain Sanders accuses me of ‘interfering’ and is then surprised that I res
 
 ‘Let Dr Cave write on this subject to Board of Health in Adelaide and see if those gentlemen do not place as much reliance on his statements as they did on those of Captain Sanders and Dr Dashwood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

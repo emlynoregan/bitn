@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Goodchild, Duff & Co. will sell, under instructions from John Sampson Jun., all his interest in the lease of the land adjoining the Burra Hotel, with a frontage of 50’ and a depth of 120’ and with an excellent well.  The lease has 31 years to run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

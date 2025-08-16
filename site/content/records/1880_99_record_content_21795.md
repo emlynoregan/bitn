@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 There is also the delightfully ironic report that the men at Dry Creek, who were put on piecework to save money when they were paid 4/6 a day, are now earning up to 6/- a day, and some of them more.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

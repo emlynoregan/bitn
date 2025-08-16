@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cr T.W. Rabbich moved at Council that a petition be laid on the table for the signatures of applicants for blocks of land with a view to asking the Government to carry out the Baldina Irrigation Scheme.  The Baldina Creek is admirably suited for irrigation and would only cost two to three thousand pounds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

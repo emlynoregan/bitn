@@ -32,4 +32,4 @@ Sheep on Farms
 
 [An article describes the present position of wheat farmers who have met with a decreased market for their wheat in other Australian colonies.  While no doubt markets will eventually be developed in England etc. in the meantime the incorporation of sheep on farms would provide another source of income.  The article reports on the experience of J.H. Browne of Port Gawler in developing a breed of sheep suitable for this purpose, using Merino ewes and Lincoln, Cotswold and Romney Marsh rams.  The ewes were drawn from Mr Browne’s Booborowie flock.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

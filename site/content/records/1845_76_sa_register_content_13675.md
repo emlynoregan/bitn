@@ -28,4 +28,4 @@ Advertisement.  For Sale, the Caroona Mine, located about 30 miles north of the 
 
 Robert Hotchin, Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

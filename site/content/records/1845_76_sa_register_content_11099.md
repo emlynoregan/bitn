@@ -29,4 +29,4 @@ Kooringa Primitive Methodist Sunday School held its first Anniversary on Sunday 
 
 On Thursday the children, headed by a band and carrying suitably inscribed banners, marched through the town.  They ended at the chapel for the customary tea and cakes.  The public tea meeting drew a large crowd and interesting addresses were delivered.  During the year the school has increased from 40 to 100 and can be considered to be flourishing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

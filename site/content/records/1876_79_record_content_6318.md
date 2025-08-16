@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. A requisition from various persons asking W.P. Nesbitt, Mayor, to call a public meeting on the expediency of adopting a system of artesian wells or tube wells in portions of the colony. The meeting was called for 2 May at the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

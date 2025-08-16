@@ -48,4 +48,4 @@ After further legal argument it was agreed that half the money be paid now and t
 Thomas Viant was charged with being drunk and disorderly in the Miners’ Arms and with assaulting William Richardson.  He was fined 5/- for being drunk and 10/- for the assault and ordered to pay 1/6 for broken glasses.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

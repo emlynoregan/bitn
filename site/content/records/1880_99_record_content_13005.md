@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 Accident.  A trap with one horse driven by Mr Holder and also containing Messrs Geake, Ward, W. Anderson, Hardy and Harry, was travelling towards Aberdeen on Tuesday evening when it collided with a trap coming towards Kooringa driven by J. Sampson Jun.  Mr Sampson’s trap struck the other between the front and back wheels.  The horses snapped the swingle trees and escaped and all seven persons were thrown out.  Mr Geake was the only one much hurt.  His nose was laid open and he was much shocked.  Mr Sampson was driving without a light and with only one horse in the pole he could not manage the trap safely.  Other road users said they were lucky to escape him elsewhere along the road.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

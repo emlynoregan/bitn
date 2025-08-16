@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Thanks to Hon. H.E. Bright, who has just been defeated at the Legislative Council elections.  He has served the colony well as a Member of Parliament for twenty-four years and retires at 72, though no doubt he will continue to be heard from.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

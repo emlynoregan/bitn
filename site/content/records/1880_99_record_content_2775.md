@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 29 Jul 81	Major Molineux Ch II-III	Echoes of the Past (Part III)	A Brief History of New Zealand Part II	X	X		X	X	X	X
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

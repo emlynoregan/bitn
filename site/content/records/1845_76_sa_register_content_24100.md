@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Obituary.  Mary Kervan, late cook at the Aberdeen Hotel, died suddenly on Saturday night.  No inquest was deemed necessary as she had been attended to recently by Dr Dashwood for disease of the heart, which he certified as the cause of death.  [Died 12 August 1871 aged 39 at Swansea Vale (Burra), residence Aberdeen.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

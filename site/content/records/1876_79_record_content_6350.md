@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Letter to Editor re the water supply. Our Council could not do better than spend some money on boring in Market Square. Let a tube well be put down and a pump fixed with a public trough. Let the Corporation subsidise £ for £ public subscriptions raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

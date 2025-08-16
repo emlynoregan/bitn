@@ -44,4 +44,4 @@ When Mr MacDermott opened the letters of nomination for election to the House of
 
 The boy Morley, who I mentioned in my telegram, as having been shot, continues to progress favourably and it is hoped he will recover.  He has been in the habit of entering his neighbours’ houses and troubling them with his meddling and importunity.  Mrs Bryant, in order to get rid of him, took down a pistol, thinking it to be unloaded and threatened to shoot him.  Unfortunately her husband had loaded it without her knowledge and when it was fired a charge of No. 3 shot was lodged in the poor fellow’s face and hand.  Thirteen grains entered his face, one of which traversed the upper part of his eye socket and severed a branch of an artery in the corner of the eye.  This is the only one giving concern.  Mr Wilkinson is treating him and has hopes of his recovery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

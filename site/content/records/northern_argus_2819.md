@@ -30,4 +30,4 @@ Obituary.  Syd Collins died in the Burra Hospital last week.
 
 [Harold Sidney Collins born 26 September 1899 Farrell’s Flat: died 23 June 1987, though the headstone in Burra Cemetery gives a birth date 28 September 1900 for Sidney Harold Collins.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -41,4 +41,4 @@ The election for vacancies in the Legislative Council took place yesterday in th
 
 Weather.  We have had several welcome showers and the surrounding plains have taken on a brighter appearance.  A considerable fall today has rendered the streets almost impassable and the creek has risen so as to oblige the hasty removal of the inhabitants of the creek huts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

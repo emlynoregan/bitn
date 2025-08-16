@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Crs Brown and Rayner supported extending the Aberdeen scheme.  A guarantee of £120 p.a. would be needed to extend the main to the hospital.  More than £30 of it would come from Aberdeen, leaving Kooringa to pay only a little over £60.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ Extremely pure gold has been discovered in SA in the past, both by washing and i
 
 ‘A gold mania would be to these colonies a source of great misery, by diverting to a precarious pursuit labour that is now so profitably, productively and happily exerted in the cultivation of a generous soil.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 Larrikinism: several young boys are stupidly throwing lighted matches at passers-by.  They are also lighting them and forming a line along the footpath.  On Tuesday one of our office boys fell a victim and received severe burns in the eye.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr & Mrs A. McCulloch leave Burra today for England for a visit.  They were serenaded at Princess Royal last night by the Burra Band and were given an illuminated address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

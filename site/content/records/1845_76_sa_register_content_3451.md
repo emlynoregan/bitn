@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 I write to try to arouse then to stir themselves to supply the funds necessary for the establishment of a permanent Church of England clergyman in Kooringa and to petition the Bishop to this end.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

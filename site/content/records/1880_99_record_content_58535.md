@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Sampson has agreed to the requisition to stand again as councillor for East Ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

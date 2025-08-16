@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Volunteer Forces.  As no agreement has been reached on the uniform for the Battalion the General has been asked to decide.  It is expected he will choose scarlet tunics with buff facings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

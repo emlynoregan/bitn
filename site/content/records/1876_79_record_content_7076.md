@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Football. Mr Bentley has offered to take a photo of the Burra footballers on Saturday afternoon at his residence at 3.00 p.m. so they are requested to meet there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

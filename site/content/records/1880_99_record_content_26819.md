@@ -40,4 +40,4 @@ The depreciating value of properties in Burra means that the old assessment was
 
 £100 of bonded debt was repaid this year.  [£200 bond falls due on 1 April 1888]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

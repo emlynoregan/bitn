@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  John Sampson and Sandland & Co. will sell on Friday 7 August at 1.30 p.m. on instruction from Mrs Dow, who is leaving the town, her household furniture and effects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

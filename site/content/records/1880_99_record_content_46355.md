@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Primitive Methodist Annual Dinner was largely attended and the Burra Brass Band contributed to the enjoyment in the afternoon and evenings.  Church finances were reported to be good and the debt was reducing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

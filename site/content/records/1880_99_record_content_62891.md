@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr John Pearce, who had just finished work at the Reformatory, had his dray in the yard loading galvanized iron when the horse took off, but unable to escape it ran against a strong gate, but was fortunately not much hurt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -40,4 +40,4 @@ G. Mayger	1 horse	5/- 	+ 2/6 costs
 
 [The two Parks items may be separate occasions or perhaps one is a misprint for a different animal.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

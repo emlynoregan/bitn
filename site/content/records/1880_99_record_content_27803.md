@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  James French got his clothes caught in the machinery at Butterworth’s Mill, but miraculously he escaped injury, though every stitch of clothing was torn off down to his boots.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

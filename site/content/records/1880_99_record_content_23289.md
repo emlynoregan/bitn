@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  SAMA will prosecute anyone removing stone, soil, sand or any other material from the estate of SAMA or otherwise trespassing thereon.  W. West (Agent)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

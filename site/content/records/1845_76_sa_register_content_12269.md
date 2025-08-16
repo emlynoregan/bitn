@@ -30,4 +30,4 @@ The Directors of the Royal Mining Co. visited their property this week.  Their r
 Last night three shares in the Redruth Building Society were sold; one at a premium of £36 for £100 share and the other two at £36-10-0.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The retiring directors, Kingston, Jaffrey, Beck, Peacock and Graves, were all re-elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

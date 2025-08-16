@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Continuation of local and other news with a column or two of smaller advertisements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

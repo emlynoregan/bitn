@@ -33,4 +33,4 @@ publication_slug: northern-argus
 
 Dalgety Bennett Farmers’ new premises were opened recently by well-known merino identity Ron Pearse, former manager of the now closed Koonoona Merino Stud.  A crowd of more than 200 attended the new air-conditioned building next to the Burra Hotel.  A feature of the building is its façade in bluestone taken from the old Farmers’ Union building that was on the same site.  It and the bullnosed verandah are both in keeping with Burra’s heritage.  Branch manager Andrew Butler said the new premises would be an asset to the rural community in Burra and district.  It would offer a bigger and better showroom and improved product display.  John Secomb, the Dalgety Bennetts Farmers’ northern regional manager, said that when he started in Burra with Oates Ltd in 1960 there were five stock agents in town.  Today there were two.  Noel O’Brien, the firm’s general manager, also spoke at the opening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

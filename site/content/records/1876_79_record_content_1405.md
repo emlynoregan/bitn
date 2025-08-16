@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Carandini Co. was excellent and attendance disappointing. Well attended night 1, but only 50% the second night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

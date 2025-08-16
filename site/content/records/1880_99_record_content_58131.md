@@ -35,4 +35,4 @@ The verdict was of suicide while in a state of temporary insanity.
 
 The deceased leaves a wife and six children, the youngest of whom is – years old.  [The blank space in the paper should be filled with the number 11.  Note that Walter Edgar Bagg sadly died 21 Apr. 1896 of phthisis (TB) aged 20.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

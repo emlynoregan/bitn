@@ -54,4 +54,4 @@ Mr John Kent proposed the memorial be sent to the Board immediately.  This too w
 
 [The text of the memorial is then printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

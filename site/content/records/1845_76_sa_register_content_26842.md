@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Burra Institute.  A meeting of subscribers was held on 15 November.  Rev. H. Howitt presided.  Secretary D. Wells said the object was to appoint a sub-committee to revise the rules and regulations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

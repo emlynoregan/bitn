@@ -41,4 +41,4 @@ That the remaining 100' of ground belonging to the cemetery be enclosed by movin
 
 He was instructed to prepare plans for the arbor and get a costing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

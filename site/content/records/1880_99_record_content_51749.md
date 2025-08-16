@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Accident.  Messrs J. Andrews and C. Schutz Jun. were thrown from their trap while returning from Clare on the very dark evening of November 9.  The accident happened at a creek between McNamara’s and Davieston.  The horse bolted and was found next morning about 5 o’clock in Kangaroo St with the horse one side of the fence and the trap the other.  No serious damage was done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

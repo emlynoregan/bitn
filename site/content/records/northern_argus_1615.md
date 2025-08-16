@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 The UFS Rural Expo at the Burra Town Hall on Friday drew about 450-500 persons. There was a barbecue and many stalls, a display of heritage quilts [photo], computers, sausage making [photo of Sue & Len Hentschke], wool spinning and microwave oven demonstrations, among other things. Looking Good Boutique launched its spring collection and proceeds went to the Farmers’ Fighting Fund.  [Heritage Quilts were drawn from two classes making quilts for the Jubilee Year celebrations.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

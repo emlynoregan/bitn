@@ -37,4 +37,4 @@ District Ranger for Burra D.C., John Morgan, charged Messrs Cockrum & Pearce, bu
 
 The defence succeeded, but the attorney fees were £2-2-0, court fees 5/-, witness fees £1-10-0 to total £3-17-0.  The report doesn’t state whether the court awarded them costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

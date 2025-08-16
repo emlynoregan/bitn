@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 World’s End Silver finds continue to create interest with reports of 4 oz silver per ton and 3 dwt of gold.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rifle Match.  The final match for the single barrel shotgun was held on Wednesday when 8 of the 9 qualified shot it out over 200, 500 and 600 yards.  Private C. Parks won the gun with 62.  Private Nicholls came second with 54 and Private Hardy 3rd with 50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Street Trees.  The Mayor has in hand a scheme for planting trees on small pieces of land in the present season.  The places are by roads in Paradise, Welsh Place, Chapel St and elsewhere.  If enclosed and successful the planting of trees in guards along the streets will need to be continued.  The Mayor is soliciting donations amounting to c. £50 for the scheme.  The Government subsidy will apply and SAMA has said it will offer 20% on whatever the public subscribe.  Thus for every £1 donated a further 24/- will become available.  [The main cost was fencing to keep out the town’s voracious livestock.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

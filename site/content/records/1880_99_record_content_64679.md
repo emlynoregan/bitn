@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Primitive Methodist Church will hold a public dinner 21 August at 4.30 p.m. and at 7.30 p.m. Rev. Wibberly will deliver a lecture: Woman, her Place and Power.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

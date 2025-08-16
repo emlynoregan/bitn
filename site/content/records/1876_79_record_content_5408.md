@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Burra School. The school ground is now fenced, but in a disgraceful manner. A cheap paling fence of the meanest description now surrounds the £7,000 building and it is not even useful as it encloses too little ground to enable games to be played inside it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

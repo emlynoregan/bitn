@@ -86,4 +86,4 @@ Wellington Ferry	£1,243
 
 From this it can be seen that over five years the South Road and the North-Eastern Road have absorbed nearly equal sums of money and these roads stand at the head of the list.  The North Road and the South-Eastern Road follow in order, both being on a par with respect to costs.  The number of main roads on which the Central Road Board expended money has steadily increased from 5 in 1851 to 10 in 1852, 12 in 1853, 14 in 1854 and 17 in 1855.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

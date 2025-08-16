@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Justices of the Peace; more needed in Burra and also north for instance at Hallett as the agricultural population grows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

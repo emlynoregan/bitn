@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Editorial favouring taking the railway line direct to the Barrier from Burra, rather than via either Terowie (as surveyed), or from Orroroo as in one other proposal.  The line would foster trade with NSW and Queensland.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

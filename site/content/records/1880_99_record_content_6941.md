@@ -34,4 +34,4 @@ William Barnes	selling bad fish	£2
 
 Joseph Boundy & William Hughes were fine £5 each, of which £2 from each to go to the complainant.  They assaulted Mr Callaway, landlord of the Pig and Whistle Hotel, on 8 May.  They had arrived at 10.30 p.m. in the company of an Aboriginal for whom the landlord had refused to draw a drink, which led to a fight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Dugald McNiel, a settler near Douglas, was found dead on the road about three miles from the creek by Mr Carpenter on Monday.  [Registered as McNeill, 9 February, aged 54.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

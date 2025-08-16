@@ -52,4 +52,4 @@ See Melbourne Argus 31-xii-1852; Adlam to Alford 7-iii-1853 (C.S.O. 790/1853); S
 
 [C.S.O.=Local Colonial Secretary’s correspondence in SA Archives.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

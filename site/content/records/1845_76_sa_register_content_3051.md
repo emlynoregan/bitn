@@ -126,4 +126,4 @@ Richard James, miner, living in the Creek at Burra Burra, gave further evidence 
 
 The case was then adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

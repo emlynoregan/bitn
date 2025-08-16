@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offence.  Having annoyed the good citizens of the town with their drunken behaviour for some time two rag and bone collectors called Nels Christian Senerson and his wife, Annie, were arrested last Friday and charged with drunkenness.  They appeared on 16 January before P. Lane JP and were fined 5/- each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -65,4 +65,4 @@ The issues are numbered as follows.  In this sequence the number in round bracke
 
 313 (3) [2, 1894]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

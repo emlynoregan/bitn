@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The road from Kooringa to the Mine store is progressing fast.  All the cutting is nearly completed, the metal broken and so, little remains to be done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

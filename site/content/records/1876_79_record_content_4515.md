@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Public School. On visiting the school we found it to be well run with good discipline and organisation. Attendance was however, miserably thin so it is hoped Parliament will soon make it free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

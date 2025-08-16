@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Queen’s Birthday Holiday on Monday saw no amusements in Burra, but many people went on picnics in excellent conditions, though one party that went out east took the wrong road back as a short cut and so got lost, finally arriving in Burra about midnight, ‘cold frightened and shivering’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

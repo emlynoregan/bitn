@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Council let a contract to Messrs Francis Clark & Sons for the artesian well in Market Square. If the public subscribe half the cost the Govt. will fund the rest. Owing to misadventure the first well has had to be abandoned and the second is now being bored.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

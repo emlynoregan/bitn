@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mr Paxton’s friends will meet him at 11 a.m. tomorrow morning at Ramsay’s Hotel for lunch, prior to his departure for England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

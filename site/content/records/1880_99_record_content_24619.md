@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church anniversary will be celebrated on 13 & 14 Feb.  Miss Green of Adelaide will preach each morning and evening with Rev. G.E. Rowe assisting in the afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

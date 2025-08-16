@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Gawler Bunyip says recently ‘The Burra Corporationists have more rows and pantomimes than any other half dozen municipal bodies in the colony.  The Burra Council Chamber is a veritable public laundry.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -20,4 +20,4 @@ publication_slug: record-1880-99
 
 [See XV, 253 (2), 9 Dec. 1896, page 2 for the outcome of the trial.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Kooringa News, 30 April
 
 Having displayed considerable apathy and procrastination about the coming election, Burra residents are now going about the matter in a desperate hurry.  It is now too late for any of the candidates to address a public meeting of electors at Burra.  Requisitions to Mr Thomas Graves, Mr Furniss and to Mr A. Jaffrey were all declined.  Eventually Mr J.W. Tyler of Princess Royal was prevailed upon to stand, but then J.B. Neales was thought of and he too has come out as the second candidate.  Mr S. Stocks has also been thought of and could yet come out as a third candidate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

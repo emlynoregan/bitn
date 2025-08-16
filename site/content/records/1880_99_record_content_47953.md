@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Larrikinism: Patrick Lally, Edwin Boulton, Archibald Wade, & John Bruse were charged by L-C Thomas that they did on Saturday night December 17 1892 unlawfully disturb the public peace in Thames St, Kooringa, by singing, shouting, and knocking at several doors.  They pleaded guilty to singing, but denied shouting and knocking.  They were each fined 7/6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

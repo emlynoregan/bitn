@@ -39,4 +39,4 @@ In all a hotel, three stores, baker, two butchers, a chaff merchant, two boardin
 
 The Victoria Tower Mine is quite extensive with a shaft of 400 feet and some extensive drives.  Several other mines on the field are also described.  Water can be had at 10/- for 100 gallons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

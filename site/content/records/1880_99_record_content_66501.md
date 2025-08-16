@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  Boring at the Burra Mine continues systematically with encouraging results and the second bore is well down.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

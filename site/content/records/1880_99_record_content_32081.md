@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes a letter on E.W. Hawker’s criticism of SA and its government made recently in London.  [The article is ⅔-column of puff, but little of substance and light on argument.  It principally decries Hawker as talking down the colony to enlarge himself.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

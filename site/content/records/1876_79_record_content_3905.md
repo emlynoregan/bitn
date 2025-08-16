@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Mr Goyder resigns as Surveyor General. He will be most difficult to replace.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter from J.J. Duncan re Mr Lane’s recent assertions that Gum Ck people had sheep and cattle on the stock route illegally.  This is not true and never has been and neither is his assertion that we reported him to the ranger for trespass on the reserve.  J.J. Duncan would have sued Lane for slander had he been able to prove the slightest injury had resulted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

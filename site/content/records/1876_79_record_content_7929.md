@@ -28,4 +28,4 @@ Cricket. There will be a match played tomorrow on the ground near the German Chu
 
 Burra 86 & 82 (168)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

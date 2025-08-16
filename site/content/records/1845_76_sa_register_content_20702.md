@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The suspension of operations at the Burra Mine have surprised many and caused some distress among the unemployed.  Many who have a little capital are leaving for Victoria.  This loss of migrants that the Government spent money to bring to SA is to be regretted and the immediate construction of a railway to Burra would have furnished work for the miners until the mine could be re-opened.  Immense quantities of high grade ore remain, but cannot be profitably removed given the low copper price and the high cartage costs.  The Burra Mine has been of immense value to the colony and is now crippled by high transport costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

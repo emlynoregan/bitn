@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Burra Amateur Athletic Club Sports, 4th meeting 10 Nov. (Prince of Wales' Birthday)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

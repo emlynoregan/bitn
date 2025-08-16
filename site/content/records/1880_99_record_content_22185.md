@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes to protest against another white elephant: the damming of the Burra Creek.  He also opposes the Recreation Ground, Park Lands and ‘officers’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

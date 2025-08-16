@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Kooringa Primitive Methodist Sunday-school Anniversary on Good Friday raised £15-3-0 and the service of song, ‘Jessica’s First Prayer’ was presented at the Institute in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

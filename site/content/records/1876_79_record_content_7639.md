@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 2nd Leader: on a successful municipal year. This was the first where real money could be spent on public works. Spending in earlier years was inhibited by various difficulties. Next year should do well with no heavy work like the Kingston St Bridge. It would be best for the new council to have a plan and to have a station man in each ward to attend to maintenance. One needed item is a bridge in Thames St to replace the present ford. Middle ward requires no provision for maintenance as apart from the main road and the one to the brewery there are as yet no made roads. There is abundant use for the money however, as in the formation of a road from Paxton Square to Redruth via the Smelting Works and a footpath from the Post Office to Aberdeen and one in Commercial St. Also the cutting down of the bank opposite the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

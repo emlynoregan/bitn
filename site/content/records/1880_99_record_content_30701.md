@@ -53,4 +53,4 @@ The Town Clerk estimated the income for the year at c. £820.
 
 There was a debt of £270, bonds of £200 and interest of £120 plus salaries and office expenses.  The health account had a debt of £80 and the parklands a credit of £50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

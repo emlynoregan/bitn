@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ reports on walking races and Stephane, the French cyclist, who rode over 392 miles in 24 hours on 12 & 13 June.  This effort was since beaten by the English rider, Shorland, who rode 453 miles 1615 yards on 23 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

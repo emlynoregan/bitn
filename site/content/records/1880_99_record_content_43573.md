@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Annual Church Parade on Christmas morning for the Friendly Societies and Burra Co. MI.  There will be a procession from the Institute to the Kooringa Wesleyan Church for a joint service with Revs R.M. Hunter, R.J. Daddow & R.C. Yeoman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

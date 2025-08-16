@@ -34,4 +34,4 @@ Port Wakefield Public Meeting
 A public meeting on 25 April at the Rising Sun Hotel in Port Wakefield resolved that a preliminary survey should be held on such parts of the bends of the River Wakefield and the channel outside the embouchure to the same, as it might be deemed necessary to remove for the improvement of the harbour and that a rough plan be drawn showing the extent of the improvement required, together with the most eligible site for a public wharf.  It was resolved that this plan accompany the petition being prepared for submission to the SA Parliament as discussed at the meeting at Watervale on 25 March.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

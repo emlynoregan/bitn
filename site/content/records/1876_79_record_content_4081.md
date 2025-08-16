@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Vandalism. Mr Robert Thomson offers a reward for conviction of the person who cut a hole in one of his iron tanks so wasting the water. The tank in question was placed for the convenience of travellers 100 miles from Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

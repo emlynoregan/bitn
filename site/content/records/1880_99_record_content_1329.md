@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Police Inaction.  The editor asks why police took no action on Monday when within a few hundred yards of the Kooringa Police Station there was a disgraceful disturbance from a drunken man and some women, with screams and a great battering of doors and windows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

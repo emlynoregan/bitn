@@ -34,4 +34,4 @@ Income from the Roach and Wittber concerts was £36-18-3.
 
 For the year 1887 elections: J. Hosking, President; C.C. Williams, Vice-President; Dr Brummitt, Treasurer; T.W. Wilkinson, Hon. Sec.  [F.W. Holder was naturally on the committee.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

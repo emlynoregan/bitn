@@ -28,4 +28,4 @@ Redruth Magistrate’s Court, 25 March.
 
 Joseph Davey was charged by E. Crewes with the larceny of 18 bags of chaff and the embezzlement of 10/4.  The cases lasted nearly all day, but were ultimately dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

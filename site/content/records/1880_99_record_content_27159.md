@@ -25,4 +25,4 @@ Advt.  The Flower Queen December 26 & 27
 
 Admission 2s & 1s (ON ACCGUNT [sic] OF BAD TIMES)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

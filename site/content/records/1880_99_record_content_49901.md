@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Timothy Ward of Ulooloo writes, complaining that the report of the last election results is unfair when it says ‘Holder polled 1378 votes, Lake 1017, and the National Association secured only 875.’  But, says Ward, Mr Duncan is not the National Association and is not a nominee of the National Defence League and when they favoured Mr Pascoe he refused to stand aside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

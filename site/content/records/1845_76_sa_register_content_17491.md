@@ -29,4 +29,4 @@ Kooringa News, 12 May
 
 A deputation from the striking miners at Moonta and Wallaroo are canvassing Burra for subscriptions to aid them.  I believe a first instalment of £20 has been sent to them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

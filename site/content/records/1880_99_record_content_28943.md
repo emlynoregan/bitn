@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Friedrichswalde.  A school has been opened under the teacher Mr O. Bernhard Riegert who has trained in East Prussia.  The school comes under the Kapunda School Board of Advice.  [Since 1918 Friedrichswalde, 6 km east of Marrabel, has been known as Tarnma.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

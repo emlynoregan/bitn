@@ -40,4 +40,4 @@ Paxton & others for the Royal Mining Co. section 2503 of 53 acres.  £1,010-1-0.
 
 Paxton & others for the Royal mining Co. section 1522 of 72 acres.  £123.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

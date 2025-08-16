@@ -35,4 +35,4 @@ The verdict was death from apoplexy, the fall from the horse combined with the e
 
 [SA Deaths CD records this death as John Gillies Robertson bide 8 September 1855, age not registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

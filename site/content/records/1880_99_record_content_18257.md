@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  John Sampson Jun. will auction John Boundy’s Blacksmith’s Shop with stone buildings etc. on a block with 30’ frontage to the main road and a depth of 276’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

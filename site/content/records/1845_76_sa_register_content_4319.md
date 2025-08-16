@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  North Arm.  Allotments, being a portion of Section G near the proposed railway terminus, are offered for sale.  Apply to T.B. Strangways, at the Exchange, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

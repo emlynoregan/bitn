@@ -30,4 +30,4 @@ Obituary/Accident.  An old miner of Kooringa, Mr John Bowden, was using his hors
 
 [John Bowden died 4 May 1866 Kooringa aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cr Hardy said the auction business could pay 8% dividend. [Implying they could easily afford the £10 annual fee.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Cricket. The first match in Burra for the season (if we may call it a match) was
 
 *The scorecard shows one run-out in each innings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

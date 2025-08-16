@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Floods: Rain on 12th caused flooding in the creek - Two horses and a cart were swept away between Copperhouse and Redruth, though all were eventually saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

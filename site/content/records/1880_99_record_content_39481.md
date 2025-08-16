@@ -47,4 +47,4 @@ R.D. Morton won the £10 first prize in the one-mile bicycle handicap.
 
 In the evening a concert in the Institute saw a full house and proceeds were over £21.  The program was of the ordinary Christy Minstrel type, after which a ball saw dancing till the early hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

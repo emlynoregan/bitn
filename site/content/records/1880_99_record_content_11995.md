@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 ‘A Youthful Burraite’ writes re the urging of ‘Spectator’ that Burra wake up and form some sort of progress association or ‘Vigilance Committee’.  He considers that the most successful of the commercial interests seems to sit back and play no active role in the town’s welfare, which accounts for the general inactivity in the town.  Geographically Burra is well located, but it must be active.  A railway to the Barrier would be a good start and save 30 miles over one from Terowie.  Port Augusta is trying to divert trade that way.  Petersburg and Orroroo are also competitors for Burra’s trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

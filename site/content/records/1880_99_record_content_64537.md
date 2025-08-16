@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Advertiser reports that all is being done to secure the arrest of Thomas Kitchen the defaulting secretary of the Albert District of Rechabites, but so far without success.  He was known to have been in the vicinity of Queensland and recently was seen in Sydney.  A reward of £20 has been offered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  A young child of W.G. Hawkes fell into a tub of very hot bath water on Thursday evening and died from the results on Friday.  Mrs Hawkes was in Adelaide farewelling her husband on his trip to England.  [Eleanor Isabel Hawkes was born 4 October 1896 and died 17 December 1897.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

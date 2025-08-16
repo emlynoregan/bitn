@@ -25,4 +25,4 @@ publication_slug: northern-argus
 Gaolbreakers’ Party at Redruth Gaol on Saturday night was a riotous night of music and fun.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

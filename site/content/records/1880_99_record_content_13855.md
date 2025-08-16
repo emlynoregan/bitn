@@ -44,4 +44,4 @@ Mr Chenoweth and two others waited on the Council seeking work for the unemploye
 
 The mayor said it had done all it could to urge the beginning of the Waterworks, but another request will be sent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

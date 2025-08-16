@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Bible Christian Sunday School anniversary was held last Sunday & Monday with smaller attendance than usual due to bad weather and the very poor state of the paths about the town. There were sports in the afternoon on the hill to the east of the town, which were enlivened by the presence of the Brass Band. These were curtailed somewhat by the weather and followed by cake and tea. The public tea was well patronised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

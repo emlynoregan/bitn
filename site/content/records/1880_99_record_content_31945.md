@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Nurse Thomas, of the Burra hospital, died on Sunday from typhoid contracted in the course of her duties.  [Actually the registration of death reveals she was Sarah Thompson, aged 24, who died on 17 March 1889 from typhoid fever.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

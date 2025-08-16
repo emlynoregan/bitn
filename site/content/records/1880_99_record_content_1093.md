@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Editorial on The address in Reply in the SA Parliament.  Apparently the Address in Reply in the House of Assembly was a farcical affair by John Rounsevell, the Member for Gumeracha, and a small part of his speech is printed.  It is described as ‘a most absurd speech’, but also as a ‘characteristic speech’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

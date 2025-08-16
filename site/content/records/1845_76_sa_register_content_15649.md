@@ -27,4 +27,4 @@ Kapunda News, 15 May
 
 [There is quite a long report about discontent among miners at Kapunda.  They were concerned at not earning enough to live on and wanted changes to the ore sampling methods among other changes.  Much of the correspondent’s article was concerned with the fact that threats had been made to the life of the Mine Manager, Mr Oldham.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

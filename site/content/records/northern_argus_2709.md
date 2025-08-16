@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Birth.  To Kym & Teresa Earle nee Pledger, at Burra Hospital on 22 May, a daughter, Sarah Jane.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

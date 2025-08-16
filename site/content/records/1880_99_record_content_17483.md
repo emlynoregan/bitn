@@ -43,4 +43,4 @@ The Mayor said he had twice interviewed Mr Mestayer [the Hydraulic Engineer] and
 
 He suggested the engineer be asked the power of the engine and its pumping capacity per hour.  They would then cave something definite to take to the Commissioner.  It would be better to keep the engine in stock than to set it up if it was inadequate.  Suggestion accepted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

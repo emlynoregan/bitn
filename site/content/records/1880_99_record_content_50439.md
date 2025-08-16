@@ -33,4 +33,4 @@ Railway Accident.  There was an accident at Finch’s crossing about 1½ miles f
 
 [The suggestion is made that he may not have heard the train as he was wearing a cap with flaps tied down over his ears.  The engine driver claimed to have sounded his whistle.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

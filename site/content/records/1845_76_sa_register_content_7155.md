@@ -32,4 +32,4 @@ Details of the numbers of letters and newspapers posted are given for 1844-50.
 
 Patients in Government Hospitals and in the Lunatic Asylum are cited for 1846-50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

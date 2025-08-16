@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Guy Fawkes.  Young lads have been assiduously canvassing the town with Guy for money to get fireworks for tomorrow night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

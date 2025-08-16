@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Last Friday the last train from Adelaide ran into a pair of railway trolley wheels that had been placed on the track two miles south of Burra.  The wheels were hurled some 38 yds, the cowcatcher was bent and one buffer was smashed on the locomotive.  Police have not traced the culprit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

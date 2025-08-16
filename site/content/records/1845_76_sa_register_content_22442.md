@@ -31,4 +31,4 @@ Missionary services were held at the Wesleyan Chapel in Kooringa on Sunday and M
 
 On Tuesday evening the Wesleyan Mutual Improvement Association held their half-yearly soiree in the schoolroom.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

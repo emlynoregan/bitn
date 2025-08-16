@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mt Bryan Flat. 10 December.  The first Anniversary services of the Bible Christian Chapel were preached on Sunday by the Rev. J. Rock of Kooringa.  On Monday there was a public tea and a meeting chaired by Mr J. Snell of Kooringa.  The Trustee Secretary reported a balance of £4 after the payment of interest and other expenses.  There is a debt of £100.  Proceeds of the services in cash and promises were £50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

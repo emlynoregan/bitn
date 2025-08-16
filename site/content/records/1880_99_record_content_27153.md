@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from [Dr] R. Brummitt about the allegation that the Bon Accord water is unfit to drink.  Compared with rainwater it has a slightly brackish taste, but it is perfectly safe and useful for drinking purposes.  Of course there are some branches of the main pipe from which little water is used and these blind ends must be opened often to allow stagnant water to escape.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

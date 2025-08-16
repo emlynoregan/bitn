@@ -30,4 +30,4 @@ The Burra [County] has nearly doubled its wheat area since the harvest of 1869-7
 
 [60 lb of wheat in 1 bushel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

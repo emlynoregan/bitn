@@ -40,4 +40,4 @@ Obituary. Francken Robson was brought into Burra on Monday night at about 12 oâ€
 
 The deceased was aged 42.  [SA Deaths CD says Frank Robson died 18 July 1876 Kooringa, residence near Kooringa aged 40.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876â€“79](/publications/record-1876-79/)

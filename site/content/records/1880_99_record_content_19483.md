@@ -37,4 +37,4 @@ His clothing & a cell bucket	£10-11-0 or 2 months
 
 (Unable to pay)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

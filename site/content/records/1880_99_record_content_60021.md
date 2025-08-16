@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Chrysanthemums.  On Saturday Mr J. Lewis took a collection of cut chrysanthemums from J.D. Cave’s garden to Lady Victoria Buxton and on Monday the ADC to the Governor sent a complimentary letter to Mr Cave.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Easter passed with only religious amusements.  The most popular was the Kooringa Wesleyan Sunday School Anniversary.  About 300 children from 5 to 15 were arranged in steep galleries either side of the pulpit.  Mr Thomas Moyses of Clare preached twice and Rev. W.S. Worth addressed teachers and scholars in the afternoon.  On Monday there were sports on Limestone Hill with tea and cakes followed by a tea meeting in the evening and then a public meeting.  The collections this year were trifling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

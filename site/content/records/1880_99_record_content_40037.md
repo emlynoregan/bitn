@@ -32,4 +32,4 @@ Mr W.H. Hardy, then Councillor for East Ward, had suggested the change last Nove
 
 If a person is rated at 25/- a year he must pay 12/6 each six months in advance, which entitles him to 2,500 gallons before any excess is charged, but in the time of year when tanks are full he may not require any.  Under the old plan if a man entitled to 5,000 gallons uses only 1,000 in the first half and 4,000 in the second he would be charged for 1,500 gallons excess which we hold to be unfair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

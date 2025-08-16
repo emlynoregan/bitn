@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Ulooloo Gold-field.  The diggings are looking very well and although there were fewer men than before there is more gold being got.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

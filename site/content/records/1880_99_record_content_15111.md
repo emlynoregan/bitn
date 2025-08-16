@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Young Men’s Friendly Assoc.  Sciopticon Entertainment.  Views of English Cathedrals and other places of interest on 13 November at the Society’s rooms in Thames St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

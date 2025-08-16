@@ -27,4 +27,4 @@ The Labourers’ Meeting [Editorial]
 
 The editor acknowledges that through the winter there has been less than sufficient work for the number of labourers available and that the unemployed behaved with great restraint in their meeting, which resolved to present a memorial to the Government calling for action to create work for them as soon as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

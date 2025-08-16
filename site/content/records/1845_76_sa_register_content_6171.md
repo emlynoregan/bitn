@@ -28,4 +28,4 @@ Resident Magistrate’s Court, Thursday
 
 Informations were laid by George Bull Esq. JP against Captain Finniss and G.S. Kingston Esq. with reference to their conduct at the public meeting on Tuesday evening.  We are informed that summonses have been issued for their appearance at the Court on 17 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

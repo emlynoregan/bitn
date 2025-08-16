@@ -27,4 +27,4 @@ The Northern Agricultural Areas: from a special reporter.
 
 There is a lengthy description of the new farming area at Belalie and its township of Jamestown extending for a little more than two columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

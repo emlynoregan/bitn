@@ -29,4 +29,4 @@ Obituary.  John Reredon* at Burra Hospital, 26 November, of gangrene of the righ
 
 [* Called Readon in VII, 497, 1 December 1885, page 2, on continuation of the inquest, though Reardon is the spelling in the registration of death.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ George Parks was charged on the information of J. Snell, Chairman of Trustees of
 
 He was committed for trial at the next Criminal Sittings.  Bail was allowed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

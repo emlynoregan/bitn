@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Ulooloo.  It is reported that 40-50 men are at work looking for gold at Ulooloo where alluvial deposits have been found.  Two quartz reef claims have also been pegged, but it is too early to speak of success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

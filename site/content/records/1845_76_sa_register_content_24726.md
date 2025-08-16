@@ -62,4 +62,4 @@ Mr W.H. Rosman
 
 The roads beyond the limits of the proposed District Council are in consequence of the fences nearly impassable in places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

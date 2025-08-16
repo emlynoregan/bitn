@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  The engineer reports the machinery is now working well and continually since his last report, except for the one and a half days taken in effecting repairs.  It is now working smoothly at ¾ speed as any faster would fork the well in about an hour.  The town can be adequately supplied by pumping 16 hours a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

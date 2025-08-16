@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Smith-Kennedy Comedy Co. last Friday at the Institute performed to a very poor house due, no doubt, to the very poor weather.  They staged Pygmalion & Galatea.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

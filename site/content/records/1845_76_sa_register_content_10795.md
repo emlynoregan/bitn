@@ -52,4 +52,4 @@ Karkulto Mine
 
 The engine house is nearly completed and applications have already been received to work pitches here on tribute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

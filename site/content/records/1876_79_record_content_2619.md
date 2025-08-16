@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Obituary/Inquest at Burra Hospital on Thomas Bendall who died of blood poisoning when an arm became gangrenous after being badly burned when he fell into a fire as a result of a fit.  [Died 5 August 1877 Kooringa, residence Yongala aged 28.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Cathy Jones, who has been the Girl Guide leader for some time, has taken a job in Adelaide next year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

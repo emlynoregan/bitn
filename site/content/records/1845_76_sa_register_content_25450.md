@@ -33,4 +33,4 @@ On Thursday your issue reports Mr Rowland Rees MP as saying that Burra people di
 
 Also re those who say the lands east of Burra should not be opened to agriculture because they will not support cropping.  They would not say so had they seen the samples of grain from these lands last season.  There are numbers of farmers anxious to see the areas thrown open for selection and Mr Rees would do well to agitate this question in the House.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

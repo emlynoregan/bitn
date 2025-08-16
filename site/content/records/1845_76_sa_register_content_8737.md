@@ -28,4 +28,4 @@ Advertisement.  Medical.  An opportunity is presented to any Medical Gentleman d
 
 Apply to F.H. Faulding, Rundle Street for further particulars.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

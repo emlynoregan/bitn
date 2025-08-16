@@ -37,4 +37,4 @@ The ground, as a place of resort and amusement is a disgrace.  In one place ther
 
 Next season, I hope.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

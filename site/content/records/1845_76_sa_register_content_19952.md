@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 [Jane Ann Beckwith born 14 October 1863, Redruth.  There is no registration of death.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

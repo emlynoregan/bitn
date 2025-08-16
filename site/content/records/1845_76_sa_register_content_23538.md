@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Northern Roads are in a villainous state.  The mail conveyance between Saddleworth and Clare sometimes takes two hours to travel eight miles.  A friend who came down from Burra yesterday informed us that on part of the road he travelled he was five hours in making as many miles with a horse and spring cart, the horse plunging in stiff mud above his knees all the way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

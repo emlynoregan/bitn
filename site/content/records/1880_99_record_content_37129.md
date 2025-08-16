@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt. A shop, cellar, and house of four rooms with balcony at back, coach-house and stable with two allotments of land, well fenced, situated near the Burra Railway Station and opposite the Bon Accord Hotel, New Aberdeen.  For further particulars apply James Tiver, Railway Stores, Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

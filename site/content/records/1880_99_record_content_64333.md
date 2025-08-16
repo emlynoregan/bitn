@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Bench commented that the children looked alright now and did not seem to have been starved and dismissed the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

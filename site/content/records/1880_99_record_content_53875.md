@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  John Hunter has taken over the business of Martin Pederson and will retain his services while restocking the store with a grand assortment of boots.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

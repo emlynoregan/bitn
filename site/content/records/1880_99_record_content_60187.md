@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Margaret A. Dow, daughter of the late John Dow, died on 24 June at her mother’s residence in Redruth aged 34.  Though indisposed for some time no fatal results were apprehended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

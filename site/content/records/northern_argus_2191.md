@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Colin & Dani Fidock & James & Penny Hawker dressed in their Jubilee Year costumes for a celebratory lunch at Government House on Sunday to mark the end of the State Jubilee celebrations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

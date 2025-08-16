@@ -29,4 +29,4 @@ The rate of cartage between the Burra Copper Works and Port Wakefield has been i
 
 The company will also be interested in making arrangements with parties desirous of hiring teams to work in their service on the above mentioned road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

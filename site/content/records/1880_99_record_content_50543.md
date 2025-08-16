@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr Henry Taylor will lecture on Friday night, 4 August (at the Institute?) at 8 p.m. in his Land Reform Campaign.  Title: Why are we Poor?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

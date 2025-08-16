@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR.  An encampment is planned for the Easter week at Gladstone with the MR from Burra, and infantry from Gladstone, Pt Pirie, Laura and Crystal Brook.  We call for subscriptions to aid the effort which is being funded entirely by the men and any donations received.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

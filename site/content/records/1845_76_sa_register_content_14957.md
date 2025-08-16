@@ -30,4 +30,4 @@ The late lambing season has been very productive with rates as high as 95%.  The
 
 The new National Bank building is proceeding rapidly.  It promises to be one of the finest buildings in Kooringa.  The additions and alterations to the Telegraph Station following its amalgamation with the Post Office are almost completed and will soon be ready for occupation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

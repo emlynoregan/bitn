@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Mr Challoner stated that the present was not the proudest moment of his life.  He felt sure that when they were all dead the mine would again be worked and be more prosperous then than ever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

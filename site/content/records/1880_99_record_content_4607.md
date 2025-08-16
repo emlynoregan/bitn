@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Social Club.  Frederick Richmond writes re the club which meets at Mrs Roe’s School on Thursday evenings.  [This appears to have been associated with the General Temperance Society.]  It encourages singing and hobbies like butterfly collecting, stamp collecting, woodcarving, emu egg carving, cards, dominoes, draughts, and perhaps one day a billiard table.  The president is Dr Sangster.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Editorial on Technical Education.
 
 [This article discussed the virtues of technical education in promoting the prosperity of the nation as well as increasing the wealth and status of the working class.  This includes technical education beyond secondary school levels.   It quotes from a speech given by Mr Rowland Rees MP for the Burra District, who spoke on the adoption of technical education in England after the Great Exhibition and of developments in other parts of Europe.  This education was such as would ‘raise [the working class] in social position and in mental status; and if they make good use of the greater leisure time they enjoy under the eight hours system, neither their employers nor the public will have any reason to regret the shortening of the hours of labour.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

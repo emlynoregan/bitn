@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Iron Mine Band of Hope public dinner and sports will be held on Wednesday 22 February with a public tea in the chapel.  MOONLIGHT
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

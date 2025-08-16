@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church.  Last Sunday Rev. E.J. Piper preached his farewell sermon in Kooringa.  Having conducted services here for several months he is about to leave for Quorn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ Advt.  Someone lost a ‘Mat Ration Sugar’ that has been found.
 
 [A mat of sugar was a bag made of matting, used to hold sugar.  Mats were also used to hold other materials like coffee.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

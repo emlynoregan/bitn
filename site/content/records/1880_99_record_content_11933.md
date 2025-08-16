@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 J. Snell has in his window a clock needing to be wound only once in 13 months.  The pendulum rotates round one way and then the other.  We understand there are only three such in SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

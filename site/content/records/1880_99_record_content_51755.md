@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Picnic was held in a paddock near Sod Hut on 9 November.  The morning was very cold.  The day was well done, but the public tea was poorly patronised on account of the poor weather and the measles outbreak in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

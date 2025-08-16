@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Primitive Methodist Social on Dec. 31 attracted about 80 people. J.R. Gray presided and there was the presentation of a testimonial to Mr John Prior, a local lay preacher of long standing. (The poor man received Fox's Book of Martyrs, The History of the Primitive Methodist Connexion, and a large Primitive Methodist Hymn Book - all elegantly bound) The social ended at 10 p.m. but some stayed on for a watch-night service which began at 11 p.m. to pray the old year out and the new one in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

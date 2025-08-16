@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Travelling Stock Roads.  The Government has decided to cut up the TSRs near Burra and a meeting has been called at the Institute on 16 March to protest this decision.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

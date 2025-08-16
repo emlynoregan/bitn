@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Primitive Methodist Dinner, Monday 7 August, in the Kooringa Schoolroom at 4.30 p.m.  1/6.  Followed by a sacred concert in the Institute at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

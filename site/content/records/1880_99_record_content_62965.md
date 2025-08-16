@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Guy Fawkes Day last Friday was enthusiastically celebrated.  Many carted guys around seeking money for fireworks in the time leading up to it.  All old rags, bones etc. were collected for the fires.  We cannot remember a previous year when the young entered into it with such zest and for two or three hours the town was abuzz.  No serious accidents were reported, though there was some throwing of crackers at shop doors leaving smouldering remains that had potential to do damage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

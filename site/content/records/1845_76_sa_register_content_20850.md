@@ -67,4 +67,4 @@ We had a ride of 18 miles to Tetulpa where the meeting of squatters that I had b
 
 At 5 a.m. on Wednesday I took the mail coach to head back to Adelaide.  The bush roads in this dry country are generally excellent, though the speed required by the mail service means the coach provides painful thumps and bumps which the traveller will feel for days.  I arrived back in the city by 3 p.m. Thursday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

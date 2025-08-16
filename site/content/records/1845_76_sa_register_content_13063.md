@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Obituary.  William Templer’s funeral will leave Grotegut’s Hotel, North Road, for the Gawler Cemetery this day at 3 p.m.  [William Templer died 8 February 1860 at Templers aged 50.  He was the publican at Templers.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

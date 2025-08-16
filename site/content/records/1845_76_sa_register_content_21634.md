@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Redruth Primitive Methodist Sunday-school celebrated its Anniversary last Sunday and Monday.  Rev. Jarrett preached to good congregations.  Collections were almost as much as last year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  The new incumbent, Rev. A.G. King from Strahan in Tasmania is expected this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

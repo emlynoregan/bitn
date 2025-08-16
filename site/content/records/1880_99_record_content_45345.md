@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 A Bolt.  A man named Waddington, heading for Barker’s Dam, left the Kooringa Hotel on Sunday, but the horses refused to turn into Quarry St and instead headed down Bridge St East and at the end crossed the footpath, jumped a fence and made off.  The buggy and Waddington were left behind.  He was taken to the Burra Hospital insensible, but is progressing favourably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

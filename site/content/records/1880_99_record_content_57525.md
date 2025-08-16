@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Primitive Methodist Young Peoples Christian Endeavour Society also gave the Thomas family a farewell social on Monday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

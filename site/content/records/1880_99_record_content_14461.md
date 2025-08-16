@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 S.E. Holder BA, holder of the SA Scholarship has just passed his intermediate examination for MB degree at London University 18 months after matriculation - usually allowed only after two years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

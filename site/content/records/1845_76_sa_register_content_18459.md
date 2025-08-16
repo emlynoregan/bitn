@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Wesleyan Sunday School held its Anniversary on the same day.  After meeting at the Chapel grounds they marched with flying banners to Limestone Hill for fruit and games and in the afternoon tea and cakes at the schoolroom.  A public meeting was held in the evening.  Despite serious losses of pupils and teachers to Wallaroo, the state of the school was satisfactory.  Rev. W. North the new minister spoke, hoping parents would sometimes visit the school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

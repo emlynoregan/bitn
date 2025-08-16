@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. The memorial stone of St Mary's Church will be laid by the Bishop of Adelaide on 3 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 A correspondent to the paper urges Chinkford [Chingford-Manoora] as a proper terminus for the railway.  He sees it as an excellent central place from which the areas of Black Springs, Apoinga, Emu Flats, Auburn, and Mintaro could be served.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

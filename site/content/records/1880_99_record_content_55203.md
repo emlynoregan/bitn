@@ -62,4 +62,4 @@ Bouquet for table grown outdoors	1	Bouquet of native flowers	1
 
 Bridal bouquet	2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

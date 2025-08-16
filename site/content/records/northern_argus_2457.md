@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Darren James of the Junior Burra Cricket Club team took four wickets in four successive deliveries in the team’s recent grand final.  He took two wickets in two balls and then in the next over four wickets in consecutive balls.  Booborowie went from 0 for 49 to 6 for 52 in three overs.  Burra went on to win their second premiership in a row.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

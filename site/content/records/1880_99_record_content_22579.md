@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 [Note that through this period there was a drive to get vacant lots at Redruth and Aberdeen fenced, though none of the discussion reported in 1886 says why.  If owners who did not comply the Council did the work and charged them for it.  Kerbing was gradually being extended along with footpath formation.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A letter to the editor objects to kangaroo parties leaving Burra at midnight on Saturday and returning midnight on Sunday.  They should show greater respect for the Sabbath.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

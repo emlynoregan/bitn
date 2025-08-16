@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Hospital Foyer has been modernised and the Ladies’ auxiliary has recently spent $3,500 on new curtains for some sections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

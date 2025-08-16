@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Railway Fares.  The Govt. is to abolish 3rd class on railways and reduce fares.  1st class passengers will pay the present 2nd class rate and 2nd class the current 3rd class.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

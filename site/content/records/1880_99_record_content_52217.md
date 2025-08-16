@@ -31,4 +31,4 @@ Biographical Sketch of Philip Lander Killicoat.
 
 He was born at Perranwell in Cornwall on 28 August 1844 and landed in SA in 1854.  He is a most generous and kind-hearted resident, often helping those in need.  He has long been interested in many local meetings etc.  Principally a sheep farmer at Abberton Park. Elected Mayor of Burra 1887-88, being unopposed both times, but owing to the pressure of business resigned the 1888 Mayoralty.  [Note: this was not the reason given in Council at the time, though it may have been his explanation.]  In the Broken Hill strike he forwarded a consignment of fat lambs to the poor of Broken Hill.  He has been a member of the Hospital board for c. 8 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

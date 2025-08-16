@@ -33,4 +33,4 @@ Farrell’s Flat.  The harvest is coming in.  Messrs Box & Hudson of Kooringa ha
 
 Inconvenience is occasioned by the naming of the railway station Farrell’s Flat and the town Hanson.  Surely one name would have been sufficient.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

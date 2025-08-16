@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Leighton School.  Miss James had some time ago been reprimanded for harsh treatment of a pupil at Leighton School.  The same game has since been continued albeit in a milder form and Mr Stanton, the Chairman of the Board of Inspectors was finally called in and Miss James is now ‘removed to another sphere of life’.  Miss McNeil is now in charge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

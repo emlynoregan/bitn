@@ -22,4 +22,4 @@ publication_slug: northern-argus
 
 [Again it is falsely reported as the 109th:   See explanation CXVI, 8068, 27 August 1986, page ?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

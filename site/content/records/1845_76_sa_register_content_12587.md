@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  Tenders are called for the erection of a 50 inch cylinder condensing engine and for setting two Cornish boilers at the Bon Accord Mine, tender to include the removal of the said engine and boilers from the Burra Burra Mine, where the engine is now lying in pieces ready for carriage.  Further particulars are available from the Captain at the Mine or from the office of the Bon Accord Mining Co. in Grenfell Street, Adelaide.  6 September 1859.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

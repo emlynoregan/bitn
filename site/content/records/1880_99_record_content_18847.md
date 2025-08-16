@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 C.T. Newman, President of the Wesleyan Conference visited Burra on Wednesday last to meet the young people of the Burra and Hanson Circuits.  Over 400 people gathered at the tea and the President opened the Christian Reading room in Kooringa.  It is open to all Christian denominations and is at the side of the Lecture Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

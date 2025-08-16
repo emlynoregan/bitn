@@ -57,4 +57,4 @@ Changes to the North and North-East
 
 Several loads of wool have arrived at Kooringa from Mt Gipps, Panramatty, Paratoo, etc.  Carriers complain of the shortage of feed and the dryness of the season in the Northeast, but near Burra the season is good and the bad roads are the only drawback.  But a damp season and bad roads is preferable to a dry season and good roads.  A few years ago it was very difficult to get the wool clip to Port Adelaide in anything like proper time.  Now with the railway reaching Burra and with a steam dumping press at the Redruth Station, the whole clip, even from the Barrier Ranges is got down in time to ship for the February sales in London.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

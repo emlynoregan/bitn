@@ -87,4 +87,4 @@ As for the cottages – the point here was not whether the contract was improper
 
 [There was further summing up on details of the cottages and on whether Burr had kept copies of his letters and had failed to keep a diary.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

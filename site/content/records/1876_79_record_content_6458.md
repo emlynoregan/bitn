@@ -27,4 +27,4 @@ Editorial on Constitutional Reforms which contains the following somewhat surpri
 
 The writer also appears to favour an appointed Upper House over an elected one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

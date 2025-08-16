@@ -48,4 +48,4 @@ The Town Clerk could show that though the whole debt to the Recreation Ground on
 
 Strict economy was then practised.  There were suggestions to amalgamate jobs, but it was decided it was impractical to combine the Town Clerk’s job and the Inspector’s jobs.  Nevertheless duties and salaries were arranged so that nearly all the rates could be spent on Public Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

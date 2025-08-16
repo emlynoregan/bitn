@@ -52,4 +52,4 @@ Messrs Shakes & Lewis are to build new offices in Burra.
 
 Rabbits.  Nackara farmers have petitioned the Government for seed wheat as rabbits have eaten all their crops.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

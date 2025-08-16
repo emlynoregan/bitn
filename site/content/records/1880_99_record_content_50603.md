@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. did not meet last Friday to allow members to attend Mr Grasby’s lecture and this week the meeting will be on Wednesday to allow attendance at Mr Taylor’s lecture on Friday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

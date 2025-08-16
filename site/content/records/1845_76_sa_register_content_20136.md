@@ -57,4 +57,4 @@ An entertainment on 21 January at the Institute raised more than £4 to benefit 
 
 Many complaints are made regarding the inconvenience of Cobb & Co.’s coaches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

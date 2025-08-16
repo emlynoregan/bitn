@@ -47,4 +47,4 @@ Captain Sanders thought that if the policy had a fault, it was in not being bold
 
 W.R. Ridgway also endorsed the policy and the proposal was carried without dissent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

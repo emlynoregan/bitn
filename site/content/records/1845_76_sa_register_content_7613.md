@@ -37,4 +37,4 @@ Thompson & Kekwick sought £15 for goods sold and delivered to McCumber.  The ca
 
 Captain Richard Goldsworthy sough £15 for 10 head of cattle given into the care of Mr Neale to be grazed on his run.  He had several times sought their return and now three were missing.  Neale admitted receiving the cattle, but without responsibility.  Their Worships decided that as there was no agreement to the contrary, the defendant was responsible for the cattle and gave a verdict for the plaintiff for £10 and costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

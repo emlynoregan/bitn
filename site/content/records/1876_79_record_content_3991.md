@@ -36,4 +36,4 @@ publication_slug: record-1876-79
 
 Burra Musical Union was formed at a meeting on Tuesday which attracted 35. Dr Nesbitt took the chair. The rules of the Adelaide Philharmonic Society were adopted. President, J.D. Cave; Vice President, Dr Nesbitt; Treasurer, B. Phillips; Librarian, H. Killicoat; Conductor, J. Cater; Sec. T.T. Shortridge; Committee, T. Drew, J. Rumball, J. Pearce, J. Burrows and Lees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

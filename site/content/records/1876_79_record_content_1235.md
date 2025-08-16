@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The immigration debate [SA was at the time sponsoring immigration with the Govt. initially supporting migrants when they arrived.] Defence of the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

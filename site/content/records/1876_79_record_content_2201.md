@@ -29,4 +29,4 @@ Cf. previous season 13,109 acres yielded 140,861 bushels at an av. 10 bushels 45
 
 Difference due to drought. Areas getting over 5 bushels should make a profit, though not a great one. Prices were up & a 7 bushel crop was as profitable as an 8.5 bushel one the previous season. The drought had hit pastoralists worse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

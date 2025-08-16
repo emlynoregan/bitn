@@ -35,4 +35,4 @@ Charles Blight was fined £3-10-0 for allowing young bulls to trespass among his
 
 John Cundy paid £4 in fine and costs (or 4 month in gaol) for smashing furniture in the bar at the White Hart Hotel, resisting police and committing a nuisance in the police cell.  That he was drunk was regarded as no excuse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

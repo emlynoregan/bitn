@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Industrial School for the Blind will be aided by a fair to be held next April in Adelaide.  A meeting will soon be called to establish a local committee to contribute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

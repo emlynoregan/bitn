@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Hall Grand Concert on Friday evening was very successful.  Mr J. Roach defrayed the expenses of the city visitors and organised the concert, but was unable to be present himself.  Magic lantern views took up the second part.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

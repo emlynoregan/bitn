@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Christian Endeavour Society of the Bible Christian Church held a social with over 100 guests in the schoolroom last Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

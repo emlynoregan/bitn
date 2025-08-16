@@ -49,4 +49,4 @@ Obituary.  Mr John Pearce died in his residence in Chapel St last Friday [28 May
 
 [An addition to the above in XV, 273, 9 June 1897, page 3, a report said that a sister of John Pearce was still alive in Melbourne and though 100 was of sound memory and intellect and able to get about.  Only about 12 months ago she bought a house in addition to the one she has lived in for a number of years.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Circus [Fitzgerald’s] charged 4/- and 2/6, but this did not prevent the place from being packed to overflowing.  The performance met expectations: the artists were good and the horsemanship was as good as any seen before.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

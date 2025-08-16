@@ -80,4 +80,4 @@ Mr Holder moved a vote of thanks to candidates and to the Mayor for presiding.
 
 ‘He was not altogether sorry that ratepayers had had such an opportunity of seeing the kind of wrangling that had taken place at nearly every meeting of the Council during the past year.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

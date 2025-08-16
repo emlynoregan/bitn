@@ -32,4 +32,4 @@ Tree planting by schools (Arbor Day): also not favoured.
 
 Technical Education: also opposed because in the first place this is an additional responsibility for which the teacher did not contract when taking on the task of teaching and secondly this represents too much money ‘expended in a superfluity of useless fruitless branches’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

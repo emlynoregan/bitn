@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The meeting was to consider the obstruction placed in the creek near the ballast quarries.  The agreement with the railways was they would make everything safe and kept in proper order.  The Railway Commissioners will be instructed to remove the obstruction by their servants immediately and to the satisfaction of the Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

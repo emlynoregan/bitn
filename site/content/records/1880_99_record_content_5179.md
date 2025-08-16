@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 14 October, Mr Burnett will speak on ‘The Great Open-Air Preacher’ - outside Drew & Co. at 7 p.m. and at 7.3- p.m. in the Wesleyan Church: ‘A Solemn Question for Eternity’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

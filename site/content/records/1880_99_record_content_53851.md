@@ -67,4 +67,4 @@ It was not signed by Fie which is what the defence counsel worked upon, but Mr S
 
 The court appears to have been very patient when hearing the case with all its language difficulties, but the newspaper report is quite racist, making fun of the language difficulties, Chinese names and also ridiculing the swearing process.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

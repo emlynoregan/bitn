@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Influenza has broken out in Burra, but not as severely as in Broken Hill where about 100 miners are absent from work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

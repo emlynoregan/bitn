@@ -39,4 +39,4 @@ Sections 64, 69, 70, 73, 75, 77, 79, 84, 86, 88, 89, 90, 91 & 140 in the Hundred
 
 Henry Ayers, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

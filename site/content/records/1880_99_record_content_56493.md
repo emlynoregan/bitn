@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Gumbowie Reservoir.  ‘Several of the hardworking toilers at the Gumbowie reservoir works were rough on ‘Billy’ Hardy last week.  We understand that he has now decided to forsake the working class, but it will be alright when the wind changes.  However it would be a good job for that portion of the community if all tyrants were bagged up.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

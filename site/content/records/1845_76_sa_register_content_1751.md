@@ -31,4 +31,4 @@ Tenders are called for the purchase of 500 tons of copper ore from the Burra Bur
 
 Henry Ayers, Secretary.  23 September 1847.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

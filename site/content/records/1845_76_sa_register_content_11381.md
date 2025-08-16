@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Rape.  Four men were charge by Anne Perry with committing rape upon her.  Two men who were charged with aiding and abetting in the outrage were discharged, and admitted as evidence against the other four.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

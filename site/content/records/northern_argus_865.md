@@ -22,4 +22,4 @@ publication_slug: northern-argus
 
 Senior school students will be off campus this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

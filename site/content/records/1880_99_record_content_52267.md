@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church.  The Service of Song Little Dot was performed on Sunday afternoon with Rev. R.C. Yeoman giving the connective readings.  Unfavourable weather made attendance moderate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

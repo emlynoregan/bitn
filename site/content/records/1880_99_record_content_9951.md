@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Parsonage Bazaar had fewer visitors on days two and three on account of rain, but takings exceeded £400 with about £200 worth of goods left over.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Dempsey, Wilkinson & Sandland will offer the Bone Crushing Plant of Mr A. Bartholomæus for sale on 14 May.  It comprises a 4 horsepower near new vertical engine, a Hales Bone Crusher of 3 horsepower, Disintegrator, Steam Vat to hold 1 ton of raw bone, 1 Saw Bench with 2 foot circular saw, plus shafts, pulleys, wheels, bearings, belts 2”, 3”, 4”, & 6”.  All timber and iron on the building and a host of sundries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

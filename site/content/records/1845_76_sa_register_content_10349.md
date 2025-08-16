@@ -38,4 +38,4 @@ In the last six months 5,600 tons or ore have been raised.  There was also 4,440
 
 758 persons are now directly employed at the Burra Mines, of whom 385 are miners, 200 are ore dressers, 113 are labourers, 47 are mechanics and engine drivers and 13 are officers.  These figures exclude those employed at the new Karkulto Mine.  The Directors lament the fall of £18-10-0 per ton in the price of copper on the English market.  This will affect not only the ore on hand in SA, but also that held by London agents an at sea.  This sudden decline has led the Directors to say that in all probability they will not be able to pay a dividend on 1 December.  This said, it is well to recall that the price of copper at £107-10-0 per ton was exceedingly high and a decline should not come as a surprise.  The increasing productiveness of the mine partially offsets this loss.    Despite the fall in copper prices the undistributed profits are £62,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

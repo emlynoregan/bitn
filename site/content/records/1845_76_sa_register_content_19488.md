@@ -27,4 +27,4 @@ Mineral Discovery
 
 Another rich mineral discovery has been made about seven miles north of Kooringa in the hundred of Kingston.  On Thursday we were shown examples of grey and yellow ores of a rich quality.  An assay of the ores realised 27⅝% copper and 22 oz 10 dwt 19 gr of silver to the ton.  A mining authority who has visited the site is very sanguine of its prospects.  A prospectus for the promoters appears in our advertising columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

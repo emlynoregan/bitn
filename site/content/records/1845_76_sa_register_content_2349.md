@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Another of W.W.G. Nicholls’ advertisements confirms that the Reformer continues to take people to the Burra Burra Mines for £1 and to Bagot’s Mines for 10/-.  He also has two drays, which will travel 25 miles a day to any part of the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

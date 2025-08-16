@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Adelaide Exhibition.  The School Board and the Town Council will investigate the possibility of a special train to Adelaide for the school children.  (Ordinary trains will take special groups of not less than 25 for 50-100 miles for 1/6 each with 1 teacher or a guardian for 3/-.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

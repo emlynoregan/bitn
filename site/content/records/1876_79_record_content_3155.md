@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Water Supply. Report of the public meeting held at Orchard's Hotel 21 -Nov. concerning the water supply at Redruth and Aberdeen. A. Bartholomaeus in the chair. B. Butterworth moved `That a supply of water is absolutely necessary' Not only needed for normal horses and cattle, but many teams associated with the harvest will be demanding water. Aberdeen had only two wells (+ Mr Butterworth's which could serve only the mill) Warning that Kooringa will soon also be in difficulties. Carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

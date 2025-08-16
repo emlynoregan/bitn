@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Weather.  Unusually, over an inch of rain has fallen since last Thursday, but no damage to the wheat harvest is expected unless a strong hot wind follows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ He says the election of Councillors and auditors last Monday must be invalid.  N
 
 [Nemo then goes on to elaborate on the complications caused by the declaration of the Burra Town Council and the consequent changes (yet to be gazetted) to the District Council of Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

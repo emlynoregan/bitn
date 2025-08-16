@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  We saw the plans for the new schoolroom on Thursday.  It will measure 45’ x 25’ with three windows and a porch 8’ x 6’ with a belfry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

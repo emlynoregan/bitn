@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Darren James has been doing well at cricket recently.  Just over a week ago he scored 107 retired versus Booborowie and last weekend scored 109 retired versus Spalding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Two cases were brought against John Gallienne, an elderly man; one of stealing a shirt, the property of John Hawke and one of stealing a pair of trousers, the property of Stephen Brown.  Jane Hodge identified the shirt as one she had made and Mrs Jane Brown identified her husband’s trousers.  Corporal Duins had found the items at Gallienne’s hut.  The accused was committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ The scavenger also received the same terms as before.
 
 There was discussion on the action of the Town Clerk re the reduced assessments, but after some heated exchanges the matter was allowed to drop pending a new mayoral appointment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

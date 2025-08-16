@@ -30,4 +30,4 @@ Editorial against the water rates announced by the Government.
 
 Mr Holder noted that the Burra Town Council has only been credited with 56 chains of main road, when the actual length is 5 miles 41 chains.  The error has been communicated to the Premier so the forthcoming distribution may be made right.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

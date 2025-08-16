@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 On Tuesday evening Rev. R.C. Flockart delivered his lecture on ‘Luther and the Reformation’ to a large and attentive audience.  A collection was made on behalf of the chapel at Copperhouse or Westbury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The season.  Farmers are looking for rain, but so far the crops are healthy.  Locusts are beginning to appear in the northeast.  Shearing is general and reports are of a good clip.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 ‘WW’ writes suggesting that candles should be distributed to poor families so that they could illuminate their dwellings for the Royal Visit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

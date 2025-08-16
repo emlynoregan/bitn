@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 Cricket. Burra v. Farrell’s Flat at Farrell’s Flat, last Tuesday. 
 Burra 81 defeated Farrell’s Flat 21 & 43 by an innings and 17 runs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

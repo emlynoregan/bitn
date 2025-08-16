@@ -38,4 +38,4 @@ Obituary.  On Thursday the remains of a man called Tongue were brought to the ho
 
 [Edward Francis Tongue died 20 December 1860 Canowie, residence North Redbanks aged 32.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

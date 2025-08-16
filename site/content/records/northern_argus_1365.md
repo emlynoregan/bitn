@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Community Library held a trading table and raised $484 – quite close to the target of $500.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

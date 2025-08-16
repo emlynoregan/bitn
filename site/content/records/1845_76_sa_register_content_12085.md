@@ -44,4 +44,4 @@ Mr Billing and his menageries leave here for Mintaro, Clare and other numerous p
 
 A number of recent migrants have arrived to replace those lured to the Indigo diggings.  From the tenor of letters received here from the diggings not many more seem likely to be attracted there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

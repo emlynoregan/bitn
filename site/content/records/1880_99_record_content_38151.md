@@ -34,4 +34,4 @@ A 5/- fine with 10/- costs was imposed on each of the following for straying hor
 
 E. Frederick attracted a similar cost for a stray cow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Despite warnings from the Snowy River diggings that winter there is severe, several miners have left for there recently and many more are preparing to follow in spring.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

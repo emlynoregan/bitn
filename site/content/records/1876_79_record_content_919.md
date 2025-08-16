@@ -44,4 +44,4 @@ Morphett’s Engine Shaft has been sunk a further 8 ft 9 inches in the last mont
 
 [There is further detail of clearing out old workings to allow access and ventilation for the purpose of proving new ground or letting tribute pitches.]  Surface work is being pushed on with dispatch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

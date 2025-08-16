@@ -59,4 +59,4 @@ Mr Cochrane proposed a petition seeking an immediate grant of £2,000 for the ro
 
 After the formal business of the meeting as advertised was completed Mr J.B. Bull proposed there be a petition to make Mt Bryan a polling place and this was also carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

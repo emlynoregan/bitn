@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Thirsty’ write re the sad looking battery in connection with the well in Market Square.  The work should proceed at once or be abandoned.  It is hardly creditable that Kooringa should not have a single public watering trough when the other end of town has two.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

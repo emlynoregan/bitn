@@ -33,4 +33,4 @@ Burra Town Council. 22 July. Cr Roberts moved the calling of a public meeting to
 The Mayor again brought up the removal of Constable Wilson and felt that the Council had been ignored despite its paying a proportion of the police salaries. A letter is to be sent to Mr Rees MP calling for it to be inquired into in Parliament. 
 It was resolved to get Mr Rees to come and look at the approaches to the new bridge which were still causing concern.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

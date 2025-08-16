@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 An accident occurred at the Mine recently.  A slip of earth buried one of the men, but he was quickly rescued and, though severely bruised, is now doing well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Ashton’s Circus performed to good houses on Monday & Tuesday. This was one of the best circuses to have visited Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

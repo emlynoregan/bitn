@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  Colin Campbell Watt, youngest son of Mr & Mrs J.A. Watt has died aged 1 year 9 months.  [Born 25 December 1891, died 11 August 1893.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

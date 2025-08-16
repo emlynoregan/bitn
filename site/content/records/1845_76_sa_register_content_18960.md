@@ -32,4 +32,4 @@ While the above inquest was being held a message came for the doctors that a fal
 
 Business here is dull, but shearers are beginning to pass through on their way north and northeast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

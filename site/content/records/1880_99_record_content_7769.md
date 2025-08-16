@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Burra Band.  On Saturday evening the band performed for the first time outside their practice room.  Mr A. Wheatley has been seconded in his training efforts by Mr Joseph Davey.  Their first public performance in Market Square is scheduled for Saturday next, weather permitting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

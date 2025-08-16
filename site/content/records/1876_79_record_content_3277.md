@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Advt. Dr Cave, having commenced practice in Childers St, North Adelaide, has appointed F.R. White to receive all moneys owed to him. [This contradicts the Jamestown practice information of page 307]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra and Young Australians Cricket Clubs present a Grand Vocal and Instrumental Entertainment at the Institute, 13 May.  2/- & 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

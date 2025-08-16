@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Advt.  Redruth Wesleyan Sunday School Anniversary, Sunday 6 November. Tea meeting 9 November.  Sunday afternoon service of song: The Little Pilgrim.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

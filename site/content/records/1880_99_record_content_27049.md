@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 ‘Wanderer’ [Hardy] writes on several topics and among them the anti-Chinese movement.  He says some want to blame the Chinese for all the country’s woes, but reminds them that the Chinese work for what they get whereas the SA Land Company does nothing and yet draws over £60,000 annually from the colony.  He believes the present land ownership system has a far greater pernicious effect than all the Chinamen, Jews and Germans in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

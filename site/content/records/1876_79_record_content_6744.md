@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Letter to the Editor from `A Victim' complains that poor people are being fined 151- for stray goats in the street (if we may call them such), but a man in receipt of a salary of some £500 p.a. not only allows his goats to stray, but tethers them in our streets and no notice is taken!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

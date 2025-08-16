@@ -68,4 +68,4 @@ Mr Mortlock moved that Mr Henry Mildred was a fit and proper person to represent
 
 Mr Taylor gave a rambling speech in seconding the motion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The telegraph office is not central; rather the reverse, being on the outskirts of the township.  It is the last house at the end of town opposite from where the mail cart enters.  It is also perched on a hill so high and inaccessible as to prevent the near approach of the mail cart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -57,4 +57,4 @@ The Mayor said that that was no reply to their report and a memorial will be pre
 
 The Government said that the constable would be sent back, but no deduction would be allowed on account of his absence - he had been absent for four of the six months charged for.  A memorial will be prepared for this matter too.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

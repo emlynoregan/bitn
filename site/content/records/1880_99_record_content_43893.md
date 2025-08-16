@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  The lamp on Henderson’s Bridge has again been broken for the third time in less than three months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

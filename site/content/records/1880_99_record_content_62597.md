@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Annual Effort Fund Entertainment at the Redruth Wesleyan Schoolroom on Wednesday was well attended.  It comprised songs, musical selections, choruses, recitations, readings and tableaux.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

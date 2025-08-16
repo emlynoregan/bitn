@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 SA Government has received advice against building a fort at Glenelg.  The guns ordered can be sold or placed in one of the present forts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Editorial on another fiasco at a Council meeting where Cr George Parks moved tha
 
 ‘If the so called errors were pointed out to us in a proper manner and we found that we were wrong we would have been pleased to make all necessary corrections, but to move a motion in the Council similar to the one which seen [sic] light on Monday evening and expect us to keep dumb on the matter is beyond the endurance of human nature.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

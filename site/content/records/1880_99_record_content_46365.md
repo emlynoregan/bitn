@@ -41,4 +41,4 @@ Thomas then said ‘I immediately caught him and threw him and put the handcuff 
 
 Thomas also said there had been a struggle at the cells and the defendant threatened to kill him.  Halls was fined £1 or 14 days on the threatening language charge and £3 or 1 month for assaulting L-C Thomas.  He said he would pay the fine, but asked for one week to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

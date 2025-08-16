@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The Election.  The returning officer for Burra & Clare J.W. Macdonald read the writ at the Burra Hotel.  Mr Edward McEllister was nominated by Thomas Bath and seconded by Mr Eugene Cronin and there being no other candidate, Mr McEllister was declared elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

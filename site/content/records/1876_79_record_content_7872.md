@@ -31,4 +31,4 @@ Obituary.  Mr Brown of Mananarie [Mannanarie] was thrown from his cart on his wa
 
 [Thomas Brown died 21 December 1879 Beniah Creek near Yongala aged 53.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

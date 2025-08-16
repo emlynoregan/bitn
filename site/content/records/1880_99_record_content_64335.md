@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Dominick Pizzo (‘Dom’) a fishmonger, was fined 15/- for carrying unstamped weights in his fish cart.  (Called ‘the foreigner’ in the report.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

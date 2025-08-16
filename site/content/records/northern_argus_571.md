@@ -50,4 +50,4 @@ publication_slug: northern-argus
 
 Burra’s Jubilee 150 Float was shown in Burra on Christmas Eve and on the morning of 31 December it went to Adelaide to participate in the Jubilee Procession.  Walking in front of the float were Colin & Dani Fidock and Nick & Audrey Van Buuren.  On the float itself were a number of children: Kirsty Warnes, Felicity Lines, Kylie Reed, Andre Cuttle, Paul Jacka & Todd Ryan.  Following the float were Joan & John Reed, Sue Langford, Peter, Louisa & Alecia Fidock, Barry Wright, Harry & Vi Chipping, Janelle Davidson, Maria & Karen Reed and Chris Reed, while Gary Hirschausen drove the semi on which the float was mounted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

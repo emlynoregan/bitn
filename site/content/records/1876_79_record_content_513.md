@@ -32,4 +32,4 @@ publication_slug: record-1876-79
 
 I have been a resident of Kooringa for 11 years and for over 10 years was Government Medical Officer and Mine Surgeon.  I can safely assert the sanitary condition of the district is far better than it ever was and is far in advance of many others.  There are no causes which would have a tendency to produce epidemic diseases.  Formerly there were ashpits, cesspools, pigsties, closets, etc. in close proximity to dwellings, but these have to a great extent been removed.  Thanks are due to the District Council and the SAMA cottages have never been so well attended to and more particularly Paxton Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

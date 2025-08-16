@@ -32,4 +32,4 @@ World’s End Church.  The opening services of the new building were interfered 
 
 At the meeting Rev. H.T. Burgess undertook to get £6 if the congregation raised the balance there and then.  Subscriptions came in till the amount was raised and the church was free of debt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Mineral Land Leases – A Meeting at the Bremer
 A large meeting was held at The Bremer on 12 November.  It is reported in some detail and passed resolutions similar to those already noted.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

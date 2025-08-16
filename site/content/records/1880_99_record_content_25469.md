@@ -52,4 +52,4 @@ Trees can be had from the Forest Board.  The money to be raised by Public Subscr
 
 This was published in the form of a memorandum so the Council could be aware of it before the Council meeting next Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

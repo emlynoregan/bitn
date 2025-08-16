@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 New Year’s Day saw picnics and sports.  The usual Kooringa Wesleyan Sunday School picnic departed for Mr Fradd’s ground at Sod Hut soon after 9 a.m.  At Sod Hut sports were soon under way for the children and a cricket match between Ladies and Gentlemen was comfortably won by the Ladies.  One Reverend gentleman managed to bowl wides 20’ from the wicket!  Mr T. Halls did a good trade between Sod Hut and Kooringa with drags and busses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

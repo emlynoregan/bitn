@@ -29,4 +29,4 @@ Wesleyan Endeavour Society Christmas Trees
 
 At the Wesleyan Lecture Hall last Wednesday two trees were covered with gifts for sale.  There were also other stalls.  Dr Brummitt had a galvanic battery which was well-patronised.  Refreshments, drawings and paintings by W. Bentley & pupils, pot plants etc. were also on sale.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

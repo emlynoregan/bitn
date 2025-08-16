@@ -34,4 +34,4 @@ Stewards: J. Humphreys & R.P. James.  Judge, Dr W.P. Hill.  Starter, P. Langmead
 
 There will be four races on the first day and two on the second.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

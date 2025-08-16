@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Primitive Methodist Church Anniversary, 15 & 16 Sept., preacher Rev. T. Jarret.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

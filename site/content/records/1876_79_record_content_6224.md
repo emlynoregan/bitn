@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Sara & Dunstan have almost completed their work on the Redruth Courthouse and police station and have made a great improvement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

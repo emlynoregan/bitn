@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy supporting Rev. Haslam’s call for churches to become more politically involved.  ‘If the church would give its mind more to the teaching of law making and less to incomprehensible sermons mankind would be far better benefited.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

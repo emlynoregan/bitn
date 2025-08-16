@@ -25,4 +25,4 @@ publication_slug: sa-register
 Obituary.  Last week in Kooringa Mrs Collins was at her usual household work when seized with an apoplectic fit and died within half an hour.  [Elizabeth Collins died 19 May 1858 at Kooringa aged 47.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

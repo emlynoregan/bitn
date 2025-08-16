@@ -36,4 +36,4 @@ There is about 2,000 tons of ore at grass and the Directors, who with the Secret
 
 Governor’s Visit to Burra Burra.  While visiting Burra Burra His Excellency donned underground clothes and was shown around the diggings.  [Sir Henry E.F. Young.]  The Governor expressed much astonishment and gratification at what he saw.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

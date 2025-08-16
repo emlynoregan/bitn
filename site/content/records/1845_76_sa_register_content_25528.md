@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Burra Institute.  Mr Rees moved in Parliament that provision be made to grant £750 for the enlarging of the Miners’ and Mechanics’ Institute at Kooringa.  The motion was amended with the condition that £250 be raised by private subscription and that the date of the grant be changed from 1874 to 1874-75.  It was then carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

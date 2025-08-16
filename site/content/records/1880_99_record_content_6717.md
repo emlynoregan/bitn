@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  Recently in the Barrier Ranges, William Terry, an old Burraite, died from sunstroke, leaving no provision for his wife and 8 children.  Messrs Crozier & Elliot have sent £5 in aid, to Bath & Pearce and Mr W. Pearce Jun. has added £1-1-0.  We are happy to receive and acknowledge further sums.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

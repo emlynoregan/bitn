@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Bazaar on Wednesday in aid of the new Bible Christian manse was opened by the Mayor, John Dunstan jnr and £130 is in hand already.  The old manse has been in service for 30 years.  The bazaar raised over £50 and the remaining goods worth about £30 will be offered at the forthcoming anniversary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

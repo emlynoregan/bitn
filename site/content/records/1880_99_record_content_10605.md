@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr W.F. Coglin JP has received a Government appointment necessitating his removal from Burra after many years.  He is a member of the Hospital Board and the Burra Institute Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

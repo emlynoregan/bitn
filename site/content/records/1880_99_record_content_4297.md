@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Marriage.  7 June, Augustus William Forder, eldest son of A.H. Forder of Redruth and Eliza Jane Skinner, youngest daughter of D. Skinner of Tynte St North Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

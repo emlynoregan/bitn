@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Much of this year’s wheat has had to be cut for hay due to the presence of wild oats and red rust, but [with the Burra Mine quiet] there is no market for hay and much of last year’s harvest remains unsold.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

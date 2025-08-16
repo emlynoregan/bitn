@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 The Lewis Board of Management reports an occupancy rate of 83% for Paxton Square cottages for September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -31,4 +31,4 @@ There was a depression of trade and a large amount of poverty.
 
 Some said class dissatisfaction was the cause, but it was a symptom or effect not the cause.  The problems have been due to many causes, but speculation in land was one – too many were trying to live on the toiler – to get rich without contributing.  What is needed is a more just distribution of wealth, an absence of demoralizing competition and shorter hours of toil.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

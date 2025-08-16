@@ -30,4 +30,4 @@ Halley’s Comet.  Pastor Harry Scott will speak at Burra Civic Centre on Sunday
 [He apparently used the image of a gradually decaying comet as part of a gradually decaying physical universe to draw a parallel: ‘this is occurring not only in the physical sense but morally as well’.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

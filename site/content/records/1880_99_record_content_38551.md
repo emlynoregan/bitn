@@ -25,4 +25,4 @@ Editorial on Taxation, considering the single tax concept and property tax.
 
 The more we thought about the single land tax the less we liked it.  Not all the wealthy have land, so a tax on all property is a better option.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

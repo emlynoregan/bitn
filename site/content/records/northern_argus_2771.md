@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Elders Pastoral has relocated to 28/30 Commercial Street in Burra.  The new premises will provide modern office facilities, a bigger merchandise range and easier access.  The new premises are leased from Ray Jennison.  The offices have been refitted and services include a client lounge, on line computer with quick access to clients’ balances etc., video text with information on the share market, weather, and stock and finance reports.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

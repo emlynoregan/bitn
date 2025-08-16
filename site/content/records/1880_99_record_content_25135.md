@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Broken Hill Railway.  The rails are now laid across the border and the plate laying to Silverton should take only about 6 weeks once the rails arrive.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

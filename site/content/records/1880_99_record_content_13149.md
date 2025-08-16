@@ -33,4 +33,4 @@ Mr McGovern fell from a cart at Port Pirie and injured his spine. He was brought
 
 Mr Davis crushed his foot when a wagon passed over it at Hallett on Tuesday.  Four toes were amputated at the Burra Hospital and he is making a recovery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

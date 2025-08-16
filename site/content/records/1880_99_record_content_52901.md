@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Railways apparently sent a new horse from Adelaide to replace steady old ‘Brit’ who had done the job for some months of shunting trucks around the quarry under his young master.  The new animal, ‘Joey’, looked impressive until he got to the end of the rope and had to take the weight of the truck: he then stopped.  It seems likely ‘Brit’ will soon be back plodding on in his reliable style.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

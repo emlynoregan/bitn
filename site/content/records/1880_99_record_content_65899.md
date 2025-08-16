@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Hallett & Ulooloo Goldmining Syndicate held a meeting at Hallett on 27 February to hear a report on five tons of ore sent to Petersburg for cyanide treatment.  The report encourages further development.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Burra Town Council, 24 September.
 
 A special meeting approved the renewal of the Waterworks lease for three years and resolved to ask the Government for a reduction in the capital account.  It was also resolved to ask for the purchase of a Cornish boiler for use in an emergency, the present works not being in good repair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Burra Town Council.
 
 Cr Parks, Chairman of the Public Works Committee, moved that on account of the 43 contracts let for road metal and other work it is desirable to proceed with the appointment of an overseer.  Cr Harris 2nd.  There was a long discussion and the motion was finally lost on the casting vote of the Mayor who gave a lucid account of his reasons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

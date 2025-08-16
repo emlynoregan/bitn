@@ -26,4 +26,4 @@ Page 4
 
 There is a little news: generally in the first two columns.  The remainder of the space is for advertisements among which patent medicines feature strongly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

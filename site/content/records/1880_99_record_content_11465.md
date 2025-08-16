@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter of a whole column by W.H. Hardy on Christmas.  He likes neither those who write gushingly and sentimentally of it, nor those who sneer at it and he points out the practical and economic benefits which many derive from its celebration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

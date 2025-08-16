@@ -34,4 +34,4 @@ Tender from C.G. Tiver to light the lamp in North Ward for £1-18-9 a quarter.
 
 Tender from W. Geake jun. to light the two lamps in Kooringa for £13 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

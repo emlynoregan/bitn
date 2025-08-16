@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Bullocky Jim Kelly of Naracoorte visited Burra last Wednesday to meet representatives of the Coppertown Festival Committee and others.  He came especially to inspect facilities available for the October Copper Road re-enactment, when a bullock dray laden with copper ore will leave for Port Wakefield.  Provision has to be made for camp sites, firewood, fodder, water, etc.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

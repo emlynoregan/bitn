@@ -28,4 +28,4 @@ The latest census returns give the population of the colony on 1 April as 117,96
 
 For the County of Burra there were 2,964 males and 2,528 females for a total of 5,492.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

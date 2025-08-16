@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 West: partly bearded, ordinary stature, signs of military training.  A love of being listened to rather than listening - a result of long school teaching?  A representative of glory departed.  Said to have been an able, firm and kind teacher with judgement.  Would occupy the chair with dignity, ability and commonsense.  Ruling with a rod of copper.  A [Free]mason and an Oddfellow of high degree.  Spent his youth in London.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 W. Smith, popular manager and brother to Mr John Smith, late of the Burra Hotel, was given a farewell at an assembly at T. Walsh’s Court House Hotel on 12 May.  T.T. Shortridge was in the chair.  Mr Smith had been in Burra for two years and made many friends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

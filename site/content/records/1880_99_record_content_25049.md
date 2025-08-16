@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Band of Hope held a children’s social on Thursday.  Over 100 attended and the games, fruit and lollies were enjoyed by all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

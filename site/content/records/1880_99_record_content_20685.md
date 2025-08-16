@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 New Grants-in-Aid Bill reduces subsidies to 15/- in the £ this year and 10/- in the £ from next year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

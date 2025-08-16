@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Rayner laid on the table a plan for a mortuary Chapel at the cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

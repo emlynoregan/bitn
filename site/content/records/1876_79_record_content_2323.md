@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Editorial on the Eastern Road - the editor felt that the partisan feeling on the subject was not so much about the road as about; `the general partisan feeling which prevails in the town' and which is used as `a kind of "stock piece" to fill up a gap when there is nothing else to fight about.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Robbery Under Arms was the best thing staged at Burra for a number of years.  The hall was crowded, the scenery was excellent and the performances more than met expectations with laughter one minute and tears the next.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

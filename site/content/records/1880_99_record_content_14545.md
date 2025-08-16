@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The editor explains the complaint turns upon what constitutes ‘distinct varieties’.  Mr Oppermann included several pansies and ranunculi, though no two flowers were alike. The decision of the judges has been upheld.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

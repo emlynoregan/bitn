@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Burra Railway will be formally opened today as announced in Saturday’s issue.  The train of invited guests will depart at 7 a.m., but the ordinary one will be allowed to precede it.  Provision has been made for 500, but it is feared that this accommodation will hardly be sufficient.  Not only will a large number assemble at the Adelaide Terminus, but accessions are expected along the route.  The lavish hospitality of Kooringa folks will certainly be put to the test.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

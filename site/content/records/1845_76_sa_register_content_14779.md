@@ -40,4 +40,4 @@ I understand log carting for the Mine is about to resume.
 
 Mr Townsend of Kooringa has a gigantic pig.  It was bred by Mr Townsend and is aged about 2½ years.  It is estimated to weigh 700 lb.  Another pig, lately departed this life, was fourteen months old and weighed, in carcase, 414 lb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

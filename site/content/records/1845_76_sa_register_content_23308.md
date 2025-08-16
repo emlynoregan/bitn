@@ -30,4 +30,4 @@ Easter Holidays passed quietly in Burra.  Shops closed on Good Friday and Easter
 
 An Entertainment.  Mr Stanton and musical amateurs presented a pleasing entertainment at the Burra Hotel on Tuesday evening.  [The program is printed.]  A collection was made to buy firewood for the poor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

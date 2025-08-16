@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  As we went to press last night a fire was burning in the brewery paddock belonging to Messrs Catchlove & Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

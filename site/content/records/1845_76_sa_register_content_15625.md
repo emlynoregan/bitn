@@ -36,4 +36,4 @@ Rev. J.G. Paton preached on Sunday at the United Presbyterian Church on behalf o
 
 Election placards are now everywhere and canvassing is going on so that tomorrow’s election is likely to be brisk and exciting.  Yesterday evening a meeting of Mr Stocks’s supporters was called at the Burra Hotel, but it turned out to be a burlesque rather than a reality.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

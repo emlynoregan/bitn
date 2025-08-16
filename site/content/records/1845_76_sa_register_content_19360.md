@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The Smelting Works has resumed operations with four furnaces alight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

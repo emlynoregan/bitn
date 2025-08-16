@@ -80,4 +80,4 @@ By the David Malcolm came news of the sale of copper ore at Swansea:
 
 Swansea smelters speak in highest terms of the Burra Burra ores as the most tractable and productive ore they had operated on and were desirous of receiving large supplies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

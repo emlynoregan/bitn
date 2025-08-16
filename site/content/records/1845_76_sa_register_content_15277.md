@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 At the Burra Hotel the dramatic entertainment was provided by the well-known polyphonist [i.e. a ventriloquist] H.J. Hall.  He was quite well patronised on this and subsequent evenings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

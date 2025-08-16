@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra School visited by the Inspector of schools last Thursday.  About 470 scholars were present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

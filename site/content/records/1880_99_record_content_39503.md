@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The news came in a section almost unbroken by advertising.  There were regular reports on sport, both local and worldwide.  There were correspondents’ reports from other towns in SA and local news often in brief paragraphs under ‘Current Topics’.  Letters to the editor were fairly common, but court reports were neither complete nor common.  Hardy’s leading articles must have been out-of-step with the views of most readers and those who could cope with his rather purple prose must often have disagreed with his conclusions, but probably few bothered to read them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ Stanch; also Staunch
 
 Of strong or firm construction, in good or firm condition, substantial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

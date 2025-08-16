@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  Wanted for the Burra Burra Mines; a shoeing smith. Apply Thomas May, Hindley Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

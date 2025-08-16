@@ -42,4 +42,4 @@ His suggestion is to divide the area into 10 or 20 portions and dispose of half 
 
 He then elaborates on how this proposal would work.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

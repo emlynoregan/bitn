@@ -45,4 +45,4 @@ There were no entries from boys for ploughing or digging.  Nevertheless, attenda
 
 Mr Bull of the Aberdeen Hotel erected a spacious booth for refreshments and he also arranged a pigeon [shooting] match, climbing a greasy pole and other amusements.  Schraeder’s Band was engaged, though many thought the addition of a loud kettle-drum drowned the music.  W.H. Challoner was President and H. Dawson Chairman of the committee.  Others on the committee were T. Bath, W. Builder, J. Drew, W.H. Williams & A. Motley.  Judges were J.D. Cave, W. Hudson & R. Stevens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

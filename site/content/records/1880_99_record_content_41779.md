@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. met on Friday and discussed the contributions to the Literary Star, a manuscript paper of the Society which is read at the last evening of each quarter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

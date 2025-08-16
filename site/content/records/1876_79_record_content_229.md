@@ -32,4 +32,4 @@ Burra Hospital.  We have had left at our office drawings showing the proposed al
 
 [This refers to proposed additions to Bleak House, the old Mine Hospital.  This work did not eventuate: see later references to the Burra Hospital.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

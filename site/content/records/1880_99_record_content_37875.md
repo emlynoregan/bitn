@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  A meeting is called for 9 September at the Commercial Hotel to discuss the proposal for a United Friendly Societies’ Demonstration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

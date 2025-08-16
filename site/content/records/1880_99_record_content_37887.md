@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  On Wednesday evening the celebrated orator Mr Coad spoke on ‘Cornishmen and their Characteristics’.  The audience was kept simmering with laughter for three hours.  On Thursday evening he lectured on Temperance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

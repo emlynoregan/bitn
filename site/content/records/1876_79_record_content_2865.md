@@ -29,4 +29,4 @@ Burra Burra Mines. [This announcement on page 3 of the paper has no headline and
 
 This will reduce money in the town by c. £30,000 annually. Wages at present are about £2,000 monthly and firewood over £500 a month. 300 men and boys will be thrown out of work. We hope some relief will come from railway construction and work on the Eastern Road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

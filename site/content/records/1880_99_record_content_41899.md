@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Dagenhardt, a visitor from Palmer, died at Baldina on Thursday, aged 65.  [Registered as Louisa Degenhardt died 16 July aged 45.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

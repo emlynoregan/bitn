@@ -29,4 +29,4 @@ Editorial on the Reduction on the Carriage of Stock.
 
 Recently a deputation waited on the Government to seek lower rates for the carriage of stock, especially since SA rates were the highest of the colonies and stock prices were so low.  The Government have now announced substantial reductions and producers moving stock from 50 to 400 miles will be advantaged.  Burra Market can expect to benefit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

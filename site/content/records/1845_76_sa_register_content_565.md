@@ -26,4 +26,4 @@ Notice.  The First Annual Meeting of Scrip-holders of the South Australian Minin
 
 Tenders are called for 5,000 ore bags for the Burra Burra Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

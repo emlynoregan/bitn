@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Aberdeen Ballast Quarry.  A large number of men are employed in the quarry on Mr Ford’s paddock.  ‘an engine is often seen with half a dozen trucks crossing the creek to the station yard, which, by-the-way makes her ‘snort’ to climb the incline which is very steep.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

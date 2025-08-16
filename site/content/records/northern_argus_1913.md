@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 The National Trust’s trip to Princess Royal on Sunday was made in perfect weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

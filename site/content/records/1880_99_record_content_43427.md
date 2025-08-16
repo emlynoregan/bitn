@@ -32,4 +32,4 @@ Burra Co. MI accepted Mr W.P. Barker’s invitation to visit his Baldina propert
 
 The meal was taken in three sittings of 40 a time and after the manoeuvres the tables were laid for a tea of cakes, tarts etc.  They reached Burra on the return at c. 7.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

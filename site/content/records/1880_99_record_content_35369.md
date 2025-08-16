@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Political Meeting.  A meeting of the supporters of F.W. Holder is called for Tuesday evening next in the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

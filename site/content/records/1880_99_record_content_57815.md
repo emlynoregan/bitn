@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Football.  Saturday the test between the north and south end of town ended in a draw.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

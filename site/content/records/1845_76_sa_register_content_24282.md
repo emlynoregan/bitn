@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  A 12 oz nugget was found on Friday, a two ounce one on Saturday and a three-quarter once specimen recently.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

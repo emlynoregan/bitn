@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  For Sale: Allotment 62 Township of Redruth comprising 1 rood.  160’ frontage to St Dye St.  4-roomed stone house and large cellar, known as Nolan’s Wine Stores.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

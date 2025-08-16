@@ -34,4 +34,4 @@ Messrs Cressy & Ayers have been entertaining people here with their magnificent 
 
 News suggest that mining prospects in the North do not look very promising and a great many bullocks are dying from pleuro-pneumonia, so that cartage is becoming difficult.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

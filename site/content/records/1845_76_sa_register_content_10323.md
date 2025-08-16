@@ -30,4 +30,4 @@ Opening of the Bridge at Kapunda
 
 On Tuesday 23 September the bridge was opened to the public.  The contractor was Messrs Baker.  The first loads over it were two bullock drays loaded with cake copper, weighing upwards of four tons each.  The German Brass band arrived shortly afterwards in one of Mr Burton’s carriages.  [Further details are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

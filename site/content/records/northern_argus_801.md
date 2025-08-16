@@ -57,4 +57,4 @@ Leonard Bence
 
 The Square on Anzac Day about 50 years ago.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

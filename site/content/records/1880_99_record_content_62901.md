@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Salvation Army Meeting on Friday evening was disturbed by two drunken visitors and although the police were sent for, it has been decided not to prosecute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

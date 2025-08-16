@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [This presumably suggests that Mr H. Cowan left town without paying his advertising bill with the newspaper.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

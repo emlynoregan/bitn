@@ -39,4 +39,4 @@ A previous correspondent says dissatisfaction with Cr Ridgway arose mainly from 
 
 I hold the censure vote justified as Crs Tiver and Ridgway have tried to mislead ratepayers like a pair of cardsharps.  The mayor contributes to this by making a continuous misrepresentation in pretending North Ward gets double the work for half the costs.  The Mayor’s report is also misleading in other respects and we have thrown £40 away paying the Town Clerk, as Overseer of Works when Cr Symons points out there has been no Clerk of Works this year.  The Mayor and West Ward Councillors also deserve a vote of censure, they have neglected areas and have had work done to improve the value of their own property and sold a street to one of themselves that was valued by a previous Council at over double the price paid for it.  Also the placing of fences in a creek and across streets and wastefully forming streets and footpaths where not required and one represented SAMA rather than his ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

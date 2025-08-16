@@ -48,4 +48,4 @@ Mr Neville Blyth and Mr Thomas Neill were confirmed as auditors in place of Mr A
 
 The arrangements with the English & Australian Copper Co. expire next May and no new engagement has yet been entered into.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

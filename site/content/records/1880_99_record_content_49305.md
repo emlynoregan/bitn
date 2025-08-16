@@ -61,4 +61,4 @@ A)	Feb. 3 1892.  When reporting a vote of censure on Cr Hardy in the Council the
 
 B) July 13 1892.  [Hardy had suggested in writing for the Catholic paper that Mr Holder was writing the leading articles for the Record.]  Davey had written that Hardy had offered to do the job for 10/- per week, but ‘we had such contempt for him and all his effusions that we did not entertain his offer in any shape or form . . . Even at this absurd price we considered his service not worth the amount.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

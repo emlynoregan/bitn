@@ -39,4 +39,4 @@ The Bon Accord Company is working its property.  They are employing about 20 men
 
 The Edouin family are expected this week and will perform in the large room at the Burra Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

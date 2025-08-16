@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Silverton.  We believe that three syndicates have now been formed in Burra to prospect and purchase claims in the Silverton District - we wish them success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

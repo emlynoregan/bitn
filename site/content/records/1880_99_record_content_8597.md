@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Rev Father Kreissl [also Kriessl within the same paragraph] was presented with a handsome spider buggy with hood and harness, by the congregation of St Joseph’s on Saturday.  Mr James Terry of Paratoo had presented the harness.  Pearse Bros of Terowie won first prize at the last Burra Show with this buggy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the Murray River and water rights for the various colonies.  The writer attacks Sir Henry Parks for asserting NSW’s control of the river.  The Constitution Act of NSW places the whole of the river in that colony, but as one authority argues ‘whatsoever parchments may proclaim or pretend to grant must vanish before the realities of nature and common sense’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

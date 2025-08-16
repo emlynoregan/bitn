@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Correspondents’ reports from other parts of the colony including Adelaide and even some overseas news at times or material from other parts of Australia.  The town Council and the Midland Road Board are reported in considerable detail.  Often page three has very little if any local news.  Advertisements on page 3 are few.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

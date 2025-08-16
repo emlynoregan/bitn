@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sunday Trading.  One of the [unnamed] hotels at the north end of town is evading the Sunday trading ban by bringing in shearers and others on Saturday and giving lodging till Monday when they return to work, thus complying with the strict letter of the law.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ Rex & Peter Stockman of ‘Springvale’ had the reserve grand champion ewe.
 
 At the ram sales Collinsville Stud broke the world record for both a horn and poll ram with $215,000 and $110,000 respectively.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

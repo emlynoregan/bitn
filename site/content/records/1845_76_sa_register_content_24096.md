@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Obituary.  The news of Rev. Ibbetson’s death was received in Burra with deep sorrow.  He was loved and respected here due to his earnest piety and Christian zeal combined with liberal views towards other denominations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

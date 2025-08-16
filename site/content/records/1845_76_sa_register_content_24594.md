@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 John Baker.  Baker and Baylis, who were committed from Wilcannia to Bourke, one for assault and the other for horse stealing and sticking up the Mount Gipps Station under arms, have received sentences of three years’ imprisonment each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

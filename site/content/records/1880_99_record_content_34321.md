@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr James Roach of Terowie died at his residence near the town on 14 Nov. aged 63.  He was a former Captain of the Burra Mine and leaves a grown-up family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Chapel held its anniversary on Sunday and Wednesday and about 40 travelled out from Burra to the tea meeting.  The whole of the chapel debt was paid off thanks to all the kind friends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -50,4 +50,4 @@ He had no view on the construction of an outer harbour for Adelaide.
 
 He approved of Chinese immigration for the northern Territory only and did not think that migration from the UK should be free under the prevailing economic conditions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

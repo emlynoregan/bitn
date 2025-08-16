@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Editorial on the Eastern Railway. The editor is an advocate for developmental lines which would raise the value of the Crown Lands to be offered for sale. He suggests a railway from Burra in the direction of the new eastern road from Redruth and so over the land to the north and east towards the Darling, or from Eudunda north-east just outside the Hs. of Bright and Baldina.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

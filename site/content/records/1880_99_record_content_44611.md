@@ -30,4 +30,4 @@ Editorial.  Unemployment in Burra.
 
 The need for workingmen’s blocks has been increased by the end of work at the Ballast Quarry – though the Government wants 10,000 yards more, no one will take the contract at the price offered.  The last contract was barely enough.  Work on the Bon Accord Bridge will begin soon and the District Council will need road metal, but all put together it doesn’t amount to a long duration of labour.  Workingmen’s blocks would help and a sub-committee of the Mayor with Crs Rabbich & Linkson prepared a memorial presented to Council on Monday night and approved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

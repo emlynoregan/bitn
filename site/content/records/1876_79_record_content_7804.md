@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. On the 20 December John D. Cave will sell the household effects of John Foy who is leaving the neighbourhood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

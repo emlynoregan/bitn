@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 SPECIAL EDITION APPEARED 13 SEPTEMBER 1890.  [Missing from hard copy & microfilm.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

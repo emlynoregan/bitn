@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc.  A debate on ‘The Progressive Land Tax’.  W.T. Rabbich led the view that the tax was not suitable to the best interests of the country and C. Fuss defended the Government policy.  After five other speakers [which seems a strange number to use] the verdict was against the policy by one vote.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

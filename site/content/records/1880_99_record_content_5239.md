@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 James Griffin was committed for trial charged with committing indecent assault on Matilda Gerard, aged 12, the daughter of John Gerard, farmer of Mongolata.  The offence occurred on 15 October at Weston’s Creek near Mongolata P.O.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ The Gazelle offered passages to Sydney for £10 cabin and £5 steerage and to Me
 The Selma was sailing to Geelong and Melbourne for £5 cabin, £3 Intermediate and £2-10-0 steerage.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

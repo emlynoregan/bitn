@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 South Burra Burra Mine announced a float of SOQ £l shares to develop the property - representing 25% interest. Apply to John Fradd at the Sod Hut Hotel or John Glanville Matta, Kadina. Deposit 1/- per share then 5/- per share per month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

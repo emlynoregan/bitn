@@ -32,4 +32,4 @@ Advt.  Dempsey, Wilkinson & Sandland will sell for Mr F. Simpson, who is removin
 
 Also a fruit garden of 36 trees & 26 vines, fenced and subdivided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

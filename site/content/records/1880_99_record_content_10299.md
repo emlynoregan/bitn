@@ -32,4 +32,4 @@ Let R.W.M. turn his advice to the poorly paid clerk who scarce earns enough to s
 
 [The writer also regrets that others have not responded to R.W.M.’s stuff.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

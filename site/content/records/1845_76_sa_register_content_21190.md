@@ -28,4 +28,4 @@ The Royal Visit
 
 On Saturday 21 September a large part of Gawler’s population turned out to construct a huge bonfire on Flagstaff Hill to be lit on the arrival of the Prince.  It is estimated that some 60 tons of wood were heaped together and saturated with kerosene and tar in preparation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

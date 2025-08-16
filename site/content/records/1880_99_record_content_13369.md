@@ -38,4 +38,4 @@ Linkson	fined 10/-	for a stray goat
 
 Develaing	fined £2 + 5/- court fees	for supplying Alfred Schutz with beer: Schutz being a person whom it was illegal to supply with beer or allow on licensed premises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

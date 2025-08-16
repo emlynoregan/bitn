@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Sale on 26 June, of the town of North West Bend, on the east bank of the Murray, opposite Morgan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Kelvin Harman, production manager of She’ll be Riot, will be working in Burra for two or three weeks organising the building of the stage settings for the show (13 in all), co-ordinating the technical staff and overseeing lighting and sound.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

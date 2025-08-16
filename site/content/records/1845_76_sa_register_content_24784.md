@@ -26,4 +26,4 @@ Local Government for Kooringa
 
 The memorial calling for a District Council at Burra is now in course of being signed.  No doubt the requisite number of signatures will be speedily obtained, perhaps by the close of this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Advt.  John Sampson Jun. will sell for W. Parker of Graham Town the property known as Parker’s Blacksmith’s, wheelwright and paint shop with stock-in-trade, tools and household furniture.  [Other references suggest this was probably just south of Opie’s Hotel]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra Junior Citizen of the Year is Ian Kleinig, nominated by the Leader of Burra Venturer’s Unit, David Jennings.  He is a steward of the church and has many achievements in scouting, academic pursuits and sports – especially in track and field and swimming, though also active in football, volleyball and tennis.  He has completed his Queen’s Scout award, the highest award in scouting.  He and a fellow Venturer saved the local Cubbing section from collapse by volunteering as leaders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

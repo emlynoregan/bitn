@@ -28,4 +28,4 @@ Wesleyan Schoolroom. The new schoolroom was opened last Sunday by Rev. T Lloyd, 
 
 The total cost of the new room, which is actually two classrooms was c. £800, of which £335 has been raised and a bazaar in hand is expected to bring in about £200.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

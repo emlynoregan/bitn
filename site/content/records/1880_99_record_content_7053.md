@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from G. Dawson, Hon. Sec. Of Burra Cricket Club in response to ‘Argus’ pointing out that though the club is in debt in fact two people turned up at the meeting and ‘Argus’ himself owes more to the club than any other member - ‘people who live in glass houses etc.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

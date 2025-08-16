@@ -44,4 +44,4 @@ The working party immediately consulted two architects who believe that the proj
 
 When you employ an architect recommended by the Heritage Branch itself you expect the job is being done properly and it is quite unfair for Burra to be punished for that man’s mistake.  Objections to the proposed site by the Heritage Conservation Unit should be investigated thoroughly.  To be totally purist about the ruins there is to let them decay until they finally collapse and that is not acceptable to me or to many others in Burra.  Enthusiastic support has been given by the Department of Mines and Energy.  Burra is not accustomed to making a botch of heritage based projects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

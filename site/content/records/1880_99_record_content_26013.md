@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Jubilee Avenue.   The Mayor has decided to extend Jubilee Avenue to Aberdeen, which would increase the cost to about £135 all told.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

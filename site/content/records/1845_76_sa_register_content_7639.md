@@ -34,4 +34,4 @@ Mr Waterhouse has given notice of a motion with respect to the issuing of licenc
 
 We should hope the Government would not wait on a vote before issuing licences.  It is notorious that many are seeking gold without authorization.  It is no wonder that they conceal their discoveries.  This cannot be to the good of the colony.  Adventurers returning from Ballarat and Mount Alexander comment on the similarities between the hills there and those here.  No work here has yet gone beneath the surface and yet in NSW & Victoria it has often been found in pits and wells sunk beside creeks and reaching considerably below the upper strata.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

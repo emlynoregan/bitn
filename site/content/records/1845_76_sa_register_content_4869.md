@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Obituary.  Mr Frederick Lester aged 37 died on Saturday 10 August at the Burra Burra Mines. He was the son of the late James Lester, solicitor of Ashford, Kent.  He met his death while accompanying his dray.  He was one of the oldest colonists and his death was deeply lamented by all who knew him.  He is survived by a wife and four young children.  [Name, date and aged details are confirmed by SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

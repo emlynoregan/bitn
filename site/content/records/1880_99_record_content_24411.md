@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy claiming that SA has three times the number of police it needs - after all in Burra they can be seen ‘doing the block’ in plain clothes or one in particular is often seen in a public bar.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

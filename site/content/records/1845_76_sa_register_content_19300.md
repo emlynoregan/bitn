@@ -59,4 +59,4 @@ Mr James Smith said he supported the proposal, but was astonished that the compa
 
 The Secretary pointed out that while large provision had been made for continuing operations, the shareholders had always been in favour of frequent dividends.  The fall in copper prices had also hindered operations.  £37,000 could easily have been borrowed, but there was the need to bring the Association under the Limited Liability Act.  The five retiring directors: Messrs J. Beck, T.G. Waterhouse, T. Graves, the Hon. A. Blyth and the Hon. G.S. Kingston, were all re-elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

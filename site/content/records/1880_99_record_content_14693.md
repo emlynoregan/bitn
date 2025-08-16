@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on Land Tax Proposals - arguing against the move to exempt churches and other religious buildings, but in favour of an exemption from income tax for charities and friendly societies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

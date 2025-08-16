@@ -44,4 +44,4 @@ A new discovery of copper has been made near Wandillah about six miles northeast
 
 Nothing further has been done at the other discovery and Mr Butte [sic] has gone back to Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

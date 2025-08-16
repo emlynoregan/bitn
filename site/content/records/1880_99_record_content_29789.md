@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mount Bryan East Bible Christian Church Anniversary 17 & 17 September drew large congregations when Rev. J. Collings preached.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

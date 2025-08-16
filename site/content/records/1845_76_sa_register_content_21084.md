@@ -26,4 +26,4 @@ August 1867
 
 Throughout the month there was a series of letters arguing that labourers’ wages were too low to exist on and a series countering that and asserting that it was high wages that had resulted in the men not being employed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

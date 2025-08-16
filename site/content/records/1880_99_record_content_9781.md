@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Poisonings.  Last Friday and Saturday some 50 dogs were killed in the town by poison baits laid in the street and thrown into private yards.  Also killed were many fowls, geese, cats etc.  A £20 reward is offered for detection of the offender.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

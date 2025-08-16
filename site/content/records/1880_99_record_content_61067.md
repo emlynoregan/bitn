@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  A group of local gentlemen gave a concert on Wednesday evening for patients.  A.W. Dobbie & Co. very kindly lent a piano.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

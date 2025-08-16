@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cr Sampson said ‘Oh well I’ll say councillor.  If the pair can go on ordering work they should pay for it out of their own pockets and who is Hardy – ’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

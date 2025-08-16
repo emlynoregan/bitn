@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Mortuary Chapel.  This is very much needed and would be very useful as a resting place for Sunday visitors.  A stone chapel would be costly and would have to be kept locked.  It would be dreary inside and ugly outside.  Combine the arbour and the other and you gain many ends and lose no advantage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

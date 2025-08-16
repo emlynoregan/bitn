@@ -36,4 +36,4 @@ The appointed day for the meeting to discuss the new constitution at Kooringa wa
 At 3 p.m. crowds assembled at the Burra Hotel until it was ‘necessary to adjourn to the pile of buildings recently added to that extensive structure, and known as the “Oddfellows’ Hall and Kooringa Assembly-room,” a splendid apartment (the second in the colony), fifty-eight feet long, thirty-one feet wide, and eighteen feet high, lighted from each side and one end by well-proportioned windows.  There were upwards of two hundred persons present.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

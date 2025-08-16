@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Wesleyan Sunday School Picnic at J. Fradd’s estate Sod Hut on 2 January 1893.  Services on Sunday 1 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

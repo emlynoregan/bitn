@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Entertainment.  A grand entertainment is being arranged to take place towards the end of the year to raise funds for a New Year’s dinner for those too poor to enjoy the occasion.  The Militia Fife and Drum Band of Adelaide will join Davey’s Band and several amateurs new to the local audience.  Organised by W.J. Davey and T. Heming of the Burra Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

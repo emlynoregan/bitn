@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 The Burra Philharmonic is an established fact.  On Friday Mr W.R. Ridgway was elected President with Mr J. Drew as Vice-President and a committee comprising Messrs Jarman, J. Kerr, F. Moody, J. Pearce, West, Holder and T. Drew.  The first rehearsal will be held this evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

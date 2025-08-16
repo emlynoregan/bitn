@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Blacklegs.  On Thursday night a special train carrying a large number of blacklegs arrived at Burra a few minutes after the Broken Hill express.  As its passage was widely known a large group assembled to glimpse them.  Mr Rumball, the stationmaster, wisely cleared the platform before its arrival, which prevented at least a large amount of barracking.  One of the windows of a carriage was broken by a stone as the train crossed the Bon Accord crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ Several poor people had their rates remitted.
 
 Sir Henry Ayers asked that the gift of an allotment in the cemetery by SAMA to Mr Patterson [? Print unclear] might be recognised.  Agreed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

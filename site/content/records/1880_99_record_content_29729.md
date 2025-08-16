@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 At Kooringa Methodist Church Anniversary public meeting last Monday Rev. S. Knight gave an address 21 Years in SA and What I Think of It.  He is soon to leave the colony for Melbourne.  He finds SA a little too conservative and Victoria perhaps a little too full of go-aheadism.  He spoke against the Oaths Act, the Education Bill, the Totalizator Bill and the proposed Divorce Bill.  SA was too much given to amusements.  South Australians were hospitable.  The proceeds from the Anniversary were £100-1-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

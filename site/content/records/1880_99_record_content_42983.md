@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Humanity’ writes complaining of the way cab drivers thrash their horses between Kooringa and Aberdeen.  ‘The fat man with red hair is the worst offender - you may know his name perhaps.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

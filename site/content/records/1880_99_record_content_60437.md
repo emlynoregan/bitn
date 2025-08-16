@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Hospital Board.  The Chief Secretary has notified the Board of the appointment of J.F. Moore to it, to replace Mr Walsh, deceased.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

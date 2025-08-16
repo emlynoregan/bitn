@@ -30,4 +30,4 @@ Editorial on the political crisis in SA.  The Hon. T. Playford tabled on Tuesday
 
 Playford seems to have nothing better to offer.  If the Government is weak, the Opposition is no better.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

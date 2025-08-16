@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Accident.  On Saturday night Mr Wearne was driving on of the cabs that run between Kooringa and Redruth, when it collided with another cart and a woman and child were thrown to the ground, where the child sustained serious injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

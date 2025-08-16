@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 M. Moorhouse, Hon. Sec. Of the Redruth Band of Hope writes wishing the General Temperance Society every success and pointing out too the work of his society which meets fortnightly at the German Chapel and has 220 pledges at Redruth and 40 at Copperhouse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

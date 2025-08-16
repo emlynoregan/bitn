@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. S. Wellington has been appointed by the recent conference to the Primitive Methodist circuit here in Burra and arrived last week from Yongala where he had been for five years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

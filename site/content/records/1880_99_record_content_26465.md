@@ -29,4 +29,4 @@ Advt.  Burra Burra Mines.  Several houses and fences in Kooringa, the property o
 
 William West, Agent.  Oct. 12 1887.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

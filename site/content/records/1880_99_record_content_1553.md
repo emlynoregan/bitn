@@ -37,4 +37,4 @@ publication_slug: record-1880-99
 
 Advt.  Kreitmayer’s Waxworks will appear at the Burra Institute 25 to 28 August.  It features over 50 lifelike figures including: Peabody, Sir Hurtle Fisher, Emperor Wilhelm, Bismark, Burke, Wills & King, The empress Eugenie, the late Prince Imperial, and the bushrangers, Morgan, Scott (Captain Moonlight), and the Kelly Gang.  (The latter appear in a tableau of the murder of Kennedy Lonigan and Scanlon.)  Also featuring the LIVE ELECTRIC BOY’, one of the greatest scientific illusions of the age.  1/-, children 6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

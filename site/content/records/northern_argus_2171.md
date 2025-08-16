@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 National Trust SA President Bob Lewis will be the guest speaker at the Burra branch AGM on 3 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

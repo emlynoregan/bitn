@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Burra & Hallett SES Units along with police and ambulance services conducted an exercise last Thursday.  The scenario was a gas explosion at the Burra Hotel, which collapsed the stairs and left 14 people trapped on the top floor, some seriously injured.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

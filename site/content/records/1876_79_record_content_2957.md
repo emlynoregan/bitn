@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. H. Dawson, saddler and harness maker to retire at end of the year. Offers to sell the whole of his stock of saddles, hunting crops, whips, chain etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

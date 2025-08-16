@@ -78,4 +78,4 @@ Wednesday saw a sermon by Messrs Richard Stoye & Rock and the appointment of a c
 
 [This long article gives considerably more detail and ends with an acknowledgement of satisfaction with Cobb & Co.’s services.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

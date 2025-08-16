@@ -27,4 +27,4 @@ The Triumph of SA
 
 [This article is a wordy puffing of the prospects of the colony.  It cites again the estimate that the Burra Burra Mines would produce a clear income of £85,515-18-10, or a return of 694% on the capital invested.  This is based on an average price in England of £24 per ton.  It says information received suggests this is more than likely to be the case.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

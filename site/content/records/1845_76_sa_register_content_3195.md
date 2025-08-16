@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  As many people believe that the object of the proceedings against the proprietor of the Register is to suppress fair and open discussion, it has been decided that a public meeting will be held at the Theatre on Tuesday 28 November at 7 p.m.  Parties who desire to support Mr John Stephens in his fearless endeavour to uphold the freedom of the press in this colony are asked to attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

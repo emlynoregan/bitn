@@ -41,4 +41,4 @@ P.S. I have no intention of leaving the district as reported.
 
 [Note that Dr Dashwood’s competence came into question on the matter of typhoid in an inquest into the death of Sarah Ann Fogarty reported in the paper of 2 August 1878 and within a few months he had been replaced by Dr Sangster.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

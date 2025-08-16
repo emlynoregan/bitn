@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 War Preparations.  Two cruisers have been purchased to defend Australia and the colonial Governments are pushing on with preparations, but there are now some hopes that was will be averted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

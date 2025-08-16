@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Application for Fred. Camp to be declared addicted to alcohol so as to be injurious to himself.  The certificate was granted making the supplying of liquor to him for the next 12 months illegal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

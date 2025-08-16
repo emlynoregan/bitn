@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Ballast quarry is active at Gumbowie and embankments are well progressed. Firewood Creek Bridge will soon be started.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

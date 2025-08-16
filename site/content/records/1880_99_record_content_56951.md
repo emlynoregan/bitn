@@ -96,4 +96,4 @@ Cr Sampson said ‘Oh well I’ll say councillor.  If the pair can go on orderin
 
 Cr Hardy again objected and Cr Sampson amended it to ‘Mr Councillor Hardy’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

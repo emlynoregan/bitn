@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Town Council will have to do public works before 30 June if they wish to get subsidy for it, as it ceases at that date.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

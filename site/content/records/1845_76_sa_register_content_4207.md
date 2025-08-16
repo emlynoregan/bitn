@@ -20,4 +20,4 @@ publication_slug: sa-register
 
 [SA Deaths CD does not record a Bleechmore death for 1850.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

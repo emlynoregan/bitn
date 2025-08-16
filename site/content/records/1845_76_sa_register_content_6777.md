@@ -56,4 +56,4 @@ His Worship, who had previously suggested that a subscription should be got up t
 
 Alexander Middleton was charged with keeping four pigs at large in Redruth.  Middleton said he owned no pigs and Martha Buchanan, who had previously identified Mr Middleton as the owner, now said she was mistaken in that.  There being no other evidence, the charge was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

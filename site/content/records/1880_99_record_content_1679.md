@@ -26,4 +26,4 @@ Advt.  Edward Lipsett offers a genuine stock reduction sale in which he says sto
 
 [Clearly this failed to eventuate as by December his enterprise was an assigned estate and Mr Lipsett left the town.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

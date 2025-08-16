@@ -32,4 +32,4 @@ SAMA 35th Annual Meeting, 21 April
 
 Sir G.S. Kingston, Hon. W. Morgan & Messrs Henry Rymill and John Beck, retiring directors, were re-elected.  The chairman said the board was in negotiation with a person in London re the sale of the mine property and there was every prospect of a satisfactory bargain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

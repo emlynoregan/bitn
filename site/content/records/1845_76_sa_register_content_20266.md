@@ -48,4 +48,4 @@ Mr Richards licensed spirit storekeeper was charged with selling less than one g
 
 The miners have not appointed any delegation to seek railway work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

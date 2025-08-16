@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The Burra News & Northern Mail. The partnership publishing the paper; Henry Pether & Frank Jarman, was dissolved by mutual consent on 4 April. Henry Pether to continue as sole proprietor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

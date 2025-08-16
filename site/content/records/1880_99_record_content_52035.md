@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Voting in North Ward is described as being held at the corner of Moorhead St and Best Place – the former premises of the National Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

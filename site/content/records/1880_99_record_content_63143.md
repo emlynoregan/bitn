@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Furniss’s Farewell Social on Thursday in St Mary’s schoolroom was attended by about 60-70 and featured social games, music, singing and ‘a plentiful supply of creature comforts’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

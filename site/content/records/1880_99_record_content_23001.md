@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cr Ridgway says the Council’s agreements with the Inspector are legally and morally binding, but as an illegal transaction was entered into with his assistance he seems to ignore all principle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

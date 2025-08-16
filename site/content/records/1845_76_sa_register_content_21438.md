@@ -28,4 +28,4 @@ Further details of the fires reported on 24 December are given.
 
 Canowie Run has lost feed for 20,000 sheep and Bundaleer sheep losses are feared to be considerable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

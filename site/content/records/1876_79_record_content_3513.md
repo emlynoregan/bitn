@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 F.W. Holder appointed Town Clerk on 22 Jan. 1878. (Burra Corp.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

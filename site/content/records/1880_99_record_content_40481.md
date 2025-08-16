@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 ‘Erratic Correspondent’ writes on the Burra Mine.  He suggests that shareholders in England have sent an expert out to look at the prospects of the Burra Mine without reference to the mine authorities in SA and that a response to the news can be expected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

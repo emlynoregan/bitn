@@ -34,4 +34,4 @@ publication_slug: record-1876-79
 
 Sunday Closing. A meeting at the Inst. on 21 Aug. was held to devise means of sustaining the Nock’s Act which introduced Sunday closing of hotels. The Mayor was in the chair and was supported by Revs Campbell, Jenkins & Richards, and Messrs J.D. Cave, W. Pearce Sen., J. Roberts & F.W. Holder. Fr Kriesll apologised for his absence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

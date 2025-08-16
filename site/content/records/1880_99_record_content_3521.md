@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter.  A long letter of over 1⅓ columns from Joseph Nicholson expresses his strong objection to the liquor trade and in particular to the ‘Brewers’ Monopoly’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

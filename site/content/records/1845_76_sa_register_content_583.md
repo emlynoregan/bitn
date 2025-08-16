@@ -28,4 +28,4 @@ Princess Royal Mines.  Several miners from these mines made a visit to town last
 
 At the Burra Burra Mines some of the men contracted to raise a quantity of prime ore at 15/- per ton are likely to realise handsome earnings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

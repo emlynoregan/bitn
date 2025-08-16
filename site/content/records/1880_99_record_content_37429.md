@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Lily of the Valley (Female) Tent IOR continues to make progress with 122 members at the end of June 1890 and capital of £89-19-9.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

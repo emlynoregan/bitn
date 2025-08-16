@@ -33,4 +33,4 @@ A sub-committee was appointed to get a skillion put up in substitution for the o
 
 In view of the possibility of putting up a new cottage for the porter it was decided to ask SAMA through Mr West for an allotment at the west side of the present premises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Anniversary Services were an unqualified success last Saturday.  The afternoon service of song was Reaping Time and was rendered by the scholars.  The tea meeting is today and the picnic on 15 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

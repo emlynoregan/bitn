@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Miss Ada Campbell’s visit to Clare is reported.  The writer says that out of curiosity some 200 came to her first lecture, but only some 30 or 40 to the second.  She is, the writer says, an atheist who should be stopped for her ‘blatant blasphemy and ridicule of religion that ever mortal man could imagine.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

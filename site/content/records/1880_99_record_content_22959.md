@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Union.  The opening dinner of the Union was held on Wednesday evening followed by a concert and ball.  It was a somewhat cold and showery evening and dinner started at 5.30 p.m.  Mr Hardy welcomed those present on behalf of the Union.  The concert, which began at 8.00 p.m., was a Christy Minstrel performance.  By then the place was packed with scores denied access.  The paper reports the songs performed.  After that the hall was cleared for a ball.  The Burra Band played several selections in the evening.  Proceeds were satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

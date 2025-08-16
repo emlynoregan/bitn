@@ -32,4 +32,4 @@ Mr Crewes’ Newfoundland dog took 3rd prize in the Adelaide Dog & Poultry Show.
 
 The Governor will be the guest of Mr A. McCulloch when he visits the show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

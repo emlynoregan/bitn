@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Jos. Martin is in town making preparations for the erection of a crushing battery, concentrators, etc. at the old slagheap.  The site is on the south side of the old heap.  It is estimated the heap contains over 150,000 tons of slag which will take about six years working 3 shifts to get through it, but if it is payable the machinery could be duplicated and the time halved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

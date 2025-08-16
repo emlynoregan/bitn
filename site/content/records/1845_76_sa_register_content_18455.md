@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Easter Monday was also a holiday.  Some amused themselves at cricket and others went to the races at Cross Roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

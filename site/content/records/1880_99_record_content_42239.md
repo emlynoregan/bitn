@@ -34,4 +34,4 @@ Primitive Methodist Quarterly Circuit Meeting on Monday.
 
 Rev. R.J. Daddow was elected President with James Scott as Secretary.  Appreciation was expressed to T. Pedler, lay preacher, who has moved to Broken Hill.  Sympathy was extended to the family of Mrs Goss, who died after half a century of lay preaching.  The church has made a hopeful start at Spalding using Hacklin’s State school with permission from the Minister of Education.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

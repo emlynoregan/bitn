@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Tramps.  Several tramps are causing trouble in town at present.  One tried to gain access by knocking on a door at 2 a.m. last Sunday morning and was with difficulty repelled by a woman who answered the door.  On Sunday night the same or another fellow sought admittance at the house stating he was a policeman.  Police were called, but the miserable creature had escaped.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

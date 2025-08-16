@@ -43,4 +43,4 @@ Public safety concerns included the state of the footbridge leading to the cemet
 
 D. Wells was commended and has handed over to the Corporation profits of £157 from his time in managing the cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

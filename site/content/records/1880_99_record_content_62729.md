@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  David Buzza, a resident of Burra for many years in the early days, has died in Moonta aged 65.  He was a member of the Burra Burra Lodge MUIOOF for over 36 years, having joined on 10 April 1861.  In Moonta he was a sometime member of the Town Council and a prominent member of the Wesleyan Church.  [As registered he died 27 August aged 64.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

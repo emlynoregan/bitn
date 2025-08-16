@@ -26,4 +26,4 @@ Fire.  On Sunday just before going to bed J. Lewis noticed smoke in his house an
 
 A few more minutes and she would have been suffocated and probably the house destroyed.  She had been reading with a candle on the bed and had dozed off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

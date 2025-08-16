@@ -37,4 +37,4 @@ Samson & Wicksteed & Co. (successors to Mr John Bentham Neales) have been honour
 
 Terms 20% cash, 20% in 6 months, 20% in 12 months, 20% in 18 months and 20% in 24 months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

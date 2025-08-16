@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Douglas Alexander, an architect for Flightpath Architects in Adelaide, has been appointed Burra’s heritage advisor.  He is expected to spend time in Burra about once a fortnight for a two year period.  His salary comes from a $38,000 grant from the National Estate program.  He was project architect for the very successful SA Maritime Museum and has been a member of the Thebarton Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

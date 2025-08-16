@@ -36,4 +36,4 @@ The main event was the Burra Handicap of three races over 150, 220 & 440 yards. 
 
 Overall J.E. Petherick 1st, Mahon (from Seven Hills) 2nd, Lott & Parks equal 3rd
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

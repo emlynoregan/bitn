@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  SAMA offering to sell or lease Plan Sections 6 & 7 of the Burra Special Survey of c. 160 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

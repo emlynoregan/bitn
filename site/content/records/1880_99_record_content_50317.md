@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Four Members of Adelaide Cycling Club arrived in Burra on Saturday on their way to Koomooloo.  They had been invited for some shooting by Mr T. Warnes.  They left on Sunday morning over very sticky roads.  They were OK until Baldina Creek which they had to be assisted across by J.A. Watt and W.H. Linkson, who had ridden out to assist.  They expected to reach Koomooloo by about 4 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

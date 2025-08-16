@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Trees. The last of the fine old gums that lined the Burra Creek has been removed. The stump that was near the ford opposite the Mine Stores has been taken out to be used as a butcher's block.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

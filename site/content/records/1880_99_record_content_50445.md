@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Court Unity AOF No. 3015 held their half-yearly meeting on 7 July.  The balance at the end of the half year was £1,035-16-3 of which £919-5-0 was on fixed deposit.  W. Sleeman was elected CR.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

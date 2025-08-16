@@ -31,4 +31,4 @@ Burra Mine
 
 We learn by private advice from England that Mr J.B. Graham was in London in March trying to make arrangements for the introduction at Burra of Henderson’s patent for extracting copper from low grade ores.  We believe no conclusion was reached and it seems there is little likelihood of the parties coming to terms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

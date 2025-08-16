@@ -35,4 +35,4 @@ Depart Adelaide by the 3.45 train and depart Gawler the following morning at 6 a
 
 Any better plan would be welcome, but some change is needed, as at present four and sometimes five days must elapse before an answer can be received to a letter despatched from here.  Steps should be taken now, as the tenders for the conveyance of the mails will soon be out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

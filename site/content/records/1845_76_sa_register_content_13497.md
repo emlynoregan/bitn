@@ -29,4 +29,4 @@ Kooringa News, Wednesday 13 June
 
 The new Primitive Methodist Chapel at Copperhouse was opened for divine worship last Sunday.  On Monday a tea meeting on its behalf was held at the chapel in Kooringa.  In the evening at the Primitive Methodist Chapel in Kooringa Rev. Whittaker delivered a lecture on ‘Primitive Methodism’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

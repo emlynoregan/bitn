@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 At the election on Monday 26 November at the Burra Hotel only 26 persons voted and some of them only because they were there on other business.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

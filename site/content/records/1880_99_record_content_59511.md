@@ -36,4 +36,4 @@ Polo.  At Aberdeen on Saturday there was a drawn game between Burra & Adelaide a
 
 Adelaide players were: T. Barr-Smith, A.J. Barker, J.T. Love & F.W. Whyte.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

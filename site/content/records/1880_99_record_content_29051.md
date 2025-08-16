@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Glenelg Fort guns have cost £29,000 and the fort will cost £30,000 more.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

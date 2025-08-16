@@ -29,4 +29,4 @@ Editorial on sanitary conditions at Kooringa.
 
 Taking the average of the past years the deaths in the district have averaged about 20 per month in December, January and February and about 6 per month in other months.  This year there have been 26 interments in Kooringa in July, of which most have been of children under 12, and there has also been much sickness.  At least 6 deaths have been from diphtheria and several from bronchitis.  The Local Board of Health met on Tuesday.  A problem is the inability in many cases of separating the sick from the healthy.  They live in small, crowded dwellings, often with small, close, and even damp rooms.  Some dwellings are to be condemned for habitation unless thoroughly renovated, especially those that are small, low-lying houses with damp brick floors and calico ceilings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

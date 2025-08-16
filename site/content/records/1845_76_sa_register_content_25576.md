@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Floods.  Kooringa 19 January.  On Friday floods were experienced, which were the heaviest for two years.  It rained from 3 to 7 o’clock.  The Northeast Mail, which starts at 4 p.m., was unable to cross Firewood Creek and had to return, though it got through later that night.  The total fall was 2¾ inches.  The creek ran a banker and streets were torrents, but little damage was reported.  A couple of houses were swamped along with J.R. Stephens’ stable.  Farmers and teamsters will benefit from full waterholes and dams.  It will greatly benefit the Eastern Plains, where little rain has fallen for two or three years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

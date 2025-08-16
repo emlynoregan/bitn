@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Assoc. having been in recess for some times announces its intention of reassembling this evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

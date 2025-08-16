@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Kooringa Wesleyan Sunday School had special anniversary services on the 11 January at which Rev. W. Lowe preached.  In the afternoon Mr Houghton delivered an address to parents and children.  Several of the children gave suitable recitations.  The school numbers 344 children and 38 teachers.  In the past year £47 was raised for its support.  The congregations were large and collections liberal, considering the numbers who have left for the gold regions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

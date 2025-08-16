@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Bible Christian Pasty Dinner was poorly attended, due largely to the counter-attraction offered by a Salvation Army dinner.  This unneighbourly action was announced after the Bible Christian enterprise had been settled.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

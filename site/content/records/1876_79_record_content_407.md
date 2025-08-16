@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Ayer’s is being cleaned from the 50 upwards.  We have been down from the surface to the 20, where it is full of stuff, which fell in from the surface when the top of the shaft was removed.  Eventually we hope for some tribute pitches here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

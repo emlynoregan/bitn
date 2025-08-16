@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 An Invitation Ball has been held at the Burra Hotel by the quadrille class.  About 90 guests attended and enjoyed themselves till dawn.  Trees with artificial flowers decorated the room, with Chinese lanterns and garlands suspended from them.  R. Tyrie was MC and Mr Geddes the Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

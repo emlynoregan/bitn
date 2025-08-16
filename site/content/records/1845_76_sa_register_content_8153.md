@@ -28,4 +28,4 @@ Assistance to Unsuccessful Diggers
 
 A Memorial is being presented to The Governor to use some of the Land Fund to pay the passage of retuning diggers, who would then repay the cost from their wages.  [The memorial also suggested that bad debts would be recovered from the general revenue.]  We have already expressed our disagreement with this or similar proposals.  This proposal in particular has the disadvantage that it could encourage other colonies in the future to use their funds to pay labour to move to them in times of need – and Victoria and NSW would have considerable funds from the issue of Gold Licences, which could be so used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

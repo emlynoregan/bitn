@@ -28,4 +28,4 @@ publication_slug: sa-register
 Royal Mining Co. shareholders, living in Kooringa, went down to see the mine today and to look at the property they personally bought, adjacent to it.  They report great alterations at the Royal following the employment of a number of men by Mr Hare.  The lode has been exposed.  They have decided to ‘set’ their property.  They have consequently set men to work to costeen over their property, which they call by the native name of Pinyonga.  It is believed there are many offering to work at either property.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

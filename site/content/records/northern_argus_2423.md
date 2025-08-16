@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Three Adelaide Youths aged 19 were arrested on 1 April for shooting sheep and damaging Highways Department signs east of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

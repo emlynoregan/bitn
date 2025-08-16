@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Miss Adela Knight, eldest daughter of Rev. Samuel Knight of Victoria and formerly of Burra has won a medical scholarship to study obstetrics and gynaecology in Vienna.  She left to study in England while her father was in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

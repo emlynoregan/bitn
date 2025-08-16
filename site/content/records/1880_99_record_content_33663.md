@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Cricket.  Correction re the books of the club.  The previous secretary, who has left the town, left everything in a satisfactory state, and it was Mr Parks who has mislaid the books.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

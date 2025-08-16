@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Birth.  To Peter & Debra Spackman at Burra Hospital 8 October, a daughter, Heidi Rose.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

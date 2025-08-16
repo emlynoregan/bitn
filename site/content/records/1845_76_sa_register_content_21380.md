@@ -48,4 +48,4 @@ Mr Macaulay said it was a long road and there was so little money that could hav
 
 [Changes to the appropriations were deemed impossible at this stage, as it would mean going back to the surveyors and adjusting many allocations, for which there would not be time before Parliament rose.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

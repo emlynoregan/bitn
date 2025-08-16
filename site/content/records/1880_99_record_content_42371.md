@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The illuminated address referred to Holder’s roles in the town as Town Clerk, Mayor, President of the Burra Institute, Member of the Burra School board of Advice, Captain of the Volunteers, Member of Parliament and many other roles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

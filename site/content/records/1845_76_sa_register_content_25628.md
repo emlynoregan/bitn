@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 I was a passenger the other day on a coach plying to Outalpa.  The fare and accommodation to be met with on the line are scandalous.  Only at Willigoleech [sic] is anything like a good meal available.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ Robert McBride sued Patrick Burns for unprovoked assault at Gartrell’s Hotel o
 
 Burns failed to appear, but T.P. Halls corroborated McBride’s account and Burns was charged £1 + £2-5-0 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

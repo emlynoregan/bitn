@@ -51,4 +51,4 @@ As I never contemplated the alternative of your reply, I have ceased to be a can
 
 ‘For myself personally I have no interested purpose to answer; no paltry ambition to gratify; and I can assure you with great truth I do not at all regret that I am relieved from a position which would have been attended with much trouble and anxiety.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

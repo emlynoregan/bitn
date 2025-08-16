@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Rabbits. A public meeting at the Institute on 27 December called for united and simultaneous action to be taken to destroy rabbits. It called for strict enforcement from 1 Feb. 1879. It demanded more staff to clear Crown Lands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

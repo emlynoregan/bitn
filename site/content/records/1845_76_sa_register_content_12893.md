@@ -63,4 +63,4 @@ Work on the Clare Telegraph Station and Post Office has commenced and is due to 
 
 A tender for the Kooringa Telegraph Station and Post Office has been accepted for £653.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

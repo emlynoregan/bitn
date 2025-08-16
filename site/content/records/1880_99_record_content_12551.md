@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 [Is it possible the objection is to Holder himself, given that a requisition was being circulated calling on his father-in-law, Dr Stephens, to stand?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  John Hoiles of the Travellers’ Home on the Gulf Road informs travellers he has considerably enlarged his premises and hopes to merit the continued patronage hitherto enjoyed.  Good stabling and stockyards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

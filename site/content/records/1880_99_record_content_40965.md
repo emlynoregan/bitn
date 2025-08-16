@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mr C. Jobson has resigned as Engineer of the Beetaloo Waterworks and will leave SA Government employment to go to Broken Hill to take over the Stephens Creek Water Scheme.  In May 1883 he was appointed superintendent of the Burra Waterworks, transferring to Beetaloo in January 1886 at £400 p.a.  He made many friends in Burra, who wish him well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

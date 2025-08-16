@@ -39,4 +39,4 @@ Tobias Pierce was charged with threatening to stab Corporal Mallon while in perf
 
 In the case of those accused in connection with the nuisance at the recent tinkettling, both sides employed counsel, but the Bench failed to be impressed by the arguments for the defence and fined each offender £2 plus costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

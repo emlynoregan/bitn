@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rain.  World’s End received 4.9” in October and the country there is looking splendid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

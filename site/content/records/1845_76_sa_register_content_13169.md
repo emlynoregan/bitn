@@ -39,4 +39,4 @@ All Saturday the chief topic of conversation was the result.  On Monday the scru
 
 ‘The result is regarded with much regret by the more sober-minded and thinking portion of the community, who cannot but see the evil of sending men to Parliament merely because they happen to possess a popular species of oratory which wins the public ear, or because they profess political opinions in accordance with the views of the majority.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

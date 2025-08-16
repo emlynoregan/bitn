@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Richard Finch Sen. aged 75 was killed when a train struck his horse and spring cart at the crossing near his home, Tuesday evening, 27 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

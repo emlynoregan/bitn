@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Nero Crewes was found hanging from the bridge across the creek between Chapel St and Queen St by his collar and chain.  The somewhat humorous account of this apparent suicide regrets that police were not informed and an inquest not deemed necessary.  It becomes clear that Nero was E.W. Crewes’s dog.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Daniel Gleeson, alias Edmond Sullivan charged with indecent language at the Salvation Army Barracks in Church St on 26 Feb. and fined 20/- or 14 days
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -64,4 +64,4 @@ The result of the survey is very favourable for the construction of the line and
 
 No doubt British capital could be obtained for such a venture; especially with a Government guarantee of 5% for 21 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

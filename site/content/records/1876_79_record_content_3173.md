@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Fire. A 20 ton haystack of J. Harry of Mt Bryan was destroyed by fire on 29 Nov.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

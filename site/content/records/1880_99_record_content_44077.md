@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Mr Littlejohn signed an agreement on 5 November 1889, which specified duties and salary.  The new agreement is but a little extended from that and will in no way curtail the expenses of the Council. The extra pay was for a labourer and the new agreement does not compel him [Littlejohn] to do labourer’s work.  The imputation of laxity on the part of the old councillors is wrong ‘but we leave them to clear themselves if they wish’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

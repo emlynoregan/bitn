@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Penrose, aged 72 and a colonist of 40 years died at the Burra hospital after much suffering.  [Died 29 January, aged 73.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

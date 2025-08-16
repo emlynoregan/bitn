@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Redruth Primitive Methodist Sunday School held its Anniversary in Sunday.  Rev. H.J. Pope preached.  Not all those attending could be accommodated inside the chapel.  On Monday the pupils and teachers marched around the town before refreshments at 4 p.m.  The tea and public meetings were crowded.  Mr M. Birt read a report indicating prosperity in every department.  Proceeds were £18.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

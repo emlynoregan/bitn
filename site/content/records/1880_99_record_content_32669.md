@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Parkin, aged 88. [Died 31 May, aged 87.] [There is no indication in the text of the local connection, but a William Parkin and Grace Parkin nee Moody had a son, Henry, in Burra in 1858.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

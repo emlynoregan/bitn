@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Mayor’s Fund.  The amount expended is £183-6-4 and the total raised to date is £166-13-6 after receiving half the balance from the Children’s Demonstration Committee, of £15-16-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ IOR.  The Rechabite picnic and sports at Princess Royal on Boxing Day were a gre
 
 The concert was largely attended and was marred only by the larrikinism at the back of the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

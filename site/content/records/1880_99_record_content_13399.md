@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Dog Nuisance.  A meeting was held at the Burra Hotel on 6 June with R. Brown in the chair.  Nothing was resolved and there will be further discussion at the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

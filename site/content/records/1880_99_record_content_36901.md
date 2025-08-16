@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Baldina Blocks.  We understand a letter has been sent from the Mayor to the Commissioner recommending the Baldina homestead blocks be re-advertised and the water conservation scheme there implemented as an aid to unemployment problems in the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

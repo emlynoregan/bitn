@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Fire.  One of Mr Lipsett’s children overturned a candle and set fire to bed curtains and other bedroom furnishings.  Mr Lipsett came in just in the nick of time and was able to extinguish the flames and so save the house.  Damage is estimated at about £15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -38,4 +38,4 @@ Cr Rayner agreed: they had spent £240-8-2 in Redruth and £235-11-8 in Aberdeen
 
 C.W. Brown has agreed to stand for Council, but little of significance was raised or discussed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

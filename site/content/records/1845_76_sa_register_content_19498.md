@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Many sheep are travelling up the Murray Plains to the lately deserted runs in the north, but many are dying on the way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

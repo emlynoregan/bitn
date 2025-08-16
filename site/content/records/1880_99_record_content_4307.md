@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Pt Germein-Orroroo Railway.  The editor is against this proposal as unnecessary, the survey and plans for which had just been completed.  [Ultimately it was not built.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

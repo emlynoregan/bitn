@@ -45,4 +45,4 @@ On 25 March about 50 members had a dinner at the Burra Burra Hotel where Mr Bark
 
 [In one response to a toast NG Birbeck said that about three years ago there were scarcely enough members to form a lodge and now they had 96 good on the books.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

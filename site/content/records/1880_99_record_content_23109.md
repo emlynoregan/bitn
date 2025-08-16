@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Primitive Methodist Church anniversary is tomorrow.  In the evening at the Institute the Rev. John Watson will lecture on Reminiscences of His Life in South Africa.  Dr Sangster will preside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

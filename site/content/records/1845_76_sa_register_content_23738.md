@@ -30,4 +30,4 @@ Redruth Court
 
 Ann Macarthy was charged that on 5 November she had wilfully and maliciously cut and maimed Thomas Moore at Kooringa.  Mrs Bridget March, separated from her husband, said that on Saturday Moore had come to her house at about 7 p.m.  Macarthy was there.  A dispute arose between them and after Macarthy had used insulting words Moore told her to leave and forced her out of the door.  An hour later the accused returned.  Moore told her to go home and mind her ‘bastard’.  He again tried to put her outside, but she grabbed a butcher’s knife and struck Moore across the face nearly cutting off his nose.  They had all been drinking beer and Mrs March thought Moore was not sober.  Thomas Moore corroborated the assault.  Dr Dashwood gave evidence that he had sewn up the wound, which was not dangerous and would only leave a scar when it healed.  Macarthy was committed to the Supreme Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

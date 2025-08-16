@@ -36,4 +36,4 @@ Tom Porter was committed to prison for failing to pay a fine of £5 for assaulti
 
 Margaret Watson, who appeared with a pair of black eyes, was charged with being drunk and disorderly on the Sabbath.  She pleaded guilty and His Worship dismissed the charge with a severe reprimand after she promised to be more orderly and abstemious.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

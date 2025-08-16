@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 N. Opie’s conveyance between Kapunda and Burra will run daily on and after Monday 7 April 1862.  Fare each way 10/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

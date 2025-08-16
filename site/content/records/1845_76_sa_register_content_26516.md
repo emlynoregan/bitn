@@ -25,4 +25,4 @@ publication_slug: sa-register
 
   E.D. Davies, the ventriloquist performed on Monday and Tuesday evenings at the Burra Hotel to a well-filled Assembly Room.  Mrs Empson’s singing was much appreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

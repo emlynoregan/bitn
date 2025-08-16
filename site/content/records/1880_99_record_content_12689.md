@@ -41,4 +41,4 @@ W.D. Scott protested on behalf of the Yorke’s Peninsula Mining Association ove
 
 Cr Sampson moved that the division into Middle and South Wards be replaced by one into East and West Wards with the division in the centre of the main road from Aberdeen to Kooringa as far as the National Bank corner, then the centre of Mt Pleasant St, Drew Lane and Chapel St to the centre of Burra Creek and then the centre of the creek to the southern border of the corporation.  Carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

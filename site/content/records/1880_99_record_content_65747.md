@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Tenders for street lamp lighting were accepted from H.W. Tiver for the North Ward (£7-14-0) and from W. Geake for the two in Kooringa (£13).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

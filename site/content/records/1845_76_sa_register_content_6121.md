@@ -78,4 +78,4 @@ Mr Kingston immediately retorted ‘You are a liar.’
 
 This brought the meeting to an abrupt conclusion.  Mr Mortlock vacated the chair.  Dr Bull disappeared amidst the angry crowd and Mr Kingston retired with his friends, his supporters greeting him with hearty cheers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

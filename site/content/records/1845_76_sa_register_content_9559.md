@@ -58,4 +58,4 @@ At the Kapunda Mine Captain Bagot’s furnaces for reducing ore to regulus have 
 
 Activities are also looking up at Mt Remarkable.  Other places where hopes were entertained were the new Stony Creek diggings between Woodside and Lobethal where a new Bendigo was hoped for.  But the yield proved disappointing.  Echunga is also seeing little activity at present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

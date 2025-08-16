@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Rabbits. District of Hallett. The price for rabbit scalps from 6 May 1878 will be 8/- per 100 large & 4/- per 100 small
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

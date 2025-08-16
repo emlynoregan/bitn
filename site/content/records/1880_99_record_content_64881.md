@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Exams.  Some Burra scholars were recently successful at the preliminary examinations for the Adelaide University: Kathleen Roach (Burra High School), Paul Anthony Roach and Stanley Monteith Lane (Prince Alfred’s College) and Guy Spencer Packard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

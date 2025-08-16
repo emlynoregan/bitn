@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF.  A rifle match between Burra and Riverton companies in Riverton last Wednesday was won by Burra 485 to Riverton 444.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

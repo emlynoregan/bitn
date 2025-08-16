@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  The Bishop of Adelaide, Dr Kennion, will preach tonight, 23 August, at a confirmation service at St Mary’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Colonel Owen, late Brigadier-General of the SA forces, has been appointed to the defences at Portsmouth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

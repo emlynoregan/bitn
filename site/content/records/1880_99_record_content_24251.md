@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fallen Fortunes by James Payn then began on 26 March and ran till 14 September when it concluded at Chapter LII.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

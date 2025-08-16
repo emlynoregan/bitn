@@ -33,4 +33,4 @@ English & Australian Copper Co.
 
 The manager has recently petitioned the Legislative Council asking them to expend money on the road between the Burra Burra and Port Wakefield.  There are at present 4,000 tons of copper ore at Kooringa and 4,000 tons of coal at Port Wakefield, which cannot be moved until fine weather commences.  The company says that in the past seven months it has spent more than £20,000 in cartage and in seven years more than £100,000.  During the business season the company’s expenditure in the colony has reached £14,000 per month.  It was seeking a grant of £5,000 to aid the company’s expenditure on road formation between Kooringa and Port Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

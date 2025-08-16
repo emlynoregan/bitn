@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  Prince of Wales’ Birthday saw a match of the Single Men v. the Married Men of the Aberdeen Club.  Married 115 defeated Single 98.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

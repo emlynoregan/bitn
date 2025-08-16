@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Church of England annual dinner dance was held last Friday in the Burra Town Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

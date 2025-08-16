@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The tables include revenue and expenditure and imports and exports.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

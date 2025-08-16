@@ -50,4 +50,4 @@ Mr Johnston commented on Mr Challoner’s remark at the dinner honouring Mr King
 
 ‘…that every penny of the wealth of the Burra had come up in the ‘kibble.’  If that gentleman had really said so, he would beg to remind him that it was not so; that the settlers, teamsters, shepherds, &c., had, more properly speaking, been the support of the trade and prosperity of the Burra, to say nothing of the produce of the gold-fields…He should recollect that all are mutually dependent on each other.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

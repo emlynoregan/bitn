@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Races. A meeting at the Pig and Whistle on 13 Oct. arranged a race meeting for shearers. Only a moderate attendance. Horses to be owned by the shearers and be grass fed with weights of 10 stone and over. Entrance fee 1016. T. Warnes will provide a paddock for Friday 26 Oct.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

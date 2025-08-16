@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 St Leon’s Palace Circus visited on Tuesday and performed to a full tent.   Worn out horse acts and acrobatic feats predominated.  The horses were jaded and the band weak.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

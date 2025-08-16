@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Obituary. We regret to announce the death of W.H. Banks of the Unicorn Brewery at 33. He had lived in Burra c. 9 years and was almost universally popular as a man of straight dealing and willingness to aid community projects. He caught a cold last Monday week which led to inflammation of the lungs and died last Monday. Places of business closed Wednesday afternoon out of respect and over 30 traps followed the hearse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

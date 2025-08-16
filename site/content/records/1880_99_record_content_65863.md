@@ -29,4 +29,4 @@ The Eastern Country.
 
 There is a report on the country east of Burra, but it is not very specific just where, though probably the inner east on the way to Robertstown.  It reports signs of hard work and difficult times and praises the Germans for their hard work, tenacity, kindness and attention to their animals and care to keep their implements under cover.  It mentions an early rabbit-proof fence of mallee stakes 2’6” long placed close together against a three wire fence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

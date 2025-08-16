@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Police.  For some very peculiar reasons known only to bureaucracy the foot constable who has always resided in Kooringa and the trooper who has resided at Redruth are to exchange places.  Since there are no stables at Kooringa they will either have to be erected or rented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

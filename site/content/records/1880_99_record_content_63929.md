@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Notice.  Burra High School will recommence the second quarter on April 18 and will be carried on in the interest of the late Mrs MacLagan’s estate till the end of the year, when it is expected that the goodwill of the school and its furniture etc. will be disposed of for the benefit of Archibald MacLagan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

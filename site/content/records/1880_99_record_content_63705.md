@@ -32,4 +32,4 @@ Burra Races organised by Mr Nankervis of the Burra Hotel went off very successfu
 
 The only sour note was in the 1 mile for hacks where Mr Garrard’s bay gelding Joe, ridden by G.Garrard, was not allowed to win and the rider made haste to vanish at the end of the race to avoid ‘a little manual exercise’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

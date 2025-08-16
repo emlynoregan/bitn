@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Shooting Stars Co. appeared for the first time at the Institute on Friday last.  The evening of good songs and music closed with the comic operetta The Blind Beggars.  A new program was presented on Saturday, but the terribly rough weather caused a small attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

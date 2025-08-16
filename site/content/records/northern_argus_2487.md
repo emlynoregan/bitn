@@ -29,4 +29,4 @@ Obituary.  Caroline Nankivell died in Burra last week.
 
 [Born Caroline Wilton Gebhardt 13 August 1899 Kooringa: died 8 April 1987 Burra.  Married William Alfred Nankivell in 1928.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

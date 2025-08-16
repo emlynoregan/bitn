@@ -33,4 +33,4 @@ Obituaries.  William Ryan, late of Burra, had been working in Broken Hill and on
 
 [Michael Ryan died 24 September aged 55.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

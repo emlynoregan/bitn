@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Union responds via ‘A Member’ denying the charges levelled by ‘A Wanderer’ in last Friday’s issue over the Union’s activities on competing with the Salvation Army.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

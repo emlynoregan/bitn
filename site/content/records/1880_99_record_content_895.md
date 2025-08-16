@@ -26,4 +26,4 @@ Editorial on Government Aid to Local Bodies
 
 The discontinuation of such Grants in Aid to District Councils and Corporations seems inevitable.  The growing expenditure of the Government necessitates either cuts in such aid or increased taxation.  The Government will most likely go for the cuts and avoid the unpopular alternative.  It is hoped that the cuts will be gradual rather than abrupt and total.  Of course if this happens then payments for police must be cut from the Councils’ expenditure and licence fees (except for publicans) should be handed to the Councils.  As a consequence it follows that while subsidies continue as much use should be made of them as possible.  A higher rate now to attract greater Government subsidy would be a good investment by Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

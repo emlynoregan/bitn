@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Horse Race.  A race for £5 a side took place at Copperhouse on Tuesday afternoon.  Mr W. Jones’s Kangaroo easily beat Mr Pearce’s Beeswing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

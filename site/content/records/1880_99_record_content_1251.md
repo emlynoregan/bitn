@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Burra Literary Society held its first meeting on Friday at the Institute.  The President, Mr A. Loutit was in the chair.  There were readings by Dr Sangster and Mr Wilkinson and a paper was delivered by H. Roach on the advantages of a Literary Society.  Next Friday Dr Brummitt will read a paper on tobacco smoking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

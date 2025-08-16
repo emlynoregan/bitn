@@ -30,4 +30,4 @@ Richard Fox was charged with being drunk on 5 April and fined 5/-
 
 He was also charged with offensive behaviour in that he molested several little girls trying to persuade them away with offers of lollies.  He pleaded not guilty, but witnesses were produced and he was sentenced to 14 days in Redruth Gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

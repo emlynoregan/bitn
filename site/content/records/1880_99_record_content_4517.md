@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Cr Dunstan moved that a deputation wait on the Minister of Education.  B. Preece 2nd.  The town was growing and the population increasing.  [Presumably he meant the north end was doing so.]  Mr Gartrell supported as did J.R. Gray.  F.W. Holder spoke re the need for a new railway station.  Current refreshment arrangements were abominable - a stand on a dusty platform, so crowded that ladies and others were often utterly unable to get access before the train left.  The privy arrangements were a disgrace and people arriving at the station in traps could look right down into them.  Expenditure on the station at Burra had been £1,300 and at Terowie £12,000.  He felt that if the station could not be moved to the north of the crossing it at least ought to be between the turntable and the entrance gate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

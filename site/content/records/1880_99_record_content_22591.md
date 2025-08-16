@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mr D.S. Packard has been in Adelaide trying to get some Government work in the district and the Commissioner of Public Works has agreed to Barker’s Dam being cleaned out on 50% of the cost being guaranteed.  Persons interested are to meet at the Burra Hotel at 2 p.m. tomorrow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

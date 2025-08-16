@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Easter Monday. Aberdeen 80 & 29 without loss, defeated Hallett 39 & 60 (99)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Pollard and Thomas, draymen sought advice.  They had been engaged by Mr Young of Watervale to deliver five dray-loads (c. 8 tons) to Mr Richardson in Kooringa.  Mr Young was to meet them on arrival, but he failed to do so and Richardson refused to take delivery because the hay was wet.  His Worship advised them to contact Young immediately and to keep the hay in safe custody.  They asked if they would have a claim on Young for the time their drays were delayed.  He said yes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

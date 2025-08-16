@@ -46,4 +46,4 @@ Dr W.H. Dashwood: was sent for at midnight on Saturday, but was not at home and 
 
 The jury returned a verdict of ‘Died by the visitation of God.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

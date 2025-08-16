@@ -34,4 +34,4 @@ The SA Government has offered a reward of £2,000 for the discovery of a good co
 
 The inducements offered for the discovery of gold have been unavailing.  Echunga has been the only field to date and there the number of diggers has increased of late.  No great gains have been reported from there, but persevering hands find that on the whole it is more remunerative than the average wages of labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

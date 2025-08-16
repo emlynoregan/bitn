@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Mine.  In May the plans of the new machinery are expected and then a few hands may again be employed to prepare for working the mine according to the new plan.  Should this be successful the mine will turn out as much ore as in former times and with the arrival of the railway to reduce the cost of transport the returns should again be handsome.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

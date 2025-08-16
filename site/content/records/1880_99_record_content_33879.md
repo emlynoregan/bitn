@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Crops.  A Wonna farmer reports his own crops were cut by frost and many others between Wonna and Terowie, but the wheat that escaped had done very well and the affected wheat is also coming on well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

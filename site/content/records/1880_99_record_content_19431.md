@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Trooper Haedge was being assaulted by a man named J. Holder in Market Square on Monday afternoon and was being thrashed when rescued by a man called Nelson and F-C Murphy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

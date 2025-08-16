@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra and Its Peculiarities - from the article it appears that housing in Kooringa was on land leased for 21 years from SAMA. This made people unwilling to invest in improvements and SAMA had only just begun to sell some allotments. This explains the general poor state of housing in the town and the apparent lack of maintenance. When houses became vacant the policy of SAMA was to remove the roof and otherwise destroy them. There was some improvement as the mine reopened, the railway arrived and agricultural settlement spread.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

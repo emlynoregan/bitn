@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kooringa Bridge: Commissioner of Public Works writes to say that the new bridge at Kooringa will be funded in the next year's estimates & that the Council need take no steps to acquire land as that will be done by either the Govt. or the Midland Roads Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

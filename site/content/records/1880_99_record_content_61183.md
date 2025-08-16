@@ -27,4 +27,4 @@ Ratepayers’ Meeting, Burra Institute last Friday.
 
 Only about six ratepayers were present at the advertised starting time of 7.30 p.m.  A few more had arrived when proceedings started at 8 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mary Anne Dowser, relict of the late William Dowser, died at her residence at Copperhouse on 16 April aged 79.  [Registered as Mary Annie Dowser.  The evidence strongly suggests she was the Mary Ann Peters who married William Dowzard in 1878.  He died as William Dowzer in 1887.  If so she was born Mary Ann Kessel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

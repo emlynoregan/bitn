@@ -33,4 +33,4 @@ Henry Dawson writes from Gumeracha, 30 April:
 Roads will shortly be the great subject of debate both inside and outside Parliament.  We landowners from Marrabel up by Steelton and the Head of the Light need to take every legitimate means of bringing this middle line of road to the attention of the Central Road Board and the Government.  It is the shortest route to Burra with the best gradients and is inhabited on both sides for miles by farmers.  Now is the time to be up and doing.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

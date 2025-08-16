@@ -36,4 +36,4 @@ Is it prudent or possible to keep locomotives fired continually for weeks on end
 
 He then outlines the problems associated with handling the volume of what at the port; pointing out that there is no benefit in getting wheat to the wharf if it cannot be handled there more expeditiously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

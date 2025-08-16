@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Rev. Fr Peters SJ will give a lecture in aid of the church on Monday 17 November, including musical selections. MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

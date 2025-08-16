@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Teetulpa diggings are six months old last Thursday and about 300 men are making a living reefing there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

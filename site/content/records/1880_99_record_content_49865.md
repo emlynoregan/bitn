@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.J. Jacka, late brewer at the Unicorn Brewery was presented with an address by those employed there on Friday afternoon.  He is leaving after 5½ years at the brewery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

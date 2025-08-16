@@ -32,4 +32,4 @@ Despite the election being near at hand, nothing has been done here.  Two requis
 
 This evening an attempt was made at the Burra Hotel to make preliminary arrangements for organising a volunteer corps.  About 20 persons attended.  Mr J.B. Anderson was voted into the chair.  The Government had previous rejected such moves on account of the cost of sending up drill instructors etc.  This no longer applies as there is in the town a person well qualified in drill instruction, having been engaged with several drill companies in the past.  After some discussion Mr Burnell was unanimously elected secretary and drew up a draft of the memorial to be sent to the Government.  It was signed by all present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

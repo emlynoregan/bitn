@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The recent Fancy Fair had raised over £305 and expenses were less than £20.  W. Killicoat had donated £25 and W.P. Barker £50.  This sum will pay off the church debt and overdraft and general working debt and leave a credit balance.  £25 was voted to the incumbent whose salary had to be cut last Easter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

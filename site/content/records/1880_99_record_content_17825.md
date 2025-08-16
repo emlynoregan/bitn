@@ -43,4 +43,4 @@ If a shed is wanted and Council are prepared to pay the interest, then the Gover
 
 They have contracted to pay interest on the cost and can be expected to be told the total cost.  That information they have.  Do they really expect to see an itemised account so they can challenge anything deemed excessive?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Robert Sanders writes to say that neither Dr Nesbitt nor anyone else had ever made a complaint to him about the sanitary conditions of the miners’ cottages in Kooringa.  He says, had they done so, and had the complaint on investigation been proved to be correct, action to remedy the problem would have been taken without delay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

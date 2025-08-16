@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Salvation Army held special services at the barracks last Sunday in connection with the farewell of Captain and Mrs Bridges who leave this week for Kapunda.  The Captain’s stay has seen an increase in converts and recruits and a financial improvement where income is said to be almost twice that of the corresponding half of last year.  His successor will be Captain Thomas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

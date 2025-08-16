@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The second test demonstrated the automatic stopping of the train in the event that a coupling should part when ascending a steep incline.  This was very impressive.  Several other tests followed and the complete efficiency of the system was astonishing to all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

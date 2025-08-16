@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Madam Pownhall is in Burra for a short time and can offer instruction in painting on velvet.  No doubt our young girls will accept this rare opportunity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

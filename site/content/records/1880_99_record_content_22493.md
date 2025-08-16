@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  Burra will play Hothams, the premier club in the Adelaide Junior Association, on Monday 21 June.  The visitors will number about 30 and will sleep at the Burra Hotel.  The match is to start at 10 a.m. with Mr Linkson to umpire.  Last year’s match was a draw.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

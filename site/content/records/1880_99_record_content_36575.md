@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Poison.  The Government is restricting the sale of ‘Rough on Rats’: not before time given the cases of poisoning by its agency.  [Both murders and suicides as well as accident.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

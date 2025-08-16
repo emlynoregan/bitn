@@ -28,4 +28,4 @@ Notice is hereby given that a dividend of 100% or £5 per share has been declare
 
 Henry Ayers, Secretary, 10 February 1853.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

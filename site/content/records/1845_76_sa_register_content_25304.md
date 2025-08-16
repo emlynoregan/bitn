@@ -32,4 +32,4 @@ Advertisement
 
 The Prospectus for the New Burra Copper Mining Co. is printed.  It will have a capital of £16,000 in 6,000 shares of £2 each.  The object is to purchase from the present owners all their interest in mineral licences 4821 & 4998, containing 80 acres each and located on the Bundaleer Run  about one mile north of the River Broughton.  The present owners have found a lode of high percentage ore, needing only the outlay of capital to develop the find.  The location is only 25 miles from the Farrell’s Flat railway station via a level road.  Captain Dunstan and Mr Thomas Pascoe have inspected the site and endorse its development.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

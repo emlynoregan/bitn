@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Working conditions. Ed. on the need for a half day off for shop assistants. Urging a Storekeepers' Assistants' Association. There has been a half day holiday each week in Mt Gambier for three years and it works well. Also surely earlier closing on Saturday nights is warranted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

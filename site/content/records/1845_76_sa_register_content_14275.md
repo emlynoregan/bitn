@@ -30,4 +30,4 @@ G.S. Kingston inserts an advertisement accepting ‘numerously-signed and flatte
 
 John Clark inserts an advertisement saying he will present himself for election to the House of Assembly ‘not so much to represent the Burra and Clare as to strike high for the political and social elevation of the working man’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

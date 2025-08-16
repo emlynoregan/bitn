@@ -51,4 +51,4 @@ Thomas Long, labourer: - Was on my way back to Farrell's Flat from Terowie after
 
 Edmund Alexander Jeffrey passed the hotel at 1.30 a.m. and saw neither fire nor a light. Henry Walker lives nearby and saw fire coming from the hotel windows at about 3.00 a.m. There were several other witnesses including the police, but they added little of significance. While it was clear that suspicion clearly pointed at some action by Thomas Long there was no clear evidence and the verdict was that fire started in the upper storey, but there was no evidence to show how it originated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

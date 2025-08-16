@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 J.A.S. Bagg, holder of the Broken Hill-Adelaide cycling record, has done the 100 miles Burra to Adelaide in 6 hours, unpaced.  He is now inspecting the roads to Melbourne and will try to lower the 51 hours 23 mins for the 563 miles, held by W. Knox, in September if the roads are in a reasonable shape.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

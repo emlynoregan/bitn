@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church farewelled Rev. J.G. Wright and Mr Burrows last Wednesday evening.  The former goes to Adelaide and the latter to Dawson as a Home Missionary.  At a tea meeting a purse of sovereigns went to Mr Burrows and the ladies gave Rev. Wright a small sum to procure a memento of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

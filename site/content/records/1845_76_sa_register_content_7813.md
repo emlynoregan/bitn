@@ -44,4 +44,4 @@ Apply at the Office of the SA Mining Association in Rundle Street, Adelaide; or 
 
 Henry Ayers, Secretary, Adelaide 29 January 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

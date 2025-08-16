@@ -28,4 +28,4 @@ Editorial on Women’s Franchise
 
 The proposal was, from Dr Stirling, that women who had the same qualifications that men needed to vote in the Legislative Council, could vote for both houses.  The editor thought that this was to introduce a silly inequality, but also that this was not the time (in a depression) to raise the question of female suffrage.  Theoretically, he says, nothing could be raised against female suffrage, though he does raise a number of what he sees as practical problems.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

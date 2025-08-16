@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Charley Grow again fined for the old problem of going around the same corner in Aberdeen too fast – ‘cost 20 rides to and from the railway station’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

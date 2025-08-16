@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr T. Kitchen was given a presentation at the Burra Institute Lodge Room on behalf of the Lily of the Valley Tent for services rendered, on the eve of his departure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

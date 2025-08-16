@@ -33,4 +33,4 @@ Mr Hutson protested to the closing of an old road past his place but the objecti
 
 The Town Clerk pointed out that there was a balance remaining in the hands of the Govt. out of the vote for the Kingston Street Bridge and that Mr Morris, the surveyor, had said the Corporation must pay for the wing walls as all had been spent. The Town Clerk is to apply for the amount of the money expended by Council less the Govt. grant. There have been complaints about overcrowding in the town's cabs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

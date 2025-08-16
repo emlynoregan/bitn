@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 George Ramhit, cook at Mt Bryan Station was charged by Frederick Page, labourer, with assault.  After evidence of assault by both parties and a claim from Ramhit that his assault was in self defence, the court rules that it was indeed self defence, but he had used unnecessary violence and fined Ramhit £1 + 15/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

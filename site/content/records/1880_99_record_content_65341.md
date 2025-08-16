@@ -34,4 +34,4 @@ The results of boring are most satisfactory proving the continuance downwards of
 
 The chances of striking a rich portion of lode in a single bore are slight.  It is recommended that the existing bore, now at 1,400’ continue to 1,500’.  The second bore is recommended for the east side and as near the open cut as practicable to try for the continuation of the ore bearing body worked there.  I need a surface plan of the site before fixing a definite site.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

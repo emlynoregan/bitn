@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Rabbits: Apoinga Council reduced the bounty on rabbit scalps to 1/2d - in a recent month 23,398 had been received!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

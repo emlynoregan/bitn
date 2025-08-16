@@ -32,4 +32,4 @@ On Weekdays a train for Adelaide will leave Broken Hill at 5 p.m.
 
 The 5.30 a.m. Terowie to Broken Hill train is discontinued as is the 6.22 a.m. Broken Hill to Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

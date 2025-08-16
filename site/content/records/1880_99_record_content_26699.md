@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School anniversary services on 6 Nov. were very successful and so was the tea meeting.  The Service of Song was repeated last Sunday to a good congregation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

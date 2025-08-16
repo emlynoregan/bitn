@@ -34,4 +34,4 @@ Obituary.  At Mr Fuss’s house near the Burra Railway works on Thursday 21 July
 
 [Henry Edmunds died 21 July 1870 near Kooringa aged 42.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

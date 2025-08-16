@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The ‘Erratic Correspondent’ writes on the Great Strike.  He is for socialism, but not of the type advocated by mobs destroying property etc.  He supports Mr W.W. Champion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

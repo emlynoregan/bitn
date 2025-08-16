@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Broken Hill.  Reports from the new manager of Broken Hill Mines, imported from America, suggest a very bright future for the mine with at least 700,000 tons averaging 32 oz of silver plus deposits of lead and other minerals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

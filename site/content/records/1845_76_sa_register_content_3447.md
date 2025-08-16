@@ -39,4 +39,4 @@ I write to try to arouse then to stir themselves to supply the funds necessary f
 
 Mr & Mrs Adams threw a New Year party for upwards of 200 Sunday school pupils with roast beef, plum puddings, tarts and other delicacies, in the grounds of J.B. Graham Esq.’s Prospect House last Wednesday.  Afterwards about 150 adults, who were also invited along to witness the occasion, were entertained with a cold colation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

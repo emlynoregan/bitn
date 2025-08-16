@@ -59,4 +59,4 @@ Dashwood was not prepared to give a cause of death without an autopsy and the in
 
 [See also item at 2 September 1873.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

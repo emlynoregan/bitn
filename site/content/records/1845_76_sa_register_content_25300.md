@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The District of Black Springs.  Following memorials from the Councillors and 42 ratepayers of the District of Black Springs and from 18 residents in the Hundred of Apoinga and from 10 German residents in the same Hundred, praying that the Hundred of Apoinga be added to the District of Black Springs, the new District will be called Black Springs and Apoinga.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

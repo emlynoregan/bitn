@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kooringa Primitive Methodist Church. Tenders are called for the substantial renewal of the building. When completed the changes will make it seem like a new building, at least from the outside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

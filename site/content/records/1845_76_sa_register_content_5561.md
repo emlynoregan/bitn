@@ -39,4 +39,4 @@ The Patent Copper Company’s office is in King William Street in Waterhouse’s
 
 There are no local Directors.  Notes and money orders issued at the works in Kooringa are repaid on presentation at the office between 10 and 3.  Manager; Gregory Seale Walters.  Superintendent at the works; Thomas H. Williams.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

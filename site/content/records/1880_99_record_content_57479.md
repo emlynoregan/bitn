@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The writer wonders if the Council expects by this means to get more or less income.  Surely the former, as bonds and coupons amounting to £215 will have to be paid this year.  The amount owing on the general account is £645 and the last instalment of £205 is due by July 1897.  It would make no sense to reduce rates for 1896 and then have a special levy in 1897 of double the amount.  He also wonders what sort of job they would get done at the sweatshop rate of £15 as suggested by Cr Hardy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

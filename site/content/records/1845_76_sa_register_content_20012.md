@@ -36,4 +36,4 @@ Inquest/Obituary.  August Fischer, a miner of intemperate habits met a friend na
 
 [August Fischer died 9 December 1866, Kooringa aged 52.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

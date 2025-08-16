@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The mayor asked Cr Rabbich if he would, by the indulgence of Council, explain why he left the Chamber so abruptly at the special meeting of Council the previous week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

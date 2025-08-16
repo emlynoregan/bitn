@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Blue Ribbon Army.  The first meeting was last Saturday in Market Square, but just as a large crowd assembled a strangely dressed man with a large torch lit on either side of him drove past in a trap and after repassing he stopped at the southern end on the Burra Hotel, drawing away two thirds of the crowd.  The after meeting in the Primitive Methodist schoolroom saw only a small attendance as a consequence.  There were interesting addresses, a few selections from the brass band and twelve pledges were taken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

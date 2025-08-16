@@ -29,4 +29,4 @@ Editorial on the response in Australia to the campaign in Sudan.  On balance it 
 
 The line is general that if there were a reason to fight then South Australia would be ready to a man to defend the honour or integrity of the empire, but in this case the cake is not worth the candle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

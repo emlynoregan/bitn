@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr A.J. Stewart of Adelaide will deliver an address at the German Chapel, Redruth, on 31 July at 7.20 p.m.  Bring your Bibles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

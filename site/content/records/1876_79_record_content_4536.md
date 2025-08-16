@@ -30,4 +30,4 @@ The ironwork for the new bridge is now expected in early October.
 The rent paid by the Corporation at the Inst. has been lowered to £20 p.a. 
 Tenders called for the £400 bonds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

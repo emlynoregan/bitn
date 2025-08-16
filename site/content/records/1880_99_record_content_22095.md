@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Petersburg-Terowie 40 & 23 for the loss of 3 wickets defeated Aberdeen 39 & 23.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

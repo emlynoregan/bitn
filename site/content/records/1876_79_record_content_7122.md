@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 SAMA has declared a dividend of 10/- a share: the first dividend declared for 7 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

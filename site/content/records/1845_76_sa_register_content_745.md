@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Mines: There is a description of the Cornish Consolidated Mines situated about three miles from Redruth in Cornwall and some very speculative comparison with the Burra Burra operations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

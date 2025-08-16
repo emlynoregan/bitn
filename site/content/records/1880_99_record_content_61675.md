@@ -35,4 +35,4 @@ Several shops were open to 9 p.m. on New Year’s Eve.
 
 On New Year’s Day there was the usual Wesleyan Picnic at Koonoona and numerous private picnics in the country around the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

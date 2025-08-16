@@ -31,4 +31,4 @@ A correspondent asks the paper whether the Burra Creek belongs to the SA Mining 
 
 The paper replies that to all intents and purposes all of it within the Special Survey belongs to the SA Mining Association or the Princess Royal Proprietors.  Under the Waste Lands Act the Government reserves the right to make roads, bridges and canals.  The Government is hardly going to attempt to construct a navigable canal along the Burra Creek or to construct a road along its sinuosities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

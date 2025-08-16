@@ -25,4 +25,4 @@ South Australian Mining.  (Editorial)
 
 [The editor comments on the item immediately above.  He considers the writer has shown great shrewdness and intelligence.  And ‘there is unfortunately too much truth in [his] sarcasm’ when he says [mines were abandoned as unprofitable, because shiploads of malachite and red oxide were not found above the water level.]"]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

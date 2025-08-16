@@ -29,4 +29,4 @@ Advt.  On 9 August a quantity of clothing and one Burra Mine Advice Order, No. 4
 
 W. Hancock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

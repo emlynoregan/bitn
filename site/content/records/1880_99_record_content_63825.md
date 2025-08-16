@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy made a short trip to WA and then left Burra on Christmas Day 1896 for a trip to the MacDonald Ranges and he has now arrived home last week after 15 months journey.  There follows a ¾ page description of his journey and impressions of Central Australia and its mineral prospects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

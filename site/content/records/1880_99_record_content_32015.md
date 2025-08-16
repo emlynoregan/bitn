@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 World’s End Irrigation.  Mr Holder has obtained a promise that the Commissioner of Public Works will inspect World’s End soon to consider a water conservation scheme.  Consequently a party of seven Burra gentlemen set out at 6 a.m. this morning to inspect the place and find the most likely spots.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

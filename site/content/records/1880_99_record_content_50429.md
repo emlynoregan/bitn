@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Baldina Plains School has been closed.  For some time 15-20 students have been attending and as the nearest school is some miles away the children cannot without difficulty, if at all, get to it.  We hope the Burra School Board of Advice will be able to get it reopened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

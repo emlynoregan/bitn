@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  The late Mrs Bock carried on a business in fancy goods in Market Square for many years.  She was a resident for 26 years and was mother-in-law to Mr George Dawson, a long-time manager of this office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

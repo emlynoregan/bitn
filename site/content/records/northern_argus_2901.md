@@ -30,4 +30,4 @@ Obituary.  Mrs Feaby Mickel died recently.
 [Born Feaby Reilly 21 July 1892 Terowie.  Married Andreas Rudolf Mickel 1918.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

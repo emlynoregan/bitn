@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Copperhouse School.  At a recent examination the average number of marks scored in all subjects was 94 which is 3% higher than last year and is much to the credit of Mr T. Nevin.  [Corrected in the next issue to 92.7%.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

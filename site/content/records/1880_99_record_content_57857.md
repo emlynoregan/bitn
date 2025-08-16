@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 8th race for the season was from Yarcowie on 31 July.  Mr J.A. Pearce’s birds came in first covering the 31 miles 656 yds in 41 mins at 1342 yds per min.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

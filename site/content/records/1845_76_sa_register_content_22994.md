@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 At Whyte Park on 16 December 67 wagons with harness, materials, stores, weighbridge, implements etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

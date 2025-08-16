@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 ‘Burra’ writes in reference to the death of Pat Duguller suggesting that the hard to read message scratched on the bottle may have read ‘met dogs fate’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

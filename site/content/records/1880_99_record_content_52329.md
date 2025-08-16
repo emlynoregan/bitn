@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 With pleuropneumonia around Cr Linkson was concerned to find out whether all meat killed outside the Corporation area is inspected.  To be investigated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

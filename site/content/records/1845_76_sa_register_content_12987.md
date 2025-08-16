@@ -31,4 +31,4 @@ The sale of A.V. Solomon’s stock realised rather more than tenders had suggest
 
 The telegraph line from Adelaide to Clare will be opened on Friday and the link to Kooringa will follow next week.  The contractors have commenced the building in Kooringa and are progressing rapidly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Having read thus far the reader becomes aware that this article is no more than an advertisement for Dr Williams Pink Pills.  This form of advertising was a common subterfuge of the time, though its effectiveness must have been reduced by the frequency of the repetition of the same advertisements.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ The SA Mining Association Directors left Burra on Friday 30 April to travel to C
 
 Mr Burton and his circus have left Burra for Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

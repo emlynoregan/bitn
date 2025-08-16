@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  Gainer’s and Simmons’ rush has not yet turned out according to prospects.  New ground has been opened about a miles west of Gainer’s, but the gold was not payable.  A few are still working on Coglin’s Creek, all of whom are making a living.  At present diggers number about 25.  There are two parties prospecting besides the Government party.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Redruth Wesleyan anniversary was a decided success on Sunday & Monday last. Despite wet weather the tea was well attended and the chapel was well filled for the public meeting. The debt was £500 and £60 was raised. The trustees expect to pay off £50 while meeting interest and current expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

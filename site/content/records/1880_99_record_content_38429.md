@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church quarterly meeting revealed there were 108 members.  There had been 18 removals in the quarter.  Rev. R.M. Hunter was invited to stay another year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Railway Commissioners have carefully considered the railway crossing suggestions recently made and have decided against adopting any of them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

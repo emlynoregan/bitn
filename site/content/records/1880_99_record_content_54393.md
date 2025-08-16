@@ -59,4 +59,4 @@ The Council received legal advice that it should have filled all vacancies arisi
 
 ‘At the last meeting of the Council Councillor Walsh, one of the straightest, conscientious and peaceful men that has ever sat in the Burra Town Council, intimated that he would not be in the Burra Town Council next year.  Now North Ward ratepayers, be loyal to him, who has been loyal to you, and induce Councillor Walsh to alter his mind.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

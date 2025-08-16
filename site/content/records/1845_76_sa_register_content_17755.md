@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Storekeepers are wondering if the Government will be as liberal in their terms to the squatters in renewing leases as the SA Mining Association are with their tenants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

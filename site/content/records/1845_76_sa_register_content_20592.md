@@ -35,4 +35,4 @@ Mintaro can now expand as Mr Peter Brady has subdivided a quantity of land into 
 
 The Wesleyan Chapel is about to be opened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

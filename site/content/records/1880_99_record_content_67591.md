@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The match last Saturday was fired over 200, 500 & 800 yds and Clare 560 defeated Burra 502.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

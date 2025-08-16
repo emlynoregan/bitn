@@ -45,4 +45,4 @@ The Second Inspector stated that Mr Stephens intended applying for a pupil teach
 
 It was mentioned in the course of conversation that the Board would in every instance require that the pupil-teacher receive the full benefit of the extra allowance, his services being considered a sufficient compensation to the master for any instruction imparted to him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 St Mary's. 9 Sept. the Bishop of Adelaide confirmed 20 candidates at St Mary's. 16 were females.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

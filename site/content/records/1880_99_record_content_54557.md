@@ -27,4 +27,4 @@ Pt Pirie Court.
 
 One of the local businessmen who was out of pocket when Fillis’s Circus failed to appear and also refused to pay its debts, bought up other accounts owed in the town and so got a large enough sum to procure a warrant.  He sued them in the Pt Pirie Court and won the full amount.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

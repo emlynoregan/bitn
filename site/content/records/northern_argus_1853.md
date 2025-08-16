@@ -34,4 +34,4 @@ Burra Show for the Jubilee Year placed an emphasis on wool and merino sheep.  [A
 
 A video and historical display from On the Sheep’s Back were features along with a popular shearing competition.  Brian Riggs, a Life Member of the society, opened the event.  Andrew McInnes won the blade shearing competition with Phil Venning 2nd and Peter Stockman 3rd.  Kelvale Stud won Supreme Champion Sheep and W.B. Ashby & Sons entered the Grand Champion Ram.  Jim Kelly and his bullocks were another highlight.  [Results are summarised in a little over 2 columns.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

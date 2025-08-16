@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Salvation Army Self Denial Fund raised £20-1-0 in the week 13-19 October, with some more yet to come in.  (Across the colony part of this fund is used to finance a pension scheme for officers who are past their days of active duty.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

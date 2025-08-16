@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  At the opening match for the season last Wednesday 11 of the Burra Club 134 defeated 19 Muffs 68.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

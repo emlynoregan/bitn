@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Redruth Post Office.  On the evening of the 12 January an attempt was made to set fire to the Redruth Post Office.  When Mr Davey, the postmaster, emptied the letter receiver at 10 o’clock he found a scorched pill-box full of ashes and a box of matches.  Police are investigating.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

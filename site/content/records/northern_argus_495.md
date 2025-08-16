@@ -28,4 +28,4 @@ Weather.  A storm struck Burra on Sunday 1 December.  About 50 points fell in ab
 
 On Friday 6 December a ferocious storm hit Burra about midday causing some localised flooding.  At Baldina Station 80 points fell in ten minutes, after which the rain gauge failed.  Hail, some of it up to golf ball size accompanied the storm.  Trees within two miles of the homestead were stripped of about half their foliage.  Creeks rose rapidly.  At the homestead many windows were smashed and paint was stripped from doors.  A car had its windscreen and windows broken and the bodywork dented.  The eastern road was blocked till about 5.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

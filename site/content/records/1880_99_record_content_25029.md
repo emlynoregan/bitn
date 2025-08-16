@@ -29,4 +29,4 @@ Obituary.  A child aged 13 months died at the Burra Railway Station on Tuesday m
 
 [From the registration of death he was Hugh Bismark White, the son of Edward White, a schoolteacher of Hallett.  The cause of death was given as teething.  Born 19 February 1886]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

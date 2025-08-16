@@ -27,4 +27,4 @@ Provided the new discoveries are taken up in a bona fide and not a speculative s
 
 [The article then goes an at length to explore the ways in which the wealth of the whole colony would be increased by a successful mining operation and how it would attract European and British capital to other ventures in the colony.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 The writer also urges the utmost care in the selection and training of telegraph officers, who must be made to understand that secrecy is indispensable to their tenure of office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

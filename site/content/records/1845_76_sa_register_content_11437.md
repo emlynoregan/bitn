@@ -30,4 +30,4 @@ Government Grant to Mechanics’ Institutes
 
 The Government has recently made the offer of a grant to Societies whose last annual subscription list amounted to £100.  We initially said that the Burra Burra and the East Torrens Institutes were likely to be the only ones able to avail themselves of this offer.  We are glad to correct this by adding Magill Institute to the list.  Magill has applied and received it; becoming the first country institution to turn the offer to practical account.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

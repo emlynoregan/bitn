@@ -26,4 +26,4 @@ Burra Oval.
 
 Trees continue to grow and the new name was bestowed by vote of Council and became formal on the occasion of the Oddfellows Picnic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

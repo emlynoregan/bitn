@@ -34,4 +34,4 @@ The Town Clerk will notify those with water rates in arrears that legal proceedi
 
 Waterworks accounts for the last four years show an income of £2,888-4-11 and expenditure of £2,878-18-1.  This makes a profit of just £9-6-10, which would have been a substantial loss except for the sale of water worth £89-5-6 to the SAR in 1896.  The present lease expires at the end of the year and especially in view of the above there will need to be considerable concessions before the Council would consider entering into a new lease.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

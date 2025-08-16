@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Travelling Stock Routes.  Messrs Lane, Coglin and Holder are in touch with Pt Augusta, Adelaide and elsewhere and a large deputation will soon seek to change the Commissioner’s mind on stock routes and reserves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

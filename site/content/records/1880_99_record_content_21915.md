@@ -26,4 +26,4 @@ Entertainment.  The editor reported on Mr Roach’s recital, which was well done
 
 A second review by a ‘critic’ was less favourable, though generally approving and regretted that the small audience, estimated at about 70, did not cover costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

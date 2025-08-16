@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 There is a shortage of shearers for this season and some stations have only just commenced operations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

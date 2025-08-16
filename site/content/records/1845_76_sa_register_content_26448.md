@@ -35,4 +35,4 @@ James Reed, G.C. Knight, Charles Morris, commercial travellers of Adelaide write
 
 This road is the main one from Burra to the north and northeast and carried the mail to Jamestown, Port Augusta and Blinman.  It also carries the goods for and the produce from the north and northeast.  It ‘is the most ill-kept of any in the colony, and is a crying shame to the South Australian Government.  Accidents frequently occur, teams of 10 or 12 horses are continually being “stuck,” and it often happens that passengers by this mail have to get out and help to push the coach along.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

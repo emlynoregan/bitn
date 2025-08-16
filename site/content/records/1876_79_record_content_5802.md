@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Pedestrianism. A local person ran recently from Burra to Hallett in 3½ hours at an average of 6 m.p.h.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

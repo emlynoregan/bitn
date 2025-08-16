@@ -33,4 +33,4 @@ Fraud.  John Newcomb, a.k.a. Charles Hope, (35) has been found guilty of obtaini
 
 On 6 Jan. Wendt got a letter on letterhead of Charles Hope, Solicitor, Kooringa, and signed Chas. Hope, requesting him to forward items of jewellery.  Hope replied saying he had not returned the rejected goods, as he would soon be in Adelaide.  On 13 Jan. he called on Wendt and ordered more jewellery saying he would pay next day.  He did not and it was subsequently found his name was not on the roll of solicitors for the colony.  Is defence was that he was well known in Kooringa as a solicitor, had actually practised there, and therefore there was no false pretence in regard to his name.  The judge allowed the matter to go to jury, but the Full Court will have to decide whether he was right to do so as the Full Court will rule on whether there was a fraudulent misrepresentation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

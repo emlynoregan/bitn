@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The first race of the season was from Ulooloo on 24 April when 28 birds of 11 owners competed.  Mr J. Drew obtained the best results.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

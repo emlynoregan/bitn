@@ -47,4 +47,4 @@ Mr Tomkinson then moved that the Directors be empowered to sell the properties a
 
 Mr Glyde MP asked what the probable amount that could be so realised was and Mr Ayers said in round numbers it was between £5,000 and £6,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

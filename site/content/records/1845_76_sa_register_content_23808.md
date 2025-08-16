@@ -36,4 +36,4 @@ The United Friendly Societies held a picnic in Mr Need’s paddock four miles so
 
 W.H. Vivian cleared 4 ft 7 inches to win the high jump and T. Threadgold won the hammer throw.  E. Topperwein came first in the blindfolded men’s wheelbarrow race, with A. Schmidt winning the similar event for boys.  There was a three-legged race and hunting the pig with a greasy tail.  A band from Gawler played for dancing.  W.F. Coglin umpired the sports and attendance was 500-1,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

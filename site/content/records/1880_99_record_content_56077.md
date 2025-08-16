@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa bible Christian Church holds its 35th anniversary on Sunday 24 February when the Rev. Thomas Allen will preach twice.  The service of song in the afternoon will have connective readings by Rev. E.J. Kemp, the circuit minister.  The tea meeting is on Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Benjamin and Susan Clegg, alias Susan Charlton were charge with incest, their be
 
 Mary Ann Brown, mother, gave evidence that Susan married Mr Charlton and had four children by him.  Her husband left her and Benjamin and Susan had then lived together at Leasingham.  Others gave evidence of their living together as man and wife.  They were committed for trial at the next Criminal sittings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

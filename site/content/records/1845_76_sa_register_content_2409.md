@@ -29,4 +29,4 @@ Temperance Society in Burra
 
 The second meeting of the Teetotallers was held in the Wesleyan Schoolroom on 12 August and was chaired by Rev. J. Harcourt.  It was well attended.  Mr Tregay, among other speakers, gave an elegant address.  About ten new members, mainly from the young, joined the society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

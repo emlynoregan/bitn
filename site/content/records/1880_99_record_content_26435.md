@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Cake Fair exhibits were very good with a very large variety of all manner of desserts as well as cakes.  Vocal and instrumental items accompanied the display.  At 9 o’clock the items were auctioned.  The door takings amounted to £5.  Mrs Both won ten first prizes and the bracelet that was offered for that distinction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

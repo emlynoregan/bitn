@@ -34,4 +34,4 @@ He had just passed through the court after squandering thousands of his creditor
 
 [The blistering attack goes on for c. 1½ columns and the outrage is not principally about the money mentioned, but seems to have concerned a libel case over matters too indelicate to specify, but clearly well known to the readers.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

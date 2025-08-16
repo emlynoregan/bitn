@@ -29,4 +29,4 @@ Crown Lease No. 7745 of section 228, 233, 236, 237, 244, 245 & 246 in Hundred of
 
 Term of 21 years from 22 May 1894.  With pine house of 4 rooms, 11 miles east of Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

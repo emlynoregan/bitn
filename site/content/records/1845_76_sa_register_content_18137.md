@@ -34,4 +34,4 @@ Accident/Obituary. Richard Crews was riding from Burra towards Mt Remarkable on 
 
 [Richard Crews died 6 January 1865 between Kooringa and Booborowie, residence Melrose aged 29.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

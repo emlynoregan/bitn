@@ -36,4 +36,4 @@ The telegrams sent between Captain Roach and Henry Ayers are printed.
 The first at 9.40 from Roach says Roach discovered the fire in Stocks’ and Graham’s Shafts when he rose at 6 a.m.  He sent a captain and men below and they discovered fire at the 25 fathom level. He advises they were doing their best to extinguish the fire and he hopes no lives are lost.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

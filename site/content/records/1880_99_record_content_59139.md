@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 On 29 December there was a service in the Lecture Hall in aid of the Sunday school.  New Year’s Day saw the usual Sunday school picnic at Sod Hut on grounds kindly lent by Mr W.J. McBride.  Cabs and trolleys conveyed the children.  Dinner and tea formed no inconsiderable part of the day and an entertainment afterwards drew a splendid gathering to the Lecture Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

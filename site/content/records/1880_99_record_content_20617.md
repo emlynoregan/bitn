@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Bickford, the wife of Rev. James Bickford, who was the Wesleyan minister here for three years, has died aged 72.  [Fanny Bickford died 7 December 1885 at Parkside]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 And on Friday Dr Dashwood's horse bolted at the Mine Bridge, went up hill at White's house and he was knocked off by the clothes line.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

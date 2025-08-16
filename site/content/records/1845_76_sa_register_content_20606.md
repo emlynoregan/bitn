@@ -47,4 +47,4 @@ Men are still at work at the Barrier Ranges, but there is no news of actual gold
 
 Miners are leaving Burra daily in search of work, which has been rather difficult to obtain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

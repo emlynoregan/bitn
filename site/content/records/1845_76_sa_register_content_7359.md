@@ -52,4 +52,4 @@ That within three months the lessee shall provide such particulars as the Govern
 
 That the land be subject to a rent of 2/- per acre per annum and that the continuance of the lease be dependent upon the constant employment of at least three men in bona fide mining for every 80 acres of the land leased.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

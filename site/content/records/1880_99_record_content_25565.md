@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Samuel Gray of the Primitive Methodist manse, Kooringa writes a letter defending the Escaped Nun’s right to be heard and judged on her own merits.  Allow the public to form their own opinions: the Institute committee having no basis on which to refuse her the use of the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

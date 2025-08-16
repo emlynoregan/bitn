@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Law & Order? A local J.P. is reported to have shot a bustard in the town at about 5 p.m., arousing the concern of the writer about the discharging of firearms in a township, and setting a fine example.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

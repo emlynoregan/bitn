@@ -61,4 +61,4 @@ The coroner was satisfied that there seemed no doubt as to the cause of death an
 
 [Joseph Rowe died 8 January 1861, Kooringa aged 25.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

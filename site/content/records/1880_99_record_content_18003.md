@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. Father Kreissl was attacked at the Jamestown railway station on Monday by a man being sent to Adelaide Lunatic Asylum and his face was badly bruised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

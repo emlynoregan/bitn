@@ -31,4 +31,4 @@ Total income		£363-15- 0
 
 Additional guarantees from people not yet requiring water have been made for £50-4-0 and further extensions are contemplated.  I am confident that further extensions will add little to the expense, but will increase revenue.  Mr Jobson, the Superintendent of the Works has done much to keep down the cost on the capital account.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

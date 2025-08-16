@@ -33,4 +33,4 @@ Salaries were set as for last year.  The resignation of Mr J.R. Gray, as inspect
 
 The services of Mr Stock will be obtained to assist Mr Packard in the case of Pearse v. The Corporation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

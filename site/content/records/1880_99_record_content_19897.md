@@ -30,4 +30,4 @@ St Blazey?  Someone asks where in the Hundred of Kooringa is the Township of St 
 
 [This is presumably a mistake for St Blazey, the subdivision of section 73 to the immediate south west of Westbury which itself adjoins Copperhouse on the south.  St Blazey never seems to have had buildings and Westbury had a Wesleyan Church and at least one house.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  ‘Last Sunday’ [probably the Sunday before since he was the subject of a sermon ‘last Sunday’.] Rev. C. H. Spurgeon, the great Independent Preacher, died aged 58.  He was born 19 June 1834, was converted to Methodism by a Primitive Methodist preacher when 15, and began preaching in 1851.  He was pastor at Waterbeach, near Cambridge in 1854 and moved to the Baptist Church in Southwark.  In 1861 the Metropolitan Tabernacle was erected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

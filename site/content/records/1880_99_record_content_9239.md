@@ -28,4 +28,4 @@ Editorial on the Salvation Army.
 
 The Blue Ribbon army is an allied movement originating in the USA.  On Saturday night last Burra had the opportunity of judging for themselves something of the nature of the Salvation Army work for a large open-air meeting was held in Market Square in their usual style.  [The tone of the article suggests that it was the first such meeting in Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

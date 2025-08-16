@@ -46,4 +46,4 @@ having it weighed
 
 Various persons were also fined for depasturing stock on Crown Land and others for burning stubble before 2 p.m. or for having fewer than 4 people to control the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

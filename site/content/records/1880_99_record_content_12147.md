@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Alfred Schulz charged with being a habitual drunkard (three charges within 12 months) and sentenced to 1 month in jail from the date of his next conviction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

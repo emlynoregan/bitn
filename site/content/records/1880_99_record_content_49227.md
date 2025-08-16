@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. Daddow’s address A Screw Loose!  Where? is summarised.  There were many screws loose in society, but this address considered those in the body politic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

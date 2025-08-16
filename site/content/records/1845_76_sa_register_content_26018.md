@@ -37,4 +37,4 @@ At 30 September they were employing 233 men and boys and 5 officers.
 
 ‘In conclusion the Directors state that although they have reduced the expenditure to the lowest possible point, there is better prospect of obtaining profit in the future without the assistance of a much larger capital to prosecute deep workings that they can expect to command.  They have therefore communicated with the London Board of Advice to ascertain their view as to the propriety of either letting the property or submitting it for sale and winding up the association. An answer is expected by the next or following mail, when an extraordinary meeting of the shareholders will be called to take such steps as the nature of the reply may render necessary.  It cannot fail to excite general regret that the once flourishing Burra Burra should have sunk into so unsatisfactory a position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

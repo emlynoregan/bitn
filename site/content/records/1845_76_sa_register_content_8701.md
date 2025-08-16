@@ -32,4 +32,4 @@ Presentation to T.W. Powell
 
 In the week prior to Dr Hill’s presentation, Rev. Pollitt, & Messrs Stanbury, Mackay, Bruce & Drew waited upon Mr T.W. Powell, the postmaster at Kooringa and in consideration of the general, indeed almost universal satisfaction for the manner in which he had fulfilled his duties as postmaster, they presented him with a purse of 30 guineas.  They only wished that the sum had been larger.  There were 40 signatures of subscribers attached to the address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes condemning the move to dispense with a dayman and overseer of works.  The present overseer has over £30 worth of Corporation tools etc. in his care; much of it since the town was incorporated.  Without a regular work routine things in town will soon become disarranged.  To try to spend £300 of main road money and £200 of local outlay without an overseer is asking for trouble.  The present man knows every ‘alinement’ [sic] and survey peg and can do any work allotted - still it is the principle even more than the man.  It is a penny-wise pound-foolish policy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

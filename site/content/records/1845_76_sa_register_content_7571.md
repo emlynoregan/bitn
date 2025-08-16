@@ -36,4 +36,4 @@ Another letter from the diggings says the writes found the diggings nothing rema
 A hillside covered with holes in about a quarter of which parties were working, some with luck, but most without success.  I have met party after party who have worked several different holes without getting an ounce.  One party had spent £90 without getting anything.  As to the tin dish-men getting ¼ oz per day, very few managed that and they were those in front of cradles from good holes.  The party I am with from Adelaide has not made an ounce yet, though there are seven of them.  The work is hard and unhealthy and about one third of the parties spoken to have paid their way.  Some have sunk holes to 15 ft and not found 10/- worth.  This place is now nearly deserted; about 3,000 or 4,000 left last week for Mount Alexander.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Hospital Day Care Centre has a luncheon and fashion parade at the Burra Sports Complex on 24 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

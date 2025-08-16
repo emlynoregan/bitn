@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Musical Union held its first annual meeting at the Institute on 17 Dec. with 35 ladies and gentlemen present. J.D. Cave, President, presided. It was proposed that for 1879 at least one concert should consist of an entire musical work. A season ticket to be 10/6. Various proposals for the year are then detailed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

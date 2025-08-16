@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A farmer at Baldina reaped 6 bushels per acre the day before the storm and 6 bushels for the whole day following it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

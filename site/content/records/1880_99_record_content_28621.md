@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Faust Family will give an entertainment at the Institute next Thursday and Friday.  The company embraces music, athletic and tumbling acts, comic character singing clowns, dancing and musical pantomime.  Herr Von Der Mehden is a cornet soloist and Daisy Faust is an infant prodigy with serio-comic songs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

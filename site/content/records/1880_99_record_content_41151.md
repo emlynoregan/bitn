@@ -61,4 +61,4 @@ The mayor said that could be discussed later.
 
 Cr Rabbich said the matter required serious consideration.  Cr Sampson wanted him to be a party to having his explanation expunged.  He had been badly treated, insulted and put to expense.  He had been persecuted for telling the truth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

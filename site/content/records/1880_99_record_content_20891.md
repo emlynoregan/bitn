@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 John Dunstan Jun. writes to the Hon. Dr Cockburn, Minister of Education, urging a systematic search of the country east of Burra for minerals in this time of unemployment.  Significant discoveries could ease the burden ‘by absorbing some of the surplus labour’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

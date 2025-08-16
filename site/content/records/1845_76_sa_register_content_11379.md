@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Weather in Kooringa has been very hot for about eight days, though not so hot as we hear from Adelaide.  In Kooringa it reached 104½°F and the average in the middle of the day for the rest of the period was 100½°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

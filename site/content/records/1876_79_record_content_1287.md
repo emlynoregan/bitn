@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 The minister had a circuit of 700 square miles, travelled 3000 miles a year, made 1500 pastoral visits and conducted 500 services. 3 new chapels were planned - Terowie, Yarcowie and Seven Mile Scrub.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ A Visit to the Antipodes by ‘A Squatter’ has been recently published in Lond
 
 [The work is described at some length in this report.  A long paragraph describes Adelaide before the writer describes his experiences of the mining speculation gripping the colony.  He says everyone seems to have a pocket of pebbles about which they can boast and concerning whose origins they are most secretive.  They make comments like: ‘I wouldn’t take £50 for my knowledge at the present moment.’  The writer also suggests that some of the locals are not above salting some prospective mine sites to delude would-be buyers or investors.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

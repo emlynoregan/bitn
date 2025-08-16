@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Not Cricket?  J. O’Brien writes to give the other side to the story of the Manoora match.  On arrival at Manoora not a person could be found that knew anything of the match.  Play eventually commenced at noon instead of 10.30 a.m.  At 1.30 p.m. we were told lunch was ordered at the hotel, but when we got there the landlord knew nothing of it and charged us 1/6 each for bread and jam.  As for my brother being bowled twice, the wicket keeper put the stumps clean down every time with his foot.  The continual cheating by Manoora and the foul language was disgusting.  ‘In fact the swearing became so strong I called my team off the field, hence the uproar.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

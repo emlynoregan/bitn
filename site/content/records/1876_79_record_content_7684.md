@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Gossip. There are 11/3 columns of gossip in Cornish dialect by `Cousin Jenny and Aunt Betty'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Last Sunday the Wesleyans opened their new chapel at Westbury, a rising township adjoining Copperhouse.  Rev. Lloyd of Kooringa preached morning and evening.  W.H. Wilkinson Sen. preached in the afternoon.  There was a good congregation at each service, though inclement weather doubtless kept some away.  There were tea and public meetings the following day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

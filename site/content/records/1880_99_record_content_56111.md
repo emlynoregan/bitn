@@ -30,4 +30,4 @@ Thomas Jones was tried for setting fire to grass in the Hundred of Apoinga on 28
 
 He was found guilty and sentenced to three years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

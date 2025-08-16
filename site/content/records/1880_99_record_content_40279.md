@@ -59,4 +59,4 @@ W.H. Hardy also supported the move - it had been advocated before and he pointed
 
 The whole Council was appointed a committee to draft a petition to seek the support of the District Councils of Booborowie, Hanson, Mt Bryan and Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

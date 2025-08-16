@@ -30,4 +30,4 @@ Burra Young Men's Mutual Improvement Association formed. (Wesleyan Schoolroom, K
 
 Primitive Methodist Chapel at Springbank reopened 29 Oct after 2 year closure. £27/12/- raised for necessary repairs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

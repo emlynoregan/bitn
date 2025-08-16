@@ -32,4 +32,4 @@ Instead of having a footbridge placed across Commercial Street, it is being fill
 
 The enlargement of the Wesleyan Chapel is progressing favourably and the appearance when finished will be very pleasing.  A bazaar will shortly be held to aid this project.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

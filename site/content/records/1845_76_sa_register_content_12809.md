@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The dusty traffic of copper, ore, wool and coal etc. along Murray Street has recently been heavy and without being very profitable to the street and indeed being injurious to it in some respects, so that some ratepayers are thinking of erecting toll-gates to pay for the cost of maintaining the street and of watering it in summers to keep down the dust.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

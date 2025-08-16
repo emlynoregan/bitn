@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Public School sent exhibits to the First Exhibition of the Northern Public Schools Floral and Industrial Society at the Gladstone Institute, last Friday.  The 63 exhibits earned 3 first prizes, 5 seconds and 3 thirds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Football.  The AGM was held at the Commercial Hotel Friday last.  The club has a credit balance of £3-16-0.  Elected were: F.W. Holder MP, Patron; P.L. Killicoat JP, President; E. Lockyer, Captain; G. Herbert, Vice-Captain; J. Blott, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Entertainment: Advt. - At the Miners' Arms Billiard Room Mr Herbert Roberts the Champion Thumb and Finger Player will give exhibitions on Friday evening. Tickets 4/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

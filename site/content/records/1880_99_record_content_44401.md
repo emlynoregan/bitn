@@ -84,4 +84,4 @@ Cr Linkson then moved the Council write to the editors of the Kapunda Herald, Ga
 
 [Hardy certainly filled this role for each of the named papers at some time and it is clear the others believed him to be the author: he almost certainly was.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

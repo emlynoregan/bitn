@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Agriculture.  Further useful rain has made a good start to the season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

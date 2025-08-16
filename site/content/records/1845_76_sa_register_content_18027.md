@@ -44,4 +44,4 @@ Obituary.  Mr Isaac Holder, formerly a sergeant in H.M. 96th and armourer to Cap
 
 A great many more miners left this week for Wallaroo.  Many miners complain that they cannot work underground at the Mine due to the noxious gases emanating from the decaying wood with which it is timbered.  If this is so, it should be looked into before the accumulation of fire damp in blocked passages results in an explosion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

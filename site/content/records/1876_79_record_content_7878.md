@@ -49,4 +49,4 @@ The Commissioner of Public works has notified the Council that a gong would be p
 
 The police payment issue was discussed, but not resolved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

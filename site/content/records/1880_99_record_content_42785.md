@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Saltbush.  A scale insect is infesting the saltbush, so important in the eastern country for summer fodder.  Mr Johnson Carpenter has brought in a sample from Baldina.  The bug seems very like Icerya purchasi (cottony cushion scale) which devastated the oranges in California till the ladybug (Vedalia cardinalis) was introduced.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

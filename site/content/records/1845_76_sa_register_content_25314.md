@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Burra DC.  7 August.  The SAR advises lamps will be exhibited at the entrance to the railway.  The Chairman will purchase a revolver for the Ranger.  Notice is given of a call of the whole Council for next meeting to define the duties of officers.  Specifications of Kooringa and Redruth Bridges and roads to be ready for next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

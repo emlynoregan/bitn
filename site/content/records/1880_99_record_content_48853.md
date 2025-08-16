@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Sunday afternoon Mr Hoult went to preach at Iron Mine Church and again was there in the evening for the annual temperance service.  Miss J. Fairchild presiding at the organ.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

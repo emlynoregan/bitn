@@ -33,4 +33,4 @@ Richard Barker of Bremer Mine, Callington, writes on 21 April.
 
 I draw attention to the demonstration of a boring machine at Tincroft Mines, Cambourne, Cornwall.  The Doering’s boring machine was at work at the 184 fathom level.  I suggest that this and other machinery could make mines in SA viable by saving costs.  The new Graves’ Engine Shaft at the Burra Burra Mine being a case in point.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

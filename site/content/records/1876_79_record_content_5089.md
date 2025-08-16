@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 [The Kelly Gang.] It is some time since bushranging attracted much notice, but a gang at work in Victoria has caused a large body of police to be sent to effect their capture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

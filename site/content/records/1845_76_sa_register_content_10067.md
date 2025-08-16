@@ -52,4 +52,4 @@ Mr Corey moved the circulation through the northern districts of a memorial to t
 
 A committee to draw up the memorial was elected: Messrs Maurau, Weir, Drew, Stanberry, Dawson, Genders and Corey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

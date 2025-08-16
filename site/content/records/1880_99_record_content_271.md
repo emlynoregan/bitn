@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Holiday.  There will be a holiday in Burra on Thursday afternoon on account of the Harvest Festival at St Mary’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

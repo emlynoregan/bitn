@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cricket.  At Mintaro last Wednesday on a slate pitch.  Burra’s score of 479 was the highest ever for the club and included J. Drew 183, C. Hill 116 and G. Parks 81.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

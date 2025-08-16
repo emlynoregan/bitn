@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 New Buildings. The restored Miners' Arms Hotel is almost complete and a new shop in Commercial St for Mr John Jenkin is in hand. The new church is making rapid progress.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

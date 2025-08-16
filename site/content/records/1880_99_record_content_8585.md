@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Leighton Annual Picnic, 25 December, on the flat near the township of Leighton.  Ball in the evening.  Moonlight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ Copperhouse News
 
 A few friends of temperance have been active here reclaiming drunkards, arresting moderate drinking and preserving the sober.  In this place of 40 houses there are 65 teetotallers, of whom 40 have recently signed the pledge.  On Whit Monday the Society met at the Primitive Methodist Chapel.   Mr R. Dale gave an address to an attentive congregation and a tea followed.  In the evening a public meeting was addressed by Mr Samuel Goss and also by Messrs Bellmen, Buckingham, Penrose, Berryman, Dale, Rowe and Newlyn.  At the end of the meeting nine signed the pledge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ In the next few months a large number of new hundreds will be proclaimed.  I wou
 
 [He makes an exception for Goyder – saying that he fully merits being remembered in that way.  He develops his points at some length.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

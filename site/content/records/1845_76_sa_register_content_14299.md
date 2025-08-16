@@ -34,4 +34,4 @@ On Sunday last Mr Fulford began his ministry at St Mary’s Church.  There was a
 
 This week I was shown some very promising specimens of copper from the Coroona Mine, about 25 miles north of here.  I understand a prospectus is being published for the purposes of forming a larger company by the issue of shares on very liberal terms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

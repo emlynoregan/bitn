@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Water Charges in Adelaide have been dropped to 1/3 per 1,000 gallons: vastly cheaper than here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

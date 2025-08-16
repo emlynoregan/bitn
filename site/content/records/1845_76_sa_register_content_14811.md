@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 [James Hobcroft died 20 August 1861 at Cachowla [sic] aged 28.  The paper of 30 August reported that an inquest was deemed unnecessary.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 3rd leader on the Terowie Railway.  We believe there are defects in some of the girders on the small bridges along the line, which will delay opening until after the present harvest.  This is monstrous.  The strongest representations should be made to effect an early opening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Aberdeen Post & Telegraph Office.  A deputation to the Minister of Education was told that if the savings they said were there to be made could be proved it would be done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

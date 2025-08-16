@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 White Hart Ford footbridge. Tenders received. I.W. Goss's was much the lowest and accepted (£39/19/-)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

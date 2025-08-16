@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra School.  The head teacher, Mr J.A. Kennedy, has been transferred to Glenelg and Mr Bennett from Salisbury comes here.  The School Board of Advice expressed its best wished to Mr Kennedy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

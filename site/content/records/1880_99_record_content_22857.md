@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Weather.  The wet weather seems to have caused the fall of several thousand tons of stone in Bewley’s Quarry on Sunday afternoon.  The rain has fallen since last Thursday and Burra has had at least 1.75”.  All creeks are flowing heavily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

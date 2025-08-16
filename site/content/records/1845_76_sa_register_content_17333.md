@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Fires.  Sunday last week there was a fire on Duffield & Peter’s [sic: for Porter’s] Gum Creek Run and another small one on Captain Killicoat’s purchased sections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

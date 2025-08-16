@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Ulooloo Gold.  We have seen a parcel of Ulooloo gold from Mr Thomas Bath of Kooringa.  It comprised 9¼ oz of lumpy nuggets and is one of the finest examples we have seen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

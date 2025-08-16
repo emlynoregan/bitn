@@ -33,4 +33,4 @@ Daniel O’Brien fined 5/- for being drunk in Market Square.
 
 Alfred Schutz was fined 40/- or 14 days hard labour for being drunk in charge of two horses and a cab in Market Square on 9 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. F. Richmond, who has taken charge of St Mary’s in the absence of Rev. H. Howitt, is about to move to Maitland and Rev. W. Marshall replaces him.  Rev. Howitt is expected to return in September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

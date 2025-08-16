@@ -28,4 +28,4 @@ Kooringa Telegram
 
 A half-witted boy named Morley has been accidentally shot by a woman named Bryant.  He was annoying her and she intended to frighten him by firing a cap, not knowing the pistol was loaded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

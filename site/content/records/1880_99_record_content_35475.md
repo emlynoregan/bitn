@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Henry March was charged on the information of Isaac Chivell of Kooringa with embezzling £2-13-7.  Though the case was dismissed the details go on for over 1 column.  [See also Editorial & court report XI, 948, 18 Apr. 1890, p.2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

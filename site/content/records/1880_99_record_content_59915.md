@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Leigh Creek Coal Co. offer coal for the waterworks at 18/6 a ton delivered to the Burra Railway Station.  The Engineer will be asked to report on the offer at the next meeting of Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

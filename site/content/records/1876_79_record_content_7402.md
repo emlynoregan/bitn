@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. A bazaar and sale of gifts will be held in the Wesleyan Schoolroom, Kooringa 26 & 27 November in aid of the Sunday-school building fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

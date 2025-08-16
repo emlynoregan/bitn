@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 Obituary & Inquest on Tuesday, into the death of Sarah Ann Fogarty, who had died the previous morning.  [Died 30 July at Redruth aged 18.]
 Sarah Foy, mother of the deceased, gave evidence that her daughter had had very severe diarrhoea and given birth to a stillborn child. On the Saturday night Joseph Foy was sent for the doctor to Dr Dashwood, but he wouldn’t come and Joseph then roused Dr Nesbitt who attended, They sent for a doctor at 12.30 am, Dr Nesbitt was roused at 2.00 am on Sunday morning. Dr Nesbitt refused a death certificate as he had been called so late to the case and thought she may have had typhoid fever. Dr Dashwood saw no evidence of typhus or typhoid when he saw her Tuesday, Wednesday, Thursday or Friday and never knew she was in labour or dead till Monday morning. The verdict was that death was due to natural causes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

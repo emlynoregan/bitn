@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Democrat’ writes attacking ‘Lex’ and defending his own contentions re the power of the Governor General and citing in particular Clause 5 of Part 1 and Clauses 62 & 64 of Part 2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

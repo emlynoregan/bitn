@@ -36,4 +36,4 @@ Cr West 2nd.  Cr Hardy opposed the motion until the committee appeared before Co
 
 Cr Rabbich agreed: they should not go out of their way to meet the committee – the committee should wait on the Council.  Motion lost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

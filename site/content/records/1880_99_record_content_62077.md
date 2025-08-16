@@ -35,4 +35,4 @@ Obituary.  Mrs Collins, the wife of R. Collins of Mt Bryan, has died aged 56.  S
 
 [Jane Collins born Jane Godden died 16 March.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

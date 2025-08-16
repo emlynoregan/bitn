@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  Mr Jaffrey was thrown from a trap near the railway crossing and dislocated a thigh.  The horses bolted.  Someone tried to stop them near the Bon Accord, but they ran onto a bank and threw all the occupants out:  Mrs Jaffrey, another lady and two children - all of whom fortunately escaped with a shaking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

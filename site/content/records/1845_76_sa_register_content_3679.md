@@ -59,4 +59,4 @@ Paletot coat	a short loose outer coat or cloak or a fitted jacket for women.  (O
 
 Moleskin	a soft fine-piled cotton fustian, the surface of which is shaved before dyeing.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

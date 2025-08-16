@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Theft.  While Mrs Lawler of Swansea Vale was at church on Sunday evening thieves entered her house and stole about £10, a clock and a gun.  On her return she found lights burning and parcels ready for removal, suggesting that the thieves had been disturbed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

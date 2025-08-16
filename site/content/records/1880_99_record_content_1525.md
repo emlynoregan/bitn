@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Club was raided by Constable Coleman last Friday evening.  The club has been meeting in a tradesman’s shop to play chess, draughts, cards etc.  It had been suggested that gambling was taking place, but the constable found no signs of such activity.  [A long letter received on the subject makes it clear that the informant was a ‘minister of the gospel’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘The Burra’.  An article from the Northern Argus reports on the use of the term ‘The Burra’ and says that the local people are giving up the use of the definite article.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

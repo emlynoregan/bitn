@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Races today will be held in Mrs J. Dew’s paddock, starting at 1 o’clock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

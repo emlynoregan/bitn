@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Bands.  In the last few days Mr W.J. Davey has been trying to effect the amalgamation of Davey’s Band and Wheatley’s Brass Band, but apparently the opposing band is refusing to discuss the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

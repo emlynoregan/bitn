@@ -46,4 +46,4 @@ There is also the Glen Terry Mine, situated southwest of the Burra Mine.
 
 The musical celebrity Miska Hauser has visited here, but Signor Cutolo did not, although he came as far as Kapunda.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

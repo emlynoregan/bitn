@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from E. White of Hallett in response to the editor’s considered and scientific piece on meteorology and is published in 1⅓ columns.  He urges that it should be more widely studied.  The writer seems to confuse cause and effect.  When the land is poor he says the rainfall is low.  If fertile areas were located in central Australia they would attract rain from both the south and monsoons from the northwest.  He dissents from the view that rainfall makes the land.  He also goes on to some more extraordinary ideas concerning rain increasing the heights of the hills and mountains: since decomposed rock expands and water penetrating the rock causes earthquakes, which cause the mountains to rise.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

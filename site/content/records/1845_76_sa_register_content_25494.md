@@ -32,4 +32,4 @@ Auburn to Emu Flat
 
 [There is a report of a ride from Auburn to Emu Flat.  It could be of interest if seeking information on Manoora, Waterloo, Apoinga & Emu Flat.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

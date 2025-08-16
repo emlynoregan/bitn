@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Editor. The business part of the paper will be conducted by F.W. Holder as managing editor. Eight gentlemen are the proprietors & form a Managing Committee. The paper is not to be a party organ or a vehicle for personalities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

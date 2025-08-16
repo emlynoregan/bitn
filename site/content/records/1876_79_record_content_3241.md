@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The Town Clerk, Mr C. Lowe reported no reply to his letter to the Govt re the water supply -' sent the previous Saturday.' [Council met on 10 Dec. so Sat. was 8 Dec. but they couldn't have expected a reply that quickly so presumably he meant the letter was sent Sat. 1 Dec. which would have been a timely despatch.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

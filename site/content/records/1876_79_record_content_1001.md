@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Rechabites - letter from a Rechabite saying Burra had had a Lodge for over 12 years with about 60 members and like other lodges they provided sick pay and funeral benefits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

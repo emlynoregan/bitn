@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Stony Gap Wesleyan Chapel anniversary service 23 Dec. and Public Tea 4 PM Dec. 26 with meeting and supper.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

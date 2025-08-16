@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Fire-Clay business has gone quiet.  The management needs some life put into it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Church Anniversary on 15 & 18 November.  Rev. R.J. Daddow preached.  In the afternoon he preached from the door and in the evening an open air service was needed to accommodate the gathering.  Wednesday was the occasion of the tea meeting and the service of song ‘Eva’.  Proceeds paid for the new organ.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

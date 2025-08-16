@@ -28,4 +28,4 @@ The Central Road Board
 
 Letters from Mr Ewbank, Manager of the Patent Copper Company and from Mr Ayers, Secretary of the SA Mining Association were read.  Both urged money be spent on the Great Western Road.  It was resolved that the Board could do nothing except repeat their earlier reply.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

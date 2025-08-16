@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Salvation Army Home for Rescued Fallen Girls.  Special services and a tea meeting were held for this institution on 15 December at the Barracks.  The matron of the home, Mrs Webber, arrived by train on Wednesday with Mrs Major Lindsay and one of the rescued girls.  Afternoon open-air meeting was followed by 4 o’clock tea at the Barracks and the evening open-air meeting adjourned to the Barracks.  The home in William St Norwood opened on 14 September 1885.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

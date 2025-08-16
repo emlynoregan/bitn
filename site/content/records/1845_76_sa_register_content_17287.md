@@ -38,4 +38,4 @@ An alarming fire broke out during the week on Mr Levi’s Gum Creek Run.  An ext
 
 The disease amongst cattle, which I first reported in your columns, is still raging.  Many cattle are dying.  I do not believe it to be pleuro-pneumonia, not is it contagious.  One or two in a herd may die and the others exhibit no symptoms of disease whatsoever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

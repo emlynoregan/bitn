@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Kitson Sen. died on 4 July at his son’s residence at Orroroo, aged 76.  A colonist of 33 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 At present traffic in loaded drays is virtually at a standstill.  Every shower makes it still more impassable.  The coming harvest will generate much traffic to the Burra Station, not to mention the great quantities of wool en route to Port Adelaide.  ‘I hope our worthy Commissioner of Public Works will at once take the matter up, and place this piece of road in a passable state; and I may say that the above road is our only feeder to the Burra Railway.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

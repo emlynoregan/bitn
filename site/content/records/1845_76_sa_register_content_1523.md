@@ -90,4 +90,4 @@ Then 1 vote for every 25 shares beyond 100.
 
 Present holders of 1 & 2 shares will have 1 vote.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

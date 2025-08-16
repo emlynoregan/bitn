@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Mr & Mrs I.W. Goss, who are leaving for Broken Hill after a long residence here, were given a farewell at the schoolroom of the Redruth Methodist Church.  Speeches were made by Rev. J. Hopkins & Messrs B. Preece, J. Dunstan Jnr, W.A. Rabbich, John Wittick, B. Butterworth & W.T. Rabbich.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

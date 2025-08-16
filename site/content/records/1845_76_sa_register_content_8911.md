@@ -26,4 +26,4 @@ Burra Burra Mine
 
 On 14 January the engine continued to be working well.  Up to Saturday last she had pumped in ten days, 12½ million gallons or more than 50,000 tons, working at about two-third power.  The water is now 3½ fathoms below the 30 fathom level and the Mine secure throughout.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

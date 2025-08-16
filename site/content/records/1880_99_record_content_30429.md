@@ -26,4 +26,4 @@ Cricket.  At Terowie last Wednesday, Terowie won the toss and sent Burra in.  Bu
 
 [The paper said this left Terowie 7 to win, which they did for the loss of one wicket.  This doesn’t appear to make sense, but if they ended up with 7 runs, perhaps they got three to tie and then a 4 off the last scoring shot to win.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

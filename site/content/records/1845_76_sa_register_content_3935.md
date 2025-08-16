@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Charles James Ware, publican [of the Miners’ Arms] charged William Hall with riotous and disorderly conduct at the hotel.  Charge withdrawn, upon the defendant promising better behaviour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

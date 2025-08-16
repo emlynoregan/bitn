@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Dr Frank Alwork said he found the deceased to be dead when summoned to the site of the accident.  At the hospital later he found the neck to be broken, but no suggestion of foul play.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

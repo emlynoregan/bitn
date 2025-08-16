@@ -62,4 +62,4 @@ James Tiver, Cole’s partner, gave evidence that all the sheep consumed at shea
 
 Another correspondent also reported the case to the paper and from that it was gleaned that the name of the younger prisoner was Joseph Leeson, that the case took from 11 a.m. to 3 p.m. and that the proprietors of several adjacent runs were present, along with respectable Burra tradesmen, Mr Cole MP, Mr E.L. Grundy and other gentlemen from a distance.  The prosecutors and the prisoner occupy contiguous runs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

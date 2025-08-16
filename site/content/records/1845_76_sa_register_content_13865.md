@@ -52,4 +52,4 @@ On Friday Mr & Mrs Stephens held their examinations.  The infant school is condu
 
 A public temperance meeting was held on Wednesday in the Primitive Methodist Chapel.  For various reasons the attendance was small.  Mr J. Skews Sen. took the chair and addresses were given by Revs Davidson and Whittaker.  Several people signed the pledge after the meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

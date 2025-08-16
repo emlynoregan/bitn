@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 In the adjourned case of Duff from 20 Feb. who had been charged under an old by-law with furious driving (exceeding the speed limit), the case was dismissed as the by-laws had been repealed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

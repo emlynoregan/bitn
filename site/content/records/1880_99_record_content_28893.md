@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Railways.  The Railways have cancelled excursion fares from 1 July, but return fares will fall to 1½ the single fare and will be good for 7 days for up to 50 miles and for 1 month for over 50 miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Henderson let some land to Fie.  Fie erected a store and then sublet to Fung San
 
 Luke Day was in possession during the year, but the premises are presently unoccupied.  Fie carried on a separate business in Aberdeen as a gardener.  The verdict was in favour of the defendant as Henderson having received the rent had waived his rights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

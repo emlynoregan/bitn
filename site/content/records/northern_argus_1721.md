@@ -29,4 +29,4 @@ Plane Crash near Burra
 
 A pilot from Ipswich, Queensland, had a lucky escape on the property of Don Stockman about 7 km southwest of Burra on Friday.  The crop-spraying plane seems to have damaged its undercarriage when it hit a rock on takeoff and when it landed the undercarriage collapsed.  The pilot got out unscathed, but a minute or so later the plane burst into flame and was destroyed.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

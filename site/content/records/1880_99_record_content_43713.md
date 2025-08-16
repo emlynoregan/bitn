@@ -71,4 +71,4 @@ Her Husband’s Letter
 
 Note.  The last supplement seen on 25 February was a very different issue from the others.  It was a much smaller sheet and very different in both format and content.  It is the only one preserved in that format
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

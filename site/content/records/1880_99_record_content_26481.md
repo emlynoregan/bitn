@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Port Adelaide.  The labour dispute at the wharves is moving towards a resolution.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

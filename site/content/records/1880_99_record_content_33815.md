@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  Several men are still working at the old mine and at the smelting works.  The floor of the old works is being washed and jigged.  All the men say they are making a living.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Notice to Carriers of Ore and Coal for the English & Australian Copper Co.  On o
 
 James Hamilton, Manager, Burra Copper Works, 9 April 1858.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

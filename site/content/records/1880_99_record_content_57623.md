@@ -41,4 +41,4 @@ Further on he says: ‘The lady canvasser is the superintendent of the yards –
 
 [Personal interest: these two comments make it clear that the woman concerned was Ellen Sanders, my great-grandmother.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -84,4 +84,4 @@ An amendment by Mr W.R. Ridgway seconded by Mr Voerner [sic] to strike out all t
 
 A committee to see to the implementing of the resolution was established: Messrs O. Harvey, C. Lowe, J. Roberts, E. Lipsett, T.W. Wilkinson, John Drew, H. Dawson, J. Tiver, A. Bartholomæus and John Jenkin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

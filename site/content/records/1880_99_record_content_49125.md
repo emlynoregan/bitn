@@ -31,4 +31,4 @@ This was needed to deal with the pay sheet which had not been dealt with amid th
 
 Cr Parks asked the Mayor if it were legal to deal with a matter that had been adjourned to the 20 March.  He said it was, but many ratepayers protested at this dealing with ordinary business at an extraordinary meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

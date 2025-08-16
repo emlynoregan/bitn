@@ -29,4 +29,4 @@ Mr Chambers’ Malachite Nugget
 
 The Mining Journal of 2 July reports this magnificent nugget has arrived in London consigned to Messrs Grierson & Tweedale, the brokers, and is now deposited at the London office of the North Rhine Mining Co.  It is the product of a newly opened mine in SA being privately worked by Mr Chambers, an old and wealthy colonist.  It is said to weight about half a ton and the estimated copper content is as high as 70%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

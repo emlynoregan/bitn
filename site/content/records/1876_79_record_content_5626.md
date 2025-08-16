@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 2nd Leader on the Health Rate. The editor is glad to see that a health rate has been adopted, but why then call a ratepayers' meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

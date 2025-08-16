@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 It ‘believes that goods often perish by the way during the long transit by locomotive funerals between Terowie and the Barrier.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

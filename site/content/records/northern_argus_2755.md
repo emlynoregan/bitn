@@ -29,4 +29,4 @@ Obituary.  Murray Tiver Sen. of Abberton Park has died aged 83.
 
 [Murray Harold Tiver born 3 November 1904 Aberdeen: died 12 June 1987 Modbury.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Lynch Family Bellringers will appear at the Institute 5 June.  As well as the musical program the favourite comedian and impersonator, Mr J.S. Parlatto and the laughable comedy ‘The Chinese Question’.  3/-, 2/-, and 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

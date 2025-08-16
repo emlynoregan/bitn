@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  There was a shameful attack on Tuesday against Mrs Upton, the wife of the Salvation Army Captain, when a rotten egg was thrown into her front room through the partly open front door to their house in Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

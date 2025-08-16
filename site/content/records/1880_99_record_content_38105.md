@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Coad’s lecture at Redruth Wesleyan Church on Friday night on ‘The Tongue: its power for good and evil’, was powerfully delivered and brimful of anecdotes keeping his audience ‘one moment in roars of laughter and the next most serious’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

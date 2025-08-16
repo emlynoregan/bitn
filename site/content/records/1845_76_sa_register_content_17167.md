@@ -44,4 +44,4 @@ The verdict was that the fire was accidentally caused without proof of culpable 
 
 The second inquest followed a fire on the same run at a place called Menowie on 29 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

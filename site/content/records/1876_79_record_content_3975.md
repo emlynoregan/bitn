@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Gladstone & Jamestown Railway requires navvies, pick and shovel men, fencers, and horse drivers at 7/6 to 9/- a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

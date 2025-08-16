@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Mr Ridgway's motion was then put and carried unanimously.  A committee was formed to get donations for the trough work and also to prepare a memorial to be sent to the government etc. (A. Bartholomaeus, B. Butterworth, Dawson, Preece, & W.R. Ridgway)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

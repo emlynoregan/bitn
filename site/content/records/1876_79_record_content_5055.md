@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Railway. The North-West Bend railway was opened last Thursday and was attended by the Governor and a large party.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

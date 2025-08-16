@@ -32,4 +32,4 @@ publication_slug: record-1876-79
 
 Burra Town Council. Streets currently being formed are Bridge Tce, Welsh Place & Ayers St. A little over £200 has been spent forming streets in the North Ward. The waterworks report was received. (Details are as outlined in the editorial.) The first thing, as Cr Ridgway said, was could they get the use of the well? Cr Geake moved that they apply to SAMA for the use of the well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

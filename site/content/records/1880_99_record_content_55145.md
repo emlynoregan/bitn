@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  Reanie Crewes, aged 1½, fell 12’ from the Bridge St West footbridge on Friday evening.  She was unconscious when the doctor arrived and remained so for several hours, but is now recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

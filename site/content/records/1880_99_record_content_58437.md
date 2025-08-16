@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Theft.  Two men apparently hired two horses from Mr Fletcher at the Burra Hotel, but did not return them when due.  Mr Fletcher eventually recovered his horses from Cockburn.  A warrant for the arrest of the two men has resulted in one being arrested at Albury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

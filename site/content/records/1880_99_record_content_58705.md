@@ -27,4 +27,4 @@ The Municipal Elections.  This is a humorous report that sees the contestants as
 
 ‘“Billy the Great” is training under great difficulties, and is already suffering from the effects of his trainer’s spurs, they being used too frequently on the sluggard.  The race starts at 8 o’clock on Monday next, and the betting is 100 to1 against Billy.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

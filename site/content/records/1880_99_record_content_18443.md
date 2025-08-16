@@ -47,4 +47,4 @@ Mr W.F. Coglin JP came forward and spoke in appreciation on behalf of the Cathol
 
 Rev. Howitt replied - he begged pardon for sometimes perhaps speaking his mind and saying sharper things than perhaps he ought to have.  He regretted has frequent illnesses and unfortunate accidents that had interrupted his work at times.  The parting after so long was painful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

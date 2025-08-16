@@ -41,4 +41,4 @@ The Town Clerk was appointed to rewrite the assessment for 1894-95 for the sum o
 
 Crs Harris, Sampson and Parks voted not to accept the engineer’s report leading to another heated discussion on the engineer and his work.  Other more routine business was then transacted before adjourning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

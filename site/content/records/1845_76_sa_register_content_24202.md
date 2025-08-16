@@ -30,4 +30,4 @@ Ulooloo Gold-field.  Prospects seem to be improving.  Though returns are not lar
 
 Our Burra Correspondent reported on 23 October that only about 10 diggers now remain as men have left for the shearing season.  In the last five months Hinge and Nichles have averaged 30/- a week each and last week Nichles made £10.  Mr Noltenius gained 1½ oz in ten days.  The main problem is that the washdirt has to be carted about two miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

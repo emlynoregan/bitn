@@ -39,4 +39,4 @@ The telegraph line between Burra and Clare had also been washed away.
 
 Mr Mais arrived in Adelaide by train 2.15a.m. Thursday morning and Mr Calf followed later in a special.  Officials on the latter train added some details.  They said the chasm at the scene was 40 or 50 ft wide and the bodies were badly mutilated and also burnt by the engine fire, which had to be extinguished some hours after the accident.  Hundreds of people have come out from Burra, many to assist in the clearing of the line, but many more as spectators of the tragedy.  It is said that the train was only travelling at 7 m.p.h. when the accident occurred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

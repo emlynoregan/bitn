@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Accident.  Messrs Pascoe, Gebhardt & G. Herbert hired a buggy to go to Iron Mine turkey shooting on Wednesday.  When nearly there the horses bolted and collided with a fence, destroying the trap and throwing the occupants out.  Mr Herbert is being treated for back injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

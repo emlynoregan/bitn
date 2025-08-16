@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Box and Cox tonight.  [Just this and nothing more appears in the ‘Items’ column.]  Box and Cox is a farce by Maddison Morton and was the basis for the comic opera by Sullivan: Cox and Box.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

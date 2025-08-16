@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bon Accord Bridge excavation work has started.  The total cost is £1,542 which is £42 above the estimate voted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra Burra DC.  Council’s Supplementary Development Plan’s Steering Committee met on 17 March to continue its work.  Simon Tonkin, planning consultant from Bone & Tonkin Planners Pty Ltd advised that the draft document should be available to Council next month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

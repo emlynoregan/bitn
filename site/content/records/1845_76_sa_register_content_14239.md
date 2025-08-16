@@ -34,4 +34,4 @@ A group of serenaders gave performances at the Burra Hotel on Friday & Saturday,
 
 There has been no interest here in the general election.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

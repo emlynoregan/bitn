@@ -29,4 +29,4 @@ National Trust AGM.  Colin Fidock reported on the restoration of buildings made 
 
 The completion and opening of Malowen Lowarth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

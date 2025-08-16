@@ -26,4 +26,4 @@ Railway Accident.  A special train has run down a railway tricycle at Yarcowie a
 
 [See further in the Railway Commissioners’ Report in the paper for 14 December 1888, p.3]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

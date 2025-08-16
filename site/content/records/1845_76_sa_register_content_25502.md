@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Burra DC.  25 November.  While repairs are made at Moonlight Hill the road will be diverted through James Harris’s land sections 224 & 225.  The Road Board will attend to the road near the White Hart Inn.  A rate of 18 pence was adopted.  A special grant will be sought for the road to the Burra Railway Station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

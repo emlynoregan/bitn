@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Kooringa Total Abstinence Society.  A meeting was held in the Primitive Methodist Chapel on 30 June.  Rev. H.B. Thomas took the chair.  Rev. J.G. Wright gave an address of some two hours, the audience sometimes being convulsed with laughter and at other times moved to tears.  At the end 22 people signed the pledge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

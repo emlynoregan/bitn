@@ -31,4 +31,4 @@ It is not impertinent to consider the way SAMA neglect their property.  The town
 
 Since then SAMA has been content to collect its property rents and have not done a thing at the mine and have a dog-in-the-manger attitude of not allowing anyone else to work it either.  It is believed offers have been made to work it on tribute or otherwise, but either greed or sloth has prevented any arrangement.  Surely this is overdone as falling town prosperity means lower rents and fewer renters and the value of the freehold falls too.  With copper now at c. £100 per ton we are not reaping any advantage.  We hope some arrangements allowing the marble deposits to be worked at least may be managed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

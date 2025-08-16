@@ -30,4 +30,4 @@ SA Mining Association held its AGM yesterday at its Adelaide Office.  The Direct
 
 The conveyance to the mine of those ponderous iron castings, which are to compose the Monster Pumping Engine, have been accomplished and the engine will be in operation next August.  This will allow productive operations at the deeper levels.  The Directors expect a large immigration.  We are told that the payment of dividends will shortly be resumed and there is no reason to fear another suspension of them.  The last 18 months operations have swelled the estimated total of undivided profits to £167,612-17-9, of which £89,834-6-3 is available for dividends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

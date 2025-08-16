@@ -31,4 +31,4 @@ Price of admission, to defray expenses – Males 6d; females, free.
 
 [Despite the date of the letter being later than the date of the publication, that is what was printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -41,4 +41,4 @@ Princess Royal is at a standstill with extraordinary indications visible in all 
 
 [The writer goes on to discuss the mines at Tungkillo, Kapunda, Mt Barker/Kanmantoo, Paringa, Strathalbyn, and Onkaparinga.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

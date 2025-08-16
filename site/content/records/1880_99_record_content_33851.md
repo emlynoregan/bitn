@@ -37,4 +37,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Assoc.  20th meeting was held on Saturday 5 Oct. at Burra.  Schools represented: Baldina, Baldina Plains, Burra, Copperhouse, Hallett, Hanson, Leighton, Manoora, Saddleworth, Terowie, Tothill’s Belt, Ulooloo, Wonna & World’s End Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

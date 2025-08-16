@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 'Wanderer' again writes on the subject of wage earners being no better than slaves in a capitalist society.  He then continues against the Farmers' Association as being unrepresentative, before writing further on taxation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

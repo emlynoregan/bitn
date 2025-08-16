@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Porter’s Lagoon.  Messrs Firey & Ellis have constructed a pleasure boat and gave it a trial yesterday on Porter’s Lagoon.  The Pioneer is capable of seating five persons and will be used for sporting on the water which abounds in wild fowl.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

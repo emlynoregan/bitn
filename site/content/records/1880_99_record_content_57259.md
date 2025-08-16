@@ -26,4 +26,4 @@ Birthday Honours.
 
 ‘Three or four highly elevated and self-esteemed great thinkers (about themselves), and qualified humbugs in Burra’ are disappointed at their omission.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

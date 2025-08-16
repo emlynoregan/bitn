@@ -33,4 +33,4 @@ Proposed Copper Works
 
 A petition from Residents of Port Adelaide is printed that asks the Legislative Council to pass an Act permitting the Patent Copper Company to erect at Port Adelaide buildings for the smelting of copper and other ores, and for the manufacturing of metals by rolling and other processes.  They see that it would benefit the port by increasing trade and inducing ships to come in for coppering and other repairs.  They say that the experience of Swansea and other towns in the UK shows that such works are not in any degree injurious to health and this is borne out by the works of the same company at Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

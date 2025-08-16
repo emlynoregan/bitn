@@ -58,4 +58,4 @@ Cr Sampson said it was nonsense to say they could keep the Waterworks till March
 
 W.T. Rabbich had some ideas on reducing expenditure and supported the idea of a levy on animals sold in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

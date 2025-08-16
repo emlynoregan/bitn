@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 Prior to a change last Monday the weather has been intensely hot.  There was thunder and some refreshing rain with the change.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

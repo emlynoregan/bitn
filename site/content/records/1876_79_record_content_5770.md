@@ -42,4 +42,4 @@ as secretary to the Board of Health	£10
 
 There was discussion re getting water laid on to the cemetery and having a fountain installed, [presumably a drinking fountain] but first they had to get permission to lay pipes from the spring across SAMA's land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  Township of Hamilton on the River Light.  The proprietor of section 1195 gives notice that Mr Price will be ready this week to point out and allot to purchasers the allotments in this town.  Apply to Mr Robertson on the section for further information.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

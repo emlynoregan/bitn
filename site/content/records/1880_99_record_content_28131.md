@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Baldina Wesleyan Sunday School Anniversary was held last Sunday when the Rev. H.T. Burgess officiated.  The tea meeting was on Monday.  On both occasions the church was very overcrowded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

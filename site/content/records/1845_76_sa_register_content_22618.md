@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Bushman’s Home Movement.  There is a move in Adelaide to establish a home for bushmen in Adelaide on lines similar to the Seaman’s Home.  It would provide a place of accommodation and support for men arriving in the city with money to spend after long periods of isolation in the bush.  It would aim to ‘check the encouragement which their weakness gives to thieves and prostitutes, and worse still, the keepers of low public-houses.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

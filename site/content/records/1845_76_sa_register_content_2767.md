@@ -42,4 +42,4 @@ You know that work here has completely ceased and that must defer your next divi
 
 The salaries of your officers are continuing with not a penny of income to meet those expenses.  Is all this occurring with the consent of the majority of shareholders?  If it is not, then a public meeting of shareholders is an imperative.  Also, gentlemen be aware that at this very time some of your most practical miners and their families are leaving for New Zealand and other parts.  Can we expect our commissioners to keep sending us emigrants when we absolutely deny them even a comfortable living after their arrival and can the editor of this paper continue to offer his advice in favour of immigration?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

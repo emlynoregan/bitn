@@ -51,4 +51,4 @@ Councillor G. Parks spoke in support of the former Councillors as did Crs Watt &
 
 An adjournment was then made to the Burra Hotel for refreshments, speeches, songs and recitations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

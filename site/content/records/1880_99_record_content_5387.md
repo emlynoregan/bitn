@@ -39,4 +39,4 @@ A few years ago the regular monthly sales at Burra were of little importance - a
 
 The Corporation could erect sale yards and then prohibit the sale of stock elsewhere, but the sales could then just as easily be held just beyond the town limits leaving grass to grow in the yards belonging to the ratepayers.  The trade could also be drawn to other centres.  At a conference between the Council and Stock Agents the latter have agreed to pay a fixed sum per annum so as to avoid future agitation on the question.  We are glad the matter has been settled and though the salesmen cannot be compelled to pay anything, they have volunteered to do so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

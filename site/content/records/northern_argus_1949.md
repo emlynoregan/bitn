@@ -34,4 +34,4 @@ Rosslyn Helbig, daughter of John & Rhoda Helbig, will marry
 
 Darren Catford, son of Brian & Marj. Catford .
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

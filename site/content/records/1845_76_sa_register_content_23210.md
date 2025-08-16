@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Northern Extension Railway.  The line was opened on Monday for traffic from Tarlee to Manoora.  A few people assemble for the occasion, but there was no influx of visitors from Adelaide and only a few passengers going up.  Riverton will benefit from the mail now arriving by train to then be sent on to Clare via Rhynie, Undalya and Auburn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

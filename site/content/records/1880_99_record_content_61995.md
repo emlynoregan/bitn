@@ -28,4 +28,4 @@ Sir Richard Chaffey Baker again on Federation: The Disadvantages of any Other Fo
 
 Confederation: the citizen remains a citizen of the state and not of the confederation.  The citizen does not directly elect the Union Government, having an influence only indirectly through elections to his own state.  Federal bodies which may be formed (and none are essential) such as an executive or a judiciary, would be weak/powerless as the states control all revenue.  Confederation does not reduce the points of friction between the component states, but rather exacerbates the problems.  Confederations have worked when the union confronted a foreign threat, but when the external threat goes internal strife followed.  In a way Australia is already confederated with a powerless and miscalled Federal Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

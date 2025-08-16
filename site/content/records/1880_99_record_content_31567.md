@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Packard has shown us some splendid peaches grown in Burra.  Gardens in the town are now growing almonds, apricots, plums, nectarines, peaches, cherries, grapes and black mulberries and in the Chinamen’s garden in The Paddock the produce of garden stuff is astonishing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

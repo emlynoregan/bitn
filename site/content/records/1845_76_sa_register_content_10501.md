@@ -48,4 +48,4 @@ Roads and railways north of Adelaide would receive more attention.
 
 More would be done for general education.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

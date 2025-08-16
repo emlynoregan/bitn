@@ -44,4 +44,4 @@ Cr Harris resigned as Chairman of the Waterworks Committee.  Accepted.
 
 [The ill feelings towards Mr Littlejohn go back to 1892 when there was a bungled attempt to oust him that resulted in his re-employment at an increased salary.  This apparently rankled with some and attempts to replace him continued through 1893.  See particularly the ugly events concerning charges of leaving the engine while it was running and of drinking on duty.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 The Fall of the Downer Government is covered in an article of over ½ column.  In the new ministry C.C. Kingston is Premier and Attorney General, F.W. Holder is Commissioner of Public Works, Thomas Playford is Treasurer, John Alexander Cockburn is Minister of Education and Agriculture, John Hannah Gordon, MLC is Chief Secretary, and Peter Paul Gillen is the Commissioner of Crown Lands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

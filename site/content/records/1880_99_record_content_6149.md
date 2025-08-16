@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Joseph Roberts, long in business in Market Square is about to leave for Port Augusta and the Burra Lodge is to present him with a testimonial.  He will be missed, having been a town councillor and an enthusiastic supporter of the Bible Christian Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Season.  Early promise has been dashed by lack of follow-up rains.  If no rain comes soon the harvest will be worse than last year’s.  Some dams are even now empty.  To the east crops are virtually beyond hope, but in other directions could still recover if rain comes soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

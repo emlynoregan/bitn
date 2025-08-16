@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Accident.  On Thursday George Harris was crushed by several bags of wheat falling on him at Butterworth’s Mill Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

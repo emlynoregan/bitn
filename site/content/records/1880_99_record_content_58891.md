@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Beckwith’s horses grew excited as he was unharnessing them on Wednesday last.  One got away and went home.  The other collided with E.C. Lockyer’s fence breaking all the spokes in a wheel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

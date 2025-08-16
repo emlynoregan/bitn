@@ -33,4 +33,4 @@ Everyone knows the NDL is ‘set for the defence of the money bag and land monop
 
 The fact the Mayor paid his own way is not relevant; he was there as a representative of Council and if by paying his own way a delegate feels permitted to and feels justified in voting against his own Council then the Council’s interest would be served by paying him to stay home.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

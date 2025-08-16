@@ -28,4 +28,4 @@ Advertisement.  Employment is wanted.  An engineer of great experience and who h
 
 John Congdon, Burra Burra Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

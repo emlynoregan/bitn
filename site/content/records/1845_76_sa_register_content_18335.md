@@ -29,4 +29,4 @@ Kooringa News, 18 March
 
 Professor Bushell gave one of his instructive electro-biological lectures in the hall at the Burra Hotel last night.  The audience was not very numerous nor very quiet – just sufficiently noisy to distract the Professor.  He nevertheless succeeded in getting one young man under his influence and showed how complete was his mastery over him.  Professor Belew  submitted to being tied twice to the chair by two different men each time and in 2½ minutes was free the first time and in 2 minutes the second time.  Today he will give a lecture on horse-taming.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

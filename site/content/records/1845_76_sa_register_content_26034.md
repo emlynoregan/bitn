@@ -32,4 +32,4 @@ The Governor had been expected to arrive at Farrell’s Flat by special train on
 
 [The daughter of Sir Anthony Musgrave, Joyce Harriet Musgrave, died 11 October 1874 at Adelaide aged 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

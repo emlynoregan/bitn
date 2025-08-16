@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Kooringa Ford is being washed out with every considerable flow due to the dilatory nature of Govt. action. Recently it was impassable for two days pending repairs. We hope soon to hear of the arrival of the girders from England. [i.e. for the new bridge]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

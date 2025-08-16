@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Ratepayer’ asking whether the Recreation Ground belongs to the ratepayers or to the Cricket Club.  He objects to paying for entry to cricket matches, especially since with near 100 present and only 9/- taken at the gate, it is clear that most were admitted without charge!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

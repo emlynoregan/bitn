@@ -31,4 +31,4 @@ Council is to see to the replacement of trees where needed.
 
 The Mayor called attention to the need for a fire reel and suggested a meeting be called to form a volunteer brigade.  Cr West said it was a question of funds.  It was referred to the finance committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

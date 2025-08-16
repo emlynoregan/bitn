@@ -69,4 +69,4 @@ Unsuccessful were: Henry Mildred, William Paxton, Matthew Smith, Thomas Whistler
 [Others mentioned as attending were: Mr Bunce, Mr Collyer, Andrew Murray, Mr J.B. Neales and Mr Pepperell.
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

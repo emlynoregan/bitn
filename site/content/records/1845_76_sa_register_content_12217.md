@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Some River Broughton Mining Co. shares have changed hands at an advance and some good specimens of ore have been brought in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

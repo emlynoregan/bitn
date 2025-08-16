@@ -30,4 +30,4 @@ Advt.  Genuine Clearing Sale by Sandland & Co. for Mr E. Newman who is leaving f
 
 Household Furniture and Effects on Friday 27 November Next to the Wesleyan Parsonage in Kangaroo St, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

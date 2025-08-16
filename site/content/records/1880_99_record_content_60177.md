@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Entertainment on Monday night in aid of St Joseph’s Schoolroom was held in fine weather and drew a large attendance.  £15 was raised.  The performances are reviewed and Miss Laura Carrigg comes in for particular praise.  A very successful ball followed the concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

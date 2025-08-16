@@ -23,4 +23,4 @@ publication_slug: sa-register
 
   Rabbits are a great pest and the Rabbit Nuisance Bill needs to be passed, compelling landowners to destroy the pest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

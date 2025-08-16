@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Holder of a registered lease of £20 with at least 3 years to run, or right of purchase.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

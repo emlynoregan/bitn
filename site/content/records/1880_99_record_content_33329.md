@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Rev. William Williams, of the Wesleyan Church, Sandhurst, Victoria, and son of Mr Solomon Williams of Burra, has been elected to the Linnean Society of London.  He was a former pupil of Dr J.R. Stephens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

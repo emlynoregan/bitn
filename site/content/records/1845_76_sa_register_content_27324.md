@@ -27,4 +27,4 @@ A Brawl at Hanson [i.e. Farrell’s Flat]
 
 The Northern Argus reports a brawl at Hanson on 19 February involving about 20 or more men.  No one seems sure how it started, but the combatants were teamsters on one side and wheat lumpers employed at the station on the other.  A wager about carrying a bag of wheat 400 yards had something to do with it.  The teamsters were mainly Irish and had imbibed quite freely.  After they had exhausted themselves they adjourned to the pub for refreshment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

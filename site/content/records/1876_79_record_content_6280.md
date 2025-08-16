@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Water Supply. We seem no nearer gaining a water supply for the town. This season has been severe and the need for a water supply is evident. A public well in Market Square would almost settle the water question for us and water could be got there at a slight depth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Protector [SA’s navy] was launched on the Tyne on 23 Dec. 1883.  It carries four, forty-pound breech-loaders and a seven inch breech-loading gun amidships and two Norderfeldt guns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

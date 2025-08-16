@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra’s Venturers’ expedition to the Flinders Ranges id reported in c. ¾ column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

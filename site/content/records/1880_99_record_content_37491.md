@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Joanna Oliver, widow of William Oliver died at her residence in Copperhouse on 1 August, aged 86.  She was a colonist of 41 years and mother of Ellen Saunders [Sanders] of Copperhouse and Elizabeth O’Brien of Broken Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

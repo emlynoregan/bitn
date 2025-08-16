@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Advertisement.  A notice of caution is printed listing ten stolen money orders drawn on the SA Mining Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

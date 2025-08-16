@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 In Schutz v. Schutz Mrs Mary Ann Schutz said her husband was a cab driver, but had been drinking in excess of late and had rarely been sober in three months.  When working he earned 35/- a week, but he has had no work for three months.  When drinking he leaves her without money and necessities.  An order was given prohibiting anyone from supplying him with intoxicating liquor for twelve months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

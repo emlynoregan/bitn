@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from E. Diplock regretting the inactivity at the Burra Mine.  With over 25 years’ experience with the mine he has confidence that there is copper there aplenty.  He offered to work it at a royalty of 10/- in the £, but was refused.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

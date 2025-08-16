@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Bridges: another letter complains about the plank bridges behind `two public houses' and also about the drains and the footpaths, or the lack of them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

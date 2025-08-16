@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Satisfied’ replies to Morland Chaplin saying that as a newcomer he cannot be expected to understand the situation.  ‘until all the petty jealousy between the north end of the town and the south end is done away with matters will always be somewhat thick in the clear’. [?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

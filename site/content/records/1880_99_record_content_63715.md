@@ -30,4 +30,4 @@ Editorial on the ‘uncalled for action of Mounted-Constable Jemison in a recent
 
 This was disrespectful to both the counsel and the court.  Jemison acted indiscreetly when he spoke to the girl a second time, having neither the right nor the need to do so.  It was apparently the reference to his ‘fat legs’ that prompted his later action.  All because she ‘is always speaking to someone in the centre of the footpath’.  We do not support a petition to have the constable moved.  ‘If a child does wrong it is not sent away, but kept at home and taught right from wrong.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Gold at Melbourne
 
 G.B. writes from Melbourne with reports of violence on the goldfields.  He says the diggers have become a law unto themselves.  They have declared no strangers are tolerated on the fields.  50 men from Sydney have been driven back and a group of Irishmen is being paid by the diggers to enforce their decision.  He says the men from Sydney were driven back with loss of life.  Only free emigrants from England, landed at Port Phillip will be admitted as diggers.  There is also some fear that the SA Government will prevent the shipment of the necessities of life to the diggings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

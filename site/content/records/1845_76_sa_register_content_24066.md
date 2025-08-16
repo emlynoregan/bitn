@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A New Road Bill proposes to create eight new Local Road Boards in place of the present arrangements.  Burra would come under the North Midland District.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

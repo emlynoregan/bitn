@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  A letter from the diggings reports some nice finds in the last few days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

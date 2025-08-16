@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Government has declined the offer of those who sent in the requisition for the formation of a rifle corps.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

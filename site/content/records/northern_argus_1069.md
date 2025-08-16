@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 The Booborowie Electors Meeting was well attended.  Chairman of the Burra Burra DC James Hawker mentioned the abuse hurled at himself and other Councillors and Council employees over the past weeks.  He warned that if the meeting degenerated into abuse it would immediately be closed.  He admitted that finances were tight, but denied Council was unable to pay its bills.  Office staff had been reduced through attrition.  He said he could not comment on the Industrial Court Case after legal advice.  The Burra North bypass was mentioned and Council was compelled to have a Supplementary Development Plan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

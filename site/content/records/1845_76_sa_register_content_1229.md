@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advt.  Burra Burra Mines.  The next Public Survey Day will be held 5 February instead of 11 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

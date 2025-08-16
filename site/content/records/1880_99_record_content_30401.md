@@ -36,4 +36,4 @@ Whitechapel Murders.  There have now been eight murders and still no murderer ha
 
 Letter from W.H. Hardy outlining the virtues of the unimproved land value system of assessment for council rates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

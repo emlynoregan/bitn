@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Special service in connection with the laying of the vestry foundation stone at the Redruth Wesleyan Church on 5 August.  Rev. S. Knight & Rev. W.T. Carter.  Collection to aid the building fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

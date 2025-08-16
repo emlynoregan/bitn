@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Hanson School.  C. May Taylor and Walter Roach received the prizes awarded by Mr & Mrs West for the best collection of native flowers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

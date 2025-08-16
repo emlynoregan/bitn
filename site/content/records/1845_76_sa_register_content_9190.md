@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mr Paxton’s many friends have decided to give him a large luncheon party before he boards the John Banks.  The day will be determined by the movements of the ship, but will be 11 a.m. on either Tuesday or Wednesday next.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

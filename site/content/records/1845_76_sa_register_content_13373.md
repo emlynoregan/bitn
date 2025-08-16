@@ -29,4 +29,4 @@ Kooringa News, 18 April
 
 The recent fatal accident at the Mine has been the principal interest and theme of discussion here.  When the news reached the town on Saturday morning many went to the Mine and many anxious wives and mothers waited for news of those below.  At length two were brought up death and others in a precarious state; one delirious and another insensible, with others affected by smoke and noxious fumes to varying degrees.  An inquest was held on the bodies of the deceased at noon on Saturday, but then adjourned to yesterday (Tuesday).  The jury returned a verdict of accidental death and expressed admiration for the courage of those who risked their lives endeavouring to rescue the deceased and to extinguish the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

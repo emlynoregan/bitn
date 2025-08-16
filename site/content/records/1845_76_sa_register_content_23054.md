@@ -30,4 +30,4 @@ Obituary.  A man named Fritz Martin, a journeyman tinsmith working at Messrs Jon
 
 [This would appear to refer to the registration in SA Deaths CD of Frederick Adolphus Marthan who died 17 December 1869 Kooringa aged 49.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

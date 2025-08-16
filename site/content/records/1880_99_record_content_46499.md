@@ -26,4 +26,4 @@ We issued a number of extras from 3 p.m. on this date giving details as news of 
 
 [Cited in XIII, 208, 7 Sep. 1892, page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

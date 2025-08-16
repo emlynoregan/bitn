@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the desirability of amending the standing orders for the internal government of Municipal Councils.  Recent events in Burra and elsewhere have cast doubts on the validity of the present standing orders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

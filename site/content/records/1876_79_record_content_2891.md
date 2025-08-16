@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Kapunda Mine. The rail tariffs had an effect here too when in addition to low copper prices. Capt. Osborne has stopped one pump and put the pull engine on half time, allowing the water to rise from the 80 to the 70 fathom level. About 20 jobs will have to go.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

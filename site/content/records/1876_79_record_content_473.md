@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The Bible Christian Church is raising funds for a new roof.  An appeal at a meeting on Monday raised £26, leaving about £14 to be collected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Accident.  Charles McDonald, manager of Outalpa Station for Messrs Dufflied, Harrold & Hurd, was knocked over by a horse on 11 October.  When he was still unconscious at 11 p.m. a messenger was despatched for a doctor at Burra, 180 miles away.  He did not reach Burra until 6.30 a.m. Tuesday.  Another messenger, who departed at 9 a.m. Monday brought news that Mr McDonald was conscious briefly and then relapsed into torpor.  Dr A. Cave has set out to see the patient.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

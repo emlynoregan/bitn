@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Burra £5 shares: seller £36 with last sale at £31-10-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

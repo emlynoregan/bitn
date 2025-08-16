@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 Obituary. Captain Robert Sanders, late of the Burra Mines and since Manager of one of the largest copper mines in Gippsland, Victoria. A telegram from Walalla [perhaps Walhalla?] to P. Lane JP yesterday said the Captain had died the previous night. We had heard of his serious illness, but had hoped he would recover to visit some of his family members still in Burra. He was very favourably known here, not only for his work for SAMA, but in his civic role as one of the first Town Councillors for Middle Ward. He took great interest in the Hospital and Institute and in the Masonic Lodge. He leaves a widow, a daughter, and several sons. His last act in connection with Burra was a letter on the water supply question which appeared in the Record a fortnight ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

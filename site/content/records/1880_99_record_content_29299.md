@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. J.M. Donaldson, Anglican minister at Kapunda, is charged before an ecclesiastical court with having married again while his wife is still alive.  He claims he had good reason to believe his wife to be dead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

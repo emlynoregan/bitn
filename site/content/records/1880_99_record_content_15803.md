@@ -70,4 +70,4 @@ We are happy that the Aberdeen Reserve matter has been left as it is.  Cr Ridgwa
 
 As to salaries the total now paid from all funds is £215 less than £100 of which comes from money which could be subdivided [sic] [Surely a misprint for subsidised.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

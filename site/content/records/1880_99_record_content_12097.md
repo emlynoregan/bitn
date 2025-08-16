@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 George Mayger was charged with using insulting language to F-C Radford.  Mayger had been banned from being supplied with liquor and Radford had warned the licensee of the Pig and Whistle not to serve him.  Mayger promised to make it difficult for Radford while on duty and for Radford’s son for stealing his pigeon eggs.  He was fined 40/- or 1 month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

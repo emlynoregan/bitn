@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Redruth Primitive Methodist Chapel is proceeding with the walls nearing completion.  No other new building is going on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

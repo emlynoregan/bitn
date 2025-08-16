@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Scarlatina and whooping cough are very prevalent and several have fallen victim to the former.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

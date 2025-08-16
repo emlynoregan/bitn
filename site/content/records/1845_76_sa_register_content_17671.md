@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Nothing has yet been done to repair the Redruth Bridge; though it was stated the repairs were let without being put up for tender in the usual way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

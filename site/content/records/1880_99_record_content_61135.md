@@ -26,4 +26,4 @@ Guy Fawkes was burnt with enthusiasm on Thursday evening last.  Guy was first ha
 
 [Several humorous stories are told of events supposedly occurring on the occasion.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

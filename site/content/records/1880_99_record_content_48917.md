@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Burra Accidental Bicycle Club held a fancy dress tournament at the Burra Oval on 14 February.  The night was dark and unsuitable, but 4-500 came anyway and enjoyed themselves.  £5 was taken towards promoting the 50 mile race on Easter Monday.  There was a one mile fancy dress handicap and a series of other events including a quarter mile slow race.  The Burra Band attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

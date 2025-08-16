@@ -81,4 +81,4 @@ Mr Harris started to make a statement, but was constrained by the chair to askin
 
 When he tried to suggest that the price was unfair the chairman suggested that perhaps the unfairness lay elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

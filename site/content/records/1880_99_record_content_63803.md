@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Fire.  D.E. Williams lost a 20 ton haystack to fire at Iron Mine on Wednesday afternoon.  It was set alight by a young boy from the adjoining paddock who wanted to see a fire!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

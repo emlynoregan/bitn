@@ -32,4 +32,4 @@ It was resolved the Inspector would proceed against all persons obstructing stre
 
 Rabbits around Orroroo have been scalped for the bounty and let loose again to breed.  Five have recently been shot without ears.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

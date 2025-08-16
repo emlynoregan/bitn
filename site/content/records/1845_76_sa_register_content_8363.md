@@ -29,4 +29,4 @@ Kooringa News
 
 The township, which had been almost completely depopulated due to the attractions of the goldfields, begins to show signs of returning prosperity.  Various tradesmen (who have been to the diggings) have returned and reopened their shops and they appear to be busily employed.  The subscription library has reopened with a large addition of new books.  The Oddfellows have announced the reopening of the Burra Burra Lodge.  The Patent Copper Co. has resumed its works and it is expected that the large engine will soon resume its operation at the Mine.  This will allow the Directors to offer the ‘deep’ as well as the ‘shallow’ pitches to the miners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

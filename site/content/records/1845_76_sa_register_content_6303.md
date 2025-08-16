@@ -63,4 +63,4 @@ He hoped (and believed) that education would reduce the need for so many police.
 
 He repeated his assurances that both Captain Roach and Mr Walters had assured him that they would do nothing that could be construed in any way to arise from malice of ill-feeling in consequence of the conscientious exercise of the franchise.  They agree that they have no right and no desire to interfere with the political rights of the people.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

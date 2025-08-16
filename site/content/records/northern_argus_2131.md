@@ -29,4 +29,4 @@ Mrs Olive Oates has been selected as Burra’s Australia Day Citizen of the Year
 
 She was nominated for her services to the community through music.  For years she has provided background music, played at concerts, weddings and funerals and as accompanist for singers and choirs, at Melbourne Cup Luncheons and mannequin parades, Carols by Candlelight, community singing and at church services.  She has been organist for 30 years at the Methodist, now Uniting Church; coming in regularly from Poonunda, 18 miles east, for services and practices.  She has taught many young people.  She has also been a keen cook and many examples, especially of her yeast cooking, have found their way into elderly people’s homes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 C.A.W. Ullmann showed us a small porcupine [i.e. echidna] about 15” long which he had shot at Mongolata.  We did not know such were to be found in the colony.  We hope it will be stuffed and added to the local museum.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

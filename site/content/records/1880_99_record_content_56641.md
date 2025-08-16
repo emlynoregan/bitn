@@ -29,4 +29,4 @@ Waterworks.
 
 The Mayor said he has seen in the press that the Council and Government were negotiating for the latter to take over the old boiler, but officially he knew nothing of it.  He was then told that Mr Moncrieff had inspected the boiler and the works and there was a possibility of the boiler being taken over by the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

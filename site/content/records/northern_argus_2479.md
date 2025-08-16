@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra SES had an exercise last week to free a person trapped beneath the steering wheel of a car.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

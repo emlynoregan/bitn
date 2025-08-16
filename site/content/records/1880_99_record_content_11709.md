@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 With the change to twice weekly publication some of the Literary Supplement material begins to appear in the paper on pages 3 & 4 and the Literary Supplement proper presumably ceased.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

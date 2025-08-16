@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 The Mid North Regional Tourist Association had a three-day visit to Burra last week.  Members of the Board had a dinner at the Old Jinker Restaurant.  While in Burra the Board stayed at Paxton Square Cottages and had a tour of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

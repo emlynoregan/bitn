@@ -40,4 +40,4 @@ Boys are continually walking over the iron [arch] girders of the Kingston St Bri
 
 W.A Rabbich fell into a cellar on Tuesday and dislocated a shoulder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Cricket notes by Serjeant Buzfuz.  He blames the dismal performance of this season on the lack of practice and poor organisation rather than lack of ability.  They played 6 matches: against Manoora, Oxford Association, Clare, Hindmarsh, True Blues and the Wanderers at Mintaro - and beat only the True Blues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

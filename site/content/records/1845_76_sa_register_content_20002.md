@@ -26,4 +26,4 @@ Board of Education
 
 At Kooringa Mr Bunday applied for a licence and ‘were not there already sufficient school accommodation in Kooringa he would perhaps be worthy of one’.   The Board ordered that his application be considered after the next inspectorial visit has been paid to Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

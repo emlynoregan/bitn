@@ -30,4 +30,4 @@ Here he is concerned with the inequalities inherent in the way the structure of 
 
 He is also against the retention of the royal prerogatives: especially the power to veto legislation.  He is also against the allowing of restrictions on the franchise.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

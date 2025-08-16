@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Offence. John Dunstan Sen. Was summonsed for a stray pig in St Just St, but as it was not clearly identified the case was dismissed when Mrs Dunstan gave evidence their pig was in the sty at the time in question. [Note this suggests that the Dunstans lived in St Just St & Assessment Notes say they lived in Section 1; i.e. on the south side of the street.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Notice.  Notice to the working classes of Adelaide and the surrounding districts.  The miners lately in the employ of the Newcastle Coal and Copper Company of NSW are at present on strike, their employers having attempted to cut their wages by one third and requiring them to sign an agreement which would have the effect of bringing them under the jurisdiction of the Masters and Servants Act.  It is to be hoped that all parties will be on their guard against any attempt to induce fresh labour to fill our places.  In consequence of the crowded state of the labour market and the dullness of trade, our average wages for the past three months have not exceeded 25/- per week.  William Spencer, Secretary, Newcastle, NSW, 19 January 1863.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

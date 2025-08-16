@@ -35,4 +35,4 @@ The Government has found the mail tender too expensive and will not fund the sec
 
 We hear that Hill & Co. intend to put a number of coaches from the Strathalbyn line on the Terowie-Silverton route and this may reduce the price.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sale of allotment with 50’ frontage to Chapel St and depth of 175’ on which are erected the walls of a seven-roomed villa.  Also a good well.  Liston Shakes & Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

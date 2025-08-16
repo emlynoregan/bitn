@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 W.B. Matthews & Dan Pritchard fined 10/- each for creating a disturbance on Sunday evening near the church foundations in Redruth. [The old Anglican foundations?] Matthews claimed he was only helping Pritchard home as he was the worse for liquor. The police swore both were intoxicated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

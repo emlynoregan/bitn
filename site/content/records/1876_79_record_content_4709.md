@@ -36,4 +36,4 @@ Proprietors of the Record.
 W.P. Nesbitt, Thomas Drew, John Drew, Sara & Dunstan, John Roach, T.W. Wilkinson, R. Brummitt, F.W. Holder. 
 Customers of The Record are informed that the Printing Office would be in Market Square, next to Drew & Co.’s store after 17 September 1878, instead of in Commercial St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

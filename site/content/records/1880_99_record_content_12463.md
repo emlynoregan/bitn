@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the apparent inability of the Inspector to abate the goat problem, concluding that at £100 p.a. the Council is not paying enough for a man’s full employment.  Previously he was getting £90, or less than a labourer.  In Adelaide he is paid £160.  Surely ours is worth 50/- a week.  [£130 p.a.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

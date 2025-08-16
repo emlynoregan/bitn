@@ -35,4 +35,4 @@ Martin Corbett was charged with creating a disturbance at Opie’s Hotel.
 
 Fined 40/- or 7 days.  He was unable to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

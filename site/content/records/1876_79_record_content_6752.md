@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Entertainment. The entertainment by the Amateur Dramatic Society [Co.?] is reviewed. The music would seem to have been competent, though the larrikins at the back of the hall were as annoying as usual. The scene from `The Rivals' was better not spoken of and the farce `D' ye Know me Now?' was well done, but not worth doing, being utterly unworthy of the time expended on it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

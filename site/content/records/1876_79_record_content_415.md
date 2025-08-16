@@ -29,4 +29,4 @@ Booborowie Council Clerk writes to say he has taken the job without profit, at Â
 
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876â€“79](/publications/record-1876-79/)

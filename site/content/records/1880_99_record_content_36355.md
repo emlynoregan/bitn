@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Literary Soc. will meet at Mrs Reed’s Temperance Hotel on 2 May at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

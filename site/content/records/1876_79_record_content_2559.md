@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Entertainment. Advt. for Bachelder's Colossean Pantascope [Pantoscopic lens give very wide angle views -`panto' is the correct spelling) which had scenes from NSW and the world. Also Voltaire `Premier Ventriloquist of the World' and Twin Automaton Trapeze Performers. Gifts will be distributed to lucky patrons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

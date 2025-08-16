@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Nick van Buuren is directing the construction of Burra’s Jubilee 150 float for the Adelaide procession on New Year’s Eve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

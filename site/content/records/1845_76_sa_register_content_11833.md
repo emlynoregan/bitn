@@ -36,4 +36,4 @@ There have been but three or four lectures in the past year instead of one a mon
 
 What the cause may be the writer does not know, but he hopes they may soon be addressed by a meeting of members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

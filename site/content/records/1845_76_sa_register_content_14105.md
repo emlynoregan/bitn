@@ -66,4 +66,4 @@ Thomas Bath:
 
 At 8.30 came to his office and was soon afterwards informed of the fire.  Called for water and fetched some wet blankets.  When he returned the fire had already spread from the shed.  Though it likely the fire originated from ashes thrown out.   Neighbours generally threw ashes out near his shed.  There was a heap right against the palings.  The young man in his employ whose business was to go there did not smoke.  He rented the shed from Mr Bennett and his loss would be inconsiderable.  All the cottages, some of which were partially destroyed, had back doors and may have thrown ashes near the shed.  Had no doubt the fire originated at the back of the building near the ash heap.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

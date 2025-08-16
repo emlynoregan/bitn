@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mail. A fortnight ago an extra mail run was established between Kooringa and Redruth each day and from Monday last a morning mail delivery has been made in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

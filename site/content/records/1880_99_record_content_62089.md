@@ -30,4 +30,4 @@ Advt.  Luke Day has been appointed agent for T.R. Meinrath, Bottle Merchant of A
 
 [The advt. also denies that ‘a man named Lewis’ has any right to operate in my [Day’s] name – ‘I have no connection whatever with him.’  It would be interesting to know if this Lewis was the Aaron Lewis, a coloured man and marine store dealer, who featured so prominently in a court case in 1893: see the paper of 3 May 1893.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

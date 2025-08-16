@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 General Downes as a retired officer has been denied the right to command the SA forces by British authorities.  The SA Government is trying to induce the authorities to change their minds.  He has in the mean time tendered his resignation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

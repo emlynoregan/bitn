@@ -40,4 +40,4 @@ The Central Road Board has not kept the promise it made to complete the road and
 
 There was another fire towards Booborowie on Friday 29 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

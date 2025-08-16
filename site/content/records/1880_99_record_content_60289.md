@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Rt Rev. Dr Harmer, Anglican Bishop of Adelaide, visited Burra last Sunday and in the morning conducted a Confirmation Service for 28 candidates.  In the evening he preached to a full church and William B. Page, choirmaster, was presented with a liberally filled sovereign case in recognition of his services.  10 candidates were also confirmed on Monday evening at Black Springs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

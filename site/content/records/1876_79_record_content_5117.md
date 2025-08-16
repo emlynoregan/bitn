@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. At the Inst. 14 Nov. The Grand Actress and Superb Vocalist, Miss Annie Firmin, with the celebrated actor Mr John Jack. 3/- & 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

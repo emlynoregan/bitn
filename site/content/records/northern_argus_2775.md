@@ -46,4 +46,4 @@ Tony Cooling: Salesman at Burra for 12 months.
 
 Andrew Pike: Merchandising Clerk at Burra since February.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

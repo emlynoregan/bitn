@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 A writer writes re free, compulsory and secular education, urging a reconsideration of ‘secular’ along with the ‘free’ currently being debated in Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

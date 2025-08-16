@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offences.  Matthew McKeon was fined £6 or two months (and got the latter) for unlawful possession of two £1 notes, the property of Thomas Warnes.  Mr Warnes had lost the notes out of his pocket at the Burra Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

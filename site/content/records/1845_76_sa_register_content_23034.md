@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Farrell’s Flat Railway Station seems to be right for Clare folk.  We are pleased the mail is to be run from there.  A well-known miller is said to be contemplating erecting a mill and there is also talk of running cabs to Clare etc.  A resident landed proprietor is on the eve of cutting up one or two sections for a township.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

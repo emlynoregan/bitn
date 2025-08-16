@@ -36,4 +36,4 @@ A son of Mr Eichler of Redruth fell from the footbridge at the White Hart and br
 
 A daughter of J. Couch of Aberdeen was run over by a cab on Monday afternoon and is in a critical condition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

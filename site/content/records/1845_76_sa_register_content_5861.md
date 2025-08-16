@@ -28,4 +28,4 @@ Burra Money Orders
 
 A deputation waited on the Directors and Secretary of the Association on their recent visit to the Mine to ask that the Association adopt such measures as would relieve private parties from the necessity of issuing small money orders.  This practice has been extensive and created a system open to extensive and easy fraud.  The Association has agreed to issue 5/- orders so as to supply the want of coins in circulation in the town.  It is understood that in the future all private orders will be refused in transactions.  This will make for greater safety as in the past the holder of an order had a doubtful legal claim against the drawer.  The drawer in many cases being an agent or a servant made seeking redress more difficult.  We have long felt that the banks have failed in their obligations to the people from whom their wealth is derived, in not sweeping away the whole system of money orders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

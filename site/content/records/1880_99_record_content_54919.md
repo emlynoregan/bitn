@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial, on the fourth annual inspection of the Burra Co. Mounted Rifles which is as numerous now as when founded despite the continued reduction in the defence budget which has cut the allowance paid to maintain the company.  ‘But the men cannot be expected to continue their good work at their own expense.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

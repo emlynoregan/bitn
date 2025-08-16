@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Overall the paper was informative, a good record of local activity, and the editorials gave considerable attention to colony-wide issues and the activities of the Government in Adelaide.  There was little padding out with jokes or odd stories from abroad etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

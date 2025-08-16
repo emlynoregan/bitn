@@ -63,4 +63,4 @@ Assays in Calcutta say it is reckoned to be the purest ever brought to that mark
 
 [The writer then goes on to complain that copper is not being smelted in England and cannot understand why not.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

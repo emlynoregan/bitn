@@ -28,4 +28,4 @@ Entertainment. The Wheeler Family, Comedy Entertainments will perform at the Ins
 
 Sketches: `Upper and Lower Ten', `St Patrick's Day Parade', the Farce `Handy Andy' and the Comedietta entitled `Divorce', with songs, duets and dances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

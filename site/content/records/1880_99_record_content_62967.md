@@ -47,4 +47,4 @@ The year began with a credit balance of £14-17-6 and now there is one of £23-2
 
 Public works took up £190-10-0, an increase of £20-12-0 and £210 went for bond redemption and interest.  This marks the end of the town’s bonded debt which had existed since 1879 and at one time amounted to £2,700 and on which interest over the years had amounted to £709.  This has allowed the reduction in the town rate to 11d and a further reduction will be possible in the New Year.  The rateable value of the town for 1898 is £8,645, down £14-9-0.  A breakdown of expenditure by Wards follows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

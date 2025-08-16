@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ulooloo.  Several men are still working the goldfield.  Large quantities of goods are being forwarded to the Albert Goldfields.  [Apparently due to the low level of the river - the Darling, presumably.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Westbury Wesleyan Sunday School anniversary was held on 30 October and 2 November and all passed off nicely.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from Morland Chaplin saying ‘Satisfied’ makes two points: firstly that Chaplin is incompetent to comment and secondly people in the north end are ‘not acting on the square’.  What he fails to see is that the people here cheerfully aid and support any movement started in Kooringa.  As for myself I have the misfortune to lead an idle life and so can make frequent use of the Institute while from the opposite cause many are debarred from doing so.  If the Institute Committee will co-operate with us we will be only too happy to gratefully accept their aid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

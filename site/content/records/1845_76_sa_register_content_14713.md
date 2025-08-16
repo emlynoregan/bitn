@@ -28,4 +28,4 @@ Central Road Board
 
 A memorial was received from 101 inhabitants of Tothill’s Creek, Apoinga and the surrounding district praying that the road from Kapunda to Kooringa via Tothill’s Creek, Apoinga etc. as now taken by Her Majesty’s Mail be declared the main line of road.  Great loss would be entailed on many who had erected homesteads along this route if it were not so declared.  The matter was referred to the Surveyor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

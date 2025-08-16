@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. Geddes-White of Clare intends to introduce 40 performers to the Burra audience on 2 November in a production of the cantata The Haymakers.  Proceeds will aid the local Benevolent Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

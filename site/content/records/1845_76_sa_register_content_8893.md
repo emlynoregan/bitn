@@ -27,4 +27,4 @@ The Burra Burra Mine
 
 Last Thursday at 5 a.m. the great 250 h.p. engine commenced pumping water from the deep levels of the Mine and by 6 p.m. the water level had fallen 15 ft.  It is not likely that this rate of reduction will continue, as there are large accumulations of water in the lower levels.  We may, however, hope that the water will be in fork in the next month to six weeks.  We hope to give more news of progress in three days.  There are now upwards of 300 men at the Mine, with more arriving daily.  The great Mine is set to again become the standby of the colony.  It is expected to be in full production by about May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

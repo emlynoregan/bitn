@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Racing Club.  Last Monday a meeting of the club at the Commercial Hotel resolved to register the club and have the totalizator on the ground.  The meeting to be held on 25 March.  Messrs Holder & Lake were elected Patrons with P.L. Killicoat as President.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

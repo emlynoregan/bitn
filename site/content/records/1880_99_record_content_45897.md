@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  On Saturday Aberdeen played Allcomers on the new piece of ground at Redruth and were beaten by one goal.  The ground is far too small.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

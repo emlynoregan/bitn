@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Wesleyans at Baldina have for some time used a small chapel of corrugated iron which was very hot in summer. Last week Mr J.M. McBride had it painted inside and out at his expense and the new white roof will make it more comfortable in summer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

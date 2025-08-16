@@ -27,4 +27,4 @@ Fire Bricks.  Some months ago we advocated a firebrick industry using fire clay 
 
 [This seems confused unless it suggests a kiln near the railway as distinct from the source of clay which was east of the town and therefore not near the railway.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

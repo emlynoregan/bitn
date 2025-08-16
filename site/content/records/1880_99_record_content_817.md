@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Tender.  The plans for the Hallett P.O. and Telegraph Office are for a stone building, so why does the tender advertisement call for a wooden one?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

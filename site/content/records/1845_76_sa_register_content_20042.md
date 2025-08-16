@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 In the evening there was a public meeting at the Court House where Mr Kelly of Clare gave a spirited address and the united Redruth and Copperhouse Fife bands produced such music as was never heard before in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

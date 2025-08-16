@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Sangster spoke of the good work of the Army and of the need for the young to be careful in their dealings and for parents to talk to their children about their dangers and responsibilities.  [All put very delicately.]  Rev. Rofe also spoke in support of the Salvation Army’s efforts.  He spoke against parents who prevented their children from attending Sunday school and told cautionary tales about drunkenness and gambling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

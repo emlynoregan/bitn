@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 ‘Bystander’ writes to explain that the reason that the ‘Infant Mozart’ did not do well was because ‘they didn’t go the right way to work. They should have blackened their faces and made coarse jokes about as old as the hills, and the room would have been packed,’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

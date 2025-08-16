@@ -32,4 +32,4 @@ Disappearance & Obituary.  E.M. Bagot has disappeared and has not been found des
 
 The latest news is a report that his body has been found at Dry Creek on Monday 2 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

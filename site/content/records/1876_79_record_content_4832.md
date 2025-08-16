@@ -39,4 +39,4 @@ Cr Batchelor said it was often hard to get water from the carters and he often h
 Cr Sara said if mains were laid either all would have to pay or the Council would. The Chairman thought that at Pt Augusta the charge was 20/- per 1,000 gallons. Cr Sara thought it would be closer to 9/- per 1,000 gallons, whereas now it was 2/- for ‘a very small load.’ 
 Cr Wilkinson moved that a letter be sent to the Govt. reminding them of their promise.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

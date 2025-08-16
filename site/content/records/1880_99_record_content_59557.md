@@ -33,4 +33,4 @@ The cemetery wall is to be repaired and the mortuary painted.
 
 Cr Sampson reported on the costs of a fire brigade and could not recommend its adoption by the town as being too costly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

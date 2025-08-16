@@ -35,4 +35,4 @@ John Packham, employed by Mr Saunders, confirmed Eliza Saunder’s evidence.
 
 Taylor was fined 5/- plus costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

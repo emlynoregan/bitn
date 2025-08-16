@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Hardwicke College prizes were distributed on 23 December when the Rev. R.J. Daddow made the presentations.  The prize list is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

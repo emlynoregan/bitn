@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy expressing amazement that such contempt for moral principle should persist as is shown by Cr Ridgway’s decision to withdraw his resignation or by Cr Tiver’s determination to stand again.  Such hypocrisy is beneath contempt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

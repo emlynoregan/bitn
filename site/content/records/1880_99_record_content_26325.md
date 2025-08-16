@@ -38,4 +38,4 @@ But the development of the mineral interests could never have been done by teams
 
 Not only has the Barrier district afforded employment for otherwise unemployed people in the colony, but tradespeople almost everywhere have benefited from the circulation of the cash derived from these.  Bad as times have been, they would have been much worse, but for the Barrier.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

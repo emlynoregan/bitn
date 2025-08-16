@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mt Bryan East.  Conditions are bad and sheep farmers are losing lambs through lack of feed.  Hares are plentiful with one man shooting 16 on Friday.  Last week a coursing meet was held on Wilkins’ Netfield Farm.  Nine hares were let in a 400 acres wire netted paddock.  Mr Russell’s Tip was judged the best dog.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Polo.  At the Polo Ground, Aberdeen, last Wednesday Burra 7 goals 15 behinds def
 
 In the evening the players were entertained at the residence of Hon. J. Lewis MLC.  On Thursday in a second game Burra 4 defeated Broken Hill 3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

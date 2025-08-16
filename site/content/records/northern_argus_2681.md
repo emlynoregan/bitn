@@ -29,4 +29,4 @@ Obituary.  Mrs Xenia Stockman died on 13 May [Burra Hospital].
 
 [Born Xenia Dorothy Elizabeth Thamm 7 May 1901, Walloway.  Married Hedley Bradtke Stockman in 1933.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -36,4 +36,4 @@ A 5-ball billiard tournament for amateurs was begun at the Burra Hotel (Propriet
 
 The committee for the proposed 50 mile bike race meets tonight at the Royal Exchange Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

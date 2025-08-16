@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr P. McM. Glynn BA LLB, one of the Vice-Presidents of the Kapunda Land Nationalisation Society, lectured at the Institute on the objects of the society to a representative, but not large audience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Larrikinism has seen several large trees nearly 10’ high broken off.  This is wilful destruction and ought to be stopped.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

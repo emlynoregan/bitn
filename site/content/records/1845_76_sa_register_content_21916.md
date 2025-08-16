@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The bridge across the Mine Creek is progressing favourably and does great credit to the contractors Messrs Tiver and Woollacott.  [The Mine Bridge]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

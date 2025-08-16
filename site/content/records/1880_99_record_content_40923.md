@@ -27,4 +27,4 @@ Advt.  At the Institute [22 April]
 
 Grand Opening Performance of the Burra Dramatic Club in De Witt’s Grand Irish Drama: More Sinned Against than Sinning.  3/-, 2/-, 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

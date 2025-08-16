@@ -50,4 +50,4 @@ Lucy Gully	abusive language	10/- + 15/- + 15/- witness fee
 
 Johanna Camp v. Lucy Gully in an application for sureties to compel Gully to keep the peace, she having threatened to throw the complainant down a quarry near where they live.  Defendant bound over for self in £10 and a surety in £5 + £1 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

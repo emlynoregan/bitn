@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Two writers refer to the call to aid the victims of the major colliery disaster at Bulli in NSW.  They suggest that there is equally great need for charity at home and it is a form of hypocrisy to give only when your generosity will be publicly noted as in the Bulli case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Pearse has agreed to level off the embankment on the new piece of road, but has refused to do anymore to the road itself.  Council will inspect it and issue definite instructions.  No payment will be made until the work is completed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

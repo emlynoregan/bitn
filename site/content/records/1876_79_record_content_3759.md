@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Burra Mines. The watchmen have been ordered to prevent any persons from descending into the open cut as several of the rock walls are unsafe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

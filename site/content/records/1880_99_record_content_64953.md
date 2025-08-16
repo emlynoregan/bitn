@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cruelty to Animals.  An article complains of cruelty to animals, especially concerned with a horse broken in by Halls: ‘the animal had been ruptured and its bowels were hanging in an abominable and disgusting manner’.  We informed the police and understand the animal has since been destroyed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

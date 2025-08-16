@@ -29,4 +29,4 @@ Obituary.  Mr Charles Drew died 3 October.  [Aged 60.]
 
 He was taken ill about 13 days ago with influenza and on Friday blood poisoning set in.  He had been in ill health for several years.  He was brother to Messrs John & Thomas Drew.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

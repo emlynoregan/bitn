@@ -28,4 +28,4 @@ Notice.  The Royal Mining Company.  The trustees appointed under the Winding-up 
 
 Frederic Wicksteed, Clerk to the Trustees, Adelaide, 16 September 1862.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

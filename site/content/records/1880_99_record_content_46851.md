@@ -50,4 +50,4 @@ Cr Rabbich moved Rawlin’s tender at 2/3 a yard be accepted.  Carried.
 
 [How this last fits in with the rest of the debate is unclear.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -35,4 +35,4 @@ A bazaar in preparation will probably realise this amount.  Mr Gebhardt of Macke
 
 Income for the year was £380 and expenditure £388 which brought the overdraft to £90 of which £78 was due in 1885.  The stipend of the clergyman was reduced a further £25, having been cut by £50 two years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

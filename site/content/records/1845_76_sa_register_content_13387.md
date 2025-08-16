@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 The Bon  Accord Mine Engine is again pumping its stream of water into the huge reservoir in the creek between Redruth and Aberdeen.  The dam across the creek, which was swept away by the last flood, is again being banked up.  We may expect that in a few weeks the ford will be impassable and travellers between Aberdeen and Redruth will have to detour around by the smelting works and across the bridge.  Why has the bridge so long talked of not been erected?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

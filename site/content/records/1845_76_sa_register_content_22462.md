@@ -36,4 +36,4 @@ The Prince of Wales’ birthday on 9 November was honoured with races at Mt Brya
 
 Shearing has almost finished and that is good for owners as grass seeds are getting troublesome.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

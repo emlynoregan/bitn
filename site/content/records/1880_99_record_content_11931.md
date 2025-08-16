@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Accident.  Hugh Kennedy, at W. Henderson’s had a piece of iron fly into his eye from an adjoining forge on Monday.  It is possible the sight might be saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

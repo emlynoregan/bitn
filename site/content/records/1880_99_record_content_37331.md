@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Ministers of Religion will now be allowed to become Councillors under changes just passed by the House of Assembly.  We hope that ministers will not avail themselves of this as it would have the potential to be very divisive and to arouse much unfortunate jealousy in towns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

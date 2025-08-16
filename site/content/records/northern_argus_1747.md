@@ -39,4 +39,4 @@ Chairman of the Burra Burra DC Mr Jack McMahon gave a brief history of the proje
 [Photo of the crowd at Morphett’s Enginehouse and on page? one showing Keith Johns addressing them.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

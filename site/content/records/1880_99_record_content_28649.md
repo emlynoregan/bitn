@@ -24,4 +24,4 @@ Football.  Tomorrow: a Colours v. Allcomers match.
 
 [For 1888 the results of these local practice matches were not reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ I visited the scene this morning by means of the special train provided by Mr Ma
 
 I have since learnt that Gitsham saved the four end trucks from going over by working the brake in his van.  The train was going down an incline at slow speed when the accident occurred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Burra Mine.  The great engine commenced its operations at 1 p.m. on Thursday, as intended, and nothing could be more satisfactory than its working, which was free from any settling in problems so frequently encountered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

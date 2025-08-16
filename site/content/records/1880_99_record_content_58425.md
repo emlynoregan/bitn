@@ -28,4 +28,4 @@ Editorial on the Village Settlements.
 
 The editor never believed in the movement, but refrained from disparaging the settlements pending the report on their trial.  This report now indicates the most unsatisfactory results.  The principles upon which villages are expected to work are bad and in some instances the land was unsuitable.  The writer is strongly against the co-operative system.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

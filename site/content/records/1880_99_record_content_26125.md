@@ -39,4 +39,4 @@ John Lewis JP moved that it was desirable to take all the children that wanted t
 
 Dr Brummitt said the first step was to get correct numbers involved and find out how many were prepared to pay their own way.  Mr Lewis proposed a subscription list, which he would head with a donation of £5-5-0.  A strong committee headed by the Mayor and Councillors was appointed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

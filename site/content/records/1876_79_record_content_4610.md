@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 Primitive Methodist dinner and concert in aid of the Sunday-school went off successfully 
 last Tuesday. The dinner included ham, turkey, beef, and dainty fare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -38,4 +38,4 @@ Deceased would have been 17 on 14 October.  [Thomas Gabriel Beckwith born 8 Octo
 The evidence of Elizabeth Cameron, nurse, confirmed the above. 
 The inquest was then adjourned till Wednesday to get Mr Gonne’s evidence. Dr Brummitt was recalled and said he was satisfied about the state of the room at the hotel. Gonne’s evidence was compatible with the above. Verdict was accidental death.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

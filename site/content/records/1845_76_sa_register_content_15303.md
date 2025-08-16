@@ -29,4 +29,4 @@ Burra Races were held on 1 & 2 January.  Since the Burra Mining Co. has fenced i
 
 With the exception of one or two bacchanalian brawls tolerably good order prevailed through both days’ proceedings.  No accident or misadventure marred the races.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

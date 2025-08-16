@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the French reaction to the English response to an outbreak of cholera in Toulon.  The editor turns this into an attack on the qualities of France as a colonial power.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

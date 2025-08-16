@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Burra Mines Reports suggest a production of £2,000 worth a week with the present work force and we are assured this is in fact short of reasonable probability.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

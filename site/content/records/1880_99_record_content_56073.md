@@ -30,4 +30,4 @@ Obituary.  Mr J.B. Taylor, for some months in charge of the Hallett School was a
 
 [John Bernard Taylor died 18 February 1895 aged 48.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

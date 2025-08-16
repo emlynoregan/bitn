@@ -70,4 +70,4 @@ Mr Gurr seconded the motion.  It was necessary to have speed in conveying their 
 
 W.G. Cole said the strongest agitation had been for a line from Pt Wakefield to Auburn, but as others had said, there was not sufficient land along that route to produce a revenue and the route up the Gilbert would pass through one of the richest agricultural districts of the colony.  It would open country north of Burra and provide for the easy conveyance of stock.  He moved for the formation of a committee to draw up a petition, collect signatures and see it presented.  John Moule seconded the motion, pointing out that having become the greatest wheat producing colony in Australia, an extension of railways was needed to protect their position as Victoria was rapidly extending a network of railways and land was being placed in the possession of farmers on easy terms.  Carried without dissent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

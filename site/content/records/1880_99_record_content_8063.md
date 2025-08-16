@@ -28,4 +28,4 @@ Model School Boys 61 & 38 (99) defeated Commercial School Boys 16 & 38 (52)[sic]
 
 A win by 47 runs.  [At least one of these numbers must be wrong!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

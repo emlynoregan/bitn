@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Rev. Trevor Rogers was welcomed to Burra Uniting Church and a special induction service was held on 14 October.  Chairman of the Frome Presbytery Rev. Doug Hosking officiated.  Trevor has previously been a farmer in the Maitland area and a part-time shearer.  He and his late wife Margaret have two children.  Margaret died in 1982 and in 1984 he married Ann who comes to Burra with him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

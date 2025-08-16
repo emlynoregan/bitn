@@ -30,4 +30,4 @@ XXIX	The distances cited are impossible or absurd.  60’ would be adequate.
 
 XXI	This would prevent a farmer from selling a little extra produce without a licence and even for real hawkers it is an unnecessary restriction of trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Cash’ urging the daily publication of The Record and lamenting the lack of local business vitality that would, he says, provide prices comparable with Adelaide and so prevent the tendency of people to shop in the city.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

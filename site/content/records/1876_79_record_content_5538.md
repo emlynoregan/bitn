@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Marriage. 24 December 1878. Catherine Francis Carnatic Young, eldest daughter of Thomas Young of Aberdeen, to Thomas Henry Woollacott, youngest son of William Woollacott of Nelson Town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

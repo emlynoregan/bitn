@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church conference has given permission for the sale of the old Bible Christian parsonage and school in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

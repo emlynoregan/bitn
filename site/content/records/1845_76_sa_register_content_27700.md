@@ -30,4 +30,4 @@ A Complimentary Banquet was given at the Saddleworth Institute on 19 June to the
 
 [A number of those present are listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

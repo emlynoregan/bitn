@@ -30,4 +30,4 @@ Cr Pearce called attention to the unsafe state of the fountain in the Avenue.
 
 There is a complaint that several young ladies are very fond of plucking branches from pepper trees in the Redruth Reserve.  The Inspector has been instructed to look out and enforce the penalty for the destruction of trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

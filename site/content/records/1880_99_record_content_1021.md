@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Theatre Royal Comedy Co. played on Wednesday, performing H. Byron’s ‘Our Boys’ and on the last night they presented Robertson’s ‘Caste’.  They were well attended and much appreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

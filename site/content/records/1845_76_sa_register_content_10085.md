@@ -48,4 +48,4 @@ The Primitive Methodist Chapel is nearly finished and is a neat place of worship
 
 A mail leaves every Saturday at 9.30 a.m. for Mintaro and Watervale.  It leaves Watervale for Port Wakefield on Wednesday and returns on Thursday to Watervale, where it arrives in time to be forwarded to Kooringa where it arrives 11 a.m. Friday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

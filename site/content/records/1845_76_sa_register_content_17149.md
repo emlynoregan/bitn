@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Hon. G.C. Hawker, Speaker of the House of Assembly has contracted Messrs Hamilton to prepare plans for a neat little church on his station at Bungaree – to be erected immediately.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

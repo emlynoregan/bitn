@@ -26,4 +26,4 @@ Some talk has occurred recently about the formation of a District Council or a C
 
 It has been proposed to present a memorial to the Directors that the new company, when formed, should have the power to sell the freehold to the properties in Kooringa, while reserving mineral rights.  If they did this more substantial houses would soon appear.  Should freehold be granted there would be no difficulty in forming a Corporation and this would then be able to see to the removal of the disgusting outhouses now so prominent and to see to the enforcement of sanitary rules.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

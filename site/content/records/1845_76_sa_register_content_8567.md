@@ -41,4 +41,4 @@ Ores of malachite of various percentages, including fibrous malachite
 
 Ores of red oxide and native copper combined, of about 80%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

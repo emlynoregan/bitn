@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 St Mary's will hold a bazaar 14 June in the Institute, followed by a concert in aid of St Mary's building fund. 3/-, 2/-, l/MOONLIGHT
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

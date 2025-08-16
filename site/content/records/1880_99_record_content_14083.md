@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Burra Silverton Railway deputation met the Commissioner of Public Works on Wednesday, but he said the length and cost far exceeded what was needed and he held no hopes for its construction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

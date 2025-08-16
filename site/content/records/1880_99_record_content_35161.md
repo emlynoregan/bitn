@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks calls tenders for 50 tons of firewood: good sound mallee in 2’ lengths 2” to 6” in diameter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

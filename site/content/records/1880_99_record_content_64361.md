@@ -45,4 +45,4 @@ Rain.  Some good falls have been recorded in the last few days.
 
 Burra Hospital has put on an extra nurse on account of having more patients.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

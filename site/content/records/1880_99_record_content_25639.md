@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Adelaide Football.  On 24 May over 7,000 saw Adelaides, 3.8 defeat Norwoods, 3.7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

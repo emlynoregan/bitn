@@ -28,4 +28,4 @@ The Royal Mining Co.
 [The report of the Directors to the half-yearly meeting is printed.  They report the activities at their Karkulto property as already noted and then go into much more detail on the prospects of the discovery made by the E. & A. Copper Co. while leasing the site.  They also report extensively on samples taken from the site.  The reported having £2,386 immediately available to develop the mine and have called for tenders from miners to operate the site.  They prefer this to operating the mine on their own account.  If this process fails, they then propose to spend £1,000 in sinking a good trial shaft on the most promising ground.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

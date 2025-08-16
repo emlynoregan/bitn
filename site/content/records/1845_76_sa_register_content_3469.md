@@ -29,4 +29,4 @@ Advertisement.  Burra Burra.  C.H. Baddeley’s (Late Captain Brown’s) Store.
 
 Thompson & Kekwick have taken over the premises and beg to inform that they have on hand a large quantity of groceries, ironmongery, and other items, which they intend to offer at the lowest possible prices.  N.B. Bullock drivers supplied on the most reasonable terms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ The removal of young men from the town is shown in the rollcall where the number
 
 The General was complimentary.  The absence of the band was notable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

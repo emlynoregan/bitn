@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 The Legislative Council has blocked the 19th part of the municipal Corporations Bill and so it is likely to be shelved again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Messrs Catchlove & Co. are enlarging the brewery cellars to provide more accommodation for their bottling department.  When finished all bottling and racking will be under one roof.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

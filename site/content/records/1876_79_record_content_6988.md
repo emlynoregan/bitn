@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Advt. Entertainment Tuesday next at the Kooringa Wesleyan Schoolroom in aid of the building fund. 1/-. MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

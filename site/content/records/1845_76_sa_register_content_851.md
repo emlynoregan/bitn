@@ -40,4 +40,4 @@ The Sabbath is regarded only as a holiday, sacred to cricket and gambling.
 
 Mr Nicholls is off again to the Mines (as advertised).  We commend his steadiness of purpose and from what we hear of his disposition to please his passengers we venture to recommend him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

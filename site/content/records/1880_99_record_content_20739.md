@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Manslaughter case concerning John Flanagan had to be adjourned at Gladstone when Dr Sangster telegraphed his inability to attend.  (The magistrate contemplated his arrest.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

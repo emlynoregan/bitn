@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Govt. has indicated that there will be no payment made on some of the work done on the new bridge. Further application will be made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

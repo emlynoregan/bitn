@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire & Inquest.  Tuesday last the house of H. Hart near Kooringa burnt down.  The inquest is reported in ⅔ column, but they found no evidence to show how the fire started.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

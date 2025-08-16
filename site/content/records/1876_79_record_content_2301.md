@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mine accident; William Ryan's right forearm crushed under a truck. A child's fingers caught in machine cogs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

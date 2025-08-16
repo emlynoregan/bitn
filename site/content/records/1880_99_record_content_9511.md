@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Messrs Tiver and Preece offered £20 plus expenses for the piece of old street in Aberdeen.  Council resolved the price should be £70 plus expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

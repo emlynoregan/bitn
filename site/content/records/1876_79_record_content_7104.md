@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Letter to Editor from `Observer' asserting that supposedly cheaper butter at Gladstone was 4-5 oz short of the pound when weighed and as butter went down in price 8d or 9d a pound in the week concerned [at Burra presumably] Gladstone cannot really beat Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

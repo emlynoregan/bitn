@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Model Parliament met last Tuesday, but there is some falling in attendance, perhaps due to the very cold night.  Tonight’s debate will be on Federation and Taxation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mr T. Porter has made considerable additions and improvements too his house at Koonoona near Kooringa, at a cost of £600.  The architect was D. Garlick and the builder T. Baker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

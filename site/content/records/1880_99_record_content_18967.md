@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church Annual Dinner and Concert, last Wednesday went off very well.  At the concert the front seats were crowded, but back seats were not full and larrikins there marred the occasion.  Proceeds in all were c. £36.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

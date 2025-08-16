@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr M. Rayner of the BFCC is ready to refute in detail the statements of the detractors of the firebrick proposal as soon as they are prepared to emerge from behind their noms de plume.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

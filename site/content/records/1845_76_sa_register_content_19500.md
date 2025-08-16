@@ -28,4 +28,4 @@ Obituary.  A small daughter of James Fitzgerald aged 3, last week fell backwards
 
 [Margaret Fitzgerald born 10 April 1863, Redruth: died 27 June 1866, Redruth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

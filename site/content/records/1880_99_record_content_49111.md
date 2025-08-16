@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. E.J. Piper who has been a short time at the Kooringa Bible Christian Church is to go to China.  [Was he there because Rev. Yeoman was ill?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

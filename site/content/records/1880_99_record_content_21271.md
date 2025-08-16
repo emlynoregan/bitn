@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 As promised by a former Minister they get a statement of the items of cost in the construction of the extension to the Waterworks for the town as the statement received is merely a summary of totals and quite insufficient to prove the correctness of the total which the Council disputes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘W’ saying that on Wednesday he saw boys 10-12 years old setting off ‘Chinese crackers’ in the doorway of the printing office and Mr Walker’s shop.  It is time the sale of such was stopped in the interest of preventing fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

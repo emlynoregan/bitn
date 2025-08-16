@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 [One of the speakers had suggested that upwards of two thousand signatures could be expected, if the people had not all left for the Diggings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

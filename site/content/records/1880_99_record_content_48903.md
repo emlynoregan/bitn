@@ -77,4 +77,4 @@ Mr Thomas Pascoe of Terowie, another candidate, visited on Wednesday.
 
 Theft.  Someone has stolen the collection box from the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

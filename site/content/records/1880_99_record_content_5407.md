@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Redruth Sunday School Anniversary went off well, but the public tea was only fairly attended.  The school is increasing in spite of many removals.  Hope was expressed that a schoolroom might be built.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

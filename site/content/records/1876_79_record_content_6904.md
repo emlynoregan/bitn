@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Discussion re a cheque for £12 misappropriated by the late Town Clerk (Mr J. Fogg) - some steps had been taken and Council would have to decide on what to do next - deferred to next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

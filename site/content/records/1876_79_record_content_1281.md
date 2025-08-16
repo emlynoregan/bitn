@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Hallett railway: Petition for Hallett railway station to be moved into the town presented to the Commissioner of Public Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

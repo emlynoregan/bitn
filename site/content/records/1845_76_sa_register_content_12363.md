@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Weather.  Several fine days have produced grass, but it is now very cold and more rain threatens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

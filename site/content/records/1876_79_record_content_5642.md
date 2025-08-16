@@ -41,4 +41,4 @@ Cr Geake thought that without a health rate rubbish would only be hidden and not
 
 There was a long argument over tendering out of work versus giving it to the daymen. Crs Ridgway & Richardson being strongly in favour of tendering out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

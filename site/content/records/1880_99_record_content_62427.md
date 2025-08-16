@@ -36,4 +36,4 @@ There will be a public refreshment booth at the grounds.
 
 Admission to oval 3d (children free), Vehicles 6d.  (No horsemen)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

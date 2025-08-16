@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Caldwell wishes the House of Assembly to open with prayers.  Now there are prayerful men in the House, but for many it would be casting pearls before swine.  Fancy a prayer to a Kingston, a Rees, or a Rounsevell?  Why it is absurd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

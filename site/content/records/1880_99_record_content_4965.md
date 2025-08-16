@@ -34,4 +34,4 @@ From ‘Wun Hu Knows’ in response to E. Diplock and the Burra Mine (In Cornish
 
 From ‘Templar’ re shop hours.  Three or four years ago the shopkeepers agreed to close earlier in the evening, but the old ways have gradually re-emerged with the changed in proprietors.  The writer believes shops were more consistently busy when they closed at 8 p.m. than they are now when closing at 10 p.m.  Some say they would do better closing at 6 p.m. all the year.  Why don’t they try it then?  The change would seem to benefit all.  There would be a saving in lighting oil, fewer fires, and more fresh air for workers, with the same business done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

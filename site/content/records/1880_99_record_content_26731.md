@@ -44,4 +44,4 @@ publication_slug: record-1880-99
 
 And Mrs W. Fuss 1st for Bouquet for Table, 2nd for Bouquet for Hand and 2nd for Bridal Bouquet.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

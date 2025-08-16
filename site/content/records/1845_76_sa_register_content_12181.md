@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The River Broughton Mining Co. also has men at work and some nice specimens from the bottom of their shaft have been sent in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

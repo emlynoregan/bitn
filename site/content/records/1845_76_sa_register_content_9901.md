@@ -33,4 +33,4 @@ John Goodfellow recalled Dr Carmichael returning from Kapunda, having gone there
 
 His Worship dismissed the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

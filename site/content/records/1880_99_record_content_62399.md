@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Jubilee Benevolent Society Grand Concert 22 June. 1/-, 1/6 reserved
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

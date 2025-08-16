@@ -35,4 +35,4 @@ Editorial on the new Parliamentary Session and the need to act on the land quest
 
 Unemployed men are being sent to the drainage works in the South-East and others to water conservation works at Ardrossan.  We hope work will soon start on the Burra Waterworks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

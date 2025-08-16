@@ -41,4 +41,4 @@ Major Thurman then replaced him on the stone and expressed his pleasure in seein
 
 The procession then went on to the Recreation Ground to a large tent and a tea.  Weather threatened then with rain likely, but the crowd adjourned to Market Square where several hundred people stood for two hours around a wagon from which various visitors addressed them.  Thick clouds of wind-borne dust did not deter them.  We understand financial proceeds were satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

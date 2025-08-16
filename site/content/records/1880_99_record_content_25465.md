@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Inquest into the fire at the Baldina Hotel is reported at some length, but the details add little to what had already been reported.  The fire started in the cellar, but how remained unclear and the verdict was ‘accidental’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

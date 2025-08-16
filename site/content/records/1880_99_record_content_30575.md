@@ -30,4 +30,4 @@ Notice.  The PUBLIC are cautioned against giving subscriptions in aid of the ori
 
 Also, that A. Wheatley or John Harry have no connection with the above whatever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

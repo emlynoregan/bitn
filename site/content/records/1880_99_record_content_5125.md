@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 St Mary’s recent bazaar raised £145.  Nearly £900 has been raised in gifts etc during the year, which has much improved the church’s financial position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

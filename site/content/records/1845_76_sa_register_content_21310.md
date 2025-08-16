@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Frederick Houghton was committed for trial on 2 November on a charge of stealing a horse belonging to James Williams.  The prisoner was a cook on Mr Cooper’s Run.  On 16 October he came into Burra and took a horse from near the pound.  He rode it to the Pig & Whistle from where he stole a saddle and bridle.  He was arrested at Blanchetown by Police-trooper Ewins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

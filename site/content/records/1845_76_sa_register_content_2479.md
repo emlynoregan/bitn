@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  W.W.G. Nicholls again advertises the departure of the Reformer stage-cart for the Burra Burra Mine by way of Bagot’s Mine and then to cross the country to Mount Remarkable, should inducement offer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

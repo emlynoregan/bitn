@@ -40,4 +40,4 @@ Thomas Harris was charged by J. O’Connell ranger for Mt Bryan DC with rescuing
 
 Thomas Murray was fined 5/- for drunkenness and £1 for indecent language.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

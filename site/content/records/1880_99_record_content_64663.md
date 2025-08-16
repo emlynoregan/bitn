@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Agricultural Bureau met last Friday and passed a vote of thanks to Mr Forder for his efficient services since the branches inauguration in 1888.  Mr A.H. Forder resigned as he is leaving the district and Mr R.M. Harvey was elected to fill the vacancy so caused.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

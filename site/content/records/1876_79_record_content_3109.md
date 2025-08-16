@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Corp. is to complain to the Commissioner about the removal of Constable Wilson from Kooringa to Redruth.  As they paid half his salary, they felt they should have some say in the move of such a popular officer.  They were supported by a deputation led by Rev. Howitt aided by Thomas Drew.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

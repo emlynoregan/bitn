@@ -42,4 +42,4 @@ Burra 6 goals 5 behinds defeated Broken Hill 2 goals 3 behinds in the polo match
 
 A Reserve Race for the Burra Co. MR ended the day and was won by Pte W. Gillett. (£1-10-0)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

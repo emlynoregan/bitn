@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Hon. G.S. Kingston said he had arrived in SA thirty-three years ago.  He had laid out Burra twenty-two years ago and always felt a great interest in its progress.  He felt sorry for its present state and believed there would yet be good times ahead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Next Thursday, August 3rd [sic: actually 23rd] in the Kooringa Wesleyan Lecture Hall the Rev. H.T. Burgess will deliver a lecture for which he recently received a £50 prize: The Future Position of Australia Among Nations, with music by the Redruth Choir.  Entrance is free, but there will be a collection to aid the Circuit Funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

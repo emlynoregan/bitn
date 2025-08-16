@@ -27,4 +27,4 @@ Notice.  Redruth Primitive Methodist Chapel
 
 Special services will be held at the chapel next Sunday and Monday with three sermons on Sunday and a Public Tea at 5 p.m. and Public Meeting at 7 p.m. on Monday.  The speaker will be Rev. E. Masterman on Missionary Life and Labours in London.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

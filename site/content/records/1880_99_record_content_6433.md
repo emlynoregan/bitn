@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  Tenders called by the Town of Burra for a £100 bond for each year 1883 to 1887 inclusive.  Also £200 bond for each year 1888 to 1897 inclusive at 5% payable half yearly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

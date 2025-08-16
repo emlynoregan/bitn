@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  A rifle match was fired on the range on Wednesday last.  There were 14 entries, but it was too windy for high scores.  Col. Sgt Watt 1st, Cpl J. Cooksley 2nd, Pte W.T. Rabbich 3rd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

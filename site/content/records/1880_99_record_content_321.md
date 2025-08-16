@@ -38,4 +38,4 @@ Mr Andrews will continue as scavenger and will work 22 days a month rather than 
 
 Cr Batchelor moved and Cr Drew 2nd that Ayers St be made and maintained by all wards equally.  Cr Ridgway indignantly opposed this and indeed threatened to resign if the matter was allowed.  Cr Dunstan agreed and said he too would resign.  The Mayor thought this an overreaction for which they would be sorry on further reflection.  The motion was then withdrawn pending preparation of an estimate for making and maintaining Ayers St.  Notice of a motion to make workmen pay for sharps was given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

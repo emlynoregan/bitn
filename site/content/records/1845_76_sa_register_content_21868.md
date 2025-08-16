@@ -28,4 +28,4 @@ Metals
 
 [A short article tells of falling prices for all metals except tin.  In the case of copper the huge exports from Chile dominate the market and low prices have not acted as a brake on the quantity from that source.  The only hope of a rising price seems to lie in reduced production following the closure of some British and Continental mines and a large emigration of miners from Cornwall.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

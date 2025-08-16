@@ -31,4 +31,4 @@ Scavenging. Even though last year's arrangements have been much abused, the lack
 
 The Editor also writes regretting the apparent lack of accord between the District Council and the Town Council where they should be co-operating. [The issue concerned the state of a slaughterhouse that was brought to the attention of the District Council by the Town Council.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

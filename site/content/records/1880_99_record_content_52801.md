@@ -54,4 +54,4 @@ The resident engineer gave evidence that the embankment there is only about 6’
 
 The jury took 15 minutes to find for the defendants and Mann ended up having to pay the costs of both parties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

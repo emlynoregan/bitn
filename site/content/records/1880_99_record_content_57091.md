@@ -26,4 +26,4 @@ Burra Show Society
 
 The prize money this year has been increased to £222 and school children will get a section.  The sub-committee that is to see the Council about the erection of a suitable pavilion at the oval is empowered to offer £30 as the society’s share.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

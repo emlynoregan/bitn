@@ -27,4 +27,4 @@ Editorial deploring the maldistribution of wealth and especially the concentrati
 
 There are some good signs of change; one is the gradual emergence of a change from wheat only to the use of summer fodder crops, ensilage, and some diversity of farming activity - a testimony to the work of Professor Custance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

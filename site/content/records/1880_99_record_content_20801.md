@@ -71,4 +71,4 @@ Town Clerk was told he would be paid for work done after 31 December 1855.
 
 He said he did not intend to apply for the position in 1886.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

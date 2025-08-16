@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr J. Jones left on Monday for Broken Hill to take charge of Mr J.T. Walker’s business there.  He will be missed in the Primitive Methodist Church and Sunday school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

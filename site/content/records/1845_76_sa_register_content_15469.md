@@ -35,4 +35,4 @@ Obituary/Inquest.  On Sunday Mr MacDermott SM held an inquest into the death of 
 
 [William Nicholls died 30 March 1862, Kooringa aged 32.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

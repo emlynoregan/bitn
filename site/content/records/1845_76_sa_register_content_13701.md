@@ -40,4 +40,4 @@ Mr Stuart left here today for the south.  He and his party are ill with scurvy. 
 The point reached was about 1,100 miles beyond the settled districts and more than 500 miles beyond the western boundary of the colony.  It nearly completes the track across the continent to the point reached by Mr Gregory from the northern side, down the course of the Victoria River.  Mr Stuart was not prepared to contend with a strong body of natives, as his party consisted only of himself and two men.  Mr Stuart may be expected in Adelaide in a few days.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

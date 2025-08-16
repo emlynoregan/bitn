@@ -41,4 +41,4 @@ The directors have met with no satisfactory inducement to lease for pasturage th
 
 From Captain Richard’s report it appeared that two pitches upon tribute at Baxter’s Lode had averaged about 12 tons per month for the preceding 6 months at a tribute varying from £3 to £4 per ton.  In the same period about 16 tons had been raised from varying parts of the surface at a tribute of £4 per ton.  Many Captain would not pay such rates on tribute, but we regard it as proof of captain Richard’s discernment that he has held out to the working miner this inducement to become instrumental in the more extensive discoveries which undoubtedly must, sooner or later, reward the spirited proprietors of this fine property, and enable the Princess Royal Mine to rival its twin-sister the Burra Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

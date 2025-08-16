@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mine.  The boring machinery and newly appointed engineer will arrive in Burra tomorrow and work will proceed at once.  The secretary expects boring to be underway during the next fortnight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

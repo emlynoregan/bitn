@@ -29,4 +29,4 @@ The Burra Dramatic Society presented De Witt’s Irish drama More Sinned Against
 
 The performance passed off without a hitch.  The whole cast was good and well sustained throughout.  The performance raised about £21 for the Institute.  Mr T. Edwards afterwards entertained the cast in the lodge room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

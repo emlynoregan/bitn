@@ -38,4 +38,4 @@ Agreement with it represents considerable backing down by those initially oppose
 The essential change they object to is the loss of the curved roadway (despite the retention of its kerb line) thus destroying the 140-year-old character of Market Square.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

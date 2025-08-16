@@ -26,4 +26,4 @@ Advt.  First Vessel for the Diggings.  The fine teak brig Gazelle leaves for Syd
 
 300 tons, Captain Woods.  Accommodation for a considerable number of cabin and steerage passengers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

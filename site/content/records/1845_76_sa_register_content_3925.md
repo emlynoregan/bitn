@@ -33,4 +33,4 @@ Obituary/Inquest.  William Lang, coroner, held an inquest at Kooringa on Monday 
 
 [Richard Gilbert died 23 September 1849 aged 17.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

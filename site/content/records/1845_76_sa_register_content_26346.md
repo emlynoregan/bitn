@@ -39,4 +39,4 @@ R. Austin [butcher] has commenced building at Aberdeen.
 
 After good rains farmers are ploughing and sowing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

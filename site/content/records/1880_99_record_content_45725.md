@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 3rd Leader on the dangers at the Bon Accord crossing.  The authorities promised a gong and then, having done nothing, promised gates, but have failed to deliver them as well.  A few weeks ago a cow was killed and now another incident in which Providence alone can tell how a man and horses were not cut to pieces.  The incline makes it impossible for a train to pull up even if tis driver sees an obstruction on the line in good time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

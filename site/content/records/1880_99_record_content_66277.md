@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Jubilee Benevolent Soc. The AGM showed that in 1898 aid was given to 32 aged men and widows and 16 families with 61 members.  364 relief orders were fulfilled: 267 for firewood (£41-1-3), 87 for groceries (£11-11-1, drapery (£3-13-5), flour (5/6) etc. for a total of £58-11-2.  The society is presently in credit to £23-18-7, but needs more with the approach of winter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

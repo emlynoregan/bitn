@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Obituary.  Bob Gill, formerly of Burra North died on 9 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

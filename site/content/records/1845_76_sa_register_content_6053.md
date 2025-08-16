@@ -59,4 +59,4 @@ The ships which bring out emigrants take copper from here to India on their retu
 
 [The author goes on to write of the Reedy Creek (Tungkillo) Mine and of some gold from the upper Torrens Valley.  He mentions an engine breakage has allowed the Kapunda Mine to become flooded; a case of penny wise and pound foolish in purchasing an old engine for the job.  He then writes of mines at Paringa and in the Strathalbyn area and concludes with a report that the Royal Mining Company’s shares are now unsaleable.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

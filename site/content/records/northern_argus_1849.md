@@ -37,4 +37,4 @@ publication_slug: northern-argus
 
 Relatively Speaking a book written by 400 young people of Burra and District was officially launched at Burra Town Hall on Wednesday 8 October.  The guest of honour for the launch was Dr Claire Woods, Superintendent of Studies, English Language, Education Department of SA.  Contributions came from BCS, Mt Bryan, Booborowie, Hallett, Leighton and Farrell Flat Schools and the Burra Kindergarten.  Each story is accompanied by a photo of the child who wrote it.  Colin Fidock received a copy of the book for the Burra Library and Louisa Fidock got one for designing the cover.  The Harris family of Farrell Flat was given one for devising the title.  [Photo of Peter Quick, Chairman of the production committee, Dr Claire Woods and Roger Henderson, Principal of BCS.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

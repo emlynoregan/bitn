@@ -37,4 +37,4 @@ Emmanuel Frederick & George Webber; £1 each
 
 Dr Sangster, Thomas Woollacott, Mrs Clode & R. McDonald; 10/- each
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Goldfields.  ‘A Wanderer’ believes that both Ulooloo and Teetulpa would be paying goldfields id adequately financed and properly developed.  He blames laziness for their failure along with the lack of a systematic and organised exploration program and development plan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

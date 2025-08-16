@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Tennis.  Last Monday at Burra: Burra 9 sets 69 games defeated Clare 2 sets 36 games, before a large crowd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

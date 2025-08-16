@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Richard B. Hannaford has opened ‘Dicks Eating House, Hallett’ and also single and double bedrooms. Covered trap meets trains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Sara & Dunstan have won contracts for the refreshment room at Terowie and for further accommodation at Yarcowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

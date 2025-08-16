@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘ A Wanderer’ joins in condemning the way in which the ‘aristocratic gang of snobs’ looks like getting away with their contempt for the law over the use of the totalizator.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

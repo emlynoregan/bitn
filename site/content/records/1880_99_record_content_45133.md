@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Sunday School Anniversary services were held last Sunday & Monday and were the most successful for some time.  On Monday the sports for children were held at the Burra Oval with tea at the Sunday School at 4 p.m. followed by public tea and the service of song, Primrose Garth.  Over £30 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

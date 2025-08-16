@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Central Road Board has not kept the promise it made to complete the road and make a bridge near the Mine Store.  Work stopped abruptly and was left in a very dangerous condition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

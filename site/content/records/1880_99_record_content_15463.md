@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Town and Country Bank will open a branch in Burra on Monday 1 December with Mr Boote as manager.  It will be located next door to the Record office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

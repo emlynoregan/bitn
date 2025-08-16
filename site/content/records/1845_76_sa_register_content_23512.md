@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Burra Railway.  The Engineer-in-Chief and members of his staff paid an official visit of inspection to the Burra Railway on Saturday.  Mr Mais himself drove the engine a great part of the way and carefully examined the line, which is now completed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

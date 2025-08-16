@@ -37,4 +37,4 @@ Both men were shearers.
 
 The prisoner had been searched en route to Burra, but although nothing was then found, he had later changed two £5 notes at Petersburg and was arrested and charged and confessed to the theft.  He said he had done it while drunk and intended to return the notes to Hennessy at Petersburg, but had again got drunk there before finding Crawford.  He was committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

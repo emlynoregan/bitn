@@ -29,4 +29,4 @@ Marriage.  31 January, James Ellery, youngest son of Edward Ellery of Kooringa a
 
 Mrs Teresa Ann M’Mahon of Mt Bryan, 2nd daughter of the late Mr Peter Collins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

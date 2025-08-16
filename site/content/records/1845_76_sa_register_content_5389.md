@@ -38,4 +38,4 @@ William Stoneham was shearing sheep at the defendant’s woolshed when he heard 
 
 His Worship dismissed the complaint and ordered costs to be divided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

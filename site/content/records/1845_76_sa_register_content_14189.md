@@ -83,4 +83,4 @@ The newly born baby was Christopher Bollman born 14 March 1861, Hampton.
 
 Mrs Emma Bollman married Walter Way 21 July 1861 and had 8 children with him.  He died at Wallaroo in 1901, but she survived until 6 February 1931 at Wallaroo, when she died aged 96.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

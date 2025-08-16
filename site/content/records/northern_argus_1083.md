@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Golf Club held its open day last Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

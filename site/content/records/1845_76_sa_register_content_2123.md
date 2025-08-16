@@ -28,4 +28,4 @@ Charles James Ware, The Miners’ Arms, Kooringa.
 
 Applicant applied in the room of Henry Chandler who had formerly held the house.  Granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

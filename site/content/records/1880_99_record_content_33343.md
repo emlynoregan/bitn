@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 [It is worth noting that among the objections there is no mention of the racial stereotypes and racial slurs that to a modern critic would presumably be at the forefront of objections.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

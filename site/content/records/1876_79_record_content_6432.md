@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Town Council. The Mayor reported that upon the late Town Clerk not producing a statement of account as required by law, auditors had gone over the books and the late Clerk was brought to court and after being remanded was given an opportunity to obtain money, £47 odd being admitted short. A distress warrant was issued and if that did not produce enough he would be imprisoned. It is almost certain the sum will be obtained and the loss to the Council will not exceed £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

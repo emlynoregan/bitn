@@ -33,4 +33,4 @@ Ling How was charged by Drew & Crewes with stealing a bag of rice valued at 13/-
 
 [There is a typical cryptic comment in the ‘Sparks’ column which probably refers to this trial: ‘Hollo, Chorlie! Chorlie no like it.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

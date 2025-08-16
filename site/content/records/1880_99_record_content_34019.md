@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Theft.  Several of Mr P.L. Killicoat’s sheep have been shorn by other than the owner and the fleeces taken.  He offers a reward of £100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

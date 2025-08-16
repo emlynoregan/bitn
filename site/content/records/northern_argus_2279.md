@@ -56,4 +56,4 @@ Bob Lewis was the guest speaker.  Bob is President of the National Trust SA and 
 
 [Photo of Maureen Wright with Ted Baulderstone and Bob Lewis.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

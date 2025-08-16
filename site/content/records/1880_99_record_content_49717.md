@@ -30,4 +30,4 @@ Edwin Boulton and John Bruse, two young men, were fine 5/- + 12/6 costs for insu
 
 (A second case on the same date was settled out of court.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

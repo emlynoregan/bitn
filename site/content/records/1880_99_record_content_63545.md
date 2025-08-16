@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Tiver’s tender of £7-14-0 was accepted for the tending of the lamps [sic] at the north end of the town.  [Presumably an error for ‘lamp’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

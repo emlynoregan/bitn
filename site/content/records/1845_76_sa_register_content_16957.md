@@ -34,4 +34,4 @@ The house is substantially built in brick and stone, of twelve rooms and kitchen
 
 The garden has been tastefully laid out with ornamental trees and shrubs, flowers, vines and fruit trees.  The property lies on the Main North Road within easy distance from Town, being only 2½ miles from the Exchange.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

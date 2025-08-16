@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Publicans’ Licences issued 17 March 1847, Adelaide.  The list includes Abraham Wren for the Burra Burra Hotel at Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

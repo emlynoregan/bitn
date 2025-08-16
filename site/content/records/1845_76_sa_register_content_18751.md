@@ -45,4 +45,4 @@ Mr Harris spoke for Tothill’s Creek Road.
 
 A decision was deferred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

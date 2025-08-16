@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Wesleyan Schoolroom, Kooringa. The foundation stone was laid on Monday by Mrs Bruse. Rev. H.T. Burgess gave the prayer. Mr Holder read out the contents of a bottle placed beneath the stone. Rev. W. Campbell then asked for a collection of donations to be laid on the stone and £24 was collected. So far they have £279 and the ladies hope to raise £250 at a bazaar. The total cost is expected to be c.800. Rev. H.T. Burgess spoke of his connection with the school 30 years before as a scholar, teacher, secretary, etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

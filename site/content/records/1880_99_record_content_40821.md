@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr & Mrs Sampson were thrown from their trap on the way home from the races on Wednesday: apparently from the trap being turned around too short.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

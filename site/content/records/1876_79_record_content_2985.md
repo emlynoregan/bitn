@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Midland Road Board calls tenders for the Kooringa-Baldina road and the North West Bend (Morgan) road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

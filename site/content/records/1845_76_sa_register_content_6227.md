@@ -29,4 +29,4 @@ Obituary/Accident.  We learnt yesterday from Mr D’Arcy of the Cross Keys, Litt
 
 [SA Deaths CD records this death as David Bryee (probably a mistaken transcription of the handwriting) died 21 May 1851 aged 46.  See more at 23 May, page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

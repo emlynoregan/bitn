@@ -35,4 +35,4 @@ Accident/Obituary.  On Friday last, at the Smelting Works, a scaffolding thirty 
 
 [John Fox died 18 December 1849 aged 29.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

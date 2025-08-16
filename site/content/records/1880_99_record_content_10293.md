@@ -28,4 +28,4 @@ R.W.M. wants an education limited for each grade and condition of society - ‘n
 
 The State, he says, cannot provide free education for all levels of society.  Those exercising rights and privileges attached to wealth and social position need a superior education the State can’t provide.  R.W.M. then goes on to consider the ‘evil effects of an indiscriminate bestowal of the suffrage.’  Education requires a very strong moral base, thus the State should ensure that the time between 13 and 21 is spent in learning some useful occupation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

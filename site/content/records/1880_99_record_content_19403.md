@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Telegraph.  A telegraph line to Silverton along the railway from Petersburg is expected to be in use by 1 June 1886.  [It would seem that there was a circuitous line via Menindee in existence.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

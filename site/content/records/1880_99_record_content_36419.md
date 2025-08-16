@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the arrest of those who tried to form a company to purchase the assets of the Commercial Bank of SA (in liquidation) and to get rid of the properties on the art union principle, securing 120,000 subscribers at £1 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Railways.  Holder spoke in the Parliament against moving the break of gauge from Terowie to Petersburg: mainly because of the large capital already invested in infrastructure at Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

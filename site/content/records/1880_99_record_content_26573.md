@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Public School.  The pupil teachers’ examination results are out and all the young teachers from Burra passed.  Masters Archibald Wade, William A. Dow, William A. Bentley, Misses Charlotte A. Clode and Annie A. Phillips appear in the lists.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

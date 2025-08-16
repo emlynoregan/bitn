@@ -36,4 +36,4 @@ Obituary.  James Alfred Langton aged 7 was drowned last Wednesday in the waterho
 
 [The Return Thanks notice adds that he was the son of James Langton of George St, Kooringa and thanks Master F. Hornhardt for his brave attempt to save the boy.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

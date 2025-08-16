@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Mr C. Todd, Superintendent of Telegraphs, has been inspecting the township to find a site for the telegraph office and other arrangements for the telegraph, which is shortly to be carried on here.  It is hoped that the site will be in some central position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 James Tiver writes complaining of straying horses and cattle after dark.  They are a great nuisance, particularly to women and children and to the teamsters who have to stay up at night to guard their horses to protect them from starved strays seeking to eat their feed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -54,4 +54,4 @@ Cr Winnall 2nd the motion and Cr Sampson added that Cr Rabbich’s attack was ve
 
 There were reports concerning two bridges and the recent flood.  The one near Mr Finch’s was not damaged, but that near Mr Newman’s was washed away.  A committee was appointed to confer with the District Council on what can be done with the road to Princess Royal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

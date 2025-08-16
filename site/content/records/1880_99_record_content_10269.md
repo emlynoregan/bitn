@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the concept of perpetual leases for Crown Land.  Many places in SA are surrounded by large estates rather than by square mile farms and as a result towns languish.  Even Burra is surrounded by large and growing estates.  The editor then goes on to consider the aims of perpetual lease rather than ownership.  The ownership of improvements would be acknowledged, but not of the land.  There would be an acreage tax - much easier to collect than income tax.  Large estates would not be productive enough to sustain themselves, as they would be taxed at optimum productive levels favouring more intensive use.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

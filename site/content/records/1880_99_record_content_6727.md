@@ -34,4 +34,4 @@ Kooringa Police Court 6 April
 
 Henry Hart aged 7, William Hart aged 6, and Sarah Hart aged 4, were charged with being neglected children and the boys were sent to the Industrial School till 16 and the girl till aged 10.  Their father was in the Destitute Asylum and their mother in hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

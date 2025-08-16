@@ -27,4 +27,4 @@ William Coghill, Gilbert Arms, River Gilbert.
 
 The house was represented as been building for the last three years and was not yet finished.  The applicant said he had a short lease of the house, but had laid out £150 in improvements.  He had five bedrooms and two sitting rooms, one forty feet long and the other eighteen; altogether accommodations for 30 persons.  He had been careful always to keep a good supply of fodder for cattle and horses and had sunk five or six wells for the purpose of obtaining good water.  Granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

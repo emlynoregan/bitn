@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Lewis tried to avoid paying a fine for driving around Best Place corner at over 4 m.p.h. by pleading that without a town survey and a town plan lodged there were in fact no town streets.  The bench held that the Corporation Act considered all thoroughfares to be streets and fined him 10/- + 42/- expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

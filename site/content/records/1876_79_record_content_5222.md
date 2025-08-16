@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The Legislative Council seems bent on stopping any more railways at present except for the Nairne line. The Rifle Companies Bill is now sure to pass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

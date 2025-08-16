@@ -27,4 +27,4 @@ Inquest.
 
 The inquest heard from various witnesses who all confirmed the above.  The only matter at issue was the pile of stone he tripped over which the railways were clearly anxious not to be blamed for.  The pile of metal was removed before it could be inspected.  The verdict was that it was an accident with no blame attachable to anyone.  ‘The jurymen graciously decide to hand over their fees to the parents of the deceased.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

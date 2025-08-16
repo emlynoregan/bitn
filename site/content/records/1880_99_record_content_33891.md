@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Horse Admirer’ against the cruelty in tying a horse up outside the Burra Hotel from 10 a.m. to 8 or 9 p.m. on the 13th instant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on tree planting.  It was a call for all to support trees in Burra.  In The absence of Council money it is the responsibility of private individuals to plant and care for trees.  Mr Ullmann has offered a number of trees for the purpose.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

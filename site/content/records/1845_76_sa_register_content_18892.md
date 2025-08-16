@@ -28,4 +28,4 @@ Steelton News, 15 August
 
 A public meeting was held in the schoolroom on 12 August to receive the report of the trustees of Steelton School on the completion of the work.  The total amount received was £146-19-9, to which is added the grant from the Board [of Education] of £127-10-0 for a total of £274-9-9.  The total amount expended was £271-13-3.  It was also represented that the master’s residence was in great need of repair and enlargement.  Mr H.M. Parkin was instructed to prepare a plan and estimates and they will be forwarded to the Board of Education with a view to obtaining a grant.  The meeting also endorsed the recent decision of the Central Road Board in favour of the middle road becoming the Main North Road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

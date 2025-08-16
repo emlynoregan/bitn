@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The far northern country seems likely to be taken up soon.  A party with a surveyor has passed through here on their way there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

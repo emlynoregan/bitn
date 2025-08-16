@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Kooringa Wesleyan Chapel has been much improved and enlarged.  Seating for 450 (120 free) has been provided at an expense of about £470.  The chapel was re-opened last Sunday 21 October.  Three impressive opening services were delivered by Mr Nicholls of Adelaide, Rev. J. Symons of Kapunda and Rev. D.J. Draper.  On Monday more than 400 people took part in a tea meeting in the Chapel.  The ladies of the congregation provided this without cost to chapel funds.  A public meeting followed, at which addresses were given by the three preachers named above.  The proceeds of the tea-meeting and the service collections amounted to £102.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

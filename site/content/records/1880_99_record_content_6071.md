@@ -33,4 +33,4 @@ At present there exists a bonded debt of £200 and a bank debt of £700-£800.  
 
 The Public Works Committee wishes to get desirable works done at once and have their convenience enjoyed.  This would be a heavy burden for future ratepayers if the works were of other than a permanent nature, or if maintenance of them was likely to be expensive, but this is not so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

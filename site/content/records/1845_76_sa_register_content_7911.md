@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Copper.  Lighters brought 6 tons of copper to Port Adelaide last week from Port Wakefield.  Drays from the Patent Copper Company’s works brought 154 tons in the same period.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

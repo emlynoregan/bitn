@@ -60,4 +60,4 @@ The Waterworks Department asked for a cheque for their account for lowering the 
 
 The Council said that the delay was on account of the men arriving without tools and it was not their fault.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

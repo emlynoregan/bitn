@@ -29,4 +29,4 @@ Kapunda Bridge
 
 A new bridge over the River Light on the north side of the railway near Kapunda was tested on Monday by Mr Mais the Engineer-in-Chief.  The old timber bridge had become unsafe due to white ants and dry rot.  The new bridge is of the same span – 100 feet between abutments.  The new bridge is of wrought iron, designed by Mr Dempsey of Westminster and made by the London Engineers Co.  [Further details are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

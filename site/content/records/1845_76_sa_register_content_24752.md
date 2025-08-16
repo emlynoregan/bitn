@@ -52,4 +52,4 @@ In addition the suggestion to connect two second rate ports as Wallaroo and Port
 
 28 August 1872, page 7
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

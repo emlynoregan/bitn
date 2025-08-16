@@ -30,4 +30,4 @@ Silver.  A lengthy extract from a report on the Silver Claims is reprinted from 
 
 [The overall impression is that little of real substance has been found anywhere in the World’s End-Robertstown area.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

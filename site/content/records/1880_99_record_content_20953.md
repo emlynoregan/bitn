@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The editorials were often concerned with the political situation in Adelaide and what was going on in the SA Parliament.  Holder was particularly interested in the financial arrangements and policies of the SA Government.  Although they are written in quite a readable style, much of this must have been of quite marginal interest and comprehensibility to most of the readers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

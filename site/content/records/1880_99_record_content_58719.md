@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Annual Strawberry Fete was held on Wednesday at the Burra Oval.  The weather was excellent.  In the afternoon a fancy dress cricket match was played.  About £60 was realised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ Bence’s Menswear is now Ivan Bain Menswear of Jamestown.
 There are plans for a commercial printery.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

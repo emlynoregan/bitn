@@ -31,4 +31,4 @@ John Hardy writes to the editor:
 
 Having a wife and six children I decided to try to get my fortune at the diggings.  We left Port Adelaide 18 April and endured a tedious passage of 17 days to Port Phillip.  On the way my son aged 11 years and 4 months was swept overboard and drowned.  [He then recounts his difficulties in Melbourne; being robbed and unable to get conveyance to the diggings due to rain.  After 14 days in the city, which he describes in very grim terms, they decided to return to SA, and were very glad to do so.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Edward Linkson writes complaining of the praise extended to Cr Walsh for eliminating North Ward debt in his term of office, yet no mention was made of his colleague in North Ward at the time: Cr Linkson.  [Walsh & Linkson shared the representation of North Ward from December 1892 to November 1894.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ The Chief Secretary has moved in Parliament for a Select Committee to report on 
 
 [The Chief Secretary gives a lengthy speech in which he outlines the benefits of railways generally and of the Kapunda line in particular.  He goes into costs and profits.  For example he cites figures to show that a railway line from Port Adelaide to Burra, of 105 miles, could be run at a profit on the basis of the Copper Company’s traffic alone.  He also speaks of tramways and dismisses them as not cost effective.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -37,4 +37,4 @@ A letter to the Register removes any doubt of the fact that a vast quantity of g
 
 While men can easily make 15/- a day, the cost of provisions is very high and as a result many robberies are taking place.  Excitement is still rising and men are arriving in large numbers.  Other industrial pursuits in the colony are being neglected and as a result wages have suddenly risen almost 25%.  A complete madness has overtaken the colony.  [Details are given of law and order issues and the costs and means of getting from Sydney to the area, as well as reports on how other parts of the economy are being affected.]]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

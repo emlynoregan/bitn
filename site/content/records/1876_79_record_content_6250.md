@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Football. A meeting of the Burra Football Club is called for this evening at the Commercial Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

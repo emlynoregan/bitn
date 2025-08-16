@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Editorial on The Festive Season.  It begins on the theme of the fleeting nature of time and carries on with familiar platitudes about not wasting time, making peace, burying hatchets etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ Her Majesty’s birthday was celebrated with a holiday and a successful ball.
 
 Mr Bocaut [sic: Boucaut] gave a lecture on Trial by Jury.  It was thinly attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

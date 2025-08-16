@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church Anniversary services last Sunday and Monday.  Rev. W.T. Shapley preached.  The Mayor, Mr Holder, presided at the public meeting.  For the year c. £100 was raised, £25 was paid off the church debt and £10 off the parsonage debt.  The anniversary proceeds will be about £36.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

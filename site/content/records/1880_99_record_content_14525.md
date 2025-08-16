@@ -25,4 +25,4 @@ It seems likely that the measure will now pass the assembly and go on to the Leg
 
 House that has brought about the financial difficulty.  Paid members will widen the choice of voters and make it possible for all classes to be represented and make it possible for country electorates to be represented by local men.  The benefits will be cheap at £13,000 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

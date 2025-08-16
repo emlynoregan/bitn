@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 On the other hand the proposed so-called ‘hole-in-the-wall’ location in Commercial Street is central and accessible to both miners and tradesmen, of whom the latter group receive fifty times the mail of the former.  It is also near the site of the old post office, whose site provoked no adverse comment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

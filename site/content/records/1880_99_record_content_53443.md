@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Show Society.  Last Monday the committee inspected the Burra Oval, the Smelting Works and the Mine Stores to select a site for the intended show.  The committee meets at the Commercial Hotel on Friday to discuss the proposals further.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

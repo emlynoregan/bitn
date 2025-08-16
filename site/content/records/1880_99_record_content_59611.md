@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Thomas Pearce of Leighton was fined £2-19-6 for having hauled heavy material, the body of a horse, otherwise than on a wheeled vehicle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

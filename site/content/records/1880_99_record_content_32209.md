@@ -39,4 +39,4 @@ The collision occurred outside Austin’s.  The shaft of the defendant’s cart 
 
 A counter-claim by Bosence arising from the A. Forsyth v. Bosence case resulted in A. Forsyth being fined 10/- plus £4-10-0 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

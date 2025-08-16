@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Inspector John Dow is recovering from a severe operation in Adelaide to remove a cancer from his mouth.  He hopes to return soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

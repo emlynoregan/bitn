@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Migration to WA.  Many Burra residents have gone to WA in the past months and most have succeeded in getting fairly good positions.  Several others are preparing to go, having considered it useless to wait here any longer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

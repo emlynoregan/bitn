@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Booborowie.  Reaping in the area has finished.  Agricultural land in the area has been taken up and for 20 miles north.  Further northern extensions would encounter rising transport costs.  Wheat 40 miles north of here would cost 6d per bushel for cartage to Farrell’s Flat and 8d per bushel from Farrell’s Flat to Adelaide.  The new monster shed at Farrell’s Flat has proved inadequate and would still be so if three times the size.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

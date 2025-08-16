@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Cr Sanders calculated the Eastern Road to Kooringa would need £46(} of earthwork and moved that the Corp. ask the Commissioner of Public Works to sanction an extra vote of money.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

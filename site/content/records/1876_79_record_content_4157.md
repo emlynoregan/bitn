@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Complaint in council that the Burra Corporation is depositing filth and rubbish within the District Council boundary and no more than 150 yards from the road. The Corporation is to be written to on the subject.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

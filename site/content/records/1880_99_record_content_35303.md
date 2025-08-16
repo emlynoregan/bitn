@@ -59,4 +59,4 @@ Bridge St Bridge.  If that bridge in Bridge St is not soon repaired it will coll
 
 The Mt Bryan Fire killed 190 sheep and 1 horse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

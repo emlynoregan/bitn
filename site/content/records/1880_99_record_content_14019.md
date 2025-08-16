@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr M’Cleary [Or M’Leary depending on the line.]  Manager of the Bank of Australasia, Aberdeen, has been promoted to a position in Head Office in Adelaide after five years in the district and he will be replaced by Mr Horn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

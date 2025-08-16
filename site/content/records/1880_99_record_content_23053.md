@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Railways.  Petersburg people are urging that the break of gauge be at their town.  Those in Terowie are obviously opposed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Salvation Army has been pleading for a place to erect a Barracks and have been promised a piece of land in Chapel St by Mr Pearce, but its nearness to the Wesleyan Church probably means another place will be found.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Cr Sampson thought that £4-4-0 for the use of the oval and shed was exorbitant.
 
 He moved that the charge for the oval and shed be £3 per day where gate money is taken and £2 for the shed alone.  Sunday schools to have use of the oval for free and of the shed for 10/-.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

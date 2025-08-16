@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the coming District Council elections.  Without mentioning any names the editor says that for the Kooringa Ward two of the nominees have merits ‘in unison with those whose desire it is to see the district advance while that of the other is very peculiar and changeable.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

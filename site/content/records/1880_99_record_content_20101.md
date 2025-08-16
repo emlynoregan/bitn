@@ -30,4 +30,4 @@ Subsidy has been claimed on £672 from which the police moiety has to be deducte
 
 On the amount spent up to June we should get the full subsidy and on that spent since, 75%, making about £500 additional.  There has been a delay in paying the subsidy on the Government side, which is not due to any Council fault.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

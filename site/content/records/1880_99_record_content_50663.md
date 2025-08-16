@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr T.F. Robertson has started a parcel express between Kooringa and Redruth.  The express leaves Kooringa for the railway station at 11 and 2.30 and parcels between the north and south of the town are delivered at intervals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

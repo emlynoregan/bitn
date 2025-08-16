@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 [Edward Wall born 23 August 1902, Hampton (Burra).]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

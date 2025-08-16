@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Chapel was opened on 23 July 1882.  At each service the place was more than filled.  Rev. J.G. Wright and Mr T. Hutchins preached.  There was a public tea on Wednesday.  The church is built of stone and covered with iron.  When all promises are collected the debt will be but £10.  Mr Turner donated the land.  Previously services were held at Mr & Mrs Dolman’s house.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

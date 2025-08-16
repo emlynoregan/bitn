@@ -41,4 +41,4 @@ An inquest was held by Dr Mayne on Saturday, which returned a verdict of acciden
 
 [Charles Wood died 8 May 1863 aged 18 at Baldino Hills [sic], residence Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

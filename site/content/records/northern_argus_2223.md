@@ -30,4 +30,4 @@ Burra Merino Studs.  A short article is reprinted from the Burra Centenary Souve
 
 Cousin Jack’s of Burra now boasts the largest turned wood display in SA.  Cousin Jack’s opened on 15 December 1985.  [A photo of resident artist and proprietor Gary Donaldson with a selection of his work is accompanied by a brief article.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

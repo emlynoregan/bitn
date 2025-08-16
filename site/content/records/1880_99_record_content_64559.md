@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Government will sell the Waterworks to the Town Council for the actual cost of £8,072-14-7 if they agree to supply the railway at a cost of 2/6 per 1,000 gallons.  The lease could be renewed on the present terms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

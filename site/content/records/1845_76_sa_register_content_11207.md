@@ -31,4 +31,4 @@ Advertisement.  On and after 2 November Haimes’s Mail Coaches will run from Ad
 
 Fares: From and to the train £1 each way.  To Kapunda 6/- and from Kapunda to the Burra 14/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

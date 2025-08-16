@@ -60,4 +60,4 @@ Thomas Richardson advanced the money on Saturday to pay the bill of sale after t
 
 S.J. McCallum - manager of Mutual Fire Insurance Co. of SA.  Smith and Grant insured the stock of James Doe of Kooringa for £400 in their own name as creditors: a policy last renewed on 20 August 1882.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

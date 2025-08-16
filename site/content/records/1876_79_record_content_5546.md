@@ -36,4 +36,4 @@ The Rabbit Act will be strictly enforced on and after 1 Feb.
 
 Kingston St Bridge. It is gratifying to learn that the Govt will supplement the whole of the expenditure on the new Kooringa Bridge; else it would have swallowed the whole of next year's funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

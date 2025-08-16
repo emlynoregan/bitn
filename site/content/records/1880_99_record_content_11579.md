@@ -31,4 +31,4 @@ Volume V, Number 298 on 28 December 1883
 
 Note that the issue after Number 269 was numbered 260 (31 August) and, as 270 was not used, the series continued with 271 on 7 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

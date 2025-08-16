@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 C.C. Williams has just completed and loaded for Silverton 10 galvanised iron tanks in two nests of five each.  The demand for tanks has increased steadily and Mr Williams has had to add extensively to his manufacturing plant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

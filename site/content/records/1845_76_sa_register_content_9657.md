@@ -38,4 +38,4 @@ Sundries: 300 gallons of Black Oil, 50 Bath Bricks, 2 cwt White Lead, 1 cask of 
 
 Goods to be of the best quality and workmanship and to be delivered before the 30 April next.  Terms cash on delivery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

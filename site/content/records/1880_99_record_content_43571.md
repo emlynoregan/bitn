@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  The second cricket match for the season will be played on Christmas afternoon 1.30 p.m.  Burra Band of Hope v. College Boys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Flood Damage.  Heavy rains 10 days ago washed away parts of the embankment on the new Nankivell’s Gully road and a culvert on the Eastern Road to Redruth was also damaged and part of the road washed away.  Stacks of road metal were also swept away at the base of Breakneck Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

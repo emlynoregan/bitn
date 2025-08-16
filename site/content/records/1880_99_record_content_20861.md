@@ -31,4 +31,4 @@ Mr W.G. Torr of Moonta will preach morning and evening and give a blackboard and
 
 On Tuesday evening he will give his popular lecture on ‘Palestine’ at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Town Council. The Mayor complained that he was quoted correctly, but out of context in the last report in the Record. When asked why the Govt. had not gone on with their general water supply he said ‘he believed the Government would have done it, but for “Beta’s” letter, but when that appeared they had sent up a Surveyor to count the wells, and thus the matter had fallen through.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

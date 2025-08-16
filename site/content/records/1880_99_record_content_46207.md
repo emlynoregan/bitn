@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  On Monday near Mr J. Ford’s slaughterhouse on the Baldina Rd there was a collision when Mr F.T. Jones in a buggy collided with Charles Gebhardt in a dray carrying 3 cwt of wire and 2 bags of flour.  The dray capsized, smashing its shafts and pinning Gebhardt to the ground.  Mr Jones and the buggy escaped damage and Gebhardt was released having sustained several nasty cuts to his legs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Entertainment.  Last Friday’s 6d show was a success and the farce ‘Caught by the Cuff’ was part of ‘a thoroughly good entertainment.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

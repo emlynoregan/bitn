@@ -32,4 +32,4 @@ Bosworth
 
 Was for greater fixity of tenure for pastoral lands. He favoured Bible reading in state schools.  The Road Boards should continue and he was for the gradual reduction of grants-in-aid and for consolidation and preservation of the Real Property Act.  He opposed increased tariffs or duties.  He favoured federation and assisted immigration, but opposed any increase in the civil service.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

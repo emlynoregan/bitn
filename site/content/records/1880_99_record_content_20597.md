@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Town Clerk was instructed to work with East Ward Councillors to try to get a piece of the corner to ease the deviation in the Cemetery Road.  [This was to make the approach to Dead Man’s Bridge less sharp]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

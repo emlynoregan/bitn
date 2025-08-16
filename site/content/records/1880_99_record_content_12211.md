@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.R. Ridgway writes on the desirability of perpetual or continuity leases, believing that the freehold principle has contributed greatly to the depression of the 1880s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

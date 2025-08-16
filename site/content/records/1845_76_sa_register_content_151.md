@@ -49,4 +49,4 @@ We hope the Government will indicate the positive course it will pursue on all f
 
 [The paper then goes on to congratulate the Government on extricating itself from an awkward position and the successful parties for having obtained their objective.  It urges caution however, as they have only done so by withdrawing their capital from other more legitimate pursuits.  It warns that the Bank of SA continues to embargo discounts and accommodation, which may yet cause great inconvenience in the coming months and warns of the wages and transport costs that will have to be paid in advance of sales, with a bank that is unwilling to make the usual advances.  In short it wishes them success, while urging caution.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

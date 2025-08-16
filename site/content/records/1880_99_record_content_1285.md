@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church.  Rev. J.G. Wright was ill and was replaced on Sunday by Mr Dale of Melbourne, Rev J. Bickford & Rev. W. Jenkin.  The public tea on Monday attracted almost 200 and the public meeting ran till 10 p.m.  The proceeds from the opening services at c. £70 brought the income to £243 towards the total cost of £445 for the renovations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Fritz Duff died 9 May at Carlsruhe of diphtheria aged 7 years 7 months.  He was the son of J.F. & A.S. Duff.  [Born John Charles Gustav Fritz Finlay Duff on 2 October 1883.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

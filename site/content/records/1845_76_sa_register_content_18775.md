@@ -52,4 +52,4 @@ Mr Everard suggested the question be resolved before any other business at the n
 
 A memorial was received asking that the north road branching off at Forrester’s be continued vis Riverton, Saddleworth and Chinkford to join the Kapunda-Kooringa Road at the point where the middle line of road forms a junction with the Kooringa road vis Black Springs and with the North and Aberdeen Road via the Long Hill and Springbank.  Consideration was deferred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

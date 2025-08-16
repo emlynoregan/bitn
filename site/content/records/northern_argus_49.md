@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Creek has been flowing for several weeks after nothing for some three years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 At the AGM on 26 September, G. Parks was re-elected Captain and G. Herbert Vice-Captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

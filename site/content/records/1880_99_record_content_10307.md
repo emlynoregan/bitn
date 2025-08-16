@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [Though anonymous, this piece has the feel of W.H. Hardy about it.  Hardy did feel though, that the education actually being provided was designed to keep the lower orders ‘in their place’ and was opposed to technical education because it would continue to keep the poor at the bottom of the social ladder.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

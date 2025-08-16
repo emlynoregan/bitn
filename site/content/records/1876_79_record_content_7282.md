@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Institute 3, 4, & 5 November. Thompson's Grand Confederate Diorama of the American War after a seven-week season in Adelaide. In conjunction with Lieut. Herman, the Marvellous Ventriloquist.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

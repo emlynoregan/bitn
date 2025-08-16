@@ -52,4 +52,4 @@ Some said raising it three feet would serve as well.  A decision was deferred.
 
 North Ward Councillors are to make arrangements for the lighting of the lamp at the north end of town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ H. Nicholas of Spring Hill Farm, Salt Creek, writes re stationmen on 30 April.
 
 Stationmen look after 8-10 miles of road and many do fine work.  If some do not do their duty the solution is to replace them – not to change the whole system.  The suggested savings would be illusionary.  Overseers would merely be gentlemen riding along the roads and never touching a shovel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

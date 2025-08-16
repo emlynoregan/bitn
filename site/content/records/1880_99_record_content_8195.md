@@ -32,4 +32,4 @@ Wilson’s Circus had very fair houses.
 
 Burra Gardens.  Mr [H.C.W.] Fuss’s carries off the palm for abundance and variety and his greenhouses have foliage and other pot plants of great help to the coming exhibition.  Captain Killicoat’s are perhaps the best gardens around where roses reign supreme.  Mr Oppermann has many nice flowers and Mr Davey has a good cottage garden.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

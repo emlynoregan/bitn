@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Letter to the Editor from `Injustice' who complains of people being excused their rates for poverty. Rates are like rent: if you can't pay you must move to a cheaper place, not be excused payment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

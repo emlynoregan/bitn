@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A rumour yesterday reported a man had fallen down a shaft at the Bon Accord Mine and been seriously injured, but the event turned out to be trifling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

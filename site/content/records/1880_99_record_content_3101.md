@@ -29,4 +29,4 @@ This time on the method of payment, which should be from the public purse.
 
 Payment by subscription would be uncertain and could lead to the expectation of favours in return.  Local rates would fall unevenly.  Payments should also be proportional to the distance from Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

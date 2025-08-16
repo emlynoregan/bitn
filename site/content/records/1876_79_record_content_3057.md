@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Hallett telegraph. The above meeting then became a second meeting to urge the government to extend the telegraph line from Burra to Hallett as soon as possible At present Burra and Jamestown are the nearest stations. The telegraph is needed for sellers and buyers of produce, specifically grain, to get the latest Adelaide quotations to regulate their prices accordingly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

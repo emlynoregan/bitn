@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church Harvest Thanksgiving last Sunday saw a 111½ lb pumpkin from Mr Snell’s garden conspicuous among the produce.  Mr & Mrs C. Drew were welcomed back having been farewelled on the similar occasion last year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

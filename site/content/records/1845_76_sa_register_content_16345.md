@@ -31,4 +31,4 @@ I am told a person has arrived from England who is to undertake the reduction of
 
 Mr H. Dawson, who has the contract for the North-eastern Mail, has this morning started a new conveyance, built to his specifications by Messrs Barlow & Sons of Adelaide.  It is said to be built to suit bush roads, and is at once commodious, light and strong.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

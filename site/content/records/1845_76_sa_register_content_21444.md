@@ -30,4 +30,4 @@ Obituary.  Peter McNeill overseer of Bundaleer Springs has been burnt to death.
 
 [Peter McNeil died 19 December 1867 at Bundaleer Run aged 57.  BISA informs that he arrived in SA in 1839 and was born at Inverness in Scotland.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

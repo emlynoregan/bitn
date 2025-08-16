@@ -30,4 +30,4 @@ Obituary.  Miss Willcox formerly of Burra has died at Terowie.
 
 [Elizabeth Jane Ellen Wilcox, daughter of Edward Wilcox, died at Terowie on 17 July, aged 15, of rheumatism syncope.  But born Elizabeth Jane Willcocks 8 October 1872.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

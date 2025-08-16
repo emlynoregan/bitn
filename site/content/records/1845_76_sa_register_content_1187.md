@@ -28,4 +28,4 @@ Notice to Carters.  Cartage of ore will not be suspended during the Christmas Ho
 
 Henry Ayers 22 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

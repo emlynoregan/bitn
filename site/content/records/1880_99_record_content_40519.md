@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cr Rabbich said he had no particular desire to make an explanation and he would not ask the indulgence of Council, but if the motion passed at the last meeting compelled him to explain he would willingly do so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

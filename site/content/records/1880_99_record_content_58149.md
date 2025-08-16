@@ -65,4 +65,4 @@ School class entries were good.
 
 The concert in the evening was the most successful ever, financially and otherwise.  Over £32 was taken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

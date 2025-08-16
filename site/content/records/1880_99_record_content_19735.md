@@ -30,4 +30,4 @@ It then considered ‘compulsory providence’ i.e. a form of pension or superan
 
 Mr Packard has agreed to stand for Mayor for 1886.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

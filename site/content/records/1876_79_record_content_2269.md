@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mr Skewes, an engineer at the Mine, showed off his model of a rotary beam steam engine. [Details are given.]  When complete it will weigh about 7cwt. and stand on a 6' x 4' table.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

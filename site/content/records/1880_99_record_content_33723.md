@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Bartle [of the Smelting Works] is to be charged 3/- per 1,000 gallons until the costs of connecting the water be recovered and then 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

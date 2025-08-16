@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 On Monday evening the Young Australian Cricket Club met at Martin’s Hotel [?] to present a bat to their highest scorer and a ball to their best bowler.  The former went to C. Muller and the latter to J. Belcher.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

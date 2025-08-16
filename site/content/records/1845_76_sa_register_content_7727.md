@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Gold in SA.  The population of the tiny town of Macclesfield turned out en masse on Friday because of the alleged discovery of gold in the neighbourhood.  Some small particles of the metal were detected in the banks of a creek, but nothing of any significance was discovered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

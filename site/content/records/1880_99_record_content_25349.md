@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Firing Match for Pearce’s silver cup.  Privates Parks and Cooksley and Captain Holder go through to the finals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

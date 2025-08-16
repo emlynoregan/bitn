@@ -33,4 +33,4 @@ Special services were held last Sunday for the Sunday school of the United Presb
 
 The election is creating considerable interest and there have been public meetings, together with electioneering placards, canvassing and other manoeuvrings.  At an open air meeting on Saturday afternoon Mr Dale was the principal speaker and on Monday evening there was a meeting of Mr Kingston’s supporters, composed chiefly of Germans.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

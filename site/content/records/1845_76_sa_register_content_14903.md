@@ -31,4 +31,4 @@ The season continues to be most promising for both the agriculturalist and the p
 
 Mr H. Dawson is the contractor for the new mail line to Duffield’s Woolshed, starting next Monday and running fortnightly.  The terminus is on the North-Eastern Plains, 150 miles from Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

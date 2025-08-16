@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Edwards aged 50, husband of Mary, died on 8 July at his residence in Kooringa after a long and painful illness.  He is survived by a widow and 8 children.  [Aged 54 on registration.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

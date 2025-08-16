@@ -78,4 +78,4 @@ Mr Dawson made a lengthy analysis of where the rates came from and how the money
 
 Eventually the original motion was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

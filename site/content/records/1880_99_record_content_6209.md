@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Season.  Water is scarce around Burra and is being carted to some farms from Market Square.  The corporation charge is 6d per 100 gallons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

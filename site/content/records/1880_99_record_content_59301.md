@@ -41,4 +41,4 @@ Northern Territory: for the development of the territory and the introduction of
 Government: for reduced Government expenditure, the abolition of payment for members of the LC, the discontinuance of free education and for reducing the cost of railway service.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

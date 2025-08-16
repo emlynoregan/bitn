@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Chrysanthemum Show.  This year it took £7 in 6d tickets [i.e. 280 visitors].  Last year it took £8-15-0 in 1/- tickets [i.e. 175 visitors].  As expected J.D. Cave won most prizes, Dr Brummitt did well and Mr Lasscock was a good third.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

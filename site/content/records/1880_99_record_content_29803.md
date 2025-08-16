@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Joker Mine.  There is a report by Captain J.H. Hocking, which is just slightly more promising than that of the government geologist.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

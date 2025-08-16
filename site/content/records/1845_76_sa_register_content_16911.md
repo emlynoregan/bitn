@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Captain M. Deeble gave a lecture on Tuesday evening to the Wesleyan Mutual Improvement Society on Cornwall and Its Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

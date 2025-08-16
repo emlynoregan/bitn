@@ -28,4 +28,4 @@ Advt.  Burra Institute 5 September.  Grand Musical Entertainment Including Rootâ
 
 Directed by Miss Amy Wylie in Aid of the Redruth Wesleyan Church Deficiency.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880â€“99](/publications/record-1880-99/)

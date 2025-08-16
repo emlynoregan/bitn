@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Grand Bazaar, Show Day and the day after, in aid of a new Wesleyan Schoolroom, Redruth.  In Institute 22 & 23 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

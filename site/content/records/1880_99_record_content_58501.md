@@ -36,4 +36,4 @@ When the appeal of Messrs Elder, Smith & Co. was called Mr Winnall appeared for 
 
 The full list of the appeals and the results of them is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

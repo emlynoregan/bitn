@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 MUIOOF.  The Burra lodge annual finance meeting last Wednesday showed income of £224-14-11 for the last quarter and expenditure of £202-0-9.  Total funds at the start of the year £5,555-2-10 and at present £5694-8-0.  There are 306 members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

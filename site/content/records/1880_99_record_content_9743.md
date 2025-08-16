@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Bands.  William Davey of the Volunteer Brass Band wants to say he informed the Primitive Band they were coming out, but not before 8.00 p.m. - we would have preferred 7.00 p.m., but did not wish to interfere with the service.  We waited at Mr Snell’s balcony which was kindly lent until about 8.00 p.m. when we thought every hymn would be the last, but seeing they did not make a shift we began and they stopped.  Davey thinks there was more fuss in the paper than in seeing two brass bands ‘and something else’ playing in the street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

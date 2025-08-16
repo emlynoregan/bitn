@@ -46,4 +46,4 @@ Was sent for to attend the deceased between 9 & 10 p.m. last night.  Had difficu
 
 [SA Deaths CD records this death as George Pasco died 28 November 1861 at Hampton aged 40.  The evidence above indicates he died 29 November.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

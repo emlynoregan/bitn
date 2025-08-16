@@ -51,4 +51,4 @@ This was entitled The City of Big-Big and purported to be: ‘A series of letter
 
 I think modern readers would find it very tedious and hard going, though when first published there must have been references to both people and events that we now fail to see the relevance of.  Even allowing for that, I think there can have been few readers of the paper who were educated enough to plough their way through his verbosity.  That some did is clear from the complaints about what he said that appeared from time to time.  There are portions of the work that readers today can readily see as being obvious satirical attacks on aspects of life then that are recognisable.  In the first letter for example there is quite a good description of the Burra Creek, which in its nastiness can only have exceeded the real thing by a fraction.  I cannot pretend to have read the whole work to seek further gems hidden in the vast outpouring of the writer’s vitriol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

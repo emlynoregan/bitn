@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Miss Hattman & Company are still in Burra, though not attracting full houses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

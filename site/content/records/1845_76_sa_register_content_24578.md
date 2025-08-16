@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Mine is currently employing about 200.  At the last ‘take’ some 300 tons of ore was dressed and the present ‘take’ expects to see about 400 tons.  It has all been dressed by hand and the aid of stamps.  Mr Darlington’s machine is still out of order.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

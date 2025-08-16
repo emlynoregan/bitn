@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 In recent times improvements included a trader erecting a house worth £800 - a brewery, a new assembly room at one of the two inns, the completion of the Institute, the R.C. Chapel and more building at Aberdeen. The writer complains that too much paint is appearing on the outside of buildings. The main road through town is now quite good, though the footpaths are generally poor. Roads to and from the town are also good except for the road to Baldina and as SAMA has begun to sell land improvement can be expected to continue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

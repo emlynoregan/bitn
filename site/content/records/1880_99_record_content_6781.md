@@ -38,4 +38,4 @@ Rev. S. Knight, who is newly arrived, preached at Kooringa Wesleyan Sunday Schoo
 
 Kooringa Primitive Methodist Church had three excellent sermons from Rev. A.W. Wellington of Yongala on Sunday 2 April, but none of the congregations was large.  The Good Friday tea meeting was very largely attended.  On the 9 & 10 April the Redruth Primitive Methodist Sunday School anniversary was held and was well patronised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

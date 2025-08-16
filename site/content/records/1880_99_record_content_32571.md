@@ -33,4 +33,4 @@ The footbridge at the Pig and Whistle crossing is to be attended to.  The public
 
 Cr Rabbich said he had been dissatisfied at the start, but the work is now proceeding well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

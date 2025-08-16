@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 SA Mining Association.  The extraordinary general meeting called to confirm the motions passed at the meeting of 24 January was held and the motions were confirmed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

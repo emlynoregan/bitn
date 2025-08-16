@@ -59,4 +59,4 @@ The inhabitants of Kooringa are fortunate to have secured the services of so abl
 
 [The editor indicates that this debate has been going on long enough and that after this week further comments will have to appear as advertisements.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

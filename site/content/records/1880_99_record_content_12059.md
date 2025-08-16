@@ -59,4 +59,4 @@ Mr Holder moved the members try to get a railway line survey done from Burra to 
 
 T.W. Wilkinson moved the committee communicate with the Railway Commissioners to alter timetables to allow travel from the north to Wallaroo and vice versa without an overnight stay at Hamley Bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

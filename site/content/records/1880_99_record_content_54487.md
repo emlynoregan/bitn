@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Fancy Fair and Concert in the Burra Institute.  Fair 12 & 13 and Concert on 14 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

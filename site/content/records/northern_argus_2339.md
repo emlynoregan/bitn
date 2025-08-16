@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Jim Dempsey writes thanking all who organised the Back to Hanson for their great effort.  He returned after 30 years absence and found it great to meet so many old friends.  It was 50 years since he did his QC examination at Hanson School in 1937 and the whole of that class was present: Jacqueline Hogan, Jane Canny, Bernice Dixon, Margaret Rogers and himself.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Midland Road Board.  Mr Pinch complains that he is being denied access to his property by a ditch cut on the roadside apparently by the work on the Burra-Leighton road according to the heading.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

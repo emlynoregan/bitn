@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 E.A. Akhurst has joined Mr Blakeney Carter, solicitor of Clare, and the new firm will open an office in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

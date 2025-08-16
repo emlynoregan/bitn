@@ -27,4 +27,4 @@ Advt.  United Friendly Societies’ Demonstration has been postponed from 26 Dec
 
 9 January 1895.  Grand Concert in Evening.  1st race on the arrival of the midday train from Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

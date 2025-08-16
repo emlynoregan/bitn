@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Burra Mine.  The machinery and ponderous engines for the Burra Burra Mine have been safely landed from the ship Joseph Weir.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

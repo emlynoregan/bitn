@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Bible Christian Tonic Sol-Fa Classes presented a concert with Mr Coumbe adding some solos on the harmonium and the effort raised £7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

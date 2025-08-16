@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr A. Bartholomæus showed a sample of bone dust and a sample of bone meal from his mills at Charleston near Redruth, at the Burra Show.  He is to be commended for turning a waste product into manure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

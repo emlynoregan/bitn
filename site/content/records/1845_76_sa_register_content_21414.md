@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Henry Bromley and Richard Webb have been committed for trial charged with stealing a purse containing 3/- and two promissory notes – one for £230 and the other for £70 from a German named George Wartmann.  Fortunately they would not have been able to obtain payment of the notes under any circumstances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

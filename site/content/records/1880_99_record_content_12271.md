@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 These are not the duties required of the Medical Officer under the Local Board of Health.  Dr Sangster refuses to take this on, saying those duties are worth £100 p.a. and he won’t take on a job requiring a special rate. [13 provisions laid down by the Central Board of Health are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

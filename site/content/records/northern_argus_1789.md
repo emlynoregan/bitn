@@ -37,4 +37,4 @@ Bullock teams cross the Kooringa (Kingston Street) Bridge at the start of the Gu
 
 Mustang cars at the school oval after taking part in the street procession
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy has been asked to stand for North Ward at the Council elections in a largely signed requisition.  He consents provided Cr Fuss does not intend standing again and Cr Fuss has indicated that he will not be standing.  Cr McLaren has been asked to stand again for East Ward and E.W. Crewes has been asked to allow himself to be nominated for Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

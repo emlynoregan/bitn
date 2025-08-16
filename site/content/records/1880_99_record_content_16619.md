@@ -28,4 +28,4 @@ Cricket.  Young Australians (15) v. Aberdeen (11)
 
 Aberdeen 38 & 72 [110] defeated Young Australians 47 & 31 [78]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

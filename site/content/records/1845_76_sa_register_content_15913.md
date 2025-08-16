@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The weather lately has been variable; alternately hot and cold with several violent storms last week bringing wind, rain and hail accompanied by thunder and lightning.  Hot winds and dust followed.  The variability has continued this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

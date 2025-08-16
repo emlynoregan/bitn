@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The editor thought the time allowed before voting was too short to allow for a considered debate of the issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

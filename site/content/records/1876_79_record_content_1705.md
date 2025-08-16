@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Burra dull over New Year period with even the churches doing little.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

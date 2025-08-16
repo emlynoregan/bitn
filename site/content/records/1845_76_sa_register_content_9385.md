@@ -30,4 +30,4 @@ G.D. Kingston writes to thank his supporters in the election, regretting that he
 
 Mildred ‘only made his appearance the evening before the poll, and was then only seen, owl-like, after a stealthy journey by night – ashamed, as it were, to show his face in the light of the sun.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

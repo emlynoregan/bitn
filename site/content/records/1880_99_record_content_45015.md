@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church Anniversary was celebrated on 3 & 4 April.  The services were largely attended.  The Iron Mine Brass Band assisted at the tea meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

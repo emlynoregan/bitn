@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  The Aberdeen Agency of the Bank of Australasia will close 12 April and ‘all outstandings at that date will be transferred to Kooringa Bank.  E.S. Parks, Superintendent.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

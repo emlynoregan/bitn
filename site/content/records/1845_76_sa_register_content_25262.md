@@ -60,4 +60,4 @@ The verdict was death by a roller accidentally passing over him and they conside
 
 [There are a number of problems with tracing this death.  James Stephen is registered as dying aged 11 at Apoinga on 18 July 1873, and despite the date this seems likely to be the right person.  If so he may have been the son of a Prudence Budge and to have been born 20 July 1861 at Kooringa as James Peter Stevens; father William Peter Richards.  Prudence Budge had ten registered children in the Burra district, variously to William Peter Richards, John Symons, John Stephens and Henry Thomas.  She married the last named at the Wesleyan Parsonage Kooringa 1 December 1865 when she was 33 and he was 45.  She was then calling herself Prudence Stephens.  There is no record in SA of any previous marriage for Prudence Budge.  Prudence Thomas died 1 September 1870 at Kooringa aged 39.  This fits in with the statement that he had a stepfather and siblings, but no mention of a mother.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

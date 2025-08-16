@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The number 10 up goods from Terowie had left Terowie with four red lights on to indicate a special was to follow.  The guard of this train said we passed the house of the deceased and he could have settled any doubt about the special by looking at our lights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

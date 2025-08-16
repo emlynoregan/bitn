@@ -33,4 +33,4 @@ He accuses this temporary editor of taking a ‘dirty mean advantage’.
 
 The Editor then comments on what he calls ‘This unique production which we insert in all its vulgar integrity.’ And which he says would speak even more for itself if printed as it was spelt.  He denies utterly any accusations of revenge or the other coarse insinuations of the writer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  A scratch match on Wednesday last between two sides of six each resulted in a win for Park’s side 29 over Herbert’s side 23.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

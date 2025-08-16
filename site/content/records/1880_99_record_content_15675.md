@@ -30,4 +30,4 @@ Joseph Ford sued Robert McBride for £49 for watering 5,000 sheep on 2 & 4 Novem
 
 A related action under the Scab Act of not giving notice before entering Ford’s run was withdrawn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

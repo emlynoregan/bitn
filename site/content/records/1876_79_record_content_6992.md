@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Waterworks. The Waterworks Department has made an assessment of all frontages to Morehead St and other places in Aberdeen along the water main as a preliminary to deciding on a water rate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

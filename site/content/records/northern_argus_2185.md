@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Colin Fidock took a number of the town’s new teachers on a tour of Burra Heritage last week and in three hours they did not see it all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

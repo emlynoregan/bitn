@@ -27,4 +27,4 @@ Smelting.  The promoters of the Smelting Company held their third meeting on 12 
 
 The plan is that upon successful testing of Dr Davy’s operations, subscribers will have the option to claim shares in the company it is intended to form, in the ratio of their subscriptions.  The reason for the subscription system is so that no subscriber would be implicated in the undertaking beyond the amount subscribed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

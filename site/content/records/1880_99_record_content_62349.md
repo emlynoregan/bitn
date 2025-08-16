@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rain is still needed.  The recent fall has paradoxically been killing sheep.  Many with heavy wool are too weak to carry the load of a wet coat and consequently fall over and die by degrees.  On Sunday a nice soaking rain delivered 0.41” and the wind blew a hurricane on Monday with more rain on Tuesday.  In all 1.1” was recorded in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

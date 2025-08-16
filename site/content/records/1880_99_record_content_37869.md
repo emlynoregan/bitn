@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  The season is virtually over.  Clare decided at the last minute to go to Saddleworth instead of Burra and ‘Sandboy’ believes it was because they wished to finish the season with a soft win.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

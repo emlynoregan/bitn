@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Barrier.  Last Friday the Ministerial Party reached Silverton about 10.30 a.m. but there was no one to meet them.  They then drove to Broken Hill, inspected the mine and returned to Silverton.  In the evening a banquet was held at Tantram’s Hotel with 60 gentlemen sitting down.  The proceedings closed at a late hour when the Adelaide party left by special train.  The trip from Silverton to Adelaide took 14 hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. met at the Temperance Hotel on Friday and the evening took the form of a ‘Question Box Lecture’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

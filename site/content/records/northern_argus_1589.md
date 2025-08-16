@@ -48,4 +48,4 @@ Elders will show an historic film of a Burra Market sheep sale
 
 Elders will arrange for a display from the shoe On the Sheep’s Back to come to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

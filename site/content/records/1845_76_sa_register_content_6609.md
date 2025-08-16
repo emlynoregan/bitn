@@ -42,4 +42,4 @@ The last type of site has rich ore, but the discoverer is afraid that if he disc
 
 The Government would benefit by the opening of promising mines now lying dormant.  Their development would in turn lead to the demand for agricultural development around them and demand for labourers etc.  Objections from graziers that they would be disadvantaged by leases could be managed by some forms of compensation.  [The writer gives an example.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

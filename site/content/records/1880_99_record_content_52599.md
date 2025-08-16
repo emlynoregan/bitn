@@ -27,4 +27,4 @@ Booborowie Sports of 25 December 1893 are reported with results.
 
 [F. Williams won the 100 yards maiden race (10/-) and the Booborowie Handicap over 130 yds (£1).]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

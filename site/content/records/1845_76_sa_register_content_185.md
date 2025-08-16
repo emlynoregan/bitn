@@ -37,4 +37,4 @@ This is the course of gamblers.
 
 Fiat Justitia does not doubt the discoveries are important or that their value is great, but holds that they need more capital to make then profitable than this limited community can afford.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

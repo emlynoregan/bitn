@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Road Works on the Barrier Highway to the south of Burra began last October and are expected to be completed in mid 1986.  Some 15 km of highway are being reconstructed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

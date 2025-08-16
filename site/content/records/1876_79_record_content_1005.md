@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Telegraph - the telegraph from Cape Borda to Adelaide now provides early news of approaching ships and can also warn of ships in distress. The line to WA progressing on the SA side. Cable north of Darwin still broken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

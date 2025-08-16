@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  Harvesting is over and the yield has been good despite hot winds, with many getting 20 to 25 bushels per acre.  The northern lands are rapidly being opened up.  A few years ago this district was deemed unsuitable for tillage, but experience has proved the land equal to that of our neighbours, especially since rust is unknown here.  Dray-loads of wheat are arriving continually at the Burra Station and much has already been forwarded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

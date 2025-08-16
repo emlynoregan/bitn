@@ -31,4 +31,4 @@ St Mary’s Church is being repainted.  It has a larger congregation now than at
 
 A sample of ore from Wandillah has been brought in and averages 24¼% copper.  It is mainly brown carbonate of iron and copper, similar to the Burra Burra Mine, with a slight sprinkling of yellow ore.  Four or five pits have been dug and there is copper found in each.  It is known as Patterson’s Mine, but there are several connected with it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

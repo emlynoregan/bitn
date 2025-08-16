@@ -54,4 +54,4 @@ Cr Watt felt the Mayor’s report covered the story and he would simply say he h
 
 Cr O’Leary said West Ward compared favourably with the others and he did not think, as some had said, that the Waterworks were a white elephant.  He thought tree planting should be restrained for a while until the Parklands liability was reduced.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

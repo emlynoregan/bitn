@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Cake and Fancy Fair at the Burra Institute 2 & 3 October in connection with St Joseph’s Church, Kooringa.  On Friday 4 October a Drama in 2 Acts: Meg’s Diversion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

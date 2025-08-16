@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School 37th Anniversary last Sunday and in the afternoon the Service of song Our Joe was performed.  On Monday evening the public meeting in the church drew only a small number.  Due to other services coinciding with this anniversary the financial results were a failure and not half the rent of the schoolroom and other unavoidable expenses was realised.  A good sum is hoped for from the tea on Thursday.  [The schoolroom at this time was probably the old German Church.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Advt.  ‘The Proprietor commends this paper to Artisdveers [sic] as a means of extending their business.’  This error continued in large print in each issue till 6 June!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

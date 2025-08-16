@@ -29,4 +29,4 @@ publication_slug: northern-argus
 John Jones is recovering in Burra Hospital from a fall while rock climbing in the Flinders Ranges on a school camp last week.  He was flown from Hawker to Port Augusta by RFDS.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

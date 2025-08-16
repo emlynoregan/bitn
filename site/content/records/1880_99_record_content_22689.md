@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 On 30 June, Henry Higginbotham, J. Rosewall, T. Rosewall & J. Glasson were charged with loitering in the vicinity of a place of worship, being the Salvation Army Barracks, and were fined £1-2-6 each including costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

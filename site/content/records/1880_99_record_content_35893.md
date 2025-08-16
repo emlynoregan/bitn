@@ -38,4 +38,4 @@ Proposed rules for wrestling in Australia are printed.
 
 Skating is popular at present.  At Broken Hill Cotter beat the SA champion, Scott, in a race over 10 miles for £20.  The distance was covered in 43 minutes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

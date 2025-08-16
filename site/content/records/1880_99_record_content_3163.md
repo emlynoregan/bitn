@@ -34,4 +34,4 @@ The Institute sent a delegation re the cutting down of the street and footpath a
 
 Rev. Richards and Messrs Launder and Roberts reported on the dangerous state of culverts near the front of the Bible Christian Church.  This was referred to the Public Works Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

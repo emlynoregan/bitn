@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt supported the motion.  He also said the charge of £960 for the Aberdeen Waterworks (i.e. the old works) was absurd and it should never have been more than £200-£250 even when new, and they were nine years old.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

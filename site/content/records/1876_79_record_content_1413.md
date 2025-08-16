@@ -29,4 +29,4 @@ T. Shortridge Sen. Obituary: - died 2 Nov. a resident of 23 years who came as an
 
 [Thomas Shortridge died at Kooringa 2 November 1876 aged 61.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

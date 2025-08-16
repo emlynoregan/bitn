@@ -29,4 +29,4 @@ Sporting Notes.
 
 Thorn broke the bicycle record for the run from Broken Hill to Adelaide, previously held by J.A.S. Bagg, by 2 hours 35 minutes last week.  Bagg will try to regain the title on 28 November, choosing a full moon.  Last time he had to ride for six hours in the dark.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

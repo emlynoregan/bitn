@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr H. McDonald, who has conducted the business of the Amalgamated Shearers’ Union, is also leaving Burra for Laura.  He will be missed as a footballer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

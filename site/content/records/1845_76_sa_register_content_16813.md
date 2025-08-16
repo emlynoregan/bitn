@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The new schoolhouse belonging to the Primitive Methodists is rapidly approaching completion under the supervision of the contractor Mr J. Pearce. It is neat and very commodious and a great improvement to that part of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

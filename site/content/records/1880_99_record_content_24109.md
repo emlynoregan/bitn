@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 SAMA.  Mr John Vivian, who has been SAMA rent collector for the last 15 years, has vacated the post.  SAMA has given him his house rent-free for the rest of his life.  [This seems to be an unusual case of generosity for SAMA]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

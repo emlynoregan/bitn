@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra School Board of Advice.  The annual report by the Chairman, P. Lane on the two schools under its control: Burra and Copperhouse Provisional.  Burra is in good repair, but the premises at Copperhouse are so bad that the Board recommends that a suitable school be erected.  The average attendance is 29.  Burra School is well run and attendance is improving.  Applications for free instruction have been numerous this year and even with great care we have had to grant assistance to many on account of the mine stoppage and other causes.  64 notices were issued re failure to comply with compulsory attendance.  The % of children failing to attend as required has dropped from 7.69 in 1881 to 4.79 in 1883.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

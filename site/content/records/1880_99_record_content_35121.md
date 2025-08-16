@@ -29,4 +29,4 @@ Kooringa Post Office is a busy place.  In 1889 4,948 telegrams were despatched a
 
 £850 worth of stamps was sold and there were 93 new accounts for the Savings Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

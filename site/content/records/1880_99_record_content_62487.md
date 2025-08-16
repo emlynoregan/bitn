@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 C.C. Williams announces he is now able to effect repairs to bicycles and supply fittings of all kinds, so machines no longer have to be sent to the city.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

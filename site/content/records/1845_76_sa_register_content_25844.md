@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 An accident.  A few days ago Mrs Field brought in eggs and other farm produce to Mr Bath’s store and left the cart and two children in front of it.  The horses moved on and overturned the cart.  Though not hurt, the children were in a pretty mess with smashed eggs all about them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -51,4 +51,4 @@ Rest assured the copper would not be transported to Port Wakefield in so primiti
 
 The cost of operation a railway in England is not 60%, but rather 48% according to the London Times.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

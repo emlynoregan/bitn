@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mrs John Lewis’s funeral on Wednesday last saw a long procession from St Mary’s to the cemetery pass through a main street with all businesses closed and the town as quiet as midnight.  The list of those who attended is very long and includes most people of importance in local government, local business, the pastoral industry and many others.  Many of the poor whom she helped also attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

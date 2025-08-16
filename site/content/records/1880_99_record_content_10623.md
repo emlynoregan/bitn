@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 A better than usual amusing comment on the situation re Constable Radford and Thomas Richardson and wondering how the Inspector will react.  Will it be the Inspector or the constable who gets moved on?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

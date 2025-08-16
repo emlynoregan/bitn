@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  There is a move to sue the Council for unpaid wages when they dropped the wages to 5/6 after taking the men on.  [Cr Ridgway had warned them of a possible breach of contract and suggested it would likely cost them more at court than they would have saved in wages.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

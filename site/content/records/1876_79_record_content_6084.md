@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Railways. Large additions are being made to the engine sheds at the Burra Railway Station, probably in view of the transfer of repair shops from the Riverton station to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -40,4 +40,4 @@ Jetty Treff’s song Trab, Trab, Trab
 
 Madame Francesco Allen sang Mother’s Farewell from ‘Norma’ [Rapturously reviewed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

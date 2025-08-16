@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘BFL’ writes suggesting that local farmers follow the lead of those in parts of New Jersey who place two goats with their sheep and they chase off attacking dogs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 A patent earth silt scoop of Mr E.J. Lane of Cockburn was demonstrated on E.N. Finch’s farm at Princestown about 2 miles west of Kooringa.  Many farmers gathered to see this machine.  The scoop is designed to clear out dams while there is water in them.  Particulars available from T.F. Robertson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

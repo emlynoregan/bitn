@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 David Gall writes condemning the custom of revellers on New Year’s Eve of writing the date or year on walls and shutters etc. in chalk; red chalk being even worse to remove than white.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

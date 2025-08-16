@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Heath Family will be farewelled at the Kooringa Hotel on 8 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

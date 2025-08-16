@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Accident.  Mr H. Dawson was coming from the Mine in his cart on Wednesday last and opposite the Telegraph Office had to pass a dray, which did not draw aside in time and the cart went too near the edge of the embankment and capsized.  Fortunately Mr Dawson sustained no serious injury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

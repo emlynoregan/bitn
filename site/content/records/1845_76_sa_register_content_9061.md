@@ -38,4 +38,4 @@ Richard Bosance was charged by Mr Coles the Crown Lands Ranger with allowing a l
 
 William Thomas was charged with stealing firewood, but there not being a full Bench, entered into his own recognizance to appear when called upon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

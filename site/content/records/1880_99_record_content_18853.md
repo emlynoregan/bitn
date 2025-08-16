@@ -37,4 +37,4 @@ Mr Ridgway said a large part of the expenditure of the [old] works was on behalf
 
 Mr Mestayer claimed the £960 included only the money expended by the Department for the Aberdeen works and not for the Railway works at all.  The Commissioner will reply in due course.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

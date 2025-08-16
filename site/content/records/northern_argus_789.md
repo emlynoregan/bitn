@@ -26,4 +26,4 @@ publication_slug: northern-argus
 Theft.  A number of children aged 5-10 have been cautioned for stealing items from cars in Market Square and Queen Street.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

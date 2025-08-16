@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 D.S. Packard recently drove from Morgan to Burra, a distance of sixty-five miles in a time, exclusive of stoppages, of 6 hours 10 minutes.  He strove to hold back the horse and never used the whip - such a record without any attempt at pressure is rare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

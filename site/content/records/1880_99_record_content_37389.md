@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Federal Council delegates will be the Premier, Dr Cockburn; The Minister of Education, Hon. J.H. Gordon; Sir J.C. Bray; Sir J.W. Downer; Hon. R.C. Baker; Hon. T. Playford; Hon, C.C. Kingston.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Captain R. Edwards was farewelled at the Burra Hotel last Thursday evening.  He is going to South Africa to an important mining position there.  He had lived in SA for 27 years, 18 in Burra and 9 in Waukaringa.  The ½ column article effectively says he is a nice guy, but gives little real information about him or his activities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

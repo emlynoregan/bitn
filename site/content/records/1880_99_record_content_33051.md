@@ -38,4 +38,4 @@ Hundred of Ayers: the area is suburban to Booborowie with good soil and water (a
 
 Hundreds of Kingston and Hallett: blocks are 2-5 miles north of Mt Bryan and 1-5 miles from Hallett on the TSR with good land and water at c. 30’.  Fruit, flowers, vines, and vegetables are being grown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

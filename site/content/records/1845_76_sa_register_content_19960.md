@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 A new silver-lead mine has been found lately on some property belonging to Messrs Roach and Pascoe in the Wheelbarrow Hills about ten miles from Burra.  A small vein led to better samples at 20 feet, which assayed at 80% lead and 6 oz of silver to the ton.  If these indications continue a company will be formed to develop the venture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

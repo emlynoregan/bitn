@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr J.F. Duff, the representative of Goodchild, Austin & Co., has moved from his old office to the one next door to Mr Packard’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

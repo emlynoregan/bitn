@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 At the Full Court on 29 December 1864 James and Thomas Tucker were each fined £3 plus costs for lighting a fire on crown land without taking the necessary precautions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

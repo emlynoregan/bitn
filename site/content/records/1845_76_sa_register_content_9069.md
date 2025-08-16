@@ -58,4 +58,4 @@ Mr Challoner proposed the health of Mr Paxton.  He said Mr Paxton was well known
 Mr Paxton in replying said he was proud to have been associated with the Mine since its start.  He had seen the first pick struck and had since noted its steady progression.  Had it not been for the Burra SA would not be in the position it was today.  He did not take credit to himself for what he had done for the Burra, as he had done it to benefit himself as well as others.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -37,4 +37,4 @@ Kooringa, December 16, 1862.
 
 ‘I will be in town by the evening train to-morrow.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

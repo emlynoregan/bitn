@@ -25,4 +25,4 @@ Letter to the editor continues a discussion of the role of the Bands of Hope.
 
 [See also previous issues.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

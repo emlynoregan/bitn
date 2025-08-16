@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A committee was formed to meet on Friday night to investigate Cr Rabbich’s charge against the Inspector.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

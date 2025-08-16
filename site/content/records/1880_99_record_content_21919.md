@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rifle Match between 5 men of Burra Co. RVF and 5 civilians last Saturday, in very windy weather and dusty conditions resulted in a victory to the RVF 179 to 148.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

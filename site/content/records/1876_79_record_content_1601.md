@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Newspaper: Circulation of paper said to be >600 and growing Name to be changed to The Burra News and Northern Mail
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

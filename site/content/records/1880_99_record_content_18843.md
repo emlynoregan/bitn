@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire.  On Thursday morning a fire broke out in a galvanised iron kitchen and washhouse at the rear of J.T. Walker’s house in Chapel St.  Flames licked the house eaves and on the other side was a store of chaff and firewood.  With the aid of a garden hose the fire was extinguished and damage was confined to the room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

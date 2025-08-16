@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainments.  The first of the 6d Entertainments was held on Friday last and is well reviewed.  The aim of the shows is to reduce the Institute debt from the present £400. [Corrected in the following issue to £500]  A good program was carried out with a good attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

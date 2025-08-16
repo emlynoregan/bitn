@@ -28,4 +28,4 @@ Terowie Railway.  Rails should be laid into Terowie by the end of this week.  Th
 
 [The editor considered the way in which the streets of Yarcowie had been closed by the passage of the railway to be quite disgraceful.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

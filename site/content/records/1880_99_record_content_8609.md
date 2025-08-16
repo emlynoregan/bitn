@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Best Place issue was settled by centring the road between the existing buildings and making the roadway 23’ either side of the centre line, with somewhat narrower footways.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

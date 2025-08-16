@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Burra Town Council inspected the town on Wednesday and found it to be generally in good order.  Some noxious weeds are to be cut from North Ward.  Some cutting of watertables is needed in Taylor St and near Butterworth’s Mill.  Some minor watertable work is needed in East Ward and in West Ward the footbridge in Church St needs lifting and strengthening and guardrails need painting generally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

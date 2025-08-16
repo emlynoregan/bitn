@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Henderson was returning from the Foresters’ Picnic in a trap with two other gentlemen when the whole thing collapsed in Ayers St, throwing all of them out onto the road.  All were badly shaken and the trap smashed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

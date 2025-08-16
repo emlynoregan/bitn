@@ -35,4 +35,4 @@ Mt Bryan Ratepayers met at the Mt Bryan Council Chamber on Saturday afternoon wh
 
 [Considerably more detail of the case is reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

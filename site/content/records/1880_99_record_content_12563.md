@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Father Aloysius Kreissl was farewelled on Saturday evening last after 14 years at the catholic Mission here.  He was given an illuminated address.  The weather prevented many from attending and so did the hour of 6 p.m.  When he came in 1870 they were using a small and unpretentious building, but now a beautiful church and schoolhouse.  He thanked SAMA for donating the land and their agent, Mr West, for his courtesy at all times.  He will be followed by Father O’Dowling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

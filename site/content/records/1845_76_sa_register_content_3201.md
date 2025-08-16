@@ -30,4 +30,4 @@ No sooner was the determination of the Burra Directors made known last October, 
 [The article then recounts the example of a refugee from France who was offered £15 per annum and rations by a sheep-farmer, for the services of himself, his wife and a sturdy son.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

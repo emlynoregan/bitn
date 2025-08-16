@@ -29,4 +29,4 @@ An enquiry recently about the money raised several years ago for the Redruth Chu
 
 As a contributor I say that if changed circumstances make it undesirable to continue with the project, I should, if a public meeting were called, vote for it to be invested as an endowment for the church in the district.  As I am leaving the colony I shall instruct my attorney to give his support to any plan to which other subscribers may agree upon to recover the money.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

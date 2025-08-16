@@ -42,4 +42,4 @@ We could not imagine in what way we had offended him, until we noticed in the le
 [George Stevenson had been in charge of the SA Register (then the SA Gazette & Colonial Register) up till 1842, when the journal passed into other hands.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

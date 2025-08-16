@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Agricultural Bureau of SA annual report for 1893-4.  It reports 130 papers and the editor wishes for a more active branch in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

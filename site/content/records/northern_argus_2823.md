@@ -27,4 +27,4 @@ Obituary.  Mrs Glad Reilly died recently.  She was the mother of Peter and Matt 
 
 [Born 1 January 1923 and died 24 June 1987.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -43,4 +43,4 @@ It would be wiser in Mr Rounsevell to accept a hint from those travellers who ha
 
 [The editor goes on at considerably greater length.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

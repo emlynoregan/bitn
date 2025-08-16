@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Archibald Forbes attracted a very large audience, but the review says he ‘has not great platform abilities’ though his exciting adventures were ‘pleasantly told’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

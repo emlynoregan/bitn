@@ -44,4 +44,4 @@ Dr Dashwood saw the deceased about 3 p.m. Sunday, by which time she had been dea
 
 [Diana Rebecca Bagg died 14 September 1867 at Kooringa aged 45.  Her husband was John Bagg (born c. 1807) and they were married 17 July 1854 at Kooringa.  At that time she was a widow and said she was three years younger than the age at death would suggest.  BISA research says she was born Scott and gives Seymour as an alias, perhaps suggesting that was her first marriage or even a de facto relationship.  On her marriage to Bagg she used the name Scott and her father’s name is not recorded.  BISA also says her husband was John Diment Bagg and that he died in Dorset UK 29 March 1891.  The couple had two daughters; one in 1853 and the other in 1860.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

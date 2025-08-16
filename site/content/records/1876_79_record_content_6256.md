@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Kooringa Wesleyan Sunday-school anniversary was last Sunday and on Easter Monday there was the usual children's treat and tea-meeting. The report congratulates the school on the new schoolroom. Total collections reached £50-11-9.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

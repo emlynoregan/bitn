@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mayoralty. A long list of people requisitioned Edward Lipsett to stand for Mayor again in 1879. He agreed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

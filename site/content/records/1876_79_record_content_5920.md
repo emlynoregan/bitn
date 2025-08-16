@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. William Dare of Piltimetiappa [various spellings are found of this] wants `An experienced wild dog catcher'. Pay £1 per head and ammunition and poison [next word is illegible: possibly `issued']
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Moore’s Steam Fanque is in the Commercial Hotel Yards till Easter Monday and will play the most popular tunes nightly.  [I have not been able to trace the word ‘fanque’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

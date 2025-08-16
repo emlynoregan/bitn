@@ -29,4 +29,4 @@ Advt.  Tonight at the Institute.  The last appearance of the Grand Sciopticon Pa
 
 [A sciopticon was a type of magic lantern specifically designed for the projection of photographed objects.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

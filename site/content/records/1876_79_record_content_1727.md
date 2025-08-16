@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Offence: James Burns was fined 5/- for playing a bugle on the balcony of the Commercial Hotel at 3 or 4 am on New Year's Day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

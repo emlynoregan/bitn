@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra’s Bush Picnic Race Meeting & Gymkhana will be held on Sunday 22 March and will aid the RFDS and Burra Aged Persons Hostel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

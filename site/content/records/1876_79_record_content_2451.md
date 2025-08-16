@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Justice: letter complaining about the arbitrary and rough justice being handed out by some police and justices in the Northern Areas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Francis Patten was charged with being idle and disorderly on Saturday morning and sentenced to one month in gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

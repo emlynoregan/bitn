@@ -33,4 +33,4 @@ M. MacDermott SM as Returning Officer for the district of the Burra and Clare, g
 
 Election Notice.  John Clark thanks his supporters for election to the House of Assembly, but advises that he has decided to retire from the contest following consultation between his supporters and those of Mr Neales.  It has been decided that Mr Neales should go to the poll and consequently his withdrawal will increase the likelihood that Mr Kingston will not be returned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

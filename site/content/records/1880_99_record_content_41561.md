@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Band Concert at Hallett by their local band on the holiday with W.J. Davey of Burra as conductor was very successful and raised £5-19-0 for the Hallett Institute.  [Though when announced it was said to be in aid of the local band.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

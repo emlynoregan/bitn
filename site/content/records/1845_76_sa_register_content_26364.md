@@ -33,4 +33,4 @@ Yesterday was a general holiday and cricket and other games were enjoyed.
 
 Last Sunday and Monday the Bible Christian Sunday School Anniversary was held.  Revs R. Lang & S. Gray preached.  On Monday the scholars marched through the streets led by the IOGT Brass Band.  Tea and cake followed.  Proceeds from the Anniversary were £40.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

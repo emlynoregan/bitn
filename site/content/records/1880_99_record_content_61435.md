@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 ‘The Curlews’ are a new entertainment group who have been practising for an entertainment at Robertstown on 28 December. Mr A.C. Noyes is the conductor, T.T. Shortridge is manager and C.F. Packard is the secretary.  There are 11 performers.  In the afternoon they will play a cricket match v. Robertstown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

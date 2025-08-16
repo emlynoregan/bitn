@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Inquests.  There have been five in seven days at a cost of £23-17-6 to the Government.  Two were for fires and three on bodies of persons meeting death in unusual circumstances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

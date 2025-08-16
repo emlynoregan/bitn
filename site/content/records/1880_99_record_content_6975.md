@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 St Mary’s Church seatholders met on Monday to arrange a presentation to Rev. F. Marshall on his leaving for Quorn.  Through nobody’s fault Mr Marshall’s stay had been curtailed and he had been put to expense.  He had also endured illness and consequently the annual vestry meeting had voted £40 to him from church funds and seatholders had undertaken to raise another £60.  This had been done without difficulty said Mr T. Bath, who chaired the meeting.  The 100 sovereigns were presented.  Rev. Howitt was congratulated on his return to health and to his duties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

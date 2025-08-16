@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Little Athletics.  About 50 children and adults met at the school oval on Sunday and decided to form a Little Athletics Club in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

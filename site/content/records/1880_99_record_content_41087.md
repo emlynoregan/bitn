@@ -35,4 +35,4 @@ Redruth Wesleyan Circuit, quarterly meeting.
 
 Representatives came from Davistown, Booborowie, Leighton, Stony Gap and Redruth.  The income for the quarter of £95-10-0 exceeded expenses by £25.  Senior circuit steward, John Dunstan Jun., has resigned as he leaves soon for Broken Hill.  The Superintendent submitted the financial statement of the parsonage property which had been purchased for £550 of which their minister, Rev. T.M. Rowe, had collected £287.  After business a farewell tea and social was given Rev. Rowe prior to his departure from the district [to Mt Barker.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

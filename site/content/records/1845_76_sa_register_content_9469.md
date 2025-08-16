@@ -42,4 +42,4 @@ Charles Laper, maker of lemonade and soda water for Mr Barker.  Deceased was wel
 
 William Brown said White was drunk when he came and appeared to have been so for some time.  After the first night he only had what he could beg from others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

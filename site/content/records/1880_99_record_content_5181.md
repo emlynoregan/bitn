@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 16 October, Mr Burnett will address the young in the Wesleyan Schoolroom ‘The Pale Horse and Its Rider’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

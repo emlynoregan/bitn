@@ -24,4 +24,4 @@ The cost per bed per year per patient was £55-0-5½
 
 [Costs of many other aspects of the operation are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

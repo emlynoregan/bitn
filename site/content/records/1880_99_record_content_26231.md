@@ -30,4 +30,4 @@ The International Chess Congress has been won by Mr H. Charlich of SA with 7½ g
 
 Messrs Tullidge of Victoria and Hall of SA tied for 5th place with 4 games each and divided the £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

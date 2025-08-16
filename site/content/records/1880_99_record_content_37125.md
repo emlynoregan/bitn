@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  A valedictory address will be presented to Messrs Charles and Thomas Drew who are leaving Burra for Adelaide in the Council Chamber, Burra Institute, next Wednesday at 4 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

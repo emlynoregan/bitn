@@ -41,4 +41,4 @@ This is enough to pay five quarterly dividends of 100% each.  Directors therefor
 
 Another mining property of the Burra proprietary is the Karkulto Mine, a few miles to the south of Kooringa.  This is likely to become highly productive, as an important lode of ore has been found there in recent days.  It is the intention of Directors to test this thoroughly, as soon as miners become redundant at the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

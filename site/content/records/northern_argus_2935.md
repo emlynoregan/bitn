@@ -30,4 +30,4 @@ Obituary.  Mrs Lillian Collins, wife of the late Sidney Collins, died last week.
 
 [Born Lillian Emily Caines 30 June 1904 Pt Pirie West: died 21 July 1987.  Married Harold Sidney Collins 1932.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

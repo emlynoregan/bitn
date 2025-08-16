@@ -26,4 +26,4 @@ Kooringa News, 15 August
 
 Weather.  To the north there has as yet been no rain and even here farmers are beginning to entertain gloomy thought about the season’s prospects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

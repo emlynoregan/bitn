@@ -37,4 +37,4 @@ Of 1494 voters, 582 voted.  Of 216 women on the roll only 41 voted.
 
 The results from Manoora, Renmark and Jamestown are not yet to hand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

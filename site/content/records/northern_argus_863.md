@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 BCS.  The primary section of the school held its swimming carnival last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

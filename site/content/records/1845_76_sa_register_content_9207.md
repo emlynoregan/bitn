@@ -31,4 +31,4 @@ Amongst our most recent departures we note that of Mr W. Paxton Esq. who returns
 
 Mr G.H. Fox, merchant of Adelaide, also left for England in the same vessel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

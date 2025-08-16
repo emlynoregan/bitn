@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [This is an unusual letter as W.T. Rabbich was a councillor at the time and could have communicated his concern to fellow councillors and/or raised it at a Council meeting.  The editor therefore found his complaint inappropriate.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

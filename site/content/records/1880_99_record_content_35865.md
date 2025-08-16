@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Mrs Perry is starting business in millinery and dressmaking at her house in Young Street, Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

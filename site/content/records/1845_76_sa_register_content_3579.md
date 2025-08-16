@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Patent Copper Co. (Williams’) is now smelting day and night.  Because an obnoxious and intrusive person had entered the works in disguise, the Manager, Mr Williams, had given orders that no strangers were to be given entry.  Nevertheless I was courteously received and shown some ore refuse.  The light from the four large furnaces has a magnificent appearance at night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Advertisement.  SA Mining Association, 18th Dividend
 
 The Directors have declared on 18 November 1852 a dividend of 100% or £5 per share to be paid on 1 December 1852.  Henry Ayers, Secretary, Adelaide, 18 November 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

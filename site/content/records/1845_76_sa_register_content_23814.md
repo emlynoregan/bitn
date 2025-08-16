@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Agriculture.  Reaping continues apace and in places yields in excess of 30 bushels per acre are reported.  Lowest yields are about 12 bushels per acre and the average seems likely to be about 20 if the weather holds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

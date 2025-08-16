@@ -33,4 +33,4 @@ Burra Mine.  The work of preparing for the new system and installing machinery i
 
 Agriculture.  There has been no appreciable rain since June around Kooringa.  The grass is short and already yellowing.  Wheat crops so far remain green, but are very short.  If rain does not fall within two weeks many farmers will not recover seed wheat.  The days have been warm and dry, sometimes with unseasonably hot winds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

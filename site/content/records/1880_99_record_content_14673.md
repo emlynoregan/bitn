@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr W. Fuss [H.C.W. Fuss] has sent us nearly 100 pansy specimens he has growing in his garden.  The blooms are of great size, many are extraordinarily large and many are of good form and colour, including several new shades.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

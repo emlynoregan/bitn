@@ -28,4 +28,4 @@ The Road to Burra Burra Mines is reported by a traveller to be strewn with laden
 
 Several Robberies are reported from the Great Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

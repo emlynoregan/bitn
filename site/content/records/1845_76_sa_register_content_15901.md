@@ -29,4 +29,4 @@ All six sections in the Hundreds of Apoinga and Stanley Nos 3054, 3058, 3059, 30
 
 Also Lots Nos 56 & 58, part Section No. 1947 in the above Township, together with the company’s right of mining in the sections known as the Township of Victoria.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

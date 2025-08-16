@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘One Annoyed’ complaining that with an over-supply of cabs they are now soliciting business by ‘blowing their brass instruments’ at hotel doors, which is ‘not at all melodious’ and against the by-law which restricts their stands to specified places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

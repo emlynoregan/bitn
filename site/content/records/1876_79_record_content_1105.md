@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Wheal Grenfell (Sod Hut); new lode found 10'-12' wide 30 yds west of No.2 shaft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

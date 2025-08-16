@@ -36,4 +36,4 @@ Hardy was prepared to drag Mr Launder into the mire.  It is well known why Hardy
 
 The key issue is rather the spending of £20-£30 in Ware St where there is little traffic, while more important places have been neglected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt.  ‘WANTED, a WIFE.  Must be young and good looking.  Money a decided object; for which the advertiser will give a handsome person and a loving heart.  Applicants to forward photographs.  Address, “Romeo,” P.O., Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

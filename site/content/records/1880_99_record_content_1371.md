@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘One of Us’ doubting the efficacy of children’s books in curbing the larrikinism in Kooringa.  He recalls the acts of New Year in 1878 & 1879 when there was noise like thunder, wagons, carts and busses were left in streets all over the town, large gates were unhung and thrown into the streets, fences were broken and all this without hindrance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

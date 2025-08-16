@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Offences: Lights in vehicles to be enforced - needed half hour after sunset to half hour before sunrise except for two nights before and after a full moon.  Several people were fined 5/- with 10/- costs
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

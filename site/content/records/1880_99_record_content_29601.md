@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Holder was invited to attend and was asked to communicate with the conservator of Water to endeavour to find the Department view on arranging a further lease of the Waterworks and failing that the endeavour to obtain a reduction in the rate for water.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

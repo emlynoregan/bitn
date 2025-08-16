@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 C.W. Ullmann, late of Burra, is now in a management position in London with British Electric Light Co. which is rapidly providing electric lighting in London.  They have spent £1,000,000 in plant and buildings in three years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

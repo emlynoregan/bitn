@@ -47,4 +47,4 @@ C. Rawlings won the tender for firewood for the Waterworks:
 
 25 tons in 2’ lengths at 9/6 a ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

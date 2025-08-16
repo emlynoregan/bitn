@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Boxing Day Sports were postponed to 9 January, but to satisfy those who came in for the day a 3-mile and a 1-mile bike race were run.  A. Boyes won the former and Toms the latter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

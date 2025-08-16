@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 The Eastern Country.  A meeting will be held on Friday afternoon in the Burra Institute to discuss the question of lower rents and security of tenure in the eastern districts.  T.H. Pearse and H. Scott are initiating the discussion.  As well as severe drought, wild dogs are causing no end of trouble.  Blockers are in a worse state than the graziers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

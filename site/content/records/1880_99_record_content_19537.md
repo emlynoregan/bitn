@@ -58,4 +58,4 @@ Cr Coglin would 2nd the motion at 2/- and Cr Ridgway agreed to this.  Carried.
 
 The Council has received details of the capital cost of the Waterworks and a statement that the land they want is available at £50 if they want it to go on the Capital Account - Council agreed to accept the land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

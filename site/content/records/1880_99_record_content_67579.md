@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council is seeking legal advice as to whether the vote on the Waterworks should have been confined to water consumers only.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

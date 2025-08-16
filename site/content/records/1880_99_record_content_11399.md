@@ -38,4 +38,4 @@ Cr Drew moved that the Government’s offer of 26 July 1883 be accepted, using t
 
 Cr Sampson amended it to stand over for a fortnight.  Cr Tiver was unprepared to vote.  Cr Sampson thought the promises to ratepayers had not been fulfilled.  Amendment carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

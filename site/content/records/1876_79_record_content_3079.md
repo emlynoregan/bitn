@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. Rail laying has been delayed by lack of bolts; but is now north of Burra Creek and also active at Myle's crossing 2 miles north.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -42,4 +42,4 @@ He had previously lived at Mintaro and leaves five sons and one daughter, all ma
 
 Robert Bailey (Belalie), John, Thomas & George Bailey (all of Gum Creek), James Bailey (Yongala).  The funeral was one of the largest in Burra for some years and Rev. J. Stuart Wayland came from Adelaide to officiate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

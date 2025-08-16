@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.T. Rabbich writes commenting that though some men have been employed in Burra ballasting, they are now out of work.  But surely they could be employed longer as ballast metal is surely needed and employment till the start of the shearing season is sorely needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

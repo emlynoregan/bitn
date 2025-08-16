@@ -66,4 +66,4 @@ Morris Rayner writes urging that as part of the Burra Show Professor Custance be
 A.H. Forder writes urging the establishment of a sugar beet industry in the district.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

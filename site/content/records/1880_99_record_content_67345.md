@@ -33,4 +33,4 @@ Editorial is enthusiastic over the Burra Slag Extraction Co.’s efforts, but co
 
 The Slag Extraction Co. has also purchased 500 tons of slag from the old Apoinga Works to be carted to Redruth for treatment.  This was so primitively treated that it should be even richer than the Redruth heap.  The cost of setting up is perhaps over £4,000, but the excellent price of copper now warrants action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

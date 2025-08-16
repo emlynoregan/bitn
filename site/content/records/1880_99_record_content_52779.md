@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Police.  There being no police at Hallett, the Chief Secretary expects the Burra and Terowie police to patrol that town, but the Burra police have only one foot constable at Redruth and two mounted at Kooringa.  They cannot reasonably handle Hallett as well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

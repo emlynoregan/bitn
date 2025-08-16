@@ -30,4 +30,4 @@ A lad was almost suffocated in the old chimney on Wednesday.
 
 Mr Paynter thinks it will take seven years to get through the old slagheap.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

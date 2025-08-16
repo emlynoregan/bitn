@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Since Signor Cutolo’s departure we have had Mr Creswick & Co., who played for several nights to thin houses.  Mr Gome delivered three lectures, and exhibited magic lantern views, including dissolving views, chromotropes etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

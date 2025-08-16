@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter from [Dr] Robert Brummitt re the proposed windmill and tank in Market Square at a cost of c. £170.  The tank is unlikely to be ornamental and the lowness of the square limits any possible household connections.  A tank on the hill above Mr Murphy’s house could supply almost any house in Kooringa and could be fed, I am told, by a windmill.  Such a scheme would be of considerable cost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

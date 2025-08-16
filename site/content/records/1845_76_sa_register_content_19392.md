@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 Weather.  There has at last been some fine rain and some very cold weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

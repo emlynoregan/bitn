@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Thomas Richardson	Miners’ Arms Hotel, Kooringa.  Commercial Travellers’ Room, Large & Central Saleyards, Stabling, Horses & Traps always on hand
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

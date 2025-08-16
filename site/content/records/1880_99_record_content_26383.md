@@ -35,4 +35,4 @@ and BOILER ROOM at the Bon Accord Mine.
 
 Mr W.H. Pearce, Ironmonger of Commercial St, has a large consignment of brushware of all descriptions from the school for the blind.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -35,4 +35,4 @@ For some months work has been going on at Roach Bros Burra Mill to take out the 
 
 All space in the mill including the extra floor is occupied by the elaborate and expensive new machinery.  Alterations to the building were by Sara & Dunstan.  Several gentlemen from Adelaide were invited on Thursday when the Mayor, John Dunstan jnr started the engine.  After that a toast was drunk in champagne and some rolls were made from the 1st roller flour ground the previous evening were eaten.  Henceforth Mr H. Roach will look after the practical milling and T. Roach do the books and outside work.  Mr G. Hewell, Mayor of Unley, proposed the toast ‘the Town and Trade of Burra’.  The other toasts etc. that followed are detailed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

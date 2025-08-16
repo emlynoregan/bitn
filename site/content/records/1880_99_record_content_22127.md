@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Houston, the blind singing evangelist, preached to large congregations at the Kooringa Wesleyan Church on Sunday 2 May and every evening this week.  His singing is esteemed a great treat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 Mines and Mineral Lands.  Excitement concerning mineral lands in SA is rising.  We do not go so far as to endorse the extreme estimates found in yesterday’s South Australian and remind colonists ‘to take care that they do not ‘pay too much for their whistle.’”
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

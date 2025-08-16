@@ -31,4 +31,4 @@ Depart Adelaide 9.35 a.m. and arrive Melbourne 7.28 p.m. Tuesday Jan. 15 & 22 on
 
 Depart Melbourne 9.50 a.m. and arrive Adelaide 6.35 a.m. Wednesday Jan. 23 & 30 only.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

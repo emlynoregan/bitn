@@ -54,4 +54,4 @@ Council was prepared to have the inconvenience of narrowed footways and to give 
 
 They only wanted to know the proper line to decide which side was wrong, but the Board’s surveyor did not oblige.  He simply asserted that he would regard Mr Ridgway’s line as correct.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

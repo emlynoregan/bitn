@@ -73,4 +73,4 @@ He would vote for grants in aid of religion, where it is really wanted, would su
 
 He said he was in favour of mineral leases, believing they could do more for the colony than even the Burra Mine had done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

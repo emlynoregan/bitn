@@ -49,4 +49,4 @@ Mr Blyth thought the whole question would depend upon the railway, as there was 
 
 The Chairman said the best road to Burra would then be by Tothill’s creek with the road to Clare via Forrester’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

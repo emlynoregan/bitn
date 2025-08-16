@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Central Board of Health’s Mr Desmond has made castigating remarks about the slaughterhouses in both the Burra Corporation and District Council areas.  Failure to correct the situation will lead to a fine of £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

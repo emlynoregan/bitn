@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Adelaide Bicyclists who recently visited Koomooloo had a great time.  They left Burra at 9 a.m. and got to Koomooloo about 4 p.m.  They had some fun riding their machines around the place, steeplechasing through streams and over mud banks.  The next day they were taken over the station by Mr Warnes and enjoyed an afternoon kangaroo hunt.  The following afternoon they left for Burra at 3 p.m. and despite considerable trouble with thick red mud and slippery claypans which caused diversions into grass and bluebush, Burra was reached about 6 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

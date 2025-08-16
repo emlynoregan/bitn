@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the East Ward ratepayers’ meeting.  The editor now believes the ratepayers have spoken so strongly that the Council must rescind its motion to go on with a footway on the eastern side of the main road and spend the money elsewhere in East Ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

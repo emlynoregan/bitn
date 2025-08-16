@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Burra DC is to make application to the National Estate Program 1986-87 for a grant to quarry kerbstones as they are a characteristic of the town’s streetscape.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

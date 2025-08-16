@@ -53,4 +53,4 @@ ON CHRISTMAS EVE
 
 [Note that evidence given at the trial suggests that the crime took place on Christmas Day: i.e. the evening of Christmas Day, rather than Christmas Eve.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

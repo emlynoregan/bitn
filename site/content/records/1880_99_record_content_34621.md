@@ -30,4 +30,4 @@ Obituary.  A return thanks notice reveals the death recently of a daughter of Mr
 
 [Registration gives the name as Mary Ellen Andrews aged 17, child of Richard Andrews, scavenger.  The cause was enteric fever (typhoid).]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

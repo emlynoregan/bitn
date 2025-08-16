@@ -71,4 +71,4 @@ Mr W.H. Rodman pointed out that a Corporation would have the effect of requiring
 
 A motion was carried that Mr A. McCulloch MP be requested to present the petition in the House of Assembly and Mr J.B. Neales MP be asked to support it and that in the Legislative Council Hon. J.H. Barrow be asked to present the petition and the Hon. Captain Bagot be asked to support it.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

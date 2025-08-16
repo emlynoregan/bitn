@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Burra Scouts, Venturers, Cubs, Girl Guides and Brownies held their break-up at the Sports Complex last Friday night.  Senior Citizens were invited as guests as usual.  Various presentations were made.  Dave Jennings as leader of the Venturers said it was anticipated there would soon be three new Queen’s Scouts: Anthony Kleinig, Scott Gardner and Leighton Dollman.  He said there were plenty of children in the town to sustain the movement, but few parents willing to become involved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

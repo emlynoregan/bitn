@@ -20,4 +20,4 @@ publication_slug: record-1876-79
 
 ---
 
-Source: [1876-79_Record.md](/downloads/markdown/1876-79_Record.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

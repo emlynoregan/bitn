@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Symbolic children warning signs are to be erected on Smelts Road near the ETSA Depot.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

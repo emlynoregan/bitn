@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Government Geologist, Mr Brown, is looking at mineral country around Burra-Robertstown area.  The editor says this should have been done months ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

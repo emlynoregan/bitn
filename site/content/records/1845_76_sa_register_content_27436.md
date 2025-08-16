@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Institute.  A general meeting of the Institute has empowered the Committee to erect two rooms for the Librarian and to enclose the buildings with a stone wall.  This will further improve the appearance of the premises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

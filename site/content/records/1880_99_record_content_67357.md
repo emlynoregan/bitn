@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 An Ambulance is sorely needed to convey people to the Burra Hospital – especially for those arriving by train as a result of accident or illness referred from elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

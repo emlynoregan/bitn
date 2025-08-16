@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Stock Sales at Burra were once insignificant, but now are very large and Messrs Austin, Davison & Co. have announced weekly sales will now take place at the Bon Accord Yards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

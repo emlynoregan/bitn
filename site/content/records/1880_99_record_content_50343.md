@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The National Bank in the current depression has, along with twelve others, had to close its doors and suspend banking business.  The National Bank has now been reconstructed and has reopened after seven weeks as the National Bank of Australasia.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

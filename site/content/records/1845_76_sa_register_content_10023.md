@@ -29,4 +29,4 @@ Kooringa News
 
 A memorial signed by almost 80 of the respectable inhabitants of Burra was sent to the Governor asking him to establish a Court of Revision at Kooringa, in addition to the one already gazetted for Clare.  Nearly one third of the whole population of the Clare and Burra district is resident in and around Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

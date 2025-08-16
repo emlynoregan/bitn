@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mines.  SAMA’s 41st Annual Report showed debits of £834-11-9, which was larger than usual for repairs to building plus land and income tax for the first time.  Credits for the half-year were £1,310-13-7 from rents and interest, leaving a credit balance of £69,636-17-3.  Six lots totalling two acres have been sold in Kooringa for £340, but no country land has been sold in the last six months.  The assets of SAMA were shown as £132,205-11-9.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

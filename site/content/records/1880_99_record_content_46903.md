@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘East Ward Ratepayer’ writes to warn Councillors that they are being watched and as a ratepayer he was against such twaddle taking place as had recently occurred in Council.  He had voted for Hardy, ‘but sir, never no more’.  He supports Cr Parks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

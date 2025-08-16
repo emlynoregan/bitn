@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mt Bryan East.  The winter brought snow and frosts a-plenty along with much wind and sufficient rain to produce promising crops, especially on the new lands.  The cold had delayed growth.  The roads towards Burra are in a wretched state, ‘but apparently when someone is killed the authorities will send labourers to fill the holes’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

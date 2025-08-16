@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Temperance Meeting - at the Primitive Methodist Church also the anniversary of the chapel with service Sunday and Public tea and meeting on Monday with a series of speakers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

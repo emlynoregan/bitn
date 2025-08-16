@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cabs.  The cabs have a habit of driving around Market Square curve at excessive speed, especially on Saturday evenings.  We hope something will be done about it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

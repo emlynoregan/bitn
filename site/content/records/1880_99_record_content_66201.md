@@ -31,4 +31,4 @@ The party in SA today that wishes to ‘level down’ the society would do bette
 
 He goes on to fear that government by the mob would turn attention to higher taxes on land and/or production and so kill the goose that lays the golden eggs.  Wages would rise, farms would fail, and unemployment would rise.  Lowering the franchise for the Legislative Council is but the first step on this path to self-destruction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

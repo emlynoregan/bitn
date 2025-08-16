@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr Robert Brown Jun. is leaving for Sturt Meadows.  He was the manager for Messrs E. & C.W. Bowman of Hillside and Mt Bryan and was active in the district Council and the Agricultural society etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

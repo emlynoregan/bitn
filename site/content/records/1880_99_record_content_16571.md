@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. J. Pithouse’s lectures and sermons were largely attended and were inspiringly delivered.  The illustrations were superb and the incidents shown from Uncle Tom’s Cabin on Tuesday were ‘almost painfully impressive’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

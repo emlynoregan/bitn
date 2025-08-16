@@ -41,4 +41,4 @@ Midnight, Sunday, The Township of Kooringa has again been visited by a fearful f
 
 An account written at 6 a.m. Monday morning said it was still raining and the street full of water, like a river.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

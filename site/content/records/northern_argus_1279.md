@@ -43,4 +43,4 @@ Burra Burra DC Chairman Cr Hawker presents Ian Auhl’s book to the Governor.
 
 The Governor declaring the ball open.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

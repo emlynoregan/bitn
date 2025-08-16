@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A public meeting is called at Aberdeen this week to consider the propriety of forming a District Council and to consider an obnoxious clause in the Waste Lands Act, which sees inhabitants with cows having their animal impounded every week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

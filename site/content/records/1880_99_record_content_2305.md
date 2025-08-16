@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Bazaar yesterday and today at the Institute.  Rev. J. Bickford, in opening it, said the church had cost £1,460 in 1874 and had been enlarged in 1879 at a cost of £63-11-3.  Of this total all but £500 had been raised.  The bazaar was expected to raise £100.  The first day raised over £50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

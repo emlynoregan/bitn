@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Polo.  There was a good game at Aberdeen last Saturday.  A match against Mt Crawford is being arranged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

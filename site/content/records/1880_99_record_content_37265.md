@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Entertainment.  There was a very fair attendance at the Institute on Friday for the Quintrell & Fisk Combination.  The performance opened with a Grand March by the Quintrell Family, then the Fisks (6 male & 9 female voices) sang ‘Ernani’ and ‘Steal Away to Jesus’.  Both the vocal and instrumental departments were good and the takings of £15 would have been better had the evening been fine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

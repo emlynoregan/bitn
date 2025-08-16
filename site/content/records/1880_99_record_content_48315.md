@@ -30,4 +30,4 @@ W. Rodda:
 
 I was in the paddock employed to skim the grass from around fences and was about 300 yards from the outbreak of the fire at about 2 p.m.  Believe the fire started when the feet of cattle trod on a match.  Tried to extinguish it and was helped by F. Carey & a boy also assisted.  Mrs Hunt came with some water.  60-80 acres of grass were lost.  Half an hour later a second fire sprung up behind Mr Sandland who was on a horse.  Matches were then found and I am of the opinion this fire started when Mr Sandland’s horse trod on a match.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

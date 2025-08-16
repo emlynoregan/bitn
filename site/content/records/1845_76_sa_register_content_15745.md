@@ -29,4 +29,4 @@ A subscription has been started to aid the almost destitute family of the late W
 
 The last week has been the wettest for a very long time, with a gentle continuous fall.  The roads are in a deplorable state as a result.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

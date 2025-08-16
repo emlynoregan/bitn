@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Redruth Wesleyan Sunday School Anniversary is on 9 Nov.  Rev. T.M. Rowe and Rev. R.M. Hunter will preach and the service of song ‘Little Nell’ will be presented.  Picnic on Monday 10 November (Public Holiday) near Sod Hut and a tea meeting in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

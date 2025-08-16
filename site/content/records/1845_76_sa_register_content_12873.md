@@ -31,4 +31,4 @@ Obituary/Inquest.  On Monday 26 December an inquest was held at Cross-Roads Inn 
 
 [James Wilson died 25 December 1859 at Dry Hill, residence Gum Creek aged 63.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

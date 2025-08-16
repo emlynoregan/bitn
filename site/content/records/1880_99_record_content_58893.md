@@ -37,4 +37,4 @@ A.J. Berriman was fined £2 + £1-12-0 costs for leaving a diseased beast near S
 
 A similar charge against Sydney Kidman was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 J.A.S. Bagg will again attempt to break Thorn’s record from Broken Hill to Adelaide next week.  W.J. Richards, as agent for Austral Cycles, has made splendid arrangements. After competing at Broken Hill on 26 December Mr Bagg will leave at 12 a.m. on 28 December on a Swift Path Racer weighing 21 lb and geared at 80.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

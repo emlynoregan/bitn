@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Waterworks. Secondly, the same deputation sought a more efficient water supply for the town. A recent Govt. engineer found a well that yielded only 1,000 gallons an hour. The deputation asked for a standpipe in Market Square from which water carts might take water. The water supply was sadly deficient as the total loss of the Miners' Arms recently by fire indicated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

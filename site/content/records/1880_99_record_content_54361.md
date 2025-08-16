@@ -29,4 +29,4 @@ Football.  Last Wednesday Burra went to Clare, leaving Harry Vivian’s at 9.30 
 
 Burra thus seems to have won 3 goals to 1, but it is likely unmentioned behinds were also scored.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

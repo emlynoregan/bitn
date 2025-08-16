@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy addresses the same concerns.  His solution is to support both.  He suggests that there be a series of entertainments to benefit locals in need and a subscription list and a Jubilee Dinner for say 200 of our poor residents.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

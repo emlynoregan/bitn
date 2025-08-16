@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 T. Bath and his daughter were given a farewell at the Burra Hotel on Monday.  They are about to re-visit England.  Captain Killicoat presided over a gathering of about 60.  An address printed in gold on parchment was read and presented by Mr W. West, Past Master of Kooringa Freemason’s Lodge on behalf of the Worshipful Master, Mr A. Stewart.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Sport.  Out-of-town reports cover football, racing, billiards, boxing, chess, cricket and a pigeon shooting match in Sydney at which L. Clark 92 defeated the world champion Dr Carver 91.  Clark shot 56 birds without a miss.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  A meeting is called at Midwinter’s Hotel Baldina for Saturday 24 February to consider what is to be done re the overdue payments on selections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

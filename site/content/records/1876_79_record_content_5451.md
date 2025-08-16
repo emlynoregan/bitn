@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Bank of Australasia. Sara & Dunstan are now building the new Bank of Australasia which will fill an unsightly vacancy in Commercial Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

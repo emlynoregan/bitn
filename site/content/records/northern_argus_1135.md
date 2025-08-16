@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 The Burra Yacht Club has written to the Burra Burra DC expressing concern about the condition of the creek and the lack of public toilets on the eastern bank.  A clean-up was seen as necessary with the approaching Copper Festival in October, for health and safety reasons.  The letter suggested approaching the Department of Tourism for funding for toilets and offered $2,000 towards such a project.  Council agreed to breaching the dam wall and allowing the Yacht Club to proceed with a clean-up with the assistance of Council employees if necessary.  The Department of Tourism will be approached concerning toilets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

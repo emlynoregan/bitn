@@ -26,4 +26,4 @@ Many of the inhabitants here were much surprised and alarmed by an earthquake he
 
 20 December 1862, page 3
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

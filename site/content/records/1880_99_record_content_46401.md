@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. last Friday.  R.M. Harvey gave a talk on ‘The Mode of Recruiting Kanaka Labour from the Pacific Islands.’  He had lived in North Queensland for four years.  [He gave a rather benevolent view of the recruiting process and seemed to think the whole process was quite in order despite quoting a salary of £6 p.a. plus rations, four shirts, four pairs of trousers and medical attention.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Presentation.  A presentation was made last Wednesday to Dr Nesbitt, of a silver tea and coffee service.  Rev. H. Howitt made the presentation when about 25 people attended the Burra Institute.  Dr Nesbitt also received an illuminated address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

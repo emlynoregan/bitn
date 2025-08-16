@@ -40,4 +40,4 @@ Haldane said he had been living with the complainant and on being refused admiss
 
 His Worship considered the charge proved and fined Haldane 40/- plus costs and bound him over to keep the peace for six months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

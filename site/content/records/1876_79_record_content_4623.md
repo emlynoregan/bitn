@@ -28,4 +28,4 @@ Rabbits. Another meeting was held at Mongolata re the rabbit question. The meeti
 A similar meeting with the same feelings was held at Mr Midwinter’s house at Baldina. 
 A report from the Register says a large deputation waited on the Minister of Crown Lands on Tues. 20 Aug. re the rabbit question. The report covers about 2¼ columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

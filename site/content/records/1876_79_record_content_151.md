@@ -99,4 +99,4 @@ Minister of Education	E. Lipsett
 
 The proposals included better representation for the expanding areas of the Colony and the retirement of a third of the Legislative Council at each general election.  Railway proposals were similar in extent, but at broad gauge except for the Gladstone line.  A major proposal was for the construction of a new Outer Harbour for Adelaide.  This program would require a large loan and increased taxation, but the influx of population the works stimulated would ease the repayment burden.  He outlined the new tax proposals and some reform of Land Laws.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

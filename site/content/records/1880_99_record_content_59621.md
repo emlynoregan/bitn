@@ -62,4 +62,4 @@ The body was in a state of decomposition and had apparently been dead about two 
 
 The verdict was that death was by strangulation while in a state of temporary insanity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

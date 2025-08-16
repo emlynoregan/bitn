@@ -27,4 +27,4 @@ Burra Burra Mine
 
 The letting of pitches at the Mine took place last Wednesday and went chiefly at Captain’s prices.  Between 300 and 400 miners were present.  A correspondent says the men seemed satisfied with ‘the take’.  The ore ‘at grass’ at the Mine is said to contain many very fine examples.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

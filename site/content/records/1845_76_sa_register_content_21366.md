@@ -41,4 +41,4 @@ On 10 November a bushfire was discovered in Cobb & Co.’s paddock apparently in
 
 The jury could come to no conclusion as to the cause of the fire from the evidence tendered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

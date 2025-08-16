@@ -52,4 +52,4 @@ Cr W.H. Hardy thought they were premature.  It was going to be a very long time 
 
 [Other proposals were for a third rail to make a dual gauge track from Terowie to Adelaide.  A new broad gauge line would have had the problem of the NSW Government being unlikely to approve its being carried beyond the SA-NSW border.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

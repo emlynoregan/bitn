@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Burra Mine. Many rumours, but most unfounded. The fact is that the pumps will stop within the next week and all operations will then be discontinued. All surplus property, horses etc. will then be sold, but sufficient plant will be retained to enable a restart at some point in the future. A general meeting of shareholders that had been adjourned will resume on 17 November when some more answers are expected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

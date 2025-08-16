@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Advt.  McLaren, White & Co., auctioneers, announce they have taken into partnership H.T.H. Morris, formerly of Liston, Shakes & co. and have secured the Bon Accord saleyards, which will be renovated and enlarged.  The Burra office is three doors south of the National Bank.  Members of the partnership are: John McLaren, J. Wharton White, A.F. Scammell, & H.T.H. Morris.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Ballard said he had been provoked by lies put into the paper by Winchcombe about
 
 His Worship said that such might be pleaded in mitigation; it did not excuse the assault.  After reading the newspaper account His Worship said he could not see anything to provoke the assault.  He imposed a fine of 20/- plus 27/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

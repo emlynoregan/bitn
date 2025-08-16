@@ -32,4 +32,4 @@ Obituary.  Mrs Dyer, wife of Mr Dyer, chemist and druggist, died on 26 September
 
 [Ellen Dyer, wife of Percy Weedon Dyer died 26 September 1867 at Kooringa aged 25.  The couple had married in 1862 in Adelaide.  She was born Ellen Lyne 12 November 1841 at Glen Stuart near Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

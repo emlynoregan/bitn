@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Water pollution.  Beware of contamination of water by the amount of grasshopper debris and sparrow filth in waterspouts etc.  Clean them out before harm results.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

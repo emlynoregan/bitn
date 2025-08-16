@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Weather.  At last there has been some rain.  The ‘inside’ country received an inch, but eastern pastoral areas got only a sprinkling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Hong Kong’ complaining that £3-3-0 raised at Hallett was too late for the Chinese Famine Relief Fund and so the committee decided to distribute it among the Hallett poor.  The writer believes there are no more than two deserving cases in the town and the sum should have gone to a charitable institution such as The Children’s Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Captain Sanders said the Mine had received 4,400 tons of firewood in the last six months via their favoured route.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

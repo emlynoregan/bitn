@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Notice.  A notice lists the members of the committee to secure the return of G.S. Kingston to Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

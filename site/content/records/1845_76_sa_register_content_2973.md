@@ -35,4 +35,4 @@ We regret to see the continued advertisements in your contemporaries of the spec
 
 4 November 1848, pages 3 & 4
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Obituary. Mr Hunn, an old Burra resident, died last Saturday. On Monday shops we
 
 [William Hunn died at Kooringa 28 December 1878 aged 68.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

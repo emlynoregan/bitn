@@ -30,4 +30,4 @@ Burra Town Council.  D. Rogers won the tender to construct a culvert near Mr M.W
 
 John Pearce won the tender for a new footbridge to replace that near the Bible Christian Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

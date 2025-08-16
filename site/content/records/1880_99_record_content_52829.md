@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial wondering why the Burra Agricultural, Horticultural and Pastoral Society [The Show Society] is moribund and why Burra can’t manage to produce a show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -61,4 +61,4 @@ His Worship ruled that the case was evidently an attempt to do the complainant o
 
 Alexander Daly pleaded guilty to assaulting Donahoo and was fined 5/- with 19/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

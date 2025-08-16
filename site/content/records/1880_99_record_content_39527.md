@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 From then onwards the last page generally carried a main article either of non-fiction or a short story.  Sometimes a collection of shorter items took its place.  Most issues included a poem.  The titles often reveal either the sensational or sentmental nature of the stories.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

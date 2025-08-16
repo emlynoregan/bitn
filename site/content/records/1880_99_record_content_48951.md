@@ -80,4 +80,4 @@ The Mayor cast his vote against.
 
 [The Mayor thus voted that no further action be taken, but would not agree that the charges were unsubstantiated, which seems a somewhat odd position to adopt.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

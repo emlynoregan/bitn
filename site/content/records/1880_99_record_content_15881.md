@@ -55,4 +55,4 @@ Notes or Gold began 23 September and concluded 16 December 1884.
 
 A Witness for the Defence began 19 December and concluded 23 December 1884.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

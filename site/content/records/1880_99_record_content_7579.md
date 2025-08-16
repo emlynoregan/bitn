@@ -34,4 +34,4 @@ The Town Clerk will now obtain advice as to what part of the survey could stand 
 
 The Town Clerk will obtain a copy of the new survey made by SAMA of the town’s main street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

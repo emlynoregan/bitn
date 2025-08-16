@@ -32,4 +32,4 @@ St Mary’s Church Fair was opened by Hon. F.W. Holder MP last Wednesday afterno
 
 Five years ago the church debt was £825.  This had been loaned without interest and the principal would fall due at the end of next month.  Messrs Gebhardt and W.P. Barker had cancelled debts owed to them of £50 each and P.L. Killicoat had dealt the same way with one of £25.  The church now needed £150 to cancel all debt including the bank overdraft.  Mr Holder commended the congregation for raising in all the cost of the church over 10 years of £3,300.  The total takings over the three days of the fair were £305.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

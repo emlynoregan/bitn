@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Ken Field’s art exhibition was opened at Polly’s Tearooms on 4 April.  The building was formerly the Burra Record Office and has been set out now as tea rooms and an art and craft gallery by Hank & Anna Bernhard to provide lunches and afternoon teas daily, except Mondays and Tuesdays and provides evening meals (BYO) on Friday & Saturday.  As well as Ken Field’s painting there is a display of pottery and Anna Bernhard’s antique dolls.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

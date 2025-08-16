@@ -29,4 +29,4 @@ Market Square
 
 Following the recent petition the goose-neck poles in Market Square have been removed.  At a meeting of the Burra Burra DC on Monday 9 December plans and an artist’s impression of the square were on display.  Details of alternative lighting and its cost were also displayed.  A public meeting on the matter will be held at the Civic Centre on Thursday 19 December at 8 p.m.  Undergrounding of power lines continues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

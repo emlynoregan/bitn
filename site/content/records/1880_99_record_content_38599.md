@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Brass Band played selections at various business places around town on Saturday evening to farewell one of its leading members who is leaving the town: Mr A. Davey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

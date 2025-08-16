@@ -36,4 +36,4 @@ The report extends ¾ column.
 
 Annual Wesleyan District Meeting was held at Kooringa 25 & 26 October.  Rev. R.M. Hunter presided.  The erection of a new church at Booborowie was reported.  Other details are reported in just over ½ column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

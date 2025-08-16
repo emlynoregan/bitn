@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 As usual he complains of the concentration of wealth in the hands of the few and feels that ultimately the poor will rebel against that.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

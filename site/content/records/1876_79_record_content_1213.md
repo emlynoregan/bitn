@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The Eastern Road: Little work done - only £500 voted for the year because still argument over the last couple of miles into Kooringa - even though almost 60 miles could be upgraded!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

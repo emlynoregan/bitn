@@ -36,4 +36,4 @@ A committee was appointed to consider the best mode of improving sanitary arrang
 
 The request of the lodges required further debate and was adjourned to the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 SAR.  A deputation has asked that express trains for the north might stop at Tarlee for passengers to Burra - at present they can only stop for passengers for Terowie or beyond.  The change is sought to enable passengers from Kapunda, seeking to go to Burra sales, to join the express, as it is the only train that would enable them to do so conveniently.  The change has been agreed to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

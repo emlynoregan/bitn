@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 Bromley Butterworth of the Aberdeen Mill was farewelled at a banquet held at the White Hart Hotel on Tuesday 18 Dec. He is moving to Aldinga. 25-30 people attended a dinner chaired by Capt. Killicoat supported by Mr John Butterworth, W.R. Ridgway J.P., John Drew, H. Dawson, John Roach and Mr Sykes, the Resident Engineer for the Hallett Railway. He was presented with a set of mathematical instruments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

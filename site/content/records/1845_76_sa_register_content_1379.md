@@ -27,4 +27,4 @@ Slate
 
 Having recently seen a fine piece of Willunga slate 9 ft by 4½ ft, suitable for a small billiard table, we can well believe the reports of quarries in the northern district where pieces of twice those dimensions could be found.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -35,4 +35,4 @@ Fire.  A fire broke out in Mr Bock’s hairdressing premises on 21 March.  Mr Bo
 
 At least one local man believes the report of gold being discovered at the Barrier Ranges.  He and two of his sons will leave for there on Monday next.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

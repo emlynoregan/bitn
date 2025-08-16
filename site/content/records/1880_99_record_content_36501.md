@@ -31,4 +31,4 @@ The population on March 1 was 318,543 compared with 313,395 12 months ago.
 
 The population of Adelaide is 44,581 (All figures exclude Aborigines and the NT)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

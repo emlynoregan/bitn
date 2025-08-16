@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 [This seems rather odd as it would seem from other accounts to have been part of the Exchange Hotel by then, but apparently not, though under the same roof, see XV, 272 (2), 6 Dec. 1893, page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

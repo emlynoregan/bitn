@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Robbery.  Joseph Richardson, the spirit dealer in Commercial St was robbed on Sunday evening of £60-£70 in notes, cash and cheques.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

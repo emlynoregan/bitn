@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  The general meeting was held on 19 September with W.H. Hardy in the chair.  The committee is to arrange a concert on 11 October to aid the club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

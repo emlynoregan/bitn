@@ -28,4 +28,4 @@ Obituary.  Mr Samuel Branch, the Redruth postmaster, died on Wednesday 17 July.
 
 [Samuel Branch died 17 July 1867 at Redruth aged 41.  BISA evidence says he was born c. 1826 at St Just, Cornwall and arrived in SA in 1865.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

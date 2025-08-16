@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The third race on Wednesday was the Hack Race.  In the first heat Mr Hill’s Cherry was the winner.  And the second heat was won by Mr Warland’s Old Joe.  There was a protest against Old Joe on the grounds that he was not qualified to run, not having been within 15 miles of Kooringa on 25 October.  The stewards found he had been entered under a false name.  Cherry had come second in heat two, but had gone inside the post, making it difficult to decide the winner of the heat.  It was decided to re-run the race and this was done on the third day, Cherry coming in the easy winner.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

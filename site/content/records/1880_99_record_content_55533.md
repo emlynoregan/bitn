@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Snowball Fair was held at the Institute last Wednesday in aid of circuit funds.  It was quiet in the afternoon, but busy in the evening when the Burra Brass Band attended.  They raised c. £43
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

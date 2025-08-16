@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bagot, Shakes & Lewis will offer 13,250 sheep for sale on 5 November along with 180 cattle and 80 horses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

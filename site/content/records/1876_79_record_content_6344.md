@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mrs A. Pearce asked for £13-17-6 for medical and other expenses incurred in having fallen from the abutment of the new bridge: referred to solicitor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

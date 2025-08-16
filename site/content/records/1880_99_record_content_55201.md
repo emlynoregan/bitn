@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club’s 17th race was from Yongala on 17 November in hot rough weather.  1st was A. Josling’s b. c. c. Sir Thomas covering the 46 miles 1010 yds in 94 mins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

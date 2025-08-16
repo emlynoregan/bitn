@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Burra.  Considerable improvements are being made here.  Messrs Lane, Geake and Waters have each improved their premises.  A brewery is being erected and so is a Catholic Church.  Several buildings are being erected in Aberdeen.  Although Burra pays for two policemen one of them is now temporarily located at Clare, so when one has to travel away, as in the case of the death of John Mogford, the town is unprotected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

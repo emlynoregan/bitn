@@ -36,4 +36,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Club.  A meeting of young men on Monday 4 May decided to form the Burra Young Mens’ [sic] Club, open to all young men to promote the mental and physical culture of members by means of papers, essays, debates etc. and gymnastic classes.  A second meeting on 11 May  adopted rules and elected: President, Rev. J.Y. Simpson; Vice-Presidents, W. Bennett & J. McLaren; Secretary & Treasurer, J. Drew; Assistant, J.A. Pearce; Librarian, T. Kitchen and a committee comprising: A. Harris Senior, W.H. Hardy, E.W. Crewes.  The group will meet in the Kooringa Wesleyan Lecture Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

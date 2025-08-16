@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Mt Bryan Uniting Church, formerly Methodist Church, will celebrate fifty years of the church building on 3 May with an 11 a.m. service conducted by Rev. Gowan Armstrong, who served there in the 1950s when it was part of the Hallett-Terowie Methodist Circuit.  A pooled luncheon will follow in the Soldiers’ Memorial Hall and then there will be a Pleasant Sunday Afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

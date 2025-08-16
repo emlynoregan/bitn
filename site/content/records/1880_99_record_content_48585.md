@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  John Sampson, on instructions from Mr F.P. Jones late of the Bon Accord Hotel, will sell the whole of his household effects and furniture at Millerton on 15 February.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

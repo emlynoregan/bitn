@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Police.   A notice received on Monday transferred P-C Johnson from Kooringa.  Various prominent men have telegrammed their objection to this. [See comment V. 271. 7 September 1883, Page 2 re the reasons for this transfer]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

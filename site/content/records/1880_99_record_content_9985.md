@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Foresters’ Sports Committee met on Monday at the Burra Hotel and showed a surplus of £22-2-6 and that sum together with the £7-13-3 left from last year was voted to the town’s poor.  £5-5-0 was immediately voted to a poor, but deserving widow and the rest was handed to the Mayor and Doctors to distribute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

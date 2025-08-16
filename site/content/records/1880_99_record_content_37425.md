@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on Arbor Day.  The article tells the sad story of forest depletion in Australasia and in general discusses the importance and use of trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

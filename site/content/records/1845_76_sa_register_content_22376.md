@@ -46,4 +46,4 @@ A prominent place in the report is given to Mr Darlington’s Report.  In accord
 
 At the same time a dressing floor to deal with the orey sand in the creek will be constructed.  The expense to carry out these recommendations is estimated at £25,000, an amount which can be raised from unrealised produce now on hand.  Mr Darlington has been instructed to obtain from England all the necessary machinery and appliances and it is anticipated that in 18 to 20 months the new process will be ready to start.  By that time it is probable the railway will have reached Burra and it is hoped the copper market will have improved.  Mr Darlington is of the view that the Directors were correct in putting a stop to workings there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

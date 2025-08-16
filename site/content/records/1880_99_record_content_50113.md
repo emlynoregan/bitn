@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ reports that at Burra bicycle racing has taken over from foot racing as a sport, though further north the latter still holds its own.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

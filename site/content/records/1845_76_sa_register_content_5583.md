@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 24 December 1850.  Arrived at Port Wakefield at 5 p.m.  The port is a very small creek of about 30 feet width and 60 feet in a few spots.  At low water it is dry except for one or two holes.  The flats around it are impassable at high tide to a ship drawing six feet.  The Patent Copper Company is deepening the creek in parts and has constructed a valuable wharf for their barges.  The town is situated on a bottom of clay, sand and broken shell and the site is covered with a thick scrub, mangroves and salsolaceous plants.  There are about nine houses of tolerable size; one or two in stone and the rest in logs and palings.  The public house accommodation is very good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

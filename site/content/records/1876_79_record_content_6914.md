@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Two teamsters were fined for carrying excessive weights: - George Bailey 19/- for 19 cwt more than allowed +11/9 costs Thomas Bailey 7/- for 7 cwt in excess + 11/9 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

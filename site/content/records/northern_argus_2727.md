@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Peter Kelly has recently purchased the greengrocery business of the Baulderstones.  Peter comes from Sevenhill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

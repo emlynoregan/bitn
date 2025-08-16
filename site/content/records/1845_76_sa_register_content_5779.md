@@ -28,4 +28,4 @@ A requisition is printed with numerous signatures calling upon G.S. Kingston to 
 
 G.S. Kingston accepts the request. [Though the paper incorrectly says C.G. Kingston.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

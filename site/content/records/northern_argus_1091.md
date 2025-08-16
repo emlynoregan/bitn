@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Obituary.  Cornelius van der Does died 9 April at Burra Hospital aged 76.  He was the husband of Paula and father of Kees, Pauline and Henk (dec.).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

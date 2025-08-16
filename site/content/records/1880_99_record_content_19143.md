@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Fancy Fair, Burra Institute, 23, 24 & 25 September, in aid of St Mary’s Building Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

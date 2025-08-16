@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Poison Baits are again being laid around town.  Mr George Jordan has lost a cat and a valuable sheep dog.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

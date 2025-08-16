@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fight.  There was a case of pugilism at World’s End last week over the trespass of some pigs on forbidden land.  The less successful fighter took the victor to court, but at the last minute the pair settled their differences out of court and each agreed to pay their own expenses, adjourned to the refreshment room and vowed not to settle their differences in such a fashion in the future.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mrs Grace Everett received six months in the Redruth Gaol for the admitted theft of clothes etc. from the residence of Charles Schutz.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

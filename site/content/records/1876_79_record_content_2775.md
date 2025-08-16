@@ -36,4 +36,4 @@ Ed. on Railways. The traffic manager, Mr Pendleton is unsatisfactory. The freigh
 
 There was a meeting at Riverton protesting the new tariff and a petition started there has come to Burra and been circulated for signatures.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

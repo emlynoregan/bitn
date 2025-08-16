@@ -27,4 +27,4 @@ Wright Bros. & Mr Dixon have given a series of entertainments here comprising mu
 
 [Chromotropes were two brilliantly coloured circular magic lantern slides, one superimposed on the other and able to be rotated to give brilliant patterns; also known as chromatropes or Chinese lights.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

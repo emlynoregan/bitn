@@ -25,4 +25,4 @@ Weather.  Rain fell on 23 December when 187 points were recorded and on the 24th
 
 [Presumably this means in the past month: not in January.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

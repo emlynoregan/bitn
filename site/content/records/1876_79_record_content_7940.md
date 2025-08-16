@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 W. West writes as a member of the Flower Show Committee thanking all who made it such a success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ Obituary and Inquest.
 
 An inquest was held on 27 March into the death of Henry Edwards, driver of the No. 9 down train from Adelaide as a result of an accident at Hallett on 25 March.  He fell off the locomotive and under the wheels of a truck in the station yard.  He died in hospital about a quarter of an hour after being admitted.  The jury found that death was entirely accidental and no blame whatever attached to anyone.  [Died 25 March 1893 aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

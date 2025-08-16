@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  J.A. Isaacs, Chemist and Druggist, Kooringa, Next to Messrs Marks’s Store.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

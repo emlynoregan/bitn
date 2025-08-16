@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Wanton Vandalism.  A disgraceful outrage was committed on Friday 5 October against a German named Gottlieb Kearnal.  For a week or two he had been building a house for himself on the side of a hill.  On Saturday morning he found it nearly demolished.  I t is believed it was done by a parcel of drunken fellows who had disturbed the town on Friday evening by shouting and throwing stones.  [See Kiernall or Keirnall re the killing of John Smith SA Register 29 December 1849, page 3 and trial 14 March 1850, page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

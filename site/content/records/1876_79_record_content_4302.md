@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 Editor on Education — in favour of ‘reasoning for themselves, and thinking out for self, every conclusion arrived at and by so doing no single branch of thought is alone being brought out, but all equally.’ 
 The mind is being taught to think, to judge, to appreciate methods, to admire true conclusions and above all to make these the basis for further exploration into the realm of thought and on its own account.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

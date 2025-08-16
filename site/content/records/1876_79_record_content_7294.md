@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Alcohol. Four men travelled from Morgan to Burra this week and near World's End one got away into the scrub on the `horrors' from drink while all his companions did was to laugh. Mr Midwinter found him and brought him in to the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 IOB, Rose of Sharon Tent, annual festival in the Institute Tuesday evening. Chair was taken by F.W. Holder. Refreshments were followed by musical items and then an address by Mr Holder: `Total Abstinence and Rechabitism'. There were also recitations and dialogues, songs etc. interspersed with toasts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

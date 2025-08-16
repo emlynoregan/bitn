@@ -38,4 +38,4 @@ And these figures are for total traffic; not just wheat.
 
 We are fortunate that we have not experienced the all too common thunderstorms for this time of year, or much wheat lying around waiting to be moved, would have been damaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

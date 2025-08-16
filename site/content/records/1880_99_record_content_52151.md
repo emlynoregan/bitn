@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cr Parks after some discussion drew attention to the Record’s naming the Town Clerk as the keystone of the Council.  He felt that the inference that the Overseer was on smoke-oh from 10-11 was libellous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

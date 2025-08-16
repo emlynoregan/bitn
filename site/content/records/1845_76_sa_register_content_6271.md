@@ -63,4 +63,4 @@ Mr Rogers, mason, obtained a summons against Mr Stace of the Southampton Arms, R
 
 Charles Mosely appeared to the summons of Edward Jones of Kooringa, for calling him a common informer, and also charging him with having robbed his lodge.  His Worship reprimanded both men for their unneighbourly conduct towards one another and in the hope they would in future heed his advice, imposed a small fine of 5/- plus 31/- expenses.  Each party appeared to leave the court considering himself the conquering hero.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

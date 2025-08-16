@@ -30,4 +30,4 @@ Elijah White	drunkenness	5/-
 
 Elijah White	indecent language	£2 or 14 days to take effect from next conviction
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

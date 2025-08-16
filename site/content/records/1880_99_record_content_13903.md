@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Barrier Coach Line, run by Messrs R. Rayner, McGowan & Co. has striven to improve the service at heavy outlay of capital.  Supplying horse feed along the way is a problem.  Teams despatched from Terowie on 1 May took 54 days to reach Mt Gipps, a journey of 220 miles.  The line is now well horsed and needs to be with heavy loads on nigh impassable roads in places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

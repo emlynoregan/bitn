@@ -32,4 +32,4 @@ Kooringa News
 
 On Wednesday 30 May Mr J. Williams delivered an interesting lecture of teetotalism in the Bible Christian Chapel.  The lecture was illustrated by numerous plates of body organs damaged by alcohol and by Cruikshank’s well known plates of ‘The Bottle’.  Afterwards more than 20 people signed the total abstinence pledge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

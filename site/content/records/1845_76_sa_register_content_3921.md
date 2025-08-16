@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Wheal Gawler Mines.  The first annual meeting of shareholders is reported along with the first annual report.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

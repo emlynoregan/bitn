@@ -37,4 +37,4 @@ Obituary.  After a short illness of about one week John D. Cave, aged 77, has di
 
 [Registered as John Darley Cave: born 2 February 1822, died 20 October 1899 aged 77.  Darley should be Darby]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

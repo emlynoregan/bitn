@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A Burra Burra Mines Shareholder, it is said, has been offered £10,000 for his £2,000 outlay, and it is reported he has declined, saying he had no doubt his £2,000 would one day realise £10,000 p.a. for him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

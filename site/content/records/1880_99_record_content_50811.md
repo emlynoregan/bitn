@@ -50,4 +50,4 @@ Cr Linkson: 80.
 
 The Mayor considered it unfair representation and maintained that last year the trees were properly planted with proper tools ‘this year it was only ‘pig-muzzled, and the trees were thrown in.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

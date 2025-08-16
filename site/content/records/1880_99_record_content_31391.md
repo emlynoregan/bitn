@@ -33,4 +33,4 @@ Burra Waterworks.  A letter has been sent by Council to the Commissioner of Publ
 
 The Council feel that in the face of the rate imposed they have no option but to lease the works again to protect themselves even at an excessive rent and therefore desire to enter into a lease on your terms from 1 Jan. 1889 on the conditions included in the old lease and the delegation to them of the Government’s rating powers.  Also that should the water supply fail due to the working of the Burra Mine the Government shall be obliged to provide a new supply and the cost of the new supply to be debited to the capital account in substitution for the cost of the superseded works and that no interest be payable while the supply is unavailable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Weather has become very changeable with lots of thunder and lightning in the past month with big changes in temperature.  Last Wednesday there was a dust storm in the east and last Saturday a downpour just out of town sent a flash flood down the Burra creek which lasted only about an hour, but had the effect of removing all the accumulated filth and rubbish and though it released a foul effluvium into the air it resulted in increasing the health prospects of the town by a good percentage.  Almost no rain was received in the town itself.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

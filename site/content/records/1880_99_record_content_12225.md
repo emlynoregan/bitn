@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Cemetery.  A well is being sunk on the highest ground and from thence it will be possible to run water in gutters all over the site and to aid the growth of trees, shrubs and flowers.  It is believed that water lies at 25’ to 28’.  The road to the cemetery is now being formed.  We hope to see this road planted along both sides.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

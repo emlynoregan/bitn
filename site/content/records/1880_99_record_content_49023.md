@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Evidence was taken from all the residents of the farm and from witnesses who saw the fire – one at the Aberdeen Quarry and one at Copperhouse.  The jury ultimately decided it was probably set by person or persons unknown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

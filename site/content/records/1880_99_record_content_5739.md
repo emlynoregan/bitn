@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Walker Family of Bellringers gave a first class entertainment last Tuesday at the Institute.  The family comprises a father and five sons with a string and brass band.  They play bells after the style of the Lynch Family.  The program included songs and dances and the hall was well filled.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

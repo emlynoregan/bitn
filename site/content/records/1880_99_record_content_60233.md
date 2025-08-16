@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Children’s Bazaar at Dr Brummitt’s house on Friday raised £5-11-9 for Dr Stephenson’s Homes for Children in London.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

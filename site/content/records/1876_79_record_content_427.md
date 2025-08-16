@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 ‘An Inhabitant’ writes again, to affirm that Dr Nesbitt did not write his earlier letter and had no knowledge of its subject matter, or of its intended publication.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

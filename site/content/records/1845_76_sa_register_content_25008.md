@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  The mine is yielding a large quantity of ore and is employing all who have offered their services.  850 tons of ore are at grass.  The railways can allocate only one truck per day for ore and this is delaying ore shipment.  There are rumours, unsupported by mine authorities, that this state of affairs will cause a curtailment of operations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

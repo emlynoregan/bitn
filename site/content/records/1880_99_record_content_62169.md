@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Drought continues and farmers are at their wits end to keep stock alive.  There have been clouds and a few drops, but no real rain and the outlook is for more cloud with some hope of rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

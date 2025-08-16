@@ -32,4 +32,4 @@ The Inspectorship Meeting at the Institute on Thursday 12 August was called by t
 
 The meeting went on to condemn delays in relief work which deprived the unemployed of the meagre sums offered in theory: there sometimes being delays of up to 16 days due to red tape.  A motion was passed asking the Mayor to telegraph to Adelaide urging more immediate action.  Also a motion was passed urging the Council to look at the assessment with a view to reducing the rates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

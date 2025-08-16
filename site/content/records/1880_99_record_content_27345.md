@@ -36,4 +36,4 @@ Volume IX, Number 710 on 30 December 1887.
 
 IX. 710 (2), 3 January 1888, Page 1  [Second use of No. 710]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

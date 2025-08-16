@@ -24,4 +24,4 @@ Wedding Turn-out
 
 A carriage with its horse or horses, and other equipment especially prepared and decorated for weddings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

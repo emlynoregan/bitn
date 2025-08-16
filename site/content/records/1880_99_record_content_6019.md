@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Amateur Dramatic Society gave a repeat of Milky White, which was well done, but poorly attended.  The society handed over £10 from the two performances to the Institute, and fixtures and furniture worth another £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

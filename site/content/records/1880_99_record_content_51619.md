@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Captain Watt is trying to get some horse sports organised for the Strawberry Fete such as cleaving the Turk’s head, rescue racing and threading the needle race.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

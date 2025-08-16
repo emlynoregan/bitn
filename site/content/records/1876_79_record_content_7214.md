@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Opening of the Hallett Institute 10 November. Picnic, Sports, Cricket Match, Entertainment & Ball.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

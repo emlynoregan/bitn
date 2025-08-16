@@ -28,4 +28,4 @@ Editorial on the SA Parliament.
 
 The editor hopes the Parliament will pass the Pastoral Bill, but fears this last session before an election will be all talk aimed at voters.  He also hopes for some cheaper money for farmers to tide them over their present stresses, and for the encouragement of exports.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

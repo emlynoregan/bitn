@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Thomas Hutchins has died.  [But there is no other information to indicate a local connection.]  [Records show she was born Ann Martin 29 August 1820, lived at Aberdeen and died there 15 June 1899 aged 78]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

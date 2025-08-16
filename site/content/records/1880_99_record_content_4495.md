@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Burra Station Meeting in the Institute on Tuesday last was very poorly attended on account of very stormy weather and so it was adjourned, but the meeting at Aberdeen on Wednesday resolved to ask for a post and telegraph office for the northern end of the town and also to press for a new station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

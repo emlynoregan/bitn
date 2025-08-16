@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  The Penny Readings Series will feature the special guest Miss Jennie Nye, from the principal theatres of Australia and New Zealand who will do a comedy scene from the celebrated play by Sheridan & Knowles: Hunchback.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

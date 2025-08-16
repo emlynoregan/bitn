@@ -31,4 +31,4 @@ It is true he took a prominent part in bringing about what are known as Goyder�
 
 ‘The fact is Sir H. Ayers is a most painstakingly methodical man, very useful in formalities and comparatively small matters, … but, like most men of detail, he is deficient in any work requiring originality of thought or boldness of conception, and as a statesman capable of initiating any policy suited to the wants of a young and growing colony with great resources like this he is a complete failure.  The one thing his friend C.T.B. gives him credit for was undertaken with eyes shut, and with little or no thought as to the consequences.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

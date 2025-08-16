@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Editorial on the Government’s move to replace licence fee payments to Corporations with direct Government grants.  This would advantage some places like Adelaide and Port Adelaide, but disadvantage others like Burra, Kapunda and Clare.  (Burra would lose c. £100)  It is robbing Peter to pay Paul again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

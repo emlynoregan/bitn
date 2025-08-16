@@ -39,4 +39,4 @@ Burra Wesleyan Circuit.
 
 The quarterly meeting of the circuit was held in Kooringa on Tuesday last.  F.W. Holder was elected representative to the ensuing conference.  Dr Brummitt and J. Dunstan were appointed circuit stewards.  The deficit is over £40 a quarter and can’t continue.  The debit balance is now at £223.  The circuit is to be divided: Kooringa, Baldina and World’s End will form one circuit and Redruth, Leighton and Copperhouse will combine with Davieston and Stony Gap from the present Hanson Circuit to form another.  As Redruth has no parsonage, Kooringa will assume responsibility for the circuit debt at the time of division.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

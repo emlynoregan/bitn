@@ -37,4 +37,4 @@ SA Mining [Editorial]
 Since then Mr Chambers has begun to develop the copper discoveries at Mt Searle.  A new lode has been discovered on the royal Mining Co.’s property.  There is renewed activity in the Mt Barker, Strathalbyn and Bremer mining areas.  Now there is news from the SA Mining Association’s Pompurne Estate some 4 miles northwest of Clare.  Two men have been prospecting there for some time and we hear the results have prompted the Directors to take more energetic measures to exploit the property.  The English mails brings news of a rise in the copper price of £9-10-0 per ton.  This increases the value of produce on hand at the Burra Burra Co. by some £15,000.  News also comes of the migration of more miners from the west of England.  In short nothing can be more promising than the prospects at present before SA mining interests.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

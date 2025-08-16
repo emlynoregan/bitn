@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Waterworks Deputation.  The Mayor (T.W. Wilkinson), Cr O’Leary, Cr Butterworth, and Cr Hardy waited on the Treasurer, F.W. Holder, at his office in Kooringa yesterday.  They asked to be relieved as much as possible of the capital burden and interest on the Waterworks.  Holder was sympathetic, but pointed out that the Government had to pay 4% for money.  He thought that if the railways could be induced to go halves in the works both parties would benefit and the price of water might drop from c. 5/- per 1,000 gallons to 3/6.  He suggested a detailed account of the plant etc. be obtained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

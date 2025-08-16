@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Notice.  Tenders are called for the building of a residence and coach-house etc near Kooringa.  Drawings etc. may be seen at my residence in Dale Street up to Saturday the 28th instant and afterwards at Mr G. Gebhardt’s Kooringa.  William Beattie, architect, etc. Port Adelaide, 18 September 1872.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

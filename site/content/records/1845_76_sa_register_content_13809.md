@@ -33,4 +33,4 @@ A understand that a lode of copper has been struck at last at the Bon Accord Min
 
 The weather continues very warm with annoying dust storms.  A violent dust storm this evening was followed by a few drops of rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

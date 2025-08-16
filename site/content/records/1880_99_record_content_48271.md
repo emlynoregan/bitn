@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 J. Roach of Adelaide sponsored a concert at the Burra Hospital on 27 December assisted by friends from Adelaide.  Rev. R.M. Hunter was the conductor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

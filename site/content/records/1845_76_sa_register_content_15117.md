@@ -50,4 +50,4 @@ During the week Mr G.E. Hamilton, Government Surveyor, with some assistants, has
 
 [Parts of lots 38, 39 & 40 were taken for road purposes later.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

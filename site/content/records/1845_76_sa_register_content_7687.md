@@ -26,4 +26,4 @@ NSW Gold
 
 Several new discoveries are reported in NSW.  Fine gold has been found within five miles of Albury.  It is granular, small, but plentiful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

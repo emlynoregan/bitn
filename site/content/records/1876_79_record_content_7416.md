@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Cr Ridgway raised the issue of the Aberdeen railway crossing, saying it needed gates or some other warning device or a man with a red flag to make it safer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

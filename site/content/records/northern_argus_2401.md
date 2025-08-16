@@ -31,4 +31,4 @@ Barry John Wright
 
 An election will be held for Booborowie & Burra Town Wards (for which four are required) on 2 May.  All other nominees were declared elected unopposed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

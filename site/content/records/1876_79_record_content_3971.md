@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Hallett Railway. A public meeting is called at the Hallett Hotel to discuss the arrangements for the opening of the railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

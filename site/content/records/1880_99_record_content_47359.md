@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Professor Wivell will visit Burra for 14 days from Tuesday 15 November for Afternoon and Evening Instruction in Dancing as it Should Be.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

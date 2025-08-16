@@ -77,4 +77,4 @@ Cr Sara could not say he was altogether happy at his present position. He could 
 Rev. Richards was glad so many of the ratepayers had come to honour a gentleman so worthy of it. He had not known Mr Lipsett so long as some, but had come to regard him as a good citizen, a gentleman and a Christian. Mr Lipsett had borne his rough handling well. He proposed the ‘Town and Trade of Burra’. 
 Mr W. Pearce responded and Mr W. West proposed ‘The Press’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

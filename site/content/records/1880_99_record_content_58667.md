@@ -31,4 +31,4 @@ Editorial on The Western Australian Goldfields.
 
 The editor takes the reports with a deal of scepticism, but admits that if only a small fraction of the reports are true then WA will be transformed and the whole of the Australian economy will benefit.  Trade with WA will increase and surplus labour from other colonies will have a place to go.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

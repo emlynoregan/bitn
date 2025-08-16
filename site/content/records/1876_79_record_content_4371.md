@@ -39,4 +39,4 @@ Train departs Jamestown 7.10 am; arrives Pt Pine 10.49 am
 Train departs Adelaide 7.50 am; arrives Burra 12.20 pm; arrives Hallett 1.30 pm 
 Coach departs Hallett 2.15 pm; arrives Jamestown 5.45 pm
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

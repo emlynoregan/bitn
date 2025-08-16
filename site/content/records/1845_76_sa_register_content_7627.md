@@ -28,4 +28,4 @@ Victorian Gold.  Yesterday the escort from Mount Alexander brought down 11,424 o
 
 The total for the Ballarat Escort and the Geelong Escort was 13,169 oz; worth (at £3 per oz) £39,507.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

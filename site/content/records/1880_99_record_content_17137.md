@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘An old resident’ in reply to Mr Cullen’s assertions that those who know Mr Watkins will need no further comment.  He defends Mr Watkins’ character, having been his neighbour and having had many transactions with him.  As for Cullen’s posing as a Christian - what Christian man would drag an old man to court - a supposed brother of the same church, and get the old man jailed when he couldn’t pay the fine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

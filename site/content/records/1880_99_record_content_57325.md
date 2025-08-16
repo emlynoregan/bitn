@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 George Ramhit has been summonsed for assaulting Frederick Page at Mt Bryan Station on 4 June.  The former is the cook there and the latter a visitor.  The cause is as yet unknown, though Page is in hospital with a wounded arm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

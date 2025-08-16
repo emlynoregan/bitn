@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 [He is concerned that as greater portions of runs are fenced employment in the industry has fallen.  Once where 15 to 20 men were employed, the work can now be done by 2 to 4.  These hands cannot readily be transferred to agricultural jobs because there are plenty of men already with the skills of ploughing and reaping, whereas these men are adept at hut building, well-sinking and dam-making.  There will be a large group of unemployed to become a burden on the state.  Trade will decline because of the loss of income by so many workers.  He also considers that the change is of doubtful economy because the loss of sheep dying through not getting to water and the breakages in wire fencing will more than balance the savings in wages.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

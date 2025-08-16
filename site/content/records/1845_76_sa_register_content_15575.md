@@ -45,4 +45,4 @@ The Wesleyan Sunday School celebrated its anniversary on Sunday and Monday.  Ser
 
 A planned lecture by Mr F.H. Needham on Recollections of the Russian War at the Institute on Tuesday evening had to be postponed sine die due to the absence of the speaker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

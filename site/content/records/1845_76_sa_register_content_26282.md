@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Notice.  The SA Mining Association gives notice of an extraordinary general meeting of shareholders in Adelaide on 21 April.  The purpose was to give the Directors (present or future) the right to sell allotments in the Township of Graham, laid out on a portion of the Special Survey, known as Section 1 Hundred of Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

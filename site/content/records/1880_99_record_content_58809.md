@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Pratt, a porter at the Burra Railway Station was bitten on the thumb by a brown snake 3½’ long on Monday.  He is getting on satisfactorily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ At the tea meeting on 29 December Rev. W.F. James gave a lecture on President Ga
 
 Wesleyan Sunday School Picnic at Hallett on New Year’s Day.  Usually Princess Royal had been used, but this year a change was tried.  Early on Thursday the children assembled at the schoolroom and were taken on various vehicles to the station.  A train of trucks, comfortably seated and with a covering overhead was speedily filled and left at 9 a.m. for Hallett.  On arrival they were taken to a nearby pretty spot with trees for games and abundant provisions.  The train left for Burra at 5 p.m. even more fully laden as some returned who had come by ordinary trains.  Burra was reached a little before 6 p.m.  It all came off without a hitch.  The Burra Brass Band enlivened proceedings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

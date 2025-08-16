@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 G. Butterworth was given a farewell social on Wednesday night in the Wesleyan Schoolroom at Redruth.  He has been church organist for some time and a noted vocalist.  He was elected captain of the Volunteer Co. some years ago and held the position until it was disbanded a few months ago.  In 1889 he was a member of the Town Council for North Ward.  He was the head clerk of his father’s mill at Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

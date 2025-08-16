@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  R. Cook, Fruiterer, has opened a shop in Commercial St, Kooringa.  He thanks customers for support during the last 12 years and says he will have fresh fruit five days a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 We now have among us a police-trooper who was lately employed as a drill instructor, so one of the Government’s objections to having a volunteer corps here is removed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

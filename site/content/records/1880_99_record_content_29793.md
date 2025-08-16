@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Joker & Pulpara Claims.  The report of the Government geologist is printed.  With the Joker Claim, some 20 miles east of Ketchowla Station, he is unimpressed.  Pulpara, 5 miles south-east of Ketchowla, is showing nothing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

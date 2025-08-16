@@ -29,4 +29,4 @@ Copper Smelting in South Australia
 
 Less than a year ago Mr Mauris Thomas, accompanied by two brothers and two sons, arrived in SA.  They settled in the Mt Barker district and have, by their own hands, erected a smelting furnace for copper ore in the vicinity of the Kanmantoo Mines.  Today the first three tons of merchantable copper have arrived in Adelaide.  They have smelted this themselves using only local timbers as fuel.  Mr Thomas has concluded an arrangement with the manager of the SA Company to smelt such of their ores not sufficiently rich to ship to England direct and have thus given a stimulus to SA mining industry by demonstrating the ability to convert ores of small yield into profitable material.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Advt.  Karitorama at Kooringa Wesleyan Lecture Hall on Wednesday 29 March.
 
 [Apparently some form of fair as Mrs Brummitt is said to have consented to open the Fair.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

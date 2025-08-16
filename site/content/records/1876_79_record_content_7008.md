@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Market Square Well. Details are given of the new machinery that has been employed to get through the hard rock in Market Square and the report hails the new equipment as being expected to be very successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

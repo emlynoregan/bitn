@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Holder in reply thanked them for their kindness and said that whatever he had done for Burra the town had given him the opportunity that had allowed him to reach the position he held today.  He had come to Burra fifteen years ago as a lonely bachelor and there found a wife and many friends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

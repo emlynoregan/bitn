@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bank Charges.  SA Banks have decided to charge for collecting cheques: 3d on one up to £25 and 3d for each additional £25 to a maximum charge of £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Weather.  A severs local storm on Tuesday caused some local flooding in Kooringa.  Aberdeen was much less affected.  Much further south the railway line was washed away at Wasleys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

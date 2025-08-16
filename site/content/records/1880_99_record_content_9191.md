@@ -36,4 +36,4 @@ Ordinary rate declared at 1/- in the £ and the Health rate at 3d.
 
 There was considerable debate over the proposed water scheme for Market Square.  Eventually £200 of Middle Ward money was set aside, but a final decision was deferred.  An estimate and report is to be got from Mr H.W. Hargrave.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ Kooringa News
 
 We understand a town clock is being placed in front of the premises of Mr Johnson, jeweller and watchmaker.  This will be of great convenience to the inhabitants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

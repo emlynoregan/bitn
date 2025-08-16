@@ -43,4 +43,4 @@ The Wesleyan Sunday School held its Anniversary on the same day.  After meeting 
 On Tuesday a vestry meeting was held at St Mary’s Church to elect church officers for the coming year.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

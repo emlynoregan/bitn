@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Rev. Stanton organised an entertainment on Monday evening at the Burra Hotel to benefit the Institute librarian who is old and infirm.  [Performers here were Mr Stanton (readings), Miss K. Stanton (musician), Miss Young & Miss K. Stanton (duets), Miss Batchelor & Miss Dawson (piano duets), Mrs Dashwood, Mrs Edlin & Mr Stanton (glees) and Mrs Edlin (songs). £4 was collected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

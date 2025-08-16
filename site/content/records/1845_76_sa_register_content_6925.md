@@ -77,4 +77,4 @@ Then came Mr Mildred, who has tried his fortune in almost every constituency; Po
 The requisition calling on me to stand bears the signatures of the Directors Messrs Paxton, Sanders, & Beck and of Mr Ayers.  These men would hardly do this, or elect me to a seat on their own Councils if I was the weak and talentless individual the opposition would have you believe.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

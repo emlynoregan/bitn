@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Last Friday notice was received that the Mounted Rifles will be paid for only four drills in the current year instead of eight as previously.  The Staff Office cuts are also substantial.  The Commandant’s pay has been cut from £1,000 to £600 and the Brigade Major’s from £500 to £340 p.a.  Allowances and extras are abolished. Staff Officers will have to provide their own chargers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

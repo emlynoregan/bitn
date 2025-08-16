@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Church trustees met on 9 Nov. and decided that the church had to be enlarged.  It is scarcely large enough to accommodate the ordinary congregation.  It was decided to lengthen it by 15’ as soon as half the cost of doing so was secured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

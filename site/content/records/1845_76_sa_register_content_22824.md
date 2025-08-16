@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The Season.  It has been very dry to the east and a poor season seems likely.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

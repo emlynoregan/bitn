@@ -38,4 +38,4 @@ Among the complaints was that he had not received an adequate statement from the
 
 [Mr J.H. Symon, appearing for Killicoat, said the bank had sold £1,300 worth of sheep, when their claim at the time was for £350.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

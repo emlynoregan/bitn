@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Editor asks simply: ‘Can our correspondent suggest any method by which the quantity of water used as stated can be ascertained?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

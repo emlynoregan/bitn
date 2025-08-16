@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 William Bond has been certified a lunatic by Dr Brummitt and sent to the Asylum.  He has been a patient at Burra Hospital for some time, but had grown too unruly and threatened other patients with his fist and knife.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

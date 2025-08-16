@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The Government has agreed to a change in Ward boundaries, replacing Middle and South Wards with East and West Wards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

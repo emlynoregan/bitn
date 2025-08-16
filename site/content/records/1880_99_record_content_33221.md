@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial against the unwarranted court costs of 10/- for each case.  The 10/- charge goes to the Government and in the case of JPs hearing cases brought by the Council inspector it pays for neither the JPs nor the prosecution.  There is some justification in private cases where the charge deters frivolous prosecutions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

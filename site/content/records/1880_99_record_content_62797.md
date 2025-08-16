@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mine.  Operations at the old well in the old pound yards south of the Burra Hospital continued last week, but the inflow of water was so great operations have had to be suspended.  Several discoveries of high-grade carbonate ore have been made on the mine property.  Boring operations should begin soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

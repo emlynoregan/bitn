@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra Oval.  At the northern end a large portion of the wall is torn down.  It is a pity to neglect the place now it is beginning to be used as intended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

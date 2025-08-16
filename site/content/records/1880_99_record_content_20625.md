@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Council is putting on 45 men to work in the streets and employing young men as well as those with families.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ Accidents.  Jacob Jansen was driving in from Baldina and when his companion got 
 
 On Wednesday two men employed by Hill & Co. collided while riding at Paratoo, both fell heavily, one was injured slightly, the other was taken to Terowie and thence by train to Burra Hospital, having been rendered insensible.  His position is regarded as hopeless.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

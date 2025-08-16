@@ -39,4 +39,4 @@ Rev. Whittaker moved that they render every possible assistance and urge the Gov
 
 Rev. Ibbetson moved that a group of collectors be established and named those collectors.  G.R. Stephens seconded and the motion was carried.  A sub-committee was also established to superintend the arrangements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

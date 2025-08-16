@@ -43,4 +43,4 @@ A block of land a few miles south of Jamestown has been selected by the Governme
 
 [Continued 28 September.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

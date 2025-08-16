@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Sanitation in Kooringa. Reference to a libel case of Nesbitt v. Cave which arose out of the debate over sanitation in Kooringa. The editorial was full of hand washing and self righteousness & said that the sanitation in Paxton Square and elsewhere was much improved since the airing of the matter. The report assumes you know the outcome and doesn't state it - merely that it was as the editor expected. [But see page 1.67]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  A meeting of gentlemen at the Council Chamber yesterday considered the possibility of getting the mine going again.  It was thought that 700 acres of freehold including the mine and machinery could be got for a reasonable price.  The matter was left in the hands of Messrs C. Drew, J. Dunstan Jun., E.C. Lockyer, W.R. Ridgway, J. Lewis, & F.W. Holder to negotiate with SAMA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

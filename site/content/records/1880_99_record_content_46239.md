@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Hardy: ‘Yes; I would; they have been trying to get at the Council ever since I had anything to do with it.  I believe Messrs Elder, Smith & Co. would pay the money and say nothing about it.  It would help pay expenses to keep the roads, etc. in repair.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

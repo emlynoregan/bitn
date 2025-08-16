@@ -31,4 +31,4 @@ At the opening of the Local History Room a cheque for $500 was presented to the 
 
 [Details and conditions are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

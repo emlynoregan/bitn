@@ -42,4 +42,4 @@ T. Bentley	80	won half a bag of flour
 
 H.R. Scott	79	won a silver mounted purse
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

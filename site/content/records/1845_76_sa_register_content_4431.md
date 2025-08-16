@@ -39,4 +39,4 @@ William Pohlman of the Hamburg Hotel in Rundle Street said he had known the pris
 
 The judge said that he was glad Keirnall had not been convicted of murder, but nevertheless it was a most aggravated case of manslaughter and despite the provocation there was no excuse for the use of the axe.  Keirnall was sentenced to transportation beyond the seas for seven years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

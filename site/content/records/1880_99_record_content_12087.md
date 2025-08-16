@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The writer urges that the best line would be the shortest distance from the border to Port Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

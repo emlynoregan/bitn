@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  On Wednesday at the match in Gawler where Gawler Assistants played Willaston Club, E.H. Coombe took 8 for 0 which is believed to be a world record.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

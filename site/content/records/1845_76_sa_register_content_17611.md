@@ -29,4 +29,4 @@ Obituary.  At the same time another funeral took place of a Sunday-school schola
 
 [Joseph Viant born 15 August 1857, Kooringa: died 4 June 1864, Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

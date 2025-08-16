@@ -39,4 +39,4 @@ Hon. Sec. & Treasurer	J.M. Harkness
 
 In return for a free practice room the Union offers one or more concerts in aid of Institute funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

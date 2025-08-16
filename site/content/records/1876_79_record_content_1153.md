@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Drought & Wages: Editorial mainly on the continuing drought. Govt. offer to navvies of 6/6 day while private employers pay up to 7/- for `really good men'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

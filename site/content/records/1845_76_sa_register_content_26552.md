@@ -42,4 +42,4 @@ The jury found that the deceased had died from natural causes.
 
 [Jane Goodfellow is registered as dying 10 August 1875 at Kooringa aged 32.  She was born Jane Armstrong.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

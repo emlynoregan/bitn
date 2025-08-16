@@ -42,4 +42,4 @@ Cave then published a rejoinder in which he said it was impossible for anyone to
 
 The judge ruled that unless it could be shown that any of the statements were false to the defendant's knowledge, the case would be decided by reference to Laughton v. the Bishop of Soder and Man and would not go to jury. The plaintiff's evidence was ruled largely inadmissible as proof of malice. Henry Pether, proprietor of the Northern Mail, was called with the original letter that started the case and showed that the original had been toned down somewhat before being published. Despite protracted legal argument on both sides it was ruled that it was a nonsuit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

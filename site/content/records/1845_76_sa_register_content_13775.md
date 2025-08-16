@@ -32,4 +32,4 @@ Royal Mining Co. held its half-yearly general meeting last Wednesday morning, 8 
 
 [The balance sheet is also printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

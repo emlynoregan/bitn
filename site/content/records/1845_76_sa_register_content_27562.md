@@ -31,4 +31,4 @@ Education at Burra.  It might perhaps be inferred from the visit of the Presiden
 
 Mr Hartley, Captain Killicoat, Mr P. Lane and Mr F.W. Holder examined the various sites proposed for a new structure and selected a suitable one, centrally located, with a desire to meet the wants of three townships.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

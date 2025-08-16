@@ -28,4 +28,4 @@ Last Saturday a scratch match was held between 20 and 25.
 
 Blott captained the 20 and Petherick the 25.  In the end neither side had kicked any goals, but the 20 had slightly the better of the behinds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

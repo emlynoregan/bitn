@@ -27,4 +27,4 @@ Notice.  A poll is called for 6 February on the following question:
 
 That the Corporation be authorised to issue 5 per cent bonds to the amount of £2,500 made up as follows: - Repayment of Overdraft and New Works £1,600, Survey of the Town £400, Enclosure and Improvement of the New Public Recreation Ground £500.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

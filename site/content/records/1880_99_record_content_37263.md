@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Confidence Trick.  A so-called ‘Professor’ gave out he would demonstrate horse breaking.  He borrowed a horse, saddle and bridle from T. Halls, our local cab owner, and suddenly lit out for Clare where he sold saddle and bridle.  The police recovered the horse and are seeking the ‘Professor’.  Beware of such travelling gentry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

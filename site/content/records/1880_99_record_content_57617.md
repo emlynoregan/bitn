@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Mounted Rifles were put through a capital drill on Wednesday last.  They assembled at 2.30 in Market Square and then went through several manoeuvres on cemetery flat and at 7 p.m. reassembled for foot drill and a sham fight.  Captain Watt’s team attacked from the north and Lieut. Field’s defenders engaged them near the old smelting works.  Though it was a bloodless conflict it rather disturbed three tramps, who had settled in the premises for the night.  In their escape they were mistaken for the attacking party and drew pursuit from the defenders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

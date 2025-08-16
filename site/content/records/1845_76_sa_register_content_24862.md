@@ -27,4 +27,4 @@ Northern Roads
 
 There is a report on a meeting at Clare, which echoes the concerns of those held at Mt Bryan and Burra about the state of roads to the northern areas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

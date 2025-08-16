@@ -32,4 +32,4 @@ Symon’s side 2.6 defeated Park’s side 0.5.
 
 A game with Manoora is scheduled for next Saturday at Burra and Burra goes to Auburn tomorrow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

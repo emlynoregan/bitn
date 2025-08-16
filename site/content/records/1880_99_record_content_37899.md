@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ wants to know why the voting for who does the new town assessment was by secret ballot in Council and why it went to the person who was £6 dearer when both tenders were from well-known townsmen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

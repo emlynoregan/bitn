@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI.  A lance-corporal had a lucky escape on the firing range on Wednesday when his rifle burst.  A piece of the barrel struck his neck, but did no damage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Show Society met at the Institute on Friday and though the season’s outlook is not great, circumstances permit a show.  The society has £110-3-5 to its credit and no liabilities.  The date is fixed for 21 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

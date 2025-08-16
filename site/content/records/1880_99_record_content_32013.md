@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Rev. W.H. Hodge preached a farewell sermon at Redruth Wesleyan Church on Sunday evening.  He is leaving for Port Lincoln.  The Church was full with people coming in from Kooringa, Baldina, Davieston and Leighton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

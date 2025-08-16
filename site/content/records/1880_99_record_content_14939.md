@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mr Hugh Anderson, who is leaving to live in Victoria, was given a farewell by Kooringa Wesleyan Sunday school and members of the Rose of Sharon Tent IOR.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

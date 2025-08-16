@@ -36,4 +36,4 @@ Graziers complain that ewes and lambs are dying from the cold.
 
 A meeting was held at the Burra Hotel last night to form a company to work the claim of W. Martin & J. Putt, taken out on Mr McCulloch’s Run about 75 miles from here.  The samples looked splendid.  A second meeting tonight will try to settle the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

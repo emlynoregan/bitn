@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mika, the Samoan who had visited Burra with the Rev. A. H. Carne on behalf of the Wesleyan Foreign Missions has died at Clare of inflammation of the lungs last Wednesday.  [Registered as Micah: died 16 September 1891 aged 21.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

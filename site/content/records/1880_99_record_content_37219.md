@@ -39,4 +39,4 @@ Block 65 Co. of Burra, east of Hd of King, 26,775 acres to John Flower Warnes.
 
 Both are sons of Mr Thomas Warnes.  The ex-commissioner of Crown Lands, Mr Howe, explained that as the Warnes were the only applicants under the personal residence conditions they obtained the land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Unemployment.  300 men marched through Adelaide on Thursday behind an empty coffin with the banner: ‘The burial of local industries killed by the present Government’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

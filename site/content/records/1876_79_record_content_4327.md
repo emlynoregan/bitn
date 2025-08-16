@@ -40,4 +40,4 @@ Members for the district promise to support the listing of the Eastern Rd on the
 Crown Lands advise that the new bridge is in the best possible location. Cr Geake moved and Cr Roberts 2nd that a letter be sent to the Commissioner of Public Works expressing dissatisfaction with this reply. 
 Tenders to be let for the road near the Brewery and School.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

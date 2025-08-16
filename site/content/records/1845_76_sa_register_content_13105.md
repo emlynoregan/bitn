@@ -33,4 +33,4 @@ Yesterday Mr Macdonald SM investigated claims to exemption under the Militia Act
 
 The new Bible Christian Chapel at Kooringa is being rapidly advanced, as is the Telegraph Office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

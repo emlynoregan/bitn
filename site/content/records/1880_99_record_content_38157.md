@@ -30,4 +30,4 @@ The Great Strike & Burra.
 
 So far here shearers are at work.  Yesterday shearers went to McBride’s and Koonoona, but the situation is tense and as no agreement is in place they could come out at a moment’s notice.  It is now expected that the call to come out will occur by the end of the week.  The Port Adelaide situation is growing more serious, though so far no serious disturbances have occurred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

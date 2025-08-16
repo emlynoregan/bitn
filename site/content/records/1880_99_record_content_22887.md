@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Silverton Railway.  The extension of the railway to the Barrier Ranges [It was then operating to Manna Hill] will prejudicially affect the Burra District.  Wool etc. from the north-east will now travel north to this line.  Teamsters will be deprived of their living and many small farmers will find a portion of their income ended.  Those maintaining teams will also suffer with fewer hands needed in machinists’ establishment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

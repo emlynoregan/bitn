@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The attendance at Mr Varley’s lecture was poor, but the lecture was interesting and well illustrated.  His conclusion ‘seasons may come and seasons may go but drought goes on forever’.  [His speech is reported at length on pages 2-3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

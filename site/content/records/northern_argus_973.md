@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Peter & Chris Muller are going to Ceduna where Peter has a job with the Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

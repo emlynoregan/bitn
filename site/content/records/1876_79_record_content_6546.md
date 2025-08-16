@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Hallett Institute. The second entertainment to raise money for it was held on Tuesday. Mr Holder presided and announced that a contract had been let to Sara & Dunstan for the construction of the building for £774. The entertainment ended with the farce, `Which Shall I Marry'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ Shipping Intelligence
 
 The Malacca passed the lightship on her way up the Gulf on Tuesday evening, with a large cargo of 210 mules and 6 she-asses for the Patent Copper Company.  Seventeen mules died on the passage from Coquimbo.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

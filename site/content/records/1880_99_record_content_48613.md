@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 About three years ago the mine was sold to a London Syndicate, represented by Mr Frederick King, for £20,000.  A 10% deposit was paid at the London Westminster Bank, with the balance due on 13 March 1889. [Surely this makes it 4 years ago.]  The falling copper price resulted in the syndicate trying to get out of the contract.  The purchase was for the mine alone and not the rest of SAMA’s property.  The capital of the company is at present £61,600, represented by 12,320 shares of £5 each fully paid.  We should hear more of what is to be done after the 2 March when the balance is due to be paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

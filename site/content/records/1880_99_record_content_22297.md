@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The lode claimed to show 673 oz per ton was more than a fudge and those responsible ought to be charged.  As for the Government Party, I don’t think in five weeks the gross takings would be half an ounce.  As for the rest doing fairly well - they might perhaps be making 8/- a week and after paying expenses their income doesn’t amount to wages.  The fact is that gold isn’t there in payable quantities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

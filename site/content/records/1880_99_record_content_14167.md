@@ -48,4 +48,4 @@ Morris Rabbich described the assault, but did not think the defendant was ‘upr
 Develaing was convicted and fined £2 plus 10/- costs.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

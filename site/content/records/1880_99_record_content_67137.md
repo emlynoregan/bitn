@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Shearers’ Meeting last Saturday evening in the Institute was held under the auspices of the AWU.  The main reason was to bring to the attention of “T.U.” sheep shears manufacturers their concerns about the deteriorating quality of shears.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Accident.  Mr Duncan Blair and another teamster arrived in Burra from Mongolata on Wednesday morning with a load of wood.  They unharnessed their horses in Market Square and fed them and an hour later recommenced their journey to Leighton.  After about 2½ miles Mr Blair fell from the wagon shafts on which he had been sleeping and the wheels of the wagon passed over both legs just above the ankles.  M-C Benham was sent for and found Blair conscious, but in great pain with two badly broken legs.  He is 65 and on account of his age it is believed he will be in hospital a considerable time and the injuries will require careful watching.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

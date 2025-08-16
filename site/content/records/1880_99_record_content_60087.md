@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Lady Cyclist.  ‘On Friday last the first lady rider in Burra made a run through Redruth and Kooringa very nicely, and seemed to be “monarch of all she surveyed”.  On Monday a travelling Salvation Army lassie was to be seen about the town.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

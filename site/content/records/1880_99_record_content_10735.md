@@ -35,4 +35,4 @@ Taxation.  The Government brought forth a new tax proposal instead of resigning.
 
 1st £300 p.a. of income from personal effort is exempt
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

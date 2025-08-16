@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF.  There will be two drills of about an hour or an hour and a half each at Hamley Bridge on 21 June.  Volunteers attending will travel free down and back that day in uniform.  It is hoped there will be a fair representation from Burra Co., which is the largest in the battalion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

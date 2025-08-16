@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Entertainment. Davies and Lewis drew a good audience at the Inst. on Tuesday evening & the program was much appreciated as were the gifts distributed to various persons attending.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Season will be a disastrous one.  Feed is already drying up in all parts and water is becoming very scarce.  Crops locally are light and short.  The hay harvest has commenced, but will not even be as good as last year.  A few late sown crops could still benefit from rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

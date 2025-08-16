@@ -27,4 +27,4 @@ Advt.  Salvation Army, Wednesday 15 April
 
 Major Thurman and Staff and a host of soldiers from other stations arrive for the opening of the New Barracks, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

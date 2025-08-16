@@ -35,4 +35,4 @@ Election Meeting.  A meeting of ratepayers of North Ward was held at the Exchang
 
 Mr Rabbich was proposed and supported by Messrs M. Rayner, Ridgway, Dawson, Bartholomæus, and Carmody.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

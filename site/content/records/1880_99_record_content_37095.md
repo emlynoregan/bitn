@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Isabel Hunter aged 43, wife of Rev. Robert Morris Hunter died at the Wesleyan Parsonage, Kooringa on 20 June of phthisis. [Tuberculosis]  [Registered as 29 June.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

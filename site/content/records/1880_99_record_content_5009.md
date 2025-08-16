@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The mayor asked the Council to consider raising money from the saleyards within the Corporation area either by licensing private yards or by buying them or erecting them for themselves.  This move was driven by the Council’s indebtedness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

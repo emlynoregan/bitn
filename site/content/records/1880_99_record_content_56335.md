@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 World’s End Creamery.  A meeting on Saturday 9 March of about 30 people at Mr E. Duldig’s decided to erect a creamery.  Mr T. McWaters presided.  When the idea was first mooted Mr Duldig wanted to form a company and issue shares, but as this was not popular he said he would start one himself.  As support was unanimously promised with a signed agreement, the project will now go ahead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

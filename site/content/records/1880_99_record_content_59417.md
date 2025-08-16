@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Messrs Browne of the Booborowie Estate have donated £50 to the Booborowie Wesleyan Church.  Some time ago they said that when half the debt then existing was paid off they would donate the other moiety.  The conditions having now been met, the cheque has been handed over.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

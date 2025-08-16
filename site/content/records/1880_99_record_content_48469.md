@@ -35,4 +35,4 @@ In 1892 the average daily number of patients was 32.
 
 At present a small sanitary room is being erected at the eastern end of the main ward for a cost not to exceed £30.  In June 1892 Miss Wincey was appointed Matron in place of Miss Lyford who resigned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

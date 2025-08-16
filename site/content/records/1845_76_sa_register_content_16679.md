@@ -40,4 +40,4 @@ Today is a red-letter day in Cousin John’s calendar and the holiday was announ
 
 This road and bridge are a considerable improvement for the town and any deficiencies are not the fault of the contractor, who has fulfilled faithfully every tittle of his agreement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

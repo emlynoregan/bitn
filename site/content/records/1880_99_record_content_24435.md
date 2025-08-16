@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A GRAND TEA will be provided by the BACHELORS on WEDNESDAY NEXT January 12.  Tea on the tables at 4 o’clock, after which a public meeting will be held, the chair will be taken by F.W. Holder Esq., Mayor of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

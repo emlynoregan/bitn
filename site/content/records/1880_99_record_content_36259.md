@@ -29,4 +29,4 @@ Letter re a Reading Room at Aberdeen.
 
 ‘the whole basis is looked upon as an attempt to give Kooringa a slap in the face.  It is well known that for years prominent (?) residents of the north end of the town have been terribly jealous of the success of Kooringa against the one-horse capabilities of Aberdeen and Redruth, but with all Kooringa is not yet vanquished.  Fancy in a small town like this, where there is a public reading room second to none in South Australia, a clique through transparent jealousy tries to throw cold water on it.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

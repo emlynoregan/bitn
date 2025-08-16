@@ -34,4 +34,4 @@ Obituary.  Surprise and regret was expressed at Kooringa on hearing the news of 
 
 [Born July 27 1823 Stottesdon, Shropshire UK: died 16 May 1871 Glenelg, residence North Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

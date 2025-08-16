@@ -37,4 +37,4 @@ The 3rd meeting of the Burra Homing Club last Thursday. E.W. Crewes presided.  T
 
 2 June		from Tarlee
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Kooringa Bible Christian Anniversary Services were held on 18 & 19 June.  On Sunday two impressive sermons were preached by Rev. W. Fursman and a very serious and yet interesting address was given by Mr J.H. Barnden, both of Kapunda.  On Monday a procession of the children accompanied by teachers and friends and waving the banners of the institution, perambulated the town streets.  After this they formed a circle in the open air and regaled with their accustomed entertainment.  A tea meeting was numerously attended and the public meeting in the chapel was crammed.  Addresses were given by Revs J. Rowe & W. Fursman and by Messrs J.H. Barnden & T. Richards.  The receipts were about £45.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

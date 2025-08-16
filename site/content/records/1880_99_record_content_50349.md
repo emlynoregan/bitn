@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Aberdeen Ballast Quarries.  About 20 men were employed at the ballast quarries from Monday, mainly in making them secure.  The ballast engine will arrive on 3 July when more men will be taken on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

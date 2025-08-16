@@ -42,4 +42,4 @@ Mr Coglin & Hon. W. Milne spoke in support.
 
 Mr Bright said the reason for the condition was the large traffic by the Copper Company’s drays.  He thought the people in the district needed to form one or two District Councils and that would be the way to attend to the road, the main line of road now having been shifted.  The vote was lost 16 to 6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

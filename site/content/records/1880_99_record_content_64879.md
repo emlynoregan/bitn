@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rabbits.  Last Saturday a shooting party left Apoinga at 9.30 and took the stock road into Bright, killing 300 rabbits.  Three months ago scarce a rabbit was to be seen here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

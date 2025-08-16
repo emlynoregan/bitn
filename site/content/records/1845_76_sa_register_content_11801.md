@@ -59,4 +59,4 @@ A meeting of the creditors of Messrs Liston & McFarlane, tanners and curriers, w
 
 A kangaroo hunt was held last week by a group of locals with others from Clare and Adelaide.  They set out on Tuesday for the scrub and camped out that night.  On Wednesday they scored seven kangaroos.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

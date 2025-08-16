@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A new By-law was carried requiring an annual licence for hawkers except for the sale of butter, bacon, eggs, milk and poultry, wood or hay.  Corporation ratepayers are exempt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

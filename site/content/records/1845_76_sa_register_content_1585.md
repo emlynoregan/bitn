@@ -27,4 +27,4 @@ Advt.  W.W.G. Nicholls ‘Off to the Mines Again!’
 
 The ‘Reformer’ Stage-cart will leave Tuesday next at 8 o’clock.  It made its last trip in two days and down in two days, returning to town on Monday night with 9 adults, 4 children and a well-stowed cargo.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

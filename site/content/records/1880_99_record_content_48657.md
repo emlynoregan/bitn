@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 National Defence League.  Mr Hogarth gave an address on behalf of the League at the Burra Institute last Friday.  It is reported in just over 1 column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

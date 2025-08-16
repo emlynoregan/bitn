@@ -34,4 +34,4 @@ The people who supplied the natives with liquor (as mentioned in the Register 27
 
 The case against the two Aborigines was adjourned to Monday, when ‘Jim Crack’, the one who was wounded and who had thrown the spear, was sentenced to three months in gaol and the other was sentenced to one week’s incarceration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

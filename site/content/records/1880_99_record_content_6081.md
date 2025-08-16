@@ -46,4 +46,4 @@ As for the £500 for the Reserve.  This will not be supplemented by the Governme
 
 Nor do we think it right to impose a special rate which would fall most heavily on the weekly tenants.  The town will have to vote on this and we think the proposals will benefit all.  Owners of property will see it increase in value; tenants will find an increased demand for labour and more money in circulation in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

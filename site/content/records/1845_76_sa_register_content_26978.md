@@ -44,4 +44,4 @@ It is not too much to say that the policy and action of Sir Henry Ayers and the 
 
 Under the circumstances it is not gratifying to find that his services in this direction are entirely unrecognised by the farmers; but is this really the case?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Institute monthly meeting of the committee took place and agreed to grant Mr Wittber the use of a room so he can offer a night class once a week gratis.  Starting 1st Friday in June 8-9.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

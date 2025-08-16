@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Municipal Election.  An error crept into the Register yesterday, which we believe could harm Mr Lockyer’s chances at the election.  We think it only fair to say that he has never been a member of the National Defence League and the same applies to Mr J.D. Cave.  [Cave was standing for the position of auditor.  It would be interesting to know if W.H. Hardy was the correspondent for the Register at this time, as he was Mr Lockyer’s opponent.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

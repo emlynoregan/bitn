@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs E.F. Brady died on Friday at Terowie.  She was the second daughter of Mr J.W. White of Burra.  [Born Harriet Anne White 7 January 1863 and died Harriet Ann Brady 17 June 1893.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 T. Sandland presided over a meeting at the Commercial Hotel on Thursday to resuscitate the Agricultural, Pastoral and Horticultural Society.  It was decided to hold a show in 1894.  W.J. Davey was appointed to take the minutes.  W. West was to be approached to be the secretary. [And later agreed.]  The first committee meeting is next Friday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

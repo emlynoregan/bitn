@@ -31,4 +31,4 @@ Notice.  The sale of the assigned estate of John Pearce of Aberdeen.  The mortga
 
 Also household effects.  Sale by Austin, Davison & Jaffrey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

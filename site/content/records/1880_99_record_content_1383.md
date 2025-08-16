@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Aberdeen, 11 July, at the residence of his grandfather, Mr S. Goss, John Henry Trevelyan, only son of John and Blanche Trevelyan.  [Born 10 August 1872: registered as dying 14 July, aged 7.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

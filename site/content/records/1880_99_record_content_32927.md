@@ -32,4 +32,4 @@ Meeting days are to be 1st Monday and 3rd Saturday in the month henceforth to al
 
 Following his request the Waterworks Engineer’s salary has been increased to £2-8-0 a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

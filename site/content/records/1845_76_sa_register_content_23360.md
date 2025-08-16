@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Extension Railway.  Next Thursday a special train will convey the Directors of the SA Mining Association almost as far as Redruth.  The laying of the rails to the terminus has almost been completed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

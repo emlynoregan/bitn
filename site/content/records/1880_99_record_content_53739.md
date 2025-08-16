@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Recognition.  Moves are under way for presentations to be made in recognition of the services to Burra of Sir Henry Ayers and Mr John Rumball.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

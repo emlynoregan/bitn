@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 E.F. Brady writes re a Fire Brigade.  Council needs to get the town gazetted as a Fire District and it can then approach the Insurance Companies for funds for half the cost of a brigade.  The Government would fund one third leaving the council to pay the remaining one sixth.  The Council should lose no time in doing this given the great benefits that would be gained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

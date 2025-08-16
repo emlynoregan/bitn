@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 ‘An Adventurer’ writes that his attention has from time to time been drawn to the great discrepancies that occur in copper assays.  At Swansea the sale is determined and governed by assays done at Redruth and the correctness is not doubted. Several Cornish assayers have recently arrived, of unquestionable experience.  ‘I do not see any difficulty why the average of the numerous small batches of ore here should come to a higher percentage than the cargo, composed of such small batches, assayed by , I believe, by nine different Cornish assayers at Redruth, and sold in Swansea.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

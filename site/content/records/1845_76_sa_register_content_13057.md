@@ -35,4 +35,4 @@ Burra & Clare
 
 A meeting of the SA Political Association was held at Lamb’s Aberdeen Hotel on 28 January on the subject of selecting a candidate for the next election.  Mr Dale was called to the chair.  Letters were read from Messrs McEllister and Kingston.  The meeting agreed with proposals that Mr W. Lennon, Mr Richard Dale and Mr William Dale were fit and proper persons to represent the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Kooringa Wesleyan Band of Hope met as usual on 16 April for a program arranged b
 
 The program is printed and included Rhoda Holder’s recitation of The cold water cure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

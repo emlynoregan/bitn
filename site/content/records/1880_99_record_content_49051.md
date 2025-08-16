@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Frank Ewins, third son of C.H. Ewins, died on Tuesday after a very short illness.  [In XV, 234, 8 Mar. 1893, page 2, his age is given as 16.]  [Frank Alfred Ernest Ewins died 28 February 1893: birth not registered in SA.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

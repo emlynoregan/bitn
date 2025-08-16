@@ -46,4 +46,4 @@ St Mary’s also had a service to a large congregation and in the afternoon a Sa
 
 Special services at St Joseph’s by Rev. Father O’Dowling were well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

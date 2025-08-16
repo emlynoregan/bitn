@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 BCS has been advised that a part-time salary has been made available for the appointment of an educational officer to work in the area of local history.  The salary will be used to generate resource material for students at all levels about the history of Burra.  Principal Mike Day said he was delighted the Education Department had been able to make the salary available.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

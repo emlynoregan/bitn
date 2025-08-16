@@ -40,4 +40,4 @@ Captains Deeble and Morrison have completed their inspection of the Bon Accord M
 
 All business here is very dull.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

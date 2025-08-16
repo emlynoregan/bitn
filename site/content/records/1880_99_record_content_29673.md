@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Wesleyan Church Anniversary Sermons will be preached next Sunday by Rev. S. Knight (Previously of Burra).  The public meeting on 10 September will be chaired by T. Drew.  Rev. S. Knight will then speak on Twenty-one Years in SA and what I Think About It.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

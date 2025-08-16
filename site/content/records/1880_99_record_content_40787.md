@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy, who has been sub-editor for the last three years, has resigned to give time to his growing business as a commission and general agent in the town.  Mr W.J. Davey, who has been manager of the office for the last two years, will take his place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

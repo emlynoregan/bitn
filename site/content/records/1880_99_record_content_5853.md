@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Smaller advertisements , classified type entries and in particular advertisements relating to sales of stock, land, farming equipment and contents of homes.  Public notices relating to Councils, churches, Government agencies and entertainment are common.  Editorials are followed by general and local news.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

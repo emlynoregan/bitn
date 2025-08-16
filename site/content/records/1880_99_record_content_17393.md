@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa-Aberdeen Footway.  Council has accepted tenders in 12 chain sections for this very necessary work from Kooringa to the Mine Bridge.  The footway will be cut on the upper [west] side of the road and the material cut away placed on the lower [east] side to form a footway there too.  Council will try to get an extra 15 feet along the lower side to form an avenue which, when planted, would make a pleasant promenade in future.  The estimated cost of the work let is £150.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

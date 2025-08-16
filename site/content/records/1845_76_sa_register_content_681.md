@@ -27,4 +27,4 @@ SA Mining Association
 
 A summary of the financial transactions of the Association by an unauthorised correspondent is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

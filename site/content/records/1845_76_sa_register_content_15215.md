@@ -41,4 +41,4 @@ On Monday there was a tea meeting held to celebrate the opening of a place of wo
 
 The Annual Bible Christian Bazaar was opened on Monday in an unoccupied store adjoining Mr T. Richard’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

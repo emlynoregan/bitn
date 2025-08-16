@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Defence: Ed. favouring a larger defence force and allowing for cavalry outside of Adelaide too. Reports that a supply of Martini-Henri rifles has been dispatched from UK.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

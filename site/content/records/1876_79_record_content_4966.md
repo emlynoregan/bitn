@@ -34,4 +34,4 @@ On 7 October, at Mongolata, to the wife of F.W. Holder, a daughter.  [Ethel Roby
 
 On 9 October, at Kooringa, to the wife of Thomas Parks, a daughter.  [Hannah]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

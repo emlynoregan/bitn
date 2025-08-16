@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 SA Farmers Mutual Assoc. annual meeting on Tuesday saw about 20 branch delegates, but more are expected today.  They gave unanimous support to the idea of payment for members of Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

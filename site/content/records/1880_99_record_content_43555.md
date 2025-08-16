@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Burra District Council, 26 November, is concerned that the road from Breakneck Hill via Douglas has been dropped from the schedule of main roads as has that from Hallett’s Woolshed to Booborowie.  The Douglas Road carried a lot of firewood traffic as well as sheep traffic and station supplies and the Deep Creek and Baldina Fords require constant attention.  Every effort will be made to have this road restored to the schedule.  The other case is not so vital and might be acceptable if the road from the Burra Station to Gum Creek were added to the schedule.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

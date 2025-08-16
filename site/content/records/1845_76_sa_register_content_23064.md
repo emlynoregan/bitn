@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 E.B. writes a letter along similar lines to David Gall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

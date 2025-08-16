@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Dog Nuisance.  The Jamestown Review favours even harsher measures.  Sporting dogs should have a £5 registration.  Perhaps the police should be fined for having stray dogs within their jurisdiction or perhaps the scalp fee from registrations, going to the police, should rise from 2/6 to 10/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

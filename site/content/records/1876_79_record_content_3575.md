@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Larrikinism. Youths are playing leapfrog outside the P.O. before letter delivery time. This in itself is unobjectionable, but the same cannot be said of their hooting and language which is of the foulest description. "
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

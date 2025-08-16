@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Hallett P.O. Tenders have been called for its construction - as usual too late. By the time it is completed the building will be too large with most of the business gone further north on the Terowie railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

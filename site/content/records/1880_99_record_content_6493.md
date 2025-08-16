@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from Jacky Jowster in dialect is difficult to unravel without knowing exactly what was going on at the time.  It admonishes Hardy for his attack on the writer of Tandem, but expresses sympathy with Hardy who he says is responding to something that hit him in a sore spot.  Writers like that of Tandem, he says, should just be ignored.  He suggests Hardy should not get so excited or enraged and should stop smoking his pipe, which he treats like an idol.  [He does not name Hardy, but refers to him as ‘billey’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

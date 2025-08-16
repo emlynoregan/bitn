@@ -29,4 +29,4 @@ Tomorrow an attempt will be made to restart the mines, but directors will not ho
 
 The writer took the view that the directors were mainly to blame and it was their intransigence and determination to break the power of unions that was at the heart of the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

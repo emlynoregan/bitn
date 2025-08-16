@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Sunday Closing and Local Option Assoc. had only a small attendance on Monday with Dr Sangster in the chair.  The passing of the Licensed Victuallers Bill has taken the wind out of their sails.  Mr Holder expressed his satisfaction with the Act and withdrew his motion re Mr Rounsevell’s position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -90,4 +90,4 @@ Messrs G. Sara & A. Bartholomæus supported Mr Ridgway’s memorial.
 
 Mr Warnes argued that if the road went to Redruth a great proportion of the traffic would have to come back to the Mine and to Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

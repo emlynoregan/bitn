@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  With nothing else offering, Mr J. Roach got up a program for last Monday to finish off the holiday season at the Institute: in aid of Institute funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

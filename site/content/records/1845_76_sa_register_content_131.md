@@ -41,4 +41,4 @@ All parties are spurred on by the intimation that the Governor is in daily expec
 
 We think that gigantic operations of this kind ought to be financed from either specially imported capital or surplus capital of the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

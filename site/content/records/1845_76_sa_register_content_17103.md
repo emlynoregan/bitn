@@ -41,4 +41,4 @@ The buildings belong to D. Bayre of Adelaide and no doubt they were insured.
 
 Further damage was saved by the wind being from the southwest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

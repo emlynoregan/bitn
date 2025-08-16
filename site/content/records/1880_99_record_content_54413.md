@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Council received legal advice that it should have filled all vacancies arising from resignations from committees and not have been left with only two committees.  Advice was to record all motions of the meeting of 4 July and fill vacancies in the normal way.  It was decided not to make any assessment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

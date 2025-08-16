@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Water Supply.  Mr Jenkinson from the Hydraulic Engineer’s Dept visited Burra on Monday to ascertain conditions and capabilities of the present waterworks for supplying Aberdeen, Redruth and also Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

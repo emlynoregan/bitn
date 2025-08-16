@@ -47,4 +47,4 @@ Billy the Pieman: William Stewart died 22 June 1852, River Light, age not stated
 
 Dr Hamer: B. Hammer died 22 June 1852, River Light, age not stated.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

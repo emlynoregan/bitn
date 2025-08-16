@@ -67,4 +67,4 @@ On Sunday 22 December another fire at Stony Gap burnt a good deal of grass of Me
 
 Shell parrots are in the neighbourhood in immense numbers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

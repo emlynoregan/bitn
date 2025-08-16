@@ -37,4 +37,4 @@ Ten have sold for £270 each on a 12 months’ bill.
 
 Princess Royal		£50 shares paid to £37 have a price of £42.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

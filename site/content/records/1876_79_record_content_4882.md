@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Annual Ball of the Young Men’s Quadrille Assembly was held on Tuesday night and the Batchelor’s Ball was on Wednesday. Both were thoroughly enjoyed with dancing to an early hour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

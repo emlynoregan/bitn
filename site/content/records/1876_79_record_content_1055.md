@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Larrikinism - several cases of horses reins being either cut completely or partly so that they would fail during the journey - potentially very dangerous. A boy, John Dunstan, was fined 10/- or in lieu 1 month in jail for one of the offences.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -34,4 +34,4 @@ Adjoining the Burra Burra Survey Section 2067 of 73 acres was bought by Henry Wi
 
 [Part of this was later subdivided as the township of Llwchwr.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

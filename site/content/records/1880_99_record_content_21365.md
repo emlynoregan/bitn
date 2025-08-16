@@ -26,4 +26,4 @@ Advt.  Entertainment.  The Flower Queen Cantata will be performed at the Burra I
 
 Chairs 2/-, seats 1/-.  No children in arms admitted.  MOONLIGHT
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

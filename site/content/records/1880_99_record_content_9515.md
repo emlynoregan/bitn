@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offences. The following were fined 10/- for driving or riding around a corner at faster than walking pace: Messrs Symons, W. Bruse, P. Lewis & Donald Morrison.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

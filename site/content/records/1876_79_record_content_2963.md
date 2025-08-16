@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The railway station is very inconveniently located; it could at least be moved closer to Sara & Dunstan's by almost a quarter of a mile (i.e. near the Bon Accord crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

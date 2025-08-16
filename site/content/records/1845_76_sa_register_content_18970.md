@@ -41,4 +41,4 @@ Other mines in the area are pushing ahead too.  Hallett’s Hill added four more
 
 There is still no sign of money being spent on the road through the Sod Hut Ranges, which remains in an awful state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

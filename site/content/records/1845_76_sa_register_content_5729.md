@@ -30,4 +30,4 @@ SA Mining Association.  The Directors announce they have extended the term of th
 
 SA Mining Association.  Fourteenth Dividend.  Notice is hereby given that a dividend of 200% will be paid to shareholders on 1 March.  Henry Ayers, Secretary, 14 February 1851.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

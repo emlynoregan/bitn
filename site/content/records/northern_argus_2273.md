@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Weather.  Rainfall in the last two or three weeks has been about three inches and as a result there is a fine crop of mushrooms in the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

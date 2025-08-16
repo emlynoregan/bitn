@@ -29,4 +29,4 @@ The Far North Mails
 
 [The letter is a very harsh condemnation of the way in which the mails are conveyed and the extreme cruelty inflicted on the horses employed.  They are often in appalling condition, scarce able to move the vehicle and this compels the passengers to walk; the contractor refusing to refund any part of the fare in this case.  Horses may be seen with skin dragged off by an ill-fitting collar, unshod and barely able to bear to place their feet on the ground.  They are then left to find their own feed.  [Specific instances are given.]  After a lengthy description of the horrors inflicted upon the animals, the writer suggests that the Postmaster-General should stop accepting the lowest tender for the conveyance of mails and be more discriminating.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

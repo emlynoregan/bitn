@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.T. Rabbich writes to explain his objections to being declared to have submitted an informal nomination for election to the DC.  On the matter of not being in the assessment book – W. Rabbich & Sons are ratepayers and two years ago when his nomination was declared informal he wrote to the clerk asking that the individual names of the firm be inserted in the assessment.  Instead the clerk merely fastened the letter to a leaf in the assessment book where it remained – at least up to two months ago, with the names not inserted as requested.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

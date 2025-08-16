@@ -35,4 +35,4 @@ Australian Juniors 65 & 65	Aberdeen 65 & 5 for 85
 
 Dinner was at Host Barnett’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

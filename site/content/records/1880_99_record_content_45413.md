@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI.  Several members went to Mt Bryan on Wednesday to enable country members to put in a drill.  Supper afterwards was provided by Miss Ullmann.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

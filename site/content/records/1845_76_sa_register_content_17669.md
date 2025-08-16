@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Accident.  A man named Pascoe apparently fell off the wagon while driving one of the Copper Company’s teams.  The load passed over him from the knee upwards, crushing him so severely that he is not expected to live.  [No corresponding death appears in SA Deaths Registrations.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

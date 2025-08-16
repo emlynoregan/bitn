@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  Miss Carry Nelson is about to make a provincial tour and will visit Burra.  Her singing and acting have been highly commended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

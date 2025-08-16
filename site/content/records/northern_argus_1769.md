@@ -25,4 +25,4 @@ publication_slug: northern-argus
 She’ll be Riot cast have been rehearsing in earnest and director Jules Holledge has spent many hours with them in preparation for next weekend’s performance.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

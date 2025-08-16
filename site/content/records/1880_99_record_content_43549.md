@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 The Hon. the Commissioner has agreed to renew the Waterworks lease for 7 years at 5% and to fix an additional boiler and governing meter at cost to the capital account.  Cr Hardy proposed acceptance on these terms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

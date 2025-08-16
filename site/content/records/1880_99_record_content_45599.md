@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Bleak House.  A successful drawing-room entertainment was held on Tuesday to raise money for St Mary’s schoolroom.  It was organised by Miss Sprod and Mrs McLagan is thanked for the use of her home.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

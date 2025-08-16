@@ -39,4 +39,4 @@ Secretary	Miss M.E. Newman
 
 A bazaar was held on 20 June with a promenade concert and c. £15 was realised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

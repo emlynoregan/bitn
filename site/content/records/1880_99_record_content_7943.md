@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church Anniversary last Sunday.  Dr Stephenson from London preached morning and evening and Rev. S. Knight in the afternoon.  The tea meeting was on Wednesday when the Treasurer, F.W. Holder, showed a healthy state of accounts.  Nearly 600 persons had been converted and taken up membership in Burra and District in the last year.  Total proceeds were c. £100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

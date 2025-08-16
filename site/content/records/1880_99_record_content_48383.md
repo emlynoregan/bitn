@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Cr Linkson moved that six or seven men remove the railway obstruction in the creek and the cost be charged to the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

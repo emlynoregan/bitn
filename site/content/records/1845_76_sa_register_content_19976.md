@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 Weather.  Since Wednesday morning we have had 24 hours of steady gentle rain – most unusual for this time of year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Redruth Total Abstinence Society met on 28 July at Redruth Primitive Methodist Chapel.  18 persons signed the pledge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

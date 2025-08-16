@@ -77,4 +77,4 @@ Mr Pinch said locals had not always been used.
 
 There was also a dispute over Cr Rabbich having authorised work in Taylor St without the approval of the overseer and the Public Works Committee.  This provoked a rather heated exchange between Crs Rabbich & Sampson.  The latter wanted Mr Tiver to be paid his £1-2-0 for cartage out of Cr Rabbich’s own pocket.  Finally the pay sheet was passed for payment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

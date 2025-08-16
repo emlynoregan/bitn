@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Redruth Bridge will be opened at 4.00 p.m. tomorrow* by Captain Killicoat in the presence of the Midland Road Board who will then be entertained by the Mayor at a banquet at Richardson's Hotel at 6.00 p.m. [*This was written on the 11th]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ Court.
 
 A woman named Ellen Gay was clearly thought by M-C Jemison to be a prostitute.  She was charged with having no visible legal means of support, but failed to appear.  Jemison applied for a warrant, but the evidence was so flimsy that the Bench evidently thought the application frivolous and refused to grant it.  Doubtless Jemison will try again in another form.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ Charles Schutz was injured at the Mine today, but no serious result is anticipat
 
 Mr Baker of one of the Adelaide Cricket Clubs issued a challenge to play an eleven from the club here, but having seen them practise he has declined it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

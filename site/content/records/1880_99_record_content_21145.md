@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Floods.  The year ended with a fall of over 6” in Silverton and heavy falls extended across the North-East, with floods from Silverton to Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

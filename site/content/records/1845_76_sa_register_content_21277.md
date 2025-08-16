@@ -26,4 +26,4 @@ Obituary.  A man was found dead on Paratoo Run last week.  It has been ascertain
 
 [This death does not seem to have been registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

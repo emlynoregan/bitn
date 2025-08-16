@@ -30,4 +30,4 @@ The Burra Election
 
 A telegram from Kooringa dated 8 October says that Mr A. McCullock [sic: for McCulloch], a sheep farmer and father-in-law of the Attorney-General, has received a requisition from Burra tradespeople to stand for the seat vacated by Mr G.W. Cole and has consented to stand.  Nominations close 15 October  with a poll if required on 18 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

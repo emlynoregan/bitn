@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Slag Extraction Co. is installing new machinery with a view to its being in operation by the year’s end.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

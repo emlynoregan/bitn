@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The storm on Tuesday blew down two verandahs in Kooringa and removed thick glass from the top of the railway running shed, depositing it on the iron roof.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

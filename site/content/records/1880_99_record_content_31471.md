@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr S.E. Holder B.A. (Brother of F.W. Holder), who had just completed his MD at London University, was lost when the steamer Priam was driven ashore at Finisterre in northwest Spain this month.  [Sydney Ernest Holder, aged 26.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

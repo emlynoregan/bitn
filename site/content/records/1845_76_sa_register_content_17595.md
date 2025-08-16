@@ -37,4 +37,4 @@ Our worthy Member Mr Cole has placed his resignation in the hands of his support
 Lambing has been good in the district.  Many sheep farmers are reporting a rate of 90% or more.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

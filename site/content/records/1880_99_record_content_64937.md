@@ -32,4 +32,4 @@ Lutheran Church.  Annual picnic for children at Baldina on Monday last was a suc
 
 [Although it doesn’t say so it would seem likely it was the Baldina Plains Day school that was being discussed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

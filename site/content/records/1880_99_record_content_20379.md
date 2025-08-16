@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church.  Three sermons were preached on Sunday by Revs H.H. Teague, J.J. Salmon & W.F. James in connection with the opening of the new manse, which the Mayor opened on Monday 30 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

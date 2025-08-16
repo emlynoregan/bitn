@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 James Bennetts was farewelled from the Bible Christian Church on 19 October.  He is going to Broken Hill.  He has been a local preacher and Sunday school teacher.  He has been a member of the church in Kooringa for 32 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

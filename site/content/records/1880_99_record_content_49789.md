@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Bank Failures.  Payments by the National Bank, which is to be ‘reconstructed’, were suspended last Monday morning.  Bank notes are being honoured and are being exchanged for gold, but cheques and withdrawals have ceased.  The bank is considered perfectly solvent, but was in trouble due to a run on it.  There are some fears for the Bank of Australasia having similar troubles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

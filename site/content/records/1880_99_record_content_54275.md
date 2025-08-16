@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 New Stock Road.  Travelling stock has been a problem on main roads in the District Council area for some time.  A new stock route has been proposed.  Much preliminary work has been done to minimise the problems and when the District Council and the Town Council met last Monday evening at the Institute there were no objections from the Town Council area and only one from the District Council area.  Notice of the road was gazetted on 24 May 1894 and the new road was declared except for the parts numbered 14 & 15 on the plan in the Hundred of King where the old road will be used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

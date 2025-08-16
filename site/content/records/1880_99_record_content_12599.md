@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 4th Leader on the Future of the NT of SA, an area whose administration has been marked by blunders and misadministration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

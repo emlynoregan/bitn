@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 Letter to Editor. 
 Mr Lipsett protests the letter of J.D. Cave re the former’s role with the hospital, but will leave the judgement to the public.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

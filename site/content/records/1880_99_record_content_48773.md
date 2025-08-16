@@ -38,4 +38,4 @@ At a meeting on 6 February the Mayor did consent to take a motion for or against
 
 ‘We cannot alter anything in the minutes’ said His Worship – true – so why did he allow Cr Hardy to alter a question on 4 January in reference to the Waterworks?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

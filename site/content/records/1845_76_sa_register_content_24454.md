@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 News from the Ulooloo diggings this week is not encouraging.  There are still 100-200 persons there, but few are earning wages.  Still, the steady plodders are getting enough to keep them going and being their own masters encourages them to put up with privations.  They are convinced things would look up if the reef could be found and some are seeking it.  New rushes a few miles distant prove the auriferous area is extensive.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

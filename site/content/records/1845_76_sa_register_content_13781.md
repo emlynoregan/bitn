@@ -38,4 +38,4 @@ Yesterday the band played in front of the Institute before Rev. W. Davidson took
 
 Shearing in the district is rapidly drawing to a close and several loads of wool have passed through the town in the past week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

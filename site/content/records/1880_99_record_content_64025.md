@@ -35,4 +35,4 @@ After twenty years or more of discussion at last a definite proposal will be put
 
 The editor goes on to endorse federation and to say the savings in Government Departments taken over by the federation will run the new Government with little extra cost – estimated at £300,000 p.a. of which SA will contribute £30,000.  But SA will also benefit by c. £10,000 in increased railway income and will hand over the NT, which is a liability.  Other savings will also be effected.  There is opposition in NSW because too much power is given to SA, Tasmania and WA, but on polling day NSW is expected to say yes.  Victoria and Tasmania will say yes.  WA seems likely to do so and if the rest say yes Queensland will be unlikely to stand out.  SA could not afford to stay out of a federation and we are never likely to get more favourable conditions than those now offered.  Every elector should vote one way or the other on 4 June 1898.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

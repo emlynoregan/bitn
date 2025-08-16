@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 2nd leader on the mayoralty. There is a suggestion in Adelaide to limit the selection of the Mayor from people who have already served as councillors or aldermen. Cr Roberts drew attention to this with possible reference to Burra. The editor felt that it was an inauspicious time to do so on the eve of an election. It could be interpreted as a political move favouring one contender. In a community with so few people able to serve it would be foolish to further limit the numbers available for selection.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

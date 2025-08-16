@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr A.H. Forder has not yet officially resigned as Clerk of the Redruth Court, but already several applications for the position have been received.  None can be considered until his resignation is official.  M-C Jemison is believed to want the job, but we believe a gentleman has been promised the position and will receive a certain amount of tuition in the office work from Mr Forder before he leaves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

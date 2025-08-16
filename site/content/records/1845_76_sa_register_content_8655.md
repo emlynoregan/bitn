@@ -29,4 +29,4 @@ Burra Burra Mines
 
 The usual survey took place on Thursday last, at which 14 pitches and bargains were let to about 50 miners.  The total number employed is now about 160.  This was decided the best survey since the stoppage of the great pumping engine in 1852.  The lack of success at the gold diggings and the prospect of high wages at the Burra Burra Mines by tributers has induced miners to return to their old employment.  The ore produced during the last ‘take’ of eight weeks was 600 tons.  This is a very satisfactory result from the shallow levels of the property.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

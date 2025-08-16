@@ -24,4 +24,4 @@ Rainer's Great Diorama of the American War returning after an absence of four ye
 
 Seats 3/-, 2/- & 1/- with children half price. Matinee Sat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

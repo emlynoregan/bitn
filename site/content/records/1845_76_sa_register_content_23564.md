@@ -63,4 +63,4 @@ At 12.45 p.m. the special reached the terminus.  The buildings here include a st
 
 [On the journey to Adelaide a most unfortunate accident occurred and it is reported in detail in another section of the paper.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

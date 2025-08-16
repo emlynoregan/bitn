@@ -28,4 +28,4 @@ Gossip. The editor seeks to explain that Cousin Jenny & Aunt Betty are a joke, i
 
 Cousin Jenny & Aunty Betty pursue a similar point in an article that runs for most of a column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

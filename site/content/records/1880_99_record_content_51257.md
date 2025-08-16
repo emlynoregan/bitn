@@ -55,4 +55,4 @@ Cries of ‘Oh, oh.’  He felt that Mr Sampson would have been the first to hav
 
 Eventually Mayor Rabbich moved as an amendment ‘That a committee of five ex-Mayors be appointed to investigate the matter, and to compare the reports as published in the Burra Record with the minute book of the Burra Corporation.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

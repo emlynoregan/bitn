@@ -54,4 +54,4 @@ Mr Kelly seconded this and Mr McEwin supported the proposal as did Mr Sutherland
 Parliament had voted £5,000 for the road from Springfield to Black Springs and the surveyor was instructed to proceed.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.F. Coglin writes a letter complaining of the omission of any reference to the Christmas services at St Joseph’s by Rev. Father Kriesll [sic]: midnight mass on Christmas Eve and services at 8 a.m., 11 a.m., and 6 p.m. on Christmas Day.  Though the paper duly reported the Protestant services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

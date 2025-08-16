@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Professor Hill is due to give a lecture at the Mechanics’ Institute on Monday evening next on ‘An Evening with Hood and Dickens’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

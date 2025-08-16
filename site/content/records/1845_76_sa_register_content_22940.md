@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Notice.  Tenders are invited by James Cumming, architect, for the erection of a store in Kooringa.  Copies of plans and specifications may be seen at Mr Thomas Richards’s Kooringa or the architect’s office, Alfred Chambers, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

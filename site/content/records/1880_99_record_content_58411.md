@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  14 race of the season was from Olary on 16 October.  1st home was F. & E. Pearce’s bird, which covered the 125 miles 430 yds in 213½ minutes at 1,032 yds per minute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Dr Mayne yesterday operated on a patient for the removal of cancer of the breast.  The patient was put completely under the influence of chloroform and the operation was performed successfully.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

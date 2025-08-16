@@ -24,4 +24,4 @@ Notice.  SA Mining Association
 
 The Deed of settlement is now ready for signature and scrip holders are requested to leave their scrip at the office to be exchanged for Certificates of Shares and to sign the said Deed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Tenders are called for alterations at the Miners’ Arms, Kooringa.  Plans and specifications can be seen at Mr Kingston’s office in Grote Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

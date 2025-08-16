@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. Mounted Infantry was unable to go to SA National Rifle Assoc. annual matches due to the delay in the arrival of uniforms.  Lt Watt and Pte Jennings will attend.  Martin Pederson has in stock boots for the use of the Mounted Infantry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

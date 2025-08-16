@@ -28,4 +28,4 @@ Editorial on Poultry Breeding.
 
 The editor supports the efforts of the Government in employing a well-qualified person to lecture on improving the poultry industry in SA and pointing out the potential for the export of frozen chickens.  This is an industry in which people could become established for relatively little capital.  1/3 will send a fowl to England where they can realise as much as 5/- each.  In addition to this there is egg production to consider.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

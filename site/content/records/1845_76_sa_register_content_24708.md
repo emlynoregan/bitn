@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mt Bryan School.  Mr A. Hallett Jnr has visited Mr Masterman’s school, which is conducted in a chapel.  There were 34 scholars with 6 evening pupils.  The school was opened in April and since then the average attendance has been 26.  Mr Hallett examined some of the boys who were getting on very well.  He thought the school was necessary, especially as it was four miles from a township.  A probationary licence was granted from 1 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

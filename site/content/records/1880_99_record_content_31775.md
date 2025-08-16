@@ -33,4 +33,4 @@ Robert Scott 		fined 5/- + 10/- costs for having an illegible name on his wagon
 
 Robert Gire, Mark Gay, & James Dew were each fined 5/- without costs for having an illegible name on their wagons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

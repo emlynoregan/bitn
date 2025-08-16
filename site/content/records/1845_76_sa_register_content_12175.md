@@ -31,4 +31,4 @@ Crown Lands Rangers have created a great disturbance locally by clearing the Mt 
 
 Wheal Sarah proprietors have taken up two more sections close to their mine, which is busy and turning out some good ore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Kooringa News, 21 March
 
 On Sunday 18 March Rev. W.S. Worth Wesleyan minister for Kooringa referred to the death of the late Rev. D.J. Draper.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

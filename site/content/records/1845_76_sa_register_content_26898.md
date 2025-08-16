@@ -31,4 +31,4 @@ Notice.  Terry’s Royal Line of Coaches
 
 On & after 1 December the coach will leave Laura for Burra via Jamestown at 2 a.m. Monday, Wednesday and Friday, meeting the 1.30 p.m. train for Adelaide, returning to Laura from Aberdeen after the arrival of the midday train Monday Wednesday and Friday. For Pt Augusta the mails leave Laura at midnight on Wednesday and Saturday, returning to Burra via Laura Tuesday & Friday, departing Pt Augusta 10 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

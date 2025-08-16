@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  T. Oliver, champion handball billiard player will give an exhibition on Wednesday evening at the Burra Hotel.  He will concede 500 in 1,000 to the best local player.  Admission 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

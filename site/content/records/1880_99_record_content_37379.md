@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on compensation as a result of loss of licence due to local option action.  We are in favour of fewer licensed premises, but opposed to [implementing] this while such stiff-necked opposition to compensation prevails.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

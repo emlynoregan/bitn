@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Hardwicke College held break-up celebrations in the Institute last Thursday.  The Chairman, Rev. R.M. Hunter thanked the Misses Bond and Dellow for their efforts since they took charge 3 months ago when the Misses Hotson left.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

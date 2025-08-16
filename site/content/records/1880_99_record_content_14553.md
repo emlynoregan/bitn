@@ -30,4 +30,4 @@ Petersburg-Barrier Railway
 
 The total cost is estimated at £542,400.  The route proposed is 155 miles. This runs from Petersburg to the border opposite Silverton, some 11 miles further north than where the road goes over to Thackeringa, which accounts for the different distances arrived at by the Government and the Burra deputation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Aberdeen Ballast Quarry.  SAR is now using a new ballast plough to spread the ballast that is dropped automatically from hopper trucks.  At present about 40 men are employed in raising ballast at the quarry with 30-40 hopper trucks being used to shift it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

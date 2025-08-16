@@ -29,4 +29,4 @@ Kooringa News, 29 December
 
 The Christmas period passed with pleasantly cool weather and threatening thunderstorms on Christmas Day passed on.  Messrs Ware and Chapman of the [Burra] Hotel had a bullock roasted near the hotel and games were played.  There were wrestling, blindfolded races with wheelbarrows, jingling the bell (a variety of blind-man’s-buff), climbing a greasy pole and quoits.  Mostly the games were confined to juveniles.  Everything passed of quietly till the evening, when beer got the better of some, but despite a large amount of noise the interference of the police was not required.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

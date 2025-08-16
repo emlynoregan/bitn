@@ -51,4 +51,4 @@ The new inventions section was won by Melvyn Pearce with a sheep feeder.
 
 The Burra Rural Youth disco in the Town Hall in the evening was successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

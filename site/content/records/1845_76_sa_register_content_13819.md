@@ -41,4 +41,4 @@ On Monday evening Rev. Whittaker delivered an address at the Institute on the su
 
 A considerable number of people gathered at the racecourse yesterday for a match arranged between C.W. Ware’s Spiderlegs and J. Edward’s Punch.  Punch won easily after an even competition in the first part of the race.  Two hurry-skurries were then got up and won by horses owned by F. Cowper and George Bennet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

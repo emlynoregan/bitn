@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Schools.  Mr John O’Connell has been appointed as assistant at the Burra School.  Mr H.G. Gibson from Leighton goes to Stony Point and Mr John T. Augove [sic, for Angove] succeeds him at Leighton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Adelaide Criminal Sittings.
 
 John Cushion was charged with stealing a gold watch and locket valued at £15-15-0 and a chain valued at 10/- from Henry J. Riggs at Gawler on 3 September as previously reported.  He pleaded not guilty, claiming the whole thing was a joke and the jury returned a verdict of not guilty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

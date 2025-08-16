@@ -33,4 +33,4 @@ Stewards: Messrs George Bevan, Joseph Genders and Edgar Chapman.  Judge: Dr T.H.
 
 The results of the races are printed.  There were three races each day plus a hurry-scurry to finish with.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

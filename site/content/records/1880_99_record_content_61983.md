@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Professor B. Freimann will appear on Monday 1 March at the Commercial Hotel.  He is a famous medical specialist – a medical clairvoyant and medium and a professor of psychology who speaks 12 languages.  He gives advice on investment, law suits, speculations, and domestic troubles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

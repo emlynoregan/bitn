@@ -37,4 +37,4 @@ I consider the extension of the line from Kapunda to Burra is not what will best
 
 [The writer goes on to develop his point about the best agricultural land lying to the north of Gawler, with his proposed route central to it, while the Kapunda line will lie on its eastern margin.  A terminus on Farrell’s Creek would give rise to a new town and would open up a large area of some of the best agricultural land in the colony.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

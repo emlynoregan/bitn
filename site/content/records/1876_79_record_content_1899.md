@@ -68,4 +68,4 @@ Captain Sanders said the Mine had received 4,400 tons of firewood in the last si
 
 The minister agreed that their arguments were persuasive, but it was unusual for the minister to interfere with decisions of the road board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

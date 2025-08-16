@@ -29,4 +29,4 @@ Kooringa Wesleyan Chapel
 
 The Anniversary Services were held on Sunday and Monday 27 & 28 November.  Sermons were preached by Rev. Walter Tregellas and Rev. R.C. Flockart.  The tea meeting in the chapel on Monday was very largely attended.  The proceeds of the event were £67-10-4, which will reduce the debt on the mission premises to about £150.  Considering the present state of the Burra, this amount contributed shows a very noble and praiseworthy effort.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

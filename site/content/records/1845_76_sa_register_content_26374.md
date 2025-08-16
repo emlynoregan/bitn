@@ -37,4 +37,4 @@ The 1st Anniversary sermons for the new Wesleyan Church at Redruth were preached
 
 W.R. Ridgway’s new residence [in Aberdeen] is especially admired.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

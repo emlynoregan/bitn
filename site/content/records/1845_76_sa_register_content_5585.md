@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 At the port the nearest water is 18 miles away and at a depth of 100 feet.  Most eatables are cooked in salt water or a mixture of half salt and half fresh water.  A drink for the horse costs 6d.  Drays from Burra frequently numbering 90 are compelled to come from Dunn’s and return there after unloading before the bullocks can get a drink; a round trip of 36 miles in the broiling sun.  When the Burra cart did not appear, I prepared for a forty-one mile walk to the nearest point the northern mail cart touches.  I began the walk in very hot sun at 3 p.m., but after about 12 miles I saw the Burra Mail cart approaching.  The driver had lost his horses in the hills.  I mounted the cart and returned to Port Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

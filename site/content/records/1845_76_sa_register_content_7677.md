@@ -28,4 +28,4 @@ Victorian Gold
 
 News with the Elizabeth says 39 men have returned from the diggings and those intending to return will not do so, we are told, till March because water has become exceedingly scarce and brackish.  Living there is very hard and expensive and dysentery is common.  A rest from the hard labour is seen as necessary for even the stoutest frames.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Obituary.  A man from Gum Creek was brought into the hospital suffering from pleuro-pneumonia and he died on Monday night a little after 12.  [He appears to have been registered as John Harper aged 66 who died 4 July at Aberdeen, ‘of no fixed abode the bush.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Kooringa Masonic Lodge No. 6 last night presented a Master Mason’s Jewel to Bro. H. Richards on his departure from the district.  He and Bro. Tamblyn will enter into business in Strathalbyn.  Mr Richards has long worked for Drew & Co.  On Friday he will be farewelled from Kooringa Wesleyan Sunday School where he has been connected longer than any other teacher.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

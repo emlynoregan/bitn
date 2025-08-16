@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes a column length letter attacking ‘B.F.L.’ who had in turn written an attack on the New Utopia of Henry George.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

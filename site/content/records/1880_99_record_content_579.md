@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Water Supply.  The Mayor and Council will wait on the Commissioner of Public Works this morning about the extension of the water supply at Aberdeen and Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Three distinct entertainments each evening.
 
 The great sensation of the transformation scene has never been equalled or approached.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

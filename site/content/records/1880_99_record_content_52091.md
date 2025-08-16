@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Rev. S. Knight of Ballarat will lecture at the Kooringa Wesleyan Hall on 7 December on: The Nineteenth Century.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

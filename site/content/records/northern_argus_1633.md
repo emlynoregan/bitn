@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Morphett’s Enginehouse – Photo showing progress with scaffolding around the building and the balconies, roof and new was facing the shaft all in place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

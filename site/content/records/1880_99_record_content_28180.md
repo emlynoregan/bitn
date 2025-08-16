@@ -55,4 +55,4 @@ T.W. Rabbich felt if they gave the works to the Government or if the works were 
 The Mayor said in Mount Gambier, where the mains were laid, there was a rate on vacant land.  The Town Clerk thought it unlikely the Government would add more mains.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

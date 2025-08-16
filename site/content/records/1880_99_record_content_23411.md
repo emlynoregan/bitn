@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Eliza Stephens, wife of John Riccardo Stephens, died at her residence, Glenavon, Parkside, on 15 September, aged 61.  [Nee Sims.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ The water will begin to flow on Friday 21 November for all who have connections 
 
 Oddfellows & Foresters’ Picnic Sports ended up with a balance in hand of between £5 and £6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

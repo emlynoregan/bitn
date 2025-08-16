@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Porter’s Lagoon.  On 30 December 1885 four young men went shooting on the lagoon and when two waded in to shoot ducks and swans one got so entangled in weed that he almost drowned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

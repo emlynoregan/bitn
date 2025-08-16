@@ -50,4 +50,4 @@ Line 2.	Springfield-Steelton-Long Hill-Springbank-Kooringa.  32 m 39 ch.
 
 Line 3.	Springfield-Tothill’s Creek-Apoinga-Near Black Springs-Long Hill-Springbank-Kooringa.  34 m 12 ch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

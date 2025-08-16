@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Cricket. Messrs Parker (Vice-President) and Shortridge (Captain) resigned at a meeting of the club at the Commercial Hotel on Tuesday. The club is to play Kapunda at Burra on 1 Mar.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

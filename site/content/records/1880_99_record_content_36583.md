@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fair.  On Saturday night a fair turned up behind the Commercial Hotel with a steam ‘whirla-gig or circus’, rifle shooting, swing boats etc.  Even the ‘Harmy’ couldn’t draw a crowd which would warrant anyone thinking it a most extraordinary attraction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Water supply. Ed. Up to 5 Dec. there had been no government response. The matter
 
 In Kooringa the creek supply is also dwindling, but water is more easily obtainable there from the spring near the wool washery. As this point is higher than Market Square no artificial means are needed to raise the water; just a main to a convenient public trough. Expenditure of perhaps £300, half from public subscription and the rest a government subsidy if the Corporation takes the matter up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

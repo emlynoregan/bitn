@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Remittances from the Diggings.  The Overland Mail advised that some thousands of pounds have been remitted from Melbourne to Adelaide, chiefly as a result of successful labour at the diggings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

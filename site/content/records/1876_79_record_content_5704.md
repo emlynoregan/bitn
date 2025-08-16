@@ -49,4 +49,4 @@ After some discussion Mr Geake withdrew his motion.
 
 Mr Lipsett thought the meeting illegal and moved as an amendment: -`That this meeting cannot interfere with vote for a health rate inasmuch as it was carried by a majority of the Council.' After considerable discussion this was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

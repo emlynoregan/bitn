@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Delano, who died of typhoid, was buried on Saturday.  [Mercy Delano, who died 26 July, was aged 36 and was the widow of William Bland Delano, a draper’s assistant of New Zealand.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Kooringa News, 10 July
 
 A young man named Turpin, who was a storeman at the Smelting Works and who has been of unsound mind for some time, went missing on Tuesday evening and his sudden disappearance occasioned uneasiness in his friends and family.  He was not found until Saturday morning, when he was secured with some difficulty and brought home.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

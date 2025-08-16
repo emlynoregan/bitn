@@ -29,4 +29,4 @@ Advertisement.  Burra Burra Mines.  The usual public survey will be held on the 
 
 Henry Ayers, Secretary, SA Mining Association, Adelaide 11 July 1854.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

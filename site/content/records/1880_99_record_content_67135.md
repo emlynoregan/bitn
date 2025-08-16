@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mr A.H. Forder, who has for so long been associated with the Redruth Court will be presented with an address and a purse of sovereigns at 4 p.m. on Friday in the Council Chamber.  The JPs of the district have taken the initiative in the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

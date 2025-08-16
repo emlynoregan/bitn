@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Terowie:  a story circulating is that T. Richardson from Burra is about to take on the Royal Hotel in Terowie.  ‘Many of the residents say he will soon wish himself out of it.  We shall see.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

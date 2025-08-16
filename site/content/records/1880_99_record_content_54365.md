@@ -28,4 +28,4 @@ A.G. Downer’s lecture on the pastoral industry is reported.
 
 He discussed the amount of land on leases that have been surrendered and which now lies idle.  He also considered the low stocking rate, drought and vermin.  (Rabbits & dingos.)  Many runs have failed and he attributed much of the difficulty to lack of fixity of tenure.  He also considered the failings of the Pastoral Act of 1893.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

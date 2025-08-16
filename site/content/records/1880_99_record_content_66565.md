@@ -46,4 +46,4 @@ To both charges he replied he knew nothing about the matters.  He was allowed un
 A. Allen		fined 15/- + 15/- costs		straying animals
 T.H. Woollacott	fined £1 + costs			straying animals
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

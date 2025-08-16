@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Exchange Hotel.  The new hotel rises to the same height as the banking premises at the corner and harmonises to some extent with them.  The old hotel is now being converted into a row of very convenient-looking cottages under Mr Ridgway’s superintendence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

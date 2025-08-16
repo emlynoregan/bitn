@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Spartan arrived at Gravesend 20 May carrying a large quantity of Burra ore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

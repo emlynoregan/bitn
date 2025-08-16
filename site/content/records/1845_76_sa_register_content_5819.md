@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Advertisement.  The well-known barge Phœbe of 40 tons with R. Buck master sails for Port Wakefield three times a month.  All goods carefully stored if sent to Captain R. Tapley, Port Adelaide or to Mr W. Brewer, Port Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Show Society.  The editor complains that in Kapunda the tradespeople have rallied around the Kapunda Agricultural Society, but in Burra the tradespeople leave their society severely alone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

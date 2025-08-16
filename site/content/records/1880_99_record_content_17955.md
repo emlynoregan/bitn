@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bible Christian Manse.  Almost £140 has been received towards the cost of the new manse in Kooringa.  When £200 has been received tenders will be called, but an effort is being made to get to the half way mark of £350 before beginning to build.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

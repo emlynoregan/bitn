@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cr Rabbich has decided to move his piggeries out of town on account of the requirements of the Health Act and By-laws.  It is believed that Mr Bromley and Mr Gebhardt will do the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

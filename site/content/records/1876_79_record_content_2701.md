@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. Ed. claims that Lovell's report on the flood damage is something of a whitewash effort. Says 9 inch culverts were placed where 5 foot ones were needed and that the claim that no real knowledge of conditions was available was nonsense. Firewood Creek is 81 feet wide and a 40 foot bridge was ordered. Much of the damage was because no culverts were in place as they wanted to use the embankment during construction and insert the culverts later. There was even the remarkable suggestion that the flood was used to determine where the culverts would be needed! Ed. said much more than 40 chains were damaged, but perhaps that was the totally destroyed section. The damage bill would seem to be understated. Work is now being pursued with vigour and there is some hope that part of the line might be ready for the coming harvest season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

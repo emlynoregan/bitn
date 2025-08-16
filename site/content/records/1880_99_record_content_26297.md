@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  Mr Wittber’s class for young men opened on 3 June and ran on ten evenings till 8 August.  Lessons were given on mental arithmetic, reading and spelling.  60 different young men attended at one time or another.  Attendance varied from 51 to 9 with an average of 21.5.  About half a dozen seem to have benefited significantly, but the class eventually died of indifference.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

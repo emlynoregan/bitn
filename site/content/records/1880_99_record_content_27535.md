@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  Burra travelled to Saddleworth on 2 January and on a very hot day with no shelter of any kind, Burra 84 & 70 (154) defeated Saddleworth 55 & 64 (119)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

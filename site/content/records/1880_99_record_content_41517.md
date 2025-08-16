@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Dr Barnardo’s Musical Boys will play selections on a peal of 74 handbells, bugles, Highland bagpipes and other instruments with pictorial illustrations of the home and rescued children.  2/- & 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Though 1886 was about as bad a year as possible there is some hope it was the wo
 
 Mayor’s Fund at £148-2-0, leaving £42-18-0 to find.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

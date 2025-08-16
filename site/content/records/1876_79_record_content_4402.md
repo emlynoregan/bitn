@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 School. The Burra School has £16 outstanding in school fees, but in fact much of this is an accounting fiction. Owed fees are recorded when an application for exemption is made, but not removed from the list when an application is successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

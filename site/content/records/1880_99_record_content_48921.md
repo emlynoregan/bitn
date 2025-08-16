@@ -35,4 +35,4 @@ Two Polo Matches will be played on Saturday at Burra, between Mt Crawford and Bu
 
 Burra Team 2: A. Gebhardt, C. Gebhardt, W.G. Hawkes, F.W. Whyte.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

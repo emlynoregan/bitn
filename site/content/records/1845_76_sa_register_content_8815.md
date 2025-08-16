@@ -53,4 +53,4 @@ The rate of travel for mails between Adelaide and Gawler is to be 7 miles per ho
 
 Forms of tender may be had on application at the post office at Mount Barker, Kooringa, Wellington, Gawler Town and Mosquito Plains. [Near Naracoorte.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

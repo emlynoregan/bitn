@@ -68,4 +68,4 @@ Cr West substantiated Cr Sampson’s views about the fence.
 
 The Town Clerk said he had spoken to the Chairman of the DC who had said it was not understood the fencing was to be done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Railways.  A locomotive has used the line to Melbourne as far as Dimboola and on the Silverton line operations should reach Manna Hill by the end of July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

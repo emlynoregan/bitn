@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 [The memorial is then printed.  It draws attention to the losses sustained by tradesmen because of the circuitous route now necessary via Redruth and Aberdeen to get to the Smelting Works.  They wanted a bridge as near as practicable to Market-square and undertook upon the acquiescence of the Mining Association to open a subscription list towards defraying the expense of the bridge.  They also claim that where 20 drays use to pass now only one does because of the communication being cut off by the enlargement of the Bible Christian Chapel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

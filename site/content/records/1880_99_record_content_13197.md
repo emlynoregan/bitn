@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Terowie.  The overland mail from Sydney arrived yesterday, 27 hours late due to heavy rains, extending as far to the northeast as Mingary.  They totalled 1.5” in some places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

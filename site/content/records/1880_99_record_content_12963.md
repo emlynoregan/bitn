@@ -53,4 +53,4 @@ The election takes place on 23 April.
 
 J.W. O’Brien writes in support of W.B. Rounsevell who ‘has represented the district well for the last nine years’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

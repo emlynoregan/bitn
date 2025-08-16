@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Salvation Army is holding a special meeting as we go to press [3 Mar.] conducted by Col. McKie from England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

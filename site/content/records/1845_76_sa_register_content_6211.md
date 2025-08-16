@@ -30,4 +30,4 @@ Advertisement.  The port Henry Arms on the Gulf Road, lately occupied by J. Hoil
 
 Apply to Disher & Milne, Hindley & Currie Streets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

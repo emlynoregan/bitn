@@ -49,4 +49,4 @@ Several Germans attended the court today to take the oath of allegiance to the Q
 
 His Worship said the Court of Revision would be held on 28 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

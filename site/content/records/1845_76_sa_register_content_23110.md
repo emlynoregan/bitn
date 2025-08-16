@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Northern Extension Railway.  Floods have delayed work.  It will not now be opened for general traffic in early January.  Goods cannot be carried between Tarlee and Saddleworth as it would interfere with the work of the contractors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

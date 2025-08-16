@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Some fine cabbages and letuces [sic] grown in Kooringa have been shown to us.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

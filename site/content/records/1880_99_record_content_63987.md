@@ -39,4 +39,4 @@ Michael Kelly also gave evidence.
 
 The verdict was there was no evidence to show the origin of the fire.  The stacks were insured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

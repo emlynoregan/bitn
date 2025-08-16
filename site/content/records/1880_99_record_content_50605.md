@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR drilled and competed on Wednesday for the prize offered by Mr A. McCulloch of Princess Royal.  In good weather, Sgt Field’s section came out the best.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

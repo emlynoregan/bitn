@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  The Hon. Sec. Of the Hotham Football Club writes to thank Burra for its hospitality and the club so enjoyed its first visit to Burra that they hope it could be made an annual event.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

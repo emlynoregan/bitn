@@ -27,4 +27,4 @@ Mr W.W. Hughes has donated a large sum - £20,000 to £30,000 is mentioned – t
 
 ‘It will be observed that …Captain Hughes has not waited for his riches to be snatched from his grasp by death before endeavouring to do good with them.  In so doing he has acted wisely, for he will have the gratification of witnessing during his lifetime the effects of his liberality – a gratification which we trust may be prolonged to the utmost limit of his desire.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

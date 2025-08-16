@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Weather.  A downpour of over 2 inches fell on Burra on Thursday, causing some flooding.  To the east falls ranged from ¼ to 4 inches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

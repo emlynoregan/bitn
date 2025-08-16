@@ -48,4 +48,4 @@ Mr Dale was called upon to address the meeting.  After some hesitation he did so
 
 At the end of the meeting Mr Barnden proposed that Messrs Dale, Lennon and Cole were each fit and proper candidates and each proposition was carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

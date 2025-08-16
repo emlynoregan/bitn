@@ -27,4 +27,4 @@ SA Mining Association: Seventeenth Dividend
 
 The Directors have declared on this day 12 August that a dividend of 100% or £5 per chare will be paid on 1 September.  Henry Ayers, Secretary, 12 August 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

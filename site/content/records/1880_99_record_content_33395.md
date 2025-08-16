@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Sara & Dunstan of Argent St Broken Hill have installed gas lighting in the Broken Hill Wesleyan Church.  A twenty-light star is in the centre of the building, sides and rear are illuminated by eight-light stars and there are six-light stars in the choir gallery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

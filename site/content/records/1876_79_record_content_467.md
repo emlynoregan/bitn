@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rabbits are in huge numbers at Mt Bryan.  They have been killed by the thousands.  The destruction is being carried out by pouring coal tar on shavings in the mouth of burrows and igniting it to suffocate the vermin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

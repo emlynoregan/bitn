@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Bagot, Shakes & Lewis, after a long period of smaller markets, will offer 10,700 sheep on 3 September.  The 1,000 store cattle due to be sold by Elder Smith on 3 September will now be offered at Crystal Brook on 10 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

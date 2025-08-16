@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Sunday School Anniversary last Sunday.  Revs J. Hopkins & R.C. Yeoman preached to unusually large congregations.  The children’s treat and the tea meeting are today.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

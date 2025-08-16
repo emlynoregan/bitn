@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Sunday School Anniversary is reported at length.  Rev. G.E. Rowe preached to a large congregation.  The report for the year showed a nett decrease of 34 children due to removals.  (45 removed)  And ‘one young man had died triumphantly’.  The schoolroom had been renovated.  Mr Holder spoke of the work of the children.  Rev. R.W. Campbell, who is on his way to Perth, WA, also spoke.  Proceeds were over £36.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

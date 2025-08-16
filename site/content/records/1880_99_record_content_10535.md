@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Volcano.  The eruption of “Cracatia” [Krakatoa] in the Sunda Strait is reported.  The eruption is said to be visible nightly from Batavia.  [Djakarta].
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

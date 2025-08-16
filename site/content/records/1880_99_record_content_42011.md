@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 As a result of the Institute Committee saying they were not prepared to pay their share of the cost of an iron urinal, but would pay their share of erecting one on the terms first submitted them by the Board of Health notice is to be given to them to erect a urinal in accordance with the Health Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

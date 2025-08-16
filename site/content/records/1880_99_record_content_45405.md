@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Redruth Wesleyan Church Anniversary on Sunday 22 May.  Rev. R. Rossiter will preach and do the connective readings for the service of song The Man That Spoilt the Music.  Tea meeting on 24 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

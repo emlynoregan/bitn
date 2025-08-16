@@ -35,4 +35,4 @@ Dr Bull said that at last their town with a population of more than 4,000 and th
 
 Dr Bull asked what merits had Mr Kingston, judging from his speech the previous Monday.  His address amounted to little more than an echo of Mr Lang’s principles except on the question of the ballot, and on that he has no opinion at all.  Or at least not the courage to declare an opinion.  But no Burra Director, whatever superior claims he might have to Mr Kingston, will be the best member to represent our interests.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

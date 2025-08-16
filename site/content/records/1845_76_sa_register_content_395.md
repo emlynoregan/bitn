@@ -29,4 +29,4 @@ A considerable supply of doors and window frames and building materials has been
 
 A man recently there reports a single explosion that released 30 tons of ore valued at £600.  Some experienced tributers are said to be earning over £7 a week and one confident report goes so far as to make one class of earnings equal to £50 per month per man.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

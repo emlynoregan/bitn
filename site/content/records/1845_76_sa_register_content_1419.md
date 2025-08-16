@@ -39,4 +39,4 @@ Cartage of ores has cost £21,406-10-3 and other expenses in the colony £5,354-
 
 In addition there are of course the costs of freights paid to British shipping.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

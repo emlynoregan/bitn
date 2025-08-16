@@ -39,4 +39,4 @@ publication_slug: record-1880-99
 
 The New Catholic Bishop, Dr O’Reilly, arrived at 6.30 p.m. last Thursday, 12 July, by the Broken Hill express with his chaplain, Rev. Father Hayes of Sydney and Dean Nevin of Port Augusta.  He was met by Rev. Father O’Dowling SJ, pastor of Burra and the Very Rev. T. O’Brien SJ, Superior of the Jesuit Missions in SA and Rev. J. Lee of Marrabel.  The laity was represented by Messrs John O’Leary, James O’Connell and P. Dowd JP of Farrell’s Flat.  A triumphal arch and church bell greeted the Bishop in Kooringa.  There was a service at 7.00 p.m. at which he was presented with an address on white satin in a gilt frame.  His Lordship then addressed the congregation.  There was a Bishop’s Mass at 8 a.m. Friday, which was well attended despite the cold, wet and boisterous weather.  The Bishop was formally received in Port Augusta last Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

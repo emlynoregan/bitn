@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on Socialism in this time of depression.  The editor strongly favours the payment of Members of Parliament.  He is against socialism, but for a more just reform of our laws.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  Dr Sangster was driving along the Eastern Road near Nankivell’s Gully when the buggy ran along the side of a cutting and overturned.  The doctor was thrown out, but not seriously hurt.  Wooton, who was with him, suffered a broken collarbone.  The trap was not damaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

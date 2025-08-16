@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  A 9-year-old son of W. Bentley was running behind a trolley and on the driver whipping him off he ran aside and was run down by a horse and dray, breaking an arm and badly bruising a leg.  The practice is common and dangerous.  [James Bentley born 1879.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

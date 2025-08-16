@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Wesleyan Foreign Missions.  The Rev. J. Leggoe, late of Fiji preached on Sunday and lectured on Mission work in Redruth yesterday.  Next Sunday and Monday Rev. J.R. Bradbury will render similar services in Kooringa.  He has spent three years in the Northern Territory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

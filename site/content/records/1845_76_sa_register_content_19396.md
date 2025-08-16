@@ -28,4 +28,4 @@ Obituary.  On 28 May Mrs Warnes, the wife of a sheep farmer near Burra, left fou
 
 [Amy Warnes born 19 March 1864, Burra Survey: died 29 May 1866 near Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

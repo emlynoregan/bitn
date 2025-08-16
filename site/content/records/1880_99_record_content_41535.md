@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 T.S.R.  Some time ago the Booborowie Travelling Stock Route was gazetted as open for sale.  A deputation to the Commissioner of Crown Lands saw it temporarily withdrawn, but now we need all interested parties to continue to pressure to have it permanently withdrawn before it is again gazetted for sale.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

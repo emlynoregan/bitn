@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 New Year was quiet, but for the firing of an odd gun and the sounding of steam whistles.  Some churches held watchnight services.  The heavy rain, which set in about noon, caused the Kooringa Wesleyan Sunday School picnic at Sod Hut to be curtailed and the party arrived home thoroughly drenched.  Dams were filled.  The Quondong mail carrier reports falls of 3” to the east.  Railway traffic has been widely delayed and the Broken Hill line is temporarily closed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

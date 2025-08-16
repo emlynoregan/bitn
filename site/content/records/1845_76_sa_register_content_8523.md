@@ -31,4 +31,4 @@ Bridge Over the Light.
 
 Mr Bagot will move on Friday for a return revealing the number of persons drowned in the River Light at the crossings for the Great North and Burra Road.  This spot has been more fruitful of fatal accidents than any place on the colony’s roads.  It is hoped the debate this move will cause may lead to the speedy erection of a bridge at this crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Aberdeen Bridge. It is some time since the Aberdeen Bridge was condemned and a new one ordered. The old bridge is now unsafe for heavy traffic and the new ironwork has been delayed by the strike at James Martin & Co. in Gawler. A ford will be needed while the bridge is replaced and it might as well be done now for the benefit of heavy traffic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

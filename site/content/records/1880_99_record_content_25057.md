@@ -47,4 +47,4 @@ The mayor believed that SAMA was liable for the interest on the construction of 
 
 A letter from W.T. Rabbich predicted a worsening employment situation.  Already there were 300 unemployed on the Barrier and Millar Bros work on constructing the Broken Hill railway was drawing to a close.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

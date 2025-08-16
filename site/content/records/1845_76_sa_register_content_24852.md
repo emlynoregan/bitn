@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Locusts.  Grain fields near Kooringa promise a good harvest this year.  Frequent rains have produced luxuriant growth.  Locust hatchings from last year’s eggs are feared, but though a considerable number have been seen in sheltered spots there is as yet no real damage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

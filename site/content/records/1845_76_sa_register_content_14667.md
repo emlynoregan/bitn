@@ -40,4 +40,4 @@ On Friday evening a dinner was given to Mr G.S. Kingston at the Burra Hotel and 
 
 [The toasts are reported in some detail and among those proposing, responding or providing entertainment were: Captain Roach, Captain Killicoat, Mr Bath, Mr Evans (a song), Mr Challoner, Mr A. King of Clare, Mr Chapman (a song), Mr W. Pierce (sic: Pearce?), Mr Burnell.  A party of Germans also sang a German song.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

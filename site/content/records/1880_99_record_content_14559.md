@@ -27,4 +27,4 @@ Cricket.  Saturday, Kooringa 17 & 6 for 36 lost to Aberdeen 190
 
 [For some reason this is described as a win to Aberdeen by 175.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

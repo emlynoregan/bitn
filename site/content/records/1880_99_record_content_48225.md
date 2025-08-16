@@ -35,4 +35,4 @@ Fire also broke out in Mr Frederick’s paddock at Redruth on Tuesday, but was e
 
 Another fire occurred in Mr T. Warnes’ paddock on that day too and destroyed several acres of grass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

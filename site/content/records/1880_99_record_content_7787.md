@@ -42,4 +42,4 @@ Council voted to inspect and for the finance committee to report on funds.
 
 Crown Lands advises that money spent on tree planting would be supplemented as for other public works.  £40 is therefore to be spent on trees in North Ward and £50 in Middle Ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

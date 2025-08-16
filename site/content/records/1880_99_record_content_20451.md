@@ -45,4 +45,4 @@ Spoke to deceased about 16th instant.  He showed me his finger and said Jack Fla
 
 M-C Mathew George Ormesby gave evidence of arresting Flanigan: knew deceased - have never seen him drunk.  Saw his thumb bleeding the night of the incident and he said ‘Flanigan done this.’  He would not have Flanigan in charge.  Have known John Flanigan c. 3 years and not known him to be very quarrelsome.  Don’t think the deceased’s thumb was broken as he moved it.  The accident happened on 17 November.  The verdict was death by gangrene of the right arm caused by a wound on the thumb received by a fall in a quarrel at Petersburg, but there is not sufficient evidence to convict the accused.  The coroner should be asked to censure the accused John Flanigan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

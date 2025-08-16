@@ -102,4 +102,4 @@ Burr had asked for the appointment of an assistant, Hoskins, to do the actual as
 
 On 12 June 1848 samples of ore were sent to Adelaide for assaying and the Directors became convinced that something was very rotten in the management.  On a visit to the Mine the Directors had found six heaps of ore totalling 6,550 tons.  Six samples were taken and half of each was given to Mr Burra to assay and half sent to Adelaide.  This ore had already been bought on the basis of 38⅛% copper.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Hallett Races last week were a great success with about 350 in attendance.  The account extends c. 2 columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

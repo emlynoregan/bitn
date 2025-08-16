@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 [On 12 March in NSW there was an attempt to assassinate HRH the Duke of Edinburgh by James O’Farrell.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Frank Latter, who shot himself at Terowie some time ago, has partially recovered.  The bullet is in his skull somewhere and the right lobe of his brain is severely wounded, portions of it have exuded.  He is paralysed on the left side and his right eye has had to be removed.  He is conscious, able to converse, and remembers the shooting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

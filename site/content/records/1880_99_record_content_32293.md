@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Missing man.  The missing Mr Oppermann has not been found, but rumours now suggest he is in hiding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ July 1886 New applications to be sought to fill the vacancy.
 
 None of these need to be rescinded.  No application has to be accepted and the last of the minutes ceased to have further effect on the applications coming in.  There is no now no minute that sets the salary for the year 1886 at £110.  The situation allows the Council to work for the rest of 1886 with one officer less and a small sum of not more than £1 a week will suffice for the Inspector’s work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

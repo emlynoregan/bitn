@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The boy referred to in the report was accompanied by one of Mr Williams’s sons who suggested (after the other boy’s father had refused them matches) that they apply to his mother. (i.e. Mrs Williams)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

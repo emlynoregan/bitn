@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Justin will compete in the U17 400 m and the 4 x 400 m relay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

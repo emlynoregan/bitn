@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra has a Royal Life Saving Club.  Jan Jacka is the Secretary.  Members can use the pool out of ordinary swimming hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

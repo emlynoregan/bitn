@@ -33,4 +33,4 @@ The leases are granted on generous terms for 21 years at the nominal rent of fro
 [The editor urges the residents to at once petition the Government for the extension of the Corporation Act to the town.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

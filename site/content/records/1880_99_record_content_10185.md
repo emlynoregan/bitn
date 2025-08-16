@@ -25,4 +25,4 @@ The Education Question: a one-column article by R.W.M.
 
 The education offered by the compulsory primary schooling is not ‘education’ but merely schooling.  The labouring classes should treat it with considerable suspicion.  It will not result in a blurring of class boundaries as many think.  It will not touch on tastes, not will the regimental system used do other than stifle genius at birth.  The State System will never produce more than mediocrity.  It is to be feared that at its best this education will merely spoil a good many embryo workmen without giving them anything in exchange commensurate with what they lost.  Any attempt to effect the upheaval of any class in society by government by artificial means must prove disastrous for all and the class concerned especially.  Class is a natural law.  We advocate education for all up to a standard sufficient for all practical purposes, go beyond that and the equilibrium of the state is affected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra DC is content to allow the Corporation Inspector to be appointed to inspect meat in their district during the pleuropneumonia outbreak if the Town Council will fund him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Editorial on the way the SA press had greeted the no confidence motion in Parlia
 
 2nd Leader on the role of the state in regulating social behaviour.  The writer believes it likely that after debate the state will become increasingly involved.  ‘We think . . . it is a melancholy fact, that civilization is mostly attained by complication.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

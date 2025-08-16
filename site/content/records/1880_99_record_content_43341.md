@@ -34,4 +34,4 @@ Mr Paynter has asked for a reduction in the charge for water he is using for cru
 
 The Mayor thanked the Councillors for their support in the past 12 months and then the Councillors congratulated each other.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

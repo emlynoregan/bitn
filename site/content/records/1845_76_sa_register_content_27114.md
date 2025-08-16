@@ -37,4 +37,4 @@ John Hutson is building a wheelwright’s shop and other improvements are being 
 
 A presentation of a handsome gold locket and ring was made to D. Wells by the Foresters’ Lodge on Friday evening.  The articles were made by A. Day of Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

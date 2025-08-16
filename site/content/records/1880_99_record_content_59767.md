@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Thomas Warnes, aged 60, is very seriously ill at Glenelg.  Though suffering for the last two years he has been practically confined to his room for the last two months.  He is an old resident of the district and has a well-deserved reputation as a woolgrower.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

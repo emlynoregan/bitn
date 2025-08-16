@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church anniversary was well attended and the public meeting heard that the debt had been reduced during the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

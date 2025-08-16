@@ -29,4 +29,4 @@ Obituary.  A man named Cox died suddenly at Princesston [i.e. Princess Town] but
 
 [Daniel Cox died 9 August 1862 at Kooringa aged 62.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

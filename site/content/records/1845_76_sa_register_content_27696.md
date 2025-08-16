@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 At the Kooringa Primitive Methodist Church special services were held on Sunday and Monday in aid of enlarging the Kooringa parsonage.  Rev. H.J. Pope preached to large congregations.  The public tea on Monday was well attended as was the following public meeting.  £74 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

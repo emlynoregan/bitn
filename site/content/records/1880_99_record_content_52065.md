@@ -28,4 +28,4 @@ Dr Brummitt:
 
 The left leg was almost detached above the ankle and the right foot was crushed and the toes almost detached.  Amputated the left leg and half the right foot.  On 10 November gangrene set in and caused the amputation of the right leg.  For a week Mrs Foy made good progress, but blood poisoning set in on 18 November and she died on 24 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

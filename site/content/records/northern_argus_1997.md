@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 [Born Beryl May Gillett 10 May 1914, Hampton: died 24 November 1986, Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

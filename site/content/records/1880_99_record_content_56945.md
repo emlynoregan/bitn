@@ -46,4 +46,4 @@ publication_slug: record-1880-99
 
 Obituary.  Richard Berryman died at Springbank on Friday last, aged 73.  He was a resident of 40 years.  He was born at St Breague, Cornwall, and arrived in SA in the Peakingham on 22 March 1849.  He worked at the Burra Mines for 4 years and then went to Victoria.  Being successful there, he returned to SA and became a farmer.  He leaves a widow, 3 sons [sic] and 5 daughters with 34 grandchildren: R.H. Berryman (Yongala), T.E. Berryman (Yongala), J. Berryman (Hanson), W. Berryman (Yongala), Mrs J. Russell (Hallett), Mrs D.T. Robinson (Mannanarie), Mrs J.T. Walker (Kooringa), Mrs M.M. Birt (North Adelaide), & Miss A. Berryman (Springbank).  [Died 10 May.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

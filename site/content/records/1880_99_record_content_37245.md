@@ -29,4 +29,4 @@ The reduction of £640 in the capital value is not nearly a fair decrease when i
 
 One argument was that in the event of fire they would be useful, but at present ‘neither the town nor one of its residents have a hose by which the water could be applied’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

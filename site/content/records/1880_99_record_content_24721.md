@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Lynx No. 2 writes fulminating against those who would get something for nothing in the form of Government handouts, but the letter gets increasingly incoherent as it continues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

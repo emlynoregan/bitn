@@ -41,4 +41,4 @@ In all officers lose £20, but additional salaries come to £23-10-0.
 
 Ratepayer writes saying Cr Rabbich is again trying to pose as the working man’s friend, but first slashes salaries.  They pay Mr Jenkins 6/6 a day and the Engineer £2-10-0 a week or just 7/- a day. (For a 10 hour day seven days a week.)  While Jenkins works an 8 hour day six days a week.  Where’s the justice?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

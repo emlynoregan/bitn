@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 1898 Harvest will not be good.  Six weeks ago prospects for quite a good result around Burra were good, but failure of late rains resulted in very poor yields.  To the south things are better, but to the east farmers will be lucky to get seed wheat back and on some farms stock has been turned into the wheat fields.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

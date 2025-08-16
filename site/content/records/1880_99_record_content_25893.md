@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Rainfall this year so far 19.005” and to this date last year 2.735”.  [Note that this information is incorrect and the 1887 total should have been cited as 10.085”.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

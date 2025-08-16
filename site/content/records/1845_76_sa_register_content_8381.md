@@ -31,4 +31,4 @@ Port Wakefield
 
 In 1852 17 vessels of an aggregate 10,033 tons arrived at Port Wakefield and they brought in 6,606 tons of freight.  19 vessels left with an aggregate tonnage of 11,147 tons, taking away 7,687 tons of copper ore.  The inward freight comprised 3,096 tons of coals, 1,960 tons of patent fuel and 550 tons of copper ore (to fill up).  These figures of course do not include the copper ore and refined copper brought down to Port Adelaide by the Patent Copper Company’s barges and small craft.  It is pleasing to see that despite the effects of the gold diggings the PCC has maintained a good amount of activity, which we trust, will be far exceeded by the results of the year just commenced.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

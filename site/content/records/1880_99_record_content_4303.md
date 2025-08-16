@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Freight Charges.  The editor argues for lower rates for the carriage of goods on railways on the grounds that much of the cost in the loading and unloading and the distance travelled is relatively less important.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

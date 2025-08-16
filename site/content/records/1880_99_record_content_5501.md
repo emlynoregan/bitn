@@ -28,4 +28,4 @@ Terowie Young Australians 61 & 70 [139] [Though the individual scores seem to ad
 
 Burra True Blues 60 & 79 for 4 wickets [139] [Which fits in with Terowie getting 135 if the last hit for the True Blues scored 4.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

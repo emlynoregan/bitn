@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Observer’ in defence of the Salvation Army, which had been complained of for frightening, horses with its drums and processions.  Nonsense he says: Matthew Burnett [a temperance speaker] had paraded the streets with crowds and torchlight.  Soldiers in London march to church regularly with a band etc.  He accuses the churches of ‘class clique and pride’.  The Salvation Army denounces pride and extravagance.  It is claimed the Salvation Army creates larrikins, but many young men of that age and class stand up at Army meetings and ‘in an unmistakably pious manner exhort and plead for Christ’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ C. Drew moved that the meeting express its disappointment at moves to legalise t
 
 Mr Venning was thanked, but there was no motion on the State Bank question as it was felt that more information was needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

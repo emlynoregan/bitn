@@ -36,4 +36,4 @@ The town of Shebbear which was to be offered for sale on 16 May has been withdra
 
 The Commissioner of Crown Lands believed Shebbear should go ahead to save the Govt. from having to buy private land for its services. [A Govt. town of Terowie, opposite the private town was surveyed in 1880. Manning in Place Names of S.A., says under Terowie that the place was previously Gottlieb's Well, but under Gottlieb’s Well he indicates that that place was south of Terowie!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

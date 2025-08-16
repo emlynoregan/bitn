@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Sir Henry Ayers precipitated a political crisis. He was Chief Secretary when the Legislative Council passed a motion of want of confidence. He refused to resign and a deadlock occurred between the two houses. The Legislative Council refusing to transact any other business till he resigned. If he did go then the govt. would almost certainly have to resign too.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

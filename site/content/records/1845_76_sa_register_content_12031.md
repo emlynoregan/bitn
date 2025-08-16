@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Some of the Directors [of the Royal Mining Co.] visited their property at Karkulto last Saturday.  They were well satisfied to find 10 tons of ore at grass, supposed to average more than 30%, plus about 20 tons of inferior ore.  There are about 20 men at work.  A party of local shareholders visited the mine on Tuesday.  They report a 35% sample from the eastern side and others at 20-25%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

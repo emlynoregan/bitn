@@ -29,4 +29,4 @@ Anniversary of the Stony Gap Schoolroom to be held 24 Dec. & 26 Dec. with specia
 
 Bon Accord Co. asked to convey to the town council the land reserved for recreation at Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

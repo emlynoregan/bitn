@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 John Sampson’s defeat at the recent elections comes after 13 years of service to the town.  The reasons for his defeat are not at all clear as he has always worked in a fair and impartial manner.  His invaluable services will never be known.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

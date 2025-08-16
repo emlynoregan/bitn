@@ -35,4 +35,4 @@ At the same time he does admit that the present system uses a currency that is â
 
 [Thomas Pickett]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

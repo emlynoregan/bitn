@@ -79,4 +79,4 @@ Three serials were printed in the year:
 
 That Bushranger by ‘Louie’ author of Which was Mad? and A Little Pickle etc. ran from 3 March to 10 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

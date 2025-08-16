@@ -91,4 +91,4 @@ Cr Sampson moved that Cr Rabbich be requested to withdraw the statement he made 
 
 Cr Parks 2nd and carried with only Cr Butterworth opposed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

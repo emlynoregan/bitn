@@ -51,4 +51,4 @@ Apart from the nett losses to Melbourne the other interesting outflow was to Cal
 
 ‘Registered voters in SA Electoral Districts in 1851’ is an interesting group of figures:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

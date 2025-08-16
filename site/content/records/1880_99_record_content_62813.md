@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Bolt.  On Saturday Ted Wall’s mail buggy horses bolted down Flagstaff Hill, but were halted with some little trouble.  They broke out again at the north end of the town, smashing the buggy and leaving Ted on the ground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

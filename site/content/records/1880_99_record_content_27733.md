@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter.  T. Kitchen writes boosting the prospects of the Burra Joker claim on the Barrier and suggests this is a good prospect for speculators in mines, which are prevalent at the moment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Shooting Match, last Wednesday Burra Co. v. Jamestown Co. on their respective ra
 
 In the afternoon Burra Co. defeated Burra Town Council by 66 points.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

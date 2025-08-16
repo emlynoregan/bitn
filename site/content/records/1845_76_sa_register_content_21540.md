@@ -39,4 +39,4 @@ An earthquake was felt at 3 p.m. yesterday and reports have also come in from Mt
 
 Weather.  There is a gentle shower of rain tonight with indications of its continuing for some hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

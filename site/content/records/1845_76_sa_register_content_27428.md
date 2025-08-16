@@ -38,4 +38,4 @@ On Monday afternoon Richard Newman, employed by the SA Carrying Co., broke his l
 
 On Tuesday evening John Fitzgerald was cutting chaff at J. Carey’s works when his hand was caught in the machine and cut off.  Dr Nesbitt attended and later that night, with the assistance of Dr Cave, he amputated the arm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

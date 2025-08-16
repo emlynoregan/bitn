@@ -36,4 +36,4 @@ Mrs Williams provided the matches on the impression the boys were fetching them 
 
 The boys first burnt some blackberry leaves and then some loose straw from which the fire escaped to the haystack, rather than setting fire to the haystack directly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Court.  Mr Lang recently observed to a gentleman of the press that he wished someone of his profession would call attention to the miserable accommodation afforded.  There was not even a seat to offer a person of respectability.  We have been told that at the new township of Redruth there is a convenient empty room in the stone-built barrack there, which could be furnished if the Government were so inclined.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

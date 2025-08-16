@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Unemployment.  Disgust was expressed that some of the men sent to Hergott could get neither work nor food when they arrived.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

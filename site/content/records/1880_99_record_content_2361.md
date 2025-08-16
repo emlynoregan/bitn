@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Mayor.  Mr Lane assures us he did not sign the address to Mr Lipsett ‘on behalf of the inhabitants’.  He simply attached his signature with the title of Mayor following it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

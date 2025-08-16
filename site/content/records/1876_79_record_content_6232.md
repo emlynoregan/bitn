@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Railways. Passengers are now allowed to travel by goods train between Burra & Hallett, and we hope soon will be generally allowed. [The importance of this was probably to allow better connections with Adelaide trains for passengers to and from Hallett.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

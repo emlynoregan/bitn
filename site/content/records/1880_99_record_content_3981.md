@@ -30,4 +30,4 @@ Football.  ‘Short Mark’ reports that last week 10 Reds made close work for 1
 
 He is also disgusted by the way SAMA is asking an exorbitant price for a piece of land to become the recreation ground - land which is no use to them for mining.  He commends W.F. Coglin and W.R. Ridgway’s efforts in this matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

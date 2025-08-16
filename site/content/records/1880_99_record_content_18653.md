@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Institute Subsidies.  A deputation to which Burra was not a party has succeeded in getting the full subsidies paid to Institutes for the past year.  It will be welcome.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

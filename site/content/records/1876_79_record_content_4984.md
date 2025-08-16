@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Offence. A shearer, George Bryan, travelling from Hallett to Burra on Tuesday was drunk and assaulted the porter when asked for his ticket. He was fined £1 for obstructing the porter.  £1 for the assault and 5/- for drunkenness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

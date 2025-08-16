@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. Official report by W.D. Lovell on the damage done by the Feb. and March floods says destruction of 40 chains of embankment at a cost of £200-£250.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

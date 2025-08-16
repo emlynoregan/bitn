@@ -43,4 +43,4 @@ Captain Gregor accompanied me to the discovery site.  The jawbone is the most pe
 
 Sir Thomas Mitchell in his expedition into the interior found a large number of fossil mammalian remains.  Among then was a large tooth identified by Professor Owen in 1838 as that of a gigantic marsupial allied to the kangaroo, but having remarkable affinities to the large non-marsupial pachyderms.  Subsequently there were discoveries of other parts of the skeleton and eventually of an entire skull.  This was almost three feet long.  The hind legs were much shortened and the forelegs longer and strengthened compared with a kangaroo.  The discoveries have been made in the most recent geological formations in Queensland and NSW and in several places in SA and so at one time this animal must have been widely distributed over the continent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

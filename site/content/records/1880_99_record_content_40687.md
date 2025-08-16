@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Town Council waited on Miss Fanny West on Tuesday 24 Feb. on the eve of her wedding and presented an illuminated address prepared by Mr A. Wittber and illustrated by Mr William Bentley.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

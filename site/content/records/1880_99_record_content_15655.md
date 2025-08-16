@@ -29,4 +29,4 @@ Notice.  [Benjamin Franklin Langford inserts a rather strange notice, but one wh
 
 [Though not spelled out this presumably marks the end of his stint as editor pro tem, as he would no doubt have termed it, with the return of Holder from New Zealand.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

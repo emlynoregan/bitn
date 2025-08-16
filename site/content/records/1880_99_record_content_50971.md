@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR was inspected by Brigade Major Stuart and Sgt-Major De Passey (from Staff Office) [De Passé?] on 30 August.  The result was highly satisfactory and an improvement on last year in both shooting and drill.  Capt. J.A. Watt was commended as reliable and painstaking.  A successful Military Ball followed in the evening, at the Institute.  Refreshments were taken at midnight and dancing continued to the early hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mr Woollacott set out from Burra on Tuesday 30 November to fetch the big engine for Schneider’s new shaft accompanied by a few friends bearing flags to show their kind feelings towards his great undertaking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

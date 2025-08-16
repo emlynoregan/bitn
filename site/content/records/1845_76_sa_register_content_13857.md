@@ -34,4 +34,4 @@ The Mine has ceased taking in timber and firewood and so the town’s streets ar
 
 There is some dissatisfaction over aspects of the Waste Lands Regulations as a result of the Crown Lands Ranger nabbing a mob of cattle found on Crown Land.  Their owners were forthwith indicted for trespass and a number of the cases are to be heard tomorrow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

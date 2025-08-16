@@ -34,4 +34,4 @@ Liability on 31 Dec. 1878	£442- 0-5 [Representing £169-17-7 paid off the debt]
 
 The president for 1879 is Dr Nesbitt and the vice-president Mr Coglin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

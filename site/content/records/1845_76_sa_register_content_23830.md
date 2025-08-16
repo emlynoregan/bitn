@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Farming.  The district is likely to average about 20 bushels per acre despite recent adverse weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

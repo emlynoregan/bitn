@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Firewood Creek Paddock Hundred of Kooringa sections 122, 123, 124, 125, & 3034.  Total 568 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

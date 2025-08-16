@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mine is Thine, the page four serial, ends with this issue and in future will be replaced by short stories and articles of general interest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

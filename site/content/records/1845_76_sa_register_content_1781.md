@@ -30,4 +30,4 @@ Warning that anyone cutting or removing any living timber or trees from the 10,0
 
 Henry Ayers, Secretary.  7 October 1847.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Tuckfield of Baldina left his horse and cart standing at the Mill on Monday and the horse bolted towards Kooringa, which it reached minus winkers and some other pieces.  The horse and cart went through Market Square and up Kingston St heading over the hill towards Baldina.  Eventually it was captured with little damage done despite some near misses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The concert for the poor grossed £18 and netted £15 and the committee has issued 30 orders for wood, clothing, groceries etc. to as many needy persons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

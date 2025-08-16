@@ -60,4 +60,4 @@ The verdict was that the deceased had died on 18 August of apoplexy.
 
 [John Mogford died 18 August 1873 near Gottlieb’s Wells, residence Kooringa aged 61.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

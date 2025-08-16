@@ -48,4 +48,4 @@ During the year the Record changed hands.
 
 The United Friendly Societies’ Sports at the oval on Friday proved the value of that place of amusement.  Were the running and cycle tracks put in good condition profitable first-rate sporting events could be staged several times a year.  At present the cycle track is too dangerous to attract the best wheelmen.  On Friday £30-£40 was taken at the gate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

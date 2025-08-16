@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Mineral Rush.  In January 358 mineral claims were registered at the Government Land Office.  The first 15 days of February saw 563 claims registered and 116 were registered on last Monday.  Most of them are in the N & NE in areas around Beltana, Leigh’s Creek and Mt Plantagenet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

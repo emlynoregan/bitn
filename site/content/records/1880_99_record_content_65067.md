@@ -38,4 +38,4 @@ The assessment for 1899 is £87 less than for 1898 at £8,548.
 
 In 1898 the North Ward lamp cost £5-15-6 and the lamps in the other two wards cost £4-17-6 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

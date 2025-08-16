@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 New Year’s Prank.  Someone ‘posted’ two sparrow hawks at the Aberdeen Post Office on New Year’s Eve and in the morning the postmaster on opening the box was greatly surprised.  The hawks fled to the roof of the office and spent the day there before fleeing through the door.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

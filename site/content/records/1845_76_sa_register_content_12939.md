@@ -35,4 +35,4 @@ A decrease in his own school was therefore expected, but he hoped to retain his 
 
 Mr Arthur Motley wrote seeking a form to apply for a teacher’s licence for himself and his wife.  He intended to use the Primitive Methodist Chapel at Redruth and his application was incidental to Mr Forder’s probable resignation.  He was able to produce testimonials.  The Board did not think they could issue an additional licence for that locality at this time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

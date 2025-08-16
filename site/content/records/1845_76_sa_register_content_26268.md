@@ -33,4 +33,4 @@ Dry weather continues, but sowing commenced today.
 
 Mt Bryan Flat is infested with locusts, consuming everything in their path.  They are also very bad at Terowie, where pigs are eating them in huge quantities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

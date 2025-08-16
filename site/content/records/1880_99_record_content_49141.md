@@ -30,4 +30,4 @@ Queensland Floods.  Heavy rain continues in Queensland.
 
 But in fact the whole article that follows deals with NSW with references to the Hunter River, and the towns of Maitland and Muswellbrook.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes again from the field, suggesting that news from there is often misleading and overstates the success.  Returns, even from the private prospectors are small after allowing for reasonable costs and wages.  For the Government party the results are even worse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

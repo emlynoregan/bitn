@@ -68,4 +68,4 @@ Eventually the charge was dismissed.
 
 Much sympathy is expressed on all sides for the parents of the girl; who are respected residents of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

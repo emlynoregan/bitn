@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra’s Community Bus is now entering its 5th year of operation.  It is operated by the Lions Club and a charged of 40 cents per passenger is made.  It is run on Thursdays by O’Connor’s Tours and gets people to the shops from their homes and back again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

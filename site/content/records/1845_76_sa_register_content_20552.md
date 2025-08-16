@@ -38,4 +38,4 @@ To sick & injured workmen £15,000
 
 And other small sums amounting to £20,000 to £30,000
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

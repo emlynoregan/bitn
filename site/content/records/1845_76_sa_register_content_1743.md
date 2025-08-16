@@ -30,4 +30,4 @@ The office will close on Tuesday 28 September, after which business will be cond
 
 Henry Ayers, Secretary.  23 September 1847.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

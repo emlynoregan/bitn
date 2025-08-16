@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Poison baits laid in the town have continued to claim dogs: four died last Wednesday and Thursday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

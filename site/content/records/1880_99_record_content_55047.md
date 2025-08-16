@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The Champion Race for birds under 4 months was run from Manoora to Burra in unfavourable conditions.  First was C. Wilkinson’s b. c. c. Catechu and b. h. Sassafras.  The 24 miles 1,040 yds was done in 51 mins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Weather.  Floods have created washaways on the railways east, west and north of Petersburg and flooded Teetulpa.  There was wind and hail damage at Quorn and at the work-site of the Beetaloo Dam the temporary dam was destroyed at a cost of £300 and one man was drowned.  In Laura the floods were 4’ deep in places.  Falls varied from 0.5” to 2” over a wide area of the north, but Burra had only a few light showers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mr J. Roberts, formerly of Kooringa has a good stock of goods and runs the P.O. with mail 3 times a week to Marrabel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

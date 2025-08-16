@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Afterwards there was a social evening at the Commercial Hotel.  The accident to Captain Watt saw this somewhat curtailed with no musical items after the toasts and most left about 9.30 p.m.  The ball that followed saw only a fair attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

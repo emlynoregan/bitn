@@ -33,4 +33,4 @@ Burra Corp. There is a detailed summary of the deputation to the Commissioner of
 
 The Mayor accused the Commissioner of not carrying out his promise of a trough at the station gate. Now he did not want the trough moved, but another at the station gate. Commissioner Hawker expressed surprise at the mix up and said that as there was already a trough in Burra it would be moved from opposite Ridgway's store to the station gate. He then asked them not to request a water supply for Kooringa until a hydraulic engineer arrived from `home' (England).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

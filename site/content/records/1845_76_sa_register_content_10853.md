@@ -50,4 +50,4 @@ Tootell said – The filly was brought over by Mr Morley from Charles Bennett fo
 
 He was remanded for the evidence of Mr Boord and Mr Morley, but admitted to bail, himself in £50 and one surety for £25.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

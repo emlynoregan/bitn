@@ -27,4 +27,4 @@ Accident at Kapunda Mine.  One man has died and three others have been temporari
 
 Sergeant Rounsevell has returned from the diggings, having taken 25 days on the overland road.  The roads are already in a dreadful state due to the rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

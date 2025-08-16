@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Well-Wisher’ re Sabbath breaking by young men - especially those who wander through town on Sundays with kangaroo tails as evidence of their activity, surrounded by kangaroo dogs - as a lesson to their younger townsfolk.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

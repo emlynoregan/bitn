@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. R.J. Daddow writes on the Broken Hill strike.  While being careful not to condone acts of violence, he generally expresses admiration for the miners and their organisation and their overall restraint.  The wonder is, he says, that shareholders do not see the wisdom of a conference to resolve the issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

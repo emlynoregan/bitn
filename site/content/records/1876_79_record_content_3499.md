@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Entertainment. Review of Webb's Royal Marionettes. There was a moderate attendance on night one, but it was well attended the other two. The matinee was cancelled without reason being given. The minstrel program was the usual with `Bones' and 'Tambo' and five darkies in all. A good show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

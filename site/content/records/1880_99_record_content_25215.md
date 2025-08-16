@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mrs Kennedy leaves today to make a six-month tour of NSW.  He has been in charge of St Joseph’s Choir and made it one of the best in Burra.  Also she will be missed as a prominent member of the Philharmonic Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

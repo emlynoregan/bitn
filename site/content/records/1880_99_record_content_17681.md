@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Holder moved the formation of a committee to suggest names for recommendation to the company as captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

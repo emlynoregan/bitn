@@ -30,4 +30,4 @@ Burra Malachite
 
 A bout half a ton of Burra Malachite was sold yesterday by Messrs Samson & Wicksteed & Co. in 14 lots.  It realised from 1/1 to 1/3 per pound.  The principal buyers were Burnett & Nathan & Mr Lanyon.  Three lumps sold respectively for £5, £7 and £21.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

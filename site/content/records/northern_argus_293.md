@@ -28,4 +28,4 @@ The Council Overseer Case
 
 On 11 October the Industrial Court ruled that Mr Ronald Arthur Moreland be reinstated as Overseer by the Burra Burra DC and that he be paid his wages from the time of his dismissal to his reinstatement.  A special meeting of Council was called for 15 October to discuss the judgement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

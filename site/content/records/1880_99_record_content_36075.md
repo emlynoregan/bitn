@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Dunstan Jun. complained of a libel published in the Terowie paper comprising an advertisement inserted by a Burra elector and asserted his suitability for election, but had little to say on policy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

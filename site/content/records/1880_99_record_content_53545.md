@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mr [H.C.] W. Fuss has grown some large pears.  We were shown 3 last Saturday that weighed 4½ lb and were delicious.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

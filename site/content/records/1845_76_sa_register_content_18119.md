@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Tuesday was taken as a holiday by storekeepers, who preferred to have their two days at leisure at once instead of on Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

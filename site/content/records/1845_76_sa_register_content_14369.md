@@ -58,4 +58,4 @@ A letter from J.B. Neales was read to electors by the chairman, essentially rest
 
 When it was put to the vote it was doubtful whether Mr Kingston or Mr Clark had the majority, but it was eventually decided in favour of Mr Kingston.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

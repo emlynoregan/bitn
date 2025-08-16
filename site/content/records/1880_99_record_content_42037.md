@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Assoc. met at the Burra School last Saturday.  Representatives came from Baldina, Burra, Farrell’s Flat, Hallett, Hanson, Manoora, Terowie, Ulooloo, Copperhouse and World’s End Creek.  [Note the use of the name Hanson in place of Daviestown.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

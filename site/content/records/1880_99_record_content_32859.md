@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Arbor Day was celebrated at schools in SA yesterday and a small amount of tree planting was done in the Burra School grounds supervised by Mr Wittber.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

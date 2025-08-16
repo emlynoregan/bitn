@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 W. Smithers-Gadd JP and Ex-Mayor of Fitzroy in Melbourne is visiting Burra, where he was born, though leaving here as a child.  His grandfather, the late William Hill James, was the first assayer at the mine.  Mr Gadd visited the mine, the Institute, Hospital, State School and the Churches and was received by the Mayor, W.T. Rabbich.  He was the guest of his brother-in-law, Mr W.G. Martin, stationmaster.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

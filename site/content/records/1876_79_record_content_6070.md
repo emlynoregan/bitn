@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Cricket. Kapunda v. Burra at Aberdeen. The Kapunda team arrived Friday evening and stayed at the Commercial Hotel. Play began at 9.30 a.m. on Saturday. Burra 53 & 26 for 5 defeated Kapunda 56 & 22.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

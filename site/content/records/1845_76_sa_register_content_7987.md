@@ -26,4 +26,4 @@ Patent Copper Co.
 
 Forty-three men connected with the works of the Patent Copper Company have returned from an unsuccessful trip to the diggings and are now seeking employment at their former occupations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

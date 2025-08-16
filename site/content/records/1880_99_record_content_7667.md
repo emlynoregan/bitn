@@ -30,4 +30,4 @@ Council accepted with thanks 50 cork elms from Mr C. Gall, for the Recreation Gr
 
 The wall at the Recreation Ground has been finished and trees will be planted at once.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

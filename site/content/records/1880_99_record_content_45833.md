@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Edwin C. Thomas on 23, 24 & 25 June gave a series of limelight exhibitions on the subject of ‘Modern Babylon, or a Trip to London’.  There was also a treat for the young on the last two nights with the comic element to the fore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

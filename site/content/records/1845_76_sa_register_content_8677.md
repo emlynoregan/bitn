@@ -28,4 +28,4 @@ Railways in SA
 
 The Adelaide Times has made some calculations to show that railways in this colony would necessarily be an unremunerative investment.  We insert their calculations as a matter of fairness, as we have been an advocate of railways.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Institute Reform writes urging the Institute Committee to borrow money needed to carry out improvements.  There is a need for rooms at the back and a decent curtain.  At present to exit from one side of the stage and enter at the other you have to leave the building and negotiate the rocks behind the building.  The writer maintains that the benefit societies are overcharged.  His complaints all relate to poor stage facilities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

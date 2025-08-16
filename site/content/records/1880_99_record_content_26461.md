@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Adelaide property values are beginning to rise again.  A block opposite Parliament House that went begging a few months ago at £4,000 was sold this week for £13,000 and a large coffee palace will be built on it by Victorian capital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

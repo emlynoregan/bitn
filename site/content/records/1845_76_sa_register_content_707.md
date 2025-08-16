@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Mr James Chambers is making arrangements to run a weekly conveyance to and from the Burra Burra Mines.  He intends to depart Adelaide early Monday afternoon, sleep overnight at Gawler Town, proceed on Tuesday to the Gilbert and arrive at the Mines Thursday morning.  The return trip will leave the Mines Friday at 10 a.m., reaching Adelaide Saturday night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

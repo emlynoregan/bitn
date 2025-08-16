@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr H. Tomkinson, teller at the Bank of Australasia for about 2 years has been moved to Adelaide and Mr W. Richardson will be promoted in his place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Then 'no less than three councillors voted to reappoint the old man [Littlejohn]
 
 The editor comments 'We are aware that it is a serious question and our correspondent has found it out now it is too late.  The £31-4-0 must be paid all the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

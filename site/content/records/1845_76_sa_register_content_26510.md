@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Trade.  The district’s townships are looking busy on account of the number of teamsters taking loading to the north and northeast for the shearing season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

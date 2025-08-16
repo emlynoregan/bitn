@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Football. A meeting is called for next Wednesday evening at the Commercial Hotel for the formation of a football club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

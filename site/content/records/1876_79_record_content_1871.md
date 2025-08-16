@@ -44,4 +44,4 @@ Accident: N. Opie, A.E. Jaffrey, C. Preece were thrown from a buggy when the hor
 
 Burra Parl. Club met last Tuesday, but there was no quorum. Mr. Ball, the Chief Secretary, moved that the club be dissolved in favour of a more general debating club if one were desired - religious questions, he felt, would have to be rigorously excluded. Party feeling had grown too strong for the original intention of the club to survive. Mr P. Lane suggested that without a quorum the club could not be dissolved and would have to die a natural death. Others concurred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -43,4 +43,4 @@ No labour troubles presently threaten and a prosperous year seems in prospect.
 
 General elections are due in April.  We will have the Leader of the Opposition declare his policy in Burra.  Federation will be a prominent question.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

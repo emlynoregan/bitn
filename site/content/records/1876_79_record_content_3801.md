@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rabbits. In the H. of Hallett rabbits have severely reduced many farmers’ crop yields. One farmer got only half a bushel per acre and others only 3 bushels. Some have however got as much as 20 bushels per acre, with the average being a little over 7 bushels per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

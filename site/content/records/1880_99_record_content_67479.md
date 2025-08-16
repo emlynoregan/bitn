@@ -75,4 +75,4 @@ Mr Hardy moved ‘the matter be allowed to stand over for the new Council to dea
 
 [The report is not very clear about what happened next, but it seems that Hardy’s amendment was lost and the Cox motion carried, which then allowed the question to be put to the ratepayers at the municipal election on 1 December.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

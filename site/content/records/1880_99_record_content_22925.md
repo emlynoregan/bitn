@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Union had a full house for their Saturday evening ‘free and easy’ at their rooms in Thames St.  Entertainment comprising songs, recitations, stump speeches, step dancing, musical selections and Negro sketches.  On other evenings the room is open for draughts and reading and they plan to have a debate one night a week.  It seems to be well on the way to transforming itself from being merely an opposition to the Salvation Army into a useful institution in its own right.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

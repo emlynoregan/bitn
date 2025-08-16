@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  W. Pearce Jun. has presented a silver cup for a series of firing matches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

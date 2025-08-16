@@ -31,4 +31,4 @@ W. Lewis:
 
 He favoured a smaller House of Parliament, simpler land laws, thought land should be sold by tender, that large estates were a curse to the country and that land should be let on lease.  A man should not be allowed to own 10,000 acres and leave it idle.  Mining ought to be encouraged.  He would tax all single Chinamen £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

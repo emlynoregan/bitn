@@ -27,4 +27,4 @@ Kapunda News, 11 August
 
 The English & Australian Copper Co.’s mule team passed through the town last week with fifty tons of copper.  I could not help comparing the copper with that produced at our smelting works; the former is dark-coloured, honeycombed, and badly shaped, while ours is even, smooth, and reflects great credit on Mr Jones, the able Superintendent of the smelting works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Obituary.  Stanley Pearce, aged 15 years 6 months, youngest son of William Pearc
 
 [Born 1 February 1884: died 4 August 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

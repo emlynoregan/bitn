@@ -33,4 +33,4 @@ Secondly the possibility of the sale of the Burra Mine gives the town prospects 
 
 Against this, as soon as the mine is pumped dry the probability is the town water supply will be cut off as the water table falls.  The new lease must provide against such a contingency.  A large tank excavated near the Chinaman’s garden for the catchment of a sufficient supply of rainwater would be the best possible arrangement, but this must not be at the cost of Council.  We think it best if the Council do again lease the Waterworks, but with a clause that if the supply fails the Government will provide a new supply at their cost.  If this happens the present cost of rates must stand for one year as rent in advance will be paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

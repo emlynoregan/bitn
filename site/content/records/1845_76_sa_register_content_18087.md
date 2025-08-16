@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The exodus to Wallaroo continues; four large wagonloads started on Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

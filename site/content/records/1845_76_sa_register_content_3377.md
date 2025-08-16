@@ -35,4 +35,4 @@ Advertisement.  W.W.G. Nicholls of the ‘Friend of the Million,’ ‘Temperanc
 
 He adds that at the Temperance Hotel discussions of the Science of Society are held in the coffee room and that all men, who wish to be free, should support the Register and the Observer, the only poor man’s newspapers in the colony.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -69,4 +69,4 @@ Mr Victorsen proposed that the committee begin communications with those likely 
 
 The Treasurer said there was already almost £60 in the subscription list from Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -43,4 +43,4 @@ Valuation of Runs
 
 Mt Bryan*, Caroona*, Munjibbie* & Wookongarie*, Gottlieb’s Wells*, Eldoratrilla, Nackara, Black Rock, Mithelili, Pekina, Hummocks, Gleeson’s Middle Run, North End of Mt Templeton, Dunn’s, Old Telowie and New Telowie.  (Munjibbie & Wookongarie are indicated as the northern and southern halves of the same run.)  See a table printed on 21 September for some of the details of the stations marked with an asterisk.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

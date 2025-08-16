@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bon Accord Mine: the pumping engine and pumps are to be moved from the Bon Accord to the Bird in Hand Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

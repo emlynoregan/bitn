@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Notice.  There will be an Attractive Concert in the German Schoolroom, Redruth, Friday 22 December, in connection with Miss Yeoman’s School.  6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

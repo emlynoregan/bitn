@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra will be twinned with Temple in Texas after contact with Kerrville broke down.  Temple is a railroad town on the Gulf, Colorado & Santa Fe Railroad and the Missouri, Kansas and Texas Lines.  Its population is 47,483.  [Further details are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

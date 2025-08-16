@@ -29,4 +29,4 @@ Tenders are called for 100 tons of good trussed hay delivered at Burra Burra Min
 
 8 June 1847.  Henry Ayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

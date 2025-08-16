@@ -21,4 +21,4 @@ publication_slug: record-1880-99
 
 [The identities had to be worked out from the descriptions, but all except Parks were very obvious to me, leaving his identification clear by elimination.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

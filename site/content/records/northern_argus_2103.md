@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Chris McCabe spoke on the philosophy of the BCS and its facilities and performance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

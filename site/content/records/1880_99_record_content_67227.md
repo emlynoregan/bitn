@@ -31,4 +31,4 @@ Burra Slag Extraction Co. at the Smelting Works.  Machinery is working satisfact
 
 A.H. Forder was presented with an illuminated address and a purse of sovereigns at the Council chamber on Friday last.  The Mayor, J. Sampson jun. presided.  Mr Forder was Clerk of the Local Court at Redruth for many years.  The Mayor said he had been associated with him for 24 years and found him a gentleman of the highest order, always obliging and kind.  Mr Forder has resigned and intends to leave the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

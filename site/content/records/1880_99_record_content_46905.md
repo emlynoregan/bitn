@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Pro Bono Publico’ writes warning Cr Rabbich that people in glass houses should not throw stones.  Neither should he get others ‘to fire your bullets’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Lynch was breaking a horse for Mr G. Hiles of Cartapoo last Thursday when the rope entangled him and he fell, breaking an arm.  He was taken to Burra Hospital where it was set, but mortification set in and it had to be amputated at the shoulder.  His condition deteriorated and he died Sunday night.  He leaves a widow and four young children.  [Bernhardt Lynch died 8 November 1891 aged 35.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

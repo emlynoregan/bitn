@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Duty without partiality’ again condemning the lack of action of the Council re the partiality of Inspector Dow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rain this week was splendid, but on Tuesday afternoon it was a regular brickfielder with vivid lightning.  The wind damaged the roof of the White Hart Hotel, removing the front part.  The rain then set in gradually.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

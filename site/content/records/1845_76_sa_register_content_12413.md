@@ -28,4 +28,4 @@ Gawler News, 15 June
 
 The mule teams from the Copper Company’s Works, each carrying 2½ tons of cake copper, reported as having passed through Kapunda on Monday, reached our railway station this afternoon [Wednesday].  The severest part of their journey being at its close; in passing through the heavy bed of wet sand brought down by the floods into Murray Street and which is still allowed to remain two feet deep, to the great hindrance of vehicles of all kinds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Obituary.  George Hiles Cockrum of Mt Bryan died last week.  He was secretary of the Burra Senior Citizens for some years.  [Born 16 June 1904, Adelaide: buried Burra 14 August 1985.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

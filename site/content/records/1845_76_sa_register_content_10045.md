@@ -28,4 +28,4 @@ Sandro writes concerning the search for gold in SA.
 
 As it is intended to send out parties looking for a remunerative gold field, I would suggest the vicinity of the Burra Burra.  Though I do not profess to be acquainted with the geology of that area, I do recall seeing, in about 1846, a person who had come from that area with some pieces of metal which I considered to be gold, as did the discoverer himself.  The man was an experienced miner in South America.  Unfortunately he died before he could return to the district and I am not aware that he communicated the location of the discovery to any relative.  I knew the discoverer for many years and am confident he was telling the truth.  The old saying that gold is not found in the vicinity of copper mines has been disproved by its discovery at the Victoria mine in this colony, which at first was worked for copper only.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

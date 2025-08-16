@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Murder charge - Mrs Colley charged 14 July with murdering her husband by shooting him with a pistol. He was brought to hospital where his hand had to be amputated and he died two weeks later due to loss of blood arising from complications relating to his general state of health. At time he was said to have shot himself when a pistol exploded while shooting a crow. The inquest absolved the hospital. Subsequent information found an intact pistol, though attempts had been made to destroy it with an axe. Mrs Colley had been drunk when visiting the hospital and at the inquest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

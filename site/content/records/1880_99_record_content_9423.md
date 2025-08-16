@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Water Supply.  Mr Hargrave has recommended a new bore, an engine house and a steam engine (not a wind pump) and a 150,000-gallon reservoir with an iron roof.  The cost is estimated at £1,900.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

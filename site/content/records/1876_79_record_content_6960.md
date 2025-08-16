@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 [It was proclaimed the H. of Rees on the 18 September 1879: named after Rowland Rees MP 1840-1904.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

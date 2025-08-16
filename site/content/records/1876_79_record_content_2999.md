@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. St Joseph's Anniversary 11 & 12 Nov. On 12 Rev. Joseph Peterson will lecture at the Institute on `The Sad Consequences of Intemperance'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

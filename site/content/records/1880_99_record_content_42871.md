@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Editorial is an attack on recent criticisms of Australia by Hon. J.W. Fortescue, late private secretary of the Governor of New Zealand and by Christie Murray, an actor and novelist who charged Australians with being: ‘politically corrupt, financially unsound, and of depraved tastes, delighting in foul language and strong liquor.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

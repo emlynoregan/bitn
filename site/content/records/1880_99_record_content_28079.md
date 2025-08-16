@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Wanderer disapproved of how he divides his time between gambling on the turf and prizefighters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

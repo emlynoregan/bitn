@@ -42,4 +42,4 @@ A simplified civil law and lower court fees so we may
 
 ‘not be sat on by the almighty dollar, nor got at by these scheming humbugs the lawyers.  Why should a poor man be got at because he cannot afford to pay the fees demanded.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

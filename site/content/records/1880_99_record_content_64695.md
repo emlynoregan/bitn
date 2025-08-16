@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt’s lecture on New Zealand at the Institute on Friday drew a fair attendance.  Over 90 lantern slides were exhibited by Mr Lapidge.  The pictures were taken by Mr Mitchell, by the way, and featured towns, mountains, lakes, roads, Maoris, scenery and buildings.  The Benevolent Soc. should benefit by a pound or two.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

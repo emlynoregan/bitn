@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. North heads south to the anniversary services at Riverton and Rev. Finch of Riverton will preach at the Bible Christian Church here on Sunday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

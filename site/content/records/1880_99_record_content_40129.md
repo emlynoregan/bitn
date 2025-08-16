@@ -40,4 +40,4 @@ The writer puts much of the problem down to the way Burra has been held to ranso
 
 Last April a move to allow mining on private property was frustrated by ‘the crowd of land robbers in power’.  Remember this when voting next April.  Vote for those who will unlock the land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

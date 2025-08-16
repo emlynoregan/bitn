@@ -57,4 +57,4 @@ Cr Sampson moved that boiling down be not allowed within the Corporation limits.
 
 [The next issue gives the voting as Sampson, Parks, Harris & West for with Rabbich and Hardy against.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

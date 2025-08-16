@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Thanksgiving services were offered at all the Protestant places of worship except the Anglican Church last Sunday for the preservation of the life of HRH the Duke of Edinburgh.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 William Dare of Piltimitiappa writes asserting that farmers should be able to keep as many dogs as they like, free, to enable them to keep down rabbits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

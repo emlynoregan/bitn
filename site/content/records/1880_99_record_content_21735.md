@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Burra Hotel is transferred from Mr W. Young to Mr John Pearce, late of the Kingston Hotel, Mt Bryan.  Effective from 24 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

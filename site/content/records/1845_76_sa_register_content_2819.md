@@ -28,4 +28,4 @@ Advertisement.  William Chace, Little Para, 16 October 1848.
 
 I wish it made known to my brother bullock drivers that on Tuesday 17 October I hoist my flag with ‘Free Trade and Bullock Drivers’ Rights’ and ‘Keep Your Drays at Home’ upon it.  I will proceed to Sod Hut to make a stand until our rights are obtained and published for general information.  Now stick to it and not furl our flag till we get our price.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

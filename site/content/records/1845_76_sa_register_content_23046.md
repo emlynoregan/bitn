@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Ulooloo Gold-field.  Gold has been discovered at Ulooloo Hill about 25 miles northeast of Burra near Messrs Stephens and Brayley’s Run.  Mr Harvey, an experienced digger from Kapunda, recently took up land in the neighbourhood and he and Mr Brayley undertook to seek for gold in the creek.  Two dwt of gold came from three tubs of ‘stuff’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

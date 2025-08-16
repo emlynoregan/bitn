@@ -42,4 +42,4 @@ A new footbridge has been erected in Chapel Street, chiefly owing to the exertio
 
 The Redruth and County of Burra Building Society held its AGM at Redruth on Wednesday evening 3 August.  The accounts showed a credit balance of £159.  Three shares were sold.  The first two brought £14 and the third £12-15-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

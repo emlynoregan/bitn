@@ -35,4 +35,4 @@ In consequence of the enormous prices to which the allotments were run up by the
 
 [Note that this report is inconsistent with the report in the paper of 1 September 1849.  There it is stated that the SA Mining Association secured 77 and Mr Solomon got 15.  This left only 21.  If all 21 were offered at the second sale they could not have realised £377 if the top price was £8.  One, at least, of these reports is therefore unreliable.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

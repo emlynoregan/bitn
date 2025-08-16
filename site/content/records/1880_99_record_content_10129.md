@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Springbank Primitive Methodist anniversary was also very well attended.  Messrs Pearce, Bagg and Dew sent wagons to Kooringa to take a large number of friends with the Brass Band in the lead.  The tea meeting was too big for the room.  Finances are going well and the chapel hopes soon to be free of debt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

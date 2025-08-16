@@ -37,4 +37,4 @@ J. Rooney also writes - with the view that the recent court case merely upheld l
 
 ‘wit, however, seems to have been dealt out long before his advent into this “world of cares and sorrows” . . . the ass knows no better.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Banks.  An article discusses the recent failure of several Colonial banks, especially in Victoria, and the fraudulent behaviour of bank officers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

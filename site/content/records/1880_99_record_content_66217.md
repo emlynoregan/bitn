@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Grace Ewins, aged 86, died on 27 April at her residence in Thames St.  She was the mother of Mrs Thomas Edwards, Mrs Price and Mr C.H. Ewins.  [Registered as dying aged 87: wife of John Ewins]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 SAR.  There is a request to the Government to lay a third line from Terowie to Adelaide to permit narrow gauge goods traffic to travel to the city without reloading.  This would also accommodate traffic from Yorke’s Peninsula.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

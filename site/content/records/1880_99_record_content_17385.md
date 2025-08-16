@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Editorial on the Threat of War with Russia.  Russian warships were known to be in the Indian and Pacific Oceans with a consequent threat to the cable between Banjoewangi and Port Darwin.  A raid on Adelaide was possible, though its position on a gulf would be dangerous for a Russian ship to linger in.  SA would be protected by its navy - the Protector - and two land forts [Largs and Glanville] and by a military road between them, though this was in a bad state and a railway should be laid along it as soon as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

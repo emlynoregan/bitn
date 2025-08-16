@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A Mill Wanted at Burra.  The Burra correspondent writes urging the need for a flour mill at Burra. He says there is an engine standing idle at the Bon Accord Mine and sheds nearby that would hold the necessary apparatus.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

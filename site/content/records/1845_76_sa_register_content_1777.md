@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Thefts.  A traveller from the Burra Burra neighbourhood reports that stealing of horses and cattle is becoming very common in that district and several settlers have lately been sufferers.  The perpetrators have so far eluded police, but with Sgt Rose’s tact and experience we can soon expect some favourable results.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

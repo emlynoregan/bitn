@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Xmas Eve was busy in town and good business was done till a late hour.  The crowd was larger than 1896 indicating an improvement in the times.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

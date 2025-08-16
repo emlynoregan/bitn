@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cycling.  An enthusiastic cyclist of Baldina has laced his bike tyre with greenhide to protect it from damage and he rides the rough country while others are sidelined repairing their Dunlops.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

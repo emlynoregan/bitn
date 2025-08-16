@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The shops were well stocked and busy and bright with extra lamps, candles and Chinese lanterns.  Christmas tunes could be heard from Mr Wheatley’s able musicians and the can-can ‘Fire Away’ of the Salvation Army grated in the ears of all visitors to Market Square.  Crowds began to disperse about 10 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

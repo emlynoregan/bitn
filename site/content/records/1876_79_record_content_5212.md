@@ -30,4 +30,4 @@ The Mayoralty. There is
 
 an unusual advertisement by ‘JONES’ of almost a column in the form of a conversation between B. & J. on who is the better candidate for mayor: Lipsett or Nesbitt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mark Dandy, aged 80, groom at the Mt Bryan hotel, broke his leg on Monday when he slipped under a young cow he was trying to get into a bail and he was brought into the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

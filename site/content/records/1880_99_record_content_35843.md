@@ -27,4 +27,4 @@ Editorial on ‘The Revolution of Labour’
 
 The writer discusses the awakening of political consciousness of the masses, citing the recent struggle of the dockers and strikes in other industries and troubles with bakers in Sydney and miners on Yorke Peninsula.  If they but knew their own strength they could be ruled by their own class in Parliament.  He urges workers to ‘secure men of ability to lay claim to your interests in the House of Assembly.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

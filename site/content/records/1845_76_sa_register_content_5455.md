@@ -36,4 +36,4 @@ Accident/Obituary.  About a fortnight ago a terrible accident occurred to the wi
 
 [The absence of names here means identification is not straightforward, but the following information is quite persuasive.  Marriage registrations for SA show a Fredrick Paterson married Bridget Ambrose on 5 October 1850 at Clare.  Bridget gave her age as 19.  On 17 December 1850 Bridget Patterson died.  She was then said to be 16 and her marital status was not stated, but the relative is said to be Frederick Paterson.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

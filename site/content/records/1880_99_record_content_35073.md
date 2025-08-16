@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather & Agriculture.  The Christmas and New Year period was very hot.  To the east in Baldina glorious results have been secured.  One large farmer there reports 17 b. per acre.  Late rains have damaged crops to the west where rust has appeared; still on the whole it has been a year with nothing considerable to grumble about.  Some areas of Baldina are producing 20 b. per acre.  We hope this will encourage the erection of an irrigation system there as the value of the soil is proven.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

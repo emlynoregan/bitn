@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mining Shares continue to attract investment: Beltana Broken Hill recently got £50,000 in 48 hours and many are doing similarly well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

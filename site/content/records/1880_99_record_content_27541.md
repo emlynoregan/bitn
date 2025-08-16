@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 SA Parliament select committee urges SA to produce more grapes for wine as well as for drying.  Also promotes the growth of fodder crops like clover and saltbush and thinks silk, apricots, bees and ostriches should also be looked at as possibilities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

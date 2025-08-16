@@ -30,4 +30,4 @@ John Vivian who is in the service of SAMA writes complaining of how he was refer
 
 William Geake writes that the statements made by W.R. Ridgway about him in the last issue were not true and he would air the matter before the ratepayers any time they liked. The editor hopes `the Ratepayers have something better to do than meddle in this affair.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

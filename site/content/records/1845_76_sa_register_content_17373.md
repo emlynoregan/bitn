@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Miners are observing the strike at Wallaroo and Moonta with interest.  Many have been there and returned disgusted, being unable to obtain wages sufficient to compensate for the arrogance suffered under a Captain, who a short time ago was one of themselves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

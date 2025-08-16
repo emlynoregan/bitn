@@ -28,4 +28,4 @@ Advt.  For an Institute Caretaker/Librarian at the Burra Institute at £65 p.a. 
 
 N.B. ‘Applicants who canvas for votes among members of the Committee will be disqualified.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

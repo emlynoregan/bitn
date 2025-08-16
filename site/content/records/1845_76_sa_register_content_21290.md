@@ -33,4 +33,4 @@ Inquest/Obituary.  Mr Isaac Turner, a resident of Glendore was near his home wit
 
 [Isaac Turner died 22 October 1867 Black Springs aged 42.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

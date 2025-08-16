@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Herbert (Bertie) Williams, the only son of C.C. Williams died suddenly and unexpectedly last Friday, aged 6.  [Born25 January 1893: died 21 April 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

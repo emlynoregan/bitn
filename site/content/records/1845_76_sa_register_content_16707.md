@@ -34,4 +34,4 @@ Obituary/Inquest.  George Ferguson, whose place of residence seems to have been 
 
 [Registered as George Ferguson died 16 July 1863 Adelaide, residence Burra.  Birth registrations suggest his wife was Julia nee Bolster and the children were George born at Kooringa 13 February 1861 (and died there 20 June 1864) and Julia born 12 June 1862.  None are readily traceable beyond this.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 This was a gossip column that appeared from time to time in which ‘Mr Skite and Mr Gossip Meet’ and discuss local affairs of the week.  Many of the references are too oblique to be understood or to be of much interest now.  Some of the events referred to are covered in other parts of the paper.  The column claims to be ‘contributed’ but the tone and topics are rather suggestive of W.H. Hardy, though this must remain speculative.  One aspect of interest about it is that it hints at changes in the town not necessarily discussed at length in other articles.  One such is the exodus to Broken Hill which is evidenced by departures, farewells etc., but never seems to merit a feature article of explanation or an attempt to actually quantify the problem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

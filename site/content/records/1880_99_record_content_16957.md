@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Cricket.  Last Saturday a Combined 15 scored 85 to defeat a Combined 11 on 26 & 58.  A win by an innings and a run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

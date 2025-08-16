@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Bible Christian anniversary last Sunday & Monday. Rev. J. Thorne of Gladstone preached. The income for the year of £244 enabled considerable outlay for repairs and improvements to the minister's residence and allowed a£100 reduction in church debt to c1500.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

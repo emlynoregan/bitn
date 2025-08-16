@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 If all would agree to close earlier none would be losers.  As it is shop assistants work 12 to 13 hours a day and 18 hours on Saturday.  Labourers work only 10 hours and have Saturday as a half holiday.  The request is to close at 6 p.m. in winter and 7 p.m. in summer and at 9 p.m. on Saturday.  Retail drapers close at an earlier hour than this in London and other large centres in England and many have Saturday as a half holiday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

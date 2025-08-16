@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The phonograph was exhibited in Burra at the Institute on Thursday, but to only a poor audience.  There was an explanatory talk about the machine and a short account of Edison, the inventor.  The cornet solos, selections by the Coldstream Guards and comic and other songs were distinctly heard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ The Mayor said if the rate of interest comes down the Council had almost decided
 
 The concession was worth c. £169 p.a. and that would enable them to make the works pay.  The meeting resolved as previously reported to advise the surrender of the lease if the concession was not granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

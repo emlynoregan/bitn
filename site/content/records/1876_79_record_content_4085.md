@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Gladstone Correspondent reports the railway is open to Caltowie and approaching Jamestown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

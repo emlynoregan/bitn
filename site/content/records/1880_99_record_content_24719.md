@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘A Wanderer’ complains that the Salvation Army is obstructing a public place, Market Square, where they are ‘shying pennies at each other and howling a lot of blasphemy, to the tune of a comic song, namely Fire Away.  It is time for reform.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

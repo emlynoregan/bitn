@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 From ‘A Member’ complains about the offensive behaviour of others at the Institute.  Much of his annoyance seems to come from the affectations of those strutting and mincing around, displaying themselves and their personal ornaments, but he also takes offence at those who place their feet on tables and chairs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

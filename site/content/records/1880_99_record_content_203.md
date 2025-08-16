@@ -38,4 +38,4 @@ Cr Lewis was granted 6 weeks leave as he would be absent from the town.
 
 Land Payments.  A meeting at Mr Midwinter’s at Baldina on 8 January decided to ask the Government for further concessions re the payments due on land, in view of the crop failures.  Many farmers had reaped only 1 to 4 bushels per acre.  They had payments deferred last year, but were now even worse off.  Mr Midwinter asked for a further two years to pay the interest and then three years to pay the principal.  (Carried)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

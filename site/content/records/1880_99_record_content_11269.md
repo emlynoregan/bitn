@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Coglin, having been asked to stand addressed the group.  South Ward had the problem of many creek crossings and a small income to cover the outlay.  The road to the cemetery was an urgent need.  He felt this should not be a South Ward responsibility alone.   He was in favour of increasing the size of South Ward to increase income.  Cr Ward, who is retiring was not present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

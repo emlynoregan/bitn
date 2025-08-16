@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [The list of toasts was typical of formal social gatherings and is included to give an idea of the practice.]  Between the toasts various items of entertainment were presented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

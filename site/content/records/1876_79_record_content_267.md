@@ -44,4 +44,4 @@ It was resolved that the Council would meet every Monday fortnight in a room of 
 
 Advertisements would be placed for a Clerk & Surveyor and Inspector of Weights & Measures.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

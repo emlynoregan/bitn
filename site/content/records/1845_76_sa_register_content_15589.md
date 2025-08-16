@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Election Notice.  J. Bentham Neales agrees to stand as a candidate to represent the electors of Burra and Clare in response to a requisition with 106 signatures.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

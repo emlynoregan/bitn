@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A Bolt.  As Mr Bath’s assistant was delivering goods at a house in Commercial Street the other afternoon the horse bolted down the street.  It made towards its stable and in turning the corner at the National Bank the cart was overset and the shafts broken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

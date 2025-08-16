@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Works in hand: North Ward, road near the gaol; East Ward, kerbing; West Ward, repairs to the small bridge near Mr Lewis’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  Wanted, a situation as overseer or manager of a sheep station by a married man who has 12 years’ experience as such.  Unexceptionable references as to capability can be given.  Address Z. Coonatto, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

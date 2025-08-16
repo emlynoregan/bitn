@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. Show Society ploughing match at Messrs C. & E. Gebhardt's Section a mile north of the railway station oh 8 August. Single plough l prize, £5; boys under 16, £3; double plough, £7. Followed by dinner at Broads, Aberdeen — tickets 4/- each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

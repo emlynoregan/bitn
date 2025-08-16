@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Notice.  THOMAS HALLS, THE POPULAR DRIVER (lately in the employ of C. Schutz) respectfully informs the Public that he has secured the line of CABS, known as MORRISON’S and trusts by civility and strict attention to business to merit a share of public patronage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

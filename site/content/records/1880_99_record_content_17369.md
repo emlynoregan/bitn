@@ -31,4 +31,4 @@ Letter from ‘Ratepayer’ asking: -
 
 2.	If they are saving money why pay 2/- a week for stabling the useless water cart and why pay to make footpaths and allow them to be cut up by cart and washed away by water from the roofs of SAMA cottages, or doing away with the solicitor and paying through the nose when advice is needed, or paying the Overseer of Works £30 p.a. for doing nothing, or repairing tree guards when the inspector ignores them . . . [And so at some length.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

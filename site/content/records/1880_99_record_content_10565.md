@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Snow.  Report from Mt Bryan East, 4 September.  Snow fell all through last night - about 2 inches at Mt Bryan East, but 7 inches on the mountain, rising in places to 12 inches.  It was the heaviest fall in over four years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

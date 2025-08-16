@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fancy Dress Tournament at the oval last night. [The next issue makes it clear this was organised by the Burra Accidental Bicycle Club which was putting on the 50 mile race.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

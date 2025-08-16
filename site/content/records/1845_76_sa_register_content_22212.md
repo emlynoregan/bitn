@@ -36,4 +36,4 @@ It has been very cold.  Yesterday morning pools of water had half an inch of ice
 
 Men with loaded wagons are a constant sight on Sundays.  Last Sunday a wagon was stuck in front of the Wesleyan Chapel at Glendore during the service and the driver beat the horses shamefully.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

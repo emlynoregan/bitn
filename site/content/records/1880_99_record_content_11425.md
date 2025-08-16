@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Program for the Rose of Sharon Tent IOR Picnic & Sports Day on 26 December.  It includes a 440-yard ‘Wheel Race’ for a 20/- prize and a Bicycle Race of 5 miles with prizes of £5, £2 & £1
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

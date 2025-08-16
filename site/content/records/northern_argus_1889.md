@@ -29,4 +29,4 @@ East Bungaree ram and ewe sale saw the top-priced ram sell for $2,050.  [Photo &
 
 The annual Burra merino and poll merino ewe sale saw ewes sell to $210.  A total of 782 sheep were sold.  [Further details are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

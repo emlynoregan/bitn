@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Henry Price and another claimed £200 from William Henderson in breach of an agreement to give the plaintiff time to chaff certain stacks of hay and to hold over a summons on condition of the plaintiff’s handing over a policy of insurance on the said hay to the value of £200.  The defendant said he had refused to accept the policy on advice from John Sampson as it offered no security and was thus unacceptable.  Henderson apparently failed to write to Price acquainting him of this fact.  Verdict for the plaintiff in the sum of £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ There is a need for rates to be paid now as bonds and interest fall due in July.
 
 The Waterworks are going well.  The engineer reported on the Leigh Creek coal sample given him and said it was deficient in oily hydrocarbons, is practically flameless and leaves a great deal of ash.  It would not do for winter, but would be satisfactory in summer if used with wood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

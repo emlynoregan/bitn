@@ -29,4 +29,4 @@ Burra’s Jubilee 150 Float is taking shape.
 
 [Photo of the model of Morphett’s Enginehouse being painted by Roger Boehm.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

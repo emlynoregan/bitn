@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mrs Williams provided the matches on the impression the boys were fetching them for the father.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ The Aged Hostel Accommodation Committee has begun steps to get hostel-type accom
 
 Harry Quinn was re-elected Chairman with Ron Thamm as Vice-Chairman.  John Maidment replaced Michael Scholz who resigned from the Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

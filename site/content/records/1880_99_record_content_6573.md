@@ -27,4 +27,4 @@ Cricket, Saturday.  Muffs 66 defeated Burra 34
 
 Though the latter were a motley collection scarcely worthy of the name of a team.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

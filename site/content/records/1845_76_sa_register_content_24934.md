@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A Service of Praise was produced by members of the Tonic Sol-Fa Classes in the Wesleyan Chapel yesterday (13th).  They were under the direction of A.H. Forder.  Of particular note was the contribution of a dozen little girls aged 6-9 or 10 who were members of the Band of Hope class and were placed in front of the other choristers.  [Details of the hymns and order of service are printed along with names of performers.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

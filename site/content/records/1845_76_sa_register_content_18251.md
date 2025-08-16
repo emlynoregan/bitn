@@ -27,4 +27,4 @@ Election Meeting
 
 Messrs G.W. Cole & J.B. Neales attended the newly appointed polling place of Steelton on Thursday 9 February to address electors, but the short notice and the fact that farmers were engaged in field work meant that no meeting could be arranged.  In the evening a meeting was arranged at Hamilton and about 20 electors attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

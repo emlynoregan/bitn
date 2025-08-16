@@ -42,4 +42,4 @@ An entirely local company; the Great Extended Waukaringa Co., of 20,000 shares w
 
 Shearing is becoming general with teams loaded with provisions and numbers of shearers leaving the town every week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

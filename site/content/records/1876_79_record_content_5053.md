@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Crops in the Baldina area are virtually a complete failure, except for some in the hills. Only crops grown on the western boundary hills in the Hs of Bright & Baldina will be worth anything this year and similarly in H. of Mongolata. West of Burra the season looks very good with a bountiful harvest in prospect and few rabbits in evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

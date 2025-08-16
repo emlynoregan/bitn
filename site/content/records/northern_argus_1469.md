@@ -48,4 +48,4 @@ Minimum rates Townships of Booborowie, Farrell Flat & Mt Bryan $160
 
 Minimum rates elsewhere $100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

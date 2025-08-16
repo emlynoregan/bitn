@@ -28,4 +28,4 @@ Kooringa News, 18 December
 
 The wet and boisterous weather that has afflicted the rest of the colony was also felt here.  It is altogether unprecedented for this time of the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra YMCA met on Friday when E. Hosking read a paper: Points of similarity between the British and the Israelites, to lead a discussion.  W.H. Hardy then read one on Evolution.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

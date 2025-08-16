@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Court of Revision for Burra & Clare was held at the Burra Hotel on 20 August.  T.W. Powell objected to three names being retained on the list and they were accordingly struck out.  Several clerical errors were rectified.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

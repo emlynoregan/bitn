@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 `... we hope that democracy will never have unlimited rule for we are satisfied that the best possible form of Government is a despotic one, always provided that the despot is imbued with uprightness and justice. Self-government is no government and the only reason for allowing the people to assist in the work of government is that a community for very selfishness and self-seeking is less likely to perpetuate (and too fickle to constantly maintain) a system of misrule, than an evil disposed despot.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -38,4 +38,4 @@ Adelaide-London Telegraph
 
 On Tuesday a number of messages, congratulatory and other were received from London.  One came for His Excellency from the Agent General and another from Lord Monck, the Chairman of the British-Australian Telegraph Co.  In the Afternoon the Mayor of Adelaide received one from the Lord Mayor of London.  The text of these telegrams is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

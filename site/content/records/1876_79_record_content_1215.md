@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Baldina Creek ford a disaster bullock teams having carted wool for days from far to the east had either to make a long detour or unload half their wool to negotiate it. Not a real constructed ford at all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Editorial on the Government’s Parliamentary activity in the past week, especially concerning the Railway Bills:  North-West bend [Morgan] Bill passed its second reading and the Jamestown & Gladstone Bill passed.  The latter will provide a much needed service to an area already with substantial settlement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

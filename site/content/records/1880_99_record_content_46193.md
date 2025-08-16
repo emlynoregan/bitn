@@ -28,4 +28,4 @@ Advt.  Burra Mounted Rifles will hold a Military Ball at the Institute 24 August
 
 Music by Setaro’s Canary String Band.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

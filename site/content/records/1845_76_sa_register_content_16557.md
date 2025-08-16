@@ -29,4 +29,4 @@ Men had been quite busy making the main road.  The new road is only 18 feet wide
 
 The Primitive Methodists opened a bazaar today in the unoccupied shop adjoining the chapel.  Profits will go towards liquidating the debt on the Redruth Chapel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

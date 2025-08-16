@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Jubilee of Wesleyan Methodism in SA.  There will be celebrations in Kooringa on Sunday 24 October.  On Wednesday 27 October a UNITED LOVE FEAST will be presided over by Rev. T. Lloyd, Chairman of the District.  This will take the form of a banquet at the Lecture Hall at 4.30 p.m. with a public meeting at 7.30 p.m. with a series of addresses and supper to follow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

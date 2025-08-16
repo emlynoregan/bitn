@@ -31,4 +31,4 @@ Linwood News, 3 May
 
 A meeting was held at Light Bridge Hotel, Linwood, last Saturday to consider the best means to be adopted to petition the House of Assembly to replace the Old North Road on the schedule of main roads, so that it might be repaired from Forresters to Grotegut’s.  It was resolved to form a committee and to convene a public meeting on the subject.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

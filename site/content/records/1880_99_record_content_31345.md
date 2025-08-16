@@ -30,4 +30,4 @@ The Balance sheet of the Council is suggestive of changed times and of why the C
 
 In 1886 public works expenditure was £1,227-9-11
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

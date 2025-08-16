@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Perambulators.  We warn mothers about leaving perambulators with babies outside shops unattended.  Yet another ran off the footpath and tipped over last Saturday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

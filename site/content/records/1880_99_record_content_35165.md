@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on Taxation Reform.  A progressive land tax disadvantages those who develop their land and favours the non-developing absentee owner.  An all round property tax would be a fine against all workers.  We believe in a tax upon unimproved land values.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

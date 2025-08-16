@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr David Mackay, an old resident who formerly carried on a business as a tinsmith and ironmonger in the premises now occupied by Mr Kitchen, died from syncope on 23 September, aged 60.  The death occurred in Portland, Victoria, where he had lived after returning to Australia from a visit to Scotland.  [Syncope is heart failure.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

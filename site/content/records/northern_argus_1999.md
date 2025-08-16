@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Carols Service will be held at the Burra Civic Centre Sunday 14 December at 7 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

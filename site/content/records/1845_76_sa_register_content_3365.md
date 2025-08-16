@@ -36,4 +36,4 @@ Do not lose sight of the fact that a few actions such as these will, if successf
 
 [The letter is long and the advocacy more detailed and flowery.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

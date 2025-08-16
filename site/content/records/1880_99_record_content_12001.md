@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on the Town Rate.  The writer approves of its staying at 1/- in the £, especially as it maximises the Government subsidy which is soon to end.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

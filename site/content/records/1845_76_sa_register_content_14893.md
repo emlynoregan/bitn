@@ -31,4 +31,4 @@ The lost boy was found this morning at Princess Royal, about seven miles from ho
 
 [Henry Hilton born 8 November 1856 Kooringa to George and Dinah nee Mann.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

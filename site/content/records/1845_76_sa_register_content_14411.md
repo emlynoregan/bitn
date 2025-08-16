@@ -27,4 +27,4 @@ The Bon Accord Mine
 
 We understand operations are proceeding in a satisfactory manner.  Specimens from the lodes have been sent to Adelaide in the last few days and the captain reports the prospect of an abundance of copper at the 50 fathom level.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

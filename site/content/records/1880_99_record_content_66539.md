@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  The Manoora Club visited Burra and played a game on Saturday at Victoria Park in thick fog and high wind.  At times the one goal could not be seen from the goal at the other end.  Manoora 1.11 (17) defeated Burra 1.6 (12)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

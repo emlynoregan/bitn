@@ -31,4 +31,4 @@ Water at Burra
 
 A well-known shoemaker in Commercial Street has bought a property on which there was a well, to which, up till then, the surrounding inhabitants had free access.  When he tried to stop this practice, four women drew up in single file and assailed his back door with stones ‘of no small dimension’.  Corporal Bolus arrived just in time to save the door from being smashed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

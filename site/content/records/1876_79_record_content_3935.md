@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Tweed Factory. A meeting of tradespeople on Tuesday decided to send a deputation to visit the factory at Lobethal to obtain ideas, costs and to look at machinery etc. J. Butterworth and James Miller selected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

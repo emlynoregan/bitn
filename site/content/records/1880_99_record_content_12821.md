@@ -31,4 +31,4 @@ George Williams, eldest son of Mr G.T. Williams of Norwood and
 
 Elizabeth Luke Richardson, eldest daughter of Mr A. Richardson near Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

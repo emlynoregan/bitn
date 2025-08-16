@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 F. Treloar, late Chairman of the Hanson District Council, berates the writer ‘Davieston’ on the subject of the Farrell’s Flat road.  Not only were all East Ward rates spent within the ward, but a special Government grant of £100 and £20 from other wards too.  No Council could do more.  The lion’s share of this expenditure went on the main road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

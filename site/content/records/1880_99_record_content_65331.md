@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Photograph [A rare thing] of Salvation Army Officers dressed in national costumes in honour of ‘All Nations Fair’ at the Barracks last week.  [Apparently taken at the Record Studios.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

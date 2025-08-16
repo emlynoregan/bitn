@@ -30,4 +30,4 @@ Advertisement.  Tenders are called by the Office of Public Works, Adelaide for t
 
 Edward A. Hamilton, for Colonial Architect.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

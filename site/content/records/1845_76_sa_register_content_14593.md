@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 William Dale writes denying the report in the Register that he disturbed the Kingston meeting at Mintaro.  An elector asked him a question and some commotion broke out when he refused to answer, eventually doing so through the chair as a necessity.  [He also says about eight voted against Mr Kingston, rather than two as reported.  He can name most of them if required.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

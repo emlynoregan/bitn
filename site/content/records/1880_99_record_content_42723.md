@@ -28,4 +28,4 @@ Editorial on The Moonta Mines
 
 Early in the year miners wanted better working conditions including higher pay for surface hands who were then earning 4/6 a day.  (Nominally they were getting more, but it was reduced to this by intermittent contracts.)  Directors refused as the mine was said to be barely paying its way.  This led to a strike and work stopped, though they kept the pumps going.  The editor is concerned about collateral damage to SA and Moonta businesses: ‘strikes are a very barbarous method of dealing with trade and labour disputes’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

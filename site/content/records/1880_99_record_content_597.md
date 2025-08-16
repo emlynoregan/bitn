@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Wheat.  The eastern districts have sent in 78,066 bushels of wheat which fully justifies ‘the throwing open of this land and shews how it is that Burra continues to flourish in spite of the stoppage of the mine.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

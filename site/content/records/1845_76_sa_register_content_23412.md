@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Agriculture.  The copious rain recently has given wheat a good start all along the extension railway from Tarlee to the terminus at Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

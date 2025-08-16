@@ -28,4 +28,4 @@ Redruth Court.
 
 Young sued Henderson for £2-12-6 for a quarter’s instruction + £2-10-0 in lieu of a quarter’s notice to withdraw the child from the school.  There was no evidence presented re the contract entered into, or even an advertisement of the school to assist.  The court ordered a payment of 18/6 for one month’s tuition and the cost of some books.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

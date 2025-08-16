@@ -28,4 +28,4 @@ Alleged Gold Discoveries at the Broughton
 
 Burra correspondents reported in a letter of 24 June that two or three men had returned from the Broughton with about three ounces of gold.   This has induced others to leave Burra for further exploration.  We cannot verify this claim any further.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ Burra Burra DC has achieved a surplus of $11,718 for the financial year ending 3
 
 [Major expenditures are then listed along with grants received to date.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

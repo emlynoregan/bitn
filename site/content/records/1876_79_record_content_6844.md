@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Editorial on the move to open reading rooms and libraries on Sundays from 1.00 p.m. to sunset. This is opposed for religious reasons by some, but for the editor the greater problem would seem to be the denial of the day off for those employed at such places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

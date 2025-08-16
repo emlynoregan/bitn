@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Burra DC has supported the Lewis Board of Management in an approach to the National Estate Program for the renovation and adaptation of the Paxton Street [i.e. Paxton Terrace] row of Paxton Square.  They are applying for $68,000 and will contribute $34,000 of their own funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

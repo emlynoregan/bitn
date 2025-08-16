@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The meeting on Tuesday last saw the debate in committee on the Baldina Irrigation Scheme and then the Corporations Bill and the introduction of the Education Act Amendment Bill to provide free and compulsory education.  Members showed a willingness to get on with it, but the ministry seemed under-prepared.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

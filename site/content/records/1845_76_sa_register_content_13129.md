@@ -37,4 +37,4 @@ The election is creating great interest.  On Saturday Mr Dale addressed electors
 
 Yesterday the Burra Burra Lodge MUIOOF celebrated its anniversary with a procession and dinner.  They listened to an address from the minister at the Bible Christian Chapel in the afternoon and had an excellent dinner in the evening at the Burra Hotel.  Mr Macdonald SM presided.  [The toasts are listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

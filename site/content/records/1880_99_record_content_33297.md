@@ -25,4 +25,4 @@ Handicap Rifle Match 14 August.
 
 1st prize a fat sheep over 80 lb weight.  2nd prize a fat lamb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

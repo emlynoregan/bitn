@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Hallett Flower Show, which has been held now for more than 40 years, will be held on Friday 17 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

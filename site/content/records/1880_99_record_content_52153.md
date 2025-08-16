@@ -32,4 +32,4 @@ SAMA’s Assessment
 
 In the court case where SAMA appealed against the assessment the Association gave evidence via Mr W. West, that the property in question was earning only £50 p.a. from mining plus £50 p.a. from depasturage and the outside value of the land would be £3 per acre for 382 acres.  But the engine and workshops were included.  Mr Bartholomæus had assessed the property at £20,000 in 1890, giving an annual value of £500.  In current terms he felt it was about £2,500 less.  In 1885 J.D. Cave had assessed it at £1,000 and there was no appeal then.  The valuation was upheld.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

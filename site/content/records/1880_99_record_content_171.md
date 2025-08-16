@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 On 25 December on Brewery Flat True Blues 1st 11 101 & 17 for 3 defeated the 2nd Fifteen 46 & 68.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

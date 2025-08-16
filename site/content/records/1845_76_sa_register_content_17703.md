@@ -32,4 +32,4 @@ Parr & Luxmore will auction on 20 September on instructions from Joseph Gilbert 
 
 Improvements include a complete homestead with garden, paddocks, outbuildings, woolshed, store, hydraulic press, 30 outstations, 10 wells, troughs, etc.  16,766 wethers, 10,546 ewes, 4,817 lambs, 170 rams to a total of about 33,000 sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Neglected children.  Four children of John Fitzgerald have been taken into care as being neglected and sent to the Magill School.  Three children of Joseph Christie have been similarly dealt with.  This is a particularly hard case as Christie is known to have remarried and simply stopped providing for the children, who were left with a housekeeper, who of course has not been paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

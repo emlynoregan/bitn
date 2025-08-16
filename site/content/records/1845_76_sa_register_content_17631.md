@@ -27,4 +27,4 @@ The Old North Road
 
 [A further meeting on this theme was held at the Oddfellows’ Hall in Gawler on 28 June.  Essentially the same arguments are repeated and reported at great length.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

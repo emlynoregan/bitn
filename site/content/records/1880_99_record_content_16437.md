@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 [This presumably refers to Government subsidy payable on public works and is also what probably what Cr Sampson was referring to when he mentioned gaining money under false pretences - i.e. the Council would be getting a subsidy on money not actually expended on public work.]  Cr Symons said he [Hirschausen] was already getting more pay than the others.  [This was due to the tender system the Council had brought in at the start of the year and it was hardly Hirschausen’s fault if they were paying him 6d a day more than the others.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

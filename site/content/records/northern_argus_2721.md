@@ -29,4 +29,4 @@ Burra Swimming Pool Board of Management AGM was held last Thursday night.  Chair
 
 For the coming season the pool had been re-painted at a cost of $3,500, so this financial year is expected to end with a deficit of c. $1,500 over the Council’s budgeted deficit of $7,000.  This sum will be drawn from the Swimming Pool Committee’s fund raising account.  Elected: Chairman, John Barton; Secretary, Jan. Jacka and Treasurer, John Brak.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

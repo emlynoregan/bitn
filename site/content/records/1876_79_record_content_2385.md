@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Kooringa Primitive Methodist will hold a Service of Song on "Eva" by the Kooringa Choir next Monday with connective readings. 1/- & children 6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -33,4 +33,4 @@ Obituary.  On 17 August William Lillywhite, a carpenter lately of Boolcoomatta i
 
 [This death does not seem to be registered, but the information above suggests she was Kate Lillywhite born to William and Kate nee Farrell on 14 July 1865 and registered as born at Boolcoonata North East.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

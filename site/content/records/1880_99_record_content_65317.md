@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  John (Little Jack) Jordan, son of John Jordan of Burra, died suddenly at Broken hill last Monday – a trustworthy, bright and willing lad and a good worker, whose death will be regretted by a host of companions.  [Most likely John Harold Jordan born 14 July 1880]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

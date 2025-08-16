@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Tree Planting.  We regret none has been done in the town this year, but the Recreation Ground has been planted and when finished there will be c. 220 trees there; about 100 sugar gums, 50 cork elms and white cedar and pepper trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

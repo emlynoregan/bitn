@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather.  It has been very wintry of late and in the district considerable damage has been done to gardens, fences and telegraph lines.  There has been little rain in Burra, with only 76 points for the month.  Some better falls have been recorded to the east.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

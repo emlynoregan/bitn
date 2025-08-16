@@ -32,4 +32,4 @@ Consequences of the Railway Accident
 
 Until the railway line can be repaired no wheat will be sent south from Burra.  Merchandise bound for Burra and nearby towns will be unloaded near the accident scene and transferred to SA Carrying Co. trollies so that the town will not be without supplies.  The mails are being treated similarly. A temporary wooden bridge will be erected at the site of the accident.  It will eventually be replaced by an iron girder span of about 25 ft.  J.C.B. Moncrieff of the Railway Department has been sent to supervise the work.  He is being assisted for a day or two by Mr Puddy, the Inspector of the Permanent Way.  The passenger service is continuing as usual, though of course there is a slight delay at Peak’s Crossing due to the necessity of changing trains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

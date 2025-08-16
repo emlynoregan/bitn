@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A storm last Friday week extended far to the northeast where watercourses were in flood.  The mail was delayed three hours at Meredy Creek, which was running ten feet deep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

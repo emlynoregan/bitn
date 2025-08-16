@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Wanted at the Burra Copper Works: Refinery Men, Furnace Men, Furnace Mates, Drivers for Mule Wagons, Labourers.  Apply at the Works or at the Office of the English & Australian Copper Co., King William Street, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

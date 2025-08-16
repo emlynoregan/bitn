@@ -28,4 +28,4 @@ Mortuary Returns SA 1866-67.  Extract for Burra District
 
 [Obituary] August Fischer died 8 December 1866.  He had been drinking freely at the Miners’ Arms, Kooringa, on the night of 8 December 1866 where he stayed the night and was found dead in the morning.  A native of Prussia, he had been a miner at the Burra Mine for about 12 years.  He was of intemperate habits with no known relations in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

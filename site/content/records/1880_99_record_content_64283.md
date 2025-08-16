@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Editorial on the graziers’ meeting at the Institute on Friday where over a dozen Hundreds were represented.  Twenty years ago rents were 10/- to 12/- per mile[2] and now they averaged £2-13-4 and there were other rates and taxes.  In the last 15 years 3 had been good and 2 passable.  The problems are not of the graziers’ making, but are due to drought, rabbits and dingoes.  Not far east of Burra there is a block of 40,000 acres which has not returned 1d for the last three years, though over £1,000 has been spent in improvements.  They are asking for vermin-proof fences and security of tenure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

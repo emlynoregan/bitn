@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 [The bride was born Daphne Marjorie Jean Bown.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

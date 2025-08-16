@@ -31,4 +31,4 @@ Accident.  On Friday evening a German farmer named Frahm, living east of Burra w
 
 [Note that the next issue corrects this.  Spiller fell from a wagon of a farmer named Pilman and was on his way to work at Frahm’s, which is apparently how the error arose.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

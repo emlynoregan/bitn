@@ -32,4 +32,4 @@ Eastern Road: Midland Road Board refused money to rebuild the Kooringa Bridge be
 
 Footpaths: Cr. Roberts drew attention to the virtual complete lack of footpaths in the town and especially to the poor approaches to places of worship.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

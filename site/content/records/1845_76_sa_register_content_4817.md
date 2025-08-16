@@ -46,4 +46,4 @@ His Worship said ownership of the shingles was something he could not decide.  E
 
 For the assault Maling was fined 10/- with 25/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

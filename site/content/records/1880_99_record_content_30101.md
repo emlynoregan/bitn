@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 SAMA has offered to sell the 700 acres of the mine freehold and all its machinery and mineral rights over the whole of the Special Survey.  Also 200,000 tons of 4% ore at grass, which therefore contains 8,000 tons of copper worth, at £75 per ton, £60,000.  The price is £25,000.  For £70,000 the purchaser could also get all of SAMA’s properties in the township, both land and premises.  The committee is considering the offer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 John Roach was given a number of volumes of elegantly bound books by the Mayor at the Institute on Thursday in recognition of his help in many public movements and in getting up various entertainments.  Mr Roach responded.  (Present were Revs Father O’Dowling, W.F. James, J.S. Wayland, S.F. Prior and G.E. Rowe and Dr Sangster.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -39,4 +39,4 @@ Many believe this is part of the main lode of which the Burra Burra Mine is a gi
 
 H. Edlin, agent for the promoters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -88,4 +88,4 @@ At an extraordinary general meeting that followed the ordinary meeting the Direc
 
 We are sure that our readers will be gratified, with ourselves, at the continued prosperity of the Burra Burra Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

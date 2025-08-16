@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra DC.  The council has let several contracts to improve the roads in Kooringa and apparently by next winter the residents will have ‘at least a moderately clean pathway over some of the worst parts of the town.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

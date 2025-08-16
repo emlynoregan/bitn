@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Adelaide Exhibition.  Details of the Century exhibition in the city next year are now available from Mr W. Davey, the secretary of the Burra Institute.  Prize funds have reached £500 and the scope of the work is wide, including special competitions in music, pianoforte, violin, singing, laundry work, cookery, student work, for students at the School of Mines etc.  Manufacturers etc. will show goods and trade practices.  It will run through March and April 1900.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

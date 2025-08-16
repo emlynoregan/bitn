@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Institute Reform’ writes that it is about time that the Institute had improvements, especially in the area of decent changing rooms and an improved stage.  The writer also asks why the skating rink gets the hall for £1 a day when Friendly Societies are charged £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

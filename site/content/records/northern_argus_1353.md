@@ -38,4 +38,4 @@ publication_slug: northern-argus
 
 The ‘CollinsvilleRams’ set off for WA last Saturday to compete in the Goldsworthy Black Rock Stakes – a 118 km race run at night on 12 July.  Wheelbarrows are required to have a good set of headlights and a red tail light and have a bag capable of holding 11 kg of iron ore etc.  Runners: Graham, Trevor & Mick Kessell, Scott & Glen Billings, John Robinson, Gary James, Brian Willsdon, Melanie Condt, ‘Red’ Danny O’Brien, Andrew Wardle and Paul Neale, plus a support team.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

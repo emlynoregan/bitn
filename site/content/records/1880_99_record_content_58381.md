@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather.  Of late it has been very hot and dusty and it was so bad last Sunday that wild birds were seeking shelter inside houses.  Wheat has often not reached a foot in height and many of the crops will produce only miserable hay this year.  To the east many crops are so poor that they will not repay the cost of reaping.  Stock has been turned onto them as feed is so scarce.  Wheat is now beyond the help of rain if it were to come.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

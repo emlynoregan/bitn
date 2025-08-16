@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Accident.  A son of J. Harris, Bootmaker of Kooringa, fell down a cellar at the new building at the corner of Thames St a few days since and ‘received several nasty hurts’.  He is progressing satisfactorily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

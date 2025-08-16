@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Chess.  In the telegraphic chess games played on 8 June Mr Belcher of Terowie lost to W. Anderson of Burra in 42 moves and the games between Mr Upton of Terowie and Mr Gibson of Burra was drawn after 53 moves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra SES is to be restructured.  Mr Wally Charles’ appointment as Controller has been terminated and Steve Woolley is acting Controller.  Burra Burra DC decided on 21 October to buy a suitable SES vehicle and in the short term to house the group’s vehicle and equipment in the Christian Bible Chapel shed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

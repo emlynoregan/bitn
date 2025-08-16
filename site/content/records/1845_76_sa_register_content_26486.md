@@ -35,4 +35,4 @@ The road is a miserable quagmire for half a mile north and half a mile south of 
 
 Considering the heavy traffic, it is a disgrace and if immediate action is not taken no wool or wheat will be able to come down this coming season. In heavy rain it is more like a river than a road, with water reaching from fence to fence for a mile in length.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

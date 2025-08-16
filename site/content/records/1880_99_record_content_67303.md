@@ -37,4 +37,4 @@ The report on the Mt Horrocks scheme puts the cost at £34,000.
 
 The Engineer has given notice of leaving in four weeks’ time if no other arrangements can be mutually arrived at.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ This ship bound for Swansea with a cargo of wool and copper ore is reported lost
 
 The editor adds that the 8 passengers on the passenger list do not include Mr & Mrs Booth and two children or Mr Cook who boarded as the vessel was sailing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

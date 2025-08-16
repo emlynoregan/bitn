@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 Editorial re complaints about the new railway tariffs and charges by the SA Carrying Co. 
 The new tariffs have seen great use of the Port Road, creating serious deterioration and wool is going by road to Adelaide from Burra. All seems at present to be in chaos.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

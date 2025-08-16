@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 For Burra the best batsman by far was J. Herbert (av. 59.33), he was also best bowler (av. 3)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

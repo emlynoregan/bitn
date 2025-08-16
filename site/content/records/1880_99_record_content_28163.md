@@ -48,4 +48,4 @@ For 1887 income was 	£439-9-4
 
 Plus sum owed by guarantors	£70-0-0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

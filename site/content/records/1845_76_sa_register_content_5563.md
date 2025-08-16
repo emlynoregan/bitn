@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 SA Mining Association’s office is in Rundle Street in Waterhouse’s Buildings.  Open from 10 to 3.  The Board of Directors meets every Thursday at 2 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

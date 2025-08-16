@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Market Square Bore was completely blocked by tree roots last Monday and a mass over eleven feet long had to be removed before water would again flow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

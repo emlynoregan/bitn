@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The sheep yards to hold 40,000 sheep are divided into 40 yards and here the rails are of 3” x 2” stringy bark on jarrah posts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

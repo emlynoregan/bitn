@@ -33,4 +33,4 @@ The Parklands have received relatively little work this year, although some dead
 
 The cemetery has a credit balance of £31-4-6, which is gradually dwindling year by year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

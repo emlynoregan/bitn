@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Pedestrian’ complains of the state of footpaths on the south side of Market Square and in Thames St.  He blames run-off from houses and urges Council to effect a remedy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

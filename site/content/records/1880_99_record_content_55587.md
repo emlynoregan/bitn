@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Christmas Holidays.  Shops will be closed on Tuesday 25th, Wednesday 26th and Thursday 27th.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

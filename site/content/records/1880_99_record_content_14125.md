@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Hardy [Presumably W.H.] writes calling on the Burra Vigilance Committee to espouse the cause of Land Nationalisation.  He would also like to see circulated a petition in favour of the totalizator along with one against it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

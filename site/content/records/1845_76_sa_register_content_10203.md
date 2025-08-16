@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 North Road	£3,134
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

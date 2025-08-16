@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Fireworks.  A warning to boys letting off fireworks in a public place.  The penalty can be as high as six months imprisonment without the option of a fine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

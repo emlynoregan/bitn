@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Midland Road Board in its Annual Road Inspection beginning on 2 October visited the ford in course of construction across Baldina Creek on the Mongolata road.  Execution of the work was favourably commented on.  Unfortunately the creek will soon silt up and the waterhole formed by the dam will cease to exist.  Diprose Creek road was found to be in good order.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

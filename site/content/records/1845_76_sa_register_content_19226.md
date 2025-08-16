@@ -28,4 +28,4 @@ Obituary.  One of these deaths was Mrs Treglown aged about 24 and but newly arri
 
 [Elizabeth Treglown died 22 March 1866 at Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

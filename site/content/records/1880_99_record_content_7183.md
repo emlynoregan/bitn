@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Terowie Amateur Christy Minstrels write to say they have been formed to give entertainments in aid of charities and would be glad to hear from Institute committees re performances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

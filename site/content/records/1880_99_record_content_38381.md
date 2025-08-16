@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Back in 1882 Cr Sampson moved a resolution for the issue of 5% bonds for £1,600 for new works and to pay the overdraft, plus £400 for the town survey (which was never done), plus £500 for the stone wall around the Recreation Ground.  A total of £2,500.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

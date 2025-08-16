@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Amateur Christies gave an entertainment at the Burra Hotel Assembly Room for the benefit of the Burra Race Fund.  It was very well received.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

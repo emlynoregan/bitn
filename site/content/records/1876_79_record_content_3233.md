@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Rabbits. Are getting worse and yet the new rabbit bill is stalled in Parliament which is due to go into recess soon. Last week the Mt Bryan D.C. received 50,000 scalps for which they paid Id each or £208/6/8 which shows the futility of a rabbit rate of 1/- in £L In a single week almost a year's takings in the rates can be expended. Much better to compel all owners to destroy the rabbits on their land and for the Government to do so on Crown land. The 50,000 above made no dent in the rabbit population of the area. Late Dote: the Legislative Council has postponed consideration of the rabbit bill for six months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

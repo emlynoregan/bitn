@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  The Northern Argus reports most men here are making a livelihood and some a good living.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

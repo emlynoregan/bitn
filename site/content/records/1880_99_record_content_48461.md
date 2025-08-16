@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  At the Institute on 10 February.  Sale of Superior Household Effects and Furniture, as Mr Jacka is leaving the town to take up Grayson’s Coffee Palace on North Terrace, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

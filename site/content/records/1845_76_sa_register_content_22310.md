@@ -43,4 +43,4 @@ It is not clear how they would manage the dressing operations with ordinary labo
 
 Mr Darlington’s report will be laid before the Directors at the meeting next month.  It is believed Mr Darlington will proceed to England by the next mail to procure the requisite machinery and the new system could be under way within twelve months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Mill.  Messrs Martin & Co. of Gawler have cast, turned, bored and finished the main driving wheel for Roach’s Mill in four working days.  It weighs almost two tons.  It was delivered yesterday afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

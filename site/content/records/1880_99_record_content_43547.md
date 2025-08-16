@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 R. Andrews reappointed scavenger at £7 per month & 10/- a day for 1 horse or 13/- a day for two horses and a dray.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

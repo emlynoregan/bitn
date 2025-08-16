@@ -27,4 +27,4 @@ A Trip Through the Northern Areas
 
 [The correspondent had intended to cover much of the material presented by a special correspondent and so moves on instead to a summary and general discussion of development of the colony’s agriculture and population.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

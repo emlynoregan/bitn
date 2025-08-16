@@ -66,4 +66,4 @@ The mining captain could not attend to all the duties of general superintendence
 
 The Directors have not thought it advisable to make an estimate of the real worth of the Association property until the first account sales of the ore is received, which will undoubtedly be before the next meeting of scrip holders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

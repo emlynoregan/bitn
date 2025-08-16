@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice: To all Bullock Drivers on the Port Wakefield Road – all cartage of ore and coal will cease for the winter season on the 1 July.  A. Motley, Superintendent, Burra Copper Works, Kooringa, 29 June 1857.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

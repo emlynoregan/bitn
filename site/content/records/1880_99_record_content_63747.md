@@ -26,4 +26,4 @@ Kooringa Primitive Methodist Church sale of gifts was a success and raised c. £
 
 [This was amended in the paper of 16 March to over £30.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

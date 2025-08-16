@@ -69,4 +69,4 @@ He considered the present mineral regulations unfair and disadvantaged miners in
 
 [Both candidates then answered a series of questions from electors.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

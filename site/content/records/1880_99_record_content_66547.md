@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Reformatory.  Two girls escaped last week, but were arrested at Terowie after a couple of very cold nights with severe frosts.  On Sunday morning there were frozen taps and water outside froze to depths of 1-3”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

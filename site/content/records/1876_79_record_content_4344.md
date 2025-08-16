@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Miners’ Arms. A fire on Tuesday morning was put out before much damage was done & an inquest brought in an open verdict.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

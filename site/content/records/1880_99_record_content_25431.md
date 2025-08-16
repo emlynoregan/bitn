@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The ‘Umpire was very partial’.  A later paragraph says 19 Allcomers played 12 Colours, ending in a draw.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ Editorial on Payment of MPs.
 
 The editor is strongly in favour as it is the only way to get local as opposed to metropolitan representation and the only way others than the wealthy classes can be represented.  Payment will give more candidates to choose from.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

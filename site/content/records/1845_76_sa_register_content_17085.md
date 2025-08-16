@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A large fire on Booborowie Run is now reported to have begun at Belalee [sic: Belalie] and come through Canowie to Booborowie and so must have travelled at least 30 miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

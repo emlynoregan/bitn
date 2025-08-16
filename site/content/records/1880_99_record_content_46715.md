@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Bleak House Concert.  The final in the series of six concerts arranged by Mrs McLagan in aid of St Mary’s Church was held on Tuesday in the Institute.  Mr J. Roach assisted this time with friends from Adelaide.  The first five of the series were held in Bleak House.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

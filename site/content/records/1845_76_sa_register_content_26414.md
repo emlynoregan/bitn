@@ -34,4 +34,4 @@ Wheat is beginning to appear and the hills are clad in a carpet of green.
 
 Monday was not observed as a holiday in Burra; the tradesmen preferred to observe it on Thursday, the day of the annual mine holiday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

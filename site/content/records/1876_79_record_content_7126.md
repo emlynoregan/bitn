@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Main Road. The new main road declared from Mt Bryan Station really extends only as far as Mt Bryan East P.O. The Baldina to Mongolata Road has been added to the list.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

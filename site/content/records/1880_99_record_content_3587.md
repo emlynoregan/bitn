@@ -29,4 +29,4 @@ March 18th 1881
 
 The Banker, Butcher’s assistant, Trolly Clerk, Stock-driver, and “Gent” from Aberdeen and Redruth.  Bankers, Young Stock-drivers, Printers Assistant, and others from Kooringa, who disturbed the above meeting are hereby informed that a repetition of such conduct will result in their names being advertised in the newspapers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

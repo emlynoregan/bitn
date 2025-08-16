@@ -39,4 +39,4 @@ The number of men and boys employed is 1,042.
 
 There are only 24 employed at Karkulto Mines and the Pompurne Estate (Emu Plains) remains undeveloped.  The colony would benefit from the development of both these estates, which want only men and capital to release their buried treasures.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -35,4 +35,4 @@ For the North-Eastern District III in April the declared candidates are:
 
 Hon. Sir H. Ayers, Dr Stephens, J. Warren, G. Sutherland, W. Lewis, J. White and J. Kelly. [By the issue for 3 April J. Kelly on the list had been replaced by J. Harvey.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

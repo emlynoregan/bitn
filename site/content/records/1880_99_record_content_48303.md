@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. H.W. Howitt will preach in the Bible Christian Church at 3.30 today and will lecture on ‘Gambling’ in the Institute at 8 p.m., when F.W. Holder will preside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

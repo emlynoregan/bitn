@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Government has intimated it cannot sanction the formation of further rifle clubs in the country as it is unable to supply rifles: its limited stock being needed for the active forces in case of accident.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

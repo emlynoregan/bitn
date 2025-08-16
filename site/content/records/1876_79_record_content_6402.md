@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The work is incomplete and the bridge not really safe for traffic until the wing walls on the approaches are finished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

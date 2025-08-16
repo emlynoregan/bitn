@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  Over one column on the Clare Licensing Board’s decision not to grant a liquor license to the refreshment stall at the Terowie Railway station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

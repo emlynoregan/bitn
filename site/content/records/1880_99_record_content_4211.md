@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  C. Rawlings wants 30-40 tons of firewood for the limekiln at 14/- per ton.  Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

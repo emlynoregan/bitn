@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Inquest.  Verdict: ‘ . . . came to his death by excessive drinking and not otherwise, and censure the publican Winterbottom who supplied the deceased with drink for two weeks continuously, until his £28 was spent, and then forwarded him to the Burra Hospital, where he died shortly after and was buried as a pauper, penniless, while Winterbottom retained a silver watch, and a Savings Bank Book for £12-11-0.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

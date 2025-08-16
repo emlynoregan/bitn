@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mt Bryan Concert.  There was a crowded house for the concert in aid of the Mt Bryan schoolchildren’s prize fund in the Council Chambers last Wednesday.  Mr R. Collins Sen. presided.  The evening was well arranged by the teacher, Mr Uhrlaub.  Proceeds were £4-13-6.  Those returning to Burra by trap did so safely, the first arriving c. 12.30 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

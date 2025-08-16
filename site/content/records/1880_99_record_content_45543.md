@@ -36,4 +36,4 @@ publication_slug: record-1880-99
 
 On 23 May Mr J. Roach gave a lecture on his recent trip to India.  He began with the voyage from Largs Bay to Colombo.  He went by rail to Kandy.  From Colombo he went to Bombay and from there to Ahmedabad and Delhi, Agra and Banares before going on to Calcutta where he took the train to Darjeeling.  Many views of the trip were passed around and have been left for viewing for a week.  Mrs Reed will allow the use of her room on next Thursday evening for anyone wishing to see them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

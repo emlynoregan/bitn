@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Wesleyan Lecture.  Rev. C.P. Hard will lecture tonight in the Kooringa Wesleyan Lecture Hall on ‘Women in India’.  The collection will aid the building fund of the Mission to India.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 William Kelly Jnr’s charge of embezzlement was dealt with at Broken Hill on Thursday.  He was accused of embezzling the sums of £3-10-0, £3 and £2 from his employer, Henry Roach.  Mr Roach estimated his deficiency to be £16 in all, but Roach has refused to allow any audit of his books.  Kelly’s father gave evidence of asking for an audit in February and being refused.  The report in the Barrier Miner says the judge’s summing up was adverse to Kelly, but the jury found him not guilty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

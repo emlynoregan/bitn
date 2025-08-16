@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘Briton’ writes urging Councils and others to take up the suggestion  of lighting a line of beacon fires from one end of the colony to the other to signal the arrival of HRH the Duke of Edinburgh on the Galatea.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

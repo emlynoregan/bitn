@@ -29,4 +29,4 @@ The new Premier is expected to be the Hon. T. Playford.
 
 The no-confidence debate that toppled the Government is reported.  The vote was 16 for, 29 against, with 4 abstentions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

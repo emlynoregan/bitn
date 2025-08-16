@@ -38,4 +38,4 @@ John Thomson, known as Dr Thomson, was thrown from his horse and broke an arm.
 
 T.W. Powell and Messrs Reed and Oliver were returning from Redruth in a spring cart when part of the harness gave way and all three were thrown to the ground.  Mr Powell broke his right arm and had his shoulder dislocated.  Mr Reed had two broken ribs.  They were attended to be Doctors Mayne & Maurau.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

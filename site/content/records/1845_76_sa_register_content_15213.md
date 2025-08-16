@@ -33,4 +33,4 @@ Kooringa News, 11 December
 
 Mr J.H. Clark delivered a lecture on Douglas Jerrold at the Burra Institute on Monday evening.  The attendance was not such as to encourage a gentleman who had travelled from Adelaide to deliver the address.  Rev. W. Davidson chaired the meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

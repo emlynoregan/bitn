@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Another aspect of coming under the act was that the erection of a vermin proof fence as a dividing fence with another landowner allowed the landowner erecting the fence to reclaim half the cost from the adjoining occupier: payable within three months, or if the sum exceeded £20, within 5 years plus 6% p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

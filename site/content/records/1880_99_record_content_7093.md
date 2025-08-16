@@ -48,4 +48,4 @@ Combining all matches the best batsman was Herbert (av. 28.62)
 
 He was also equal best bowler with Cobb & Butterworth, all on av. 5.6
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

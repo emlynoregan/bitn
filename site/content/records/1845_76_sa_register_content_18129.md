@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 There have been two or three small bushfires about, but people are not much concerned, believing there is little left to burn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

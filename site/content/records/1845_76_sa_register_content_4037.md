@@ -38,4 +38,4 @@ In SA the discovery is actually in a better position.  He often has the opportun
 
 The assertion that there are vast mineral deposits known, but kept secret in SA is all moonshine.  It is, after all, only in connection with capital that mineral property is rendered available and advantageous.  The discovery in itself is not the whole; the operations of extraction must be carried on.  Without capital, the ownership of mineral property would be an evil rather than a benefit, since such parties might choose to keep from the public the exploration of such minerals as would be of benefit to the general prosperity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ William Woollacott objected to the haste with which the legislation had been put
 
 Mr M. Quinn spoke in support of Mr Woollacott and so did Mr W. Sampson, who blamed carters near Adelaide for cutting up roads and inflicting the Act on everyone else.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

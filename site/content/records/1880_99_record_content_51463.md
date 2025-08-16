@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Bolt.  The horse in George Sampson’s spring cart was frightened by the noise of a sheet of iron on Tuesday morning.  The cart was loaded with mutton.  Staring from Commercial St, the horse made for Market Square and collided with the verandah post of Messrs A.W. Dobbie’s music warehouse.  The cart capsized and broke two shafts and the meat was scattered.  No one was in the cart at the time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

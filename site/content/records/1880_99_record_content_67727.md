@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The series then begins using numbers not previously used and runs fairly regularly from 355 to 397, although the following irregularities do occur:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

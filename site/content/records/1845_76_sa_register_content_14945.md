@@ -31,4 +31,4 @@ Kooringa News, 2 October
 
 Kooringa Wesleyan Chapel held its anniversary services last Sunday.  Preachers were Rev. W. Butters of Adelaide in the morning and evening and the Primitive Methodist minister Rev. J.D. Whittaker in the afternoon.  The tea and public meetings were largely attended on the following day.  Rev. T. Lloyd delivered his report on the financial situation of the church.  They had a debt of £980-10-11.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

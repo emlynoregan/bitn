@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The English & Australian Copper Co. have advices from their Manager to December 17.  The smelters sent out from England in the Glentanner have arrived, and he was very much pleased with them generally.  Three more furnaces had been lighted and a second refinery.  The stock of ore was about 5,000 tons.  About 200 tons have been shipped to England.  The Lightning brings about 500 tons of ore.  Cartage has fallen of as usual at Christmas.  It would increase again in about six weeks’ time.  The coal at the works was nearly 1,500 tons.  The mules were all in first rate condition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

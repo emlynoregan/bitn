@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF.  A very satisfactory annual inspection took place on Wednesday.  84 officers and men are enrolled and only two who are out of the colony were absent.  They paraded on the Recreation Ground and then marched to the railway station to salute General Owen as he left.  They were accompanied by the band.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

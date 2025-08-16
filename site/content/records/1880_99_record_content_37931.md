@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Bulletin in praising Holder’s speech in the recent no confidence motion debate says it justifies their prophecy that he is a future premier of the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

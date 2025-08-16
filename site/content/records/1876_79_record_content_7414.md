@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Cr Ridgway's motion to cause the fencing of vacant land in Best Place, Morehead St and Ludgvan St was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

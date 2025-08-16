@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy attacking the hypocrisy of Cr Ridgway over the matter of the Council inspector.  He claimed Ridgway was quite willing to take on the extra role of inspector when the work being done was by way of improvements around his own property at Aberdeen, but not when it might benefit others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

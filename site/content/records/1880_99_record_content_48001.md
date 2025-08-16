@@ -42,4 +42,4 @@ Subscription lists were got out and an open-air meeting called for Market Square
 
 Rev. R.M. Hunter will lecture in support.  The gate from the Burra-Jamestown cricket match on 27 December will be contributed.  Mr A. Wittber will bear the cost of the subscription lists and the handbills re the Saturday meeting.  Reports suggest that aid is getting through to those in need in Broken Hill.  Mr P. Killicoat JP sent 200 fat lambs to Broken Hill.  It is clear aid will need to be sustained for some weeks yet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the anti-Chinese legislation passed in the Assembly last week.  The editor believes the whole issue needs much more and much deeper investigation than it has been accustomed to receive.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 This was a four full-sized pages of details of the Melbourne Exhibition.  It included a large engraved picture of the Exhibition Building and a detailed plan of it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

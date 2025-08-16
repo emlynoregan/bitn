@@ -27,4 +27,4 @@ Permanent Tramways
 
 [H. Higginson writes a lengthy letter discussing the possibility of various types of tramway, especially the horse-drawn railway and concluding that they would not be effective in SA.  If, as some arguments suppose, the thought was that they would eliminate the need for good roads.  Nowhere have railways eliminated the need for roads as well.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

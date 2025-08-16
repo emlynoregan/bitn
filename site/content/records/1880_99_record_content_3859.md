@@ -27,4 +27,4 @@ Kooringa Wesleyan Anniversary on Easter Sunday and Monday.  Rev. R.W. Campbell p
 
 The Sunday School had 266 children and 24 teachers.  There had been 63 children added in the year, but after taking removals into account the number was up only 18.  The proceeds amounted to £44.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

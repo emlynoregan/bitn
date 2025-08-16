@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Hanson District Council complains that the railways refuse to erect a toilet and urinal at Daviston [Davies/Davieston] because too few passengers use the station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

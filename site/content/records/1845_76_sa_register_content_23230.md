@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advt.  The Aberdeen Hotel: J.B. Bull proprietor, has thoroughly renovated, improved and furnished it in anticipation of the opening of the railway.  First class stick of wines, spirits, malt liquors etc.  Good beds and a liberal table.  Separate apartments.  Extensive stabling and stockyards.  The Mail passes the door every morning for Adelaide, which will be found a great saving.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

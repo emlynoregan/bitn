@@ -34,4 +34,4 @@ Arrived on the Blinman coach on Wed. evening. Enthusiastically received; he had 
 
 Banquet at the Institute with 150 present, chaired by the mayor. A long list of toasts, entertained by song, recitations (including The Charge of the Light Brigade by Mr. Lipsett) and the Burra Brass Band. There were of course speeches and an address on vellum was presented to Giles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

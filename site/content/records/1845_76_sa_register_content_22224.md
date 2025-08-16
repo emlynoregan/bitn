@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Mrs Hamley will today lay the foundation stone of the railway bridge over the River Light.  A special train carrying H.E. the Acting Governor, members of the ministry and invited guests will leave Adelaide at 8 a.m.  The ceremony will take place at a point about 13 miles from Roseworthy, after which a luncheon will follow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

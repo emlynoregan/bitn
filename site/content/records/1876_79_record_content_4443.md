@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 SAMA has donated bound copies of the SA Register, SA Govt. Gazette and the Mining Journal to the Inst.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

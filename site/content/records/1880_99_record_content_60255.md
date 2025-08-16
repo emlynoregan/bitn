@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Furniture sale today 2.30 p.m. sharp, of household furniture and effects, at the home of W.T. Rabbich, Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

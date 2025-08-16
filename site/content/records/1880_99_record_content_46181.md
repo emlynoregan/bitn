@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Rechabites met on 18 June for an evening with the District Officers which was very satisfactory with about 60 attending.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

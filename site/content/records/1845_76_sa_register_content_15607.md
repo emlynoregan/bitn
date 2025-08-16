@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Electoral Notice.  [M. MacDermott gives notice in accordance with the preceding notice and states that the Chief Voting Place at Kooringa will be the Burra Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

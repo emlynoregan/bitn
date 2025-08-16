@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Accident.  Last Saturday, Walter James, son of Mr S. James of Burra got his right hand caught in a chaff cutter at Baldina and has lost the first three fingers and the top of his thumb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

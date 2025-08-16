@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Great Northern Railway.  The second section of the Great Northern Railway was opened to Beltana on 2 July when a free train ran from Pt Augusta to a ball at Beltana.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

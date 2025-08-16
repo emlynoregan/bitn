@@ -25,4 +25,4 @@ Major-General Downes has reported for the year ended June 1890, on the Voluntary
 
 We have no doubt that the country would have done much better had General Downes not been in command.  He has never admired the VF and his remarks re the ‘favourite amusement of rifle-shooting . . .  only shows the sarcasticness of his mind towards them.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

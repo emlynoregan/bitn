@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mr Paxton’s Farewell breakfast at the Napoleon Bonaparte Hotel is reported at length.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

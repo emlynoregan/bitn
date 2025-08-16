@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  There will be a special effort for the Kooringa Primitive Methodist church on 5 August.  Rev. A.T. Glasson of Kapunda will preach.  Public Dinner on 8 August in the Institute followed by a sacred concert in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

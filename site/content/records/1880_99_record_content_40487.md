@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The business of the Council has been being transacted in a most unsatisfactory way and last Monday ‘the whole evening was wasted over most ridiculous child’s play and clap-trap.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Notice.  On and after 6 January 1873 an extra coach will leave Kooringa every Monday on the arrival of the first train from Adelaide, for Blinman and all intermediate stations, arriving at Blinman on Wednesday.  It will leave Blinman on Thursday and reach Kooringa on Saturday.  J. McDonald, Mail Contractor, Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Wesleyan Church Sunday 18 November, Foreign Missions, Rev. G.E. Rowe preaches.  There will be lectures on Monday, Tuesday & Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Accident.  Yesterday the horse pulling the cab between Kooringa and Redruth broke its belly band and bolted near the hotel.  The vehicle capsized, but we have not heard of any injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

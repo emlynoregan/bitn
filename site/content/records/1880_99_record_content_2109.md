@@ -49,4 +49,4 @@ John Sampson jun. announced that he would stand.  He would be an independent and
 
 William Geake would also stand.  He felt the division of the wards was unfortunate.  The number of creeks and other expensive works were largely in the South Ward, but the most valuable property was in Middle Ward.  Church St would be a much better boundary than Commercial St.  He also supported Cr Drew’s stand on the cemetery road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

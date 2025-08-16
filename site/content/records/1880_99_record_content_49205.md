@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Holder has reported that he has seen the Commissioner of Public Works and has as yet received no reply, but does not think the reopening of the Ballast Quarry is likely at present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

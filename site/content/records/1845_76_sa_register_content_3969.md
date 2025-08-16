@@ -47,4 +47,4 @@ The Smelting Works are in full operation with six furnaces in constant use.  Six
 
 The Smelters’ Home, [later Opie’s Hotel] a splendid new house of entertainment, has been opened in the vicinity of the Smelting Works by Mr A. Wren.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

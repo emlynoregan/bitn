@@ -36,4 +36,4 @@ for wood 6.11d per train mile
 
 (In the last case 9.25% coal had to be used to maintain sufficient steam.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

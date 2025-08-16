@@ -44,4 +44,4 @@ Prior to a change last Monday the weather has been intensely hot.  There was thu
 
 The Kooringa Branch of the SA Benefit Society was opened in Mr Fogg’s schoolroom on Monday last.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

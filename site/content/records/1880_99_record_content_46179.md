@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 First Fancy Dress Ball in Burra was held at the Institute on Tuesday 19 July when 30-35 couples took part.  Mrs Moody was the pianist and J.J. Blott was MC.  Dancing extended from 8.30 p.m. to the small hours.  A list of the more prominent of the fancy dressed dancers is given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Catholic Bishop O’Reilly of Pt Augusta is dangerously ill from overwork.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

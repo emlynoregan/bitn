@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 St Mary's. The Bishop of Adelaide arrived yesterday for confirmations and festivity. There was a tea meeting in the Institute in the afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

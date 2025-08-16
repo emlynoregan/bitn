@@ -31,4 +31,4 @@ SA Election: Mr Stocks at Aberdeen
 
 On Tuesday 20 May Mr Stocks spoke to a largely attended public meeting at the Aberdeen Hotel.  Mr Gurner was voted into the chair.    He spoke for two hours and made the points reported from his Kooringa meetings.  He said his son was one of the snobs who had first got the Burra Mine, and who perhaps interested himself more than anyone else in its discovery.  It was proposed and carried unanimously that Mr Stocks is a fit and proper person to represent the District of Burra in the new Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -42,4 +42,4 @@ W. Pearce proposed an amendment that the road to the east from Kooringa as sanct
 
 A Committee was established to petition the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

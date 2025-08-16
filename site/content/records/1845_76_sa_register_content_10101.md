@@ -28,4 +28,4 @@ Local Court, Kooringa, 13 August.
 
 John Paull was fined £3 and £1 costs for creating a riot by a prize fight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

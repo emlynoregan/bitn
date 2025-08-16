@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 He was given ample time to voice his opinions and develop his ‘democratic, not to say socialistic’ views.  But instead of using argument and fact he ‘descended into personal abuse and wandered further from fairness so much as to do damage to the cause he represented.’  To charge ‘people in this “outlandish place” of being afraid of each other’ is absurd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -57,4 +57,4 @@ The motion was negatived.
 
 Further consideration of £750 for the Institute at Kooringa was called and not being proceeded with went off the paper.  [But see 11 December 1875, page 6.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

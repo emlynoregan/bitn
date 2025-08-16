@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 St Mary’s Church.  Archdeacon Dove and the Bishop introduced Rev. J. Stuart Wayland on Tuesday morning in a service.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

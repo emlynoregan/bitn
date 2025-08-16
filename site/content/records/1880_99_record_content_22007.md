@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket on Good Friday at the Recreation Ground: Aberdeen v. Northern Areas, and tomorrow Aberdeen v. 15 Allcomers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

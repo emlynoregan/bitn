@@ -28,4 +28,4 @@ A lad named Nicholas Moon was severely injured last week by a savage dog.  He wa
 
 [It is likely that this lad is Nicholas Moon born c. 1852, the son of Nicholas Moon a Cornish Miner who arrived in SA in 1858. The family moved to Wallaroo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

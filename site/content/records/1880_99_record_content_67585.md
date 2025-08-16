@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Miss M.M. Kellock, was given a farewell social at Douglas on 6 December by the Young People’s Improvement Society of Thistlebeds.  She is leaving the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

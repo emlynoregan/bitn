@@ -40,4 +40,4 @@ The deceased gentleman never took any active part in public matters, but has alw
 
 The funeral took place on Saturday afternoon and was largely attended, the burial service being conducted by the Rev. A.G. King.  [Heinrich Christian Wilhelm Fuss, born 1 March 1816, died 25 April 1895.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

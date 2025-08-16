@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 [The writer argues that money earmarked for improvements to the port at Pt Adelaide should be redirected to the construction of branch railway lines.  He suggests the decision to make Pt Adelaide the chief port may have been a mistake and with the development of branch lines a major northern port may emerge.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

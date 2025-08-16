@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Quick March’ suggests that the RVF needs a good-sized drill shed of wood and iron to be erected on some cheap land from SAMA.  About £100 total cost should cover it and the musical sympathizers might raise the same with a few concerts and subscription lists.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

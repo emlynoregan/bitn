@@ -73,4 +73,4 @@ Saw the child W. Roberts on Sunday morning in Paxton Square.  Helped him cross t
 
 The jury decided there was no evidence to show the origin of the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

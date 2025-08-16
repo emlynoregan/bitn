@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 On Saturday evening the employees of Drew & Crewes presented Mr Crewes with a handsome Gladstone bag on the eve of his departure for England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

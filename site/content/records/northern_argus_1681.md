@@ -33,4 +33,4 @@ Don Hele, Chairman of the Urban Conservation Committee of the National Trust, sp
 
 The program was devised in the USA by Mary Means and it calls for total cooperation and foresight.  It covers organisation, design, promotion and economic restructuring.  Over 600 American towns have used the program to reverse trends of a dying main commercial street.  Economic expertise was needed as well as the services of perhaps an architect or consultant on trading.  The scheme would restore buildings externally to what they were.  Owners of premises should wait till they could afford to restore buildings properly.  Nothing looks sadder than unused buildings.  Signage should be unobtrusive.  Slides of examples of good restoration from Port Adelaide, Gawler, and Aldgate were shown.  In Burra food availability needs improvement and things like aluminium tiles on old cottages spoil the character of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

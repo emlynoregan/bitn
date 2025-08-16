@@ -61,4 +61,4 @@ The Council worked with good will and the work of Mr W. Davey as Town Clerk is h
 
 J. Sampson, Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

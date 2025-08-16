@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 18 October 1848, page 2
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

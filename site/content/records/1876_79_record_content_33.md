@@ -29,4 +29,4 @@ John D. Cave	Auctioneer & General Commission Agent, Farrell’s Flat
 
 Agent for J.G. Ramsay & Co. Ploughs & Machinery
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

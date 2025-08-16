@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Bible Christian Picnic at Sod Hut was spoiled by the biting cold wind and rain, though it was better in the afternoon. Wagons took children to the ground and the weather caused sports like archery and croquet to be cancelled, but flat races were run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

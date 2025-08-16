@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mary Ann Harris, wife of the late James Harris of Greenbottom Farm near Kooringa died on 2 March at her daughter’s residence in Yongala, aged 76 and a colonist of 42 years.  [Born Mary Ann Webb.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

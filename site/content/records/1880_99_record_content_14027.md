@@ -56,4 +56,4 @@ The committee formed re the Aberdeen Reserve was authorised to negotiate for the
 
 The Public Works Committee was authorised to arrange the necessary extension of the mains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

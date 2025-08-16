@@ -32,4 +32,4 @@ Popular singer Mr Beaumont Read will sing appropriate ballads.  2/- & 1/-.
 
 A feature of the above will be the funeral of the late Mr Gladstone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

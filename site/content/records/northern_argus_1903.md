@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra National Trust are planning to visit Princess Royal on 9 November for a picnic and garden party.  Mrs Tennant will be present and the house will be open to visit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

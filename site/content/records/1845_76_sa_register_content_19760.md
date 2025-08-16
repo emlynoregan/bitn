@@ -32,4 +32,4 @@ SA Mining Association gives notice of the half-yearly General Meeting of Shareho
 
 Henry Ayers, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

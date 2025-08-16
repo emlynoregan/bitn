@@ -35,4 +35,4 @@ Emigrant ship Theresa which arrived from London and Plymouth 3 May
 
 Cacique which arrived from Singapore 4 May
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

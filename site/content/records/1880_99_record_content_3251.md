@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  James Mills Patterson [Jun.] 8 Feb. at Copperhouse, aged 33, only son of J.M. Patterson Sen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

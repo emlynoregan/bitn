@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rabbits are an immense problem at Baldina and many farmers are bitter about the failure of some landholders to clear rabbits, so rendering their own efforts futile.  A memorial is being addressed to the Commissioner of Crown Lands to enforce the act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

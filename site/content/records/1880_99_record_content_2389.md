@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church re-opened last Sunday and Monday after being closed for six weeks for repairs and improvements that cost over £100.  An underground tank has been added.  Rev. W. Richards of Kooringa preached.  The tea on Monday was well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

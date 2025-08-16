@@ -69,4 +69,4 @@ Storekeeper	1	Total Karkulto Mine	11
 Adelaide Office	4	Gross Total	466
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

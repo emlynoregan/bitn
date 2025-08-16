@@ -72,4 +72,4 @@ Fed and cared for the baby who had continual outbreaks of sores which had healed
 
 The jury found death from bronchitis, but that the parents deserved severe censure and the coroner pointed out to them that by their neglect and shameful behaviour to the deceased infant, they were in the sight of their maker, guilty of murder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

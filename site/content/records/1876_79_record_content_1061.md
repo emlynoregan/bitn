@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Hospital - The closed Burra Hotel is now being converted into the town hospital - the verandah is the same altitude as Mount Lofty - there are 36 rooms + 7 in the basement and large cellars. The stock and furniture was sold for £1,100. (Corrected Page 1.42 to £700)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

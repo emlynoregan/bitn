@@ -27,4 +27,4 @@ Advt.  For Sale: the assigned estate of Mrs G. Camp, two miles southwest of Koor
 
 7 horses, harness for six horses, wagon and frame, 3 cows, calf, 7 pigs, 20 fowls, 2 sets of harrows, 2 double ploughs, mower, horse-rake, seed-sower, sheep trough, 20 ton haystack, 6 tons firewood, household furniture and effects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

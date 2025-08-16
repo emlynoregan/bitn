@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Rev. Charles Clark drew a large crowd to his lecture on Charles Dickens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Kooringa Wesleyan Church held Anniversary services on Sunday when Rev. J. Nicholson from Clarendon was the preacher.   The tea meeting on Monday was poorly attended, with numbers reduced by wet weather and the outbreak of measles and scarlatina prevalent in almost every household.  The debt is under £400 and the last year’s expenditure was well under the income.  Revs. Nicholson and Stockdale spoke at the meeting.  The latter is the newly appointed additional minister for the northern part of the Burra Circuit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

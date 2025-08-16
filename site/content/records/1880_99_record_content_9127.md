@@ -39,4 +39,4 @@ The total loss from the fire is estimated at c. £4,000, almost all of which is 
 
 As a consequence there will be no supplement for this or the next two issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

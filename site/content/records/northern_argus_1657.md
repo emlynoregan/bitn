@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 M.T. & B.M. Kellock’s poll merino ram was judged supreme champion at the Royal Adelaide Show.  [Photo.]  It was the third year in a row that a poll sheep topped the show.  The show’s grand champion merino ram was bred at the Old Ashrose Hallett stud of E.J. Ashby & Sons.  Old Ashrose also produced the grand champion poll merino ewe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

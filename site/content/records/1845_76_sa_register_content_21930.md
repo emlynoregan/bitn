@@ -26,4 +26,4 @@ The New Victoria Mill, Gawler
 
 [An article describes this new flour mill.  It arose after the old mill was burnt down on 23 June 1867.  The building was of five storeys and was 76 feet long by 40 feet wide and while not yet quite finished, the engines had been tried and had run smoothly.  Considerable detail is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

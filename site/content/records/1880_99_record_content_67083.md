@@ -48,4 +48,4 @@ Gordon Stewart	Charles James Ware
 
 By the end of March 1849 there were 30 members and that had risen to 123 by the year’s end.  In 1851 there were 267 members, but the Victorian gold rush saw a decline in numbers that became so severe that the lodge had to close.  The Central Lodge worked the branch from 18 March to 14 October 1842 [sic: for 1852], but in January 1853 the branch reopened.  Membership had fallen to 150.  By the end of 1858 it had climbed to 360.  Numbers fell with the removals to Wallaroo & Kadina in the early 1860s.  Present number is 273.  On 19 November 1888 a Juvenile Branch was formed, which about 50 have joined, of whom 21 have transferred to the adult lodge and 20 have run out.  The worth of funds is now £5,389-10-1 or £19-14-0 per member.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

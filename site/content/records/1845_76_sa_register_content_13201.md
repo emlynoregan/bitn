@@ -42,4 +42,4 @@ Accident/Obituary.  A youth named Bishop fell down a shaft at the Mine yesterday
 
 [Joseph Bishop died 16 April 1860 at Kooringa aged 17.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

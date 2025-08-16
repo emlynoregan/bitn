@@ -77,4 +77,4 @@ Mr Bright in reply said he had never before heard of a case of such magnitude as
 
 Attorney-General, who was one of the members for the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

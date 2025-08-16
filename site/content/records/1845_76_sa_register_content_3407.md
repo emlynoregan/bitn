@@ -59,4 +59,4 @@ Whatever faults they have in common with the rest of mankind, at any rate they h
 
 Christmas passed remarkably well.  Proper decorum and solemnity throughout the day.  Divine worship was observed, public houses and shops were closed and there was no rioting or drunkenness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

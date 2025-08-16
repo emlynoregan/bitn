@@ -28,4 +28,4 @@ Burra Mine.
 There was an attempt at a strike at the Mine on Saturday among mechanics because their wages had been reduced by 1/- per day, but on Monday they all returned to their work.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

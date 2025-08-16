@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Entertainment. The U.S. Minstrels gave performances to good houses in the Institute on 4 & 5 June. They were much appreciated. The gem of the evening was "Come where the moonbeams linger" by Mr Hawkins. It concluded with the farce, "Thompson's Dead". They are one of the best troupes to have visited the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

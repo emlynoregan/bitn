@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Aberdeen Crossing.  Dr Cockburn MP has been seeking action on a gong for the railway crossing at the Bon Accord and again ‘enquiries will be made.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ The delays and timing of the Blinman mail are also causes for complaint.
 
 Young farmers here have either gone or are going to invest in a square mile block in the Hundred of Willowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -53,4 +53,4 @@ In the previous year the copper smelted was 511 tons.
 
 Mr Hamilton reports he will undertake to take stock at the works in April.  Until this report is received the Directors cannot present a complete balance sheet of the company’s affairs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

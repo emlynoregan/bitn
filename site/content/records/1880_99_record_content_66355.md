@@ -27,4 +27,4 @@ Obituary.  Mr J. Bagg of Spring Bank, aged 57, has died.  He was a resident of 5
 
 [John Bagg: died 28 May 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

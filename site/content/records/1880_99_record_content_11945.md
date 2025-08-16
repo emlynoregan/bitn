@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Grand Concert in the Institute on Wednesday 2 January.  Program of piano overture, three songs, a duet, a recitation and then two songs before interval, followed by another piano recital, song, recitation, duet, recitation part II, three songs and a duet, before God Save the Queen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

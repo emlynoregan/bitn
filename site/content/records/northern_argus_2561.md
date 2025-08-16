@@ -28,4 +28,4 @@ Obituary.  Mrs Sylvia Spackman died 22 April.
 
 [Born Sylvia Mary Briese 9 July 1910 Morgan.  Married Clarence Edward Nelson Spackman in 1934.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

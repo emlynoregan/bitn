@@ -32,4 +32,4 @@ The verdict was of accidental death caused by falling over the bank of the creek
 
 [The death is registered as Alexander McDonnell, died 5 June 1859, Kooringa Creek aged 28.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

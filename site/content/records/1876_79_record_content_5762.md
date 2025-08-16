@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Chinese. The Record has a pamphlet published in Melbourne by L. Kong Meng, Cheok Hong Cheong and Louis Ah Mouy, which discusses the Chinese question in Australia and aims to check the unhealthy feelings arising from the late utterances of certain agitators.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ Obituary.  Miss Dorothy Cornelius died in Adelaide on 5 October.
 
 [Born Dorothy Cornelius 9 January 1924 Barmera: died 2 October 1985 RAH, Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

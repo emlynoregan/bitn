@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Ulooloo Gold-fields.  About twenty men are employed at the diggings.  An experienced digger there believes the discovery of a good reef cannot be far off and there is every hope of finding a rich deposit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

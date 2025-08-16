@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Obituary.  Grace Diplock was given a funeral service at Westbury Church last Sunday.  She was born Grace Kisell at Frogpool, Cornwall on 15 August 1827.  In May 1851 she left for Australia under the guardianship of her sister and she reached Adelaide on 6 September.  They came to Kooringa and she married Mr Diplock on 31 January 1852.  She then accompanied her husband to the Victorian goldfields.  In 1862 the family went to Copperhouse.  She was taken ill on Sunday 30 December and died on the 3 December.  [There is no explanation for this long delayed service.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

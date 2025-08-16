@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 In the school class section Hilda Fuss appears with a 2nd for drawing and also for poetry.  M. Fuss (Myrtle) won for large handwriting in Class III and the R. Fuss who won for ornamental text was probably L.R. Fuss.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

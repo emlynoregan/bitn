@@ -32,4 +32,4 @@ In Burra 55 Men and 39 women died.
 
 Births in Burra in 1857 numbered 161 males and 161 females.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

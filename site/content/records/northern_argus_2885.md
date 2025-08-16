@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra’s New Rubbish Dump has been opened in the northeast portion of the mine area.  It cost $10,000 to create.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -28,4 +28,4 @@ Railways. The Clare Bill has been rejected by the Assembly.
 The Magpie Creek Bill has passed the Assembly. [Is this the Snowtown railway?] 
 The Nairne Bill has passed the Assembly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -30,4 +30,4 @@ Notice.  To Drivers on the Port Wakefield Road.  When the coal now at Port Wakef
 
 James Hamilton, Manager, The English & Australian Copper Company, 1 October 1857.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

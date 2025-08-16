@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Lord Kintore is to continue to be Governor till March 1895, but will be on leave from next November to attend to private business in England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Council is to write to petrol companies about fuel tankers coming through the town rather than making use of the bypass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

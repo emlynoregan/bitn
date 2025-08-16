@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Hallett Telegraph. The deputation from Mt Bryan then went to the Minister of Education to present a memorial on the need for a telegraph line to Hallett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ Peterson sued Ford for £8 damages to a horse which he said Ford had fatally inj
 
 The collision occurred outside Austin’s.  The shaft of the defendant’s cart broke off with a foot-long piece in the shoulder of the plaintiff’s horse.  Each claimed to be on the correct side of the road, but independent witnesses placed each near the crown of the road.  Deciding factors were that the defendant had but one light instead of two and the broken shaft that did the damage was the left or nearside one.  Verdict for Peterson in the sum of £8 + costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

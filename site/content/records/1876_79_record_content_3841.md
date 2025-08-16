@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Rabbits. A public meeting in Hallett on 18 Feb. considered the problem of controlling rabbits and got two columns of details. The meeting also discussed the siting of the railway station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

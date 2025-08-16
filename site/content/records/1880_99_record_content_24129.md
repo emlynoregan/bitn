@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  The Burra team was over an hour late and the pitch at the Recreation Ground was soundly condemned by all.  Terowie 73 defeated Burra 50 & 2 for 63.  A win on the first innings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

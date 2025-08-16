@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Working Conditions. Storekeepers meeting at Drew's office resolved to close at 6 PM daily except Saturday when they would close at 8 PM in winter and 9 PM in summer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

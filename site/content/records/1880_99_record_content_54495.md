@@ -23,4 +23,4 @@ Rain in the last week was good with 440 points on Monday, but it did not extend 
 
 [Note that usage at the time makes this 0.44”.  A fall of 4.40” would have resulted in spectacular floods!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

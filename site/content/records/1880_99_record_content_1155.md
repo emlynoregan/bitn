@@ -27,4 +27,4 @@ Cricket.  Young Australians results for the year 1879-80.
 
 Best batting was J. Walker, av. 30.5, but he played only two innings of a possible 5.  The next best was J. Preece, av. 10.1 over three innings.  W. Cobb with av. 1.6 was best bowler.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

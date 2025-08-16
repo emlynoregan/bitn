@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Despite contrary reports many people have passed through en route to the Barrier Ranges.  Some say the diggings are actually at Cooper’s Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

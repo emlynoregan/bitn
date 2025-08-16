@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Bazaar.  Rev. Father Kreissl SJ appeals for aid for the bazaar.  He mentions the cost of the church as being £3,300 at its opening in November 1874 and the liabilities were then £2,114, since when the liabilities have been reduced to £1,000.  [This figure was corrected in the next issue to £1,300.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

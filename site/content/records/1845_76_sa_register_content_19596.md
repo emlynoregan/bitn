@@ -30,4 +30,4 @@ Accident/Obituary.  On Monday last 13 August Mr Thomas Gubbins was employed at t
 
 [Born 1810 Tavistock, Devonshire: died 13 August 1866 Kooringa aged 56.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

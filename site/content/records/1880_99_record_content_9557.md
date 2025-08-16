@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The annual festival of Hope of Kooringa Tent IOR was held Wednesday in the Wesleyan Schoolroom when about 50 juvenile members sat down for a repast. There are 54 members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

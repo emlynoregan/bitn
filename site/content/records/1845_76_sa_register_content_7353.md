@@ -29,4 +29,4 @@ The Australian Gold Fields
 
 News of the discoveries has already reached Hawaii and Mauritius and ships are being readied to bring diggers from those places.  We may expect arrivals from further away as the news spreads as the example of California has shown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

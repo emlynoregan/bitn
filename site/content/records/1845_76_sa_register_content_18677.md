@@ -35,4 +35,4 @@ A large meeting was held at Stuart’s Hotel Saddleworth on Monday 19 June to co
 
 [The major argument was the centrality of the road to a large and growing agricultural area presently badly served by roads.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

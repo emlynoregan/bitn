@@ -27,4 +27,4 @@ Gawler News
 
 Seen passing through Gawler today was a caravan of 24 wagons, each drawn by ten mules, each wagon loaded with coals, timber etc. for the Northern Copper Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

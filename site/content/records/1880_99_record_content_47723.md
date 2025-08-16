@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Fred Sellars was almost buried when about two tons of stone fell in the ballast quarry on Thursday, but he escaped with a severe bruising and was soon released by those on hand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

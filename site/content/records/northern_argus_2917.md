@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Historic ruins will be excavated and stabilised under archaeological supervision.  Walking trails and interpretive signs will be provided.  Debris will be removed from the Morphett Chimney flue and the area around Morphett’s Whim House will be cleared.  [A more detailed list of sites to be stabilised and given signage follows.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

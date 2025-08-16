@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The Midland Road Board met in Riverton on Tuesday and it was resolved to build a retaining wall near the Roman Catholic schoolroom in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

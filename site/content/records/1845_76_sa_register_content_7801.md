@@ -26,4 +26,4 @@ The Burra Burra Mine
 
 One of the cylinders for the monster engine for the Burra Burra Mine left the Port yesterday, being drawn by 72 bullocks six abreast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

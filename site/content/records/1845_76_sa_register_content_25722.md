@@ -50,4 +50,4 @@ The Government new cutting on Flagstaff Hill was left in nature in some patches.
 
 The applications for commonage in Mannanarie, Pekina, Tarcowie, Yongala, Appila, Terowie and Whyte districts show that farmers are also turning to keeping sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

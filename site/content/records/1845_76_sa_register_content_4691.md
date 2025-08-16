@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Kangaroo Hunt.  A party of sporting gentlemen from the Burra Burra Mine started out on Tuesday evening for a kangaroo hunt.  They returned on Wednesday evening with two kangaroo tails and the carcases.  They reported finding plenty of kangaroos in scrub within ten miles of the Mine.  They will set out again tomorrow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

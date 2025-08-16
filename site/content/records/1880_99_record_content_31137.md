@@ -59,4 +59,4 @@ The Alma and Victoria Gold Mine, after an arduous struggle, has finally paid a d
 
 Politically the Chinese question has claimed precedence.  Stringent measures have been passed by all the Australian Parliaments restricting almost to prohibition the influx of Chinese.  SA has adopted the Federation Enabling Act.  The new Land Bill sets the law relating to Crown Lands on quite a new basis.  The relative authority of the governors and the colonial Governments has been challenged and changed, though not really clearly defined.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

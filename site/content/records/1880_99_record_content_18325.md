@@ -95,4 +95,4 @@ J. Roach thought the footway was not wanted if it cost much and it would be a wa
 
 Mr Steele moved a deputation consisting of Messrs Killicoat, C. Drew, Geake, Holder, Phillips, Launder, Watt, Kennedy, A. Harris and the chairman, wait on Council to request them to rescind the resolution to proceed with the work.  Mr Harry 2nd.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 A report from there on 15 October (18-20 miles or c. 30 km NW of Manna Hill) says that some 150 men are now on the fields and the prospects of gold there are said to be promising.  [Note that Manning in Place Names of SA appears to have confused the station property and the mine, placing the latter near Yunta.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

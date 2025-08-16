@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Recreation ground: SAMA wrote advising that the desired ground for a recreation area at Kooringa was available at £500. The council decided to look elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

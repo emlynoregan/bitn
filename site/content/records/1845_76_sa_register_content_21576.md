@@ -46,4 +46,4 @@ This is surely an anomalous situation. Where the parents can afford to pay more 
 
 In 1865 it was 934, in December 1866 it was 1,191 and now it is 1,365.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Frederick Gebhardt has been bound over to keep the peace for six months as a result of a domestic dispute resulting in information laid by his wife.  [This is not the actual court report, which is found elsewhere.  It is a typical piece of rather laboured humour that dresses the event up in flowery language.  The writer quite often does this and sometimes with rather poor judgement about the underlying seriousness of the event at the core of his wit.  The activities of intoxicated residents are not infrequently portrayed in elaborate metaphors about ships having difficulties in stormy seas, or other such fanciful flights of hyperbole.  The use of English by Chinese residents is also apt to provoke an outburst of such wit.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

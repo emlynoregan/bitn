@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Notice.  Concert in the Wesleyan Lecture Hall on Wednesday 27 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  29 September at Hamilton, Bermuda, Susan Jane Steele, aged 17 years 8 months, 3rd daughter of Joseph Durham Steele and Ann Berry Steele.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

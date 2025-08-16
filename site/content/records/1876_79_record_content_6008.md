@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Police Station. The new police station is being roofed and repairs to the Court House are nearly completed. It now has a tasteful little porch and a commodious clerk's office. Sara & Dunstan are doing the work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

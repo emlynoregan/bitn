@@ -35,4 +35,4 @@ James Williams - an old mine worker and Mr Neal.
 
 [There is no death registered of a Mr Neal (under any spelling) for 1876 except the doubtful Edward Neyle who died 2 October 1876 on the side of the Murray River in Victoria, residence ‘The Bush’ aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

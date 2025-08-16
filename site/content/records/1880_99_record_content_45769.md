@@ -83,4 +83,4 @@ I came across the bridge alone.  I heard nothing and did not break the lamp.  I 
 Since L-C Thomas said he was sure Halls broke the lamp and yet the evidence of witnesses was strongly against Halls being the culprit, the SM said he considered Halls’ explanation satisfactory and as the policeman himself did not consider Schutz guilty he had no alternative but to dismiss the case, though he refused to award costs.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

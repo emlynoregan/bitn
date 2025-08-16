@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Obituary.  Mrs Nesta Beames, wife of Rev. Alan Beames, died last week.  Rev. Beames is a former Uniting Church minister in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

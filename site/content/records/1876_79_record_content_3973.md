@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 St Joseph's. The feast of the Patronage of St Joseph will be celebrated on May 12 and on 9 May a Mission will be held in St Joseph's by Rev. Leo Rogalski SJ.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

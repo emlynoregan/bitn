@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Wittber, head teacher at Burra has written a very creditable Geography text book in 5 parts.  1. Burra & District, 2. SA, 3. History and vegetation of Australasia, 4. General Geography, 5.  Interesting selection of readings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

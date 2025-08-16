@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Ricky Loffler now works at the Burra branch of the State Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

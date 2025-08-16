@@ -64,4 +64,4 @@ The Chairman thought it was the intention of the gentlemen in England to issue f
 
 It was resolved that the Directors would communicate with the London gentlemen with a view to their increasing the amount of the offer and that a draft prospectus of the intended new company be transmitted to Adelaide.  In the meantime the representatives of absentee shareholders would consult their principals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

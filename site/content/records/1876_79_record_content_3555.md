@@ -39,4 +39,4 @@ A procession formed in front of the Institute comprising the Official Guests, th
 
 After the opening of the school the official party inspected the Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

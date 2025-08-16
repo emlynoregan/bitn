@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Obituary/Inquest at the Pig and Whistle 18 Jan. on Florence Louisa Lammin aged 7 months. Died of natural causes - diarrhoea.  [Born Allens Creek, District of Kapunda 5 June 1877: death not in SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

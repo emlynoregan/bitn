@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Water Supply. Letter to Ed. querying why the Aberdeen standpipe is kept locked when parties are waiting for water. Water carts are in a fix since they have no appliance at the Bon Accord to load and the trough at the railway gate is dry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

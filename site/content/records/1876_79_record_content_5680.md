@@ -27,4 +27,4 @@ Editor re the Health Rate Meeting
 
 While we are not surprised by Cr Ridgway's objection to the rate, (as his views were well stated before the election) but rather surprised that he had been content to see it pass and then try to overturn it at a public meeting. We cannot see the sense in thinking that because we can't do all we desire, we should do nothing. Half a loaf is better than none. It must be better to have rubbish removed to a depot at a distance from the centre of town instead of accumulating at our very doors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

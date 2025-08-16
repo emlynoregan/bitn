@@ -41,4 +41,4 @@ There was a letter to Council from W.H. Hardy, seeking information concerning th
 
 The Council prevaricated, claiming they ‘could not agree as to facts asked for’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

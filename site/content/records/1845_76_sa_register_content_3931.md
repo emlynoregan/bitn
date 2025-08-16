@@ -28,4 +28,4 @@ Resident Magistrate’s Court, Kooringa 1 October.
 
 Grace Hosking was charged with assaulting Rose Kemp.  She admitted the assault, but pleaded the provocation of having had aspersions cast on her chastity.  Hosking promised to pay the medical costs and was ordered to pay the court costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

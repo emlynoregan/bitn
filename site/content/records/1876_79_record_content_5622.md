@@ -26,4 +26,4 @@ Editorial on the Chinese Question.
 
 [Interestingly given the popular feeling of the time, he was not opposed to Chinese immigration.] As long as the British system of government and civilization is preserved for all and the Chinese made to live under the same regulations etc. as everyone else then: - `the Chinese have as much right here as we.' The objections are usually their `immorality' and working at a much lower rate of pay. Both could be overcome by enforcing laws on sanitation etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

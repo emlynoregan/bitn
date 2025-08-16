@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  At the Institute.  A Grand Musical and Dramatic Entertainment by Locals and Ladies and Gentlemen from Adelaide, in aid of a New Convent School under the care of the Sisters of St Joseph.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

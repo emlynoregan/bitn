@@ -33,4 +33,4 @@ This was passed along the same lines as above.
 
 Various minor works were then approved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

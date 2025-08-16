@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Anti-Butchers Society seems to be working well.  The managers have so much business that they need three carts to convey the meat to the customers, but not at 3d per pound as some Adelaide people believe, but at 1d per pound less than the butchers.  The present scarcity of cattle and their high price does not allow for then to sell lower.  None of the stockholders will imitate the conduct of Captain R. Goldsworthy, who sold them their first cattle and then made them a handsome donation out of the money paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

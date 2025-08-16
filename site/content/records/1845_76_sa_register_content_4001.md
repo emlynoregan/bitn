@@ -54,4 +54,4 @@ C.S. Penny was elected to a vacant seat among the Directors.
 
 Mr Brown unsuccessfully that the opinion of counsel be sought as to the practicability of dividing the £5 shares into five £1 shares and of opening an office in London for the transfer of shares and the payment of dividends to proprietors resident in England.  Mr Stocks Jnr seconded the first part of this proposal, but not the latter part because he wished to see the property confined as much as possible to residents of SA.   Mr C.S. Penny seconded the proposal for a London office.  Mr Peacock was opposed to any change.  The proposal failed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

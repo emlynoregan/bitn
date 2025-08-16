@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Burra people have responded to the needs of those at Broken Hill in a thoroughly praiseworthy manner, but help is still needed.  P.L. Killicoat, a few days before Christmas, sent 200 fat lambs to Broken Hill.  Mr A. McCulloch has sent two substantial donations.  The town’s ministers have also led appeals for aid and the Town Council has a strong committee to raise aid for the needy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

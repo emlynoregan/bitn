@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Birth.  To Ruth & Gil Strachan, a daughter, Katherine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

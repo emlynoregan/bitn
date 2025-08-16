@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Mice. While clearing up the balance of their wheat stack at Roach’s Mill the workmen bagged 205 mice which have been very destructive this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

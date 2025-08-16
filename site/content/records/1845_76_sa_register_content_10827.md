@@ -64,4 +64,4 @@ J.N. Smith, a Director, pointed out that the cost on their books of the Bon Acco
 
 The proposition to accept the offer was carried with applause, with two dissentients.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -52,4 +52,4 @@ In the ensuing confusion the amendment appears to have been lost on the casting 
 
 Cr Linkson tried to carry on with the Local Board of Health Meeting, but the meeting ended at that point.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

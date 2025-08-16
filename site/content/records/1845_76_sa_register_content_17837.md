@@ -38,4 +38,4 @@ Captain Roach’s Report
 
 Sumpmen are extending the 60 fathom level south from Morphett’s Engine Shaft in which the lode is small and unproductive.  In the 40 fathom level a crosscut is driving southwest from Peacock’s Air Shaft and several branches of high grade ore have been cut; some of 57% and others in red oxide of copper at 66%.  A lode five feet wide has been cut near Waterhouse’s Shaft in blue and green carbonate of copper, but not of the richest quality.  Pitches at and near Peacock’s Main and Air Shafts continue to produce ore of the usual quality and quantity.  Pitches at Ayers and Graham’s Shafts No. 1 & 2 are much the same as usual.  Pitches at Kingston’s Shaft No. 2 have recently improved.  Pitches at Penney’s, Paxton’s, Stocks’s and Roach’s Shafts are unchanged.  Beck’s workings have exceeded expectations.  There are presently 75 pitches at work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

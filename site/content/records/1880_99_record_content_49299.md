@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Billiard Tournament at the Burra Hotel for the last three months was concluded on Friday last with T.P. Halls winning the £5 for 1st prize with S. Moore getting the 2nd prize of £3, F.W. Whyte won the 3rd prize of £1-10-0 and McMillan got the meerschaum pipe for coming 4th.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Burra Town Council.  The inspection of the town on Wednesday showed it to be in 
 
 Two posts and rails to be put in the footbridge at the rear of the Burra Hotel and repairs to the footbridge near the Public School.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

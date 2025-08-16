@@ -32,4 +32,4 @@ This would be better than last year’s report, which showed a £15,000 loss.
 
 The talk is that given a railway line, Burra will again employ her thousand men and if scientifically worked will pay a dividend for generations.  The new engine shaft is now below the 40 fathoms level.  The total ore for the last take is estimated at 650 tons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

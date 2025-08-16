@@ -29,4 +29,4 @@ Offences.  Jones was charged by the Corporation Inspector Jenkin with hawking in
 
 Frederick Gebhardt was fined 10/- for having untrue weights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

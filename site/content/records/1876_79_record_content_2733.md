@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Assoc. Mr Holder tendered his resignation as vice-president on account of lack of time to discharge his duties. He exhibited some lovely slides with a binocular microscope.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

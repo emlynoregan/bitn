@@ -91,4 +91,4 @@ He considered it possible the accident could have been averted if men had walked
 
 He did not consider the embankment unsafe.  Never knew the water high enough to endanger it.  Several reports had said the bank was settling, but Mr Homes had never reported it unsafe.  Gitsham had similarly reported settling without saying it was unsafe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

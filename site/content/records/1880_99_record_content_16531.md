@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Death of Gordon.  Rev. H. Howitt at St Mary’s and Rev. G.E. Rowe at Kooringa Wesleyan Church gave addresses on the death of General Gordon last Sunday and the pulpit at the latter was draped in black.  Reference to the loss was made at all the churches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

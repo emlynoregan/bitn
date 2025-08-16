@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Capitas, or chief of the mule-drivers for the Smelting Works, went into the Murray Scrubs some 8-10 days ago to find some lost horses or mules.  His own horse returned without him after three or four days.  A search party has failed to find him.  Although he is a first rate bushman, it is feared he suffered sunstroke and has perished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -50,4 +50,4 @@ Fire destroyed several acres of grass in Mr Gebhardt’s paddock Friday morning.
 
 Women in Melbourne have petitions for the death sentence passed on Mrs Frances Knorr, the Brunswick baby killer, to be commuted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

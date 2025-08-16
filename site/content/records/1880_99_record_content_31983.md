@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the fall of the gigantic copper syndicate and with it the hopes of seeing the Burra Mine working again.  With copper around £40 a ton we fear even the tributers will not remain at work, but there is some hope it will rise to at least £50 which should still be profitable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

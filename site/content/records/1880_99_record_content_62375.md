@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Season.  The break afforded by the recent rains looks very promising and farmers are busy.  The high price of chaff (£7-10-0 a ton) places it beyond the reach of many.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

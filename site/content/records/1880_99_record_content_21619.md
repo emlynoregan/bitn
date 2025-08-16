@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs McNeil, wife of Rev. T. McNeil, former Bible Christian minister at Burra, and now at Moonta, died on Tuesday leaving six young children. [Registered as Annie Clap McNiel, died 10 March, aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

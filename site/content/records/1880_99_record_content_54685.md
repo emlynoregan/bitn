@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Cake & Fancy Fair was a great success on Wednesday and Thursday at the Institute. [Fancy items listed included cushions, smoking caps, coseys, (sic) & wool work mats.]  The fair, concert and ball raised c. £80.  There is a ½ column review of the concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

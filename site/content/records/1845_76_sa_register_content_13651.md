@@ -28,4 +28,4 @@ Obituary/Inquest.  Thomas Hayward was found dead in his bed on Sunday morning an
 
 [Thomas Hayward died 19 August 1860 near Sod Hut aged 52.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

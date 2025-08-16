@@ -28,4 +28,4 @@ Cricket.  2nd annual match Burra v. East Adelaide on Monday 27 Dec. Boxing Day. 
 
 On 28 Dec. at Kooringa Burra 82 defeated Mintaro 67.  Burra was 29 for 4 in the second innings when play ended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

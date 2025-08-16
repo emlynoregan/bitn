@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Coad lectured for about two hours on Temperance, in the Bible Christian Church on Friday last.  Though a powerful speaker, he is an extremist of the first order.  One evening this week he lectures at Redruth on ‘The tongue: its uses and abuses’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

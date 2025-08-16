@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 A writer wondered why police allowed the Commercial Hotel to trade beyond 11 pm — indeed 2 am is mentioned with singing, swearing and sounds like quarrelling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

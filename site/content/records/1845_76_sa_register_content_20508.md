@@ -32,4 +32,4 @@ Obituary.  Mr Tennant, well known squatter of Pt Lincoln died at the Globe.  At 
 
 [John Tennant died 11 May 1867 Adelaide, residence Pt Lincoln aged 67.  He was the grandfather of John Tennant who bought Princess Royal Station in 1900.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

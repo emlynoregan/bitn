@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Institute 23 august, Archibald Forbes will deliver his celebrated lecture: The Inner Life of a War Correspondent.  4/-, 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

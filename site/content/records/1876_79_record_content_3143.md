@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Entertainment Advt, for Madame Carandini, Miss Marie Carandini, Signor Ortori (violin) and Mr Walter Sherwin with Mr Cecil Forrester (comic). Appearing at Institute 25 & 26 Nov. Seats 3/- & 2/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

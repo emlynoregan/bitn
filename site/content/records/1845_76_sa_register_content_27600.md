@@ -41,4 +41,4 @@ The Church of England Sunday School children enjoyed their annual picnic at Mr M
 
 Thiodon’s Exhibition is at the Institute Hall.  Attendances have been fair and the views have given general satisfaction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

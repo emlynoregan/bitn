@@ -26,4 +26,4 @@ SA Election
 
 A requisition is printed calling on Mr H. Mildred to stand for election for the Burra Burra District.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

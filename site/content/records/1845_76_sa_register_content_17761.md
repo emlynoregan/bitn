@@ -36,4 +36,4 @@ While at Kooringa I obtained through the kindness of Mr Porter at Springbank a f
 
 Going north, I discovered, between Booborowie and Canowie a fossil rock containing numerous organic remains of the genus natica, elenchus and serpulœ, probably of the Pliocene Tertiary epoch and on the Bendiuta Plains the shells of the recent helix in great abundance and well preserved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

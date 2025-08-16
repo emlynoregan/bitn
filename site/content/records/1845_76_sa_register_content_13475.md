@@ -34,4 +34,4 @@ The Bible Christian Sunday School celebrated its Anniversary on Sunday when serm
 
 Thursday last, Her Majesty’s birthday and Whit Monday were both observed as a half holiday.  Almost all shops were shut and races were held at Dry Hill [Cross Roads] on Monday, but they were thinly attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

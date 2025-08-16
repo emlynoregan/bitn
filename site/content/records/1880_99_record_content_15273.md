@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W. Pearce jun. writes urging the Town Council to procure 100’ or 150’ of hose and get say six volunteers to practise twice a week at fire fighting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

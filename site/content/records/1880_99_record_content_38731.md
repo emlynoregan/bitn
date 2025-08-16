@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Hallett Sports Meeting.  The results of this very successful picnic sports meeting on the anniversary of the Institute are printed.  The evening entertainment was also largely attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

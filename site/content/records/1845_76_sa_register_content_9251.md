@@ -40,4 +40,4 @@ Masons	1 in 190
 
 [The article gives a lot more statistical information.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

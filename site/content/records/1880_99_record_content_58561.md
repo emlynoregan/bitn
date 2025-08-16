@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 At Saddleworth on Monday: St Mary’s 141 & 82 (223) defeated Saddleworth 71 & 41 (112).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

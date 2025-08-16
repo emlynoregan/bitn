@@ -46,4 +46,4 @@ The clearing of the court while the Magistrates discuss in private suggests to t
 ‘It will be well for the sake of law and order when a competent Resident Magistrate is appointed for Kooringa and the adjacent districts.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

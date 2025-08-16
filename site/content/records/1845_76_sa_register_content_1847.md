@@ -28,4 +28,4 @@ SA Mining Association
 
 The manager of the SA Company held a champagne lunch at the Port yesterday on the occasion of the opening of a new wharf, specially intended to accommodate the SA Mining Association whose vast accumulations of ores and large shipments have made an increase in wharf accommodation essential.  A well arranged spread was prepared by Mr Wakeling at 3 p.m. and the party then adjourned to the hotel.  Although called a ‘lunch’ the toasts etc. prolonged the occasion to 7 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

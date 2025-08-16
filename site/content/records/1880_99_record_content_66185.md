@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Football Club.  The opening meeting for the year was held in R.D. Pascoe’s’ shop on Saturday evening.  It was a well-attended meeting which decided on one club in the town this year.  Subscriptions are 2/- for the season.  It was resolved that Hon. John Lewis be asked to be President with E. Hirschausen as Captain and The colours to be blue and white.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

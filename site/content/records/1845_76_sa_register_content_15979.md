@@ -36,4 +36,4 @@ Mrs Woodhead of Mintaro has taken over Mr Dorg’s Post-Office Store, which had 
 
 Many farmers are carting wood to the Burra or wool from the northern sheep stations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

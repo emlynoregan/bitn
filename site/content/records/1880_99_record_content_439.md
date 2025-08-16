@@ -49,4 +49,4 @@ For this year Ayers St will require £30 plus the £20 already granted.
 
 There was then a debate over the relative merits of the Gaol Road and Ayers St (the Cemetery Road).  It was eventually resolved that surplus monies accumulated from the slaughterhouse and the cemetery would be appropriated to South Ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

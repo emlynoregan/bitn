@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The SA Co. with its large landholdings is faced with a land tax bill of £2,500 and has decided to sell a portion of its land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

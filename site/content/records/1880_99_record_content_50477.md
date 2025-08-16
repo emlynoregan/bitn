@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Modern Travel!  On 17 May 1893 Mr John Snell posted a letter to Cornwall and he received a reply on 17 July.  40 years ago he ‘had to content himself on the water six months’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

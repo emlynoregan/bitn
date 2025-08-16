@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Season.  The far north is very bad with drought with sheep at Beltana dying at the rate of c. 100 a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  One morning last week water was unavailable again, but a supply was restored by the end of the day.  The amount of water is still severely restricted as repairs have not yet been effected following the recent breakage.  The water level in the well continues to fall requiring an additional piece of suction piping to be added this week.  Pumping has been extended beyond midnight, but with only one set of pumps working there is barely enough water for domestic necessities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

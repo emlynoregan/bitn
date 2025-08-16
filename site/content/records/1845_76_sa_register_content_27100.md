@@ -50,4 +50,4 @@ William Young, grocer’s assistant, said that at about 2.20 a.m. on Thursday mo
 
 The jury found it impossible to determine whether the fire was the result of an accident or the work of an incendiary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

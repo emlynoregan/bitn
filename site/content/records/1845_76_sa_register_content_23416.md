@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Road.  The main north road to Burra is in a very bad state.  Scarcely a day goes by without the coach being stuck through a broken spring or failure of the harness.  In places the road is a perfect bog.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

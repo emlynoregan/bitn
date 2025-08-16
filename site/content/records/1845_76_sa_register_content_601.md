@@ -78,4 +78,4 @@ Directors to retire by rotation are Messrs Penny, Bunce, Neales and Paxton and a
 
 [The balance sheet is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

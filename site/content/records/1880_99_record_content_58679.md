@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Harry Rickards, who recently appeared at the Redruth Court, has now been tried at Gladstone Court for getting money under false pretences.  On Saturday he was sentenced to six months in gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

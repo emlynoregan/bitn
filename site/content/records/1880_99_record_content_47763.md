@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Pro Bono Publico’ writes commenting on the admission by Cr hardy that there was a hatchet to bury and saying how the behaviour of those wielding it during the year has so lowered the respect for the office that it was hard to get anyone to stand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

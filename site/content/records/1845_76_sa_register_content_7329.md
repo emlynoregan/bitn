@@ -32,4 +32,4 @@ The mail from Melbourne confirms the ongoing flow of gold to that city, though a
 
 We have seen a further example of gold found within twelve miles of Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

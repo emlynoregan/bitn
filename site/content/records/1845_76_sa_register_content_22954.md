@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Logan’s Gap Station sections 96 to 100 Apoinga of 792 acres with house etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

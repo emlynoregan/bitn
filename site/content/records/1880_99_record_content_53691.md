@@ -31,4 +31,4 @@ Burra Chrysanthemum Show.
 
 Messrs Cave, Lewis and Harvey were the main exhibitors.  Cave’s exhibit of 24 blooms was the best ever seen in Burra.  It was all the more surprising as he had culled 150 of his best blooms for the Adelaide Show.  He also exhibited some beautiful dahlias.  A full prize list is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

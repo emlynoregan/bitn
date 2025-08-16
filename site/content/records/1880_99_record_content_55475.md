@@ -43,4 +43,4 @@ Cr Hardy moved the Inspector return all fees received for weights and measures t
 
 After some discussion including legal questions it was decided to allow all officers to occupy their position during the pleasure of the Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

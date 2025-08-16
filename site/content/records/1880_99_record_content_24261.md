@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 A mixture of large and small advertisements: mostly local, but some from Adelaide or general.  Larger items dominated, notably those of F.H. Faulding (Patent Medicines), Cross’s Indigestion Drops and G. & W. Shierlaw of Glascow [sic] House Hindley St Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

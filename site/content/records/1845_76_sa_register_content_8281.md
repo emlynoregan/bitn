@@ -38,4 +38,4 @@ Since the AGM in April the Directors have paid two dividends of 100% and it is t
 
 [The complete balance sheet is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

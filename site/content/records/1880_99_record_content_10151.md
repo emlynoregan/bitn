@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Trains.  On Wednesday 11 June Mr Bosworth moved that the timetables on the Balaklava and branch lines be adapted to enable the public on lines beyond Hamley Bridge to travel between Terowie and Wallaroo in one day - now taking four days under existing arrangements.  The proposed timetable is appended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

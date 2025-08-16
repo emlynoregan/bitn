@@ -30,4 +30,4 @@ Football.  The Aberdeen v. Saddleworth match is reported in more detail than in 
 
 Here Saddleworth is first credited with 126 in the first innings and in the score sheet details with 115, although the scores listed there actually add up to 126.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

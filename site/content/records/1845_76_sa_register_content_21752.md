@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Rev. W.S. Worth was presented with a purse of 20 sovereigns before he left Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

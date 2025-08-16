@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 An Earthquake was felt in Burra last Saturday night at 10.30 p.m.  [Strangely enough other reports in the area placed it about 10 p.m. except for Black Springs which reported it as occurring at 9.25 p.m.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

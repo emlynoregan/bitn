@@ -29,4 +29,4 @@ W.H. Hardy writes complaining of the new railway timetable in which the afternoo
 
 The editor agrees, especially on sale days when business could not be transacted in time for the stockowners etc. to return home after the sales.  As the colony’s biggest livestock market Burra deserves more consideration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

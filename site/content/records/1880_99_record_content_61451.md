@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Augusta Werner, store assistant of Robertstown bought stamps worth 3/8 from Emsell and a model ship for 3/-.  [Later in the sentence it says ‘he bought’, so this was probably August Werner.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

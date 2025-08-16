@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 T. Halls.  There is a somewhat oblique article referring to ‘The Prodigal’s Return’ and mentioning only the name ‘Tommy’, but this with the statement of the sum involved makes it clear that Mr T. Halls was brought back from Waukaringa where he had fled to avoid paying the £1-2-6 in fines and court costs recently imposed.  He was working the sum off in Redruth Gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

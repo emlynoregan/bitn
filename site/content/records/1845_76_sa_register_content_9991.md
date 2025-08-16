@@ -31,4 +31,4 @@ Kooringa News
 
 The mail cart sustained another accident on its way to Burra on 14 June with the same driver.  About six miles from Apoinga the axle broke.  The driver put the mail bags on one of the horses and walked alongside it into Black Springs, where a fresh horse was obtained and the ostler was despatched to Kooringa with the mail, arriving at 11 o’clock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

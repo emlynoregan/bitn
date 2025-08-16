@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 On Good Friday the Wesleyans held a tea at Mt Bryan Flat to raise funds to build a chapel there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

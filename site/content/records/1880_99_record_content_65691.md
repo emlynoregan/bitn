@@ -30,4 +30,4 @@ John Baker, 2nd son of Mr & Mrs S. Baker of Redruth and
 
 Mary Liebeknecht of Robertstown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

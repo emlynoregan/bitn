@@ -55,4 +55,4 @@ Cr Sampson in answer to a question said he had voted for the new footbridge in C
 
 He accused Crs Geake and Ward of being in collusion which would have led to acrimony had the chair not ruled both Cr Sampson and Geake out of order and brought to an end ‘a most tedious and unprofitable meeting.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Anniversary services last Sunday.  Rev. J.H. Hadley preached.  The afternoon service of song was The Little Pilgrim.  The public meeting was last night and the picnic and sports will be held near Sod Hut next Friday, the Prince of Wales’ Birthday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

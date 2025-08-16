@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mrs Henry Chambers	Kooringa Educational Institution for Young Ladies
 
-Source: [1880-99 Record .doc](/downloads/markdown/1880-99 Record .doc)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

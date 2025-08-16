@@ -30,4 +30,4 @@ Accident.  A gun being handed to Mr Nichols*, who was in his trap at Vivian’s 
 
 [* Corrected in the next issue to Mr John Nykiel, of Hill River.  See also probable reference VI, 390, 18 Nov. 1884, page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

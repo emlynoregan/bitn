@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Margaret Lyons, an old lady residing at Redruth, died suddenly in a neighbour’s house on Saturday.  She was visiting Mrs Allan Morrison and the latter went to attend to one of her children in bed and while there she fell asleep.  When she awoke in the morning she found her visitor had died.  Dr Brummitt certified the cause as heart disease.  [Died 4 July aged 62.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

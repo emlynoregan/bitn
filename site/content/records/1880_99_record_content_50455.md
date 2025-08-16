@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Rabbit Shoot at Baldina with 30 shooters was held last Saturday and 688 rabbits were shot between 9 a.m. and 5 p.m. in an attempt to exterminate the pests.  They started from Schmidt’s Farm (formerly the old World’s End Run Head Station) and going north as far as Duldig’s Farm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ BCS.  Andrew Burns gained the best results for BCS students in the Westpac Maths
 
 Tim Stockman received highest marks for BCS Year 7 students in an Australia-Wide Science Competition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Redruth Primitive Methodist Church Anniversary, 4 & 7 May.  Rev. Rowe and Rev. Tresise preached.  The tea meeting was well attended.  The trustees have decreased the debt and paid £40 for a piece of land and effected other improvements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

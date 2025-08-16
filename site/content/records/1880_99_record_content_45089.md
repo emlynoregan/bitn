@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Baldina Plain School.  In a previous issue we mentioned that the teacher at Baldina Plain School had received instructions from the Education Department to close it.  Such assertions now prove to have been false.  It appears the gentleman who left the place did so unknown to the authorities and when they were acquainted of it arrangements were at once made to compel him to return, but after a little consideration it transpired that he had left because he did not like the place.  The school is to be opened again and the fear the parents had of bringing up their children in ignorance is removed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

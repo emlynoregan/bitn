@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  On 13 May at Kooringa, Frederick Thomas, fifth child of Charles Henry and Jane Ewins, aged 3 years 6 months.  [Born 29 October 1881]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

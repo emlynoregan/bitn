@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Junior Foresters were entertained with a Magic Lantern show on Monday evening by J.A. Watt.  The pictures ran from the comic to the sentimental.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

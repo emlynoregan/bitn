@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  This season [in the northern area] more land has been placed under cultivation and so total production may increase, but the average yield will doubtless be less due to the drier conditions.  No rust has yet been reported.  Pleuro-pneumonia has not spread to a serious extent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

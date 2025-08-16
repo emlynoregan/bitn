@@ -27,4 +27,4 @@ Burra Institute. Half yearly meeting. President F.W. Holder and 9 others.
 Income £20 1-14-3, expenditure £173-i 8-5, liabilities £603-9-1 1. Subscribers, 153. Since 3 
 June £180 has been received from the Govt. There are 1,849 books.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

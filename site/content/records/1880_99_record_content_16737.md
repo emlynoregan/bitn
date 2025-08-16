@@ -36,4 +36,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Bazaar in the Institute on Wednesday was opened by Mr Bundy, the Mayor of Adelaide.  There was a good attendance at the opening.  The living waxworks were very impressive in the adjoining room and included Topsy, May Queen, Italian Beauty, Gipsy Queen, William Penn, Cinderella, Sleeping Beauty, and others.  About 200 visited the show in the evening.  There was a large attendance at the bazaar.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

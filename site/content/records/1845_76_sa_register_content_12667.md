@@ -28,4 +28,4 @@ Accidents
 
 On Saturday morning the tyre of the mail cart from here broke going up the street and the mail had to be forwarded by horseback under the care of Thomas Colley, an old and experienced driver.  Five miles north of Hamilton the horse stumbled and Colley was thrown, breaking an arm.  He was unable to move and remained there until a dray, coming from Kapunda, picked him up.  It returned with him and the mail to Hamilton, from which the mail was eventually forwarded.  Meanwhile the cart was repaired, but suffered four further breakdowns before finally getting away.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

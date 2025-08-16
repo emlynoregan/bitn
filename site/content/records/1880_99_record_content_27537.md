@@ -27,4 +27,4 @@ Burra Mine.  [Reprint of a letter to the Advertiser.]
 
 The writer assures us there must be a good lode there and with the present prices the mine ought to be worked.  The surrounding area has been poorly explored.  The company should have sold the mine at a reasonable price and then recouped through the rising value of their assets in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

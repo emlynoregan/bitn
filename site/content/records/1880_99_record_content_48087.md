@@ -36,4 +36,4 @@ The paper in 1892 does not carry literature except for occasional original poems
 
 Mostly later in the year the paper issued a number of supplements of varying size.  Some are as small as half A4 and others quarto size and sometimes larger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

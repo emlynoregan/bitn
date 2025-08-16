@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The picnic turned out to be such a success that the committee is left with a considerable surplus when they has anticipated a deficit.  Mr Rounsevell has been thanked by the committee for the use of his mail cart on the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

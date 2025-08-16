@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 R.S. Stacey, photographer, who came to Burra about 14 years ago, has returned to practise his art.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

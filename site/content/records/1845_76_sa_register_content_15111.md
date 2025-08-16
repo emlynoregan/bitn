@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 On Friday a little boy called Prior fell into a well and sustained a rather severe contusion to the head.  I have not heard how he is progressing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

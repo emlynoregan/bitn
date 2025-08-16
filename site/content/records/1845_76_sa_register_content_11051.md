@@ -37,4 +37,4 @@ Drivers will be expected to load light with ore and heavy with coal.  Rate 30/- 
 
 James Hamilton, Manager, The English & Australian Copper Company, 1 October 1857.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

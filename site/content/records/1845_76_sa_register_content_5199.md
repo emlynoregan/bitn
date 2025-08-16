@@ -35,4 +35,4 @@ Accident/Obituary.  A son of Mr Forrester, the landlord of the Gilbert Arms Hote
 [This death does not appear in SA Deaths CD, but BISA suggests it was Edmund Bowman Forrester, whose birth was registered as 10 May 1842 near Willunga.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

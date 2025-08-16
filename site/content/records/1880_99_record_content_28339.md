@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 [He signs himself W.H. Hardy and so removes his disguise: though both style and content must have made it very clear who he was all along.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

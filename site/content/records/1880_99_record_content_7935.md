@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Birth.  23 September, at Spring Farm, World’s End, to the wife of Thomas McWaters, a son.  [Charles Alic]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

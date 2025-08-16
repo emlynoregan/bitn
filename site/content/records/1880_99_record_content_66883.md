@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Concert at World’s End on Wednesday was given by a group from Burra.  [This would appear to have been associated with the World’s End school annual sports day.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

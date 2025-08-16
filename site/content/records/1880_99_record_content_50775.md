@@ -32,4 +32,4 @@ At Monday night’s meeting very disparaging if not insulting remarks were passe
 
 The Mayor said that last year the trees had been planted properly: this year the ground was ‘pig-muzzled’ and the trees thrown in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

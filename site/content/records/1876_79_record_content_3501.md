@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Burra School. Though not all teachers have been appointed, there are now 369 children enrolled.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

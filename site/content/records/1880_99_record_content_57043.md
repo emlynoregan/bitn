@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Henderson v. Fie in an unsatisfied judgement summons for costs.  Fie was ordered 10 days in Gladstone Gaol.  [The next issue corrects this: the names should be the other way round and it was therefore Henderson who was ordered the 10 days at Gladstone.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

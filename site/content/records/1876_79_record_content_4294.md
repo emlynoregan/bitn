@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt.; Entertainment at the Inst. 15 July in aid of the building fund. Dissolving views of the overland route to India at a lecture by Dr. Brummitt. 2/- & 1/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

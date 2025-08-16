@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mr John Sampson who has been bailiff for many years has retired: ‘and a man even more Noble than he had emerged’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

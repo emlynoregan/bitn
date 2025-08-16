@@ -37,4 +37,4 @@ The City to Port Adelaide Railway cost about Â£25,000 per mile, of which about Â
 
 Messrs Stevens & Coke have decided to send a barge with flour up the Murray to the Victorian Gold fields.  This has sparked great interest in the other colonies, with talk about the implications of both river trade and railways.  The likely extension of Victorian railways to the gold fields means that the development of SA lands along our railway must be a major consideration and not just the benefits of tapping any inter-colonial trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

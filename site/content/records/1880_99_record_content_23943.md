@@ -31,4 +31,4 @@ Burra Town Council.  The total liabilities of the Council on 1 January 1886 was 
 
 A list of the year’s works is given.  Most of the work was on road forming and metalling of 264.5 chains and the making of 187.25 chains of footpath.  There were also 39.25 chains of kerbing and 40.75 chains of water tabling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

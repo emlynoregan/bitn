@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A.R. Tuck, of Narridy, writes re the eight-hour system.  He is against the paper’s view and for the eight-hour day.  He finds it hard to see the claimed mutual benefit for worker and employer for the worker’s slaving an extra two hours a day for the same wage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

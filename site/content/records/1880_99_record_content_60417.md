@@ -34,4 +34,4 @@ The evening service will be a pictorial service using a powerful lantern.
 
 Rev. J. Bice gave an interesting lecture on 5 August at St Mary’s Schoolroom aided by a powerful lantern, on Missionary Work in the South Sea Islands, where he spent 25 years as a missionary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

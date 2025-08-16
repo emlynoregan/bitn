@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Weather.  On Monday 3 January a tremendous thunderstorm struck Kooringa at about 7.30 a.m. and in about an hour delivered 66 points of rain.  Heavy falls to the northeast are presumed because the creek is running high and sweeping all before it.  Many snakes have been brought down with the water and have been killed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

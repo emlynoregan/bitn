@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Control the Boys’ blaming lax parental control for the problems of larrikinism etc.  ‘Children of the present generation are allowed too much liberty altogether, very different from the way they were managed by the wise and good old parents past and gone.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Lancelot.  Messrs Anderson, Dick & Co., wool-buyers, scourers and fellmongers, h
 
 There is also an advertisement in column 2 for the ‘Lancelot Woolwash’ for which the address is Railway Station, Dawson Road, Lancelot.  This seems odd since as far as I can see Lancelot didn’t have a railway station (or a railway for that matter).  Perhaps it was at Ucolta.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

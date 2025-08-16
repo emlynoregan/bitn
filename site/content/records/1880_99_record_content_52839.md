@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 E. Kuchenmeister of World’s End met his creditors and was almost declared insolvent at the Commercial Hotel on Wednesday, but it has been decided that arrangements could be made for 12 months grace.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

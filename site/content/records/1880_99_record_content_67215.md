@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Mutual Improvement Soc. staged a mock Parliament to discuss household suffrage and the desirability of the SA Contingent to South Africa.  Ultimately both were favoured by those assembled.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

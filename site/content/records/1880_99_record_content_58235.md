@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr J.A. Kennedy was presented with an address on Friday 20 September before his removal to Glenelg, in recognition of his work at Burra.  On the morning he left the School Fife & Drum Band farewelled him at the station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

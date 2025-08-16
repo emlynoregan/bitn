@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Alex Harris’s Wood-Yard: Chaff £4-10-0 a ton, Wood £0-11-0 a ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

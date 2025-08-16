@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Band of Hope intends to hold a sports day on 1 January 1882, followed by tea and a soiree.  Due to the insulting behaviour of some strangers at meetings the police have been asked to look in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

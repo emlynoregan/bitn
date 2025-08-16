@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 E.H. Grafe has been obliged to call his creditors together – business being flat and too much booking going on and insufficient money being earned for the working people to pay their way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

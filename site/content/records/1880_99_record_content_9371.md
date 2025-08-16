@@ -34,4 +34,4 @@ The survey money has been placed on fixed deposit as it has been found insuffici
 
 The town has been much improved with respect to footways, roads and bridges.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

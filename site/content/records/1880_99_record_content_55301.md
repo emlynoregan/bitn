@@ -50,4 +50,4 @@ Mr Shortridge was again standing as auditor a position he has held for 8-9 years
 Dr Brummitt said he would like to see a pavilion at the oval, but would need to see how it would work first.  He did not think a reduction in rates possible until the whole of the bonds were repaid in 1897.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

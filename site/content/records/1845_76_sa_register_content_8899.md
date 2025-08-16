@@ -26,4 +26,4 @@ The Burra Burra Mine
 
 The latest report from the Mine at 6 p.m. on the 1st inst. [?] reports the water reduced by 8.5 fathoms below the 20 fathom level and the workings all secure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

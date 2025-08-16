@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Riverton Salvation Army had a tea and presentation of colours on 1 May when the band from Burra attended.  There were afternoon and evening marches through the streets.  Major and Mrs Thurman led the services.  [Perhaps ‘Thurmann’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

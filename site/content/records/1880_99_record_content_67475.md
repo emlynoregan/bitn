@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 SAMA was very lucky to get the services of Mr P. Leahy to conduct the drilling over the last two years and one week.  The drill in that time had sunk through 1,808’ 9” of rock at minimum cost due to breakages.  We will be interested to see how he goes with his new job at the Ediacria [sic] boring plant – four engineers so far having been unable to cope there.  [Presumably Ediacara, west of Beltana.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

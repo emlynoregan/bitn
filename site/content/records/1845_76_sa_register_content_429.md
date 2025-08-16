@@ -36,4 +36,4 @@ Section 2402 on the sources of the Light about 3 miles east of Stocks Town
 
 Section 3200 at Emu Springs 16 miles [south] from Burra Burra Mines
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

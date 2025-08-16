@@ -27,4 +27,4 @@ Editorial on the waterworks.
 
 An effort to get sufficient guarantees to take the water has now resulted in the total reaching about £320.  SAMA has not yet replied and one or two others and it is probable the target will be reached.  As more people come in the price, now set at 6/- per 1,000 gallons, can be reduced.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

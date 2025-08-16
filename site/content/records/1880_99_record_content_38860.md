@@ -31,4 +31,4 @@ Trees.  In the year 549 were planted: 52 in East Ward, 41 in North Ward and 426 
 
 c. 500 trees planted previously had died and were replaced.  Subscriptions of funds for trees totalled £47-5-10.  The planting of No. 2 Reserve was planned to be the School’s Arbor Day, but it was wet and so were two other days chosen and eventually it was abandoned for this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

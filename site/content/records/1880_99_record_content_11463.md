@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A reasonable policy would be 1st the waterworks, then a weir across the creek to provide a lake equal to that on the Torrens.  Stock it with fish and allow our youth to develop muscles rowing.  2nd acquire the markets and make them serve the town.  3rd lay a tram track from the station to the hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

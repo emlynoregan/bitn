@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 [Note that the terminology for the group is inconsistent.  In the same report it is referred to as the Burra Mounted Infantry Company and in another as the Burra Division of Mounted Rifles.  The terms Mounted Infantry and Mounted Rifles continued to be used interchangeably.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

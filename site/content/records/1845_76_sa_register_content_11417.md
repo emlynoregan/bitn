@@ -30,4 +30,4 @@ Advertisement.  Wanted, drivers for horse and mule teams to work between Burra C
 
 James Hamilton, Manager, Burra Copper Works, 20 February 1858.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

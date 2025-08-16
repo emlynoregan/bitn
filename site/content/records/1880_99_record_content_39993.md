@@ -62,4 +62,4 @@ Though this year starts in credit there is £200 in bonds to redeem and coupons 
 
 Rates this year are not likely to bring in over £500 on the reduced assessment, so there will be little available for public works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

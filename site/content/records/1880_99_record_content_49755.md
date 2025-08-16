@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bank Failures.  Besides the Commercial and the English, Scottish and Australian chartered bank failures, the Australian Joint Stock Bank has now suspended payment and is in the course of reconstruction.  It was the oldest established bank in Sydney.  There had been a run on deposits since last Tuesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

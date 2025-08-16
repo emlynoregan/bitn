@@ -31,4 +31,4 @@ publication_slug: northern-argus
 
 Best Place Creek Area Plan is currently on public display.  The plan offers low maintenance landscaping with provision for toilets and car and bus parking and the extension of the bicycle track from Redruth Bridge to St Just Street.  Currently the nearest public toilets to the Burra North Shopping area are located at the Burra North Playground, about 1 km away.  The Ludgvan Street deviation will close Redruth Bridge to vehicular traffic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

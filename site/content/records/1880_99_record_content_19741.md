@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Fire.  A stack of straw belonging to Dr Sangster has burnt.  Was it children playing with matches?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

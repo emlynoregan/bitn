@@ -31,4 +31,4 @@ Sara & Dunstan. For many years all bricks used in Burra have come from Gawler or
 Hindmarsh, but now this local firm has erected a kiln on land got from SAMA in the Burra 
 Creek and are able to supply good local bricks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

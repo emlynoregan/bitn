@@ -43,4 +43,4 @@ Charles Ware of the Miners’ Arms said he was prepared to become bail for Allen
 
 PC Rogers swore to the correspondence between the chisel in evidence and marks on various places broken into and on a writing desk of John Higgs, which was produced in court and the marks shown to correspond precisely.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

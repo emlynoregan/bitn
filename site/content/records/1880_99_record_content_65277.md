@@ -31,4 +31,4 @@ Cycling News.
 
 The Broken Hill 25 mile cycling record of W. Virgin was lowered by J.A.S. Bagg of Burra a day or two ago to 1 hour 16 minutes 17 seconds: nearly 5 minutes lower.  J.E.Virgin’s 10 mile record was lowered by Fuss to 29 minutes 32.4 seconds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

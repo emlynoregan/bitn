@@ -46,4 +46,4 @@ A very large number of workers at the Mine have signed a letter to the Directors
 
 Everyone interested in the general welfare must see much cause for regret in the declared necessity of this determination on the part of the workers.  But this feeling must be accompanied by an almost positive conviction that ‘the Directors of the South Australian Mining Association are at fault; if only because they have not suffered sufficient time to elapse since the late unfortunate disturbance.  A company able to make such magnificent dividends, and possessing such unbounded mineral wealth, ought not to set the example of any sweeping reductions, for which the plea of stern necessity cannot be urged.  We foresee and warn the Directors of serious consequences, as likely to ensue to themselves and the colony, from the adoption of a grasping and grinding policy.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

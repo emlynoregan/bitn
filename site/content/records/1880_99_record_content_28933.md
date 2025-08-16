@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Notice.  Messrs Morris, Sandland and Barritt will auction at the Institute on Wednesday 4 July at 12.30 over 300 lots from the Directors of the Museum of Art and Manufactures Kobe-Hiogo of Japan.  17 cases of Japanese Manufactures and Art Productions.  Embroidered Silks, Screens, Porcelain, Bronzes, Enamels, Lacquered Ware, toys, Curios etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

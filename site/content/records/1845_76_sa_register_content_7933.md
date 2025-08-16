@@ -28,4 +28,4 @@ A letter from Mount Alexander
 
 [The writer says he has been there with three others for a fortnight and they have not got more than 1½ ounces of gold and have not paid expenses.  He wishes he had stayed home, having endured bowel complaints, colds and other problems, though quite well as he writes.  He intends to stay until the wet weather makes success more likely or until he gets at least £10.  He will then return to Adelaide and ‘take care how I leave it again’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

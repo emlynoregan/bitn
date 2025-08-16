@@ -68,4 +68,4 @@ In collecting money for these buildings Father Kreissl travelled far, going to t
 
 On 12 March 1884 he left Manoora where he had resided while attending the Burra Mission and took up residence in Jamestown, which along with Caltowie was in his charge up to his last illness.  In 1885 he began the new Church of St Kilian, which was opened by the Rt Rev. Dr Reynolds on 22 March 1886.  While pastor of Kooringa he was given a buggy and harness and when leaving for Jamestown a purse of sovereigns which he donated to St Joseph’s.  His last mass at Jamestown was on 29 July 1888 and in poor health he left on 15 August, passing through Kooringa on his way to Seven Hills where he died on 29 August.  On 5 September a Solemn Requiem Mass for him was celebrated at St Joseph’s, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

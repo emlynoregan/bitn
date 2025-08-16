@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Accident. The horses on Sara & Dunstan’s dray bolted on Monday last. The driver had to let go his hold to save himself and the dray was upset when it collided with a post at the Aberdeen Bridge, spreading the load of cement and timber over the approach. The horses escaped with a few scratches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 A contract was let for a large culvert in Redruth and the other matters as discussed in the editorial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

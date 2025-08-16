@@ -30,4 +30,4 @@ Redruth Court.
 
 Samuel Tredinnick, aged 20 was charged over the jewel case theft at Mt Bryan recently.  The accused had slept in the bedroom where the jewel case had accidentally been left.  He had been seen to go out the back more than once.  Albert Thomas Fairchild, blacksmith, of Ironmine, had been shown the case and could identify some of the contents and he gave evidence about the prisoner’s presence and of his being near where the box was later found.  The prisoner was found to have a heart-shaped locket from the box in his possession.  He claimed another man had entered the room and taken the box and he had found the locket on the floor.  He was committed for trial in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

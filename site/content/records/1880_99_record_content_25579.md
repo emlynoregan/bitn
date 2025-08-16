@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Leo Lummer, son of the deceased, said he came home and found the horse and trap at the pannels [sic?]  with reins hanging loose.  He drove back and found his father lying on his back on the road by Mr Browning’s house.  His father was aged 48.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

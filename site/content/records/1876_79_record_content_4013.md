@@ -30,4 +30,4 @@ After this Date the above Line of Coaches will START from HALLETT instead of Bur
 
 May 17, 1878.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

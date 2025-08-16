@@ -29,4 +29,4 @@ Black Hills Proprietary Silver Mine Co. Ltd.
 
 A meeting was held at the Institute on 3 April.  The company will be voluntarily wound up under the Companies Act of 1864.  William Davey has been appointed liquidator at £15.  The resolutions will be confirmed at a meeting on 18 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather in the last week has been most boisterous, especially on Friday and Saturday with damage to outbuildings and minor flooding caused by a sudden storm that struck between 5 and 6 p.m. on Sunday.  This month 3.5” of rain have been recorded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

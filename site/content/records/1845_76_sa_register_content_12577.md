@@ -29,4 +29,4 @@ Kooringa News, 24 August
 
 The smelters and their helpers are currently on strike; ostensibly because they are resisting the removal of their allowances for wood and water hitherto granted to every smelter and also that the practice of working all day on Sunday is to be discontinued.  The men are seeking that their wages be increased to make up their money if these changes are to be carried into effect.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

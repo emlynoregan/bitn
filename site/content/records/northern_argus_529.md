@@ -29,4 +29,4 @@ Christmas in Burra
 
 Late night shopping will be on Thursday 19 December and on 24 December.  On 19 December a film The Adventures of the Wilderness Family will be shown at the Town Hall.  On Christmas Eve Blackbeard starring Peter Ustinov will be screened.  Both are free per favour of Burra Traders.  Father Christmas will come at 7.30 p.m. Christmas Eve and there will be a hurdy-gurdy and a do-nut stand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

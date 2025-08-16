@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The argument advanced was that without the bonds the rates would be absorbed by the debt and the Council would lose £950 of Government subsidy.  Mr Bartholomæus reckoned the loss to the town in interest etc. on this loan would be £3,000 and so he opposed it.  Well we got the bonds/debt and the Recreation Ground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Advt. Rabbits. The ratepayers in the districts of Mt Bryan, Booborowie, Hallett and Kooringa are invited to a meeting in the Mt Bryan D.C. Office to discuss the possible creation of a Rabbit Meat Preservation Works in Mt Bryan, or another central location.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Kooringa Grain.  The wheat stack at the railway station grows daily.  15,000 bags are currently stacked in contrast to four or five years ago when it was still considered doubtful whether farming in the area would pay.  Farmers have taken over most of the sheep farms in the area, which is now under wheat or being prepared for cultivation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

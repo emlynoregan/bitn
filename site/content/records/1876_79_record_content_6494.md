@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Cornish Relief Fund. On Friday night the meeting in the Institute established a committee and divided the town into 5 districts with two canvassers in each. They will report back in a fortnight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

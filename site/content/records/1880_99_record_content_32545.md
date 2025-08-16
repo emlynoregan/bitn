@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Skating.  The Provincial Elite Roller Skating Rink opened at the Institute last night to a fair house, though with more observers than practitioners.  Mr J. Davey’s Burra Brass Band added to the occasion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

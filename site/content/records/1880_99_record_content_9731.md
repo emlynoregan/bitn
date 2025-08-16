@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 St Mary’s vestry meeting at Easter saw the church in credit £7-10-2 and the Sunday School with a credit of £2-15-2.  Mr Boult was thanked for a splendid dossal.  Application is to be made to the Bishop to sell the old schoolhouse, formerly used as the church, to reduce the debt on the new church.  Should the efforts to obtain the title for the sale of allotments at Redruth fall through then notice will be given to the purchaser for recision of the contract and the return of the deposit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

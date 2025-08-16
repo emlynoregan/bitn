@@ -30,4 +30,4 @@ publication_slug: northern-argus
 The Lewis Board of Management Chairman Andrew Gebhardt said at the recent AGM that Paxton Square had had a financially profitable year.  In July the board paid back $50,000 of its original loan of $100,000 borrowed for the Bridge Street [Terrace] row of cottages.  The cottages were enjoying increasing visitor traffic.  In the past twelve months the board had been saddened by the death of Mr Ted Baulderstone.  They would continue with his vision and continue to develop Paxton Square.  The three cottages gutted by fire last year had been repaired, though there was still ongoing discussion with the insurance adjuster about weather damage between the time of the fire and the time work was completed on repairs – a period of about 9-10 months.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

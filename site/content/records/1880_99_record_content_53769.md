@@ -31,4 +31,4 @@ Broken Hill Chrysanthemum Show
 
 Last Thursday J.D. Cave was a judge and J. Lewis and P.M. Harvey sent 48 blooms each to compete in the class for flowers grown out of the district.  Mr Lewis came first and Mr Harvey 2nd.  (Mr Cave did not judge this section.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

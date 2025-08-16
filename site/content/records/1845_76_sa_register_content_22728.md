@@ -27,4 +27,4 @@ Dr Berncastle has been in Kooringa and his visit created much excitement.  At Le
 
 [The rest of the article makes reference to has activities elsewhere and it seems he was probably a charlatan.  The descriptions do no indicate exactly what he did or claimed to do, but it seems to have been some sort of eye surgery or treatment.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

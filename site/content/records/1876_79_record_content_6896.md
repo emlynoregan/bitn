@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 The Primitive Methodist dinner and concert passed off very well last Wednesday. About 80 stayed on for the supper afterwards and the proceeds were £21.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

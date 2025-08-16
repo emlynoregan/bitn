@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fires.  On Wednesday a fire started near the Black Waterholes and engulfed about 6,000 acres of grass, fencing, and sheep yards.  Its cause is unknown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

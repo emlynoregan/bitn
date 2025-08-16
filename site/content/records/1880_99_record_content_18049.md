@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Lavan (11) was sent to the Magill Industrial School for two years for being an uncontrollable child, on the application of his mother, Ann Lavaun, widow. [The inconsistent spelling of the surname is as printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

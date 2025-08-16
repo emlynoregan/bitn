@@ -51,4 +51,4 @@ Henry Thomas Eaton [Policeman] said when the defendant was arrested at Burra Sta
 
 The Bench dismissed the information.  [But see the Town Council report for 5 December in the paper of 6 December 1887.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

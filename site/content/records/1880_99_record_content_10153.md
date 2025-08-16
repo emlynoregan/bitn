@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Concert on Wednesday night in aid of Mrs Hill was well attended.  Mr Rooney was warmly received despite any little misunderstanding that may have been on a recent occasion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

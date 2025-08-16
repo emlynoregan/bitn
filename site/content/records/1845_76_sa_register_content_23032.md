@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 ‘Equine’ writes calling for riders of bicycles to be regulated.  In the city they are dangerous.  They cause horses to rear and sometimes fall to the danger of both animal and rider.  They imperil others’ lives.  In the country little danger might ensue from their antics, but in the city it is time the authorities took an interest in their ‘dangerous gyrations’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

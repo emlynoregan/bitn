@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [This comment by the editor would seem to give grounds for a possible court case and in the issue of 7 November he wishes to ‘unconditionally withdraw every reflection in the paragraph and apologise to him for having published it.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

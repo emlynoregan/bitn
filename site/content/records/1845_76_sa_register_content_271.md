@@ -36,4 +36,4 @@ Portions of ores of the main northern lodes at Burra Creek have been tested by M
 
 We have reason to believe another Special Survey will be taken shortly northwards from the north end of the Burra Creek Survey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

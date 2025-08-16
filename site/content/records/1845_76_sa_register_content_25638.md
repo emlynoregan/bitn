@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Kooringa Flour Mill.  Ten years ago the idea of a flour mill at Burra would have been thought ludicrous.  Now Mt john Roach of Penwortham has completed the purchase of a site from the SAMA in a central position between Kooringa and Redruth-Aberdeen and apparently intends to start building at once, having already got some material carted to the spot.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

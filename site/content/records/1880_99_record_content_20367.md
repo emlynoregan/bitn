@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Letter from John W. O’Brien, thanking Cr Sampson for his exposé of the Corporation.  It is a disgrace the way money has been squandered.  Even the Mayor does not go scot-free.  Salaries are too high and positions should be open to tender.  I have nothing against the present clerk and if he is anywhere near the mark give him the preference.  Abolish the position of Inspector and give the daymen another 6d a day to do the work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -40,4 +40,4 @@ The third race on Wednesday was the Hack Race.  In the first heat Mr Hill’s Ch
 
 Several other privately arranged races were run for saddles etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

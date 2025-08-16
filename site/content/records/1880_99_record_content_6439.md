@@ -41,4 +41,4 @@ The third should only be helped to go elsewhere, where a better prospect awaits 
 
 The Chief Secretary’s proposals roughly meet these cases as above.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

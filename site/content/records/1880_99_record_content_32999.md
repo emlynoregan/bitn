@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Skating.  Harry Cowan gave Messrs Pontifex and Britton 5 laps in 30 and in the end won with Cowan 31 laps to Pontifex & Britton 26.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -64,4 +64,4 @@ No larrikinism was reported for the holidays.
 
 Mr W.T. Rabbich’s essay on Christmas won the recent Christmas Festival and Exhibition in connection with the Wesleyan School, Kooringa.  Rev. S.F. Prior of Adelaide was the judge.  The essay is printed in c. ¾ column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

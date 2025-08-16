@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Derrington’s lecture was listened to with pleasure, though bad weather reduced the audience.  [On Life Insurance, Rhabdomancy and Hypnotism.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ The first contract and extras for alterations to the left wing amounted to £166
 
 Mr McCulloch chaired the entertainment that followed.  Mr T. Bath said he was not about to glorify himself or the others who had energetically set about erecting such a fine building, but he hoped to impress upon those yet young in life the advantages of contributing to the general welfare of the community.  He reflected on his connection with the Institute, saying he recalled meeting at the house of their secretary, Mr Wells about 19 years ago at a meeting called by the late Rev. D.J. Ibbetson who was the first to start a subscription list for an Institute in Burra.  It was now well established and was the oldest in the colony outside the metropolitan area.  He hoped it would become the best in resources and offerings as well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

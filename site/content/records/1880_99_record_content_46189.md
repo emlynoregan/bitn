@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI.  On 30 July [Sic: this must be an error since the paper is dated 27 July!] the Burra Mounted Rifles visited Gawler for a rifle match.  The trip included a visit to the engineering works of James Martin & Co. which employed about 450 men.  The range was flat and the conditions windy.  Burra lost to Gawler Co. Mounted Rifles by 147 points and the men were then given a splendid lunch before returning to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

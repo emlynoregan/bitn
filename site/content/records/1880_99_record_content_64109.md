@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Mission at Burra is suffering from heavy liabilities.  A bazaar in September is to raise funds to find at least enough for the interest on the almost unmanageable capital debt.  The small congregation is not blessed with this world’s wealth and any help will be gratefully received.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

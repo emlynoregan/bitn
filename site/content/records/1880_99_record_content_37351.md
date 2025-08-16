@@ -41,4 +41,4 @@ Frederick Kemble gave evidence of retrieving his brother’s body - had been dri
 
 Verdict was accidental drowning, but the jury added that ‘the parents were censurable for not having the said waterhole protected, it being so near the house and with so many young children in the family.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

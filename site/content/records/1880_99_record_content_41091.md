@@ -33,4 +33,4 @@ At noon as no nominations for the vacancy caused by the amoval of Cr W.T. Rabbic
 
 A special meeting of Council on 12 April was called to make provisions to fill the vacancy.  Under provisions of the Act, W.G. Neville of Aberdeen was declared duly elected as Councillor for North Ward in the place of W.T. Rabbich who had been amoved.  The Town Clerk was instructed to notify Mr Neville and request his attendance to be sworn in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

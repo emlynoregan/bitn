@@ -37,4 +37,4 @@ James Bennett sworn, said he knew the deceased and saw him last alive yesterday.
 
 Henry James gave corroborating evidence.  He too heard deceased moan while they were digging.  They were working at a depth of about ten feet and should have considered the ground quite safe.  The verdict was accidental death.  [William Mollard died 10 August 1855 aged 23.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -47,4 +47,4 @@ The play of Bowman & Murray was far superior to that of the Burra players and th
 
 [This last sentence doesn’t seem to fit with the rest of the description.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

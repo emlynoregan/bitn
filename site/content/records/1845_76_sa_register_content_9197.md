@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mr Paxton.  We remind friends that the parting entertainment for Mr Paxton takes place today at 11 a.m. at Ramsay’s Napoleon Bonaparte Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

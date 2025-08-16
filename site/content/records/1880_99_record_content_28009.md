@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Crown Lands have agreed to a road opposite Butterworth’s Mill on the condition that the Government have the power to revoke the same if the land is required for railway purposes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

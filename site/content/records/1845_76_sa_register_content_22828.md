@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 A Bachelors’ Ball was held in the Grammar School on Tuesday evening with dancing till the morning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

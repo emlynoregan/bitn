@@ -33,4 +33,4 @@ Bible Christian Burra & Hallett Circuit.  At the quarterly meeting Rev. T.M. Flo
 
 15 trustees attended 5 trustee meetings and all voted for union.  The quarterly meeting unanimously endorsed Methodist union.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

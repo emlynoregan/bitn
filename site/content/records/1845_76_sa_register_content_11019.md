@@ -27,4 +27,4 @@ The Northern Railway
 
 The railway to Gawler Town will be open for all purposes on Monday 5 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

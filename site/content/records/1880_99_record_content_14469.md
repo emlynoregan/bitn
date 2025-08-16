@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘One of the Workmen’ writes re railway housing rents.  The Commissioner claimed the men got 8/- a day, but it is only 6/- and living is dearer the further north you go.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

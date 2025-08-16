@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Laura to Burra.  There have been recent complaints that mail on this run is late.  A passenger on the route says this is readily explained by the state of the road.  He says that for virtually the whole trip the conveyance was axle deep in mud and on each side there was a torrent of water.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

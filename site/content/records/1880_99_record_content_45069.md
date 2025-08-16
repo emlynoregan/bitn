@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 G.A Wittwer came 1st, Irlam & Kelow tied for 2nd (36 each) and 4 tied for 3rd (20 each).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

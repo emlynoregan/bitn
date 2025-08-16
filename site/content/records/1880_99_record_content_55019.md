@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Elder, Smith & Co. Ltd sale on 26 October will offer 14,962 fat and store sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

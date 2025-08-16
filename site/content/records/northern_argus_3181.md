@@ -31,4 +31,4 @@ publication_slug: northern-argus
 Ludgvan St Deviation.  Work on stage one of the project has begun.  There has been a Highways Department grant of $200,000 this financial year and it is expected stage one can be completed by Christmas.  Council is also reconstructing Chapel Street in stages and the first stage is between Commercial Street and the bridge.  A tourism road grant will enable work on West Street in Burra North and Council expects to seal all three of these roads in December.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 There was discussion with Mr Jobson over details of the Waterworks arrangements.  He said meters would be charged for at an annual rental of 12/- for ½” meters and more for larger ones.  Meters were valued at £5.  Meters were considered a necessity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

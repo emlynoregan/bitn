@@ -29,4 +29,4 @@ SA Gold
 
 Gold has been discovered at Penwortham.  A very small amount of gold has been detected by Mr Winchcombe, Assayer and Analytical Chemist at Kooringa after some samples were brought into Burra.  Five parties are seeking gold within 30 miles of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

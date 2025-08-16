@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘W.H. Morton’ writes condemning ‘Economist’ for his recent letter, accusing him of holding religion up to be scoffed at and pointing out that the entertainment in question was in fact also the subject of paid advertisement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Election.  Reprint of a 1 column article from the Star (The organ of the Trades & Labour council of SA) on the Policy of the SA Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

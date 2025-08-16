@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial, calling for a public meeting at which the local MPs will report their past work and announce their intentions re the coming election.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

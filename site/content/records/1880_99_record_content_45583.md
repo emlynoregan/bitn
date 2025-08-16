@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 This proposal was to place a tax on importing animals into SA: £4 for horses, £2 for cattle and 3/- for sheep.  Manufacturers complain, but were happy enough for protection for their goods.  The more legitimate complaint comes from the farmer or dealer who wants cheap supplies to fatten or take the wool from.  The tax would encourage farmers to take up stock raising rather than dealing.  The great winners would be the pastoralists.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

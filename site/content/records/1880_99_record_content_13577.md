@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Chess.  In the third match between Burra & Terowie Burra won with two victories and a draw.  (Victories to Cave & Roach and a draw to W. Anderson.) In the first two encounters each club won once.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

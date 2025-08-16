@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  Crops around Kooringa have turned out badly.  In a few exceptional cases a fair quantity of hay was cut.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

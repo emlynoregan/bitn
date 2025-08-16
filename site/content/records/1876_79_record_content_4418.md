@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Obituary/Inquest at Leighton on 22 July before J.D. Cave JP on the body of Robert Everest, a boundary rider who drowned the previous day. The body was found in Farrell’s Creek in reeds about ¾ mile below the crossing — he was seen to enter the water in attempting a crossing. He was drunk at the time. The verdict was that death was accidental, but may not have happened, but for his being under the influence of liquor.  [Died 19 July 1878 near Booborowie, residence Booborowie aged 61.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

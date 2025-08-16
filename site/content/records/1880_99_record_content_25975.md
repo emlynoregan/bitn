@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  The half-yearly meeting of subscribers.  There are 2,830 books, which is the same as last year.  The financial position is sound and the Building Fund is in credit to £50-17-3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

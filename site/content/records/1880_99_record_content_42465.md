@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Seatholders meet on Friday to take the first steps towards finding a replacement for the Rev. J. Stuart Wayland who, after completing six years here thought it was time to move on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

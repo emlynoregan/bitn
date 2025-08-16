@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Mining Vacation is over.  Many operatives took advantage of the break to visit the metropolis with their families and friends.  Large quantities of ore are accumulating at Port Adelaide from the Burra Burra and other mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

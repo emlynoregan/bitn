@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rifle Match.  The final match for the handsome cruet given by Colour Sergeant Watt was fired last Wednesday over 400 yards, 1st class target, Wimbledon scoring and 10 shots per man.  Private Cooksley came 1st, Private G. Parks 2nd (6/-), T. Nicholls was 3rd (4/-) and W.T. Rabbich 4th (2/-).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial urging caution in interfering with nature in killing off species with particular reference to the urge to kill off all the sparrows, but also warning of the dangers of indiscriminate draining of bogs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

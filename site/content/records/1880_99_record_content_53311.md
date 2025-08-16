@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 On Easter Monday at Burra the United Schoolteachers from Adelaide 239 defeated Burra 62.  The huge gap was attributed mainly to the very poor fielding of the Burra team.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

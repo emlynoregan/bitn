@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 On Thursday evening the Rev. S. Knight will deliver a lecture at the Institute on Thomas Carlyle in aid of its building funds.  Children from the Model School under Mr Cater will contribute some musical selections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

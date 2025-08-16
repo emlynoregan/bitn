@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  Persons are cautioned against receiving, purchasing, keeping or concealing any cattle bearing the brand D within a Triangle on the off shoulder or DAVS on the off loin.  Such cattle are the property of the Patent Copper Company.  Persons having such cattle will be prosecuted and persons delivering any such cattle to the Company or their agents will be rewarded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

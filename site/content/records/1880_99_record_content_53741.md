@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs John Morgan of Baldina died at Glenelg last Friday, aged 48.  [Born Mary Ann Turner 13 November 1845 in Wiltshire: died 11 May 1894.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

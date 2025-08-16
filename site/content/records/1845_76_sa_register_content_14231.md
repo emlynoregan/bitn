@@ -32,4 +32,4 @@ A bazaar in aid of the new Anglican Church at Redruth was opened yesterday in St
 
 The return cricket match between Burra Burra and Hamilton is expected to take place here on Easter Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

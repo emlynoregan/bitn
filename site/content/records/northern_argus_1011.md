@@ -50,4 +50,4 @@ Last November 570 people signed a petition calling a halt to the installation of
 
 In January the re-development was halted when the Community Employment Program notified Council that an oversight had been made in not getting the changes approved by the Australian Heritage Commission.  A meeting in Adelaide on 21 February resulted in the State Heritage Branch indicating its assent for the scheme to continue.  The estimated cost for the project is $109,000 of which $50,000 comes from a J150 Local Government Road Assets Program loan with a subsidised interest rate of 9% for 12 years and a grant of $54,000 from the Community Employment Program.  Council’s contribution is $5,800.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

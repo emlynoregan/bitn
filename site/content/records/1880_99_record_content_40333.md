@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Erratic Correspondent’ considers it a wasteful thing to send short-term prisoners to Redruth Gaol from Clare when they could work at Clare in the local quarry.  Redruth is too comfortable an option as well as being costly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -40,4 +40,4 @@ There is a pretty little Episcopal Church, a Presbyterian Church anything but pr
 
 [The writer continues for many column centimetres on his homeward journey without saying anything of interest.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

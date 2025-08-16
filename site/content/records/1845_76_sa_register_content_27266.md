@@ -33,4 +33,4 @@ Evidence of the severity of the flooding from the storm which washed away the ra
 
 The Northern Argus reports that on Tuesday evening over the Burra area an electric storm with continuous lightning broke out about midnight and the rain began towards 2 a.m., soon causing creeks to overflow.  Water rushed down the principal street in Kooringa two to three feet deep.  Most houses are higher than the street, but a number were flooded.  At Gum Creek the water rose to unusual heights.  A corner of Mr Davis’s house there was washed away when the water rose higher than he had seen in 20 years.  Early on Wednesday morning a terrific thunderstorm also passed over Clare, depositing heavy rain.  It continued without a break for three hours.  Clare residents feared a flood, but the downpour totalled only 0.8 inches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

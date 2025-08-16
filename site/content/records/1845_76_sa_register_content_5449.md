@@ -32,4 +32,4 @@ Tristram Bath appeared as Superintendent of the Princess Royal Mines to the comp
 
 Case adjourned to allow all parties to produce necessary evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

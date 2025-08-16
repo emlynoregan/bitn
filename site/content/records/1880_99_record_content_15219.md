@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Sympathy’ writes wondering at the lack of Christian spirit that prevented the churches allowing the Salvation Army the use of a church building on Monday night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

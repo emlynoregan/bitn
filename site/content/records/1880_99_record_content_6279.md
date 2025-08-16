@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the attempt to establish a fund to supply destitute farmers with seed grain.  The editor is in favour only in those areas where crop failures are due to unusual drought, but in those many Hundreds where ‘the prospect of continuous cultivation at a profit is hopeless’ anything that induces the selector to remain at their profitless toil is wasted.  The Government should cease offering land for sale where prospects for successful agriculture are hopeless.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

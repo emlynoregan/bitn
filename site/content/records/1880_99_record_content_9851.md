@@ -40,4 +40,4 @@ Council will visit the Recreation Ground next Monday to see what is needed to ma
 
 A public meeting is to be called to determine the use to which the £372 in hand for a town survey can be put.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

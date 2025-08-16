@@ -41,4 +41,4 @@ Rev. Ibbetson was sworn as interpreter.  Lopez said he and another Spaniard were
 
 Committed for trial and admitted to bail, himself in £25 and with one surety in £25.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 William Pearce, trading as Bath & Pearce, sued Ah Shang for a claim of £30-7-11.  This was an unsatisfied judgement summons.  Ah Shang was ordered to pay 5/- a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

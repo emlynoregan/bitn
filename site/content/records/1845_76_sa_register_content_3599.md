@@ -54,4 +54,4 @@ John Buckley said he had been working for the Smelting Co.  Morgan had also been
 
 His Worship discharged Morgan, admitted Kelly to his own bail to appear at the Sessions and committed Buckley for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

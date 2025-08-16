@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Pony Club’s Jubilee Horse Show drew a crowd to the showgrounds on Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

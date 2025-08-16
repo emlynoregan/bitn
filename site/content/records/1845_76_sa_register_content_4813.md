@@ -52,4 +52,4 @@ Complainant said he could produce the bill to satisfy His Worship they were his.
 
 His Worship said ownership of the shingles was something he could not decide.  Even admitting the shingles were the property of defendant that did not give him the right to remove them by force.  He should have summonsed the complainant to show cause why he detained them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

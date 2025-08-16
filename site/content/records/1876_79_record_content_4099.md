@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. Primitive Methodist Bazaar of useful and fancy articles in the P. M. Schoolroom, Kooringa, 12 & 13 June from 11 a.m. refreshments and music in the evening. 6d, to be reclaimed in goods.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice.  English & Australian Copper Co. (Patent Copper Company).  Money orders of this company will be paid on and after 1 February at the new office of the company in King William Street Adelaide.  The entrance is nearly opposite the Union Bank of Australia.  James Hamilton, Manager, Adelaide, 19 January 1855.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

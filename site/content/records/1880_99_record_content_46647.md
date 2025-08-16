@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bible Christian special services on Thursday 1 September in aid of the Trust Fund were well attended as was the tea meeting.  The proceeds were up on last year.  Services continued on Sunday 4 September which were again well attended.  The trustees will be able to pay £25 off the debt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

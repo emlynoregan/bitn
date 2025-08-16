@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rifle Match between Jamestown MI & Burra MI last Wednesday.  This was the first match for Burra since the formation of the company and several of the men had not yet even tried their rifles.  Jamestown 568 defeated Burra 410.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

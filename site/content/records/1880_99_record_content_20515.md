@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘Irate Observer’ writes re the failure of the Council to act to obtain the land opposite the end of Welsh Place by the new Bible Christian Manse.  The present road to the cemetery is dangerous with two ugly corners to negotiate whereas the purchase of this land would have enabled a fairly straight road.  Apparently SAMA offered to survey the land differently and sell the land to the east if the Council had decided to act, but there was no action, even though the matter was raised at Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

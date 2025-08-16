@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Samuel Davis, once a hotelkeeper at Burra has been doing so at Terowie and has been committed for trial at the Supreme Court charged with perjury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

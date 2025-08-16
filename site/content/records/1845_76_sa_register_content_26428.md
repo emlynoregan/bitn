@@ -36,4 +36,4 @@ He says the Laura-Port Augusta-Blinman Mail is due in Aberdeen on Wednesday, but
 
 ‘I do not remember any time for a season that the Blinman contract has been carried on in such an unsatisfactory manner, and I fancy it must be the only line in the colony where the mail is always late.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

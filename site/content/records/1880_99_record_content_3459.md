@@ -41,4 +41,4 @@ For a plebiscite on the payment of MPs.
 
 [F.W. Holder said Mr Ward’s speech made his blood boil]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

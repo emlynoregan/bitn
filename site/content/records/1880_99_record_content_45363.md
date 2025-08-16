@@ -48,4 +48,4 @@ Burra Chrysanthemum Show was held in the Institute last Wednesday.  It was well 
 
 T.W. Pearce & Son got nearly all the prizes for ferns.  There were fewer competitors than in previous years, but the season was against them.  The prize list is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

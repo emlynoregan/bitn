@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mr Richard Dale gave a lecture at the Mechanics’ Institute last Monday on the ‘Life of Alexander the Great’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

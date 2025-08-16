@@ -57,4 +57,4 @@ I understand tenders have actually been called for repairs to our street, though
 
 ‘Here is a piece of road in the very centre of the main street, and which in winter is one yawning slough, left untouched by the Road Board, who, following the maxim of showing “how not to do it,” seem careful to bestow money and labour where least requires, while those places which seem actually begging for aid are entirely forsaken.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

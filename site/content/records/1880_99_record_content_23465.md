@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF.  A firing match for Cr Sampson’s Cup will be held on 22 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

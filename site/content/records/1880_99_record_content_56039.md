@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rabbits.  Simultaneous destruction within the Burra DC area began on 1 February and has seen a satisfactory result with phosphorized pollard as the chief bait.  The Hundred of Apoinga program will begin on Friday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

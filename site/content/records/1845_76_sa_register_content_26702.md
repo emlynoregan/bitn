@@ -39,4 +39,4 @@ Last Saturday a man broke his thigh at Ketchowla.  He was sent to Burra for trea
 
 ‘I would merely ask if there is no law to prevent such wanton cruelty? And are bushmen, because they happen to be wounded and incapable, to be refused admittance to hotels, which are licensed for the general accommodation of the public as well as for the profit of the landlords?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

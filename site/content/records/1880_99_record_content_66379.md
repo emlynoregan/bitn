@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr J. Roach will visit soon and give an illustrated lecture on 26 June with over 120 views of his trip last year to Norway.  Mr Adamson’s lantern will be used – said to be the finest in the colonies.  In aid of Burra Benevolent Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

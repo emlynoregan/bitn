@@ -47,4 +47,4 @@ John Mackay, son of William, confirmed the above.  He saw deceased on 2 Septembe
 
 The verdict was that he died from exposure probably after becoming drowsy from the effects of alcohol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

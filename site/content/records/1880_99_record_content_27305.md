@@ -38,4 +38,4 @@ The Storm of Life by Hesba Strutton began 8 July and ran till 2 August.
 
 What She Came Through began 5 August and was unfinished at the end of the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

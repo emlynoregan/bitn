@@ -25,4 +25,4 @@ Mineral Leases – Kapunda Meeting of 28 October
 
 The discussion on this issue is reported at length.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.H. Evans delivered a very interesting lecture on From the Coalpit to the Palace of the King: or the Life of Peter MacKenzie, in the Kooringa Primitive Methodist Church on Thursday before a fair audience.  A satisfactory collection was made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

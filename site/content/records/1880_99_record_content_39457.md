@@ -31,4 +31,4 @@ Kooringa Primitive Methodist Sunday School Anniversary was held 21 & 25 December
 
 On Christmas Day the children had their annual treat and the public tea was well patronised.  The public meeting was presided over by J. Jones, one of the Sunday school superintendents and addresses were given by Rev. R.M. Hunter and Mr T. Pedler.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

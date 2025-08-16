@@ -31,4 +31,4 @@ This week the town was visited by Burton’s troupe of equestrians and gymnasts.
 
 One of the two poor men found dead in the north has been identified as a poor half-witted fellow named Henry Dart.  He seems to have been wandering about without any fixed purpose or means of subsistence.  Trooper Ayliffe, who went up to investigate, satisfied himself that the man died from sunstroke and afterwards buried the corpse near where it was found.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

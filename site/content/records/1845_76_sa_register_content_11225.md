@@ -33,4 +33,4 @@ Mr Barlow assisted by Mr Baker made their debut at Ware’s Assembly Room on Mon
 
 [Note that this reference to Ware’s rooms is interesting in that Hoad’s list of hotels and publicans places Ware at the Burra Hotel from February 1858.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

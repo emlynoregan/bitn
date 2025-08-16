@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Letter from Robert Brummitt as President of the Institute re the Conversazione arranged for October.  Specimens and pictures have been arranged from Messrs Wigg and Son of Adelaide.  Mr Todd has lent telephones and there will be a promenade concert and a farce with occasional music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

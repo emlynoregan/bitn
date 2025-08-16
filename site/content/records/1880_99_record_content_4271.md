@@ -37,4 +37,4 @@ Allcomers also had about the same number of small fry swarming onto the ground â
 
 [The reporter also comments that spectators on the ground were a nuisance.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880â€“99](/publications/record-1880-99/)

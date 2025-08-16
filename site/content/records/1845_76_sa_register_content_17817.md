@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Wool is beginning to come down fast and several loads have already passed through Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

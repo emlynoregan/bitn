@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Fire.  Lightning started a fire north of Booborowie on Sunday, adjacent to George Dare’s home.  It was controlled after burning 5-10 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

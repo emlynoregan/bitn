@@ -32,4 +32,4 @@ Kooringa Magistrate’s Court, 3 September.
 
 Frank King, W. Pinnock & Walter Wiley were charged with disturbing the peace and breaking the windows of Mrs Voumard of Roach Street.  They were each fined 10/- plus 2/- damages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

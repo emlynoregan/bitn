@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Water Supply. There is opposition to a scheme of house-to-house supply paid for by a general rate, but if it is paid for only by those who use it there is general approval.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

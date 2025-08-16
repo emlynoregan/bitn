@@ -69,4 +69,4 @@ Mr Crewes was to stand for North Ward, but little is reported about his policies
 
 Questions showed that the tank on the hill was too small and when filled in the evening was empty by morning.  Mr Davis asked that the Council move to prevent the spread of the several ‘irrigation colonies’ now being worked in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

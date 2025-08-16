@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Elders Pastoral will auction at 12 noon on Wednesday 27 May all surplus equipment, office furniture, sundries and wrecking motor vehicles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

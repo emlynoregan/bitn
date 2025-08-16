@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 William Dale, Secretary to the SA Total Abstinence Society, writes urging the case for closing public houses on Sunday.  He refers to statistics from England that indicate public support for such a change, even though Mr Some’s Bill for that object was rejected by the House of Commons 278 to 103.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

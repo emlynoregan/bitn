@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church.  Special Services 3 august.  Rev. J. Rowe of Auburn preached.  He commenced his colonial ministry in Burra about 40 years ago.  The tea and entertainment announced for 6 August were postponed to 8 August on account of the bad weather.  Proceeds were c. £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

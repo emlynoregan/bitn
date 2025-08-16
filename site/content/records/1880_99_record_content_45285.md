@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr T.F. Robertson, who has long been in charge of the Burra branch of Messrs Treleaven & Brown, Carriers etc. has taken over the business and will continue it in his own name.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

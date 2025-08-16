@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra DC.  20 January.  An old mine shaft at Redruth will be inspected.  Owners of land with star thistle on it will be advised of the need to destroy them under the Thistle and Burr Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

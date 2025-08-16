@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Fang Sang’s drapery and fruit and vegetable shop has moved from Market Square to the shop lately occupied by Mrs Pearson in Commercial St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

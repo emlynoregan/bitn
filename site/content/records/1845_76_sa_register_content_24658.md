@@ -53,4 +53,4 @@ Captain Killicoat proposed a petition for £2,500 to be expended on the road.  H
 
 Mr Lipsett then read the memorial addressed to the Road Board and the petition to be forwarded to the Members of the House of Assembly.  He moved adoption of the petition.  Seconded by Mr Lane and carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

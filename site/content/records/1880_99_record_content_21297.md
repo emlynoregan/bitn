@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Wesleyan Foreign Missions Meeting in Kooringa last Thursday was addressed by Rev. Leggoe, well known here from 18 years ago.  He spoke on Methodism in Fiji and was attended by a young Fijian student for the ministry, Ratu Bua.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

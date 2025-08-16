@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Corp. Correspondence cited indicates that as yet there has been no answer from the Bon Accord owners allowing erection of the water trough at the station, though they do promise an early one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

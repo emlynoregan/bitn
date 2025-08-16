@@ -38,4 +38,4 @@ An entertainment was held at the Institute last night in aid of the Church of En
 
 Business is still brisk both in Kooringa and at Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

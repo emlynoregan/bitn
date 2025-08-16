@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Edward Camfield, cook to Mr Burkitt’s party travelling sheep, was fined £5 plus costs for lighting a fire without taking proper precautions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Last week horses with a van carrying sewing machines bolted, starting near the hospital they went along Commercial St, Kingston St, Welsh Place, Quarry St, Welsh Place (around four awkward corners) then around again.  This time at the Kooringa Hotel they hung the van on a gum tree and continued without it ending up by themselves on Limestone Hill.  Three sewing machines were broken and the van considerably damaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

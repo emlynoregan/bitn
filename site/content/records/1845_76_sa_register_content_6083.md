@@ -57,4 +57,4 @@ J.W. Powell, chemist of Kooringa, reports that a letter from England tells that 
 
 ‘I need scarcely add that, through intimidation, most of these vagabonds escape punishment; the tradesmen fear being mobbed if they prosecute any of these cutthroats.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -33,4 +33,4 @@ Burra District Council: rates raise £405-3-3.  Spent on public works: £288-4-7
 
 Burra Town Council: rates raise £686-3-11.  Spent on public works: £301-19-4 or 44%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

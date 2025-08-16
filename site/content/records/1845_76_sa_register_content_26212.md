@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Weather.  A storm on 19 December blew part of the roof from Butterworth’s newly erected mill and carried it some hundreds of yards across the parklands to New Aberdeen where it alighted close to Messrs Preece and Simpson’s Yard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

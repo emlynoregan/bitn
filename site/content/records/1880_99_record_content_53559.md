@@ -29,4 +29,4 @@ Theo. Hack:
 
 Was SA born and had been a Member of the house of Assembly for Gumeracha.  Labour was not to blame for the depression.  Prices for staple products were too low.  The main causes of the depression lay outside SA.  All departments of the civil service were overstaffed.  The general scramble for office in SA was also detrimental.  He favoured elective ministries.  He could not support a wealth tax which would be impossible to administer.  He did support bimetallism and irrigation settlements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

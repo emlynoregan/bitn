@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  Reports indicate that a party from Redruth, including Lewis Jones had got over £35 worth of gold in a couple of days.  There are now said to be over 500 there with more coming all the time.  The dam for domestic water won’t last more than six weeks.  Firewood is scarce, but feed is plentiful.  There is an opening at the field for a butcher, baker and blacksmith.  The writer feels that the gully of the initial discovery will be worked out in a week.  150 more men arrived while he was writing the report.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

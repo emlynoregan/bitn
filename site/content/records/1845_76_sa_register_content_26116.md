@@ -61,4 +61,4 @@ The coroner remarked that, although in this case it would have made no differenc
 
 [This death does not appear in the CD, SA Deaths 1842-1915.  The evidence of the Register 13 November 1874 and of BISA suggests he was Moses Joseph Morris born 1838 in UK and who came to SA with his father Harris Morris in 1853.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

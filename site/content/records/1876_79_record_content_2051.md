@@ -40,4 +40,4 @@ There was also something called Jingling for Boys, as well as other unspecified 
 
 * Bear in mind that a labourer was earning between 6/- a day or 36/- (£1/16/-) a week and 7/- a day or £2/2/- a week
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

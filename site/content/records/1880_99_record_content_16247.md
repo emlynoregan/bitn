@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  Harvey’s fruit cart, driven by a John McNevin was capsized in Thames St on Thursday when the horse bolted.  The horse took the cart over the embankment of the creek near the Pig and Whistle.  The boy was thrown out, but was not hurt and the cart was not damaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

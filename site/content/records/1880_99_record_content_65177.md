@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 [St Mary’s] Strawberry Fete and sale of Fancy Goods at the Institute last Friday was opened by the Hon. J. Lewis MLC at noon.  There was a large attendance in the afternoon and it was crowded in the evening.  The profit will exceed £60 and will be devoted to necessary repairs to St Mary’s.  The gramophone and music box were a treat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Ada Edwards was fined 5/- for not sending her daughter to school.  She said she had to keep the girl home to mind the baby while she went out to earn a living for the remainder of the family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

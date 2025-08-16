@@ -78,4 +78,4 @@ Mr Pearce sang The Vital Spark, after which Mr Kingston proposed the Town and Tr
 ‘The Burra Mine would not have been what it is had it not been for the well-known practical skill and knowledge of its Superintendent.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

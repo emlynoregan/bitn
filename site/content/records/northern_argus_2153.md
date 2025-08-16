@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Peter & Penny Barlett and their sons will soon leave Burra for Robe.  Peter has been a keen supporter of the swimming pool.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

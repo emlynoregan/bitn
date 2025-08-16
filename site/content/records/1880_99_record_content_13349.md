@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Silverton, 28 May.  People continue to flock to the area.  Rain down the track caused the coach to be 30 hours late.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

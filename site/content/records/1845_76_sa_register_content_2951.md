@@ -50,4 +50,4 @@ Was this said to depress the share price to £100 so that the wise man might buy
 
 The editor then confirms the antimony report and also reveals that a recent fire in a cargo if copper ore from Cuba and the loss of a vessel from this colony had caused the underwriters at Lloyd’s to increase insurance rates from 5% to 6%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Edgar Pearce and companions were thrown out of their trap when it overturned on the way home from the Mt Bryan concert on Wednesday night.  The horse took fright when the hook tacked on to the swingletree came loose.  The trap was slightly damaged, but none of the occupants was hurt.  The horse and pieces of harness were retrieved next morning from the country towards Booborowie.  A passing Good Samaritan brought the party back to Burra on Wednesday night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

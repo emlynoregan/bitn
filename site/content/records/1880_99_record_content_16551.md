@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Professor Gilbert, the American temperance lecturer, phrenologist and physiognomist will give two of his celebrated lectures in Burra on 2 & 3 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

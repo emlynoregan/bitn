@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The Mayor reports that 23 fathers have so far earned 30/- each on Jubilee Avenue and 12 of the most needy have another two weeks work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

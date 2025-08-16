@@ -34,4 +34,4 @@ Mr M. Rayner proposed a vote of complete confidence in Cr Rabbich and support fo
 
 Mr Barrett also spoke in support: Cr Rabbich was correct, had been ill treated and his actions were manly, upright and honest.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

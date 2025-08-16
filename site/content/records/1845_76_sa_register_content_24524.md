@@ -43,4 +43,4 @@ The writer advises eating a hearty meal before joining the train at 7 a.m.  Refr
 
 [To be continued.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

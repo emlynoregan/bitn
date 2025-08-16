@@ -39,4 +39,4 @@ The guard, William Henry Smith confirmed the above and said by the time he had g
 
 M-C Alfred Daniel Lambert gave corroborative evidence and the jury found that death was from accidentally falling from a train while it was in motion, causing concussion of the brain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

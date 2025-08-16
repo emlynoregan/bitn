@@ -27,4 +27,4 @@ Football.  On Saturday 25 Allcomers 1.3 defeated 14 Colours 0.6.
 
 Colours would have won had either Griffiths or White kicked straight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

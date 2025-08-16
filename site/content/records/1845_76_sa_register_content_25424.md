@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 [This is not entirely clear, but it seems to suggest they were constructing a ford near the Bon Accord Hotel, which in turn would imply that previously teams had to travel along the north side of the creek, until they could cross at Young Street, and then climb the hill via Morehead Street to the railway station.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

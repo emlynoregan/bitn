@@ -29,4 +29,4 @@ A numerously attended ball was held at the Burra Hotel on Monday.  Musicians wer
 
 The canvassing for the Indian Relief Fund has so far collected about £40.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Hydraulic Department replied that the Waterworks could be done for the estimated costs.  New pumps and an engine were included.  It would not be advisable to lay on water from the present system without fixing meters to the Aberdeen troughs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

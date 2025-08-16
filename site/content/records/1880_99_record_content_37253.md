@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the present time in which ‘the press is teeming with accounts of immorality’.  e.g. The case in Victoria of a Sunday school teacher guilty of criminal assaults on his 16 year-old daughter who gave birth to a child in September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

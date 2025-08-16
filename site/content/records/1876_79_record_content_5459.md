@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Obituary & Inquest at the Burra Hospital on the death of Walter Lavis who died after his leg was amputated following his being run over by a wagonload of wheat at Yarrowie on 13 December. [24 km N-E of Laura - known as Appila since 1941]  [Died 15 December 1878 aged 33.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Accident.  James Dunn (Jemmy Dunn, the pugilist) was collecting hay with his team on 27 November with his two boys, when about a mile beyond the Burra Burra Hotel a partly broken-in steer became unmanageable.  In attempting to curb the unruly beast, Jemmy’s legs became entangled in a rope and he was dragged a considerable distance – some say half a mile – his clothes being literally torn to pieces.  His skin fared little better, being flayed from his body.  He managed to keep his head uplifted and called to one of his lads to bring a knife and he at length cut the entangling rope.  No bones were broken and the painful injuries were not deep.  He is reported to be recovering fast and will, we trust, be spared to his numerous family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

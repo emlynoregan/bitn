@@ -29,4 +29,4 @@ Burra Hospital currently holds 39 and numbers have long been unduly high due to 
 
 The new ward in the north-west corner is just finished and will be occupied in a few days.  Mr Fuss has virtually made a new room under the contract except for the bare walls and roof.  The plaster, ceiling and floor are all new.  The new staff are of good character and the hospital is a credit to the town and a boon to the whole of the North-East.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

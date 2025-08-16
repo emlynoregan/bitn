@@ -29,4 +29,4 @@ Obituary.  It will be recalled that not long ago the unidentified body of a man 
 
 [The death does not appear in SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

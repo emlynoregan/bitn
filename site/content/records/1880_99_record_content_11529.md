@@ -37,4 +37,4 @@ Cr Brown moved the offer of the Government to construct a Waterworks for the tow
 
 Cr Sampson moved an amendment that would have delayed acceptance until the guarantees reached the full amount.  He said the proposed scheme would never reach Hampton of Mitchell Flat and it was monstrous to push it through to the detriment of these people before guarantees were complete.  They had guarantees for only £327 and they needed £380 without going to the hospital, which would make it £385.  This £60 would have to come from general revenue and so force those across the creek to pay for water they could not access or use.  They were breaking faith with the ratepayers by going on £60 short.  The Mayor was sure that extra users and the standpipe in Market Square would make up the difference.  The motion was carried with Cr Sampson alone objecting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

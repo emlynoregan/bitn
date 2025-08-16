@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Rev. D.S. Wylie, formerly of Redruth is to preach at Kooringa Primitive Methodist Church next Sunday as Rev. Wellington is taking his place at the Mintaro anniversary services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

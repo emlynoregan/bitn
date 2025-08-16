@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘I hope during the match the players (Burras particularly) will have some consideration for the Queen’s English and try to get through the match without the foul language several of the players (I am sorry to say) are becoming noted for.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

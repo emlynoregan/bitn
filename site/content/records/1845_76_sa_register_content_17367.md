@@ -26,4 +26,4 @@ Kooringa News, 18 April
 
 A report says Mr McCulloch’s Gottlieb Wells Run has had a large bushfire which destroyed huts and stockyards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

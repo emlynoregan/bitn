@@ -34,4 +34,4 @@ Tilting. Bridle & breast-plate, value £3 440 yds Flat Handicap. £1-10-0
 
 120 yds Flat Handicap, under 15 yrs. £1 1 Mile Handicap. £3-3-0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

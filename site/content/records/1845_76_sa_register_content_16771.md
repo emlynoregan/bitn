@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mr Box, our auctioneer, held a cattle sale at the Hotel saleyards last week.  Medium cows ranged from £4-10-0 to £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

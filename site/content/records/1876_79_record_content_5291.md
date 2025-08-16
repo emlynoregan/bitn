@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Cemetery. The curator is to make arrangements in the cemetery pending its enlargement. Sir Henry Ayers is to be reminded of his promise 8 months ago to make title of the new ground over to the Town Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

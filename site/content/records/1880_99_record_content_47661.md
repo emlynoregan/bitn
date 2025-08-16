@@ -51,4 +51,4 @@ A vote of thanks was also accorded to W. Davey as Town Clerk and others went to 
 
 Cr Watt moved thanks to the local press.  Cr Kitchen dissented and Cr Hardy was unenthusiastic, but felt that as the year was ending the hatchet should be buried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

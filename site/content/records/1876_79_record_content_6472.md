@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Terowie Railway. Mr Patterson, Assistant Engineer for the Hallett-Terowie railway extension, says the travelling stock route is in the lowest part of the valley and subject to flooding, so is not an advisable route. This explanation is denied by the Record as inconsistent with the reality of the railway route.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

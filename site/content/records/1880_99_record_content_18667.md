@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  Eliza Ann Williams, aged 19, of Kooringa, at her father’s residence.  [Born 26 November 1865; died 29 July 1885]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

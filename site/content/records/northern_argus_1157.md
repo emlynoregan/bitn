@@ -22,4 +22,4 @@ publication_slug: northern-argus
 
 Gillian Dewhirst has her flower shop in the former video store.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

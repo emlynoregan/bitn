@@ -39,4 +39,4 @@ Murray & Coventry’s Circus has performed at Burra for two nights to respectabl
 
 T. Fitzgerald, a youth working at the Burra Mines, was thrown when a horse he was riding to the stables reared.  It reared again while he was on the ground and descended onto his stomach.  Dr Cave is attending and the patient is making favourable progress.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

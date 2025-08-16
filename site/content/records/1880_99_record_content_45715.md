@@ -30,4 +30,4 @@ Advt.  A very nice picture accompanies this advertisement, showing a man on a ho
 
 Sole Wholesale Agents for South Australia W.R. CAVE & Co. Grenfell St Adelaide
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

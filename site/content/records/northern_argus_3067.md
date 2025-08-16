@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Jan Letcher received her accreditation as a lay preacher at a special commissioning service in the Uniting Church on Sunday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

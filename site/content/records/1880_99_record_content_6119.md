@@ -31,4 +31,4 @@ Also there is reference to a lover’s land ‘up a secluded glen, once a well k
 
 ‘the sound of osculatory process came to my ear.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

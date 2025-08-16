@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Creek is losing some 18% of its water between the two bores which feed the creek.  Due to pumping costs Council has decided to close down No. 1 bore opposite Peacock’s Chimney for the rest of this financial year.  In this time the creek will be cleaned and leakage areas identified and plugged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -30,4 +30,4 @@ Burra News, 16 September
 
 Michael McCormick, a well-known carrier on the Burra Road was charged with stealing three horse collars, five bridles and one harness, saddle and breeching from the SA Mining Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

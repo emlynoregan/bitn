@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bagot, Shakes & Lewis sold 14,876 sheep, 116 rams, 212 cattle and 70 horses at last Friday’s sale.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

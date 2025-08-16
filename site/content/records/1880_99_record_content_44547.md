@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Stacey Comedy Co. performed at Burra on Friday to a fairly good house.  The Widow is a merry piece, though not as popular as Hans the Boatman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

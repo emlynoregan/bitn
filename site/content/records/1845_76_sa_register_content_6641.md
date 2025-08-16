@@ -30,4 +30,4 @@ Ball at Aberdeen
 
 Mr McFarlane’s last Quarterly Ball took place in the Large Room at the Aberdeen Hotel on Friday 6 June.  The weather was favourable and a large group of people attended.  The program was well arranged and Mrs McFarlane’s performance on the violin was the theme of universal admiration.  The whole evening went very well and much credit is also due to Mr & Mrs Taylor for the completeness of their preparations.  It is believed that Mr & Mrs McFarlane will leave Burra in the coming week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

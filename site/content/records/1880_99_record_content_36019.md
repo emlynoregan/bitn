@@ -26,4 +26,4 @@ Editorial on the Desirability of a Department of Labour.
 
 The editor considers that with a number of departments dedicated to looking after the interests of Capitalists, there is no reason why one should not look after the interests of workers.  We are pleased that the present Government is composed of men with some little sympathy with the workers, but we require something more direct.  He then goes on at some length to establish the need for and the justice of having such a department.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

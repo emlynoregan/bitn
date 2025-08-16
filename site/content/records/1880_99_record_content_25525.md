@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Holder sought the use of the hall free, for three concerts in aid of the Mayor’s Unemployment Fund.  This was considered and it was feared it would set a precedent, but was ultimately granted in the hope that such circumstances would never occur again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

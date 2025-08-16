@@ -53,4 +53,4 @@ Lot 7: Section 2512 of 80 acres in County Gawler at the junction of the Light & 
 
 Lot 8: Section 2009 of 70 acres in County Stanley at the source of the Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

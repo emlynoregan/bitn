@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Fire Clay.  We understand a syndicate or company has been set up in Burra to work the chalk cliffs for fire clay and that a brick made from the clay has been made and tested and was satisfactory.  Evidence from L.T. Watt’s activities at Littlehampton suggests they should get moving.  In the last 20 weeks Watt has sent away 400,000 bricks worth £1,700.  250,000 went to the Port Pirie coke ovens and orders continue to flow in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

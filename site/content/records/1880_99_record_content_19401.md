@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [*At this stage points were not being counted so the drawn games in their favour means the two teams had the same number of goals, but Burra had scored more behinds.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

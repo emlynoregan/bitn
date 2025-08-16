@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 District Council of Burra has won the extra E200 requested for ancillary work on the Nankivell's Gully Road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club’s ninth race was from Saddleworth to Burra on 22 August.  Only three birds got home within the time limit.  First was J.A. Pearce’s blk c. c. Nil Desperandum which covered the 30 miles 1080 yards in 63 mins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

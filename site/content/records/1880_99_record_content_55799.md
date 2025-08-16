@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Pro Bono Publico’ writes advocating a small dam on the Newicke Creek with associated pipes and channels to convey water to several blocks of land east of the Duffer Gate in the Hundred of Rees, where farmers further west have leased some land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

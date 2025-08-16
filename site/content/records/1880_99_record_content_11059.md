@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Hospital recently received a donation from Outalpa and now an entertainment at Oulina Station has yielded £13-0-7, and one at Waukaringa £3-10-0 for the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

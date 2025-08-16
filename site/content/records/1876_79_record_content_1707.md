@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Town name: Call for the town institutions to adopt the name Burra following the town's incorporation instead of the Redruth Local Court etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

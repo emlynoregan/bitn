@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Population of SA on 30 September 1885 was estimated at 320,451 and on 30 September 1886 it is estimated at 316,960.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

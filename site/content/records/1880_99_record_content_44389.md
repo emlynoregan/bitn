@@ -40,4 +40,4 @@ John Martin, [13?] for the same offence was ordered locked up for six hours.
 
 Arthur Dearlove, aged 9 on his [next?] birthday was charged with driving an unlit vehicle through Market Square on 21 November.  The case was dismissed as he was deemed too young to know that he required a light.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -58,4 +58,4 @@ E. Wilcox	stray goat in Kooringa	2/6 + 5/-
 
 Thomas O’Sullivan, farmer of Kerry Hill near Burra, had given a bill of sale on 15 May 1893 to William Pearce and Thomas Sandland for three stacks of hay amounting to 163 tons.  He retained the right to sell it, but was to give them £1 per ton if he did.  90 tons of the hay had disappeared, presumed sold, but no money had been handed over to Pearce and Sandland who had O’Sullivan charged under Section 37 of the Bill of Sales Act of 1886, with concealing 90 tons of hay.  After considerable evidence had been taken the defence claimed there was no ‘concealment’ within the meaning of the Act.  The bench agreed there was no case to answer and dismissed the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

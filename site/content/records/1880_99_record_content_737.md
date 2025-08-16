@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Miss Nesbitt was presented with a handsome album by St Mary’s choir.  Miss Nesbitt completed the embroidered altar cloth on Easter Eve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

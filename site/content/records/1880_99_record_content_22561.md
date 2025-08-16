@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Legislative Council Elections will be held next Thursday.  Only Mr G.W. Cotton (Lib.) and Mr J. Bosworth (Cons.) nominated for No. 3 District.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

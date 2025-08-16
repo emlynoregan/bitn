@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Northern Mails.  The irregularity of the mail is a cause for great complaint.  Last week was particularly bad.  On Saturday the mail did not arrive till about 10 o’clock.  There was consequently no delivery that night, but the postmaster Mr Powell very kindly sent around the letters to the principal tradesmen of the township.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

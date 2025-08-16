@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 On New Year’s Eve the principal business places in town were closed so the number of persons in the street was not as large as on Christmas Eve.  The Burra Hotel had engaged the Burra Brass Band which discoursed good music to the crowd which consequently did not disperse till the New Year had been entered into.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ Gold in SA.  The population of the tiny town of Macclesfield turned out en masse
 
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

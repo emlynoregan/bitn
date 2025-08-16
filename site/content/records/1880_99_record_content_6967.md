@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  A Young Men’s Mutual Improvement Association meets this evening at 7.45 p.m. in the Kooringa Wesleyan Schoolroom.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

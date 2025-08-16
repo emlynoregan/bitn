@@ -84,4 +84,4 @@ A larger pump may be needed and there is no objection to one being made now if t
 
 The Mayor said the Hydraulic Engineer ‘was labouring under an hallucination’.  In interviews with Mr Mestayer he had gained the impression that the engineer agreed that more horsepower was necessary and correspondence bore out that view.  The question was would the larger engine be better for the council and that point was not addressed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

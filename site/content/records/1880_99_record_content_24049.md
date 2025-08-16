@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Departure.  Mr & Mrs E.H. Benney were farewelled by members of the Kooringa Wesleyan Church as they plan to go to Cockburn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

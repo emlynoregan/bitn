@@ -29,4 +29,4 @@ The Great Northern Railway is to be extended from The Peake to Angle Pole.
 
 [The Peake Station is west of Lake Eyre and Angle Pole is near Oodnadatta]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

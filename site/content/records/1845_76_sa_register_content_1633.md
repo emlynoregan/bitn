@@ -27,4 +27,4 @@ Notice is given that the first Dividend of 50% or 50/- per share has been declar
 
 15 June 1847.  Henry Ayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

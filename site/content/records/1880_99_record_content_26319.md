@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy inveighs against Queen Victoria’s refusal to lay a foundation stone for a hospital in Aberdeen (Scotland) because she wanted the funds to go to the Imperial Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

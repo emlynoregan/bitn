@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The stench from the boiling down works in Aberdeen was offensive and must be stopped.  The Inspector is to take action: it was quite ‘atrocious on Christmas Day.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

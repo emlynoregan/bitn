@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 ‘The incoming of the New Year was marked by the discharge of guns and the usual hideous noises and stupid folly.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

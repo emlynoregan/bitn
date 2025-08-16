@@ -35,4 +35,4 @@ The Government advised that there were no funds to make the road between the pas
 
 There was a long discussion re the Market Square lamp and it was finally resolved that the dayman would trim it in Corporation time and light it in his own time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

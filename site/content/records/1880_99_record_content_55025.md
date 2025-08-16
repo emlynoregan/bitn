@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 210 Rabbits were killed by sportsmen last Saturday east of Burra.  They are again becoming numerous out east and generally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

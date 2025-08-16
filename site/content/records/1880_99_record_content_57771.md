@@ -30,4 +30,4 @@ Advt.  Friday 9 August at Burra Institute.  Henry J. Byron’s Drama Blow for Bl
 
 In aid of Burra & St Mary’s Cricket Clubs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

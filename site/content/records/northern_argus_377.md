@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Scouts will hold a Jamboree Jig at the Show Hall on 9 November to raise money for five scouts attending the 14th Scout Jamboree in Sydney at the end of the year.  A three course meal will be followed by dancing to Jack Kleinig’s music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

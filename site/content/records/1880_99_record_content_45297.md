@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI continues to drill and practice firing.  We suggest arrangements be made to see that drills do not clash with football commitments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

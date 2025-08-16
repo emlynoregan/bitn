@@ -28,4 +28,4 @@ Rev. W.G.M. Murphy, of St Mary’s Rectory, writes protesting the leading articl
 
 The editor replies by sticking to the charges and saying that the article does not condemn those in charge, but was rather against the system.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

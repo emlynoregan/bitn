@@ -33,4 +33,4 @@ Quarrymen	41 & 2 for 53	(94)
 
 [Personal interest: for the Quarrymen C. Fuss scored 0 and A. Fuss 8 in the 1st innings and in the Gentlemen’s 2nd innings an unspecified Fuss took two catches.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Wanderer’ [Hardy] writes against re-legalising the Totalizator: saying it will not reduce the number of bookmakers and will get more people into [financial] trouble and gaol than it is possible to estimate, as an authority in Adelaide has recently observed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

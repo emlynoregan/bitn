@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Rev. J. Hancock delivered a lecture at the Mechanics’ Institute on Habit viewed in connection with the moral agency of man.  Rev. J. Warner presided and the hall was well filled.  J. Pearce and family provided musical accompaniment with voice and harmonium.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

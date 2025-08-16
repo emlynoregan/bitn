@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Advertisement.  G.S. Kingston thanks people for their support during the election campaign and urges them all to vote for him at the poll on the 10 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

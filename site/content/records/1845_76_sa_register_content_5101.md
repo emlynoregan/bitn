@@ -117,4 +117,4 @@ The Patent Copper Co. has received 10,981 tons of ores in the past year for 432 
 Captain Roach’s report indicates the Karkulto Mine will prove exceedingly fortunate.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

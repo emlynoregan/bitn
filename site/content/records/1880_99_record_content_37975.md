@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Lodges have had a meeting of representatives and agreed in principle on a united demonstration.  The proposal now goes to the individual lodges for approval.  The next committee meeting is on 23 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

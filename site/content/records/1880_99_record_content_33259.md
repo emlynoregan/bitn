@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Law of Libel and the Liberty of the Press in the light of a recent case against the Naracoorte Herald.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

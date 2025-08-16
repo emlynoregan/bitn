@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Concert and Operetta tonight in the Institute in aid of Mrs Morton.  The Military Band will play in front of the hall before the show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

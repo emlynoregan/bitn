@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Unity’ writes of not being opposed to the work of the Salvation Army, but thinks God’s work would be more advanced if they went to places ‘less favoured with evangelistic services than the Burra’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

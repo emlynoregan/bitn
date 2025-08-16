@@ -60,4 +60,4 @@ Cr Rabbich’s motion to divide was lost.
 
 Cr Sampson then continued to state his case, but when his motion was finally put, it was lost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

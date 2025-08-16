@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Waterworks Engineer had his wages cut from 9/- to 8/- a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

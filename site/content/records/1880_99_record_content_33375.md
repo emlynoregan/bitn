@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. H.T. Burgess gave the first lecture in a planned series on Tuesday evening: The Land we Live in: Its Romantic Past.  There were also musical items.  The address concerned itself with the explorers, the convicts, the gold and copper discoveries and then the first selectors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

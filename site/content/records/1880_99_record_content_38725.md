@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Missionary Society meetings next Sunday.  Rev. J. Rowe to preach.  Rev. J. Rowe came to Burra very early when many were living in the banks of the creek and he and his wife shared one such hut with another couple.  His circuit extended from Kapunda to Burra.  On 28 November he will give an address on reminiscences of pioneer missionary work in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

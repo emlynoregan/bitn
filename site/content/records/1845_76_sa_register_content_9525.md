@@ -50,4 +50,4 @@ The steamer was employed in towing.
 
 1 had arrived with a supply of water.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

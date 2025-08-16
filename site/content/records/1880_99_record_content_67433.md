@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  The level has dropped a further 3” since the last Council meeting. The cost of a new boiler chimney is to be obtained and the boiler is to be chipped.  The water will be cut from Saturday evening 25 November to Monday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

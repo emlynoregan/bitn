@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Moonta Mines.  There is a long article on a visit to the mines of northern Yorke Peninsula and there is considerably more on this subject on 16 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

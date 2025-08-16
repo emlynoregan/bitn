@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Robert Harris, Saddleworth Hotel, Burra Burra Road.  Represented to be one of the best houses on the road.  Granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

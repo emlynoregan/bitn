@@ -45,4 +45,4 @@ The Governor has been petitioned to offer a reward for the discovery of gold.
 
 On 16 June Mr Thomas Clarke, a solicitor, received from a friend a fine specimen of gold found in the Pyrenees.  Also Mr Reay Clarke of Kilmore discovered gold in the King Parrot Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

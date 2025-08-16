@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Elder, Smith & Co. announce their first sale since the reorganisation of Elder’s Wool & Produce etc. to form the new company with capital of £1,000,000.  On 27 July they will offer 3,000 fat and store sheep and 15 fat and store cattle at the Bon Accord Yards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Horse Race.  On Tuesday at Copperhouse T. Halls’ ‘The Earl’ raced Mr W. Jones’ ‘Quondong’ for £5 a side.  ‘The Earl’ was ‘too fly’ for ‘Quondong’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

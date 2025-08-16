@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The rates have previously been 1/- for the general rate and 3d for the health rate.  A 1/- rate gives only £280 for each ward after allowing for the police moiety and the present ward surplus expenditure.  Middle Ward has the advantage of a special grant of £400 for the main roan past the P.O. and Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

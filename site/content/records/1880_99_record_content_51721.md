@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sheffield Handicap of 135 yards for £30 and five bicycle races.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ SA Gold
 It is known that gold has been obtained from the washings in the South Para.  Some Germans previously employed at the Wheal Gawler are reported to have found gold to the east of the Murray.  While gold has yet to be found in SA in sufficient quantities to justify working, it is present in all the streams flowing from the Mt Lofty Ranges and many think it only a matter of time before discoveries to match Ballarat or Ophir or Turon will be found near the capital.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

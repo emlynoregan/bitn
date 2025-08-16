@@ -50,4 +50,4 @@ Mr H. Scott moved an amendment that it was very undesirable to cut up the TSR’
 
 Mr A. Worby supported the amendment and Mr Humpries the motion.  Eli Goodridge and P. Dowd spoke for the amendment and Mr Cooksley said cutting up the TRS would offer a way out for the Baldina farmers and those from other places up country who could not survive where they were.  The original motion was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

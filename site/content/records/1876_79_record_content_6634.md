@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Authorities should act to bring an end to the annoyances to which newly married couples are subjected in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

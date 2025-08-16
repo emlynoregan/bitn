@@ -63,4 +63,4 @@ The Mayor said there were dozens of houses in North Ward besides those of SAMA d
 
 Cr West said it would cost £200 and lead to higher rents.  It was absurd to ask for it to please a fad of two people.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

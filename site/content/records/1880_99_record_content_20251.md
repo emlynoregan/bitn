@@ -31,4 +31,4 @@ Other people acquainted with the other streets say other items are equally incor
 
 Though finances are sound thanks to increased rates and the new loan, to assert as the Mayor did that more money could have been spent on the eastern footway, without affecting finances is not to be credited.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

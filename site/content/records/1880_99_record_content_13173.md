@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Young Australians Football Club has decided to join the Burra Football Club with the idea of forming a second 20.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

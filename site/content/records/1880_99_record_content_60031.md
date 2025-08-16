@@ -28,4 +28,4 @@ Advt.  Burra Institute 19 June.  Grand Night with the Children.  A Grand Musical
 
 30 Voices, directed by Miss Amy Wylie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

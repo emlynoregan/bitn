@@ -28,4 +28,4 @@ The engineer was voted a £5 bonus for work done in repairs at the well, though 
 
 ‘The work would have been carried out more quickly if he had been away.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

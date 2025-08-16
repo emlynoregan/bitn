@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  A report on the trip of the Clare cricketers to Burra indicates they left Clare on a coach at 5.30 a.m., had breakfast at Farrell’s Flat, and got to Burra at 10.20 a.m.  They had tea at Farrell’s Flat on the return trip.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

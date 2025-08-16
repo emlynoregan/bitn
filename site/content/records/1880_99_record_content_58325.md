@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Sandland & Co. will conduct a clearing sale of household furniture etc. for Mrs R. Bartle of Taylor St on 16 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

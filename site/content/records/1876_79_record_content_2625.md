@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Institute meeting called to discuss admitting temperance literature. W. Pearce was ill and asked Dr Stephens to move the motion on his behalf. W. Ridgway moved it be left to the committee. Meeting ended without resolution.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ Christmas in Burra.
 
 The town was thronged with visitors on Christmas Eve, many of them from Melbourne and Broken Hill.  Soon after 7 p.m. the footpaths were clogged and the crowd was thickest between 9 & 10 p.m.  Decorations were better than usual with green boughs and Chinese lanterns on every hand.  The Burra Brass Band played in divers places and drew large crowds.  Shop began to close soon after 11 p.m. and the Burra Band then continued with carols, heralding in the new day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

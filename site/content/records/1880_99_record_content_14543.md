@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Carl Oppermann writes re the 24 varieties of flowers at the show.  He denies the truth of the complaint and says in any case he competes less to win than to excite competition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

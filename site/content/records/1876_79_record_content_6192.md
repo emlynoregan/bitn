@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Copper. A copper lode has been discovered during excavations for the new Anglican church, but the present state of the market makes it unlikely to attract much attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 [Over the last few weeks the paper had reprinted several short comments from other regional papers relating to the problems with the Burra Town Council.  Perhaps the best of these was the one this issue from the Kapunda Herald.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

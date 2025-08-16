@@ -51,4 +51,4 @@ Freeling Station at 8/6 per ton.
 
 Red or Blue Gum, Sheoak Mallee or Peppermint in billets not exceeding 3 ft in length and not more than 6 inches or less than 3 inches in diameter, in quantities of not less than one ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -36,4 +36,4 @@ Burra Waterworks.  On Wednesday Messrs Holder and Rounsevell introduced the Mayo
 
 They also asked that Burra be directly connected by telegraph with Broken Hill: at present messages go through Adelaide.  The treasurer asked that this request be put in writing as the line was being duplicated and the Government would favourably consider the request.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

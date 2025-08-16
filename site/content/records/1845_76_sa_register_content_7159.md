@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Details of the numbers of letters and newspapers posted are given for 1844-50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

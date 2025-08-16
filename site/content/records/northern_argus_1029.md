@@ -40,4 +40,4 @@ At a meeting in Burra in late January Mr B. Rowney of State Heritage, Adelaide, 
 
 [He then goes on at length to justify the validity of the petition and to express his disappointment on behalf of the BPO at the actions of Councillors’ in the whole saga.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

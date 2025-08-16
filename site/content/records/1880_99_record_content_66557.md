@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Football.  The Burra Club met on Monday and told the secretary to inform Petersburg and Farrell’s Flat that no visits could be arranged for this year, but a test match with Clare is to be arranged at Burra and a match against Manoora for Saturday week.  Next Saturday will be Burra v. Allcomers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Last Friday Captain Gregor, a mining agent, found some fossil bones in a small c
 
 [The Register’s Burra correspondent also reports Captain Gregor’s discovery, giving similar details.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

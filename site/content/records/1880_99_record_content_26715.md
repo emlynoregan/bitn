@@ -41,4 +41,4 @@ Burra Floricultural Society.  The Flower Show was a great success and as well as
 
 1 Picotees	2nd	6 Bulbous or tuberous	1st & 2nd
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

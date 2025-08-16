@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mrs Frances Knorr, on 15 December, was found guilty of murdering an infant child at Brunswick, Melbourne, and was sentenced to death.  She is believed to be the woman who came to Burra in April 1892 and posing as a dressmaker duped several tradespeople.  [She obtained payment in advance for orders as well as getting materials on credit.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

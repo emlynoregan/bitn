@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Obituary. Frank McGuiness dropped dead in the bar of the Yongala Hotel on 12 Feb. The inquest found death by natural causes: the jury handed over their fees for the benefit of the widow and family living in Burra. [Frank McGuinis died 12 February 1879 Yongala, residence Burra aged 35.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

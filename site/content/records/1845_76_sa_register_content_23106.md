@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Burra Mine.  The £5 shares are changing hands at £30.  CHECK THIS
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

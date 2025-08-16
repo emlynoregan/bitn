@@ -55,4 +55,4 @@ Mr Forrest arrived at about 3 p.m., having travelled from Canowie since the morn
 
 [There are reports on 31 October and 2 November of Forrest’s arrival at Canowie, Jamestown and Kooringa (page 5 in each case)and a very extensive report on his reception in Adelaide and on the expedition generally in the paper of 4 November, page 5.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

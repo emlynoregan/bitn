@@ -34,4 +34,4 @@ Health.
 A serious outbreak of typhoid at the early part of the year saw patients arrive from Broken Hill and elsewhere as well as some from the town.  Fortunately there were few deaths.  Mr Gray worked tirelessly to eradicate the disease along with the two resident doctors.  The total number of notices given by the Inspector this year was 396.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The program of events was well run.  (The pig with a greasy tail event was won by T. Hall. [Halls?])  Kicking the football was won by A. Lott.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

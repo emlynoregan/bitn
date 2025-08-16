@@ -36,4 +36,4 @@ To the Manly Member for the Burra and all persons whom it may concern:
 
 The resolutions already printed in the paper of 6 October are then printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

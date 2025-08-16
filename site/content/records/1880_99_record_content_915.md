@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Entertainment.  Mr Rose appeared at the Institute on Tuesday and his performance as a conjuror, illusionist, clairvoyant and in a séance was excellent.  It was better than either the Davenports or Professor Fay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

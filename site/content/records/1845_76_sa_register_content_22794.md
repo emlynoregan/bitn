@@ -34,4 +34,4 @@ Obituary.  At 20 minutes past 4 o’clock 22 June Mr J.M. Stacey on entering Ade
 
 [SA Deaths CD has William Kennard Elphich died Adelaide 22 June 1869 aged 54.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

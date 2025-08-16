@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  The sale is announced in the assigned estate of N. Lihou & Sons of the freehold of their manufactory at Terowie and the leasehold of their manufactory at Kooringa, together with vans, buggies, horses, machinery, etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Burra Burra Mine.  It is reported that a difference has sprung up between the pr
 
 [The paper then warns both sides of the danger on the one hand of seeking to extract more income than is justified or on the other hand of underpaying workers.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

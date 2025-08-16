@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Bath & Pearce advertise that they have engaged the services of an exceptional milliner from Melbourne to take charge of their millinery department.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

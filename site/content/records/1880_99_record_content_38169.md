@@ -30,4 +30,4 @@ Stock Sales.  Last Friday’s sales at the Bon Accord yards were the largest for
 
 This week on 3 October Bagot, Shakes and Lewis in Kooringa will offer 28,940 sheep and 120 cattle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ In further demonstrations of the popular indignation and disapproval of the rece
 
 The local court today heard a case in which a lady of Black Springs complained that five other ladies of the same place paraded near her place with a cacophony of tin kettles and then created or caused to be created an effigy of her, which was subsequently burnt, for the purpose of annoying her and causing a breach of the peace.  While the evidence gave considerable amusement to the listeners, the accused had less cause to smile when each was fined 20/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

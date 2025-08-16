@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 F.B. Wilkinson of Kooringa writes 1½ columns on federation, but it is a windy exercise, full of generalities and references, but not well argued on specific points and adding little to the core of the debate.  He was a strong advocate for a ‘Yes’ vote.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -43,4 +43,4 @@ The railway committee pursues its aims with determination.
 
 Rain in the last fortnight and warm weather has brought on growth and the farmers are in good spirits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

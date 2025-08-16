@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The total amount gathered during the events to mark the Wesleyan Missionary Society Jubilee was almost £300.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

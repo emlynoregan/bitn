@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cricket.  The Burra Cricket Club at last decided on a practice match, but the Muffs failed to materialise so they formed two teams of 8 and had a game on Wednesday last in which G. Herbert’s side 133 defeated G. Parks’ side 131.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Brewer sued Langmead for a debt of £19-18-0 and the verdict was for the plainti
 
 A shepherd named Goodyer sued William Robinson for £17-4-10 owed in wages.  Robinson said Goodyer had lost 52 lambs and agreed to work off this debt.  He had previously lost ten sheep.  Last May he absconded from the station and a warrant for his apprehension was issued.  Robinson proved his losses and the amount of cash and goods had by the plaintiff and the latter’s case was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

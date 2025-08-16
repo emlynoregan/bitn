@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Flood.  There was heavy rain Friday afternoon and a very heavy fall just southwest of Kooringa sent the creek through the town down a banker.  It was blocked at the bridge in Commercial St and overflowed into the street.  Several lower lying houses were flooded and cellars were filled.  About 1¾” fell in two hours.  Much metal was washed off streets.  On Saturday afternoon the eastern slopes of the town were drenched, but the west was barely sprinkled.  The creek reached the Washout in the Hundred of Bundey on Saturday, where no rain had fallen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

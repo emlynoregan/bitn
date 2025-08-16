@@ -35,4 +35,4 @@ Burra Grammar School has recommenced operations with vigour.  Mr Stanton has agr
 
 Princess Royal Mine continues to offer promise and 25 men are at work.  Another discovery was made last Tuesday.  It is a great pity that capital cannot be found for the venture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

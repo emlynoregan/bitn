@@ -36,4 +36,4 @@ publication_slug: sa-register
 
 His Excellency the Governor and suite attended the first show of livestock in connection with the Northern Agricultural Society at Clare, on Thursday last.  Several addresses were presented to the Governor.  On Friday the Governor left Mr Gleeson’s and proceeded to Mr George Hawker’s station at Bungaree.  From there they proceeded to Anama, the residence of Mr Charles Hawker, where they are expected to remain until today.  Should the weather prove favourable the party intends proceeding to Mount Remarkable, returning to Bungaree and from there crossing over to Burra.  They are expected to return to Adelaide by 18 December, calling in at the residence of Mr Masters, on the Gilbert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

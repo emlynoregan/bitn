@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  11th race of the season was 46 miles from Stockport on 21 October and was won by R. Pascoe’s birds at 826 yds per minute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

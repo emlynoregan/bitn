@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire destroyed Messrs Kimber & Sons flour mill at Clare on Saturday night.  The new portion of the mill was completely gutted in a blaze that raged all night.  Damage is estimated at £5,000 plus loss of trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

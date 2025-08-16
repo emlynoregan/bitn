@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 With reference to the use of the oval, all we want is exclusive use on Saturdays and holidays from 2 p.m. to 5 p.m.  This leaves five other days free each week (when a holiday does not occur).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

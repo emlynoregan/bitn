@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 St Mary’s Burra.  The new Bishop of Willochra Rt Rev. David McCall was in Burra on Sunday for a confirmation service for ten candidates.  [They are listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

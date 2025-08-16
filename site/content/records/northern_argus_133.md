@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 The Barrier Highway.  A tender for $2.5 million has gone to R.K. & B.J. Matulick Pty Ltd to construct 14.5 km of road from 3.5 km south of Burra to 5.5 km south of Hanson plus about 0.6 km of the Clare-Hanson Road at its junction with the Barrier Highway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

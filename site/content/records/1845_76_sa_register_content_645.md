@@ -37,4 +37,4 @@ He reports that there is little doubt that the flock of Mr Tennent and two sheph
 
 Mr Finniss reports himself perfectly surprised at the Burra Burra [Mine].
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

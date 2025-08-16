@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Chinese.  There is an interesting ⅓ column article on the Chinese gardeners of Newcastle NSW who had formed a Chinese Gardeners’ Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

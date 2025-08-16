@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Baldina Wesleyan Sunday School Anniversary was celebrated on 10 & 13 April.  Rev. R.M. Hunter preached.  The congregations were too large for the building.  On Wednesday an early tea was followed by games and contests.  Financially the results were down on last year.  Mr Tuckfield and family were farewelled as they are leaving the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

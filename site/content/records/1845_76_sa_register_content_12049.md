@@ -33,4 +33,4 @@ The aggregate value of the ore raised in that time is stated to be £1,712,370-1
 
 It is notable, however, that while the nett profit for the last 3½ years has not equalled that of the first five years, it has exceeded that of the intermediate 3½ years and it is possible that the results of the next 18 months, completing a five year period might keep up with the average.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

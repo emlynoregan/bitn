@@ -50,4 +50,4 @@ Mr Lang then ordered that Agnes Dunn accept £2, which Dr Bull had offered to pa
 
 Mr Fitzgerald was indignant at His Worship’s ruling, which would leave his client with virtually nothing after paying 14/- court costs and other necessary expenses, but under the circumstance he had to advise her to accept the arrangement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

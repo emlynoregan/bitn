@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Daviestown Station.  The train has stopped there 330 times in the past year to set down or to pick up a total of 583 passengers and this should justify a favourable reply to the memorial on fares.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

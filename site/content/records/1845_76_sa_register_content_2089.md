@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Notice.  Princess Royal Mining Co.  Tenders are called for hiring the pasturage of the property.  Particulars of the letting may be seen at the office.  E.A. Wright, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

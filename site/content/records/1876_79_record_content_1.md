@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 **Paragraphs:** 3,747
 **Characters:** 612,112
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

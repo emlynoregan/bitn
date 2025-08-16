@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Fire is reported to have destroyed a number of huts and stockyards on Mr McCulloch’s run at Gottlieb’s Wells.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

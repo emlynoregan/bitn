@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A.W.P. Ward, known as ‘Yankee Bill’, lectured on teetotalism at the Wesleyan Schoolroom on Tuesday, but due to poor weather the attendance was not good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

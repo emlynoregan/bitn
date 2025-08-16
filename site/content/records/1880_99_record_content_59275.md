@@ -63,4 +63,4 @@ When the case was resumed on 24 January it was dismissed.
 John Walker was then charged with being an idle and disorderly person and having no visible means of support.  He was sentenced to 14 days hard labour.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

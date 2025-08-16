@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rain.  This week excellent rains fell with 1.660 points [sic] since Monday and it extended to the east country.  [It was, of course, 1.66”]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

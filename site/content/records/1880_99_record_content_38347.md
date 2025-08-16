@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 A Y Class locomotive and tender were used with 30 loaded carriages and trucks.  The first test stopped the train dead on a flat stretch in 130 yards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

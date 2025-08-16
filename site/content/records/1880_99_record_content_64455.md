@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The 50th Anniversary of James Martin’s manufacturing plant in Gawler was celebrated last Wednesday.  It now has 700 employees and has been exporting much machinery to the mines in the WA gold fields.  It has also made 15,000 reaping machines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

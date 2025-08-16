@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Cr Harris, at the last meeting of the Burra Town Council, said he hoped the newly elected member would prove a better man than his predecessor.  Dirty work!  Fancy saying that when he is hundreds of miles away.  He wouldn’t dare say it to his face, but its [sic] only Alex. Harris, you know.  He is a professional at that sort of business.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

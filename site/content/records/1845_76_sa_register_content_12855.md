@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The weather has been very hot since Friday and yesterday (Sunday) there was a north wind with plenty of dust.  The temperature has been about 95°F for three days.  There was much smoke over the town Sunday evening, indicating a bushfire not far way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

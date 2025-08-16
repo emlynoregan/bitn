@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Sunday School Anniversary on 24 & 25 December saw a large crowd of children.  On Christmas Day the school made a procession through the town with the brass band and more tea provisions had to be obtained.  The school now numbers 180.  Collections and the tea raised £29.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

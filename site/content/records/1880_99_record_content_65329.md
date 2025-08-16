@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  At the Barracks next Sunday Captain Griffiths and Lieut. Samuels will bid farewell to Burra, having been in charge here for several months.  The lady officers have made themselves very popular here and many will regret their departure.  Captain Griffiths goes to Adelaide to become secretary of the ‘Grace Before Meat’ scheme and Lieut. Fry will go to Pt Augusta.  [Why Fry here and Samuels at the start of the item?]  Captain & Mrs Melsham will succeed the lady officers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

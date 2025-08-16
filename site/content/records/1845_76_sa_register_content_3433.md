@@ -33,4 +33,4 @@ Morris Marks, writes re the fate of S. Marks as reported in the paper of 3 Janua
 
 S. Marks left the Stone Hut with Mr Tapley Jnr, riding one horse and leading another.  He stopped for refreshments at Mr Higgins’s and there the horse he was leading got away.  In seeking it, he found himself in the Wakefield Scrub.  He followed the river to one of Messrs Young’s stations, where he slept for the night, placing the horse in a sheep pen.  During the night it got away.  The next morning he went to the head station, where he was received with kindness and hospitality.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

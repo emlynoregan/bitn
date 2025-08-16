@@ -32,4 +32,4 @@ Rain has at last come to the relief of farmers and others.
 
 Mr Newlyn, the licensed teacher gave a magic lantern exhibition to children and adults at the new public day school last Saturday.  The various phantasmagoria greatly pleased the children and juveniles for whom it was especially intended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

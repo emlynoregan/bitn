@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  SAR will issue return tickets at the cost of single fares for Adelaide only, from all stations having resident staff, from 13 June to 30 September inclusive on account of the Jubilee Exhibition.  Children under 14 at quarter price.  Return any day within two months of day of issue.  Break of journey not allowed except when necessitated by train arrangements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

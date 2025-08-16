@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr L. Grow fell from his trolly just as he was turning Henderson’s corner on Monday.  He sustained a nasty scalp wound which Dr Brummitt stitched up.  The horses made good time across the bridge and went via Bridge Tce to Bridge St East and pulled up at the gates of their yard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

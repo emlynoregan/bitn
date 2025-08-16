@@ -32,4 +32,4 @@ Mr Thomas was fined £1 for insulting language at the Salvation Army meeting in 
 
 Mr James Bitmead and Mr S. Hill were fined 5/- each for driving cabs at over 7 m.p.h.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

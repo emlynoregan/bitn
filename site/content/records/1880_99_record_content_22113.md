@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Vandalism has occurred at a well owned by SAMA and known variously as Gilbert’s, Ford’s or Ellery’s.  Boards have been torn from the shed and thrown down etc.  The four lads responsible were fined 2/6 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

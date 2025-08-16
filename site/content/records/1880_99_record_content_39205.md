@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Smith’ writes complaining of the Waterworks fiasco and saying it is reported the pipes may be dry till after Christmas.  Such a long cut is an unnecessary bungle.  A pump might be used at night even if retimbering was going on during the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

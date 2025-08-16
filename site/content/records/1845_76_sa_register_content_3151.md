@@ -83,4 +83,4 @@ Mr Giles, the foreman added:
 
 Simultaneous applause broke out in all parts of the court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

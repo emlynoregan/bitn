@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 He was also given a farewell by a number of gentlemen on 24 April at the Royal Exchange Hotel where Mr W. West, Mayor, chaired a meeting at which a number of men spoke and address was presented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

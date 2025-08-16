@@ -49,4 +49,4 @@ Mary O’Leary said her husband kept the Sod Hut public-house.  She said the def
 
 Other evidence was given, but His Worship said the error charged in this case might be accidental and he could not see it in any other light.  It was proved that the holland was sold to Mrs O’Leary and the defendant would have to pay for it and the costs of the proceedings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

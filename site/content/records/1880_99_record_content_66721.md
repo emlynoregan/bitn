@@ -33,4 +33,4 @@ SAMA refuses to consider a site for the relocation of the rubbish depot.  Solici
 
 Dr Sangster appointed Health Officer at £25 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

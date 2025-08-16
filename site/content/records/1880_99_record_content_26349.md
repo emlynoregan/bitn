@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Tenders are called to cart wool from Caroona to Burra Railway Station, at per ton, distance 30 miles.  Contractor to cart not less than 120 bales per week.  The number of sheep to be shorn is about 40,000.  Shearing will commence 1 Oct. 1887.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

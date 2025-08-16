@@ -32,4 +32,4 @@ The lease runs out at the end of the year and the Town Council is seeking to mak
 
 In the last 9 years the enormous sum of £3,613 has been paid in interest.  In addition to that another three year’s interest has been paid.  A new lease on the old terms would compel the payment of £403-17-8 p.a.  There is no more economical way of operating them than that currently employed.  We hope the deputation will put the unchallengeable facts before the Commissioner and make the best possible arrangements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

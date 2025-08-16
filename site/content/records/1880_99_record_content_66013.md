@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bible Christian Sunday School had its annual picnic at Princess Royal on Good Friday.  The day began fine, but rain threatened from about noon, falling from about 4 o’clock at intervals.  At 6 it ceased for an hour or two and the trip home was accomplished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Adelaide & Wallaroo Fertilizer employees at Burra were told last Thursday they h
 The managing director of A & W F Ian Gemmell said the plant at Burra had provided 16% more copper oxide in the last few months and of outstanding quality.  Large quantities of manganous oxide had also been produced.  The company will soon be mining copper ore from Mt Gunson, ensuring a more consistent supply of raw materials.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

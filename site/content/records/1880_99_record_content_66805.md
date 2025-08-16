@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Racing Club.  A small group met on Friday to consider the club’s finances and adjourned till Saturday next for a final decision.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

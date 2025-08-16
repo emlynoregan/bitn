@@ -29,4 +29,4 @@ Obituary.
 
 John Martin died in falling 8 fathoms at the mine.  [Registered in SA Deaths CD as John Marin died 2 October 1876 Kooringa aged 23.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

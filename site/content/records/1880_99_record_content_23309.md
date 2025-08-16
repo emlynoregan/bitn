@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Penny Readings this week will feature the bagpipes played by Mr A.G. MacDonald, late of the 79th Highlanders.  Dr Nesbitt will preside at the above.  He is back in Burra on a visit after being away six years from the end of his term as Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

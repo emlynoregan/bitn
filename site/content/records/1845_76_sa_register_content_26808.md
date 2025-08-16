@@ -41,4 +41,4 @@ Dr Stephens presided at the public meeting.  He has recently arrived from Americ
 
 [This report seems a little confused.  Presumably Dr Stephens’ meeting was on Monday, as the usual practice was to hold a tea-meeting the day after the anniversary services.  The Tuesday tea is not explained.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

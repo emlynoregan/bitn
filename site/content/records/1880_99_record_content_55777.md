@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr C. Fuss, promoter of the concert in aid of the sports decided it would go ahead in the evening and a good number attended.  ‘Mr Fuss deserves much credit for arranging such a variety programme.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

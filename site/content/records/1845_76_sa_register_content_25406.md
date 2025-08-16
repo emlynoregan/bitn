@@ -32,4 +32,4 @@ A.W.P. Ward, known as ‘Yankee Bill’, lectured on teetotalism at the Wesleyan
 
 Burra Freemasons gave a grand ball on Thursday.  About 80 ladies and gentlemen attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

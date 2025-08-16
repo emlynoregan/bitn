@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 House of Assembly has finally agreed to pass the Municipal Corporations Bill without the Part XIX to which the fossils in the Legislative Council have objected.  An election next year for the Upper House will no doubt see a new clause added to the Bill soon afterwards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

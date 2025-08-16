@@ -29,4 +29,4 @@ Kooringa Primitive Methodist Church Anniversary, Sunday 7 Monday last.
 
 Revs. H.J. Pope and S. Knight officiated.  F.W. Holder presided at the public meeting.  Proceeds c. £50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

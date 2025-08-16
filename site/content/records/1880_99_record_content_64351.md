@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 J.C. Sandland said while £2-13-4 was average some were paying £3 or even £5 per square mile.  P.L. Killicoat thought that if no reduction was made they would have no alternative but to throw up the land.  T. Pearse moved that all rents on leasehold land outside Goyder’s Line from Morgan to Mutooroo, irrespective of the type of lease, be halved and a corresponding reduction be made in purchase money.  Carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

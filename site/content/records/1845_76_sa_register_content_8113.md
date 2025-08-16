@@ -53,4 +53,4 @@ The Governor’s Trip to the North
 
 Sir Henry and Lady Young returned on Thursday from their northern trip of 16 days.  They went as far north as Charlton, the station of Messrs White in the Mount Remarkable District, about 160 miles from Adelaide.  They travelled north via Gawler, Auburn, Watervale, Penwortham, Clare Bungaree Station, Bundalier Station [Bundaleer] and on to Charlton.  Their return was via Booboorai [Booborowie] Burra Burra, Karkulto, Apoinga, Anlaby, Koonunga, Nooriootpa [Nuriootpa], Angaston, Flaxman’s Valley, Lyndoch Valley, Pewsey Vale, Mt Crawford and Trial Hill.  Everywhere the Governor was received with liberal hospitality.  A depot for the reception of imports and exports at the head of Spencer Gulf has been represented to the Governor as essential.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rabbits.  G.W. Goyder, Surveyor-General, says he had asked for Government rabbit eradication parties for the lands in the Hundred of Terowie, but the Commissioner replied that ‘he had no confidence in destruction parties sent out by the Government’, so nothing has been done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

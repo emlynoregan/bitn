@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The recent changes to the mail make it possible to get an answer by the return mail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

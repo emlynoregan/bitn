@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Saddleworth Comedy Co. performed on 31 December to a very thin house, people preferring the outside activities.  The churches held the usual watch-night services.  At midnight guns were fired, whistles blown at the foundry and all possible noise made.  Larrikinism was conspicuous by its absence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

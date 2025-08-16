@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Weather has been hot.  Monday was 100°F and reached 110°F in some shops, but Tuesday’s cool change saw temperatures drop to <60°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

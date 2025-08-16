@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Editor on Upper House reform. A clearly written outline of the present state of affairs in SA, Vic & NSW & need to do something to resolve problems when the two houses are at loggerheads. The Ed. advocates that at every Lower House election ⅓ of the Leg. Council go to the polls too, thus making the Upper House more responsive to changes in electoral feeling & yet preserving its desirable conservatism.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

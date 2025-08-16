@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Grand Promenade Concert by Davey’s Brass Band Saturday evening 21 Sep. in Market Square under the patronage of the Mayor and Councillors.  Conductor W.J. Davey, Leader J. Davey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

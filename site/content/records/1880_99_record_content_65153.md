@@ -42,4 +42,4 @@ Pedestrian Programme	1. Allcomers 100 yards (1st £1-1-0)
 
 Adults 1/-, Children (under 15) 6d, (under 5) free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

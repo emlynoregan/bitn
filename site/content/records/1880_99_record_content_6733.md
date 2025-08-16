@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. James Bickford was accorded a valedictory meeting at Redruth Wesleyan Church last Tuesday and Kooringa Wesleyan Church on Wednesday.  F.W. Holder was the main speaker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

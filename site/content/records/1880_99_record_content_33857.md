@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Bolt.  The horses in a buggy driven by Mr Philip Oates bolted down Flagstaff Hill on Friday morning and the vehicle was smashed when they tried to turn into the road towards Copperhouse.  Mr Oates had his left thigh badly torn and his older daughter dislocated a hip.  The younger daughter escaped unhurt.  The horses, now with only the pole, were caught at Copperhouse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

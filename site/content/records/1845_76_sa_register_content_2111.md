@@ -28,4 +28,4 @@ William Templar, The North Star, Great North Road.
 
 The Chairman said he was sorry that complaints had been made to him by two gentlemen, of great incivility to customers.  He hoped he should not hear of such again.  Applicant said he was not aware of it.  He had tried to make his house as comfortable as possible.  Ordered to stand over.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

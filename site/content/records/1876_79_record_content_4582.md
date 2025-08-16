@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rabbits. There is a 1½ column report a rabbit meeting at Mt Bryan on Sat. 10 August and almost another 2 columns on another at Hallett. Both strongly condemn the failure of the Legislative Council to pass a strong rabbit eradication Bill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

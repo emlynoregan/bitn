@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Model Parliament.  At a meeting last Monday at the Institute only a dozen braved the wet to discuss the matter.  P. Murrie was voted into the chair with W.H. Linkson as secretary pro tem, with the whole to form a committee to carry out the idea.  The next meeting is scheduled for 17 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

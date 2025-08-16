@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 World’s End crops are very poor, but at Baldina Mr Rhodé is reaping a fine crop of steinweidel variety and expects to get 15 bushels per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

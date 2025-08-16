@@ -40,4 +40,4 @@ Lucy Gurney	5/- for stray pigs
 
 Henry Pearce	14/- + 15/6 for stray cattle at Baldina
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -47,4 +47,4 @@ Accident.  On Monday 10 October a worker at the Bon Accord Mine suffered a broke
 
 Kooringa Wesleyan Chapel held its Anniversary Services on Sunday.  Sermons were preached by Rev. Harcourt of Norwood and Rev. James Lyall (Presbyterian) of Adelaide. Congregations were large.  The collections were made to aid the trust fund and also to build a gallery in the chapel to increase its seating.  The Monday tea meeting was most numerously attended.  The public meeting was also largely attended and the balance sheet showed a great increase in the amount collected.  An appeal was made for funds to erect a gallery.  Mr Colton headed it with a donation of £5-5-0, as also did Mr Padman, with Messrs Ballantyne, Young and Bray contributing in proportion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

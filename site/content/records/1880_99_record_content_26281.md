@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr David Sterne will lecture at the Institute on 12 Sep. on The Objects and Working of the Industrial School for the Blind.  The Mayor will take the chair.  (Mr Sterne is himself blind and there will be a collection for the school.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

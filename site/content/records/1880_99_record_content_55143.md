@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Wager.  Last Monday one of W.P. Barker’s sheep was backed to be heavier than Harry Vivian, host of the Commercial Hotel.  When put to the test the sheep weighed in at 181 lb, but Harry managed 182 lb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

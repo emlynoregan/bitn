@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Coursing Club met at the Royal Exchange Hotel on Friday 13 April with W.T. Rabbich presiding.  Sec. G. Parks.  The annual meet at Gum Creek will be held on 5 June and will be a 32 all-aged stake with the winner to receive £30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

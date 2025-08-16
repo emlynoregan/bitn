@@ -44,4 +44,4 @@ The Campbell Minstrels gave an entertainment at the Burra Hotel last night.  It 
 
 The usual fortnightly cattle sale was held at Smith’s yards yesterday and about 20 head were sold at fair prices.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

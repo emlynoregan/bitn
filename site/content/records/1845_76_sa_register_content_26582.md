@@ -33,4 +33,4 @@ Burra, 31 August.
 
 Wool has begun to arrive at the railway station with 100 bales coming from Elder’s and Waite’s Paratoo and Parneroo runs.  Dry weather recently has improved the Mt Bryan Road, but rain yesterday will stop the traffic again for a time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

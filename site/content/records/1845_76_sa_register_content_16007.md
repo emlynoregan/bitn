@@ -29,4 +29,4 @@ On Tuesday morning at about 3 a.m. fire broke out in the Royal Oak Hotel, which 
 
 After the re-opening of the general store last week, we now have news that the butcher shop will be re-opened next week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

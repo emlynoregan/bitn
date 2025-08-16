@@ -27,4 +27,4 @@ Offences: Letter against furious driving in town with buggies rounding corners a
 
 William Matthews charged with furious driving at Kooringa. 10/- & 10/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

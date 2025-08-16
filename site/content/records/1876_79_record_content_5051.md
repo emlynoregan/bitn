@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Accident. The mail coach from Hallett to Jamestown was upset near Jamestown on Tuesday, but fortunately no one was seriously hurt and the passengers scrambled out through the window.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

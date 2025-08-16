@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  1 June 1891, D.J. Worrell has bought The Railway Store, Hallett, from James Tiver & son, who have run it for many years and he will continue to run it as before.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

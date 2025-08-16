@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A Bolt.  On Saturday Mr Porter was returning to his residence at Koonoona, Springbank in a buggy when he stopped to talk to some men doing some fencing for him.  The horse bolted, but Mr Porter had the presence of mind to jump out and escaped unhurt.  The buggy had its fore-axle and shafts broken, but the horse was captured with trifling injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

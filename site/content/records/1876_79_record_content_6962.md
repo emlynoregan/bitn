@@ -31,4 +31,4 @@ County Burra, Hundred 281 lies north of H. of Mongolata and south of the H. of W
 
 [It was proclaimed the H. of Tomkinson on the 18 September 1879: named after Samuel Tomkinson MLC, a member of the Upper House from 1885-1900 and manager of the Bank of Australasia in Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 Notice to miners engaged by Mr Winship.  The undersigned are instructed to issue Passage Tickets by the Rangatira, to sail about the 10th inst. to W. Hoskins, Charles Beattie and William Tomkins, and their families.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

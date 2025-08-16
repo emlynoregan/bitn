@@ -35,4 +35,4 @@ Creeks were running higher than for some time.
 The men started on the 26 July for the Nackara Mine as the new venture has been called, taking along horses, cart, water barrel and tools.  The £10 shares have been divided at the rate of £40 for small portions.  One quarter of a share sold today for £6-15-10.  [These last two sentences are incompatible.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

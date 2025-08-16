@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Waterworks.  A deputation of local members waited upon the Commissioner of Public Works to get the interest rate on the waterworks reduced (currently between 5% & 6%) and pointing out the railways refused to buy any water as they had a scheme of their own.  The Commissioner undertook to look into it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

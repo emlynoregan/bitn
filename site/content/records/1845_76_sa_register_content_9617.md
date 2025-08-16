@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Tenders are called for the supply of 150 tons of good-grown hay in quantities of ten tons and upwards, delivered in trusses at the Burra Burra Mines.  Henry Ayers, Secretary SA Mining Association, 14 January 1850.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ Obituary.  Mrs Thomas Read, wife of a shepherd employed by Messrs Duffield & Por
 
 At the inquest conducted by W.H. Challoner JP at the Miners’ Arms, Dr William Henry Dashwood said that at the post mortem he had found the heart in a state of hypertrophy and the liver was fatty and enlarged.  The cause of death was an ‘effusion into the pericardium, consequent upon an old standing heart affection’ and probably accelerated by recent inflammation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

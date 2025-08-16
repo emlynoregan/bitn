@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 There were various age category races over 50, 100 and 200 yards and 100 yard 3-legged race, 1 mile walk, 50 yard hopping. Hammer throw (91b), 50 yard jumping in sacks, etc. For the men's race over 200 yds the prize was a live pig. There were also women's races and cricket, croquet, twos and threes, swinging. Proceeds were £54.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  The AGM of the Aberdeen Cricket Club was held at the Court House Hotel, Monday evening last.  Mr Rabbich in the chair.  ‘Resolved to remined [sic] those members who have not paid the call.’  It was suggested the club be renamed the Burra Club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

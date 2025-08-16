@@ -27,4 +27,4 @@ Weather.  Clare had 2 1/14 inches [fraction unclear] of rain on Monday, which da
 
 Redruth Bridge is in a fearful state with a hole in the middle at least four feet square.  Strangely no steps have been taken to caution travellers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

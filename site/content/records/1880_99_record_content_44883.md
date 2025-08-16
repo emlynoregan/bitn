@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Livestock Sales.  From 1 January to 31 March over 124,000 sheep have been sent for sale at Burra and nearly all were sold.  715 cattle have been sold in the same period.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

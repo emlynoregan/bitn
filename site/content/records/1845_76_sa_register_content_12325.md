@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 On Monday the annual races took place at the Dry Hill, or Cross Roads, when all who were not engaged at cricket or at the Wesleyan Sunday School tea meeting, were assembled.  There was a good turnout.  There was also a procession of the Redruth Tradesmen and Miners’ Club, who afterwards took part in a dinner at the Court House Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

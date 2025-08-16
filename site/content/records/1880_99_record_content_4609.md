@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The secretary of the Redruth Band of Hope writes gently pointing out that the 6d entertainment will clash with their established meeting.  The editor says this was accidental and it is likely the 6d entertainments will soon be altered to run on the alternate weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

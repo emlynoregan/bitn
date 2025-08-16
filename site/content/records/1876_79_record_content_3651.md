@@ -46,4 +46,4 @@ Seconded Cr Batchelor, and carried.
 
 The standpipe not having been asked for Cr Roberts thought that they should return its key. The mayor thought that Kooringa was worse off than Aberdeen for water and badly in need of a trough, and they might make arrangements with one of the water carriers to supply Kooringa with water. Cr Batchelor moved that the key be returned as the Corporation consider that the scheme would be a failure financially and otherwise, have never recommended and cannot recognise the erection. Cr Geake favoured keeping it lest it otherwise fall into private hands that might make money out of selling the water. He suggested finding out what the Commissioner in Adelaide might suggest. The Commissioner might suggest some course of action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

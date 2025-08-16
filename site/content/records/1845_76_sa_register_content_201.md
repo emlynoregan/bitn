@@ -76,4 +76,4 @@ Value £39-10-9
 
 The values per ton are obtained on the assumption the ores are of the same relative value as those from the Kapunda Mine, a sample of which that yielded 53.50% Ws valued at £39-15-0 per ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

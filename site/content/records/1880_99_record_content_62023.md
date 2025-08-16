@@ -30,4 +30,4 @@ Advt.  Genuine clearing sale, today, on the farm about three miles north of Burr
 
 Sandland & Co will sell by auction as above on account of Mr J. Cockrum who has sold his farm and is going to WA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Of the 1360 formal votes there were 176 plumpers, of whom 75 were for Ward and 23 for Duncan.  The rest got from 11-19 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

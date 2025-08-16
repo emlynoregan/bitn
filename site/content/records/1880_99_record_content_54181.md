@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Fisk Jubilee Singers on Friday gave a first class performance and gained much applause, though the audience was not as large as on there last visit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

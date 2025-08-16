@@ -29,4 +29,4 @@ Bon Accord Bridge
 Last year I announced special expenditure of £1,500 for the Bon Accord Bridge.  This year the contract went to Messrs Braidwood & Wise and I trust it will be completed at an early date and that it will be of great convenience to the travelling public and to stockowners.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Christmas Festival on 1 December in Burra Institute by the Kooringa Wesleyans: Luncheon and Afternoon Tea with strawberries and cream.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

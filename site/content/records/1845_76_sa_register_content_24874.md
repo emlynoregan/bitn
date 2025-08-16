@@ -32,4 +32,4 @@ Naming of Townships and Hundreds
 
 Mr Ward has been defeated in his attempt to the absurd practice of naming hundreds and townships after obscure individuals who would otherwise be unknown to fame.  The commissioner of Crown Lands said he had nothing to do with naming such places and they were given by the Governor.  He seemed to imply that the resolution would be an infringement of Crown prerogative.  We can hardly believe that the Governor as a man of taste is responsible for such preposterous and disfiguring names as Jamestown, Georgetown, Laura and the Hundred of Dublin or a dozen equally objectionable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Dr Cave, late of Burra, died at Brompton on Saturday only a few weeks after his wife’s death.  [Alfred Henry Cave: registered as Alfred Cabe died 4 February 1882 aged 38.  His wife registered as Ann Eliza Cabe died 25 November 1881 aged 35.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

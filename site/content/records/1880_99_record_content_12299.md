@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 William Moolan, alias William Robb was charged with obtaining £4-5-0 worth of drapery goods by false pretences from J. & E. Hoskings.  He was committed to the criminal sessions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

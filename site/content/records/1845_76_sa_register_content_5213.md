@@ -35,4 +35,4 @@ There was a proposal to extend the franchise to all holders of tenements of the 
 The system of voting by ballot was strongly opposed by the chairman, but carried by a large majority.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -43,4 +43,4 @@ This restricts the line of transit to a chain in width.  Traffic has increased t
 
 Motions were passed calling for the Government to honour its commitment and further action is assured, this being only a preliminary meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the rabbit scourge, which has swept in and in places seen the land stripped bare.  Terowie has been very badly hit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -40,4 +40,4 @@ Evidence was taken as to precautions taken to prevent such accidents underground
 
 [Died 17 January 1851, aged 24.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Tiver sued Midwinter for £37-2-6.  The plaintiff had done work of additions and improvements and extra work had been found necessary which was done with the defendant’s approval, but was then disputed.  Judgement was for the defendant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

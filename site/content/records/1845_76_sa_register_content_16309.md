@@ -30,4 +30,4 @@ The 31 December was hot with a fierce north wind and such dust as made it diffic
 On 4 January a fire began at Springbank, which destroyed a large amount of feed.  The high wind on the day spread the fire, which was extinguished after a great effort at about 4 p.m.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

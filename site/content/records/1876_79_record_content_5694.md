@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The Aberdeen water trough near the railway gate has been empty for some days. A letter to the authorities from the Town Clerk should see the problem rectified.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

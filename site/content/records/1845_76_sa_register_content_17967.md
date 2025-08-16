@@ -37,4 +37,4 @@ Fire
 
 A large fire started on Saturday on Gum Creek Station and soon spread over the hill towards Copperhouse.  Men from the Mine fought it and it turned northeast towards Mr Vickery’s.  His place suffered severely.  Mr Hallett’s Run was also alight, along with Captain Killicoat’s purchased land, Mr Gebhardt’s and the Mt Bryan Run.  It is still burning and has affected Booborowie, Gum Creek, Wildoto [sic] and Wandillah Runs and the runs of Mr Barker at Mt Bryan.  It is the largest fire near the town for many years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

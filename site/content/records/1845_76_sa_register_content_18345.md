@@ -37,4 +37,4 @@ Professor Bushell gave a second electro-biological entertainment at the Burra Ho
 
 Trade is slack and many of the best and steadiest miners continue to leave for Wallaroo.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

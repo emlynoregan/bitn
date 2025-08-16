@@ -38,4 +38,4 @@ Inquest/Obituary.  J.W. Macdonald Special Magistrate held an inquest on 1 Septem
 
 [Thomas Balne Marchant died 31 August 1854 aged 28.  BISA entry says he was born 4 August 1826 Freshford, Somerset, UK, had arrived in SA in 1840 on the Fairlie and was unmarried.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

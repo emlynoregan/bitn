@@ -29,4 +29,4 @@ The undivided profit of the company is now £14,229-5-8.
 
 Witnesses are being examined in Adelaide under the commission issued in the action pending against the purchasers of the mine in England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

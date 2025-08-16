@@ -29,4 +29,4 @@ There has been heavy rain in the last fortnight.  The grass is green and growing
 
 The Miners’ & Mechanics’ Institute progresses slowly, but in all likelihood will be completed in a few weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

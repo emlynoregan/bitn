@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 False Alarm.  Someone blew Henderson’s whistle about 10.15 p.m. on Tuesday night and men and women assembled to fight the supposed fire, but it was apparently a lark by some unknown person.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

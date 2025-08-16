@@ -32,4 +32,4 @@ Aberdeen Ballast Quarry.
 
 The Engineer-in-Chief, Mr Montcriff, visited Burra on Wednesday and with the Mayor, Cr West and Town Clerk W. Davey inspected the ballast quarry.  There is a proposal to lay a siding to the quarry – a distance of c. 1 mile, and when completed two trains a day will run to and from the quarry for ballast.  The ballast here is said to be the best that can be had and is said 40-50 men will be employed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

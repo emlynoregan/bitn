@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Mayor & the Hospital. There is a fairly long letter from the Mayor, Mr Lipsett, explaining why he sent a man to the hospital with an order for admission & how he was right to do so. [This was in response to an item in the paper querying his right to demand the admission of a patient.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

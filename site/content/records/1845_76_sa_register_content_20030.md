@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Pranks.  A number of young ‘gentlemen’ have of late been amusing themselves at night removing carts to creeks, turning over small outhouses and various similar pranks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

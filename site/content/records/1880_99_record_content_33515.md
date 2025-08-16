@@ -32,4 +32,4 @@ At half time Norwood 6.7 led Northern/Burra 6.7 and at full time
 
 Norwood 10.13 (73) had defeated Northern/Burra 2.3 (15)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

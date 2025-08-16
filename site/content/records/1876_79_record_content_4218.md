@@ -41,4 +41,4 @@ Hallett Railway. A sarcastic article claiming that the following advice was take
 • the Burra-Hallett line matches these desirabilities most closely 
 With respect to extending the line from Hallett we believe an analysis of where most traffic from the area is headed — Port Pine, or Adelaide — should determine where the break of gauge should occur. At present this would suggest a break of gauge near Ulooloo or between there and Yarcowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

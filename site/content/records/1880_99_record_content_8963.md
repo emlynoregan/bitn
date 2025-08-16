@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Austin, Davison & Jaffrey	Auctioneers, Kooringa, [From 7 Dec. 1882 this was actually Austin, Davison & Co., the partnership with Jaffrey having been dissolved]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

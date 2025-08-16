@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Women’s Agricultural Bureaux held a congress at Burra Town Hall last week.  There were 175 delegates from SA & NSW.  Freda Pink of Burra was given an award for services to the community over the past ten years.  Freda id the Regional Councillor for the Mid North and editor of the quarterly WAB Newsletter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

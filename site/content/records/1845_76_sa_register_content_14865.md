@@ -58,4 +58,4 @@ The jury decided that the deceased had committed suicide whilst under a fit of t
 
 [William Peters died 19 September 1861, Kooringa aged 30.  BISA says his wife was born Susanna Bennetts and had previously been married to John Hodge.  They arrived in Australia in 1851 and John died 26 November 1858 at Kooringa aged 36.  They had a daughter Elizabeth born c. 1851.  Susanna (or Susan) married William Peters at Kooringa 18 November 1860 at Kooringa.  At the time of Peters’ suicide she was pregnant and Susan Ann Peters was born 12 February 1862 at Kooringa.  Mrs Peters married John Bone (30) on 16 August 1862 at Kooringa and they had a son, John Bone born 23 December 1863 at Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

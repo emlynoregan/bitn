@@ -28,4 +28,4 @@ publication_slug: sa-register
 The Mt Bryan Road.  One unmentioned aspect of the problem with the road is that many farmers become teamsters to earn the money wherewith to get in their harvest.  This year many have actually lost money because of the state of the road.  It has cost them the time and labour of themselves and of their teams as well as damage.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

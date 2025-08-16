@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice.  A long list of subscribers is printed together with the sums they promise as a reward to the discoverers of a goldfield within SA and who satisfy a committee of twenty of the subscribers that the discovery approximates in extent the discoveries recently made in NSW.  There were 48 names attached and the list was to be left for perusal at the offices of the South Australian Register, and the Adelaide Observer where persons wishing to do so could add their names and sum promised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

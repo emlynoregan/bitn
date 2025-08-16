@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Advt. For sale by tender. The lease of the Miners' Arms hotel with 11 years to run comprising the hotel with chaff house (let for 30/- a week) and provision of all firewood. Extensive yards where Liston, Shakes & Co. and Coles & Goodchild hold monthly sales. Rent of the whole £140 p.a. and also plans for a new hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

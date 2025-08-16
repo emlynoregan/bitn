@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Accident.  Last Monday afternoon C. & T. Drew were violently thrown from their vehicle when the horse shied and bolted near the Anglican Church.  They were fortunately only shaken and bruised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

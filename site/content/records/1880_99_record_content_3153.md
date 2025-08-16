@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 With the cutting down of the roadway the wall in front of the Institute is in a curious situation.  The down-cutting will leave it perched too high for a person to look over and also it is found to intrude upon the footpath two feet at one end and tapering to nothing at the other.  The editor was of the opinion that the wall should be removed to its right place and the steps enlarged as required - probably at a cost of c. £80.  The committee has however, decided that the wall will remain and be underpinned as needed.  But Council cannot formally agree to such an encroachment and should not be asked to wink at it.  We hope the committee will withdraw from this untenable position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

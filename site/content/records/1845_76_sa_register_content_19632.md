@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 It is hoped that our much respected friend Dr Mayne will resume his practice next week.  All his patients and acquaintances congratulate him on his recovery during his recent trip to England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Salvation Army has obtained the land on which John Sampson’s auction mart stands and intends to build there a Barracks.  They are attracting large crowds nightly in the square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

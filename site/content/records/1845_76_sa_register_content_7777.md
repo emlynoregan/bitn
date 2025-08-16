@@ -30,4 +30,4 @@ The Overland Route to Mount Alexander
 [ A lengthy editorial article examines the overland routes to the gold fields.  The southern route via Portland Bay is longer than a more direct route through the Murray Scrub.  This route is deficient in water and the Government is considering making it available by tapping water that is known to exist at depths of 50-60 ft.  If it were made available at quite moderate cost, this route could also become the mail route.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

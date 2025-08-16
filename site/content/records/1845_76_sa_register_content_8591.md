@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Kooringa News.  In consequence of the extensive formation of gardens in and around Kooringa, we understand it is contemplated that an amateur Horticultural Show will be held there.  A meeting to make arrangements will be held shortly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

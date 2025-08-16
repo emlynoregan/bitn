@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Polo.  Saturday at Burra before a fair crowd.  Burra 6 defeated Adelaide 2, with three of Burra’s goals coming in the last quarter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

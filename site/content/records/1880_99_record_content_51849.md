@@ -28,4 +28,4 @@ Editorial on Council Matters & the Mayor’s Report.
 
 It praises the role of the Town Clerk and is averse to his salary being cut, though the writer questions why he was paid £10 more than he asked for.  He also questions the need for an overseer who was kept on with nothing to oversee in the latter part of the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

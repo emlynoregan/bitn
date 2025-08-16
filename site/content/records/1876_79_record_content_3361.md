@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Stony Gap Wesleyan. Chapel had a good anniversary congregation on 23 Dec. and raised £11 at the public meeting on the 26 Dec.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

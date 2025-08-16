@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Aenach Mor Gaedilge.  The Great Irish Fair to be opened tomorrow aims to reduce the heavy church, school and convent debt, which is over £1,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Des & Lesley Menz and family were farewelled by Councillors and Council staff on Friday.  They are moving to Cobrum [sic: for Cobram] in Victoria.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

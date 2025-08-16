@@ -53,4 +53,4 @@ The Juvenile Court – Court Pride of Burra – was a valuable source of members
 
 The toasts and speeches were supplemented with songs and Bro. A.B. Hiddle delighted the audience with several musical selections on the gramophone.  The Burra Orchestra also attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

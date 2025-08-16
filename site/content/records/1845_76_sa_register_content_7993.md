@@ -63,4 +63,4 @@ And a description of Ballarat reports that at the end of February at Golden Poin
 
 [Given that many of the parties are reported to have obtained more than a pound of gold in a week of less, this report was very encouraging.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

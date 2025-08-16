@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  J. Webb is selling land in Redruth.  Part of town quarter acre 12 consisting of allotments 7, 8, 9, & 10 having a frontage to Hillston St [sic] and on which is erected a cottage and stone store known as Warren Bros.  [Should be Helston St.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

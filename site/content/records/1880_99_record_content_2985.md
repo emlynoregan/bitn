@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Stray Leaves Co. played on Saturday to a crowded house.  ‘Stray Leaves’ played for over 200 nights elsewhere and was very well received.  Welsh, Irish and Dutch impersonations were wonderfully well done.  There were also good houses on Mon. & Tues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

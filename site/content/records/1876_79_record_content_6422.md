@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Railways. The Hallett railway is to be continued with day labour. The line north of Hallett is being surveyed just inside private holdings at a great cost [in compensation] when a travelling stock route which is equally suited runs alongside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

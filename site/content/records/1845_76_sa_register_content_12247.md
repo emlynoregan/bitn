@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Tonight a meeting is to be held at the Aberdeen Hotel to hear the prospectus of a company to work what is to be called the North Burra Mine, located at Hallett’s Hill some 12 miles from Burra.  A great many miners have invested in these two prospects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

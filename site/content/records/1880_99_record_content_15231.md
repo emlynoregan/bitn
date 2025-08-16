@@ -34,4 +34,4 @@ Editorial on ‘the exposure and exploration of the Cities of Sodom and Gomorrah
 
 3rd Leader on proposals in Toowoomba for rubbish disposal by incineration.  In the article the writer refers to the uncovering of the old rubbish fill by the water pipe trench being dug in Chapel St.  [Presumably a consequence of the re-aligning of the creek in earlier days.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

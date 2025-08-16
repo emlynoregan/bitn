@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Messrs Sing & Fat, who have been in business here for some time as general storekeepers are to have a new premises erected at the corner of Thames St and Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

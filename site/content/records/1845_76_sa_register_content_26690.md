@@ -35,4 +35,4 @@ Tree planting has become a habit among farmers.
 
 Newly-purchased rams are leaving Booborowie and Canowie sheep stations in several lots.  About 100 passed through last Sunday headed for Monday’s train en route to New Zealand.  ‘The first cost is stated at ten guineas each.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

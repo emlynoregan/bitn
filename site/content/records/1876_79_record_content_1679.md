@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 SAMA denies use of the Mine paddock for the races. [But must have subsequently relented]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

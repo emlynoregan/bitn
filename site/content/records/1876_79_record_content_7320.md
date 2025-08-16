@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. The program for the Burra Amateur Athletic Club Sports is printed. The meeting will now be held at Mr Duff's paddock, Copperhouse and NOT at Mr Austin's paddock as previously advertised. (10 November: the Prince of Wale's Birthday)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

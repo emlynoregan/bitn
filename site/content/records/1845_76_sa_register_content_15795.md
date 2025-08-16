@@ -30,4 +30,4 @@ Kooringa News, 16 July
 
 Kooringa has been entertained by the visit of Messrs Poussard and Douay and the talented cantatrice Miss Bailey at the Burra Hotel on Friday evening.  [The program is listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

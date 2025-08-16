@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  J.F. Duff has started a business as an auctioneer.  He has no connection with Goodchild, Duff & Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

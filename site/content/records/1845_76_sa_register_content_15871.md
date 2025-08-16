@@ -39,4 +39,4 @@ Another entertainment currently in the town is the waxworks showing the death of
 The outbreak of sickness in the community continues and the rate of mortality has scarcely declined.  I am informed that in the last fortnight there have been upwards of 42 deaths.  Last Sunday there were no fewer than six funerals. [If this is true, a great number of them were not registered.  See figures cited at 9 August report.  In fact fifteen deaths are registered for the period 20 August to 3 September.  All were children; one aged 6, another aged 4 and the remainder were younger.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

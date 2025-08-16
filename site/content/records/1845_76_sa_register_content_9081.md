@@ -98,4 +98,4 @@ The company’s property around the Mine has a very desolate and barren appearan
 
 The present high prices of provisions militate against the successful working of the Mine.  The lowest wages upon which the men can live and the high transport costs mean that profits are less than in former times.  There are no sulphurets in the Burra Mine, or the ore might be reduced to regulus.  The only course that can be pursued with the lower grade ores is to smelt them in the colony.  This has been done for some years at the neighbouring smelting works, but the high cost of fuel is a great discouragement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

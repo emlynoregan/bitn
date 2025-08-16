@@ -39,4 +39,4 @@ The migration to Newcastle continues and numbers of families are still preparing
 
 Collections have been made on behalf of the Lancashire Relief Fund in the Wesleyan Chapel and the result is about £18, which it is intended to make up to £20 before remitting it to the Adelaide Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

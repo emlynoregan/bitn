@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wages.  Workers at Dry Creek were already on only 4/6 a day when the government decided to put them on piecework instead to save further money!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

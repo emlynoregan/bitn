@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mr Billing has been exhibiting his collection of wild beasts here since 6 December and a great many have availed themselves of the opportunity afforded.  The youngsters have been greatly delighted by the sight of lions and tigers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

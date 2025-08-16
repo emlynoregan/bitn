@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Birth.  To Wendy & Michael Burge on 2 April, a daughter, Kate Marie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

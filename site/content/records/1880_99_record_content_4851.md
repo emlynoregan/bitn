@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Shooting Accident.  A Boy, O’Connor, from Hallett was admitted to the hospital accidentally shot in the abdomen while struggling with another boy for possession of a gun.  (The editor found this to be extraordinary.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

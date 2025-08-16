@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Dr Lee.  Doctor, or Ah Lee, a Chinese, appears to have left the town with debts unpaid.  [At least this appears to be the import of a very tediously wordy and supposedly humorous paragraph.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ Dr John Cockburn writes defending his actions in treating Sarah Ann Fogarty and 
 
 Letter from W.R. Ridgway re the Council loan. He questions the likelihood of the Govt. subsidy being discontinued and claims they would also be paid on the bridge approaches if raised by subscriptions or rates. He also fears that revelations that the north end of the town voted against the loan will not be conducive to town unity or goodwill. (He was away from town at the time of the meeting and did not learn of it in time to attend.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

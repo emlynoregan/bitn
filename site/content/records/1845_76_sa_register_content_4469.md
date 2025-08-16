@@ -37,4 +37,4 @@ Someone has persuaded the Lieutenant-Governor to put up for 14-year lease a 14¾
 
 The natural advantages of the locality may be estimated from the fact that Mr Buck’s 100-ton barge is placed so that drays may come alongside and load or discharge as the case may be.  Viewed in connection with neighbouring mineral lands and pasturages, the natural harbour of Port Henry is a very important feature.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

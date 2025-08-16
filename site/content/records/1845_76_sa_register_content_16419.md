@@ -53,4 +53,4 @@ Henry Kidney, Police Trooper.
 
 [Kidney’s evidence corroborates Tyler and he goes on to say how they identified the deceased from the belongings found on or near the body.  George Allen, commercial traveller, gave evidence concerning the ford and his view was that it was not completed before the flood, but was merely loose stones.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

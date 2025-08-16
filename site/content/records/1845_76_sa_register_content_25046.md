@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mt Bryan East. Yield estimated at 14-15 bushels per acre and would have been more, but for high winds and locusts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

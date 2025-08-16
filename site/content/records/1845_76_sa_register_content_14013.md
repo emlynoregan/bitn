@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The attempt to for a rifle corps here has been led by Mr Goodfellow.  It has been so far successful that a list of 28 signatures has been applied to the requisition to the Government and a response from them is awaited.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

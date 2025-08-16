@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Co. RVF, Grand Military Entertainment on 5 February in aid of the Uniform Fund.  2/- & 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

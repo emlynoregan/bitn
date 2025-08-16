@@ -37,4 +37,4 @@ A Newfoundland Dog has been attacking people near the Burra High School [Bleak H
 
 Burra District Council has notified landowners that February has been set aside for a simultaneous and united effort to destroy rabbits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Arthur Motley of Redruth writes offering his advice on the constriction of smelting facilities, ‘having been for many years practically acquainted with the erection and working of furnaces’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

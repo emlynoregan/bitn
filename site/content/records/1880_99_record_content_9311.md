@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Grand Vocal and Instrumental Entertainment at the Institute on 6 February in aid of Mrs Lawler whose house was recently burnt.  [Program printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

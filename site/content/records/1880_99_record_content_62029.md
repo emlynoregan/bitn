@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Holdfast Bay Model Brass Band of 20 players plan to visit Burra at Easter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

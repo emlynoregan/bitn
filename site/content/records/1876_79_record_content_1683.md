@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Thomas Lynch was fined £1 for supplying alcohol to an Aborigine. He pleaded that he was a new arrival and didn't know it was an offence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

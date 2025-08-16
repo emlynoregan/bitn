@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Rev. J.E. Hansen will conduct services in German in the German Chapel, Redruth, on July 14 at 7.15 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

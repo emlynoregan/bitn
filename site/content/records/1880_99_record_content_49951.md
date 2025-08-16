@@ -26,4 +26,4 @@ Advt.  Special Services on 21 May and Service of Song The Child of Jesus
 
 And tea meeting 24 May.  To raise £40 due on 7 Oct. as a portion of the £150 lent on the Redruth Wesleyan Church and £100 on the parsonage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

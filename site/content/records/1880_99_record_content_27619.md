@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  Inspector A. Lott served W.R. Ridgway with an account for half the water used on the Aberdeen Reserve and Mr Ridgway tore it up in his face.  This led to a long, but apparently fruitless discussion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

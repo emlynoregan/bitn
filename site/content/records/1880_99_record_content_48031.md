@@ -33,4 +33,4 @@ The bicycle Sheffield handicap over 1 mile paid £7-7-0 and was won by F.S. Toms
 
 Results are printed in full.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

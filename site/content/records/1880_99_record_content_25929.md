@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Butterine.  There is so much bad butter being sold in Burra and so much talk of butterine that it would pay our shopkeepers to assure customers that they do, or do not deal in this substitute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

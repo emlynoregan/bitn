@@ -31,4 +31,4 @@ The Town Clerk reported that the Bonds could not be touched without the consent 
 
 Council will visit the bridge near the smelting works which Mr Packard reports as unsafe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

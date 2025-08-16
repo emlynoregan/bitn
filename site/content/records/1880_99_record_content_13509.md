@@ -33,4 +33,4 @@ Football.  Last Saturday Burra sent 23 players to Mintaro (by train).  After som
 
 The return trip to the station had some difficulties when the driver couldn’t get the horses to start and had to hand control over to one of the players.  A return match planned for today has fallen through.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

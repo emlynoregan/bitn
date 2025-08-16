@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Rev. W.A. Langsford will visit Burra on Sunday and preach in the Kooringa Wesleyan Church morning and evening in connection with the lamented death of the Rev. J.Y. Simpson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

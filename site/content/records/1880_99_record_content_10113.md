@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Police charged Walter Calloway with using insulting words intending to provoke a breach of the peace on 8 June and also with disturbing the peace at the Pig and Whistle Hotel on the same day.  Fined 10/- on each charge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

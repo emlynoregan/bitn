@@ -66,4 +66,4 @@ Sec.	W. Pearce Sen.
 
 Committee: Messrs Lipsett, Coglin, Cater, J. Dunstan, G. Sara, Wilkinson, Cox, Phillips, Kitchen, Davey, M. Birt, J. Roberts, Launder, Torr, S. Sleep, J. Pearse, Wheare, Edwards, J. Jenkin and ex-officio the town’s ministers of religion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Frederick Charles Williams, eldest son of Mr & Mrs C.C. Williams, died on 13 November, aged 4 years 9 months.  [Born 24 January 1889.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Advt.  Captain Barry, a pioneer of 59 years, will lecture on Port Phillip in 183
 
 Captain Barry arrived in Sydney in 1829 and was one of the founders of Port Phillip in 1835.  He was an overlander in 1839 from NSW.  He will also have a quantity of his books at the lecture.  He has lectured at 121 platforms in England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr E.W. Crewes’ Newfoundland bitch whelped 8 fine pups to Nero on Saturday morning.  All are strong and healthy.  We understand all have been sold.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

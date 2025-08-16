@@ -28,4 +28,4 @@ Baldina Races.  A meeting at Mr Midwinter’s Baldina Hotel on Saturday made arr
 
 The funds allow for £20 to be won over four races.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Spokesman for the 193 ratepayers, Bob Gebhardt, said Burra roads and Council pla
 
 Burra Burra District Clerk, Rodney Walsh refused to comment.  A meeting of Booborowie and Mt Bryan residents (who are in the affected area) set up a steering committee of twelve at a meeting on 26 June to plan the secession.  Further ratepayer meetings were held at Mt Bryan on 15 September and at Hallett on 18 September.  Chairman of the Hallett DC, John Hale, said that Council was in favour of the move.  Hallett had only one permanent and one casual staff, while Burra had 6 administration staff.  The change would add one to Hallett’s staff.  They would like to see Burra return to a Corporation while Hallett took care of rural ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

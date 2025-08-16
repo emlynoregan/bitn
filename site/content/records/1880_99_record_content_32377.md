@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy replies to W.T. Rabbich accusing the latter of a ‘long conglomeration of misrepresentation and falsehoods’.  He denies being the prime mover in getting copies of by-laws or that he was inconsistent.  Hardy admits he did say outside of Council that hawkers coming into the town competed with storekeepers and that was unfair, but when the new by-law came up he said he could not support it without the sanction of the ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

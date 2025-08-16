@@ -28,4 +28,4 @@ Eudunda West, adjoining the railway station: 86 lots sold av. 1/4 to 1/3 acre, f
 
 not offered.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

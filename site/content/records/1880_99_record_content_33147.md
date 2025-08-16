@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 Salvation Army.  J.A. Dix, Salvation Army Captain, writes to stress that reference to an army captain being at the skating rink must not be taken as an indication that any member of the local corps had attended.  He seeks to remove any doubt ‘as to whether I or any other member of the army was at such a place as a skating rink - a place where I venture to say no true Christian would ever go.’
 The editor points out that it was a fancy dress carnival and the report objected to did not suggest a Salvation Army Captain as the ‘army’ was characterised by several uniforms of the defence forces.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Senior Citizens enjoyed seeing slides shown by Fr Richard Morris and his wife Mary, from their trip to Texas last year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

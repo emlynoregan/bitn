@@ -33,4 +33,4 @@ The Bon Accord Mine has commenced operations with a good staff and expressions o
 
 The Wheal Friendship and the Bremer are beginning to be worked.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

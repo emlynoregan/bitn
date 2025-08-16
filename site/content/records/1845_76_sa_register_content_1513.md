@@ -31,4 +31,4 @@ Nothing decisive has been done at the Bon accord, but people there had raised a 
 
 He did not visit the Princess Royal, but other sources report some beautiful sample of ore among the last productions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

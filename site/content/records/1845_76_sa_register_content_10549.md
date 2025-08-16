@@ -31,4 +31,4 @@ Alleged Coal Discovery
 
 Captain Freeling has returned from investigating the coal discovered near Apoinga.  He confirms that the substance is indeed coal, but believes its origin was a portion of coal thrown from drays, which in former times used the track near where the discovery was made.  Water and drift, he believes, had buried the coal, which has now been uncovered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

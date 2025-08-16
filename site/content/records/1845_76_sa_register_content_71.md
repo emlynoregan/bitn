@@ -25,4 +25,4 @@ publication_slug: sa-register
 Land Sales.  [The article regrets that the former practice of announcing in the Government Gazette the particulars of all selections and purchases of land from week to week was no longer being followed.  The paper wished not only for this practice to be resumed, but for a balance sheet of costs and income from land sales as well. (Since profits from land sales could be used for local improvements.)  The writer hoped for more debate about expenditure and suggested a suitable project.]
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

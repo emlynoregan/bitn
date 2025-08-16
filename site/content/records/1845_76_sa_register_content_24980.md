@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Christmas Cheer.  Mr McCulloch sent every poor person in the township a plentiful supply of meat and groceries so that they might at least on this occasion spend a merry Christmas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

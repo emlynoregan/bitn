@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Cabbage Tree Man by U.X.L. began on 15 Mar. and ran till 5 April and then again on 21 June, 5 July, 19 July, 26 July & 9 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra District Auxiliary of the Crippled Children’s Association will hold a quiz night on 25 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

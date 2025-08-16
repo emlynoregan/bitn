@@ -28,4 +28,4 @@ Rev. Stanton staged a successful entertainment at the Burra Hotel Assembly Rooms
 
 [The paper of 18 November corrects this report by saying the money was to go towards the purchase of the room in which Rev. Stanton’s school for the poor is held.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

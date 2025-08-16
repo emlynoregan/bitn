@@ -37,4 +37,4 @@ A crowded and successful entertainment was given on Friday evening at the Wesley
 
 O. Harvey, who is going further north, was presented with a handsome gold albert and locket on Saturday evening as a token of the esteem in which he is held in the district.  P. Lane made the presentation, which was supplied by Mr H. Mosarr.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

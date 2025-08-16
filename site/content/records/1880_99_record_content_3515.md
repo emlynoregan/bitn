@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Firth sued Knevett for slander, alleging that Knevett had said that Firth could well afford to undercut Knevett’s charges for carting wheat as he took some of the load to feed his horses.  Knevett denied the charge, but the verdict was for the plaintiff for £10 + costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

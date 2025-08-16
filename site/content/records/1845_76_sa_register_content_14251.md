@@ -33,4 +33,4 @@ SA Mining Association
 
 Notice is given that the AGM in the Adelaide Office of the Company, Rundle Street, Wednesday 17 April at 11 a.m. for the purpose of receiving the Directors’ Report to shareholders, to examine the auditors’ report etc. and to elect five Directors in place of Messrs Arthur Blyth, John Beck, Thomas Graves, John Charles Boord and John Hector who retire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

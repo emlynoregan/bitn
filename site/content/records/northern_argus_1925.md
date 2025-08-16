@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Tom & Kaye Boulger & Geoff Hirschausen, owners of Drew & Crewes’ building in Commercial Street, are having it renovated and repainted with its original name.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

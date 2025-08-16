@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Redruth Wesleyan Chapel. The bazaar in aid of the building fund was brought to a close on Thursday Feb. 14, by which time it had raised £50. The ladies have raised £120 in the last nine months. Three years ago the building and furnishing cost £1,450, but the debt is now only £600.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

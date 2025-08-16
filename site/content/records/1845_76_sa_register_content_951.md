@@ -33,4 +33,4 @@ Passenger lists are printed along with lists of the cargoes.
 
 [Among others on the Hoogly were Matthew Bryant, Henry Roach, W.H. Challoner and Solomon Williams and his wife.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

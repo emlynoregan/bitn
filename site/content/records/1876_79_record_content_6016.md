@@ -32,4 +32,4 @@ Offences. Robert Perkins got 7 days for stealing two coats and a pocket-handkerc
 
 The police charged that as P-C James was leaving Opie's bar a man named Parker challenged him to a game of billiards and added if James lost that he (Parker) would punch his head. P-T Le Levieure corroborated, but three other witnesses called by the defence said no such language was used and the case was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

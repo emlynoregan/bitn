@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Burra amateur Athletic Club meeting 10 October in Austin's paddock. Program printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

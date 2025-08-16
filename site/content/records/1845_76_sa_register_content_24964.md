@@ -31,4 +31,4 @@ Appropriation of Funds for Roads
 
 A list of proposed appropriations for new works totalling £11,333-6-8 is printed.  After various District Chairmen had made suggestions some alterations were made.  The following allocation is relevant to the Burra district.  New works north of Burra were increased from £650 to £950.  New works between Kooringa and Mt Bryan were increased from £2,200 to £2,400.  New works north of Clare received £1,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

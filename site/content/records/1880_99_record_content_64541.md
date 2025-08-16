@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the Annual Social Meeting of the Salvation Army last Wednesday in the Institute, praising the way the Army goes beyond the usual charity cases to areas of ‘depravity and vice’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

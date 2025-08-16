@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Petersburg Autumn Flower Show reported from the previous Wednesday.  It included flowers, fruit, vegetables, preserves, trials of winnowers and separators, bicycle races and horses in action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

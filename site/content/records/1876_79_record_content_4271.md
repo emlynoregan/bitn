@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 Terowie Railway. A railway meeting at Terowie saw 120 people meet at the Terowie Hotel last Tuesday. Moved: the meeting view with great approbation the proposal to extend the railway from Hallett via Yarcowie and Terowie to Yongala. 
 [There was a great deal of discussion, mainly over gathering support and forwarding resolutions to relevant Govt ministers etc.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

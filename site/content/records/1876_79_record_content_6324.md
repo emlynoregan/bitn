@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Burra Town Council has issued bonds to raise the needed capital. £200 at £98% for 1 year, bearing 6% (Already sold) £200 at £98% for 2 years, bearing 6% (Advertised)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

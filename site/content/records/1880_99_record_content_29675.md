@@ -34,4 +34,4 @@ Advt.  The Fisk Singers at the Institute, 13 September.
 
 ‘Their wonderful skill was put to the severest test when they attempted Home Sweet Home, before auditors who had heard the same household words from the lips of Jenny Lind and Parepa; yet these emancipated bondswomen rendered that dear old song with a power and pathos never surpassed.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

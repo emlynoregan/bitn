@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 A surrender of the unexpired term of a 99-year lease of land to the E & A copper Co., on which the smelting works is erected, has been accepted by the directors and part of the land, amounting to about 47 acres, has been sold to the Copper Co. in exchange and in consideration of £300.  This is regarded as advantageous to both parties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -97,4 +97,4 @@ The return to Adelaide presented the same dust and delays for want of horses.
 
 ‘This three day journey to Burra in 1880 cost $2 plus overnight expenses at Gawler and Kapunda.  The trip by Mail Cart went via Gawler, Sheoak Log, Kapunda, Tothill’s Creek, Apoinga, Emu Springs and Sod Hut.  Hornsby’s hotel still stands at Apoinga.  The Burra Hotel was later the Burra Hospital and the last of the old building was demolished in 1967.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

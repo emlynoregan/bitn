@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Water supply. Water from the Bon Accord Mine shaft will be supplied as requested to a trough, though the formal agreement of the Yorke's Peninsula Mining Co. is needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

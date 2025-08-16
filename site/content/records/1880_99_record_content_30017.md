@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Entertainment.  A concert by the blind performers last Thursday was well attended and there was a good performance.  The Burra Band played outside before the show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

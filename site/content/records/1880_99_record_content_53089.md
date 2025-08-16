@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Walter Bentley, the noted actor of the Bentley-Webster Co. performs in Burra tonight.  His recitations will include Tam O’Shanter, Dream of Eugene Aram.  He also appears in the comedietta Is Marriage a Failure?  Mr R. Nitschke baritone and A. Duncan tenor also appear.  3/-, 2/-, & 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

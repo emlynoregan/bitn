@@ -35,4 +35,4 @@ On Sunday Messrs Klaer arrived with their Cani & Equi Drome and immediately prep
 
 On Saturday evening a meeting of woodcarters and others interested in the trade was held with the purpose of memorializing the Government to repeal the tax on the cartage of timber.  Several resolutions were passed and a memorial adopted and processes set in train to implement the motions.  Another meeting yesterday (Tuesday) resolved to request Mr Dale MO to present the memorial to Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

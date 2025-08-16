@@ -49,4 +49,4 @@ At least 900 people passed through the gates.
 
 [Strawberry fetes became a very popular feature of money-raising activities in the district until at least WWII, and in many years it would have been possible to have attended half a dozen or more without undue effort, but this appears to have been the very first one.  St Mary’s continued for some years to hold a major strawberry fete, but Redruth Methodists were also to become notable among the many others.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

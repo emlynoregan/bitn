@@ -38,4 +38,4 @@ With a greater population the need for a local paper increases.  Local wants req
 
 In politics we will be liberal, always taking the side of progress, seeking to promote the prosperity of the Colony in general and of the Burra District in particular.  While exposing abuses we will seek to avoid scurrility.  Our columns will be open for the free exchange of views on matters of public interest.  We shall be glad to receive concise well-written letters of news from the Northern Areas and also such other literary assistance as our friends may be able and willing to supply.  We trust that in a few months our paper will come to be regarded as a necessity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

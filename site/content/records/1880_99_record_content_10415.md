@@ -51,4 +51,4 @@ Rev. S. Knight moved the meeting endorse the Hon. J. Colton’s action in favour
 
 Rev. S. Knight moved the meeting endorse the reading of selected passages of scripture in state schools without explanation.  Mr Kitchen 2nd.  R.W. Mathews supported and W. Pearce, P. Lane, J. Sampson jnr and W.F. Coglin opposed.  Carried by 2 votes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

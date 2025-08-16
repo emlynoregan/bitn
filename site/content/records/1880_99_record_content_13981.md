@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 In a remarkable flowering of purple prose he proceeds to attack the coming lecturer, Miss Ada Campbell as an agent of His Satanic Majesty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

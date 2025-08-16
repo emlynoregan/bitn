@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church: Rev. Joseph Thomas preached last Sunday.  He was born at Burra in 1868 and educated at Burra School and Watervale Grammar and briefly at Prince Alfred College before going to Shebbear College in North Devon.  He is now in charge of Orroroo & Carrieton circuit of the Bible Christian Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

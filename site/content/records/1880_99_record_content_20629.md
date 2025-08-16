@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Dr Sangster comments on the claim that 17 deaths have occurred recently in Burra Hospital: seven this month.  He says there were seven in November and December: five in November and two in December.  There were no deaths in September or October.  In November two died of consumption, two were brought in from the bush in a dire state and one was the result of an injury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

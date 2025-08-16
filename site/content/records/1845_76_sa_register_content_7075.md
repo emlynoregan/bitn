@@ -39,4 +39,4 @@ H. Walsh of Swanson Street reported the samples assayed at 24 carats fine, the f
 
 At a recent meeting of the Gold Committee Dr Bruhn produced a small package of quartz and marl.  The milk quartz specimens were found to contain gold in great abundance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

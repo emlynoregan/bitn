@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Woollacott, aged 65, a colonist of 33 years, at his residence at Nelson, near Redruth.  13 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

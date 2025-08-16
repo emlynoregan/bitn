@@ -27,4 +27,4 @@ Kooringa News, 8 August.
 
 Theft.  At about 8 p.m. last Thursday Mr Wilkinson, chemist heard a noise in his shop and on entering found a man attempting to ransack the till.  The burglar made a rapid retreat, but was pursued and captured by Mr Wilkinson, who speedily handed him over to the police.  The next day he was remanded for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

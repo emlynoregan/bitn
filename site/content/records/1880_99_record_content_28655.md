@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Weather.  There was a severe hailstorm last Wednesday with hail up to the size of marbles.  There was much thunder and lightning and a total of 72 points of rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -107,4 +107,4 @@ He admitted hearing part of the Captain’s speech on the occasion and admitted 
 
 Symon then produced the Register of 9 July 1892 with the article:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

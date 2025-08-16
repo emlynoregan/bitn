@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 R. Austin	Butcher, Aberdeen, opposite Orchard’s Hotel
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

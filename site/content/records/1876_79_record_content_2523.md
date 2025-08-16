@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Frederick Adams charged with having l8cwt painted on his vehicle when it weighed 22cwt thus cheating buyers out of 4cwt on each delivery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

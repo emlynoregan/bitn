@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 A Shareholder of Kooringa writes condemning recent mining regulations, which seem based on the assumption that all mines are as profitable as the great Burra Burra.  In fact that ignores the great expenditure in the colony on mines that have failed to be productive.  Mining needs to be encouraged as the export of ores is the principal stay of the colony.  That it has recently been declared by some MPs that certain leases granted eight or nine months ago are illegal, is also a concern that will create unease and lead to a halt in investment.  Wheal Sarah proprietors will certainly refrain from further investment and if the Government demands the surrender of the lease, they will sue the original proprietors for compensation and they in turn will sue the Government for issuing an incorrect lease.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

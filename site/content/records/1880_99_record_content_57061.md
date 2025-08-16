@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 * This may seem to be an unexceptional comment, but probably the implication was that the North Ward Councillors were in favour of accepting a lower tender if it came from another Ward whereas North Ward ratepayers would expect the tender to go to a local man, even if it cost somewhat more.  There had been some debate over this in the past.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The inspector’s report was unfavourable to the town piggeries and the Council resolved to visit the same the next day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

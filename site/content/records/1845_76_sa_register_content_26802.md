@@ -30,4 +30,4 @@ There have been splendid rains and crops are looking good.  Farmers are speculat
 
 Farmers wish to see the Rabbit Act put into force as soon as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

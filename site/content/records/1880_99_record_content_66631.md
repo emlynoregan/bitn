@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  A German service will be held in the old German Chapel at Redruth by Rev. J.E. Hansen on 9 August at 7.15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

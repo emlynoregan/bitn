@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 ‘Pro Bono Publico’ writes complaining that bread costs as much now as it did when flour was £6-£7 a ton dearer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

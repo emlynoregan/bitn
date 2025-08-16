@@ -30,4 +30,4 @@ The Mayoralty.  W.R. Ridgway is unwilling to stand under the circumstances.  F.W
 
 Five of the six Councillors have asked Mr Holder to stand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

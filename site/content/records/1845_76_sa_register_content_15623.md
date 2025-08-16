@@ -43,4 +43,4 @@ Election placards are now everywhere and canvassing is going on so that tomorrow
 
 Mr H. Dawson, contractor for the north eastern mail, has lost two of his best horses.  When about 15 miles from Chewings’ Station on Saturday, both horses fell down dead.  The driver then walked to Chewings and fetched two fresh horses, which had to then run the next two stages in addition to this 30 miles, on account of the horses at the next station being missing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

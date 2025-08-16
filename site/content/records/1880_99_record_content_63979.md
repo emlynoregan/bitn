@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Notice.  Hon. F.W. Holder & J.H. Symon will address electors at the Burra Institute on Friday 29 April on FEDERATION.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

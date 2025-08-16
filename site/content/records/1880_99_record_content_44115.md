@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Editor advises W.H. Hardy that his letter does not deal with the question and is a personal and grossly insulting attack on us ‘consequently your letter has found its way to the waste paper basket’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  There was no play on Saturday due to the wet weather.  Burra is to visit Clare on 1 September.  The selection of the Burra team will follow a match on the Recreation Ground on 7 august, when 15 selected players will take on a combined 20.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

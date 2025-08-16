@@ -29,4 +29,4 @@ SKAL International Tourism Conference
 SKAL Delegates visited Burra last week in four bus loads on Tuesday and Thursday.  Burra Tourist Officer Jenny O’Connor escorted each group around town.  They had lunch at the Burra & Community Sports Club.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

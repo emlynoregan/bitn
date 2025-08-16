@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Entertainment. H.A. Severn's lectures were interesting and well illustrated with lantern slides, but were poorly attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -66,4 +66,4 @@ Purchase of Slaughterhouse 	£35-18- 3
 [*This figure also doesn’t seem to add up to me either.] 
 This shows the ‘loss to the town through these Robinites’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

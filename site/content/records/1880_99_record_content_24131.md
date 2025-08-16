@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Following a death from typhoid in Burra he says ‘a stricter supervision is required, as dead fowls are constantly thrown into the small creek near the bridge in Thames-street, along with heaps of other refuse, some of which has been covered over with a little dirt, but the wind and rain again exposes the corrupt matter to view and at times the stench is sickening. We know that typhoid is dangerous.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

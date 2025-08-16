@@ -32,4 +32,4 @@ A Correction.  A telegram in the Register on 11 February stated that Mrs Gordon,
 
 [The editor says that the telegram did not assert that the shepherd was not properly provided for, but the information they obtained was from the trooper, who we presume was not aware that the stores mentioned by Mr Baggs were in the hut and easily accessible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

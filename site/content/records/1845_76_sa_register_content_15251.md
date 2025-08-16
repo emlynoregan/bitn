@@ -60,4 +60,4 @@ At Kapunda the people hope for an extension of the railway to the River Murray, 
 
 [The rest of the article is of a more generally speculative nature with the author’s views on the railway question, the colony’s immigration policy and the opening up of new agricultural land.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

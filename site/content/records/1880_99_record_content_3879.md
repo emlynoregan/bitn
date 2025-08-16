@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Applications are called for a librarian and caretaker at the Burra Institute.  £65 per annum with house, fuel, light and water.  F.R. White Hon. Sec.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

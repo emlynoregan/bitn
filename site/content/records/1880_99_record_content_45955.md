@@ -30,4 +30,4 @@ The Burra scribe to the Catholic paper [W.H. Hardy] sarcastically remarks that M
 ‘However we had such contempt for him and all his effusions that we did not entertain his offer in any shape or form – we never even answered his two soft soap letters begging for the job.  Fancy a man with a wife and five children existing on 10/- a week – and pose as a representative of labour.  Even at this absurd price we considered his services not worth the amount.  We respect our business therefore shield ourselves from him just in the same way as a person would shield himself from a venomous serpent.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

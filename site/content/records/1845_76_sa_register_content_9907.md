@@ -33,4 +33,4 @@ Mr Garlick called attention to several places that needed immediate attention an
 
 A letter from W. Templer called attention to the state of the road between sections 2002 and 2003 near the North Star Inn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Copper Find.  Some good copper specimens have been found some 30 miles east of Burra.  A meeting to explain particulars of the discovery to those interested was held in the Institute on Monday.  Unfortunately no lode was discovered; the samples coming from a ‘throw off’ or ‘blow up’.  The meeting could not raise the £100 needed to further test the site.  Since then however, a private syndicate has found the necessary capital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

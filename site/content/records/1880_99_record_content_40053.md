@@ -58,4 +58,4 @@ A committee meeting on 23 January accepted Mr Fife’s offer to put the piano in
 
 The committee resolved to reply to the Local Board of Health [re provision of a urinal and closet] that in the absence of any legal requirement they decline to accede to the request of the Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

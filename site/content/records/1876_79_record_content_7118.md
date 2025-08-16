@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. Liston, Shakes & Co. will also sell 45 acres of growing crop at the old pound 2 miles north of Kooringa on 3 October and will offer 10,600 sheep on 3 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

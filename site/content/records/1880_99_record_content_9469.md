@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Daviestown Wesleyan congregation held its anniversary on Wednesday and it was very well attended, surprisingly so since there are only two or three houses within site of the Council Chamber where the services are held.  Proceeds came to £14.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

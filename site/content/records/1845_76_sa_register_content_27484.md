@@ -26,4 +26,4 @@ The Illustrated Adelaide News
 
 The issue for this month carries pictures of the recent railway accident near Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

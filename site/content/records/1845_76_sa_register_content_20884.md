@@ -29,4 +29,4 @@ Apoinga News, 2 July
 
 The old line of road to Burra through here is in a very bad state.  Due to this and the stoppage of the Burra Mine business is very dull.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

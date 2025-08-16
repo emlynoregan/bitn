@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  Lieut. Watt informs us the capitation grant has arrived.  36 qualified as efficient and the grant was therefore £54 which will pay off the debt for uniforms and £10-16-0 has been received as a grant to be shot for by the efficient members of the company.  It has been decided to divide it into three classes so all will have a chance to win something.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘You Know Who’ writes calling for an address and/or a purse of sovereigns to go to Mr J. Rumball in recognition of his 20 years of service at the Burra railway station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

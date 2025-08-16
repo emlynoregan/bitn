@@ -30,4 +30,4 @@ County Burra, Hundred 280 lies to the east of H. of Mongolata and north of the H
 
 [It was proclaimed the H. of Rees on the 18 September 1879: named after Rowland Rees MP 1840-1904.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

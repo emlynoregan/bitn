@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader querying why the Council called tenders for road metal and then awarded the contracts to those tendering at 2/3 per yard rather than those tendering at 2/1 per yard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

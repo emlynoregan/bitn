@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 J. Dew writes complaining of young men with dogs going through his wheat crop on Sunday 21 December hunting for hares and damaging the wheat, which would be ready for the stripper in a few days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

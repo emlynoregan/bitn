@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 The case of Kronke v. Hiles for an indecent assault was dismissed at the hearing at Redruth Local Court.  It will appear again as Mr Hiles has indicted Mrs Kronke for perjury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

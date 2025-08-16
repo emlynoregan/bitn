@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Club.  Dr Brummitt’s lecture on Röntgen’s Rays was very interesting on Wednesday night and he exhibited some beautiful pictures taken by this newly discovered measure, lent by Messrs Faulding & Co.  [William Konrad Röntgen had only discovered these rays, better known now as X-Rays, in the previous year.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

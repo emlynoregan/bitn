@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Frederick Gebhardt had to pay 5/- + 5/- costs for failing to chain the wheel of his cart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

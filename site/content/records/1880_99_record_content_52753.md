@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Accident.  Yesterday T.W. Wilkinson and Dr Brummitt and their families went out for the day to the east.  While descending Basin Hill in the Black Hills an accident occurred.  Mesdames Wilkinson & Brummitt and their families walked down the hill.  Dr Brummitt began to drive down followed by T.W. Wilkinson.  The skid on Mr Wilkinson’s hired trap failed to act and he lost control of the horses.  He ran into Dr Brummitt’s conveyance, which capsized.  Mr Wilkinson was thrown from his trap, which then continued on and was recovered from another hill later with little damage.  Mr Wilkinson injured his hip and was brought into Burra by T. McWaters.  When examined under ether he was found to have broken his right thigh.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

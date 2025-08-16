@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Booborowie: Town allotments to be sold 26 April 1877 and new land in the H. of Mongolata 24 April 1877
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

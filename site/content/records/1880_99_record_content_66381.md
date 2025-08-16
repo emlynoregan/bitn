@@ -42,4 +42,4 @@ Cr Fuss allowed the justice of the argument but said the waste problem remained.
 
 At the Council meeting on 5 June Cr West gave notice he would move to rescind the motion ending concessions for excess water at the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

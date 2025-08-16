@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Wesleyan Foreign Missions.  Annual meeting on Monday was presided over by F.W. Holder.  1st speaker was Jonah, a native of New Britain.  The Rev. P.H. Rickard translated and followed with his own address on the native language, customs etc.  Curios and magic lantern slides added interest.  The collection was considered very good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

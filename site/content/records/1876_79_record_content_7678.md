@@ -31,4 +31,4 @@ Cave's plumpers were 13 of 18 votes in North Ward and 12 of 25 votes in Middle W
 
 Davey's plumpers cast 18 of the 39 votes cast in South Ward.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

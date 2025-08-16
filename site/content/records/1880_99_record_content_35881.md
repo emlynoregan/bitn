@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Tax Proposals.  The Government proposes changes to the land tax, but they will affect only 716 out of 40,522 taxpayers and many, including the largest estates, are absentee owners.  A free breakfast table is proposed.  [i.e. removal of a duty on tea, coffee, sugar, cocoa and kerosene.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

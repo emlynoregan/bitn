@@ -40,4 +40,4 @@ If necessary for the carrying out of these objectives capital will be increased 
 
 Which scheme the shareholders will adopt is to be considered at the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

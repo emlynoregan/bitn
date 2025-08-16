@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Musical Union Concert. The flowers conspicuous at the concert were from the garden of Mr Rumball. [The Station-master] Many gardens this year have been ruined by goats and rabbits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

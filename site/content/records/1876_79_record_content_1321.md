@@ -33,4 +33,4 @@ Other mine workings: deads 6,000 tons, orey stuff 5,000 tons, old timber 122 ton
 
 Yield totalled 893 tons at an av. 27.5%. 307 hands employed all told. Prospects better than 6 months before.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

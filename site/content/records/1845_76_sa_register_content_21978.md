@@ -56,4 +56,4 @@ The principal buildings are the hotel – near the proposed terminus of the rail
 
 The line runs generally east through Bowman’s Flat to Hoyle’s Plains and towards the Skillogolee.  At various points it intersects the old road of the Burra Co., still used by the traffic between Auburn and Pt Wakefield.  It crosses the river once at Dunn’s, via a cheap iron bridge.  It reaches the Two-Mile House also known as the Wallaroo Inn, where the Wallaroo coach changes horses and then goes 14 miles to Dunn’s.  At Dunn’s is a bush public house – it was originally the Copper Co.’s station for their bullock drays.  Here the company’s bridge over the Wakefield is more than twenty years old and rather shaky.  Here the tramway will cross on a light iron bridge.  The visit of the party stopped at the end of Walker’s contract 22 miles from Pt Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

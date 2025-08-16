@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr E. Benny [sometimes Benney] was killed at the Zeehan Mine in Tasmania on 3 January.  He was well known in Burra, having been some time in business here and was a brother-in-law of E.W. Crewes.  He was aged 40 and intended going to England next month.  [Edward H. Benney was a butcher in Kooringa in the 1880s.  He sold out in 1885 and then moved to Cockburn.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

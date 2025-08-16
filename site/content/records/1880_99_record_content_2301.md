@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire.  At Mr Tobin’s in Kooringa yesterday a dressing table and bed caught alight and flames were just reaching the calico ceiling when they were put out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

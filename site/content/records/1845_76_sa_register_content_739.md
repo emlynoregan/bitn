@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 [The article then goes on to criticise the Directors of the Adelaide Mining Co. for intending to let the workings, on either tribute or tut-work on that day.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

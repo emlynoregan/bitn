@@ -42,4 +42,4 @@ Would favour cutting down the bank by the Institute, but it was not urgent and c
 
 Other minor discussion with candidates for Council completed the evening along with the formal endorsements etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

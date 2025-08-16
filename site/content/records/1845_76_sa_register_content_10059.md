@@ -29,4 +29,4 @@ Bridge over the Light
 
 The bridge over the Light about a mile south of Kapunda is approaching completion.  It consists of three arches, composed of sawn timbers, bent to the segment of a circle, strongly bolted together, with their ends resting on ironwork imbedded in the piers and abutments.  The platform is wood with a metalled roadway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

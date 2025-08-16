@@ -36,4 +36,4 @@ Obituary.  Last Thursday a two-year-old girl died here suddenly just as her moth
 
 [Jane Bowie Oswell born 8 April 1861 Black Springs: died 10 April 1863 residence Black Springs.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Flaherty was found in a creek near Clare, unconscious, and subsequently died.  The inquest that followed attributed his death to sunstroke.  [Registered date of death 17 Feb.  Aged 41.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

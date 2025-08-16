@@ -41,4 +41,4 @@ Wren’s rambling statement did not substantially alter the evidence already hea
 
 To our astonishment Mr Lang, the Resident Magistrate, dismissed the case with a reprimand to Wren and charged the defendant with the costs of the hearing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 SAMA.  40th Annual Report on 15 April.  For the last six months expenses were £509-1-4 and income was £1,338-1-3.  The credit balance stood at £71,624-7-0.  In the last half-year about two acres of allotments have been sold in Kooringa, but no country lands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

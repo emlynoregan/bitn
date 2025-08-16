@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Worrell & Gardiner’s Circus Troupe played to full houses on Thursday, Friday and Saturday.  It was a series of performances that delighted and gratified.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

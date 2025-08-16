@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Association meeting on 11 December at Saddleworth School.  Schools represented: Black Springs, Burra, Hamilton, Hanson [Farrell Flat], Rice’s Creek, Saddleworth, Tothill’s Creek, Undalya, Waterloo.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

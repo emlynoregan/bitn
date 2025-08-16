@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  Among other information it is revealed that the costs of travel were: Adelaide to Teetulpa, £1-15-0.  From Burra it cost 5/8 in 2nd class to Petersburg + 10/- for the open railway truck to Yunta, and then 10/- from Yunta to the diggings, arriving about midnight.  Otherwise the news was familiar.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

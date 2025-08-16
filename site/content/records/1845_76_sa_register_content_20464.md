@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Captain Killicoat said that eighteen years ago the copper price was as low as now, had then risen to £137 a ton and since fallen again to £78, but there were no reasons to suppose it would not rise again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

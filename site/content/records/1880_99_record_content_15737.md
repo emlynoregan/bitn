@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Joseph’s School.  Prizes for the year were distributed on 19 December.  Rev. Father W. O’Dowling SJ presided.  A program was rendered and Cr West distributed the prizes.  Prize list printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

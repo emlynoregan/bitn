@@ -46,4 +46,4 @@ The Council will apply for a reduction in the rent of their room at the Institut
 
 Burra limestone has been found to be an excellent flux at Broken Hill, but carriage on the railways is uneconomic.  The stuff could be supplied if carriage was £6 per truck or lower.  The matter will be referred to the district MPs for action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

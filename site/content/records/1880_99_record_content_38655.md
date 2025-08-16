@@ -38,4 +38,4 @@ You cannot be accused of running the whole show, but at times ‘you gobbled hol
 
 [Taken overall it is an article with an uneasy tone which at times seems to be trying for humour, but is too personal and unpleasant for this to survive.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

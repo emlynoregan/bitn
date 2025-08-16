@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Students of Brian Reader’s Class of costume making will show their period costumes at BCS on Thursday 19 September at 8 p.m.  The idea is to show people what they might make for events in Jubilee 150.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Burra Rifle Club was formed in spite of the boisterous weather on 31 August.  J.J. Blott was elected President with A. Hiddle as Secretary and J.A. Pearce as Treasurer.  There is no doubt that enough names will be gathered to sustain the club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

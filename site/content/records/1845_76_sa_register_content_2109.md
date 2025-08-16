@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Daniel Lovelock, Miners’ arms, River Light.  Applicant said he had built a seven-stalled stable and a new sitting room.  The sitting room was more than twelve feet from the tap. There were two bedrooms and he had made arrangements for building seven more.  Granted, but Mr Giles ruled that the house must be improved or the licence would be refused next time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

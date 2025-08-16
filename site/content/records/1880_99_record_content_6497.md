@@ -26,4 +26,4 @@ Cricket.  Burra v. Clare at Burra
 
 The start was an hour late due to lack of preparation by the Burra team and their failure to arrive on time.  Clare 84 & 16 for 2 wickets defeated Burra 34 & 65 (99)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

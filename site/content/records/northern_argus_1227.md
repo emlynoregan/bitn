@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Venturers have had a three-day survival course at Paradise.  They lived on goat; curried, barbecued and roasted.  Three scouts were introduced to Venturers during the exercise.  While there the group experienced a flash flood – a reminder of why you should not camp in a creek bed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

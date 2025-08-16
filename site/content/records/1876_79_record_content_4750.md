@@ -53,4 +53,4 @@ Balance still owed 	£390-13- 1
 There is now a library of c.2,000 books with about 3,700 circulating annually and 30-40 visitors to the reading room per day. The library costs subscribers 3/- a quarter or 5/- for double borrowing rights. 
 There are reference books, newspapers and journals. Entrance to the reading room is free. Various Friendly Societies meet in the smaller rooms. The lecture room is not used as much as it might be for that purpose, but a large income is obtained from travelling companies and others. It is planned to establish a collection of mineral specimens, especially copper ore, but also various items of interest from other parts of the colony. A small start has been made. Much is due to the painstaking and obliging librarian, Mr A. Dearlove.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

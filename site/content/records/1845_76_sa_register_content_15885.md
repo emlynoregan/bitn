@@ -34,4 +34,4 @@ Notice.  SA Mining Association gives notice of an extraordinary general meeting 
 
 Henry Ayers, Secretary, Adelaide 13 September 1862.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

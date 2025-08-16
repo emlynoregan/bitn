@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Lime Kiln.  Mr A. Clode has taken over the kiln from Charles Rawling, who is leaving for Broken Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

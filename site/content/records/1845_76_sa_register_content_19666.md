@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Accident.  Last Tuesday near Prince’s Town Patrick Dowd was driving a horse and cart and while crossing a creek near Finch’s the bridle came off the horse, which immediately bolted.  Mr Finch tried to stop the horse, but it shied and tipped the cart over.   Mr Dowd was much shaken, but the driver escaped with a bruise to his forehead.  Dr Mayne who was just passing on his return to Burra was able to render assistance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

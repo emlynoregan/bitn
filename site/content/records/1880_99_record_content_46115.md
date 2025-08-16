@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 First he calls the Burra people respectable residents: next he calls them a howling mob.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

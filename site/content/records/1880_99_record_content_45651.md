@@ -30,4 +30,4 @@ Joseph Flowers also said he had trouble selling any stock he raised due to the s
 
 T. Warnes moved that other centres in SA be communicated with and asked to support the movement.  A committee was set up to further the cause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

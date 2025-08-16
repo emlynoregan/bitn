@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 ‘What the Cousins Say’.  Cousin A is railing against the Circus that broke the Sabbath by packing up and moving on that day.  It apparently got its just deserts when a horse bolted completely smashing one of the wagons on a steep hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Broken Hill’s prosperity can be seen from the population figures.  Last December it had 25,117 Europeans and 60 Chinese: up from 22, 325 & 61 12 months earlier.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

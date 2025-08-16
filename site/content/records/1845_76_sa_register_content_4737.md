@@ -35,4 +35,4 @@ Royal Mining Co.
 
 Yesterday Messrs H. Mildred, P.J. Todd, J.B. Montefiore & E. Solomon, Directors of the Royal Mining Co. and A. Jaffray, its Chairman, started from Adelaide for Emu Flats in Burra style – that is four-in-hand, with Mr G. Watts driving.  They expect to be away about eight days to examine the property and lay out a township.  The mine is spoken of very highly by parties reaching Adelaide last Tuesday.  Surface samples brought back were assayed at 27½% and samples from two feet underground assayed at 42½%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

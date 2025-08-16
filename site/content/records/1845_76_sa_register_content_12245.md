@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Another mineral lease has been applied for in the vicinity of Bundaleer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

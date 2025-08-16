@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Primitive Methodist Sunday School picnic was held at Princess Royal Woolshed.  On the return from the picnic Albert Williams, son of S. Williams, jumped off the trolley at the Kooringa Hotel and failing to clear the vehicle its wheels ran over his toes, breaking the large one and crushing the others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

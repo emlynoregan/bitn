@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Iron Mine & Leighton Athletic Club held a sports meeting at Mr Holmes’s ground near Iron Mine Primitive Methodist Chapel on Wednesday.  At least 300 attended.  Apart from the usual foot and bicycle events there was a series of races for children from the age of 5.  The day proved quite profitable.  Results of the adult races are printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

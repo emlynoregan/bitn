@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mines.  Boring began on 15 November.  The machinery was started by Mrs West, the wife of the secretary of SAMA.  The bore is at present down about 80’.  The first bore has been named Rymil’s Bore after the Chairman of the Board of Directors, Frank Rymil Esq.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

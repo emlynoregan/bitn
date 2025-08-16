@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘One of the Sufferers’ writes complaining that in a family with young men the policy of the Council in not employing young single men means that the father must go to work while the fit young can stay idle at home or rove about the town on the income which their father earns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

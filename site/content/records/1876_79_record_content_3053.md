@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Midland Road Board accepted James Tiver's tender of £554 for the masonry etc. in abutments to bridges and culverts near Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

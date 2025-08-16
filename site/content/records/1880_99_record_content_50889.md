@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR will be inspected by Brigade-Major Stuart today and hopefully a large number of the 34 members will appear in Market Square at 2 p.m.  There will be a ball in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

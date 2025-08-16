@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The Bible Society collectors have not met their usual success under the prevailing circumstances this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

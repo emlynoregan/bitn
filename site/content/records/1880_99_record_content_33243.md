@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the SA Parliament asserting that the real work is at a standstill and argument and plot and counter-plot continues ad nauseam without profit to anyone.  All is ‘fruitless talk’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

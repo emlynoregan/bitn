@@ -44,4 +44,4 @@ Council resolved to give notice to persons encroaching in Best Place of that fac
 
 The Midland Road Board wrote requiring the Council to complete Market Street road works to the satisfaction of their surveyor.  A letter is to be sent in reply and a deputation to support it will attend the next Board meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

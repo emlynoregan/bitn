@@ -35,4 +35,4 @@ St Mary’s Anglican Church in Burra has been renovated and the re-opening servi
 
 [Note: at this period a reference to the Hospital means the Mine Hospital, known as ‘Bleak House’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

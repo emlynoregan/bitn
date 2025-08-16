@@ -30,4 +30,4 @@ Ulooloo Diggings.  The Gawler Times reports the sale of gold from Ulooloo at Gaw
 
 The Northern Argus reports the discovery of new alluvial ground four miles northeast of Ulooloo.  Mr R. Gainer washed 100 buckets of stuff for 10½ dwts of gold.  The material is about 2½ miles from water.  At present 18 people are at this new rush.  So far the Government prospecting party has been unsuccessful.  The number of men on the field is now very small.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

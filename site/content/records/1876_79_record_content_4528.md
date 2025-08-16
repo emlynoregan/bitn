@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Editor says that the Register has taken up his article in favour of a property tax (without acknowledgement) and now agrees with his views.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

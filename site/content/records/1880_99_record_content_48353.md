@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Hardy then said the engineer got an extra amount of pay last year to attend to pumping and meter reading.  He did not believe the breakage was an unavoidable case and did not believe the engineer would grumble to pay the extra amount.  In winter he had scarcely anything to do.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

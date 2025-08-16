@@ -35,4 +35,4 @@ From winter the weather has suddenly become summery.  On Sunday and Monday last 
 The road from Kooringa to Redruth has been repaired and made passable.  This has not been accomplished not by the Road Board or even the Mining Company, but by the cab driver Mr C. Williams and a number of others who made subscriptions towards the cost.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

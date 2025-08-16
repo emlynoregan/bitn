@@ -29,4 +29,4 @@ Obituary.  John Ind of Mt Bryan died at the Burra Hospital on Sunday from inflam
 
 [Died 7 August 1892 aged 66.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

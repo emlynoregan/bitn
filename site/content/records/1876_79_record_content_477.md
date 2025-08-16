@@ -49,4 +49,4 @@ He continues, to say that Burra has been officially used for the District and no
 
 He agrees that locally it is not necessary to say Burra, ‘but for English, bush and district places, it is necessary to add that all communications from Kooringa, Aberdeen, Redruth, Princess Royal, Lostwithiel, Hampton, Princetown (I cannot complete the list), are all the one place, “Burra.”’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

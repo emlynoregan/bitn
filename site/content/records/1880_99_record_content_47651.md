@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Princess Royal Shearing saw 15 men over 17 working days shear 19-20,000 sheep.  The greatest number in one day being 1,994 and the highest individual numbers being 183 by Hodgetts and 180 by McIntosh.  Many went over 100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

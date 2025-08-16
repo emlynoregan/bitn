@@ -39,4 +39,4 @@ The Burra Company is now employing 708 persons.  Of these 693 are working at the
 
 In the place of the late Captain Allen Mr Thomas Graves has been appointed a Director and in lieu of Mr A. Jaffrey, who has left SA, Mr John Hector has been appointed.  Otherwise the group remains unchanged; the five retiring Directors all having been re-elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

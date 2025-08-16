@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Sheep Thefts in the area have seen detectives from the Adelaide Stock Squad investigating.  28 stud Merino ewes values in excess of $14,000 have gone from Barton Hill, Black Springs.  86 sheep have been stolen from near Burra, lots of 20 and 30 from World’s End and 90 from Sevenhill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

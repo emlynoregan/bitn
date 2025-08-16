@@ -32,4 +32,4 @@ Kooringa, December 16, 6.30 p.m.
 
 Stuart, Auld and self home by last train to-morrow.  Have reached the coast.  Party all well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

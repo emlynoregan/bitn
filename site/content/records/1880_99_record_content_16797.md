@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Unemployment.  500 unemployed men were addressed in Victoria Square, Adelaide, on Friday, urging that Parliament be recalled as a matter of urgency as the Government is incapable of dealing with the crisis in employment.  A meeting was held in the Town Hall in the evening to consider the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Institute Committee Meeting on Monday decided the Chrysanthemum Show would be on 2 May.  R.M. Harvey took the chair as Mr Watt was unable to attend due to his accident.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

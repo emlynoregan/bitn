@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Mr Kickebusch [sic] of Baldina was driving home from market on Friday with his daughter and Miss Dowd when the horse bolted and capsized the buggy.  Miss Dowd had part of her ear cut off, but the others escaped with a severe shaking.  The sufferer was brought in to the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

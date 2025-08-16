@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mr & Mrs Jolly, who have long been successful teachers in Adelaide, have been induced to go to Kooringa to undertake the tuition of the rising generation there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

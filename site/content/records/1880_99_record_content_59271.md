@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr J.A. Watt, after 18 years here, has decided to move on to greener pastures.  On about 1 March he intends to go to Moonta Bay and carry on a drapery business there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

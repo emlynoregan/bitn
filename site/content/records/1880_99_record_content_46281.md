@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr W.T. Mortlock of Martindale Hall, Mintaro, is preparing to open the Mintaro Goldfield to the public, reserving a portion for those already on the ground.  Strangely those working there say it does not pay and yet are unwilling to cease work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

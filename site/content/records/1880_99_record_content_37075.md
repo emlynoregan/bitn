@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 J.G. Kelly of Copperhouse writes complaining that the District Council seems incapable of side drainage for the main street and instead cuts a creek 20 chains long down the centre of the road.  Or allows/encourages the waters to do so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

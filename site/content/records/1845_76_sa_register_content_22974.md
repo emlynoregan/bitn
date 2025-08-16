@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Sections 2082, 2083 & 2094 Dunn’s of 300 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

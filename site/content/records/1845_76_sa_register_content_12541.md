@@ -44,4 +44,4 @@ On Tuesday a meeting of the inhabitants was held at the Burra Hotel to consider 
 
 Wheal Sarah Mine shareholders met on Monday evening and John Dunstan was appointed Captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

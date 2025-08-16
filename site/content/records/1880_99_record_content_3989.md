@@ -47,4 +47,4 @@ Thomas James Barrett, licensed victualler of Hanson (i.e. Farrell’s Flat) said
 
 Verdict was accidental death.  The jury gave their fees to the widow.  [Age registered as 52.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

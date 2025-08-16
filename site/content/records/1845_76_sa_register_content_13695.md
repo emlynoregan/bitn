@@ -30,4 +30,4 @@ Kooringa News, 26 September
 On Sunday afternoon the police received news that a man had been stabbed at the Smelters’ Home Hotel at Aberdeen.  William Andrews and Benjamin Hill had been drinking together when a quarrel broke out.  Andrews wounded Hill with a knife in the side and an arm.  Andrews was arrested, but Hill subsequently refused to press charges and so the case was dismissed.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 In the meantime water is obtainable only from two water carts kept busy from early morning to late at night. It has to be ordered a day ahead and often the carter has to be reminded that he has to bring it for another day. As for watering teams, the supply is obtainable only if those need it pump it themselves from the well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

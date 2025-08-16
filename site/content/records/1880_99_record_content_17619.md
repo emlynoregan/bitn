@@ -30,4 +30,4 @@ Midland Road Board 17 March
 
 The board acceded to the request from Burra Town Council to form a footpath on each side of the main road from the English Chapel [St Mary’s] to the Mine Bridge.  The intention to form an avenue of trees on the east side is also mentioned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

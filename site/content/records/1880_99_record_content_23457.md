@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  St Mary’s Sunday School festival on 26 September and Wednesday 29 September, Michaelmas Day.  There will be a short service for scholars at 9.30 a.m. and then a picnic at Princess Royal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

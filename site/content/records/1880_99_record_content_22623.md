@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Unemployment Relief.  Landowners in the Hundreds of King and Rees [East of Baldina and Mongolata] are to be asked to guarantee the interest of not more than £30 p.a. on the Government outlay not to exceed £600 and the interest to be charged pro rata and at not more than 2/- per 100 acres p.a.  The work can now proceed at once. Water will be available for stock at a nominal fee, the proceeds being appropriated by the landowners for their advance of the necessary interest.  Credit goes to Mr P.L. Killicoat for his action in securing this work for the unemployed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

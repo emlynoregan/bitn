@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offence.  The Redruth Magistrate’s Court heard the case of the Police v. Midwinter.  Midwinter, the licensee of the Baldina Hotel, was charged with supplying liquor to a drunken man, one Jacob Jansen, who subsequently died as a result of a road accident.  The case was dismissed for want of sufficient evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

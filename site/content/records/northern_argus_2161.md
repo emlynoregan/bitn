@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Burra Mine Management Committee has been pleased with the number of visitors to the Mine and Morphett’s Enginehouse since Christmas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

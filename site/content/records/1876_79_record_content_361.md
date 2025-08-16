@@ -30,4 +30,4 @@ Mr Charles Lowe was appointed town Clerk and Council Solicitor at £120 p.a.
 
 It was resolved to advertise for a surveyor to prepare plans of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

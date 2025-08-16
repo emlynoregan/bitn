@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Hunt.  33 persons took part in a hunt organised by J.C. Sandland on Saturday 24 September on his land east of the swamp.  They shot 535 rabbits, 3 wallabys [sic], 3 carpet snakes, 1 cat and 1 crane.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Andrew Hogan, only son of Colin and Yvonne Hogan and grandson of Pat and Gill Hogan, formerly residents of Burra, will be ordained into the priesthood at St Francis Xavier’s Cathedral, Adelaide on 25 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

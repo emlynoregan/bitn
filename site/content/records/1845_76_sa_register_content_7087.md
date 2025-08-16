@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  Cartage rates between Burra Copper Works and Port Wakefield.  For July, August and September 30/- per ton each way and after that 25/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

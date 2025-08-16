@@ -32,4 +32,4 @@ Protector of Aborigines’ Report
 
 ‘The squatters on the Murray can also bear witness to the great and important service the natives have rendered them during the late scarcity of labour; and on several occasions, natives have been left sole charge of the squatters’ property; and it is gratifying to state, that in no instance has the confidence placed in them been taken advantage of.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

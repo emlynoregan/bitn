@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Burra Institute Committee on 9 March agreed to the construction of a urinal in a similar place in the Avenue and to pay one-third the cost as the Council suggested.  Also to construct a passage through the lodge room by putting up a suitable stone wall and erecting a verandah from the present lodge door to the escape door in the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

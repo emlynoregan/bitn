@@ -43,4 +43,4 @@ The Governor’s Trip
 
 We hear the Governor Sir Richard MacDonnell and Lady Murray will start in the steamer Melbourne on 15 August for a trip up the Murray.  Also with him will be his Private Secretary, the Surveyor-General and Mr Younghusband.  It is thought he will go as far as Maiden’s Punt or perhaps to Albury.  On their return the party will get off at Overland Corner and proceed via the Burra, Angaston, Truro, Blanchetown and Kapunda.  The object of the trip is connected with trade along the Murray and the opening up of the country by railway.  His Excellency is not expected back until about the end of September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

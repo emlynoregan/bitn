@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 He also joins in with the general reaction to Downer’s attempt to defeat the Government: the Government is not doing a great job, but Downer’s attempt was merely a cynical grab for office without anything to offer the country and so deserved to fail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

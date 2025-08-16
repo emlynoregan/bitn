@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 A comet is visible in the western skies nightly until about 9 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

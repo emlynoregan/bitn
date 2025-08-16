@@ -37,4 +37,4 @@ The discovery of the new lode at the Burra Mine is likely to prove a welcome boo
 
 The Redruth Bridge makes steady progress with the piers now about breast high.  It is likely to be completed before the winter rains – a highly desirable outcome.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

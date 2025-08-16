@@ -53,4 +53,4 @@ Present holders of 1 & 2 shares will have 1 vote.
 
 It was also decided that no director could hold office for more than three years and that five directors would retire annually.  The other clauses were then passed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

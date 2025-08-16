@@ -32,4 +32,4 @@ Advertisement.  A new establishment at the Burra Burra.  Cornwall House.
 
 William Young, from Miller & Lucking’s, Adelaide, announces he is opening a new store for Drapery, Grocery and Ironmongery, nearly opposite the post-office, on Saturday 15 December.  His experience over many years in England and Adelaide will ensure the stock will be first rate quality, new, fashionable, good and cheap.  He has appointed his brother, Mr James Young, as his English agent.  The grocery and ironmongery department will be conducted by Mr Samuel Drew, so long and favourably known in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Association - talks so far on Hydrogen Gas - its properties and uses in the great works of nature and Telegraphy: its history and progress. 20 members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

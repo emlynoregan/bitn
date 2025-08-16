@@ -33,4 +33,4 @@ Central Road Board
 
 Mr Giles directed attention to the urgent necessity of taking steps towards getting the new iron bridges for the Rocky River, the Light, the Gilbert and the Wakefield.  After discussion it was resolved that Mr Macaulay, the Surveyor to the Board, be instructed to make the necessary surveys, under the superintendence of the Inspector-General of Roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

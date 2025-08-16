@@ -33,4 +33,4 @@ Advertisement.  Bullock drivers and woodcutters are advised that wood, dry or gr
 
 Present payment for cutting is 4/6 per ton and for carting 17/6 per ton.  The distance between the Murray Scrub and the Works is about 12 miles and the road is excellent even in winter.  For further particulars apply to the Company’s Office in Adelaide or at the Works, Kooringa.  Adelaide, May 29, 1856.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -21,4 +21,4 @@ publication_slug: record-1880-99
 
 [Note the anomalous use of No. 310, which through another anomaly had not been used in its proper sequence in 1894!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

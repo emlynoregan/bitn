@@ -28,4 +28,4 @@ Rev. J.Y. Simpson conducted a flower service at the Wesleyan Church on Sunday.
 
 The flowers brought will be distributed to the sick and the poor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

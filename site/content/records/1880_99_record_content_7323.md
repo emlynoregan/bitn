@@ -31,4 +31,4 @@ Redruth Court, 4 July
 
 G.H. Loxton, a drover, was charged with stabbing Duncan James McColey at Baldina on 29 June, but after hearing evidence the charge was dismissed.  Loxton was further charged with destroying a valise of McColey’s by burning it.  He was ordered to pay 50/- compensation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

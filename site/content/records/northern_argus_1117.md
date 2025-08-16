@@ -30,4 +30,4 @@ Te work on this J150 project has begun.  The work will see stonework re-pointed,
 
 [*Reports on CXVI, 8052, 7 May 1986, page 19 and CXVI, 8061, 9 July 1986 indicate these timbers were actually to support the new floors in the building.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A letter, appearing in the form of a paid advertisement from ‘One who strives to act as a gentleman should’ querying whether the Hallett entertainment advertised last issue was in fact timed to inflict damage on ‘our church effort’ as he believes to have been done before.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

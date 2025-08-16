@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Shooting Accident.  E. Pascoe, who was visiting Dr J.R. Stephens at Mongolata, was accidentally shot in his side when a gun he was placing in the bottom of a buggy discharged.  After treatment at the Burra Hospital by Dr Sangster he is out of danger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ Obituary.  John Peak Sen. died aged 65.  He was born at St Just, Cornwall in 185
 
 [Born 5 April 1833: died 6 January 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 "An ordinary daily at one" (i.e. a meal at a fixed price)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

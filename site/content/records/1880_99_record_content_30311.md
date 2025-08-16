@@ -34,4 +34,4 @@ Professor S.S. Baldwin, American Humorist and Miss Kate Russell, England’s Gre
 
 Also Baby Nick Russell: the smallest Automatic Performer in the World.  3/- & 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

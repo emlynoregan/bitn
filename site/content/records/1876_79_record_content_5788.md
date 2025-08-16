@@ -26,4 +26,4 @@ Letter to Editor.
 
 Complaining of smokers in non-smoking railway carriages. Other annoyances are card playing and drinking of brandy etc. There was also a need for a communication system to the guard and/or driver in case of accident.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

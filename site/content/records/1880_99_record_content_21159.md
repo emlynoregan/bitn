@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Ann Sampson, relict of the late J. Sampson, died at Kooringa on 4 January, aged 74.  Born in the Parish of Buryon, near Penzance Cornwall and a colonist of 39 years.  [Born Ann Branwell.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

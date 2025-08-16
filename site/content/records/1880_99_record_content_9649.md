@@ -29,4 +29,4 @@ Offences.  Some of the usual offences of stray cows and speeding around corners 
 
 Unchained vehicles attracted fines for W.L.H. Bruse, Lewis Grow, H. Lambert and John Bampton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

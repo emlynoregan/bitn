@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  George Day, a driver on the northern line, died in his engine last Saturday.  [In IX. 730. 9 March 1888, page 2 it is reported he died about two miles from Manoora on the down train and was taken off the train at Manoora, but the only death near Manoora 3 March was of George Lomas  aged 38 and born 22 May 1850.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

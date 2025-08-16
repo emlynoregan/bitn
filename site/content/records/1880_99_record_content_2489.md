@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘You Know Who’ complaining that the police are not enforcing the Sunday closing of hotels and that while the front doors are closed, the back doors are open.  Also, he asks, can a wholesale spirit store be open on any day of the week?  If not why do our police never make any attempt to stop it?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

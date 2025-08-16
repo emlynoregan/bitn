@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 D. Rayfield writes to the editor that in Burra there are signs of improved roads and footpaths under a Bi-centennial CEP scheme, but recently Council, presumably for lack of funding has gone around taking up large quantities of existing footpath edging so it could be put down in Market Square.  Residents have been told it was removed to widen footpaths, but work has not continued in these areas.  ‘The people in the White House must think we are a gullible lot.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

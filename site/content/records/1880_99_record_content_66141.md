@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. King’s farewell social on Tuesday evening, chaired by Hon. John Lewis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

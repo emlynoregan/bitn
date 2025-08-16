@@ -35,4 +35,4 @@ The Eastern Selectors.  The local MPs Holder and Rounsevell presented a petition
 
 A similar petition from occupiers of educational and miscellaneous leases was also denied.  The Commissioner said he had no power to reduce such rentals and could only suggest surrender on payment of three months rent in advance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

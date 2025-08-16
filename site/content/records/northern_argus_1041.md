@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 The Thistlebeds Picnic Race Meeting was a great success.  There were 23 events ranging from the Collinsville Merino Stud Cup over 1,400 metres to the Sleepy Lizard Derby.  The woolshed dance on Saturday night was well patronised.  Proceeds will be divided between the RFDS and Burra Senior Citizen’s Hostel for the aged.  [Photo of the Sleepy Lizard Derby.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

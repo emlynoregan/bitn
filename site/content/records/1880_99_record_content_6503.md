@@ -27,4 +27,4 @@ Advt.  Henry Skewes apologises for being absent from the sale, which was to have
 
 [There is no mention of Kingston Township in Manning.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

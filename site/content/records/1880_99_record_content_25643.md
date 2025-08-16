@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Stray Animals.  Goats and the occasional horse continue to be a problem in the Kooringa streets.  This week four persons were each fined 5/- for such offences.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

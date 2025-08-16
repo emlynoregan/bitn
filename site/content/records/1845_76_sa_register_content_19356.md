@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Weather.  On Monday there was a dust cloud extending high into the atmosphere and obscuring the sun.  A fall of rain was anticipated, but fine weather set in without a thunderstorm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

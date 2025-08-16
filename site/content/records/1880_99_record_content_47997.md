@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Broken Hill Distress.  The meeting at the Council Chamber on 23 December to decide on how to aid the Distress Fund was fairly attended.  Mr McCulloch forwarded £5 and J.R. Gray £1.  A committee was formed of the Council with power to co-opt others.  Subscription lists were got out.  An open-air meeting is called for Market Square on 31 December with the Mayor to take charge.  The cricket club will donate the gate money from the match against Jamestown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

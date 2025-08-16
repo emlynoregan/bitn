@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Advt.  Jennison’s of Burra, 28-30 Commercial Street: Closing Down Sale
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

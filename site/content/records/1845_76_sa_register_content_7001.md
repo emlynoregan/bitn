@@ -98,4 +98,4 @@ Dr Chambers responded and ended by proposing the health of the 245 electors who 
 
 Mr Powell was then voted into the vacated chair and proposed the health of W.R. Mortlock.  The reporter left at midnight and so has to rely on hearsay that some of the guests had not reached home by breakfast time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Collinsville’s Annual Sheep Auction recently saw an average price of $715 for merino and poll merino rams.  This was more than $200 better than the previous year.  [Further details and a photo are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

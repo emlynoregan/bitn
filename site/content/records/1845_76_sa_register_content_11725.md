@@ -24,4 +24,4 @@ publication_slug: sa-register
 Weather.  There has been very little rain in the district of Burra and it ahs been very cold, with maxima of c. 54°F.  Many lambs have been dying from the cold and the absence of fresh feed.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

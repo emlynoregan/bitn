@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Ridgway has built a new hotel in Aberdeen to replace the Aberdeen Hotel, which was destroyed by fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

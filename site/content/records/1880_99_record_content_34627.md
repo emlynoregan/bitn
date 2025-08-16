@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Last year typhoid was prevalent and several deaths resulted.  The Local Board of Health does good work, but we must all be vigilant.  Arrangements have been made to improve scavenging in the town.  Each house will be visited twice a month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

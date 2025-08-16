@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Since tradesmen are checked from narrowing footpaths by depositing goods for sale thereon, why are the authorities allowed to narrow roads by leaving heaps or repairing metal on them.  They constitute real dangers in the dark.  Stone stations should make use of recesses rather than use these ‘abominable encroachments’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

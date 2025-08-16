@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Obituary. A letter to Mr H. Dawson JP from T.D. Jackson, reports the death at Hile’s Salt Well of a man called Slater or Slatter, said to have a wife and 9 children at Burra.   [Actually Henry Slate: his death is not registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

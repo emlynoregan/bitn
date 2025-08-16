@@ -31,4 +31,4 @@ Wesleyan Sunday School picnic held at Koonoona on the holiday Thursday, 9 Novemb
 
 Burra Literary Soc. did not meet last Friday and the next meeting will be in the German schoolroom for a 6d entertainment in aid of the Society’s funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

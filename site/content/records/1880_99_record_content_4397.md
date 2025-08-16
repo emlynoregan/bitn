@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Train Changes.  The evening passenger train arriving at Burra at 6.20 p.m. has gone on to Terowie since last Wednesday.  The morning train now starts from Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

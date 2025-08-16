@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr De Reiger’s celebrated Passion Pills.  A certain and permanent cure for impotence, lost manhood, spermatorrhoea, night losses, weakness, nervous debility.  The only cure for those who suffer from excess or the follies of youth. Course of 100 pills £1.  Sole agents in Australia: The Parisian Drug Co. of 161 Phillip St Sydney.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

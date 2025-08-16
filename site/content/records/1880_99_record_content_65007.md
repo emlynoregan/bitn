@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church Anniversary last Sunday with Rev. W.H. Rofe in the morning and Hon. F.W. Holder in the afternoon and Rev. S. Wellington in the evening.  Public tea Friday at 1 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

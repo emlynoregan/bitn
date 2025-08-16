@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 School of St Joseph. 74 students were examined on Thursday prior to breaking up for the year. The children passed most satisfactorily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

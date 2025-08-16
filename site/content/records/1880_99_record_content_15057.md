@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 During the year the trustees have reduced the debt on the church and paid £40 for an allotment of land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

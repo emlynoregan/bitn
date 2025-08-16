@@ -49,4 +49,4 @@ His Honour said they had taken a most reasonable view of the matter.
 
 The prisoners were liberated.  The prosecutrix was not allowed her expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Jubilee Fountain.   The condition of the fountain is very discreditable to someone.  Those managing it spent so much on an unnecessarily large and unsightly foundation that there seems there was insufficient left to fix it securely.  As a consequence the water has been shut off for some time, one of the cups has been broken, and it is so insecure it might easily be overturned and seriously damaged.  The Town Council do not seem to accept any responsibility for it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

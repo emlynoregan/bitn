@@ -58,4 +58,4 @@ Cemetery	+£26-15-4		+£53-12-1
 
 Main Roads	–£21-12-4		–£1-15-11
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

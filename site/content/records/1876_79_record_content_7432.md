@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Sara & Dunstan undertook the work for £778. A piano was purchased. One of the front rooms will serve as a reading room and library and the other as a Council Chamber. On Monday the opening was performed by Mr Rowland Rees MP and the key was handed to him by Mr R. Collins JP. A luncheon followed and then the Burra v. Hallett cricket match in which Hallett 82 defeated Burra 58. Mr Rowland Rees presided at the entertainment in the evening at which he also recited Poe's The Raven. The ball which followed lasted far into the morning. The activities raised £50 which would have been more, but for the weather. [Considerably more detail is given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

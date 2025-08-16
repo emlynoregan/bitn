@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Also the returns of the amount of mortgages on land, the return of Mines and date from pound keepers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

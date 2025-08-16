@@ -55,4 +55,4 @@ Westbury Wesleyan Chapel held anniversary services on Sunday with a tea and publ
 Rev. C. Colwell delivered a lecture in the Kooringa Wesleyan Chapel on The Wonders of Geology.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

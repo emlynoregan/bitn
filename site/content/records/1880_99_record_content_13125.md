@@ -39,4 +39,4 @@ The Salvation Army, he says, have done good work and continue to do good, but th
 
 ‘They resemble them too in their tunes which are light, gay, or what you please to call them, for I don’t call them sacred.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

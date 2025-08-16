@@ -36,4 +36,4 @@ A letter was read from Mr A.H. Forder, from which it appeared that he was fulfil
 
 It appeared that the Inspectors had formed very good expectations of Mr Forder as a teacher.  The Secretary stated that they had lately furnished him with maps and class-books from the depot to the amount of about £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

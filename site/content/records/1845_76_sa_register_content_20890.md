@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 [This is a long and verbose letter on the prevalence of ‘The Social Evil’ in the colony, by which the writer means prostitution – an evil to be found at every level of society.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

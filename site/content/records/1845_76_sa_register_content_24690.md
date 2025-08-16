@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  T.N. Adams, late of the Thistle Inn, writes that he went to a new rush about five miles north of Coglin’s Gully.  He got 3dwt 9 gr from 20 buckets of stuff.  Water is about two miles distant and this is the only stuff so far washed except for that of the prospecting party.  It is a payable amount.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

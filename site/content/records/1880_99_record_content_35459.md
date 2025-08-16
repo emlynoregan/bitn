@@ -44,4 +44,4 @@ Sports News from overseas is dominated by horse racing and boxing.
 
 Locally there will be another horse race at Springbank tomorrow at 3 p.m. between R. Austin’s Happy Eliza and W. Henderson’s Converted Jane.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

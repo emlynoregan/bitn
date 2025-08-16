@@ -46,4 +46,4 @@ Other policies are the extension of railways (the transcontinental line) and wat
 
 F.W. Holder is unable to visit Renmark in the time available and instead is posting a copy of this issue of the Record with the report of his speech on Thursday, to every elector on the Renmark roll.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

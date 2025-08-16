@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Business here is dull, but shearers are beginning to pass through on their way north and northeast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

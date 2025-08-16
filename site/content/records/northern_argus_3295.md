@@ -28,4 +28,4 @@ Obituary.  Miss Nell Heinrich.
 
 [Elenor Gladys Heinrich also registered as Eleanor Gladys Heinrich born 29 May 1912 Copperhouse.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -33,4 +33,4 @@ Premier John Bannon has called for a report on the Copper Interpretation Centre 
 
 Council is seeking to present and demonstrate a viable alternative within the project and to enable members of the Board and the working party to meet for discussions.  It considers it unfortunate and unwarranted for the Jubilee 150 Board to consider the reallocation of a portion of the monies already granted to Burra for the Heritage Town Project.  The cost over-run of $64,000 on the Jubilee 150 job creation scheme at Paxton Square cottages was met by Council in the first instance.  A special meeting of Council was called for Monday 30 September to discuss the situation and an urgent reconvening of the working party has been called for.  A petition opposing the reallocation of the monies has been organised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

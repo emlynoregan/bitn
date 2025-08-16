@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Burra is today plunging and floundering, as it were, for breath to keep it alive, when it might have been one of the most important towns in South Australia.  We have heard it is on account of the grasping niggardness of the South Australian Mining Association, and we are somewhat convinced of the fact.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

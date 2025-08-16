@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Prospects at the Mine are very bleak, with men leaving the district daily.  Many of the best men are going to Victoria where wages are particularly good for skilled men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

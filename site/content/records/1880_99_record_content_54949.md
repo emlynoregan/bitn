@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR.  The annual inspection was on the flat near the old rifle range last Wednesday by Col. Gordon & Sgt-Maj. De Passey.  There was a parade from Market Square, an inspection of horse and accoutrements, then manoeuvres and firing.  They received the highest % of any company yet inspected and the men received high praise from the Colonel.  A social at the Commercial Hotel followed with J.D. Cave in the chair.  He was a former member of the Volunteer Force and a Captain for four years before resigning only because of the amalgamation.  The usual toasts were drunk and the evening included musical selections, songs, readings and recitations and concluded at 11.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

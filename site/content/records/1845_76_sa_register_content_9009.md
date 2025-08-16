@@ -37,4 +37,4 @@ Notice.  The AGM of the SA Mining Association will be held at the Company’s of
 Henry Ayers, Secretary, Adelaide 3 April 1855.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

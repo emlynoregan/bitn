@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The weather continues very changeable.  Most of the past week has been colder and wetter than usual for the time of year.  On Sunday there was a violent storm accompanied by thunder and lightning.  The rain came just in time to deluge the congregations going home from church.  The weather is also unfortunate for the recently shorn sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

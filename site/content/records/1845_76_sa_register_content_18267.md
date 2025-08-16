@@ -33,4 +33,4 @@ Mr Butti* from Adelaide has come to inspect the reported discovery of copper on 
 
 [*In another place Butte.  SA Births, Marriages & Deaths do not record Butti and only a couple of instances of Butte.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

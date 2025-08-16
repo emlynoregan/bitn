@@ -47,4 +47,4 @@ The photographic views have been neatly framed and glazed and we proposed to ret
 
 [The letter continues with details of the SA Court at the exhibition and of some of the distinguished visitors to it; including the Prince of Prussia and the Duke of Newcastle.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ Sales 9 September
 
 For Burra Burra, £8,367-5-0 and Kapunda £8,056-7-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

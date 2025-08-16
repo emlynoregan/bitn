@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church was well attended for its anniversary services and collections were the largest for some years.  At the public meeting the chairman, Mr F.W. Holder, spoke of the Christian Effort in the town throughout the year at the eight places of worship.  Miss Green almost emptied the other chapels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

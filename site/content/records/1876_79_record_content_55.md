@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 S. Brady	Saddler, Aberdeen.  Agent for Robert Cameron Machinist of Kapunda
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

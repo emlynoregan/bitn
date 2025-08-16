@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  17 & 18 June, Burton’s Great Australian Circus, 20 Star Artists, Male and Female Riders.  Pit 2/-, Stalls 3/-, Dress Circle 4/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

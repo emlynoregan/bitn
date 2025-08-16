@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra artist Roger Boehm held his first art exhibition – a series of pen and wash – in the Bible Christian Chapel in Paxton Square last weekend.  Almost all the 22 paintings were sold.  The subjects of most were rural buildings and homesteads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

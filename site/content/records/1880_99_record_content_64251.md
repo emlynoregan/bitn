@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mrs W.G. Owers’ 4-year-old daughter fell through a wooden cover and dropped 30-40’ down a well on Saturday morning.  She landed in 4’ of water and disappeared underwater twice before eventually being caught on some tree roots and finally being rescued by Mr John Martin.  Oddly enough she was still clutching a cup she had in her hand when she fell in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

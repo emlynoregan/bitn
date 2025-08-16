@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Editorial.  Train Times.   A correspondent to the Register complains that the train from the north does not arrive at Hamley Bridge at a time to allow a transfer to the Yorke Peninsula line and the Railways say it cannot be done.  This is nonsense.  The northern train only has to depart Terowie a little earlier and be delayed a little less at stations to effect a passing of the other train at Hamley Bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

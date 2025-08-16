@@ -26,4 +26,4 @@ The South Australian Gazette and Mining Journal has ceased publication.
 
 [The reason for the closure of the journal was the withdrawal of many of the staff to the Victorian diggings, which had firstly forced a reduction in size, but now made it impossible to continue, as the remaining workers were about to follow the example of their friends.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bon Accord Mine.  The search for copper has been resumed on the Bon Accord property at Aberdeen.  A man has been put on in the hope of cutting Tinline’s Lode which was the leading lode in the Burra Mine and which is believed to run into the Bon Accord.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

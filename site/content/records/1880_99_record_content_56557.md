@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. E.J. Kemp will preach his farewell sermons on Sunday at Kooringa and Mt Bryan.  After 12 months in the circuit he goes to Gawler, to be succeeded by Rev. T. Flood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

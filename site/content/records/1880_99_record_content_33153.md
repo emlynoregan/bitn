@@ -56,4 +56,4 @@ The No. 3 band was one concertina, 1 cornet, 1 drum and several timbrels. [Which
 
 It is, he says, silly for a small place like Burra to have two bands: why not do away with animosity and make one good one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

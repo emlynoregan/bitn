@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Rev. Father Kreissl thanks all for their support of the recent Art Union and Bazaar.  He announces that after all expenses the debt on St Joseph’s has been reduced from £1,390 to £900.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

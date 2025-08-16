@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Prince of Wales’ birthday was observed as a holiday on 9 November by the trading community.  Mr McCulloch allowed all who chose to picnic in his grounds and to inspect the large and handsome house he has lately erected at Princess Royal.  [Designed by Edmund Wright.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

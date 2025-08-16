@@ -39,4 +39,4 @@ H.E. the Governor arrived in Kooringa on Tuesday 8 December accompanied by the H
 
 On Wednesday 9 December the Governor visited the smelting works and saw the operation of making copper.  Afterwards he visited the Mine and saw the extensive workings belonging to it.  He then inspected the Post Office and the Institute, before meeting the citizens in Market Square.  Two addresses were there presented to him by Mr MacDermott SM; one from the English inhabitants and the other from the German residents.  H.E. made a suitable reply and also sought to quash a rumour that he had said at Wallaroo that 3/6 a day was enough for miners’ wages.  Its likely source, he believed, was a statement he made regarding the price of water; that 3/6 per barrel was quite enough instead of 6/-.  The explanation elicited enthusiastic cheers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

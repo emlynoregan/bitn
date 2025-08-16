@@ -46,4 +46,4 @@ Cr Linkson supported the substantial correctness of the paper’s reports and so
 
 6 February.  Another hot meeting debated the receiving and adoption of the report.  Cr Parks moved that it be received, but gave notice that at the next meeting he would move it be expunged from the minute book.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

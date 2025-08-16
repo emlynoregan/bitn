@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Burra Record.  With today’s issue we present a four-colour almanac with photos of the Australian Governors, particulars of postal and railway regulations, Burra Institute, Lodges, cab fares, Burra markets, District Council, Court, Insurance Companies and Burra Literary Soc. etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Kooringa News
 
 We understand a public meeting is to take place next Monday at the Burra Hotel to take into consideration the many advantages of a railway to the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

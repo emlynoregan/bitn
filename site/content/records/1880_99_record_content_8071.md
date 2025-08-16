@@ -26,4 +26,4 @@ Advt.  Liston, Shakes & Co. will offer 30,300 sheep on 3 November.
 
 [In IV, 227, 3 November 1882, this number had risen to 33,100.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

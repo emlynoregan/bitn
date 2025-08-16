@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Strawberry Fete was a huge financial success at the Institute last Wednesday.  There was light patronage in the afternoon, but it was crowded at night and 250 lb of strawberries were despatched.  The Burra Band played in the afternoon.  The sum of £55 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

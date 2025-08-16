@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Weather.  It has been hot, but a thunderstorm on Friday last dumped 2” rain on parts of the Hundreds of Reece and King and on Saturday heavy rain with hail fell at Copperhouse and Spring Bank, but only a couple of drops fell in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

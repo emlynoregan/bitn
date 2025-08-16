@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club will run the first race of the season from Princess Royal on 14 February.  The Mt Bryan race has been changed to a Hallett race and the later races will be: 21 April Saddleworth, 5 May Terowie, 19 May Mintaro, and 2 June Tarlee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

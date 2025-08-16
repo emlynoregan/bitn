@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Georgina Hyde writes a ½-column letter protesting the poor state of Burra’s footpaths.  It is no wonder that very often visitors and locals alike are seen walking on the roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

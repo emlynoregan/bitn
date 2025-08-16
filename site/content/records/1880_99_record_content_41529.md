@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Elder, Smith & Co. will use their new stockyards near the Bon Accord Hotel for the first time on 29 May when they will offer 18,336 sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

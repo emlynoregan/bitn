@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Boys are continually walking over the iron [arch] girders of the Kingston St Bridge and on Thursday one fell from the top.  Fortunately he fell onto the street and was not hurt.  The drop the other side was c. 40’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

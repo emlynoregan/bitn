@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 J. Lomman escaped a charge of illegally depasturing sheep on a road within the limits of Mt Bryan District Council on a technicality and costs against the Council amounted to £4-1-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

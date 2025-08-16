@@ -29,4 +29,4 @@ Fire in the North
 
 A traveller from the North confirms the report of the fire from our Kooringa correspondent.  So complete was the destruction on Chewing’s run that he says it is now incapable of sustaining as many as 500 sheep and their only alternative is to sell the surviving stock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

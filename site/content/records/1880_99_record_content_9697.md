@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Letter to the Editor protests at Cr Sampson’s hypocrisy in objecting to the Salvation Army being a obstruction in the square; pointing out Cr Sampson is prepared to regularly obstruct the footpath himself while ‘standing on a box with a riding whip in his hand, surrounded by an assortment of, well, almost everything, for the purpose of, as he says, giving the people a bargain.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

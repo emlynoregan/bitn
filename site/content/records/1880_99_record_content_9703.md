@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Last Saturday Burra played the Wanderers at Martindale.  The Wanderers 180 defeated Burra 65 and 72 for 6 wickets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

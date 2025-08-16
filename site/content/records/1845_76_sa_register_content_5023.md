@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Port Wakefield is rapidly assuming an imposing appearance.  Public houses, stores and dwellings are springing up, as if by magic, it being the highway to the Burra Burra and other mines.  Vessels of the largest tonnage can discharge within three miles of the township with safety, by means of barges, which find convenient places for unloading within smooth water at all times.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

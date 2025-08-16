@@ -46,4 +46,4 @@ The requirements of the men may in some measure be right, but the means they are
 
 The two men against whom informations were laid have since given themselves up.  In general the men have been sober and have shown themselves peaceably inclined since it was known the police were coming.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

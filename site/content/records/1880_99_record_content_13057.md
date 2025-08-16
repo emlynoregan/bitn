@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 R. Smith writes about larrikinism in Redruth.  Young men are disturbing Salvation Army meetings there at the Redruth Barracks.  Why, he asks, is there no police action when it is ‘right opposite the police station’?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

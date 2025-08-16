@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Forgery Case.  George West was arrested in Adelaide four days after leaving Burra.  He was arrested for drunkenness and when taken in charge was discovered to be the man wanted for larceny in Adelaide on 26 July.  This earned him 3 months.  It became known then that he was also wanted in Burra for the forgery of six cheques and so he was despatched on Friday night.  [The evidence given echoes the previous report of the crime.]  He was committed for trial at the Criminal Sittings in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

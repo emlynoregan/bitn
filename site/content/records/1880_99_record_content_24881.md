@@ -26,4 +26,4 @@ Editorial against the use of cheap Chinese and Indian labour, especially on the 
 
 ‘Out of the wind of present need and greed, will be reaped the whirlwind of social disorder, and the degeneration which must result in the confluence of mixed races, to one or both of them.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

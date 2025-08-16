@@ -45,4 +45,4 @@ In the Hiles v. Kronke case – arising out of an earlier case in which Mr Hiles
 
 Despite the difficult trading conditions in the town there has not yet been a single case of insolvency.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

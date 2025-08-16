@@ -32,4 +32,4 @@ Cr Ridgway endorsed the Council's joining the Association of Municipal Corporati
 
 He also moved that the £100 standing to the credit of the Cemetery be invested in Corporation bonds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

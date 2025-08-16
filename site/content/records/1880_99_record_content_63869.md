@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Sandland & Co.  Genuine Clearing Sale for Mr Robert Gemmell who is leaving for Broken Hill.  332 acres of good fenced land and a 4-roomed stone house etc. 13 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Roads.  The government has allocated £450 to the Burra District Council for main road work in the next six months and £50 to the Town Council, which is absurd: it pays for one man’s wages, but leaves nothing for metal etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

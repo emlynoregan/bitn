@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bank of Adelaide.  Stock manipulators are believed responsible for a run on the Bank of Adelaide, which remains quite sound.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

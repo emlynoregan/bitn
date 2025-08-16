@@ -43,4 +43,4 @@ It was held 29 February at Riverton.  Districts represented were Saddleworth, Up
 
 The Association was formed and Messrs Killicoat, Bowden & R. Kelly were elected members of the Midland Road Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

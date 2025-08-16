@@ -33,4 +33,4 @@ Professor Kohler will attempt to astonish with experiments in the occult science
 
 Interest in the coming election has been thoroughly roused after the recent meeting here.  It is a pity such meetings are not conducted more quietly and in a more orderly manner.  Last night’s was particularly turbulent.  After the meeting the police ware needed at a fracas to part the belligerents.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

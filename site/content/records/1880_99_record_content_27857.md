@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on rabbits and the problems of destroying and containing them.  On leases falling due this year there is no covenant for the destruction of vermin and they are a great breading ground for vermin.  Both rabbit and dog destruction should be a requirement of lease renewal.  This should see a reduction in the plague without the dangers of some recent suggestions such as the release of chicken cholera among them, resulting in the death of all native birds and poultry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

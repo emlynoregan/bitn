@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Martin aged 57 died on 24 December 1891 at Kooringa.  He was the husband of Catherine, a colonist of 36 years and a native of Kent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

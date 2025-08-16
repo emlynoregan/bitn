@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Bible Christian Anniversary Services were shared by Rev. R.C. Yeoman and Rev. R.S. Casely.  The report at the public meeting showed that the church debt had been reduced by £25 in the last year as it had each year for the last six.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

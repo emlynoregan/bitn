@@ -46,4 +46,4 @@ Jenkin does not blame the Burra School Board as they have answered the questions
 
 The present private school there cannot long continue.  If the man is competent he is forced to teach at a starvation rate of income and if he is not so much the worse for the children.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

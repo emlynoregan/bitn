@@ -57,4 +57,4 @@ In the recent fatal epidemic of malignant scarlet fever there was one case in th
 
 [Obituary: Lavinia McKenney, wife of William McKenney, died 26 May 1876 aged 32.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

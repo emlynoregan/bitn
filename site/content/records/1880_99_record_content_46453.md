@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The 2nd Annual Military Ball will be held in the Institute tonight in the presence of General Downes and Major Stewart.  Setaro’s Canary String Band from Adelaide will play.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Pony Club bestowed life membership on two members during their recent Christmas dinner.  Recipients were Mrs Shirley Thamm and Mr Bob Steele.  Sixteen members attended the dinner.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

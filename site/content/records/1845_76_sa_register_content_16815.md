@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 A new copper mine is reported discovered near the Hamilton, about 20 miles to the east, by a man called Watkins, who has taken out the claim.  Few Burra people have gone into the speculation, though there have been some more from Kapunda.  A pair of men have been sent to clean up the pit, so a report on it can be expected soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

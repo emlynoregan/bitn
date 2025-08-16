@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Accident. The Blinman coach had an accident at Yatina on its last trip and it was feared that driver Wills had broken his leg, but Dr Nesbitt went to Hallett and found it was not so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

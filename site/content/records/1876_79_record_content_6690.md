@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Rumour. A well-known resident of Burra is said to be instructed by one of Adelaide's breweries to buy the premises next to Messrs Drew & Co. to erect there a 1st class hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

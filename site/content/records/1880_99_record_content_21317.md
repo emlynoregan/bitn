@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Weather.  A severe thunderstorm hit Mongolata and part of Baldina last Tuesday.  Mr Reid lost about 120 sheep drowned before they could get out of a creek bed.  At Llwchwr Mr McBride’s house was struck by lightning and a chimney damaged.  A chimney of Mr Tobin’s house in Kangaroo Street was also struck.  There was little rain in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -35,4 +35,4 @@ At last it has rained at Baldina with over 1” in the last week.  The falls ext
 
 C. Duell brought in a sample of barley grown at Islington c. 80 miles from Burra.  It is 3’9” high and will grow another 18” before harvest.  It is from a crop of 30 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

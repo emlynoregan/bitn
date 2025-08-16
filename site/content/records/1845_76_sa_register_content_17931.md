@@ -47,4 +47,4 @@ The Mine continues the same, but the Smelting Works are almost out and will be c
 
 The constructors have now obtained timber for the piles of the Redruth Ford and the work is good and sound.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

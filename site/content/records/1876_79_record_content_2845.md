@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 St Mary's. More detailed report of the visit of Dr Short, Bishop of Adelaide. Also an account of Rev. Morse's lecture on a Trip to England - of some interest in that it describes the first underground railway in London which had opened in 1863.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

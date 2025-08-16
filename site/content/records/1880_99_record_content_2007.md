@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Redruth Band of Hope 2nd entertainment attracted 350 people on Friday and the collection raised £5, which was considered inadequate for the number of people present, and the organisers will consider whether a charge would be a better option in the future.  [The £5 works out to just under 3½d per person.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

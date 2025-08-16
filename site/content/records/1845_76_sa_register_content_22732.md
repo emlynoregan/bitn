@@ -36,4 +36,4 @@ Sailor’s Homes have been a success precisely because they are in or close to t
 ‘The idea of a Bushmen’s Home is a splendid proposition, and I should like to see it prove a success.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

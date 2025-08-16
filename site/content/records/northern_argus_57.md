@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 A Second Day of Fishing is being organised at Burra Swimming Pool for 22 September.  Admission will be free, but there is a 50 cent charge for each fish caught.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

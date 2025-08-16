@@ -32,4 +32,4 @@ Account in credit £14,645-6-2
 
 10 tributers are raising ore at the mine, working at water level in the main excavation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ St Peter’s Cathedral Choir: Trip to Burra, (Concluded) by Inkslinger.
 
 On Monday morning Mr John Sandland provided three conveyances to Koonoona where luncheon was served on the verandah.  After some songs Porter’s Lagoon was visited and the Koonoona shearing shed where shearing was demonstrated and more songs were sung.  The concert that evening drew a very large crowd with the 1/- seats filling rapidly.  Each item is reviewed.  The concert was a great success and despite the heavy expense in getting the choir to Burra the concerts were so heavily patronised that there will be a surplus for the St Mary’s Church funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

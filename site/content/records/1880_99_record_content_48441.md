@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Two letters to the editor congratulate the paper for exposing the ludicrous goings on in Council in the previous issue.  The motion proposed by Cr Hardy and 2nd by Cr Kitchen about the Engineer of the Waterworks appears to be spiteful persecution.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

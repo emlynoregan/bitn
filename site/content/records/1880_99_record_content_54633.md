@@ -46,4 +46,4 @@ Cr Linkson sought to have a call of the whole Council to expunge the motion sack
 
 The Council then digressed into legal opinion and trivia.  Regardless of any legal technicality, Mr Littlejohn deserves the justice of an inquiry.  The wave of technical objections makes one think that the Councillors made rash statements without the slightest foundation, and that they will not allow the man to have his request granted at any price if they can possibly avoid it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

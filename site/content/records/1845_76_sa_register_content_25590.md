@@ -31,4 +31,4 @@ The Burra Mine.  SAMA has published its annual report and balance sheet.  In the
 
 Captain Sanders reports that in the half-year 52,812 tons of haulage has been done, new exploratory work carried out, a 30 inch roll-crushing mill, a Moonta jigger and other dressing machinery has been erected.  He remains confident of the future.  The Directors have reverted to the old system of treating the ore, the new process known as the convex round bubbles having proved unsuccessful.  [This is a reference to the Buddle Pits.]  The company’s establishment comprises 328 men and boys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

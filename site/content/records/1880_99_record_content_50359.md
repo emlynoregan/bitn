@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR.  Medals for best attendance in 1892 will be presented today to Sgt W. West and Pte Dawes and Pte Byles.  (The medals were given by W.H. Linkson and Pte Dawes.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

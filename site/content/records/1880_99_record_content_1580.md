@@ -28,4 +28,4 @@ I did not spy out the matter, but was informed by one who ought to know
 
 I believe speaking to the owner would be like Canute commanding the sea
 
-Source: [1880-99_Record.md](/downloads/markdown/1880-99_Record.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

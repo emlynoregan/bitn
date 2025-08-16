@@ -25,4 +25,4 @@ Notice.  SA Mining Association
 
 A Dividend of 100% of £5 per share has been declared and will be paid 18 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

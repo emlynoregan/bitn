@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Marriage.  10 Aug. at the residence of F. Gebhardt.  William Frederick Gebhardt, eldest son of F. Gebhardt married Mary Wilton, eldest daughter of Mr J.F. Wilton of Thebarton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

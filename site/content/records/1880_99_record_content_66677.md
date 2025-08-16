@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Also last week one of the two horses attached to a vehicle gave a display of high kicking causing the driver to make a fast exit.  The horses soon came to a halt against a tree.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

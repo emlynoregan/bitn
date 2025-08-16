@@ -30,4 +30,4 @@ Lecture by Rev. R.M. Hunter on The Waldenses, including recitations and songs.  
 
 Proceeds to Foreign Missions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

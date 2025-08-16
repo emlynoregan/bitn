@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 I call the attention of the Government to the state of the road north of Burra on what is known as Middle Camp Flat, which is at present nothing but a quagmire and all but impassable.  It is almost level and could be fixed with little expenditure.  It needs a drain on the west side and a deepening of the drain on the east side.  A little spent now before the wool season commences would save a large expenditure in the future.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -47,4 +47,4 @@ Cheers were then given and Mr Barker, on behalf of Mr A. Macaulay, District Surv
 
 About 50 attended the following dinner at the Aberdeen Hotel, though the absence of the music usual for such occasions rendered portions of the event somewhat tame and flat.  Some excellent songs did enliven the toasts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

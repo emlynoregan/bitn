@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Community Library celebrated its 7th birthday on 25 September.  A visit of author Rod Martin was the highlight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

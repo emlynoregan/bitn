@@ -33,4 +33,4 @@ Despite the heading the first half column is concerned with the low prices preva
 
 The editor suggests it be turned into a freezing or chilling works and be connected to the railway by a spur line.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Theft.  A man named Moore stole Mr Vivian’s dog from the Commercial Hotel and took him north by train.  He was arrested at Terowie, returned and fined £2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

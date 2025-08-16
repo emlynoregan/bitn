@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  There are 15 to 20 men at work and c. 80 tons of ore were despatched this week with c. 30 tons on the floor, for which no bags are available.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

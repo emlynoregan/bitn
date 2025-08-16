@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  F. Duldig notifies the public he has commenced business as a butter manufacturer at World’s End Creamery.  Messrs drew & Crewes have been appointed agents from whom fresh butter can always be obtained.  He also begs to inform he has opened a store at the creamery where he can supply groceries etc at the lowest prices.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

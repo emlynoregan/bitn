@@ -33,4 +33,4 @@ Advertisement.  Emu Hotel, Black Springs.  The landlord’s interest in the hote
 
 Apply to S. Drew & Co., Kooringa or Thomas Powell, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

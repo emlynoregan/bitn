@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 During the School Holidays Burra Caravan Park and Paxton Square Cottages have virtually been full.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

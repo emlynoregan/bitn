@@ -36,4 +36,4 @@ Prayer meetings have continued throughout the week, with united meetings for dev
 
 Herr Kohler, the musical celebrity, has been performing here at the Burra Hotel on Monday and Tuesday evenings.  There was a good attendance on Monday, but a smaller one on Tuesday.  Kohler gave performances on the cornopean, flageolet, concertina, tin whistle and bush piano.  [The first two named are a cornet and a type of recorder respectively.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

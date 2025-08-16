@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 The usual Mid-winter's Day holiday will be celebrated on Mon. 25 June as the usual 24th falls on a Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

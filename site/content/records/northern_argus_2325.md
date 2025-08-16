@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 The Bush Picnic Race Meeting & Gymkhana attracted a large crowd on Sunday – well in excess of that hoped for.  Perfect weather prevailed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

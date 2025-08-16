@@ -33,4 +33,4 @@ Body Found at Burra.  Two sons of Mrs Nichols Opie of the Smelters’ Home Hotel
 
 [But see next item.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

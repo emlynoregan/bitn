@@ -42,4 +42,4 @@ The request was laid before the Treasurer (F.W. Holder) with a view of considera
 
 The Treasurer said he and another member of the Federal Convention would visit the town and would address electors on the subject.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

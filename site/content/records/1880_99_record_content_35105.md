@@ -30,4 +30,4 @@ About a year ago the Government controlled the Waterworks and were receiving fro
 
 When this was rejected as yielding too little income Cr Rabbich suggested that up to £10 be rated 7½%, £10 to £40 be at 12½% and over £40 be as before.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

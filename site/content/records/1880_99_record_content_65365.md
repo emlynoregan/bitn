@@ -34,4 +34,4 @@ The colony enjoys British freedom and peace.
 
 The editor then goes on with the usual Christmas greetings and good cheer and expresses the confident hope of returning prosperity locally with the re-opening of the mine.  The paper can claim a wider range of business and wider area of circulation than any contemporary outside Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Burra Burra Mines.  The Directors have returned from their monthly visit last Sunday, having been detained some time on their journey south by the swollen state of the River Light.  Rainfall in the north seems to have been much heavier than in Adelaide.  The Mine was found to be very dry and about the same number of pitches was let as on the last occasion.  The 200 horsepower engine is nearly ready for action, and it is supposed it will be set to work on the next monthly visit of the Directors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

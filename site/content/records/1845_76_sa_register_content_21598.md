@@ -43,4 +43,4 @@ Wesleyan Foreign Mission Services were held last Sunday and Monday in Kooringa. 
 
 The Wesleyan Mutual Improvement Association held its monthly meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

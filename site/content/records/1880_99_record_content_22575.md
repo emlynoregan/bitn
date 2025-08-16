@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Unemployment.  A memorial signed by 60 ratepayers asked the Council for work.  The Government has agreed to clean out Barker’s Dam if the settlers will guarantee to raise £30.  There was no resolution to this issue at this time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

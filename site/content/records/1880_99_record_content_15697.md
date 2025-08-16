@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Notice.  McLaren, White & Co. of Kapunda and Burra have taken Mr H.T.H. Morris (so long associated with Messrs Liston, Shakes & Co.) into partnership and having secured the Bon Accord Yards close to the railway station, will conduct monthly sales of stock.  Members of the firm are: John McLaren, J. Wharton White, A.F. Scammell and H.T.H. Morris.  The Burra office is three doors south of the National Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

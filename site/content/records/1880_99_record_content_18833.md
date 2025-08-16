@@ -36,4 +36,4 @@ Take a piece of parkland west of Frome Road and east of the University, from Nor
 
 [Note 1887 was a convenient 50th anniversary of both the city of Adelaide and Queen Victoria’s accession to the throne.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

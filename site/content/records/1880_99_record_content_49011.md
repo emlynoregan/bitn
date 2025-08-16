@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Rev. Daddow writes pointing out how parties under Miss Spence’s ‘effective voting’ could maximise their desires by astute exchange of preferences.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

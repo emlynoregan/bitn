@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Matthew Symons, who has been a resident for over 37 years, was farewelled by about 20 gentlemen at the Kooringa Hotel on Monday evening last.  He has most recently been a retail butcher and is now going to Broken Hill.  Speeches were made in support by Cr Sampson, Harry Vivian, W.J. Jacka, (a resident of c. 2 years), James Henderson, T.T. Shortridge, Cr W.H. Hardy, P. Murrie jun., T. Ellery and T. Ford.  Mr Symons responded appropriately.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

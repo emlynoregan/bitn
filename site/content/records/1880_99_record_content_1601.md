@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 It is time a new station was built.  A splendid station has been built at Gawler recently and Riverton has thoroughly good and substantial refreshment rooms and many far less busy stations have facilities at least equal to that at Burra.  To the north facilities with every convenience are to be built at Yongala, Petersburg, etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

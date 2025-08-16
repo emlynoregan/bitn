@@ -43,4 +43,4 @@ The talented Nelson Family gave three of their popular musical entertainments he
 
 [How a report dated 9 September got printed in Adelaide in the paper of 10 September is rather hard to fathom.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

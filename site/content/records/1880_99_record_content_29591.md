@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Bolt.  On Monday near Sod Hut, Rev. A.P. Burgess’s horses bolted and Mr Burgess, his mother, and two other ladies were all thrown out.  All were bruised and Mrs Burgess received a nasty wound on the forehead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

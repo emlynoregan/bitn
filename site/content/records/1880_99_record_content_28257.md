@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  ‘Sheffielder’ writes on the match with Saddleworth on Good Friday.  The visitors came by Thursday night’s train.  The Burra team was late on Friday and the start was delayed from 9.30 to 10.00.  Saddleworth 119 defeated Burra 114.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ J.B. Graham, one of the SA Mining Association’s largest shareholders, is about
 
 Gawler Town is rapidly growing, in part due to the increasing traffic to and from the mines.  The proprietors of Calton’s Hotel there are about to erect a new roadside inn at a probable cost exceeding £2,000.  Income from land sales is allowing the Government to invest in public works and £2,500 has been allocated to the building of a stone bridge at Gawler.  [Other Government expenditures on a wide range of items are listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

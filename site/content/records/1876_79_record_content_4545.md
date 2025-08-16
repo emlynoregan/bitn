@@ -31,4 +31,4 @@ J. Richardson fined 5/- for a stray cow in Kooringa.
 T. Richardson fined 5/- +12/- costs for 2 stray cows. 
 R. Austin fined 10/- for stray sheep in Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

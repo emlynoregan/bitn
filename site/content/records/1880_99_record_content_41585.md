@@ -38,4 +38,4 @@ Cr Butterworth moved that a footbridge be made over the creek at the rear of Mr 
 
 Mr Paynter, who is erecting the plant for treating the old slagheap, enquires about a water supply.  He believes he will require about 6,000 gallons per day and that 2/- per 1,000 gallons would be a fair price.  A proposal to supply at that price was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

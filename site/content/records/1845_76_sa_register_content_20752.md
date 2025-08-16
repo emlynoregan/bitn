@@ -38,4 +38,4 @@ Mr Dutton MP and Mr Tomkinson visited the adjoining Dutton’s Square Mile last 
 
 The proposed railway remains a prime topic of discussion and the farmers continue to lament the closure of the mine.  Nearly 200 are employed in the creek dressing low grade ore, but the labour market is still very full, with many idle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ Mineral Leases – The Meeting in the North [Editorial]
 
 The editor does not find the conclusion reached at the meeting at Kooringa to be very practicable.  He fears that what they ask is beyond the power of the colonial Government to grant.  To pursue the matter along these lines, he says, would see it referred to England, when what is required is a quick decision.  Everyone agrees that the present system is defective and must be replaced by a system that encourages the industrious discoverer and protects the small buyer and intending adventurer against the monopolist or the land-jobber.  He feels this is more readily achieved by a system of purchase than by leasing.  He goes on to say that he is convinced that something along those lines can be done by the Colonial government within the current Imperial Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 News from the north is rather depressing.  It is reported that Mr McDonald is returning from the new country with his sheep, having lost one horse from lack of water and another has gone astray.  Mr Gregory and the men sent in quest of Mr Babbage have returned, unable to track him.  It is said he went on his expedition without providing his party with horseshoes, it territory where a set of shoes lasts about ten days and horses are unable to travel without them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

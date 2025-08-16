@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra School Board met on Wednesday with P. Lane in the chair and D.S. Packard and F.W. Holder in attendance.  Applications for free education were assessed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

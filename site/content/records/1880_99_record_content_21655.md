@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 21655→Commercial Bank.  A meeting of shareholders resolved that attempts should be made to carry on, even though there will be no prospect of returns to shareholders for a long time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

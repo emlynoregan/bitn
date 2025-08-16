@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 J.A. Watt has been laid up with typhoid and rheumatic fever for nine weeks and was critically ill.  He is now slowly recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Scrubbers’ Camp Mine has improved so much that the proprietors have decided to offer it to a public company.  There are now several shafts on the property, all of them showing good signs and some yielding ore.  The soft nature of the ground means it can be worked for £3 to £4 per fathom.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

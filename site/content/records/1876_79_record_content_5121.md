@@ -43,4 +43,4 @@ Running High Jump 	440 yds Flat
 Boys Race 
 The prizes were substantial; even for the sack race (£1-1-0), the three-legged race (£2-2-0), tilting (saddle valued at £4-10-0), 150 yds for boys under 17 (£1-l -0) and other event offered £1-1-0 to £2-2-0. Entrance fees were 1/- to 2/- and 2/6 for the tilting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

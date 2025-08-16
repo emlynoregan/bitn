@@ -27,4 +27,4 @@ Letter from the Mayor, John Dunstan Jun. in response to a requisition to call a 
 
 ‘no possible good could come from such a meeting, as it could not interfere with the action of the Council, which is perfectly constitutional.’  It would provide a bad precedent.  He is confident he has the support of the majority of ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ Thus is added one more to those who have perished from time to time in the inhos
 
 Two accidents have occurred at the Burra Mine; last week a youth’s arm was broken by a fall of earth and yesterday a man’s leg was fractured when a large stone fell against it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

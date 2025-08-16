@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Joseph Leigh was charged by Sarah Jane Vivian with stealing a quilt from a box in the dance room of Opie’s Hotel on Sunday, January 20.  The prisoner tried to sell the quilt in Aberdeen and although he asked a ridiculously low price for it no one would venture to speculate.  Suspicion was aroused and subsequently M-C Mack got on the robber’s tracks and succeeded in finding him in the mine and on the same day the article stolen was found under a tree near Mr A. Fuss’s house.  The accused was sentenced to one month hard labour in the Redruth Gaol as a reward for his effort.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

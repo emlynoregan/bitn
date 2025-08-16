@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 Offences. Various people fined for stray animals in the town & one for depasturing stock on a stock road & not moving 1,800 sheep the required 5 miles per day. 
 Alfred Wilson got 3 months in Redruth Jail for stealing apparel from a tent of two young men called Metcalf at Mongolata on 8 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

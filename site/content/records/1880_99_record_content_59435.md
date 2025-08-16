@@ -28,4 +28,4 @@ Burra Town Council, 3 February.
 
 Concerning use of the Oval by the Show Society, Mr W. West, manager of the Burra Burra Mines, suggests an agreement be drawn up for the approval of directors.  It was resolved no further steps be taken at present in respect of sparrows, but poisoned wheat be laid in various reserves.  Other routine matters were attended to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

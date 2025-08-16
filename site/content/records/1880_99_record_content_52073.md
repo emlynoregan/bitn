@@ -27,4 +27,4 @@ Cricket.  At Mt Bryan.  First match of the season with the wicket in good order,
 
 Aberdeen 116 defeated Mt Bryan 16 & 51 by an innings and 39 runs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

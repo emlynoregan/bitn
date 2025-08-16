@@ -34,4 +34,4 @@ The meeting held a test election.
 
 Each person was asked to place a figure in the space opposite the name of the candidate he or she preferred, to vote for not more than six of the twelve and to indicate the order of preference by numbers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

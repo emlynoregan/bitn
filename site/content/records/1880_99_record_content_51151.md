@@ -36,4 +36,4 @@ The editor blames the Mayor and Councillors Parks and Hardy as the principals wi
 
 ‘It is high time the ratepayers took the matter up, and once and for all put a stop to the continual bickering for personal motives.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

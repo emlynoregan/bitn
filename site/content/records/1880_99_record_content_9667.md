@@ -30,4 +30,4 @@ Obituary.  Last evening [29 March] Mr & Mrs [Richard] Rogers of Gum Creek were t
 
 [But see V. 267. 10 August 1883, Page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

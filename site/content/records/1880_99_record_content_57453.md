@@ -52,4 +52,4 @@ Through the door it appeared that the highest tender for a shed to cover the nig
 
 After much acrimonious discussion it was decided to call tenders for a new assessment.  Council adjourned at 10.20.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

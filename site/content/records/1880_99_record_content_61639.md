@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mary Ann Wall, relict of the late Charles Wall of Hampton died in 25 December, aged 76.  She was a resident of Hampton for over 30 years and leaves three sons: E. Wall (Booborowie), T. Wall (Hampton) and George Wall (Blyth).  [Born Mary Ann Shepherd in England.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

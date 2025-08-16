@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Advt.  A cart and two horses will start at 8 o’clock Monday morning from Nicholl’s Lodging House in Hindley Street for Gawler Town, Light, Horrock’s and Hawker’s Stations and the Burra Burra Mines and then back to Adelaide.  Open to carry light goods and passengers out and light or heavy goods in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ publication_slug: record-1876-79
 
 Railways. Ed. on railways in favour of light lines and light engines to extend the line from Hallett to the NE and the Barrier Ranges [Broken Hill] Hallett to Gottlieb's Well [Parnggi Well since 1918], then the mail track to Parnaroo, Paratoo, Teetulpa, Bimbowrie, Outalpa, Boolcoomata & the Barrier. This would pick up gold at Ulooloo and Waukaringa and copper beyond that. [Broken Hill did not get going till 1885 and despite a touch of silver at Thakaringa and in the Silverton area in 1876, nothing much had developed by this date and the great expectation was for a copper discovery, perhaps as an extension of the lodes at Cobar.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

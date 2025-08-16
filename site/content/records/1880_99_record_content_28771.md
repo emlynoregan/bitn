@@ -29,4 +29,4 @@ Adelaide Criminal Sittings
 
 Grace Everett pleaded guilty to the larceny of 19 pairs of boots from the shop of Martin Pederson of Kooringa on 22 April.  She was sentenced to six months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

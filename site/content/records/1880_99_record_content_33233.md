@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Hanson DC ratepayers have agreed to a 1/- in the £ rate at a public meeting at Davieston on 27 July.  The Council began the year £100 in debt and intended to wipe it out, but flood damage has meant they will end £60 in debt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

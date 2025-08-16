@@ -56,4 +56,4 @@ On 6 February Cr Kitchen asked if it was all right for the Waterworks engineer, 
 
 Cr Parks said if a charge was made it should be substantiated instead of asking such a question.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Unemployment. Meeting at the Institute on 4 Oct. chaired by P. Lane urges a start on the Eastern Road via Nankivell's Gully and the Kingston St Bridge be started as soon as possible to relieve local unemployment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

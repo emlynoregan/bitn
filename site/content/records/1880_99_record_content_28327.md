@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Government had taken over the Waterworks on 1 April, when the lease ran out and apparently they intend to charge 5/- per 1,000 gallons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

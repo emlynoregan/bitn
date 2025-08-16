@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Tree Planting.  Two men have offered £10 and £5 respectively towards planting trees on the east side of the new road in Market St.  Altogether some £40-£50 is needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

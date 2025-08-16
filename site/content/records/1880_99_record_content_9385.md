@@ -44,4 +44,4 @@ Trips off the line of route either
 
 3/- per cab per hour OR 6d per passenger per ½ mile OR 2/- if the whole cab is engaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ This new Act will come into operation on 1 July 1868.  Its second clause require
 
 The penalty for overweight is 1/- for each hundredweight or part of a hundredweight.  Also the Act requires that the name of the owner be painted on some conspicuous part under pain of a fine of not less than 5/- or more than £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

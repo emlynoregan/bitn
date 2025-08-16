@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  Messrs Halls, Graham Dow, Nelson & Sellars were thrown from a trap at the Railway Station on Thursday when a young horse was frightened by kangaroo dogs.  Fortunately all injuries were slight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

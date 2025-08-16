@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Consols Copper Mine last week sent 4 tons of ore to the Wallaroo smelters.  Four claims have been secured by the syndicate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

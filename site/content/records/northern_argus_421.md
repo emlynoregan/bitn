@@ -28,4 +28,4 @@ Obituary.  Ted Williams.
 
 [Edwin Thomas Williams born 12 April 1904 Ironmine: died 5 November 1985 Clare.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

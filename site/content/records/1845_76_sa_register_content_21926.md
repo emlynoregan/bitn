@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advt.  Allotments in the Township of New Saddleworth will be offered for sale on Wednesday 3 June at 1 o’clock – the northern line of railway running through the township and the railway station immediately adjoining.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Kooringa Band of Hope’s magic lantern show in the Wesleyan Lecture Hall on 26 May was very successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

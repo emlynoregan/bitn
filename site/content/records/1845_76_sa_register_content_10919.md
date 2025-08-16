@@ -25,4 +25,4 @@ Iron Manufacture in Australia
 
 [In substance this (undated) reprint from the Mining Journal repeats the editorial 26 January 1857, page 2 and seems likely to have been the inspiration for that column.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

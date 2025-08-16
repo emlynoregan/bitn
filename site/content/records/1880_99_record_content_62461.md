@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Special Jubilee Service at the Bible Christian Church was a complete success.  Parents and friends as well as children turned out and filled the large building to capacity.  Special services at St Mary’s with the afternoon one devoted to children were also well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

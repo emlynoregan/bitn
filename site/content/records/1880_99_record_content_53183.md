@@ -55,4 +55,4 @@ Mr Nobes, manager of Parnell & Bowman, Moonta, was a heavy buyer of stock at Bur
 
 Mr Alford moved the Government allow holders of workingmen’s blocks on stock roads to exchange the same for other lands if available and agreeable to present holders.  2nd J. Lewis and carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

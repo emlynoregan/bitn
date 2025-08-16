@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 At Saddleworth on Good Friday Burra 62 defeated Saddleworth 11 & 41
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The alteration in Ward boundaries has been gazetted.  Councillors for the old Middle and South Wards will retire on 30 November.  The debt or credit of old wards will be equally divided between the new wards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

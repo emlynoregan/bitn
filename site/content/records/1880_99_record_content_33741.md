@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Mr William Hayes, formerly of Monld, a butcher, is wanted by Messrs W. Tyler & MacKenzie of Liverpool, Solicitors.  He sailed to Australia in 1855 in the Kooringa and was heard of from Burra Burra SA in 1856.  [Since Mold is not far from Chester and that in turn not so far from Liverpool Monld seems likely to be a misprint.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ reports that the United Friendly Societies Demonstration Committee met on Tuesday at the Institute with John Sampson in the chair.  Mr T. Pearce as Treasurer and G. Parks & W.H. Linkson as secretaries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  Various small works were ordered done and kerbing continued to be laid gradually.  Cr Harris moved that SAMA be asked to carry the water from their dwellings across the footpaths.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

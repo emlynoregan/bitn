@@ -25,4 +25,4 @@ Editorial on the need for political parties.
 
 And on the First Progress Report of the Civil Service Commission.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

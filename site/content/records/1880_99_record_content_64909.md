@@ -30,4 +30,4 @@ There has as yet been no reply from the Government to the Waterworks Deputation.
 
 Resolved to write to Hon. J. Lewis MLC asking him to see the Commissioner of Public Works as an early reply is needed to enable the council to deal with the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

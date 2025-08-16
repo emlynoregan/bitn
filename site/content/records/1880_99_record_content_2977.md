@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Gold indications have been found on land of SAMA’s near the town and Mr Bock has obtained rights to proceed over a portion of ground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

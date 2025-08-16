@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 `Business' complains of the poor delivery of letters to Kooringa. Last night, he says, the mail cart from the station did not arrive at the post office till after 10.00 p.m. He met a man in the street who had collected his letters from the Aberdeen post office and walked to Kooringa before the cart had arrived with the Kooringa mail!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

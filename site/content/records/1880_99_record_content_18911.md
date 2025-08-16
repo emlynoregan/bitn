@@ -46,4 +46,4 @@ The court gave a verdict for £4-15-0 stating that they did not think the defend
 
 [Note the surprising information that Mrs Austin seems to have used her drawing room not only while the smell was offensive before 16 May, but also until at least 10 July when J.D. Cave saw putrid meat there!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

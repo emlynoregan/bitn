@@ -29,4 +29,4 @@ Midland Road Board.  21 November
 
 The matter referred to at length in the editorial is mentioned, but it would not be as clear from this report as from the editorial what it was all about.  This report does contain Ridgway’s letter justifying the position of his buildings, which was presumably accepted by Mr Duffy, judging by his subsequent actions.  It goes into considerable detail
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -47,4 +47,4 @@ Patrick O’Connor largely confirmed his sister’s evidence and added that afte
 
 William O’Connor, father of the children said he did not know if Willie had caused the fire.  Willie was at present in Adelaide with his sister.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

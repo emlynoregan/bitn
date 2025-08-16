@@ -32,4 +32,4 @@ The bicycle events were also well contested with entries from Adelaide.
 
 Richards, the local champion, did not show out at all and apparently suffered from too much training.  We believe he also makes an error in riding both a racer and the pneumatic roadster.  The peddling of each is very different and one confuses the other.  He should stick to one if he is to do well.  Dun Morton did well in winning the one mile for ordinary bikes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

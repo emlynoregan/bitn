@@ -28,4 +28,4 @@ Redruth Court, 25 January
 
 Ellen Gay was fined 1/- plus £1 for damages following damage to the Burra Station refreshment rooms.  Given one month to pay or in default 7 days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather.  Some useful rain has fallen with ¾” at Burra and almost 1½” at Petersburg.  Broken Hill received just over ½”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

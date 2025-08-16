@@ -30,4 +30,4 @@ Mintaro News, 31 March
 
 New buildings are being or about to be erected, which will brighten the town, in which things have been very dull since the closing of Port Wakefield by the Copper Company.  Unfortunately our steam flour mill has broken some of its machinery and will be idle for a short time.  The owner of it is also owner of a public house, which has been refused a licence for three months.  Fortunately Host Torr of the Devonshire Arms has had his licence granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

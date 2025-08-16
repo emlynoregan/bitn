@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. T. Allen preached twice at the bible Christian Church on Sunday.  He was in charge here 15-16 years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

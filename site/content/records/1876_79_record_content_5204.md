@@ -33,4 +33,4 @@ On 11 Nov. Burra True Blues played Clare Young Australians at Farrell’s Flat.
 Burra 55 &3085 
 Clare 45 &57= 102
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

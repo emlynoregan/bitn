@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Review of the `Colossean Pantascope'. All the acts were good and the pantoscope scenes were of the postal route from New York and San Francisco to Australia. The Pacific Railway scenes were most striking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

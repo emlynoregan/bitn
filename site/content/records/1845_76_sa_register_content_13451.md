@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘A Northern’ writes questioning why the Manager of the English & Australian Copper Co. is allowed to load the truck of the Northern Railway with copper ore, at or near Kapunda, when no one else is allowed to load trucks with goods.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

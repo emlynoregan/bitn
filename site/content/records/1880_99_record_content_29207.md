@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter to the editor about the apparent lack of concern of the Board of Health re typhoid in Burra.  There was a case a few weeks ago at the Burra Hotel, but nothing was done.  Now three more cases are in town and a walk down many of the rights of way, even in the centre of town reveals ‘festering swamps caused by the constant soakage of impure liquids.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

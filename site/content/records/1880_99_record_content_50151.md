@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Loyal Burra Burra Lodge No. 10 MUIOOF has 295 members.  Receipts for the last quarter were £263-18-0 with outgoings of £277-12-8.  The sick pay account was for £175-6-8.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

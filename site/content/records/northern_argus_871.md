@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 BCS.  A concentrated immunization campaign will be conducted at the school shortly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

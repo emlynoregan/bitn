@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 The Northern Automotive Restoration Club will conduct its fourth annual rally over the October long weekend, with Burra as its destination.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

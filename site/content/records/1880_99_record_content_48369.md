@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Linkson moved that the Council be censured for their conduct concerning the breakage on Saturday night.  He held the Council should have been called together and repairs effected as soon as possible.  The Council did not do its duty to ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Picnic.  On Thursday before Easter the private schools in the north end of town had a united picnic. A conveyance was waiting at Mrs McLagan’s to take them to Mt Bryan where eatables and various sports and games were indulged in.  The Misses Rabbich provided a treat for their scholars in the schoolroom in the afternoon in the form of a tea with fruit and sweets.  Games were played and the Maypole dance performed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

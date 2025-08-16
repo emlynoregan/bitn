@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Charles James Webb, one time an employee of the Aberdeen branch of the National Bank of Australasia, has committed suicide by shooting himself on Henley Beach ‘whilst insane from ill-health’.  [Died 2 September aged 32.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

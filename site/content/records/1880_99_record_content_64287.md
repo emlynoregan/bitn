@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Legislative Council Election was won by Mr John Lewis.  He was well-known and was supported by the National Defence League which delivered a solid block of votes.  Pflaum and Haslam were for reducing the franchise restrictions for the Legislative Council and thus destroying the Council which has been a powerful check on hasty legislation.  Lewis was for the status quo and as most voters are property holders he gained their support.  ‘This was practically the test of the election.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

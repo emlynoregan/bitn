@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Agricultural Land Selection for the week ending 23 march at £1 per acre, with 10% deposit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

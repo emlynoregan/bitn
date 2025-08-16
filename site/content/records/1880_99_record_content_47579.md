@@ -46,4 +46,4 @@ Cr Kitchener moved that the meeting found the sentences passed were unjustified 
 
 The second part of the meeting was a shearing scene carried out under the supervision of Mr R.W. Smith and some splendid shearing was done by expert shearers now in the district.  The Burra Band attended and a collection was liberally responded to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

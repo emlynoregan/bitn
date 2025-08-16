@@ -43,4 +43,4 @@ Much of the difficulty came as a result of the unforseen depression and the non-
 
 If the constitution of the new Council does not suit, it is the fault of those who did not stand, not of those who did.  For the Mayor to resign seems very curious because if he deems the new Council to be not in the town’s best interests then he should stay there to counter the ill effects as far as possible - leaving, from his point of view, leaves the other side in possession!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

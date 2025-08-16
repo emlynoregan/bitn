@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Eastern Road - unofficial news that there will be a road to both Redruth and Kooringa, but that the cost of maintaining the Nankivell’s to Kooringa road will be the District Council's.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

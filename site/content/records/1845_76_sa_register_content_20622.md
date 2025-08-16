@@ -48,4 +48,4 @@ All the settlers want in this matter is the extension of roads – iron rails be
 
 As for a line beyond Pt Augusta – instead of borrowing heavily, it could be financed by land sales along the route, with some other encouragement from the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

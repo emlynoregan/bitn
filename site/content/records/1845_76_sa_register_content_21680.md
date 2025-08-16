@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 An address expressing sympathy to Her Majesty the Queen has been signed eagerly by all classes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 Letters to the Editor. 
 Thomas D. Jackson writes from Waukaringa announcing the sudden death of Henry Slate on the 27th Oct., leaving a wife and 9 or 10 children in Kooringa. Waukaringa inhabitants subscribed about £25-10-0 for the family and call on the paper to open an account to accept further donations.  [Henry Slate (age not given) married Eliza Edwards at St Mary’s Kooringa 19 September 1865. They had 7 girls and 3 boys: the first born 9 October 1866 and the last 24 October 1878.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

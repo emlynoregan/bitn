@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Accident at Kooringa.  Mrs Opie, a newly arrived occupier of a dugout, narrowly escaped death when part of the roof fell in.  Hearing some ominous sound above her, she managed to gather what she could while encumbered with an infant and tried to flee.  As she did so the fall of earth struck a large trunk on end and when this fell against her, she sustained a broken leg.  Her infant and her other children were saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

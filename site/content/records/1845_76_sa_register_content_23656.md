@@ -30,4 +30,4 @@ A list of subscriptions to aid the widow and children of Thomas Attenborough is 
 
 [The Governor started the list with £3-3-0 and so far it totalled £46-2-6.  Many managed £1-1-0 and the ever generous H.L. Ayers put in 10/6.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

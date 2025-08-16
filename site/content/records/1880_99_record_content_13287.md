@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Advt.  Liston, Shakes & Co. will sell for George Harry on 6 June at the Burra Hotel, the farm comprising section678 in the Hundred of Hallett of 517 acres divided into three paddocks with a stone house of two rooms etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

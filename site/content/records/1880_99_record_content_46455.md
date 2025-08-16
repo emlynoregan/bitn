@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 J.C. Sandland writes in support of a stock tax.  He accuses the butchers who oppose it of having vested interests in an unlimited supply of cheap meat from beyond SA so they can sell mutton at 4½d per lb when they pay ½ a head, or beef at 4½d per lb, when it costs them 5/- for 100 lb.  [60d per 100 lb.]  The Holder ministry should hold true to their principles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

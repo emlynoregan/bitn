@@ -75,4 +75,4 @@ He was further charged with embezzling several small amounts paid to the Lodge b
 
 J.E.H. Winnall, acting for the trustees had requested of the prisoner all books, moneys and keys.  The prisoner had given up the keys of the safes, but retained that of the office, promising to hand over everything in the morning and he would bank all money before 12 o’clock on Saturday 1 August.  He failed to do so and a warrant was issued for his arrest.  He was committed for trial on this charge too.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

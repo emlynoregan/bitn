@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Copperhouse School was inspected on 31 May and of the 30 pupils presented 21 were promoted and 6 obtained the compulsory certificate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

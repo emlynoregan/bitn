@@ -30,4 +30,4 @@ Football.  At a meeting at the Commercial Hotel of the Burra Football Club, Capt
 
 18 were picked to play against a team of Allcomers tomorrow afternoon, after which a final 20 will be selected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

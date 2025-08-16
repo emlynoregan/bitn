@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The editorials are wide-ranging, but many are concerned with the activities and policies of the Government in Adelaide and the editor’s interest in finance is apparent.  Often there are two or three leading articles that take up issues similar to those found in the editorial.  After that there are items of mainly local news, which tend on the whole to be fairly short.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

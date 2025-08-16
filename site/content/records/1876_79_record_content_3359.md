@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Bible Christian Sunday School picnic at Sod Hut 26 Dec. was very successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

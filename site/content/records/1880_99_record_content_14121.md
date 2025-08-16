@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘The Pinnacles’ about 11 miles east of Thackaringa and 11 miles southeast of Silverton is described.  This is where Mr Rabbich made his fortunate discovery we noted a week ago.  Then there are general remarks which point out that though a great deal of silver exists in the area the work so far has gone little beyond the prospecting stage and most of the ‘mines’ are as yet rather insignificant holes in the ground.  At present summer water shortages are severe and a major problem about which little can be done for the coming summer at least and many will be driven away by lack of water.  There is much speculation.  ‘Two [sic] much money is being asked at present for claims to give speculators a chance.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Despatched from Burra Burra Monday 7 a.m. and arriving Adelaide Tuesday 5 p.m.
 
 The Burra Burra postmaster is H.M. Boswarva.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

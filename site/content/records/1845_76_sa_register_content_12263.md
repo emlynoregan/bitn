@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The River Broughton Company has engaged four more miners making eight now at work and Mr John Snell has been appointed Captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

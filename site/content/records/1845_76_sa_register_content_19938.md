@@ -28,4 +28,4 @@ The Port Wakefield Tramway
 
 [Quite a long article reports evidence given to a select committee on this subject.  The conclusion is that the port might be improved at moderate expense and a tramway 26 miles long to the Broughton would be a great advantage.  It was far more difficult to get any agreement on the construction of east-west connections.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

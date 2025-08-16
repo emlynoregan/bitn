@@ -40,4 +40,4 @@ The Geelong Intelligencer of 6 December says the rate of extracting gold in the 
 
 [The Register continues to caution against going to the diggings; at least until March and gives some other details.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

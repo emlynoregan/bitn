@@ -30,4 +30,4 @@ Midland Road Board.  The Burra Town Council sought permission to improve the gra
 
 They also complained that the roads in town were being blinded when it was not necessary and roads were being injured thereby.  Referred to the surveyor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

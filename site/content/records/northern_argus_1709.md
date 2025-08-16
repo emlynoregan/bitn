@@ -33,4 +33,4 @@ Many relics of the busy mining days at Burra have been placed in the restored En
 
 [This is not quite accurate.  The real story is complex, but in outline, the reticulation of water from the Bon Accord in the 1870s was extremely limited.  It extended to only a handful of homes and was mainly directed to water troughs for animals.  It was not extended to Kooringa until 1884.  The water did not at this time come from the main shaft, but from one straddling the border of the property on Linkson Street.  The pumping operations were not transferred to the old main Bon Accord shaft until 1908.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ Kooringa News, 6 September
 
 The contemplated railway remains the chief topic of discussion.  The townspeople are determined to do all they can to get a railway to the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ S. Pearce moved the second motion ‘That this meeting protests most emphaticall
 
 [There is no indication here of the motion’s fate, but the editorial tells us it was ‘carried amidst loud applause’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

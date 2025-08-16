@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Children’s Picnic.  The cost of the special train etc. turned out to be so great as to render it impractical.  In its place a Monster Picnic was organised in Mr McCulloch’s paddock at Princess Royal.  Last Monday almost every available vehicle was pressed into service to convey the children and adults to Princess Royal and by midday perhaps 800 people were assembled there.  A public subscription supplied the youngsters with tea and cake and other refreshments, while the adults took their own provisions.  The crowd began to return from about 4 p.m.  Two slight accidents occurred on the return, though neither resulted in injury.  A cart was badly damaged when the horse bolted after the driver had alighted.  In the other case a wheel came off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

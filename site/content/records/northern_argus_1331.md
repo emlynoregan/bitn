@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Lions held their handover dinner at Burra Sports Complex 21 June.  Robin Eberhard is the new President with Ian Warnes as Secretary and Gary Tapscott as Treasurer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

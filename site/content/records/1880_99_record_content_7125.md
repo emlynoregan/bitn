@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Henry Pinch offers Pencarrow for sale by tender: comprising sections 44, 45, 46, 56, 58, 59, 169 for total 993 acres.  But for c.100 acres it is virgin soil.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

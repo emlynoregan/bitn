@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Salvation Army on Boxing Day will hold a public tea in the barracks from 1 p.m to 7 p.m. with a special meeting in the evening with Captains Swift and Dunn and Lieut. Stremple.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

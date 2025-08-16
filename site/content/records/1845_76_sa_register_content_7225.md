@@ -33,4 +33,4 @@ Gold mania has now been raging in Geelong for three weeks and enthusiasm has onl
 
 Gold digging is now a regular occupation in the Province of Victoria.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

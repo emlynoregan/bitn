@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  On the way back from the Coursing Meet on Thursday the front wheels of a buggy collapsed on striking a rut.  Mr H. McCullum was much cut about the head and Mr Haag was pinned to the ground, but extricated without much damage.  Had the horses not been quiet the results could have been fatal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

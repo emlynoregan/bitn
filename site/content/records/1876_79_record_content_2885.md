@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Corp. The bill to validate the council's rates finally passed the third reading in the House of Assembly & now just waits Vice-Regal assent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

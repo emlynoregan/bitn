@@ -27,4 +27,4 @@ Editorial on the Coming Elections.
 
 The editor urges people to attend the meeting at the Institute to hear from the five contenders for the two local seats so they can make up their minds on the policies espoused.  He was of the view that the women’s vote would have little effect, as 90% of them would vote as their husbands did.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

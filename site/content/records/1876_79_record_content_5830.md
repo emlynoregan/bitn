@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 The ruse seems to have worked and now ratepayers have an inspector at £30 higher cost than necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

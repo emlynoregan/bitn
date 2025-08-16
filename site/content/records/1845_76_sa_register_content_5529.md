@@ -26,4 +26,4 @@ Kapunda Races.  A two day meeting on the 26 & 27 December 1850 is reported.
 
 Burra Races.  Details are as yet unavailable.  [But the results of four races are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

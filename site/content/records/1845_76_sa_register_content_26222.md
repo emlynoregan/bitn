@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 William Stewart wishes to advise that he has taken the White Hart Hotel from his father, Alexander Stewart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

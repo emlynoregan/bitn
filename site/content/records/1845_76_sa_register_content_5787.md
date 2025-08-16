@@ -28,4 +28,4 @@ SA Elections
 
 The electors of Kooringa seemed determined that Mr Kingston, who is looked upon as the candidate of the Directors, shall not succeed without a contest.  When Dr Browne declined to stand they asked the popular Resident Magistrate William Lang to run and he has agreed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

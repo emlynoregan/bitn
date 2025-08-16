@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘One of the unemployed’ re distress in Burra.  It might be asked why they don’t go to Silverton.  Well (a) there is little to induce a man to go and (b) many have not the money to carry them there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

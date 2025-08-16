@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Rechabite Lodge.  Rose of Sharon Tent held its annual festival on Wednesday.  Captain Paull presided.  Mr Ward hoped that before long a female tent could be started.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

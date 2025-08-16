@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Joseph’s School Concert was held in the Institute last Friday in aid of the building fund, but drew only a small attendance.  There was a lengthy program.  The performance reflected great credit on those who tutored the young performers who deserved a larger audience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

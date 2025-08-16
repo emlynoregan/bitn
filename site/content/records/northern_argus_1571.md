@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 The Burra Swimming Pool Committee held an open meeting on Wednesday and attracted a good crowd.  Council has made $7,000 available in the budget this year and the committee will also have gate takings etc. at about $6,000.  The meeting decided that lawn mowing and removal of rubbish will be done by volunteers.  The pool requires volunteers as it has to be drained and repainted and the Health Inspector will be asked to report on the amenities block.  The AGM will be held on 24 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

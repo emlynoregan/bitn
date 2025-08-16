@@ -48,4 +48,4 @@ Elections: President, Mrs Maureen Wright; Vice-President Management, Helen Stock
 
 The guest speaker was Jeff Daniels, development officer from National Trust Headquarters who spoke on Heritage in Trust.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

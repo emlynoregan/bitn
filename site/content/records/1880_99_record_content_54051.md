@@ -83,4 +83,4 @@ This was an interpleader case where L. Day was the principal.  L. Day sought to 
 
 Luke Day v. J. Sampson for £14, being the proceeds of the sale of a horse and harness.  This was non suited after much evidence had been taken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 3rd Leader on the inquest into the death of Emma Patterson, aged two months, largely due to wilful neglect’.  The mother was aged 17 and gave very contradictory evidence and appeared delighted to have lost the child.  Though very poor, the family was provided with fresh milk every morning.  The mother was very fortunate to have escaped committal for trial which is probably only due to the doctor’s stating he had little expectation of the child’s recovery from the first time he saw it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Redruth Primitive Methodist Church Anniversary on 13 May had the Rev. E.J. Kemp (Bible Christian) as the preacher.  The service of song Whiter than Snow was presented in the afternoon and Rev. H.J. Parkinson officiated in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

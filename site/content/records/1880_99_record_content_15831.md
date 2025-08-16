@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 To save money one must reduce the total or reduce the amount paid from rates and thus gain subsidy.  This could be achieved by paying the Town Clerk for Waterworks related duties from Waterworks revenue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

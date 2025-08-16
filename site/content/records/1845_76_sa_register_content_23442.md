@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Northern Extension Railway.  Tradesmen and others have determined that if the Governor comes to open the railway he will be welcomed as heartily as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

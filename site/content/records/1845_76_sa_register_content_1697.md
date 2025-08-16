@@ -29,4 +29,4 @@ The cart left Harris’s Hotel on Tuesday morning and stopped at the Gilbert for
 
 Reformer is also reported to have swum across the Gawler River yesterday unaided, while all others crossed with the aid of ropes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

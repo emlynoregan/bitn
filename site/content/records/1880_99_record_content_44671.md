@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Royal Exchange Hotel has just been renovated by Sara & Dunstan and their men are now moving on to the Bon Accord Hotel where c. £120 will be spent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

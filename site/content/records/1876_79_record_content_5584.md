@@ -40,4 +40,4 @@ John D. Cave responds to the slurs cast upon him by Mr Lane at the dinner given 
 
 ‘Observer’ writes that he considers the whole debate re the former mayor reflects badly on the participants, but especially on those who profess to be strong Christians or are ministers of religion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

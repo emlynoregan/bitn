@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 BYMMIA, Friday 4 August, Free Trade versus Protection.  Mr Holder championed free trade and Mr Geake supported protection.  At the end there were 12 votes for protection and 1 for free trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

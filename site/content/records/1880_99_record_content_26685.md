@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Children’s Excursion Essays.   The works submitted were judged by Revs J.S. Wayland, W. O’Dowling and H.T. Burgess.  First prize went to ‘Happiness’ by Mary Clode, second to ‘Advance South Australia’ by Robin Dunville Morton and the third to ‘Full Bloom Rose’ By Ada Gray.  R.D. Morton is above school age: the others go to the Burra Public School.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

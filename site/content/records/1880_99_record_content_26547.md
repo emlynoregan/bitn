@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mr Glynn’s lecture on Woman, was only fairly attended.  It went well, but of the takings of £3-13-6, £3 went in expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Mr Pearse sued Stewart McWaters for assault
 
 The two are Baldina farmers and the fowls of one trespassed on the other’s wheat, which led to the assault.  McWaters fined £1 + £1 fees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Redruth News
 
 On 17 March a bushman going north with his wife and child was nearly drowned in the township.  It appears he mistook the ford made some time since by the Patent Copper Co. and got into deep water.  Had not Mr Stevens of Swansea Vale dashed into the water to liberate the horse from the shafts the passengers and horse would all have drowned.  This is the fourth accident this year near the same place and it is high time a bridge was erected.  People are tired of petitioning for it; clearly they are too far north to be attended to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

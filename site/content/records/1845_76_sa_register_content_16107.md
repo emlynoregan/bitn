@@ -57,4 +57,4 @@ In the absence of Mr Winship’s explanation we cannot tell the extent of his re
 
 It is said that the men who have already taken employment under Mr Winship are dissatisfied with their bargain and have written to their friends recommending that they should not leave their employment here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

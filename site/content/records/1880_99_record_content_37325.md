@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Professor’ Carter, the colt breaker, who recently went off with a horse of Mr T. Halls, has been captured in Bordertown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

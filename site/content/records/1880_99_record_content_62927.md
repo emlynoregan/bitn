@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt, the Mayor, left on Monday for the Wesleyan Conference in New Zealand and will be absent about five weeks.  F.W. Holder was selected for the last such conference about 14 years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

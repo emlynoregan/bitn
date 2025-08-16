@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Redruth Band of Hope met as usual last Tuesday in the Wesleyan schoolroom. There was a large attendance, but rather a poor program was gone through.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

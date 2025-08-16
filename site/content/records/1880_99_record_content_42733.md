@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 St Mary’s will stage a sale of useful and fancy goods and a strawberry picnic at the Recreation Ground shortly in aid of the new schoolroom.  There will be large tents and sports with a shooting gallery, maypole dancing etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -55,4 +55,4 @@ On Tuesday evening at the Assembly Room at the Miners’ Arms about 30 gentlemen
 
 R. Austin’s new premises at Aberdeen are now complete and at Kooringa many old places are being renovated.  The town has a much more cheerful appearance than three or four years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

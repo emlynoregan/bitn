@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 4th Leader on the immorality of creating and sustaining the working poor and a class of women who ‘live on weak tea and bread and work fifteen hours a day for wages which men will not accept’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

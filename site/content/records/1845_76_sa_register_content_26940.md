@@ -32,4 +32,4 @@ Political Meeting at Kooringa
 
 ‘Sir Henry Ayers had generally been obstructive.  There was a time when he was thoroughly obstructive to the working-classes of that district.  When the township of Redruth was being sold he did his best to outbid each tradesman and workman, so that the allotments were run up to a fearful price.  (A voice – “That’s quite true.”)’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

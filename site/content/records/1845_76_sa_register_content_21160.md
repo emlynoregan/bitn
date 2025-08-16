@@ -31,4 +31,4 @@ Powder them all until they cease to feel gritty and cram into pots or tins.
 
 When lit they would be visible for a great distance.  The cost could be reduced by using 2 oz antimony with 2 oz charcoal.  [Bengal lights were a form of firework producing a steady vivid blue light.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

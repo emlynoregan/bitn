@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 The Rural Expo organised by the United Farmers & Stockowners’ Association Burra Branch and held recently in Burra raised $1,220.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

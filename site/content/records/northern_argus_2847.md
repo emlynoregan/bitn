@@ -28,4 +28,4 @@ Obituary.  Ruby Pearl Midwinter.
 
 [Born Ruby Pearl Robinson 15 January 1899 Burra.  Married William Albert Midwinter in 1922.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

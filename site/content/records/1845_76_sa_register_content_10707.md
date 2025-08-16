@@ -25,4 +25,4 @@ Kooringa Post Office
 
 There is some talk of a public meeting to call for a new post office.  There is no place in the colony more in need of a safe post office.  No one can now safely deposit items at the post office.  Any person so inclined could easily break in and take such items when the postmaster is absent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Theft.  $1,207 was stolen from the Burra Hotel on the night of 22/23 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

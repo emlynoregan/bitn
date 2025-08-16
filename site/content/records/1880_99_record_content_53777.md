@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Gold.  There has been a good find of gold at [Hd of] Wonna [at Teetulpa] and the report on it reached the discoverers when they were at Ulooloo which gave rise to an unfounded story that the rich gold find was there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

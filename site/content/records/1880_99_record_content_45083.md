@@ -26,4 +26,4 @@ Editorial on The School Board Fiasco.
 
 The elective School Board system was inaugurated on Saturday and in the Burra District it failed.  Three members were to be elected by parents, but only one nomination was received.  The education regulations have no provision for this (unless clause 32 dealing with extraordinary vacancies is so construed).  We assume this will be the way out.  But why the apathy?  The very lack of power of the Boards is probably the answer.  They can advise repairs be done, but have not the power to act except in the most trivial of cases and in other cases are neither consulted or even advised of decisions taken.  They can summon parents of children who fail to attend and admonish them or excuse them or recommend prosecution.  Incredibly the Department supplies the Board with envelopes and stamps, but not with writing paper!  A peculiar specimen of Departmental economy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

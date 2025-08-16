@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Aberdeen Ballast Quarry.  At present Mr C. Rawling has a contract to supply 10,000 cubic yards of ballast.  It is broken from a slope 40’ high and thrown into drays and is being delivered to railway trucks for 2/- per cubic yard at the rate of about 500 cubic yards a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

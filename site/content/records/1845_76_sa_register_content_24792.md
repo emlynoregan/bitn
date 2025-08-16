@@ -34,4 +34,4 @@ Ministers of religion increased from 144 to 245.  Those employed in commerce, tr
 
 [Further details of increases in the ‘non-productive’ classes are then given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

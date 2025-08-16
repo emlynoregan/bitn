@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 The Waterworks has been carried on satisfactorily under the charge of Mr Lapidge.  The fire on 15 May destroyed a quantity of firewood and the fence.  Outlay for the year was £659-10-3, up c. £35.  The Waterworks pose an important question for the incoming council as in 1898 the current lease expires.  Shall it be renewed either with or without modification?  Should the council buy it outright and so arrange that a payment similar to the present interest payments would eventually liquidate the liability?  The Government rent on the works is £403-17-8.  [Interest on the capital account.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

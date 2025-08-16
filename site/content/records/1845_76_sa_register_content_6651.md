@@ -28,4 +28,4 @@ Immediate measures are needed to stop any further immigration ships.  So long as
 
 Fortunately SA can boast a race of men bound by no ordinary ties to her soil.  She will reap the reward of the system that has allowed the poor man to become a freeholder.  They will no lightly throw away the advantages they have reaped by the sweat of their brow.  On this security we rest.  There will remain enough sturdy arms and toil-hardened hands in SA among her freeholders to reap her harvests and shear her sheep, though hosts of the labouring population should, to their own bane, leave us.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

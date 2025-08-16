@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Kooringa Bible Christian Chapel held its anniversary services on Sunday.  Preachers were Rev. W. Davidson and Rev. S. Keen.  The tea and public meeting on Monday were well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

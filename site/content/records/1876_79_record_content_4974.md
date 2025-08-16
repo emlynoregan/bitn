@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Rabbit Bill has passed through the Houses of Parliament and the Lower House has only to agree to two or three minor changes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

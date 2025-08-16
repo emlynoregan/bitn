@@ -28,4 +28,4 @@ Advt.  St Mary’s Church, Sunday 13 December.  Archdeacon Dove will preach.
 
 The morning offertory will be in aid of the Distressed Farmers’ Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

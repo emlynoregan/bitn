@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Receipts totalled £31-7-0.  [For both occasions the cast is listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

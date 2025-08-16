@@ -39,4 +39,4 @@ From the profits of the Civic Ball $50 will go to the Community News and the bal
 
 District Clerk Rod Walsh has refused to comment on the claim that kerbstones have been removed from residential areas in Commercial Road to be used in the Market Square re-development.  The Burra Preservation Organisation has protested and the National Trust has asked shy the stones have been removed from existing footpath areas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

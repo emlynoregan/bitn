@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. held a social in the old German Chapel at Redruth on Thursday evening last.  Over 50 members sat down to a spread and there were toasts and speeches to celebrate the six months since the inauguration of the society.  Membership is now c. 70.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

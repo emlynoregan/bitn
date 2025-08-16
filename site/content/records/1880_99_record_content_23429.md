@@ -30,4 +30,4 @@ Public Meeting.  Only a few attended the public meeting chaired by the Mayor on 
 
 Holder considered that the work the Council had done and which was paid for by the ratepayer raised the value of SAMA property infinitely more than they had paid in rates ever since the Council was established, while the tenants who helped pay got no advantage.  He favoured assessments based on unimproved values, which would encourage development.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

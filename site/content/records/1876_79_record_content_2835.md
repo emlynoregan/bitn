@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 First Burra Show. Wed. 12 Sept, in the yards of the English & Australian Copper Co. The weather was poor with a bitterly cold wind and showers, but at least 1000 people turned out. There was a display of horses, sheep and implements in one yard and in the building there were vegetables, dairy produce, dogs, poultry, and a display of photographs by Messrs. Dobson of the Temple of Light, Adelaide. Mr C. Oppermann had a display of stuffed birds. A second yard held cattle. There were also Cheap Jack stalls and other games including twos-and-threes. There were refreshments with tea; coffee and `stronger liquors'. The prize list ran for about 2.5 columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

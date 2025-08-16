@@ -66,4 +66,4 @@ Asked to withdraw his motion Mr Sampson said, ‘The vital question is whether t
 ‘Cr Parks (promptly replying) It will be open Council.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

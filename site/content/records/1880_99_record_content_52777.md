@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cemetery.  Several mural statues have been added to the cemetery lately. Mrs William West’s grave is very nicely finished.  Other fine examples are on the graves of G.L. Hiles and Harry Edwards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

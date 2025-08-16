@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Scouts & Venturers have had a weekend camp at the World’s End Gorge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -31,4 +31,4 @@ For a man mayn’t have book larnin’, but still may know a lot
 
 If he’s got eyes to see with and knows just what is what.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

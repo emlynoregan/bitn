@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Geakes offer to light the lamps at the south end for £3-10-0 per quarter was accepted and Mr Tiver’s for £1-19-0 per quarter for the north end.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

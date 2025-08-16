@@ -56,4 +56,4 @@ Mr Hannaford said metal roads should not be constructed where railways were inte
 
 The Commissioner of Public Works, Mr West-Erskine, endorsed the need to increase the facilities for the transport of produce to market from the northeast.  He thought they should agree that the Government had lost no time in acting when its condition had been brought before them.  The Government could not make bricks without straw and until they had the legal funds and the legislative sanction to proceed, they could not construct the railway.  He assured them that as soon as possible railway extension would be undertaken, and while he could not say which line would receive priority, but rapid settlement in the area would warrant the Government in losing no unnecessary time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

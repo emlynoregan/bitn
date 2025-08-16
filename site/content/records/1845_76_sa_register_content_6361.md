@@ -67,4 +67,4 @@ William Hutchins identified some of the items as being stolen from his shop.  So
 
 In the meantime His Worship continued with the case against James Jones brought by James Pearce.  Jones had also been apprehended in connexion with the above case.  Pearce said James had assaulted him; apparently because Pearce had given the police some clue in the case.  James admitted the assault and was fined 10/- plus 21/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

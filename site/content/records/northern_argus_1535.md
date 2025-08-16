@@ -34,4 +34,4 @@ The Mezzanine Floor in the Burra Community Library is rapidly taking shape.  It 
 
 [Photo of Chief Librarian Colin Fidock in the partly completed room.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -36,4 +36,4 @@ W.A. Rabbich fined 2/6 for a stray goat.
 
 J. Tobin fined 5/- for a stray cow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

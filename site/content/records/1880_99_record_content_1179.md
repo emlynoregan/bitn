@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Father Kriesll has asked for a section of the cemetery to be set aside for Catholic burials.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Thomas Sharpener, aged 2½, died at Clare when he fell down a well in Mill St and drowned [Thomas Amos Sharpen was born 18 May 1881 and died on 25 August 1883.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Colonel Bailey and Major Spratt visited on Friday in connection with the annual effort on behalf of the Army’s social work.  An open-air meeting in Market Square at 7.30 was followed by one in the Barracks.  Proceeds were £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

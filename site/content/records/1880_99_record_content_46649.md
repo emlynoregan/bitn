@@ -56,4 +56,4 @@ If the Baldina Creek scheme was a success, as he was confident it would be, it c
 
 Cr Hardy moved a petition on protection for the Bon Accord crossing be prepared.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. F. Bromley advises he has removed to new premises lately occupied by Mr Ohlmeyer; having bought the latter's butchering business.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

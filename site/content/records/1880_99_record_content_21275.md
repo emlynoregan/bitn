@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Spence seems to have made up his mind before the deputation came and treated them most unbecomingly.  He told them they would have to take or leave the price set by the Hydraulic Engineer.  The agreement is that the Government shall construct the works and the Council shall have use of them at the cost price.  This attitude is untenable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

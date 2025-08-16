@@ -27,4 +27,4 @@ Marriage.  Mt Bryan Uniting Church 5 July
 
 Wade Brooks of Orroroo married Robyn Oakley of Mt Bryan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

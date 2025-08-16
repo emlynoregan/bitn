@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Council is to petition the Commissioner of Public Works for an extra £20Q for side drains and the metalling of the junction with the main road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -30,4 +30,4 @@ Advertisement.  Wanted, drays to convey emigrants and goods to the Burra Burra M
 
 Adelaide, 21 December 1854.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

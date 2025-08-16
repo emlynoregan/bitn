@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Accident.  Francis Smith was thrown from his horse on Sunday on the North Road and was transferred unconscious to the Burra Hospital on Monday. He did not regain consciousness till Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ Kooringa News, 17 October
 
 Rev. Stanton put on one of his entertainments at the Mechanics’ Institute on 16 October.  W.H. Rosman, Manager of the National Bank, chaired the meeting and said arrangements were in hand to have these entertainments monthly.  The object was to raise money to fund the purchase of music and to pay off the £7 still owing on the piano.  [The program is reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

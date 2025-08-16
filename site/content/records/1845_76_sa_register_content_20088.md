@@ -36,4 +36,4 @@ Their charges are the ‘reverse of moderate’, which is what they promised to 
 
 He also complains that accommodation in their conveyances is ‘generally very inferior’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

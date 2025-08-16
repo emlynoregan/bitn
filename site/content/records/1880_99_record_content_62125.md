@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Apoinga D.C. was the cause of 25 tons of chaff and 5 tons of pollard arriving at the Burra railway station on Monday & Tuesday, to be used as relief for 25 distressed farmers in Bright, Bundy and Apoinga – it also gave work to a number of teamsters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

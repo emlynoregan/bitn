@@ -33,4 +33,4 @@ Obituary.  Mrs McDonald, wife of Mr Alexander McDonald farmer and grazier of Hal
 
 She and her husband have lived in Hallett district for 33 years: 25 years on their own property and 8 in the employ of the late Joseph Gilbert of Mt Bryan.  Previously she lived 8 years at Utalpa and in SA for a total of 41 years.  [Catherine McDonald died 8 November aged 71.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

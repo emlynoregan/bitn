@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cr Hardy moved the Inspector be reappointed at £50 with all fees to go to Council.  He is Inspector of slaughter houses, weights & measures, under the Width of Tyres Act, lights on vehicles, public vehicles, Scotch thistles of all kinds, Ranger and Inspector of the Local Board of Health.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

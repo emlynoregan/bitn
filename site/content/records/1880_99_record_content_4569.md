@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 General Temperance Society.  John I. Sangster writes re the society and the change to the rules so that only total abstinence or use of alcohol only at meals are acceptable criteria for membership.  He goes on to discuss the high mortality rates caused by the excessive use of alcohol in the UK and Australia as well as the impact it has on general health and poverty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

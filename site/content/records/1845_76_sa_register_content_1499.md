@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Advt.  W.W. G. Nicholls on 13 May announces he is ‘Off to the Mines Again’ on Tuesday next at 10 o’clock with half the passengers brought down, the ‘Reformer’ stage-cart, the largest and most convenient spring-cart in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ The daily weight of letter-bags being:
 
 This makes 1,152 lb weekly, to which must be added Friday’s mail to the country at large and the mid-week mail to Port Augusta and Mount Remarkable, which must bring the postal traffic to 2,000 lb per week.  This weekly mail travels some 900 miles and much has to be done at night.  The mail does not reach Kooringa till 9 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

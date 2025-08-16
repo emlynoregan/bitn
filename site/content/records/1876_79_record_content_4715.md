@@ -33,4 +33,4 @@ Editorial on the Water Supply. What is being done?
 Pipes must be laid from the source to convenient points central to the houses not having a supply — say Paxton Square, Market Square and one or two other points in Kooringa, and four or five points in Aberdeen-Redruth. Each point to have a standpipe and trough. The water to be sold at so much per 1,000 gallons. A meter should check totals. 
 A house supply could be arranged for those houses where it was desired along the route of the main; to be metered and charged for, but with no cost to the non-users.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. Father Kriesll, who has for 14 years presided over the congregation of St Joseph’s is to go to Jamestown and will be succeeded by Rev. Father O’Dowling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

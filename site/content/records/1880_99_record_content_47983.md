@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Copperhouse Primitive Methodist Church Anniversary 1 & 2 January 1893.  Rev. R.J. Daddow will preach.  On 2 January public tea 5-7 p.m. and in the evening the Redruth Primitive Methodist Choir will render the service of song Nobody’s Darling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

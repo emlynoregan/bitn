@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 F.W. Holder, Treasurer, has introduced a bill to amend the Federal Enabling Act to stop payment of fees to delegates if the convention is further adjourned.  It will provide that after 30 September delegates will only draw fees for days on which they attend a meeting of the convention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

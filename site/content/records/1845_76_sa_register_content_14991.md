@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 An Accident.  Yesterday a young woman, the daughter of Mr Riggs, one of Captain Killicoat’s shepherds, was out on horseback when slack girths allowed the saddle to slip and she was dragged along the ground some distance before escaping the stirrup.  Mr Wilkinson was sent for when she was taken home and he found a dislocated clavicle.  There is no news of her progress since.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

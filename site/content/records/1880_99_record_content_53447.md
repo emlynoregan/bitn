@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Accident.  On Thursday Mr W. Pearce Sen. broke his right thigh when he was crossing a small bridge at the back of his premises in the dark.  He slipped and fell heavily into the creek.  He is aged 74.  Because he had said he was going to hear the Guards’ Band he was not missed and it was almost two hours later that a granddaughter went out and heard his groans.  She told her father who found the old gentleman in the creek, virtually unconscious.  He remained unconscious for some time after being carried to his room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

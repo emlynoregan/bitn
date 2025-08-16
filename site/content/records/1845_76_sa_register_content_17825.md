@@ -38,4 +38,4 @@ In the previous half-year ending 31 March 1864, 4,189 tons of ore were raised at
 
 Since the last half-yearly meeting the copper price has fallen from £116 per ton to £101 per ton and the good prices anticipated for the copper shipped have not been realised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

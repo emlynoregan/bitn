@@ -28,4 +28,4 @@ publication_slug: sa-register
 A few days ago I passed by a sheep station not 40 miles from Burra.  Sheep were dying of starvation in all directions and bodies lay all around.  The ewes were lambing at the rate of 60 in 24 hours.  Of the 50 I personally saw I noted only 6 take to their lambs.  The others went off without looking or caring.  Many of the ewes die in lambing or soon after.  The state of the land can be imagined from there being no rain since November 1863 to do any good.  I don’t see any lambs being saved; the ewes will have as much as they can do to save themselves.  I say all this because I have heard some persons remark a short time ago that reports of the runs on the Eastern Plains being hard up for feed were all bosh.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

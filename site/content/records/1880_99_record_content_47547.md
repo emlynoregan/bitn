@@ -38,4 +38,4 @@ Materials sold		7-9
 
 Cash in Bank		£140-0-8
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

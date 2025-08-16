@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 AO Foresters second Harmony Evening took place on Friday.  PCR Secretary Shortridge read The Charge of the Light Brigade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

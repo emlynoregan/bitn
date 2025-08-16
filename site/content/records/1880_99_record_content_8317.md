@@ -40,4 +40,4 @@ As a whole it was the best show held so far in Burra.
 
 1 coleus	3/-	1 rose	1/-]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

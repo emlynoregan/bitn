@@ -34,4 +34,4 @@ He was disappointed with the yield this year of an av. of 4 bushels per acre for
 
 He spoke of guaranteeing money lodged with the Savings Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

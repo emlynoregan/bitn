@@ -28,4 +28,4 @@ Advt.  Sandland & Son will hold a genuine clearing sale on 30 September for Mr S
 
 Large Hawker’s Van and set single harness etc.  A Lot of Drapery & Groceries & 3 tons of cut firewood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -35,4 +35,4 @@ Forty lots are advertised, of which 39 are vacant land.  The exception is Pt Lot
 
 [One interesting item is Lot 188 Chapman Street (Millerton) in the name of Rev. D.J.H. Ibbetson, who was Rector of St Mary’s 1855-61 and who died as Rector of St John’s Adelaide in 1871.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

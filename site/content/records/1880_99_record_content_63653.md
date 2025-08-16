@@ -35,4 +35,4 @@ Burra Hospital board.  New Board: Mr Harvey was elected Chairman for the year, r
 
 Charges for the new isolation ward would be considered on the return of Dr Sangster from NZ.  [I think this is the first indication that Dr Sangster was in New Zealand – interesting in that Dr Brummitt had been there for some five weeks at the end of 1897 to attend the Wesleyan Conference.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ The Great Exhibition in London
 
 SA will not be omitted for the display.  The Directors of the SA Mining Association have decided to send specimens of ore.  The collection has been open to rhe public prior to its shipment to London.  The most striking specimen is a block of blue carbonate, which has been named the punchbowl, having a diameter of 2 ft 6 inches by 1 ft 9 inches and weighing between 2 and 3 cwt.  The natural hollow in the centre is studded with the most brilliant crystals of different shades, which have the most beautiful effect.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

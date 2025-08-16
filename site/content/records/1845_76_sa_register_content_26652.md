@@ -54,4 +54,4 @@ Alfred Bradley, police trooper described the body when the matter was reported a
 
 [SA Deaths CD records the death of a 56 year-old male at Cartaupo [sic] on 26 September 1875, surname not recorded, first name Thomas.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

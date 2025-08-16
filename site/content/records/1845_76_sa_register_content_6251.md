@@ -47,4 +47,4 @@ At one point he said ‘The working man wants plenty of work.’  This was met w
 
 David Graham spoke briefly in support of Mr Stocks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

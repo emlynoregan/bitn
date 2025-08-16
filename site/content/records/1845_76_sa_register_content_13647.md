@@ -29,4 +29,4 @@ Kooringa News, 22 August
 
 A meeting of the River Broughton Mining Co. was convened on Friday to receive the reports of Captain Rodda, F. Ey and Messrs Dunstan & Gregor, who were sent to inspect the mine.  They reported very favourably and it was agreed to publish a prospectus shortly in the papers and to extend the number of shares and enlarge the capital of the company.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

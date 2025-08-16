@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Irish Relief Fund reports receiving £62,735 from Australasia, of which Adelaide sent £4,500.  The entire fund then stood at £100,649, of which about half has been distributed.  Adelaide has since sent a further £300.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

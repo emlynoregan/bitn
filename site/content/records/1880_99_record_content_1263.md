@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Kelly Gang.  Over three columns is devoted to the reappearance of the gang and then the final shoot-out and capture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

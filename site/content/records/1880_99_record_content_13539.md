@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Angus Mc Donald, an old man, [74] was found last Wednesday morning drowned in the gulf near Tassie’s Jetty at Port Augusta.  [Died 25 June 1884.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

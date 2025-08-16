@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 [SA Deaths CD shows the registration of death as Robert Burrill died 13 December 1875 at Manoora, residence near Manoora aged 26.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ Obituary.  On Saturday 24 March a shepherd of Mr William Dare found the remains 
 
 [There is no corresponding death registration.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

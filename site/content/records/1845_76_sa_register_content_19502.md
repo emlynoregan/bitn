@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 [Margaret Fitzgerald born 10 April 1863, Redruth: died 27 June 1866, Redruth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

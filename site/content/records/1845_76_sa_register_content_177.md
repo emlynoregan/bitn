@@ -30,4 +30,4 @@ When the Burra Creek or Monster Mine first came to be generally known, the great
 
 We may say that one object of His Excellency’s present excursion is to see a copper lode more than 12 miles long and of a greater breadth than the one on Burra Creek.  It lies some 8 miles east of Balhannah.  We might name a dozen other discoveries of great richness (omitting here the vast mineral deposits in the great district of Port Lincoln.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Mayor, Mr T.W. Wilkinson, has called a public meeting in the Institute on 11 March at 7 p.m. to consider the election.  The candidates are invited to address the meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘A Looker On’ writes in comment on a recent Clare-Mintaro football game, which Clare complained about, and among other matters the writer considers ‘had the Clare team (or at least some of them) keep [sic] out of the public house they might have done better in the match’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Afternoon sung service: Tom O’Jack’s Lad O’ Pit’s Hoile, Part I with Part II on
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

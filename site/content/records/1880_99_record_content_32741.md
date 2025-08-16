@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Committeeman’ saying that though the Institute Committee could borrow money they had such a struggle to pay off the old debt that they are reluctant to go into debt again.  The proposed changes would cost £400 or more and at 7% interest (which is the likely cost) this would be £28 p.a., which is rather more than the income from concerts and entertainments that would be unlikely to increase in frequency.  This does not take into account the repayment of principal.  Care is needed: the Glenelg, Hindmarsh and Semaphore Institutes have all had to be sold because of their financial burdens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

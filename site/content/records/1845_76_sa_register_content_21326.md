@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The large bonfire to honour the visit of HRH was located on top of Mt Rufus, from which it would be visible for up to 40 miles.  Some ill-disposed person set it alight on the Friday previous to the prince’s arrival.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

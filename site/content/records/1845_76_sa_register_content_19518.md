@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Dogs are still worrying sheep.  Mr Broad caught two in the act of killing a ram and tied them up pending identification.  In the night some persons cut the collars and the dogs have disappeared.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

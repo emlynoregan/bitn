@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Gymnasium Club. A fair attendance was obtained to form this club on Wednesday evening. W.C. Grasby took the chair. A committee of Messrs Cater, Grasby, Richards, Urwin and G. Dawson will ascertain costs of equipment and of a room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

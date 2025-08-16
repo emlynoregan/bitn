@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church anniversary at Kooringa.  The preachers were G.H. Paynter of Silverton and G.E. Rowe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

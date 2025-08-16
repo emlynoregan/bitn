@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 An Aboriginal skeleton was found by Thomas Warner at Mt Horrocks a few miles west of Burra while he was digging out rabbit burrows for J.C. Sandland.   M-C Benham visited and confirmed it was an old Aboriginal burial.  The bones were then reburied.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ The Appealina Mine is sending a mass of native copper, weighing 136 lb, to Adela
 
 The Weather in Kooringa has been very hot.  On Sunday it was 92°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -44,4 +44,4 @@ As a result the assessment drops from last year by:
 
 The huge fall in West Ward is due to the decrease in the value of one SAMA property from £1,000 to £700.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

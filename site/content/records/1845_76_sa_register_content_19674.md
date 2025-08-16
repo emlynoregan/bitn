@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The men lately breaking stone for the road were discharged last week and have been kept waiting for their money.  This is a great inconvenience as they could not leave to seek work elsewhere.  Many were again set to work on Monday afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  Francis Harris has taken over the business carried on under the style of J. Harris & Sons and is prepared to supply old and new customers with the best kinds of fruit and groceries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

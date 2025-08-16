@@ -32,4 +32,4 @@ Burra Mounted Infantry Co. is gazetted this week.  Almost 30 members have been e
 
 Messrs D. McCulloch, J. Lewis, J.J. Duncan, H. Vivian and W. Killicoat have sent donations to the sum of c. £40 for the Burra Mounted Infantry Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

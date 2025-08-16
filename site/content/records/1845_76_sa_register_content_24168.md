@@ -36,4 +36,4 @@ Ironmine Primitive Methodist Chapel saw its opening sermons preached by Rev. H.J
 
 The Redruth Choir sang well chosen hymns.  The new chapel was built by J. & T. Pearce of Kooringa for a total cost of c. £140 and the proceeds of the services were c. £40.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

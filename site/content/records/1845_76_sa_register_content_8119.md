@@ -26,4 +26,4 @@ Port Wakefield
 
 In 1851 sixteen square-rigged vessels used the port and 16 large barges and single-masted vessels.  The combined inward and outward tonnage was 22,880 tons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

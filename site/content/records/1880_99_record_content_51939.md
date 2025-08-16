@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 8 March.  Cr Parks inserted a notice in the paper affirming that the reports in the paper re the moving of the motion to rescind the Mayor’s report were perfectly correct and it was signed by Councillors Parks, Walsh, West and Linkson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

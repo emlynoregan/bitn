@@ -41,4 +41,4 @@ Despite a reputation a few years ago as a place where nothing would grow, Burra 
 
 [* The observation about Mr [H.C.W.] Fuss seems very strange, as his name does not appear once in the prize list.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

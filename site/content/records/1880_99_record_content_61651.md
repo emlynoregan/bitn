@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Weather has been very hot, dusty and dry with little feed about and people have had to dispose of stock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

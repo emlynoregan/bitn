@@ -28,4 +28,4 @@ Editorial on a current spate of charges against publicans for selling adulterate
 
 Apparently the proprietors of Wolfe’s Schnapps were taking action to preserve their reputation.  There is also a warning against cheap imitations of Wolfe’s Schnapps.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

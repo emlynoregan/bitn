@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Darren James, 14-year-old Junior Sports Person of the Year, has started this season well with 126 retired  in the junior team and then in the ‘A’ Grade match against Spalding he made 98.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

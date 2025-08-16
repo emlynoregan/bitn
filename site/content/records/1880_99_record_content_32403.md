@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from Thomas Best calling for flat stones to be placed in the bed of the creek near the Bon Accord Hotel to facilitate the crossing of sheep to the sale yards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

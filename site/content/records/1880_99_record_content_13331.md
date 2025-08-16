@@ -28,4 +28,4 @@ Obituary.  Rev. W. Asquith Baker, Presbyterian minister of Clare, died last Frid
 
 [William, died 23 May 1884 aged 39.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

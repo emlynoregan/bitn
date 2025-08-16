@@ -29,4 +29,4 @@ Kooringa Court, Wednesday.
 
 Louis Werndt was charged with stabbing Alfred Schutz in the back at the Commercial Hotel.  Remanded till 2 June. [Note in IV, 206, 9 June 1882 Werndt is called Womat.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

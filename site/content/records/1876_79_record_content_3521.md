@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. F.W. Holder takes over a shop in Commercial St selling school books, general books, stationery, paper hangings, patent medicines, sewing machines, Dobbies patent seed sower, novelties and toys. Previously conducted by Dr. Stephens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

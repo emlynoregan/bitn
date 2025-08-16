@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Letter to Editor asking whether the Burra Athletic Club is continuing or going `to die ... a comfortable natural death.' And what is being done with the surplus cash etc. I feel bound, says `Once a Committeeman', to ask for a meeting so funds can be disposed of in a proper and systematic manner.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

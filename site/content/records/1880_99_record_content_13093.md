@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [W. Fuss (i.e. H.C.W.) submitted a hand bouquet and entered the other cut flowers sections where he was 2nd for 24 cuts and 2nd for 12 cuts.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

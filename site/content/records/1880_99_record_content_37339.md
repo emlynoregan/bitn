@@ -29,4 +29,4 @@ J. Melville writes from Broken Hill complaining that he is well-known as a profe
 
 The editor gladly identifies the recent ‘Professor’ as using the name Carter while in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Crops from Hallett to Terowie and out to Wonna have been mown down by frost and farmers there will have to depend on new growth.  [Details next issue.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

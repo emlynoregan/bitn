@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Arragong Picture framing Services opened recently in Morehead Street and has now expanded to carry a large selection of posters, along with prints and paintings.  John Stivan is the proprietor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

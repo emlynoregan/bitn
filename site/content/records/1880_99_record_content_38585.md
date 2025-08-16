@@ -24,4 +24,4 @@ Editorial on Corporation Matters.
 
 There is a great apathy about the Corporation.  Within two weeks of nomination day little has been done to field candidates.  Once it was an honour to be sought; now ratepayers seem to scorn to be involved.  It is not in the town’s best interest to be represented inefficiently.  Even if people are reluctant to take on the work why are ratepayers allowing things to go on without making representations to good representatives?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mine.  Applications for the position of engineer will be received by Mr West in a day or two and when one is selected the work will proceed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

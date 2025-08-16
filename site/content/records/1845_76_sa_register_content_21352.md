@@ -27,4 +27,4 @@ State of the Crops
 
 Mr A.H. Forder of Kooringa says red rust is not perceptible, but black rust or blight is present in a few patches.  Not much loss is anticipated and the average yield should be 10 to 12 bushels per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

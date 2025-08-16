@@ -36,4 +36,4 @@ Late January spot price £85 and February delivery £84.
 
 1 March spot price £86 to £83 and by the end of the month it was £1 to £2 per ton lower.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

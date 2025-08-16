@@ -32,4 +32,4 @@ Terowie young Australians 78 & 42 for 1 (120) defeated
 
 True Blues 61 & 58 (119)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

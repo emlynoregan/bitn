@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Mr H.C.W. Fuss.  The many friends of this gentleman both in the town and district will be very sorry to hear he has been confined to his bed during the past few days.  Mr Fuss is a very old and respected resident, and how many are there in Burra who have not heard of or seen the beautiful flowers grown by him?  We trust we shall be able to speak more favourably as regards Mr Fuss’s health in our next issue.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

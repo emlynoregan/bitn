@@ -41,4 +41,4 @@ A public meeting was held at the Court House Hotel yesterday evening to afford M
 
 There is news today of the discovery of another rich lode at the Burra Burra Mine.  It is hoped this news may lift the spirits of tradesmen, who have lately had good reason to lament the dullness of trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

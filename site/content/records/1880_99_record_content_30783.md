@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Railway Accident.  The report of the Railway Commissioners on the accident near Yarcowie on 20 November in which two railway workers were killed, found that they met their death through disobeying established rules.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

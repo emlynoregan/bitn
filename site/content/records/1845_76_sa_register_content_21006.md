@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 The Cartapo Mining Co. has in its office in Adelaide a number of cakes of an alloy of copper and cobalt from their mine about 15 miles north of Burra.  About 6 tons of ore was smelted to yield 14-15 cwt of the alloy.  The ingots are supposed to be 50-55% copper and about 45% cobalt.  Some is presently being assayed.  A cake will be sent to England for the cobalt to be extracted by the wet process.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

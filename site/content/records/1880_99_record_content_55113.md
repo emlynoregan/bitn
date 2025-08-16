@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 15th race was from Tarlee on 31 October and 1st place went to T. Nicholl’s m. h. Minion & b. h. Nonpariel, covering the 43 miles 880 yds in 70 mins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

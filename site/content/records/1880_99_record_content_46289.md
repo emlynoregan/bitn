@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Farewell.  About 40 couples assembled at Fitzroy House, Redruth, on Monday to bid farewell to a young lady on her departure for Broken Hill.  Dancing was the main event of the evening, but a boxing saloon was set up and a number of swains entered the arena to do battle for the girls of their choice.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

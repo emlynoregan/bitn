@@ -33,4 +33,4 @@ The proprietors of the southern half of the Special Survey are providing comfort
 
 Nothing is yet known of the exploration party, which has gone so far north as Messrs White’s Station, some 150 miles from Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

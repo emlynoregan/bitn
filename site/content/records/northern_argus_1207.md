@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 The Copper Road Re-enactment plans are progressing.  Principal animal handlers will be Jim Kelly, bullocky of Naracoorte and Jim Lowe of Goolwa, muleteer and donkey team driver.  The ketch Falie will be at Port Wakefield to be loaded with copper ore brought by the bullock drays, pack animals and wagon from Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

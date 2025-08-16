@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the Parading of Salvation Army Brass Band through the streets.  The editor regrets the tone and argument taken by Captain Bonell.  Bonell’s objections that the Council it seeking to curtail the liberty to worship God is not at all what the Council sought to do and they would probably object to church bells as well were they mounted on wheels and carted through the streets to be rung on Sundays.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

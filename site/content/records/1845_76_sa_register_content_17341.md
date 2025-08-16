@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Several cricket matches were played on the ground opposite the Telegraph Station on Monday and races were held at Cross Roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

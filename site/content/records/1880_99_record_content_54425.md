@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Wed. 29 August at the Institute the Cantata Mildred & Patty.  An English Christmas Story in Sparkling Song and Dialogue for 36 voices.  Directed by Miss Amy Wylie.  1/6 (Reserved), 1/- and 6d.  To aid the Redruth Wesleyan Church deficiency.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Copperhouse School. A memorial is being prepared for the Burra School Board of Advice urging them to reconsider their late decision re the Westbury School. [This is presumably the same as the Copperhouse School.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

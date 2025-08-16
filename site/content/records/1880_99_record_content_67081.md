@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 PG T.T. Shortridge, acting for W. Davey, read the jubilee report, which outlined the history of the society.  The Order was established in England in 1809 and now has 804, 415 members with a capital of £9,657,460.  In SA it was established in Adelaide in 1840.  In 1868 the society in SA was divided into four districts.  In SA in 1898 there were 12,062 members and funds of £218-353-5-8.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

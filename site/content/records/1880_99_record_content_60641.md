@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Joseph Fogg, late secretary of the St Joseph’s Branch of the Hibernian Society, Kooringa, died some time ago.  He was mainly responsible for founding the branch and was its first secretary until poor health forced his resignation.  To mark their appreciation members set up a subscription list and have now erected a headstone with a suitable inscription over their late Brother’s grave in the West Terrace Cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 On Monday the children marched to the playground [?] where sports were held and then back to the schoolroom for tea.  Mr R. Ward supplied grapes.  The report at the meeting later showed 39 teachers and 247 scholars.  Mr J. Paull, who is removing to Strathalbyn spoke of his connection with the school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

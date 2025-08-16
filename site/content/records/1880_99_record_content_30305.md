@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy who writes [not surprisingly] complaining of W.R. Ridgway’s account for £2-10-0 for expenses incurred as part of the deputation re the Waterworks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

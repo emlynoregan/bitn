@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 About 18 vehicles and a number of horsemen followed the body of the late James Waite to the cemetery last Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

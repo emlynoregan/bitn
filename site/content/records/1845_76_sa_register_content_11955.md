@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Bon Accord Mine.  At Messrs Hall & Co. store in Grenfell Street there can be seen specimens of copper ore from the Bon Accord Mine.  They are to be sent on to the London Office.  They are fine examples and offer a favourable indication of the shaft from which they were taken.  Work there has stopped at present for want of means to drain the shaft.  The engine, we are told, is in the course of erection.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

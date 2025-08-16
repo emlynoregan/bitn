@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Pollution. Letter from "Fresh Breezes", complaining of the `offensive filth that is allowed to remain at the rear of premises occupied by several of the most influential men of our Corporation ... beastly filth to accumulate over two feet in depth.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

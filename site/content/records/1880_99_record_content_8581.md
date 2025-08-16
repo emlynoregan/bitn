@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Disgusted’ who is disturbed by the unburied bodies of sheep lying along roads and along fences in paddocks and desiring the Councils to attend to same.  He recently counted 10 on the road to Mt Bryan, 7 on the way to Davieston and several on the roads to Leighton and Baldina.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The cemetery has been maintained and improvements made so its account is in debit £66-3-2, but this will gradually decrease.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

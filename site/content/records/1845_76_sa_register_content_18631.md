@@ -42,4 +42,4 @@ Mr Challoner had said at the Burra meeting that the removal of the present road 
 
 A letter refuting certain statements in the Burra memorial will be sent to the Central Road Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

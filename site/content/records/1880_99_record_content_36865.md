@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Aberdeen Reading Room.  A permanent committee has now been established to further the cause.  The Kooringa Institute will not open a branch at the northern end of town.  A subscription list has been drawn up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

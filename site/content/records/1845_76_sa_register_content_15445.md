@@ -33,4 +33,4 @@ The anniversary of the United Presbyterian Church Sunday School was celebrated o
 
 Nothing has been done to the streets during the dry season and so when winter returns we shall be singing the same old song about their miserable state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

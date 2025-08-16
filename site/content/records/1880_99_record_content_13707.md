@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  George William Linkson died on 7 July at his residence in Redruth, aged 54, leaving a wife and six children.  He was a colonist of 39 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

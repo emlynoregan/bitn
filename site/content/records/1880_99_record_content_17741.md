@@ -29,4 +29,4 @@ Yorke’s Peninsula Mining Co.
 
 Report of a meeting in the secretary’s office in London says a move is being made to amalgamate with Ravenscliff.  Ravenscliff we believe holds a gold mine in New Zealand and a resolution was tabled for them to increase the capital by 100,000 £1 shares in order to buy YPM.  Subsequently YPM met and confirmed the desirability of a merger.  The object was to get the company out of the hands of the bank who presently hold it.  The assets were theoretically valuable, but in reality would only have worth if an injection of capital to work the assets were obtained.  The arrangements had to be made before May when the concession of time allowed by the bank expired.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

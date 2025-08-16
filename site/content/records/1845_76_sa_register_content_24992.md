@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mt Bryan East Agriculture.  The harvest continues and is turning out almost equal to expectations.  Locusts have done more damage in some places than was expected, but that is confined to small areas.  There has been some wind damage too.  Scotch thistles are a pest and cannot be controlled while the government roadsides remain an abundant nursery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

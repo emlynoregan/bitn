@@ -33,4 +33,4 @@ The Gawler terminus was gaily decorated and omnibuses and other vehicles carried
 
 [*The reporter’s account places the station a mile from the town.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

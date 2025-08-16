@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Madame Carandini and he accomplished daughters with Messrs Sherwin & Gordon gave concerts at the Burra Assembly Rooms to well-filled houses.  The audiences were very appreciative and demanded frequent encores.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -47,4 +47,4 @@ Further down Ulooloo Ck attempts to sink some 40’ have been frustrated by wate
 
 The field has been worked for 15 years continuously, but with sometimes only a few men, now there are about 100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

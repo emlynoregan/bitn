@@ -29,4 +29,4 @@ Seed Wheat Scheme.  Most applicants for seed wheat reside at Baldina.  There wer
 
 [They were required to make a refund when possible.]  Page three reports it had been arranged at a special meeting of the Burra District Council on 29 December from the Distressed Farmers’ Fund and the Seed Wheat Act of 1896.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

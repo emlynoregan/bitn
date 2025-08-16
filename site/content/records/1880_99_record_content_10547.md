@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Band of Hope entertainment in the Primitive Methodist schoolroom on Wednesday was well carried out, but the room was only about ⅔ full which was a pity.  The proceeds were c. £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

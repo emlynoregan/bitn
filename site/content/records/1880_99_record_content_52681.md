@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire.  It is believed a fire in Messrs E.C. Lockyer & Co.’s paddock at 9.05 p.m. on Monday was deliberately lit.  Only a few acres of grass were burnt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

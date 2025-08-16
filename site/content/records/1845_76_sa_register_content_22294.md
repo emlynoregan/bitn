@@ -45,4 +45,4 @@ It is surprising that both Sleeman and the Police-trooper regained the top in sa
 
 [See 17 November 1868, page 2 for identification.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -54,4 +54,4 @@ Mr Ridgway said he would address them on another occasion.
 
 All candidates were in favour of compensation for persons loosing [sic] property by fire from locomotives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ One who has a large area applied for four blocks for non-residence and expected 
 
 [These would have been small blocks perhaps more like the workingmen’s blocks that were the subject of enquiry earlier in the year, though they hardly seem suitable for the purpose unless irrigation water was to be made available too.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

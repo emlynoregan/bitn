@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Shearing.  About 50 shearers arrived in Burra by the first train on 30 July.  In two parties, they were transported onwards by three of Messrs Jackson’s coaches, heading for Mt Gipps and Sturt Meadows Stations.  They are the first shearers sent north from Adelaide for this season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

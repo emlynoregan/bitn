@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Weather.  Crops are looking good due to the good early rain, but with recent frosts we will need heavy falls soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

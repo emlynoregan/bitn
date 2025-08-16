@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr G. Mayger is growing vegetables in his garden near the Recreation Ground.  While such are available we need not be dependent on outside supplies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

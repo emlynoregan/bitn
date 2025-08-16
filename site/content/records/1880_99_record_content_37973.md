@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Lady Kintore, the Governor’s wife, has recently pleaded ‘lack of accommodation’ in limiting her ‘at home’ to 300 guests.  Previous occupants like Lady Fergusson have managed almost 1,000.  In fact Lady Kintore has taken a dislike to certain people and so has used this excuse not to invite them or their friends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

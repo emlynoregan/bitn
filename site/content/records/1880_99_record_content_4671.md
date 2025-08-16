@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Market Street tree planting has commenced, but c. £10 more in subscriptions is needed to complete the job.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

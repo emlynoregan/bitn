@@ -36,4 +36,4 @@ The past week has been very wet.  It started with a sharp shower on Saturday nig
 The little chapel, Paxton Square, belonging to the Congregationalists and latterly used for divine service by the Welsh Church has been thoroughly repaired and renovated and on Sunday was re-opened by the United Presbyterians; Rev. W. Davidson of that body intending to settle here.  Services were conducted in the morning by the Rev. Davidson, in the afternoon by Rev. Whittaker and in the evening by Rev. Lloyd.  It was exactly ten years since the chapel first opened for public worship.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

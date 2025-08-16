@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mr Kitchen has now also been charged with other fraud offences: £300 on 11 June 1895, £75 in July 1897, £110 on 20 November 1897 and £9-2-0 on 26 January 1898.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ John Nankivell had been working at the 20 fathom level when he heard that a boy 
 
 [Thomas Turley died 25 January 1856 aged 12.  BISA adds Thomas Henry Turley and says he arrived with his family from Kent in 1848.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

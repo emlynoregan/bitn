@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra District Local Board of Health has instructed its secretary to call a special meeting if the Burra Corporation communicates any matter requiring attention.  [A reference to the inspection of meat issue following the pleuropneumonia outbreak.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

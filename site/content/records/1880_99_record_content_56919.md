@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Women’s Franchise.  We understand c. 2,000 names have so far been received in this district.  The word ‘occupation’ seems to be causing the most trouble.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

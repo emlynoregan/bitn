@@ -56,4 +56,4 @@ Immigration had been overdone, but it should not be altogether stopped, but bett
 
 As Mr Neales had said the present land purchase system was rotten.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

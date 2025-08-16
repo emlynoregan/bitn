@@ -32,4 +32,4 @@ The half-yearly report of the Directors is not as gilded as before, but they hav
 The expenditure of the Association in SA for the year ending 30 September 1850 was almost a quarter of a million pounds.  The effects of this injection into the economy of SA was felt everywhere.  In the 12 months to 30 September last the sum expended in SA was £196,315-7-6 and no less that £159,973-8-1 was in channels where it was likely to become immediately and abundantly productive.  In wages, salaries, cartage, fodder agency and the preliminary outlay at Karkulto the outlay was £96,753-8-1 and dividends have amounted to £63,220.  Additions to our currency have thus more than averaged £3,000 per week.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

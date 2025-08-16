@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 My Sweetheart was staged at the Institute on Thursday to an appreciative audience.  It starred Mr Willie Freear who will return with his own company in about a month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

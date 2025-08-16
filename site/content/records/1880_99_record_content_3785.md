@@ -57,4 +57,4 @@ Total	1402	806	512	524	567
 
 The editor was clearly disappointed with Rees’s loss as he felt that he had worked hard for the electorate.  He was obviously disgusted with Ward’s winning the 2nd seat as, in his view, he was a thoroughly unsuitable man for the job.  He was also much against the plumpers who apparently greatly affected the results and contributed substantially to Ward’s victory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

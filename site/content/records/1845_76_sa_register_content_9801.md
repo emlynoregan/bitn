@@ -36,4 +36,4 @@ The company is sinking a suitable shaft on their Karkulto property, with a view 
 
 The exports of copper from the Burra Burra Mine this year are likely to add considerably to the wealth of the colony as well as to the fortunate owners of the company.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mt Bryan Road.  Following the deputation of 2 October and the subsequent decision by the Central Road Board to spend the whole of the Northern contingent fund on the Mt Bryan Road, great promptness has been shown by the authorities.  Mr Morris the Superintending Surveyor of the Northern District has also acted promptly and the road is now in splendid condition and has carried all the traffic that was detained owing to its state of disrepair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

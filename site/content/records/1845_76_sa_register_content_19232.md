@@ -29,4 +29,4 @@ Kooringa News, 5 April
 
 Easter Monday saw a large number of tea meetings in the town and district.  The Church of England congregation were entertained by their minister Rev. L.W. Stanton at a private tea meeting at the Grammar School.  He read to them from popular authors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

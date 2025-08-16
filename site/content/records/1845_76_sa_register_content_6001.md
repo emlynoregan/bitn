@@ -33,4 +33,4 @@ Latter from Samuel Stocks [Sen.] to Mr John Smith, butcher of Kooringa, 9 April 
 
 Court of Revision.  The Government has decided that because Me Lang came forward as a candidate, he has disqualified himself from sitting in a Court of Revision.  Mr Dashwood has been appointed to convene the Court of Revision in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

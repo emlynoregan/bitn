@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  On Tuesday morning one of the rooms of the Burra Hotel caught fire and but for a timely discovery the whole might again have been reduced to ashes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

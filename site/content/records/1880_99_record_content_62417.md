@@ -31,4 +31,4 @@ James Gully fined 2/6 for each of two children who failed to attend school as re
 
 Sophia Bennett was fined 2/6 on a similar charge, but David Kemble got off by proving his son was over age.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

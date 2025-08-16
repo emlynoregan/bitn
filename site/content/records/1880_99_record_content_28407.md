@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Black George Mining Co. held a meeting at the Institute on Wednesday.  It seeks to mine a copper lode at the Black George Well, Redruth.  100 shares of £1 each are to be offered: paid to 5/- on allotment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

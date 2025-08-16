@@ -27,4 +27,4 @@ Rifle Clubs.  Regulations published this week relate to rifle clubs formed under
 
 Such clubs can be formed to encourage rifle shooting if not less than 15 members including a Captain and two committeemen send their names to headquarters and are subsequently gazetted.  The property of the club vests in the President who is answerable for club discipline.  Martini-Henry rifles will be supplied (part-worn) at £2 and an ammunition box of 1,000 rounds MHR for £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

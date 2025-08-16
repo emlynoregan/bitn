@@ -31,4 +31,4 @@ Accidents at Kooringa
 
 On Monday afternoon Richard Newman, employed by the SA Carrying Co., broke his leg in jumping over a manger at their Burra stables.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

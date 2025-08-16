@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Grand Military Ball for 21 October was arranged at a meeting held at Vivian’s Hotel on Friday: the first such event in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

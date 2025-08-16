@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The police report they intend to withdraw one trooper from Redruth, but to continue with one foot constable at Redruth and one at Kooringa.  The Council did not see the need for a foot constable at Redruth and decided to see the Commissioner of Police.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Birth.  To Rodney & Meg Dohse at Burra Hospital this week, a daughter, Stephanie Frances.  A grandchild for Colleen & Ashley Woodgate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

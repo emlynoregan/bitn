@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Public School prizes will be distributed at the school at 2 p.m. Thursday.  About £10 worth will be awarded: the proceeds of a concert earlier in the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

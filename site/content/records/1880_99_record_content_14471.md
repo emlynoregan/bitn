@@ -46,4 +46,4 @@ A long discussion on the Aberdeen Reserve followed.  A move to turn it into a to
 
 The Hydraulic Engineer will be asked to re-connect the Aberdeen water trough with the water main until the new arrangements are complete.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

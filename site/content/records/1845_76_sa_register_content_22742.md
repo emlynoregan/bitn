@@ -28,4 +28,4 @@ publication_slug: sa-register
 Northern Extension Railway.  By about noon today plate-laying should have reached Stockport.  Engines should be able to cross Hamley Bridge about Monday next.  It is hoped the Government will dispense with some red tape and allow the carriage of wheat, flour and other stores as soon as the station is ready.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

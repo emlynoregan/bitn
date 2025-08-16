@@ -44,4 +44,4 @@ I have the honour to inform Your Excellency that telegraphic communication is th
 
 “God Save the Queen.”
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

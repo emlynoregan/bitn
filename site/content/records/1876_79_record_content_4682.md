@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Local History. The first of a series of 4 sketches on Burra by the editor will appear next week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

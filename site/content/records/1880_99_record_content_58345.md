@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A.C. Noyes of this town has written a catchy piece of music called The Cyclist’s Schottische.  It opens in the key of F, followed by the key C, the trio being in B flat.  Copies will shortly be available from the composer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

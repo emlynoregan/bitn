@@ -59,4 +59,4 @@ After a long period without water the Burra Creek has been flowing and is interf
 
 The guarantee of the promoters of the Burra Grammar School has now expired.  Three years ago thirty persons guaranteed 12 guineas a year to start the school under Rev. L.W. Stanton MA, who was brought from England to superintend it.  The scheme has been a failure, though Mr Stanton’s services have been secured for a further six months on a smaller guarantee.  It is unfortunate that a superior school under a thoroughly efficient teacher should go down for want of support.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

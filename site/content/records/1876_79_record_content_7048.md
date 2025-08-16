@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Ulooloo. A party of men have begun sinking on the Ulooloo goldfield to find the quartz reef. Some ten years ago gold was discovered and much alluvial gold was taken, but shortage of water was a problem. And also the reef was not found, though veins of quartz were not hard to discover.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The bullock’s hide punt at Gawler was again in use last Thursday.  Two men embarked, but the vessel capsized.  One man, who was a strong swimmer, got himself out of the torrent, but the other would have drowned, but for the prompt assistance of others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

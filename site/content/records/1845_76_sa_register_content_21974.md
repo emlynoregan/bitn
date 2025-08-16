@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Wesleyan Mutual Improvement Association held its annual soiree on 25 May in the Wesleyan Schoolroom.  Rev. D.S. Wylie presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

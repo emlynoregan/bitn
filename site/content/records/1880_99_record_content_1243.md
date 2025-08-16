@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Train Service.  From 1 July 1880 a passenger carriage will be attached to the daily goods train to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

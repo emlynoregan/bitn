@@ -27,4 +27,4 @@ Inspector Gray went to inspect a house at the northern end of town last week and
 
 [See later report]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

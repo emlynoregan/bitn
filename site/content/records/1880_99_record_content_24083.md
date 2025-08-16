@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  The news is not cheering.  Departures are now numerous and none of the new rushes has proved payable and all the gold being got comes from the old places.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

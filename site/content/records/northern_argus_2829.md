@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Obituary.  Mrs Anne Perry, wife of former District Clerk Tom Perry, has died in Adelaide.  She was a teacher for many years.  [Born Annie Morrison 11 August 1910 Whitwarta.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

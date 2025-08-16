@@ -44,4 +44,4 @@ Various votes of thanks followed and the meeting ended with ‘God Save the Quee
 
 Several of those present entered their names as subscribers.  About 250 attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

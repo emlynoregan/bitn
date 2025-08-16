@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  Reports say there are now not much more than 100 persons at the diggings, but that those are earning wages.  The public house is much quieter than when it was first started; the presence of police being a wholesome check.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

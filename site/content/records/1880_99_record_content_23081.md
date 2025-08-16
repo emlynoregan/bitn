@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Chess Club has been formed which has non-exclusive use of the Institute amusement room on Tuesday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

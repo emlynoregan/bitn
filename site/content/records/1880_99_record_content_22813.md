@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 There was a long debate on the need for an inspector when the Council is not carrying out significant work, meaning there was little for him to do in the next six months.  Votes were even and the Mayor used his casting vote to defeat the motion to rescind the inspector’s salary.  Applications for the office will therefore go ahead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

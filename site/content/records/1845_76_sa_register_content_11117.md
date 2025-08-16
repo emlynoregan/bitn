@@ -40,4 +40,4 @@ The Bishop and Rev. Ibbetson have just started on a missionary tour to the far n
 
 The mail cart arrived this afternoon (Friday 16 October) at the usual time, but instead of the mail from Adelaide it brought the mail sent from here yesterday morning.  It seems the blunder occurred at the Kapunda post office.  An express has been despatched this afternoon, so as to reach Kapunda with the mails before the time for starting in the morning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ SA Mines
 
 [A list of SA Mines indicates their position by longitude and latitude and suggests that at the end of 1861 there were 38 copper mines in operation, one producing copper and lead and four silver and lead.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

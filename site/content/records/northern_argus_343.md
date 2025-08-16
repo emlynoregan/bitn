@@ -30,4 +30,4 @@ Obituary.  Mrs Ellen Ryan of Burra died in Adelaide last week aged 95.
 
 [Born Ellen Mary McCabe 8 February 1889 Broken Hill: died 17 October 1985 Cowandilla.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

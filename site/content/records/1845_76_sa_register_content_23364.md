@@ -71,4 +71,4 @@ Including Tarlee eight stations have been erected on the line at an average inte
 
 The permanent way has been laid with rails of 40 lb per yard.  The engineer would have preferred 60 lb rail, but it has been made uniform with the line to Roseworthy.  Effort has been made to ensure maximum solidity by using sleepers of picked gum from Glen Para, 9 ft x 9 inches and 4½ inches thick, spaced at 2 ft 4 inches and well packed on hard stone ballast.  [Further details are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

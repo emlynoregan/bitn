@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Advertisement.  Township of Greenock.  This township, now being laid out, commands the leading lines of transport from Angaston, Wheal Darton and Kapunda.  Applications for allotments to be made to Mr Forster at Greenock Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr A.C. Noye’s Concert to aid the poor was successfully staged last Wednesday and despite a cold night the hall was crowded.  The concert id reviewed item by item, but the sum raised is not given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

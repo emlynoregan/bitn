@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Entertainment.  A varies program of songs etc. was presented at the Institute on 26 December.  Performers received a fair hearing.  It is notable that a local vocalist appeared under a nom de plume and ‘dressed up in the dress of a nigger with the necessary “burnt cork deception”’ and was well received.  Even friends, who wouldn’t have applauded him for sovereign, indulged in a really hearty call for an encore.  We all too often find a reluctance to applaud local talent while visitors of equal or inferior talent are encored.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

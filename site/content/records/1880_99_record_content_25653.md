@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Migration.  For the first quarter of 1887 SA gained 4,945 people and lost 6,978 by sea.  There were 5,700 departures for Victoria and 3,736 arrivals from there.  [Note that these figures do not take into consideration the significant loss to NSW in the Broken Hill area.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

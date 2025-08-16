@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 William West and his daughter were involved in a nasty incident with a bolting horse brought about through a defective brake last Wednesday evening.  Despite a very dangerous drive the party was finally able to get things under control.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

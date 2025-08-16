@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Railway Accident.  A child [unidentified by the paper] fell out of a train somewhere last Thursday and was taken to Riverton for medical treatment.  It ‘had its chest smashed, in addition to being seriously cut about the head and face’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

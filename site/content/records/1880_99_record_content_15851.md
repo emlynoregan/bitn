@@ -36,4 +36,4 @@ There were 83 male and 87 female scholars and 16 male and 14 female teachers.
 
 There was a presentation to Miss Mary Pearce, the organist, who is leaving Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

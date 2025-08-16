@@ -36,4 +36,4 @@ The other’s theme is Christ’s blessing the bread and the wine.  This has as 
 
 [These two windows were subsequently removed from St Mary’s on Limestone Hill to the new St Mary’s where they can still be seen (January 2012), though I cannot see the text cited for the Winnall window and the bread and wine blessing is obscure.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

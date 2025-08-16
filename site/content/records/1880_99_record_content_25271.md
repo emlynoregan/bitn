@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 He also comments on the Government Geologist’s Ulooloo Report of which he considers ‘the portion of the report referring to results and prospects of the field, is one of the most glaring misrepresentations imaginable’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

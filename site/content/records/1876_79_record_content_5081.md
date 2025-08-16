@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Editorial on Burra Cemetery. The need for more room grows urgent. There seems some difficulty in getting the title from SAMA. Also there is a need for a water supply at the cemetery. There is a spring in the hills just above the enclosure and it should be easy to bring down a stream of fresh water to the plants in the cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

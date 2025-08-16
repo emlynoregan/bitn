@@ -37,4 +37,4 @@ On 23 September the local directors of the SA Mining Company, Messrs J. Baker, G
 
 The point of their objection was that the company had paid £20,000 for 20,000 acres believing in good faith that it included all ‘timber, minerals and appurtenances.’  The payment of their purchase was effected in England on 11 July 1845, but on 5 March 1846 the SA Government Gazette announced that the Lieutenant Governor had imposed a mineral reserve of royalty of one fifteenth portion of all metals and ores containing metals on or under the waste lands of the province: effective immediately.  In accepting the land grant they registered their denial of the legitimacy of this act as not being authorised by an Act of the Imperial Parliament.  [Their protest in all its convoluted and protracted legal terminology is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

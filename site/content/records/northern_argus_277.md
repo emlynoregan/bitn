@@ -50,4 +50,4 @@ Local organisations did well catering for the crowd.
 
 The Copperman Event involved rowing a canoe 200 m, eating some strawberries and cream, sitting on a vertical drum and paddling across the creek before walking across the creek on two ropes.  Brenton Gambling was the winner with Ian Kleinig as runner-up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

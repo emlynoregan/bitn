@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  McLaren, White & Co. offer 6415 sheep on 20 February, and they look like doing a good share in this the largest stock market in SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Notice.  J.M. & H.P. Hirschausen of 6 St Just Street, Burra, are applying for th
 
 [Lot 78 is on the eastern side of Drew Lane.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

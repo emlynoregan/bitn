@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The Wesleyan Young Men’s Class celebrated their first anniversary last evening with a tea and public meeting; both of which were well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

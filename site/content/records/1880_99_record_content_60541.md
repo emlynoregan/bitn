@@ -38,4 +38,4 @@ William Fletcher said he had offered a partnership initially for £50. His broth
 
 The SM said no agreement had been signed, nor was the plaintiff’s name on the licence.  He found no evidence that any partnership was ever intended and gave a verdict with costs for the full amount claimed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

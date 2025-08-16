@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  When the overland telegraph was interrupted on Friday a patrol sent to see to it found an unidentified male body at the site.  It is supposed he cut the line in an effort to summon help, but died before it arrived.  [Perhaps the 50 year-old unidentified male who died at Kanyaka 23 February?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Joseph’s School Entertainment on Wednesday evening drew a large audience to the Institute and school funds benefited by c. £15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

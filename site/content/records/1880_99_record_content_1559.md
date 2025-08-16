@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Marriage.  Milton M. Maughan and Eliza A. Torr on 6 August at Mintaro.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

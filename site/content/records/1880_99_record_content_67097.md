@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Toasts were proposed by: Rev. S. Wellington, W. Pearce Sen., J. McLaren, J. Jenkins, Dr J.I. Sangster, E.A. Pearce, C. Fuss & T.T. Shortridge.  [Considerably more detail is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

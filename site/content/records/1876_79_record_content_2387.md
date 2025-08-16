@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Assoc. will hold a grand soiree in the Kooringa Wesleyan Schoolroom next Wed. An `unsectarian' evening of addresses, readings, recitation and song.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

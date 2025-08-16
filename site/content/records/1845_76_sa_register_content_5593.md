@@ -43,4 +43,4 @@ I took up my quarters at the residence of the hospitable clergyman and sallied f
 
 I descended one of the shafts 35 fathoms and, accompanied an obliging miner with a candle in one hand, now stooping, now crawling, now ascending, now descending through gallery, pit, adit, level etc.  The commentary suggested that the mine had been sinking, filling up places and rendering some very dangerous.  The ore seemed to be mixed with the earth, not in veins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

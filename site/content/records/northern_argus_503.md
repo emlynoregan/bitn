@@ -29,4 +29,4 @@ Marriage.  At Aldgate on Saturday
 
 Amanda Cockington, daughter of Dudley & Jan Cockinton of Redcliffe Station, married Stephen Richards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

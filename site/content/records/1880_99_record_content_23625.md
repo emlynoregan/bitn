@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield was visited by T. Warnes and G.W. Sudholz of the Alma Mine and they reported good alluvial fonds, but no surface water.  Water lies at 25’ They estimated over 200 men were there.  No lode gold has yet been discovered to say 6’.  Stores come from Waukaringa and Manna Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

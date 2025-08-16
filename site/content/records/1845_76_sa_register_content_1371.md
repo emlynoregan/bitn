@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mr Marshall of Currie Street has just completed for the smelting house at the Burra Burra Mine, a blowing apparatus capable of producing a continuous and powerful blast.  We were well aware of his capabilities as an organ builder and now he has undertaken to construct smiths’ bellows and blowing apparatus of all kinds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

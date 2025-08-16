@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt has been appointed a delegate to the Wesleyan Conference in New Zealand and is now making arrangements for his absence from Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

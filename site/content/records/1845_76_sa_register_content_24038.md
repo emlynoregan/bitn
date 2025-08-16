@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  Rain so far has been good and well spaced.  Wheat looks good and in the Kooringa district alone it is thought there is an increase of c. 25% in land under the plough compared with last season.  The new land has been under sheep for many years and so been supplied with manure and the weeds have been prevented from seeding.  Many in the area are using a wheat-sheep rotation scheme.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

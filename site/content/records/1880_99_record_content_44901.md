@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Band of Hope Concert in the Wesleyan Lecture Hall was a great success last Thursday.  Proceeds aid the new piano and c. £5 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

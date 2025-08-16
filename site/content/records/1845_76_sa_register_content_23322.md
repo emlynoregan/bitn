@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Fire.  It is thought that when two men left the Burra Institute last night they failed to fully latch the door.  This blew open in an easterly wind and loose sheets of paper were ignited by a candle and soon loose periodicals were ablaze.  Fortunately the fire was seen and extinguished before it had spread beyond the journals.  A portico is needed to shelter the entrance when an easterly is blowing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

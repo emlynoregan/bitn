@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Drew & Co. has installed plate glass windows in their new shops.  The sheets, at 10’ x 7’ are probably the largest in the colony and are worth in total over £150.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

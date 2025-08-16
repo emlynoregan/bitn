@@ -41,4 +41,4 @@ Cab Licences were issued to Alfred Schutz & A. Lines.
 
 SAMA.  The Council Ranger moved that SAMA be asked for the deeds to the Recreation Ground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

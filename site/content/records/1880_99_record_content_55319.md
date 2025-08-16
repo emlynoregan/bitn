@@ -64,4 +64,4 @@ The Town Clerk reported that about £170 of the water rates remained to be colle
 The tender from the Burra Record of £2 to print the rolls was accepted.  T. Nicholls had tendered £2-18-0.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

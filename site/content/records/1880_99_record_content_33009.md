@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  What is called a ‘larrikins ball’ was held on Wednesday evening in an old shanty in Thames St and in the early hours some larrikins completely pulled out several newly planted trees along with their supporting stakes.  The names of some who attended are known.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

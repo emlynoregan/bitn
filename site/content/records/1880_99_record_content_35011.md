@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial farewelling 1889 without many regrets.  It was a harsh year, yet not all was gloom and some have prospered.  It was a bad year in Ireland.  A birth of hope with the New Year is described in somewhat purple prose or at least in rather flowery writing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

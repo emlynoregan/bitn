@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Letter from W. Pearce decrying the drinking habits of the day. He claimed that the 8 public houses must take at least £5 a day which meant the town spent/wasted £12,520 per year on drink in hotels - allowing that the hotels were even open on the Sabbath.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -39,4 +39,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Pearce, wife of T.H. Pearce [sic] of ‘The Gums’ Station died suddenly at Ballarat where she had been recently sent for a change to improve her health.  She was a daughter of Mr George Hiles of Hallett and a sister of Mrs W. Cockrum, Mrs Boucaut of Jamestown, Mrs Roach of Terowie and Mrs Dix of Adelaide.  [The name should be Pearse.]  [Died 12 October 1891, born 27 October 1848 as Emily Elizabeth Hiles.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

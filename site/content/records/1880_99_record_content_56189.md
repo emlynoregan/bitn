@@ -30,4 +30,4 @@ Local Board of Health.
 Mr Thomas to be written to as a consequence of Cr Sampson drawing attention to the larrikins sitting on the black bridge near Henderson’s on Sunday afternoons.  ‘The language used by them was disgusting and it was not safe for females to pass by.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

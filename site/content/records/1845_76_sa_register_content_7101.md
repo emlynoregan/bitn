@@ -36,4 +36,4 @@ The gold found by Dr Kerr had been purchased for Messrs Thacker & Co. for £4,16
 
 [The paper predicts that soon steamers will be bringing would be miners to Australia from England.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

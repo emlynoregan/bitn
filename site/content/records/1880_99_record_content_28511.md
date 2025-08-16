@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Leases in 22,000 square miles of pastoral land will be offered at auction in Adelaide on 27 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

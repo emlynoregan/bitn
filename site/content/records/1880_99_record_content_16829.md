@@ -29,4 +29,4 @@ Local Board of Health
 
 The nightman intimated that he could empty no more cesspits now that the matter had to be buried, unless the burial pits were dug by the Council.  The Inspector was asked to report on a resolution to this problem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

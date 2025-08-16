@@ -34,4 +34,4 @@ W. West writes a letter accusing W.H. Hardy of unjustifiably condemning the dire
 
 ‘Mr Hardy, however, appears to me to wish to introduce the seeds of dissension and strife even in his remarks re the mine.  I think it would do him good the change the policy he has pursued here for so many years to his infinite disadvantage, and try instead to scatter seeds of kindness and promote peace.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

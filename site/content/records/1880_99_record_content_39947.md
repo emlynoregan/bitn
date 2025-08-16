@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Mayor claimed not to see any point to the motion and neither could he see how it could be carried out.  A long discussion ensued.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

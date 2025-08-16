@@ -49,4 +49,4 @@ Jenny O’Connor said tourism had doubled in the last two years.
 John McBride and Angas McInnes also objected.  National Trust Chairwoman Mrs Maureen Wright said the National Trust would have preferred to have retained the road, but the Trust does not violently oppose the compromise plan.  Out of it all comes the realisation that the Market Square precinct is not on the State heritage List.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

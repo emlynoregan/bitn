@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Forester’ in reply to ‘Athlete’ pointing out that last year’s Foresters’ Picnic was not on the Queen’s Birthday (24 May), but on the 4 May as the former date was deemed too late in the season for outdoor gatherings.  It will be Easter Monday, but in neither of the locations ‘Athlete’ mentioned, and arrangements are being made to have the cricket played at the same site.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

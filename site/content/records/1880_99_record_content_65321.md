@@ -28,4 +28,4 @@ Advt.  Burra Institute, Boxing Night, 26 December:
 
 The Serio-Comic Two-Act Drama Old Phil’s Birthday will be presented by the Petersburg Dramatic Society in aid of the Burra Sports Demonstration. 2/- Res., 1/6, 1/-. 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

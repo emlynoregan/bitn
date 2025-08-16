@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Editorial on the fall of the Cockburn Government: an example of ‘Brazen-faced hypocrisy’.  The no confidence motion was passed at 3 a.m. last Friday.  This was only possible because many who espoused the Progressive Land Tax policy during the recent elections changed sides.  The editor names as political hypocrites: Messrs B. Gould, W.B. Rounsevell, G.F. Hopkins, C.C. Kingston, W.F. Stock, J.W. Castine, L. Grayson and W. Gilbert, not to mention others who have performed summersaults in the past few weeks.  [The editorial is quite vitriolic and continues a further column.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

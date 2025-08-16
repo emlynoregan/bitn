@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. Charles Clarke will be remembered by residents who can recall 10-12 years back.  He will return to give a lecture in the Institute on Monday evening - a completely new Dickens Entertainment.  He has been in England, but has returned to large audiences in Melbourne and Adelaide, preaching and lecturing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

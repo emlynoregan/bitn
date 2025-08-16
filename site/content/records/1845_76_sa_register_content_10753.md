@@ -33,4 +33,4 @@ For firewood in lengths of 4 ft 6 inches and not less than 3 inches in diameter,
 
 A. Motley, Superintendent, Burra Copper Works, February 3, 1857.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

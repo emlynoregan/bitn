@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 A Christmas Banquet was given to 60-70 friends and customers of Mr T. Richardson on last Wednesday. Mr E. Lipsett in the chair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

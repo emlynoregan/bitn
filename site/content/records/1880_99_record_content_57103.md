@@ -27,4 +27,4 @@ Burra Homing Club.  3rd race of the season took place from Jamestown on 22 May.
 
 22 birds were nominated and best were those of J.A. Pearce, flying the 38 miles 125 yards in 62 minutes at 1,080 yds per min.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

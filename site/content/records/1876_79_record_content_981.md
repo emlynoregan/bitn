@@ -52,4 +52,4 @@ George Mayger said he went to Mrs Green’s house about 1 a.m. Friday and saw so
 
 The jury’s verdict was that a fire had been caused by carelessness, through Mrs Green and her lodgers having partaken of too much intoxicating liquor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

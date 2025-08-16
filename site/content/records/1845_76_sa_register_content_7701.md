@@ -52,4 +52,4 @@ To my late companions: ‘My sincere advice to them and all others who find them
 
 29 December 1851, page 3
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  The work of preparing for the new system and installing machinery is expected to start in five or six weeks on the arrival of Mr Swansborough.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Education at Burra.  Mr Hartley, President of the Council of Education, inspected G.R. Lowe’s school at Redruth and F.W. Holder’s school at Kooringa on the 12 April and our correspondent reports that he saw the need for a first-class school at Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

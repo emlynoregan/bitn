@@ -51,4 +51,4 @@ This was passed on the casting vote of the Mayor and the public were asked to le
 
 The three dissenting Councillors then also left; refusing to transact business in secret.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

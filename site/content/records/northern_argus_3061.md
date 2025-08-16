@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra & District Crippled Children’s Auxiliary had about 150 women to their Spring & Summer Parade & Luncheon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

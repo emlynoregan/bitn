@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR held its annual meeting in the Commercial Hotel last Friday.  Captain Watt presented his report for 1893 which started with 30 members, since when 2 have resigned and 1 was struck off, but with 8 new recruits the total is now 35.  There were 28 fairly well attended drills for the year.  Class firing needs improvement.  The 1893 inspection was well attended and on 9 November ten men attended the Adelaide encampment.  The public has been supportive and the uniform fund was in credit £34-14-1.  The annual subscription was 1/6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

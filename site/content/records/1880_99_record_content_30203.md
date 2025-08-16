@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Melbourne Exhibition.  SAR offers cheap excursions to Melbourne on specified dates only.  1st Class returns for £2 and 2nd Class for £1-5-0, with children under 12, half price.  There will be no sleeping accommodation on these trains.  Passengers north of Adelaide can book the return section from their station to Adelaide for a single ticket price provided they pay for the Melbourne ticket when booking the single special.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

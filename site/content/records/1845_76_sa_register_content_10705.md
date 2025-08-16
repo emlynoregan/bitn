@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Burra Smelting Works under the superintendence of Mr A. Motley are in full production.  In the week ending 23 May 135 tons 3 qr 12 lb of cake copper was produced.  Mr John David, late of the Yatala Smelting Works is now head of the refinery department.  He has a well-earned reputation in his field.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

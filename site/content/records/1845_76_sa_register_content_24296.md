@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Grasshoppers continue to hover in the district.  Some crops that promised to be splendid have been ruined.  Red rust had not been bad here, though some areas, such as Clare, have been more affected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

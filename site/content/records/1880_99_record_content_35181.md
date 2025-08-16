@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fitzgerald’s Circus is to visit on 18 Jan. and will play on the ground at the rear of the Commercial Hotel.  The Advertiser in Adelaide reports very favourably, especially on the equestrian acts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

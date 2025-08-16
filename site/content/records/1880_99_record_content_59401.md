@@ -31,4 +31,4 @@ Obituary.  Mr M. Tier died in Adelaide on Friday last.  He weighed 22 stone
 
 [Registered as Leon Michael Tier died 8 February 1896 aged 48.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

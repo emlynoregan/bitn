@@ -34,4 +34,4 @@ James Geelan was fined 10/- for being drunk.
 
 Elizabeth Bone charged that Thomas Rowe came to her yard and accused her of letting his calf out the yard to suck the cow and with killing his hens.  He was drunk at the time and also threatened to fight one of her lodgers who was present.  After witnesses had been heard Rowe was fined 10/- with £2-2-0 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

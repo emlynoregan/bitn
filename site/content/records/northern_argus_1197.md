@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Sara Drew of Booborowie won the Jubilee Industry Trade Train colouring-in competition and received a $50 savings account from Peter Bartlett, manager of the Burra Branch of the State Bank of SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

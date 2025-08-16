@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Larrikinism broke out in town last Tuesday night and carts were removed from premises and scattered around the main street, posing a danger to travellers.  Signboards were removed and other articles scattered about.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

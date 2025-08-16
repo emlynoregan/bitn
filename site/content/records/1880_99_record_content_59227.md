@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Creek.  A fish has been reported in the Burra Creek near the Bible Christian Church and anglers have been trying to land the handsome specimen said to live in a pool just below the pond where the ‘smellin’ high’ fish were detected.  So far only an old kerosene tin has been landed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

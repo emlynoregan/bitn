@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  There is a report from Rev. W.F. James.  There are c. 100 within 200 yards of Brady’s Gully doing fairly well.  Scarcely anything else has been got and not one in ten has earned a cent.  There are holes everywhere, upwards of a thousand and not a particle in 900.  No Burra men have been successful.  Yesterday of 17 samples, 12 had nothing, 2 averaged 2 oz per ton, 2 averaged 15 dwt, and 1 averaged ½ oz per ton, [1 dwt = 1 pennyweight or 1/20 oz.]  but that included two small nuggets that should have been removed before washing.  The warder advises men not to come.  The hundreds arriving are balanced by the hundreds leaving.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

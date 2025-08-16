@@ -27,4 +27,4 @@ Kooringa News, 28 June
 
 The mining claim north of Burra called Murphy’s is improving in prospects.  A gentleman from Auburn gave the proprietor £150 for a share in it and a company will be formed to raise working capital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

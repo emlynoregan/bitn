@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Mr Perry. A gold watch was presented to Mr Perry by his friends on his retirement from Public Service. He has been a resident of Burra for 26 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

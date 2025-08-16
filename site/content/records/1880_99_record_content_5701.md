@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Redruth Primitive Methodist Anniversary, 11 December.  Matthew Burnett will preach with Rev. J. Pearce and Mrs Pearce.  Tea Meeting Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

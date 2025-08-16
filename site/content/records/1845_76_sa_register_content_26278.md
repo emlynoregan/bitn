@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The writer proposes a law compelling the fitting of sled-shaped runners between the pairs of wheels so that when wheels sink six inches into dust or mud the sled takes the weight and the wagon is glided readily over the problem area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -42,4 +42,4 @@ A meeting was held at the Institute tonight to discuss the high prices charged b
 At the Parliamentary Club on Tuesday F.W. Holder, the new Premier, outline matters to be brought before the Legislature.  He spoke for about an hour and the address was regarded as an excellent piece of elocution.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

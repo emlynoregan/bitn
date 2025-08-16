@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Wilford Branscombe Troupe appeared on Monday to a small but appreciative audience. (As at Jamestown the lack of publicity no doubt affected audience size.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

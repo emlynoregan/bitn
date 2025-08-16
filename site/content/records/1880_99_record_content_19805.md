@@ -30,4 +30,4 @@ Redruth Court, 2 November.
 
 Richard McMahon was charged that on 31 October he stole a silver locket and chain from Mary Salmon, a domestic servant at the Bon Accord Hotel.  He pleaded guilty and was sentenced to 6 months.  He was also charged with stealing a watch from Levina Davis another servant at the same hotel and, pleading guilty again, was given another 6 months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

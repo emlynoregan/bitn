@@ -26,4 +26,4 @@ The Broughton River Mining Co.
 
 A deputation of some of its Directors visited their section at the beginning of the week and report favourably on it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

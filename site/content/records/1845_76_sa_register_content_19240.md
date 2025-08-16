@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Accident.  On 3 April a wagon and horses were left unattended by the Mine Store.  The horses walked into the creek that flows from the Mine and damaged the wagon, though the horses were extricated without injury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Dr John Cockburn writes defending his actions in treating Sarah Ann Fogarty and denying she was unfit for travel to Burra and condemning Dr Dashwood as severely as a polite professional colleague could. ‘With regard to Dr Dashwood’s evidence perhaps the less said the better.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

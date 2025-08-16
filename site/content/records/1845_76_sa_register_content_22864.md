@@ -60,4 +60,4 @@ The Attorney General intends to ban the hawking of colonial wine.  This move wil
 
 Primitive Methodists held their Anniversary services at Kooringa on Sunday and Monday.  Rev. J. Standrin preached to large congregations on Sunday.  The public tea was held on Monday.  £29 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

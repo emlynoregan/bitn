@@ -29,4 +29,4 @@ Notice.  Princess Royal Mining Company.  A final dividend of ten shillings per s
 
 The balance in the hands of the Trustees reserved for the holders of the shares not yet presented will shortly be paid into Court and without further notice.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ The new German Lutheran Church at Redruth was opened last Sunday.  At about 10.3
 
 The choir sang a piece and the Pastor offered a prayer.  The 415th hymn followed, after which the Pastor chanted the Augsburg Confession and gave a discourse on the Epistle for the day; the 5th Chapter of Galatians.  After the singing of the 460th hymn the Pastor delivered an impressive inaugural address, after which there was further singing during which a collection was made.  The Pastor then delivered a doctrinal address and an exposition of part of the 6th Chapter of Matthew.  The service closed with singing.  An evening service was also held with a large congregation.  All the proceedings for the day were conducted in the German language.  It is understood that it is intended to open a day-school in connection with the church; the master to conduct divine service until the arrival of a minister from the fatherland.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 William Bowman writes from Martindale confirming Mr R. Brown Jun.’s statement re the prize-winning sheep at the show - though they were bred from Martindale sheep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

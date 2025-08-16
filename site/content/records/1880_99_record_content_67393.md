@@ -26,4 +26,4 @@ Burra Waterworks.
 
 The town water supply will be cut off to allow chipping of the boiler from 6 p.m. Saturday to 6 p.m. Monday.  In the last week the water level in the well has fallen a further 4”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

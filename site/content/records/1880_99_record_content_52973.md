@@ -29,4 +29,4 @@ Redruth Court.
 
 James Penn was charged with smoking in open air with a pipe insufficiently covered in a paddock containing vegetable product, viz. inflammable grass, on 5 January.  He said he went to the paddock to get his horse.  The witness Alfred Jacka went with Penns who told him not to say anything about the pipe after the fire had started.  Police evidence gave the circumstances of the fire.  Penns was fined £1 with 18/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

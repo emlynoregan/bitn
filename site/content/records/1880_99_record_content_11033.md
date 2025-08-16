@@ -43,4 +43,4 @@ Cr Sampson said he had not said that, but he did say that Messrs Barrett, Davis 
 
 After discussion the Mayor expressed a view that Cr Sampson had been injudicious and the matter dropped.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

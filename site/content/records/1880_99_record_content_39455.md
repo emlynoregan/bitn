@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Fire.  Mr H. Reilly’s store and house at Farrell’s Flat was burned down on Christmas Day.  The fire started in the store, but the cause is not known.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

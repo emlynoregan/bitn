@@ -37,4 +37,4 @@ Messrs Bartholomæus, Volmer & Topperwein asked that a small reserve opposite th
 
 Messrs Francis Clark & Son offer to remove their boring plant in Market Square to any other spot and to begin again, under specified conditions.  The Mayor will seek further details.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. J. S. Wayland preached a farewell sermon at All Saints, Moonta, last Sunday.  On Monday about 60 members of the congregation assembled at the schoolroom in Ryan St to bid him goodbye.  He left Moonta for Burra on Tuesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

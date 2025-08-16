@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Entertainment.  There was an immense house at the Penny Readings on Saturday.  The public are getting spoiled with 2/- worth for 3d, 2d, and 1d.  The proceeds exceeded £4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

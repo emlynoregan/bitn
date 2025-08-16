@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 ‘A Teetotaller’ takes up his pen again to reply to ‘Erratic Correspondent’ and writes at great length.  [Both sides in the argument are by now accusing each other of robbery.  ‘Erratic’ says hotel owners would be robbed if not compensated and ‘Teetotaller’ accuses publicans of robbing the public - though he does not seem to maintain ‘Erratic’s’ distinction between the licensee and the owner.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

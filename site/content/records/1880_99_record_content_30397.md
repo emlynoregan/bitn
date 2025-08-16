@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  The Rev. W. Jenkin, Primitive Methodist minister, has died.  He went from Burra into the ministry and was stationed in Burra a few years ago.  He leaves a wife and eight children.  His brothers John and Thomas Jenkin are well known here.  [Registered as William Jenkins, died 18 November, aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

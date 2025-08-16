@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Lieutenant Governor left on a visit to Burra Burra Mines with a view to the establishment of a Northern Resident Magistrate’s Court and a proper increase in the police force at Gawler Town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

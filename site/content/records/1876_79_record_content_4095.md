@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Cricket. The True Blues (Kooringa) played Manoora on 24 May at Manoora. Manoora 28 & 40. True Blues 42 & 28 for 5 wickets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ Editorial on Australian Finances.
 
 SA is not in as bad a way as the other colonies and with UK borrowing tightened we can survive better than NSW and Victoria, still we need to be aware that loans will be harder to get in the future.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Types of Merino Sheep
 
 [There is an article by Michael J. Bell, Agent for Sir Frederick Heomeyer of Ranzin.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

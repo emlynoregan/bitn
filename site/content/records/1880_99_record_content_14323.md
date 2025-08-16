@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. H. Howitt said in the Supreme Court on Wednesday that it was against his religious convictions to take an oath so he was allowed to make an affirmation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

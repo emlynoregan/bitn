@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 The roads have been so bad that several times recently the mail has been late.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

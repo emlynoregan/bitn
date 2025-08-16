@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Larrikinism. While Rev. H. Howitt was away last week an attempt was made to break into the parsonage at Redruth and when it failed stones were thrown on the roof and part of a stone bottle thrown into the courtyard struck a servant on the head and stunned her. A reward of £5 is offered for the discovery of the perpetrators.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

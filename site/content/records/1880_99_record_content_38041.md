@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Concert in aid of the Institute Building Fund last night was a success and included the laughable comedy ‘Should this meet the Heye’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

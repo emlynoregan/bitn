@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the proposal to dam the Burra Creek in the town.  If the town was willing to pay the annual interest at 4% or 5% on £600 the Government will build a weir to that sum across the Burra creek opposite the Institute.  This would not be expected to generate income, but would beautify the town and provide immediate work.  SAMA would need to approve such a move.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  Wright & Woods, Architects, call tenders by 12 March 1864 for the erection of a house and other works at Princess Royal Estate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

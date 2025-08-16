@@ -28,4 +28,4 @@ Blinman.  17 August.
 
 For some months the end of the journey from Adelaide has been at night and on several occasions in very bad weather.  Despite darkness, rough weather and bad roads the mail coach and passengers have been brought safely through.  The care skill and management of the driver, W.W. Morgan deserves praise.  Now, with competition threatening it is reported that changes will be made in the coaching arrangements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

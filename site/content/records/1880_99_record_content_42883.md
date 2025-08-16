@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr A.C. Noyes’ Concert on Wednesday evening was much disrupted by the influenza outbreak which had affected several performers, forced Dr Sangster from the chair to attend to a patient, and reduced attendance very greatly, so it cannot be said to have been a financial success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

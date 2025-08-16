@@ -38,4 +38,4 @@ Joseph Richardson was charged that he had disposed of a lesser quantity of liquo
 
 Cricket.  Both Burra and Aberdeen clubs continue with practice matches.  Brewery Flat was site of games of quoits, lawn tennis, football and croquet as well as cricket.  The Muffs club is also practising.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

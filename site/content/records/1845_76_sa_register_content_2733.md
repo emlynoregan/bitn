@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice.  Burra Burra Mines.  Constant employment is available for carters carrying ore from the mine at £2-15-0 per 21 cwt.  Loading to the mine to be obtained from Captain Scott, Port Adelaide at 25/- per ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

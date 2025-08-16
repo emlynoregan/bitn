@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 District Council of Burra. Letter to Ed. complaining about cronyism in the appointment of a friend, J.D. Cave, of the president, Mr T. Warnes, to position of Overseer of Works at £70 per year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

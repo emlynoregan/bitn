@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Gladstone Encampment is reported in ¾ column.  250 attended, of whom 89 were mounted riflemen.  Drills and a mock night attack are described.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Advt.  Entertainment.  There will be a performance tomorrow at 3 p.m. and another in the evening of The Vegetable King.  Cost 3d.  [It was in the Institute and was repeated at night as part of the Penny Readings Series.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

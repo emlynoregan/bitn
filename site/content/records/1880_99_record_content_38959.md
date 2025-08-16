@@ -37,4 +37,4 @@ The mayor reports some more of the timber at the Waterworks has given way and th
 
 With respect to hawkers, the solicitor’s advice was that if the articles hawked were of colonial manufacture no licence was required, but advised seeking information from other Corporations.  Adelaide Council’s policy was a licence was needed for hawking goods for sale, but if soliciting goods without leaving the goods sold, they would not require a licence.  Cr Hardy moved they proceed against Wertheim’s traveller or any other without a licence.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

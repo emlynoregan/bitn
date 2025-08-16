@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 4 Mar 81	Serpent Ch XXIV-XXV	A Love Race Ch III-V (End)	Superstitions of Childbirth	X	X			X		X	X
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

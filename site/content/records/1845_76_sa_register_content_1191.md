@@ -27,4 +27,4 @@ Notice to Sawyers.  Wanted: two pair of sawyers for Burra Burra Mines.
 
 Henry Ayers 28 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

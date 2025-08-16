@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 New Years Sports at Hanson [i.e. Farrell’s Flat] drew over 300 to the ground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Charles Drew had offered to pay £300 for a steam launch for Rev. F. Langham of the Fiji District, but Rev. George Brown, Secretary of the Foreign Missions wrote that it would cost £500 and Mr Drew has generously authorised the secretary to draw on him for the extras.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

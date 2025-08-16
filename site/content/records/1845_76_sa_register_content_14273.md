@@ -38,4 +38,4 @@ John Clark inserts an advertisement saying he will present himself for election 
 
 M. MacDermott SM announces that in response to a requisition he will convene a public meeting to consider the political opinions of the different candidates for the seat in the House of Assembly vacated by Mr Lennon, at the Burra Hotel on Tuesday 16 April at 7 p.m., when the attendance of candidates is requested.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

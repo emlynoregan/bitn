@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter from Will. J. Davey quoting the reply from J. Harry, Secretary of Wheatley’s Band that they ‘have not the least intention to amalgamate with your band’.  Davey accused Wheatley’s Band of playing only simple old tunes and presenting nothing fresh.  He undertakes to take on all their members and present something new and fresh.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

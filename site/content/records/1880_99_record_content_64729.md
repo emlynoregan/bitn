@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Members for the District will be asked for the passage of a clause requiring all cattle slaughtered for human consumption to be slaughtered in a proper slaughterhouse within the municipality.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

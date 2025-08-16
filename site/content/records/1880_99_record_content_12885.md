@@ -29,4 +29,4 @@ Burra Races were held on Wednesday 9 April.
 
 Four years had passed since the last meeting and the committee can be said to have had a fairly successful day.  The weather was good.  The grandstand was well patronised and being built on rising ground gave a good view.  There were two publicans’ booths and a refreshment booth.  The Burra Band played.  Professor Hullar, snake-charmer etc. was the only sideshow and he had to go to the Burra Hospital when bitten in the mouth by a snake.  The Burra Cup, over 2 miles was the main event with prize money of £70 and it was won by Ike Callaby’s Algetha.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. Anniversary of the opening of St Joseph’s will be celebrated on 10 Nov.; Rt Rev. Dr Reynolds, Bishop of Adelaide, will preach and preside at the sacrament of confirmation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

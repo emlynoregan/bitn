@@ -34,4 +34,4 @@ I have not run a cart there for some years, but continue to run an American wago
 
 The anti-squatters should see the country before talking and writing so much and they would then have a better idea of what the squatters should pay.  Not one of them would take nine out of ten of the runs in the north at cost price, without rent.  Should we get some rain and feed the mail conveyance will run again – if needed – but now everyone who can has left and travelling is at an end except on foot with a canteen on your back.  If we get another season like this the north will be deserted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

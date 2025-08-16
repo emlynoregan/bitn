@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Football.  At Booborowie on Saturday.  Aberdeen began the two hour drive from the Royal Exchange at midday.  At half time Aberdeen 1.10 led Spalding 0.0 and at full time Aberdeen 2.14 had defeated Spalding 1.0.  Three cheers were given to C. Grow for conveying the players to and fro gratis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

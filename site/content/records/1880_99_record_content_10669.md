@@ -36,4 +36,4 @@ William Irwin saw the deceased at 8.30 p.m. and he then seemed quite well.  Hear
 
 Dr Sangster performed a post mortem and found a greatly enlarged heart indicating a disease of long standing.  Verdict was death by disease of the heart.  [Death registered as 18 September, aged 30.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

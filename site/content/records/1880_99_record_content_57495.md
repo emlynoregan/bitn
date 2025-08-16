@@ -30,4 +30,4 @@ Burra		1.3	2.7	3.9	6.11
 
 Norwood	1.4	2.5	4.4	5.5
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

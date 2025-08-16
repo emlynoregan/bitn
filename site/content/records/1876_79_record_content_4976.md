@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Legislative Council reform has again been shelved despite the return of men pledged to do something. The Hons J. Hodgkiss & C.B. Young seem to have espoused very different views now they have been elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

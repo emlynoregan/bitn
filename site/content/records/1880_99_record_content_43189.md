@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Wheat.  Samples of good wheat from Mr Tuckfield’s at Mongolata have been brought in, but the growing rabbit numbers invading from adjacent lands are threatening the crop.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

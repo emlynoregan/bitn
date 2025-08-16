@@ -32,4 +32,4 @@ Opinion is divided in SA on whether or not the discovery and development of gold
 
 While the Bullion Act is both necessary and effective, it could be undermined if other colonies followed suit.  It should therefore not be the colony’s sole hope.  The discovery and working of gold here will not lessen the availability of labour for agriculture as much as when people go further off.  Shepherds and hut-keepers will continue to be available from the ranks of unsuccessful diggers.  As to the objection that work on roads and other public investments would cease; if the prosperity of Victoria means we are getting no income, this work will cease anyway.  The discovery of gold is in no way an unmixed blessing, but if we are going to have our labour moving, let them move to another part of our own province.  Port Phillip is now benefiting from the services of all the unsuccessful diggers.  The very poor cannot get back to SA.  If the Bullion Act is good then real diggings must be even better.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

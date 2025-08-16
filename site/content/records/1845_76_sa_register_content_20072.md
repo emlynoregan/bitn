@@ -41,4 +41,4 @@ Races were held at Westbury and were well patronised on 31 December and 1 Januar
 
 Kangaroo dogs are still annoying sheep in the district.  Captain Killicoat has lost 15 sheep killed and 20 scattered and not yet found.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 (Advt.) Burra Show: 1st show to be held at E. & A.C. Co.'s Smelting Works 12 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 R.J. Daddow, Primitive Methodist Minister, writes concerning a lecture by R. Hogarth calling for wine to be the most economic production for the Barossa Valley and for people to be compelled to grow wine grapes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

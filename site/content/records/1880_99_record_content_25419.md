@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Cockburn was honoured with a social at Jamestown last Tuesday.  The Mayor of Jamestown took the chair and over 100 people attended with Dr Brummitt as Vice-Chair.  Dr Cockburn had been thrice Mayor of Jamestown and Commissioner of Main Roads, an honorary surgeon and MP for the district for three years.  He received an illuminated address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

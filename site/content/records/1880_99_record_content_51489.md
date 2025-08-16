@@ -31,4 +31,4 @@ At the concert on Wednesday the last item by Mr Jude was the song Home Boys Home
 
 Mr Jude, talented instrumentalist and composer paid a flying visit to Burra on Wednesday and played to a well-filled hall.  His much-appreciated performance is reviewed item by item.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Middleton sued Carter for £4-19-0 for board and lodgings, but after conflicting evidence and an unreadable rent book His Worship dismissed the case with the defendant to pay costs because he had not taken receipts for his payments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

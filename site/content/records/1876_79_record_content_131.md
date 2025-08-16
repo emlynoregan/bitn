@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The City Correspondent reports very cold times with ice in the city and a report of a river frozen over in the country.  [In all some ¾ column of mixed news from the city is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

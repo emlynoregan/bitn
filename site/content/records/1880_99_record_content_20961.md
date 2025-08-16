@@ -37,4 +37,4 @@ Volume VII, Number 504 on 25 December 1885.
 
 VII. 505. 1 Jan. 1886
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

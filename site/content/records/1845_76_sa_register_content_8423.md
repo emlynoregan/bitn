@@ -29,4 +29,4 @@ The Burra Burra Mines [Editorial]
 
 The advertisement by the SA Mining Association in today’s paper cannot but be gratifying to those who have an interest in the progress of SA.  Their intention is to resume operations at their deeper levels, which were suspended when the attractions of gold in Victoria caused an exodus of the mining population from Kooringa last year.  They might had gone further in inducing the return of miners, but their virtual assurance of 40/- per week will doubtless attract hundreds of steady miners who will see the wisdom to prefer cheap and abundant food and sure gains to the uncertainties, discomforts, separations, hardships and dangers of gold-seeking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

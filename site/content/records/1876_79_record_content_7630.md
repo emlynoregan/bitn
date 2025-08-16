@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Advt. A. Loutit, R. Brummitt, & F.W. Holder, as the committee, call on all interested in forming a Burra Floricultural Society to meet at the Institute this Friday evening to form a society to arrange a flower show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

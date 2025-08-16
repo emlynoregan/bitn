@@ -33,4 +33,4 @@ Bullock Drivers Cautioned
 
 W. Rains, butcher, baker and storekeeper of Dry Creek warns against working, detaining or buying the bullocks, dray, yokes, bows and chains, lately in the possession of William Hawkins, who until recently carted ore from the Burra Burra Mines, and who went to Launceston in the Tamar on her last trip.  [The bullocks and dray are then described.] A reward is offered for information leading to their recovery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

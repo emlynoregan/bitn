@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Chinese Question.  China has ordered its subjects in the colonies to wind up their businesses and return to China within three years: preparatory to the colonies being punished for their attitudes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

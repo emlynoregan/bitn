@@ -36,4 +36,4 @@ Today’s intended race from Riverton has fallen through because several birds s
 
 Since writing this the wing of Mr Crewes’s Prosperity has been found between Saddleworth and Manoora, attacked by a hawk.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

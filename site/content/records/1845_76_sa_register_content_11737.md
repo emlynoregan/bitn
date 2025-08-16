@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Kooringa Total Abstinence Society.  A public meeting of the society was held in the Primitive Methodist Chapel on 28 May.  Mr Skewes took the chair and Rev. J.G. Wright gave an address, after which 15 adults signed the pledge.  Secretary W. Pearce said he had made arrangement for five reformed drunkards to give their testimony at the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

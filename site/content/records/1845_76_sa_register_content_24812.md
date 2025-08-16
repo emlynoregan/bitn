@@ -39,4 +39,4 @@ The ores sent from SA largely took the place of ballast that would otherwise hav
 
 [The rest of the article suggests that this arrangement applied to the Wallaroo smelting works and therefore the Yorke Peninsula mines.  Burra ores are not specifically mentioned.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

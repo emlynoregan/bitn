@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Haymakers, Cantata was performed at the Institute last Wednesday evening.  They played to a crowded house.  The orchestra of a dozen or so did a good job, but a few more performers would allow a bit more dash and emphasis where the composer called for it.  All in all it was a grand performance and much praise is due to Rev. Geddes-White.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

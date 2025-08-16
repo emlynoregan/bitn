@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Walter Pearce & John Wise were each fined 2/6 + 5/- costs for driving around a corner at more than walking pace.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

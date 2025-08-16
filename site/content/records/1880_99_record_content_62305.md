@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Typhoid has broken out and there are 14 persons in the Burra Hospital at present, though some are from Broken Hill and Hallett and two or three from east of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

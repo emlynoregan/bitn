@@ -29,4 +29,4 @@ Dr Smyth was received noisily and had difficulty in being heard.  He said he was
 
 To test the feeling of the meeting T.W. Wilkinson then moved ‘That this meeting is in favour of payment of members’.  This was passed by a large majority.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

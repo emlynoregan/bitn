@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 He says he will be guided by the spirit of fair play and will advocate the wants of the district impartially.  He will have the aim of ‘placing our paper upon the greatest heights yet attempted by country journalists’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

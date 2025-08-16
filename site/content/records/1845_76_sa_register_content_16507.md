@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The work repairing the main road through the town has commenced and will need to be accomplished rapidly to be completed before winter sets in.  I am given to understand that the whole road will now be repaired, without the hiatus I have recently complained of.  If so, this is a welcome indication that the Road Board is willing to listen to reason.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

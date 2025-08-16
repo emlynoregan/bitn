@@ -31,4 +31,4 @@ Winter has come with cold and wet conditions all day Sunday and then a good deal
 
 At the Burra Mine there is the report of a new lode being discovered.  I trust the report is true because there are a number of miners recently returned from Newcastle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -54,4 +54,4 @@ The jury returned a verdict of accidental death.
 
 [Patrick Butler died 12 April 1876 near Hanson, residence Canowie aged 63.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

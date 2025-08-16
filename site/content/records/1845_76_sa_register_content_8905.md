@@ -26,4 +26,4 @@ The Burra Burra Mine
 
 At 8 p.m. 11 January the engine was continuing to work at first rate.  The water is rapidly decreasing and the Mine is perfectly secure throughout.  By noon last Saturday it was expected the 30 fathom level would be perfectly dry and the water fast lowering to the 40.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

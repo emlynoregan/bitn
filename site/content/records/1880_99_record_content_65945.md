@@ -30,4 +30,4 @@ Freear’s Celebrated Monologue Entertainment: Frivolities.
 
 Program: The Christy Minstrels, A Frolicsome Youth, A Sad Story of Hard Luck & A Very Pathetic Ballad, Wizard of the East, Alphabetical Temperance Lecture, Through Reading and Grotesque Dance, Mr Freear as Miss Minnie Palmer, Mr Freear in his Reminiscences of an Evening Pary [sic] [Party?], An American Sand Dance, An Address to the Constituents, Mr Feear as Madam Oyster Patti. Electricity will keep the audience laughing from 8 to 10.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

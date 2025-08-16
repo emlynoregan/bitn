@@ -132,4 +132,4 @@ In 1885 the Mayor, John Dunstan Jun., impressed on the Midland Road Board the ne
 There was a difference of opinion on the validity of some of the standing orders of the Municipal Corporations Act 1890 and this was referred to the Municipal Association for their advice and opinion.  The committee is still ongoing, but the advice was that the standing orders are sufficient and penalties under them are recoverable in the courts.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

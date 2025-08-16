@@ -35,4 +35,4 @@ The writer who recently put the profits of the SA Mining Association at a very l
 
 2 of 50%	£12,320
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

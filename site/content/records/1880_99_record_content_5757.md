@@ -28,4 +28,4 @@ Cricket.  Burra v. Manoora at Manoora.
 
 On Saturday when the passenger train pulled in only 7 players had arrived so it was decided not to go, but by the time of the luggage train 9 had arrived and so they went south to play.  The paddock was a longish step from the station, through a paddock of bullocks and the pitch was rather higher at one end. In the end Manoora 169 defeated Burra 58 & 47 (105)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

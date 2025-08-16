@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [There is no report of a meeting of 4 July.  The paper of 11 July reports on for 9 July and the paper of 4 July could not report a meeting of that date.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

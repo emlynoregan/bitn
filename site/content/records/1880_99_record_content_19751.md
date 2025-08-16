@@ -43,4 +43,4 @@ It had been stipulated to the late Council that no interest was payable till the
 
 Cr Symons said that was all nonsense - under that argument the works would never be completed while additions were being made.  He moved the account be referred to the Waterworks Committee and this was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

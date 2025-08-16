@@ -30,4 +30,4 @@ Obituary/Inquest.  An inquest was held last week on the body of a lad named Roac
 [Thomas Roach died 4 May 1858 Baldina, residence Kooringa aged 11.  He seems to have been the son of Thomas Roach 1817-82 who arrived in SA with his family in 1848. (BISA)]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

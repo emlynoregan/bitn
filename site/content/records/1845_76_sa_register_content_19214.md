@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Local Court was packed with interested spectators on Wednesday 21 March when it took a long time to investigate a charge of assault preferred by Mrs Pascoe against her husband, the landlord of the Aberdeen Hotel.  The charge arose from domestic differences and was ultimately dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

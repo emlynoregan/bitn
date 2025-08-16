@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council has offered £5 reward for information leading to a conviction for the destruction of trees in the town.  Several large cedar trees in Chapel and Queen Streets have been attacked.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

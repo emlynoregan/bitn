@@ -27,4 +27,4 @@ Advt.  Salvation Army, Kooringa.  Grand Musical Festival, 31 January.
 
 Banjos, Whistles, Auto-harp, Bones, Popgun, etc. also a Hallelujah Wedding.  6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

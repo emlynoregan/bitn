@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Register sent its cycling reporter to cover the United Friendly Societies; Sports and he wrote: ‘neither myself nor the many visitors could regret the trip.  Planted with trees the Burra is now one of the prettiest of northern townships, with first-class accommodation and plenty of recreation.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

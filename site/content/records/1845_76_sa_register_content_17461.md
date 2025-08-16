@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 On Friday Burra and Clare Cricket Clubs played a match on the flat at Aberdeen.  Burra 54 defeated Clare 35 & 18.  An eight a side scratch match followed and was also won by Burra.  They all then went to the Miners’ Arms for dinner.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Everything remains dull.  Drays are absent because from the state of the roads they are unable to come on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

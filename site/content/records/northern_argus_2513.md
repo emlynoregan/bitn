@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Community Sports Complex has had a number of items stolen in the past 6 to 9 months.  Police discovered several youths to be the culprits and community work has been arranged for the offenders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

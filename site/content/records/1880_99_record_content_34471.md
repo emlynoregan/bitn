@@ -43,4 +43,4 @@ Though not a teetotaller he believed firmly in moderation.  He was a Primitive M
 
 The writer refers to Mr Philip Santo, who used to conduct services in a small brick chapel a few yards below the Primitive Methodist Chapel.  [Was this the Baptist Chapel?]  And to the Rev. Mr Davidson, a Presbyterian, who conducted services in a building in or near Paxton Square.  [On the site of the Kooringa Hotel.]  And that the Catholics had a place of worship in Commercial St, but he believed no resident clergyman.  He also thought the Germans held regular services somewhere in Redruth and that the Welsh took charge of Mr Santo’s chapel when he left Burra and when he was last in Burra the unused building was still called the Welsh Chapel.  [But he gives no time for that.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

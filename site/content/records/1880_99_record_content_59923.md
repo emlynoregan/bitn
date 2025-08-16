@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  F.J. Carey, agent for Leigh Creek Coal, can supply any quantity in ton lots for £1-4-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Rising copper prices might have offered some hope, but it is now widely believed that the old mine will never work again unless under new owners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

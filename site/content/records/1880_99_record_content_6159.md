@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  On the premises, Grahamstown, opposite Roach’s Mill, John Sampson Jun. will sell on 2 February, the whole stock in trade with blacksmith’s and wheelwright’s tools for Joseph Boundey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Alfred Richard Hurst, a waiter at Wren’s [Burra] Hotel said the prisoner had p
 
 The Magistrate decided that there was insufficient evidence to prove Barnes had altered the order, but bound him over in his own recognisances to answer any charge that might be preferred against him at the next Criminal Sessions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

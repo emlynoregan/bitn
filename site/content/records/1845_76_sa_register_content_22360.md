@@ -41,4 +41,4 @@ Most of the shops and houses were now or soon would be the property of the compa
 
 The representatives of firms who signed wished to know under these circumstances if the Directors would sell freehold to them and if so at what price.  The result of letting land on 21-year leases with a host of stringent clauses, including one that no public house could be opened without the Directors’ consent, was to create a town that is a laughing stock to strangers.  No one will spend more on buildings than is absolutely necessary.  Residents will not form a District Council or a Corporation, which would repair roads etc. because they will not tax themselves to increase the value of the company’s property, in which they have but a temporary interest.  It is hoped the Directors will agree to sell freeholds at a reasonable price to those who have been at the expense of erecting buildings upon them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

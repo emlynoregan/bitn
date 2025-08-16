@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Depression.  The financial position in Victoria is bad.  All Government salaries over £50 have been cut by 2½%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

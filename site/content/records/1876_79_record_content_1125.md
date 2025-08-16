@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Wire bridge erected at Princess Royal over the Burra Creek - miniature of one at Niagara. 100' between supports and 160' overall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

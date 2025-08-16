@@ -26,4 +26,4 @@ Advt.  Salvation Army Monster Demonstration on Boxing Day.
 
 Lunch at 11 a.m., 1/-.  Tea at 4 p.m., 1/-.  Supper 6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

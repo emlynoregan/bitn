@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 The editor says Mr Ridgway has charge as there is an agreement from 4 May 1885 whereby he takes control for seven years at £5 p.a. to be spent on plantings and other improvements.  Water to be laid on by the Council and charged as for other reserves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

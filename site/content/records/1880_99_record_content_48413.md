@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. H.W. Howitt preached for the Bible Christians on Wednesday at 3 p.m. and gave a lecture at 8 p.m. in the Institute on Gambling.  F.W. Holder presided over a moderate attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Cricket. The Kooringa Cricket Club met at the Commercial Hotel on 21 Sept. and agreed to merge with the Burra Cricket Club, under that name. . On Monday night the two clubs met and amalgamated. Entrance fee 5/- and subscription of 1/- per month will be charged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

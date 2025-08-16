@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. H.T. Burgess last Tuesday gave the second of his addresses: The Land We Live In: Its Attractive and Wonderful Present.  The weather was inclement and the attendance therefore only fair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

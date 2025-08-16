@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mrs Baeyertz preached last Sunday to crowded congregations and will preach again next Sunday.  On Wednesday she took a large group of children from the Burra School to the Bible Christian church for a scripture address after school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

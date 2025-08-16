@@ -36,4 +36,4 @@ Cr Harris thought the Mayor’s Report was good and explained the workings of th
 
 [The £25 cost of the new assessment was split evenly between the wards.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

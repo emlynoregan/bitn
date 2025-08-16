@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. A mission at St Joseph's church will be led by Rev. Father Leo Rogalski SJ, 21-26 March, with two religious instructions each day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 John Dow’s Funeral.  There were 20 vehicles and most of the leading townspeople at the funeral on Tuesday afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

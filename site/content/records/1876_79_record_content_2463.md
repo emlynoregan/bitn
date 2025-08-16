@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Hallett railway: petition to House of Assembly on the under-crossing from the Bon Accord Hotel to the Aberdeen Mill was rejected because of an attached plan. To be presented next Tuesday minus the plan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

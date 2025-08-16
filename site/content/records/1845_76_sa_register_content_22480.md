@@ -42,4 +42,4 @@ Hay making is progressing rapidly – though the yield is less than last year.  
 
 On Tuesday 10 November the Trustees of the Wesleyan Chapel presented a beautifully engraved piece of plate to Mr A.H. Forder in recognition of his services in association with the choir.  A tea meeting was held and several members of the choir were highly complimented on their achievements over the past six years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

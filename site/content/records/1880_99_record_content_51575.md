@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 State Education.  There is a move in Parliament by Mr Giles to charge the full cost of education in State Schools for those attending after the compulsory standard.  It is a move intended to establish private sectarian schools – it would also impair the efficiency of country schools and see a drift to the city.  Debate has been adjourned to 15 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Letter from W.H. Hardy who inveighs against the glowing reports of Australia as 
 
 ‘It is known that the best land in Australia is in the hands of a few selfish capitalists who have made big fortunes by exporting wool and skins, but who have stifled agriculture and strangled commerce.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

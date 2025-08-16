@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Amateur Athletics Club held its half yearly meeting revealing that subscriptions and collections had yielded £45-19-4. Expenditure had been £26-18-l1, giving a balance on hand of £19-0-5. There are 34 members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

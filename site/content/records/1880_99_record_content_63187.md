@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Miss Lamrock of Booborowie School and her pupils organised a concert that raised £5-1-6 for the purchase of tools, materials etc. for practical work at the school.  A ball followed the concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

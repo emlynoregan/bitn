@@ -29,4 +29,4 @@ Redruth Court, 21 September.
 
 John and Richard Harvey were charged with stealing two £1 notes from William Crawford in the night of 19 September at the Pig and Whistle.  The money was found under a carpet in the room.  The information was dismissed, but the prisoners were cautioned.  [The level of intoxication of all concerned made several aspects uncertain.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -64,4 +64,4 @@ On the following Monday Mr J. Williams delivered an able lecture at the Wesleyan
 
 On Tuesday Mr Williams addressed a meeting in the Wesleyan Schoolroom at Redruth and on Thursday he addressed a meeting at the Primitive Methodist Chapel in Kooringa.  Throughout much of his attention has been directed against the free distillation movement.  On Friday Mr Williams addressed a meeting at the Bible Christian Chapel in Kooringa, which was also addressed by Mr G.W. Cole.  Messrs W. Pearce, J. Bone, Williams & Richard Dale were appointed agent to enrol members and collect subscriptions for the AE Temperance Association.  In the fortnight at least 140 new persons have signed the pledge and many old members have been reinvigorated and will become more regular subscribing members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

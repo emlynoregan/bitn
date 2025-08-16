@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Football Club loses a good player as the Kooringa Bank of Australasia has transferred E.S. ‘Jacky’ Wayland to Broken Hill.  His friends gave him a send-off on Monday night with a silver-mounted pipe, tobacco pouch and a nice address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

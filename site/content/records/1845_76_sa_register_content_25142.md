@@ -41,4 +41,4 @@ On Easter Sunday the Wesleyan Sunday School students sang their anniversary hymn
 
 Despite the steady rain there was only a little run-off and almost all the rain soaked in, giving an excellent start to the season and raising the spirits of farmers, graziers and tradespeople.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

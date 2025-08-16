@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 SA Mining Association.  An extraordinary general meeting of shareholders was held on Tuesday to elect a Director following Mr William Peacock’s disqualification for being absent from the colony for more than six months.  Mr Peacock having recently returned, he was re-elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

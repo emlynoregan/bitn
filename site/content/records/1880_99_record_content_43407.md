@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Ironmine.  There is a prospect that the large amount of manganese at Ironmine will be used profitably as a smelting flux.  Some Adelaide gentlemen have secured the rights to it for three years from Mr P. Oates.  Messrs Baker, Rosewall and Edwards are raising 50 tons to be sent to Port Adelaide and should it be satisfactory a large quantity will be taken.  It would certainly help absorb surplus local labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

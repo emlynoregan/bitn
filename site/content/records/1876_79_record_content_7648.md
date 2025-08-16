@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Accident. On Wednesday evening a little boy called Moore fell from the pole of a bullock wagon being towed behind another. The wheel passed over him, breaking his arm in two places and otherwise injuring him. He is in Dr Sangster's care.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

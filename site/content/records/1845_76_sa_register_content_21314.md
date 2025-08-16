@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Three informations were laid today under the Bush Fires Act against carters for failing to clear an area of ten feet around their camp fires.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

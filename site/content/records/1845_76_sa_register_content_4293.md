@@ -32,4 +32,4 @@ The article described the passage of a marked cold front on 28 January.  Before 
 
 [*Sympiesometer: a barometer in which there is gas above the column of liquid in the tube, so that the pressure of the atmosphere act against the pressure of both the liquid and the gas, a thermometer being attached for the correction of the readings.  Obsolete.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Kooringa News
 
 Mr Frederick Gurney, the mail driver, was presented on Monday evening with a drab driving-coat, a pair of long boots, a sou’ wester, and a tandem whip, by several persons interested in the early arrival of the mail, as a mark of their appreciation of his services as driver of the mail for the last three years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

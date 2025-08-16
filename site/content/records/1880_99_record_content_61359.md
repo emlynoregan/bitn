@@ -33,4 +33,4 @@ Mr Clode’s offer to rent No. 2 Reserve was not entertained.
 
 Committees for the coming year were elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

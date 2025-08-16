@@ -29,4 +29,4 @@ Burra Town Council, 21 April.
 
 The Mayor handed over a cheque from Mr J. Roach and Staff of £16-18-6 towards the Oval Improvement Fund.  It was decided to join with the DC in getting the road from Kooringa to Princess Royal surveyed and dedicated to both Councils.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ R. Fuss and J.E. Ewins performed the dialogue: ‘Brutus and Cassius’.
 
 R. Fuss is presumably L. Robert Fuss, but B. Fuss is a mystery unless he is also Robert = Bob in another guise.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -48,4 +48,4 @@ Weather.  Splendid rains fell in the past week.
 
 Special services for the Bible Christian Missionary Society were held last Sunday and Monday.  On Sunday three sermons were preached by Rev. R. Lang of Auburn.  On Monday about 200 persons attended a public tea and at 7 p.m. there was a public meeting addressed by Revs Lange, Warner and Allen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

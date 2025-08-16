@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Military Band played almost two hours in front of J.A. Watt’s new store in Commercial St last Saturday.  When complete the band numbers 16.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

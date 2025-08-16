@@ -27,4 +27,4 @@ Working Men’s Blocks
 A petition for working men’s blocks near Burra failed for want of public interest.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

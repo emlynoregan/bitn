@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Out of work miners are finding work on Government roads and the railway construction.  The lambing season is also creating jobs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

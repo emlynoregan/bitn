@@ -33,4 +33,4 @@ Coal
 
 ‘Next to Victoria, South Australia is our best customer for coal.  The smelting works at the Burra Burra copper mine use up a large quantity, and when the projected Northern Railway is completed so as to make carriage cheaper, it will be worth while to smelt the inferior ores, and a greatly increased demand for fuel will then ensue.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

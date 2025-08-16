@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Last week the World's End Road saw: 70 drays carrying 233 tons to Kooringa, 15 drays carrying 21 tons from Kooringa & 7 drays carrying 18 tons to Redruth
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

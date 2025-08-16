@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Greg Drew’s Mine Walk on Sunday drew a crowd of about 50.  After a thorough investigation of the mine site, the group moved on later in the afternoon to inspect the smelts paddock, where the process was described and many interesting stories told of its heyday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

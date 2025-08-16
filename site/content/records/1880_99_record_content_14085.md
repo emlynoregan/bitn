@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bath & Pearce have substantially altered their premises, enlarging them and adding late glass windows and a new verandah and paving the front with Mintaro slate.  The contractor was Mr John Pearce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

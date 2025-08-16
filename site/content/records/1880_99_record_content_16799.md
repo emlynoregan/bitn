@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Colonial’ deploring the editor’s choice to write about the Sudan last issue when crisis closer to home were calling to be addressed - like Council finance, or the depression, or departures, or declining trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

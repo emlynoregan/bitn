@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 C.A.G. Kroncke, who has been unable to work for years and has consequently had to rely on public and private charity for sustenance has now received £800 from the estate of his sister in Germany.  On the advice of Dr Brummitt it has been invested to keep him and his wife for the rest of their lives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ Most issues had an editorial and some a second leader as well.
 
 Sometimes the editorial didn’t start till page three.  Some issues begin without an editorial and with a column simply headed ‘Current Topics’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on the way in which SA has already got a Government which ‘does infinitely more for the people than is done in the old world.  It controls education, the railways, telegraphs, wharfs, charitable institutions, and forests besides the post-office.’  Perhaps we have come to rely upon it too much.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Obituary
 
 W.W. Crossland, manager of Monro's ginger beer business in Kooringa was killed by a bolting horse - tangled in reins while trying to halt it.  [William Walker Crossland died 2 October 1876 Kooringa aged 40.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

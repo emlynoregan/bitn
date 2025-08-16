@@ -29,4 +29,4 @@ John Boundy writes to the editor with warnings to those thinking of going to the
 
 About two months ago four miners at the Bremer Mines left to try their luck in NSW.   They have returned, determined to earn their living by steady, but constant employment.  They say that although there are many instances of individual success, the vast majority are doomed to disappointment.  Thousands are starving, with no means of leaving except by begging along the way.  The men concerned have returned to the Bremer Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

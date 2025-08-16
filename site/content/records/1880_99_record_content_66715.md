@@ -31,4 +31,4 @@ Copperhouse school children are placing fencing wire in the way of a lady cyclis
 
 The Council has done nothing to repair a dangerous washaway near the same spot which caused an accident to Mr W.A. Rabbich who was pitched out of his cart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

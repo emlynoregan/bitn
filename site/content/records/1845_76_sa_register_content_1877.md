@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  There is another advertisement for the ‘Reformer’ stage cart; similar to that of 23 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

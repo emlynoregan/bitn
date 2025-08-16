@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 His Excellency the Governor returned to Adelaide from Kooringa on Thursday evening.  We regret to report that H.E. was severely indisposed during the journey, but has since recovered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

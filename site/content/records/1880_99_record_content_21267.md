@@ -40,4 +40,4 @@ The Commissioner also believes that the cost price includes the losses the gover
 
 Also the Council should consider reducing the rates to encourage higher consumption.  The editor suggests a sliding scale with the 1st 1,000 gallons at 6/-, the 2nd at 5/-, the 3rd at 4/-, the 4th at 3/- with subsequent 1,000-gallon increments at 2/6 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

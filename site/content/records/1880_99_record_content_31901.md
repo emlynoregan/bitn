@@ -39,4 +39,4 @@ There was a letter delivery in Kooringa twice a day and the Post Office also ope
 
 * There was a correction in X. 836, 19 Mar. 1889, p.2 to the receipts to say that the Savings Bank authorities pay £40 p.a. for the work done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

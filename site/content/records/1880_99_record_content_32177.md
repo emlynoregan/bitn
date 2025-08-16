@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Caldwell’s sketch of Burra.  Corrections: the school cost was not £12,000 to £13,000, but c. £7,000 and the attendance in 1886 averaged 373 with over 400 on the roll.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

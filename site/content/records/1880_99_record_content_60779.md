@@ -32,4 +32,4 @@ Redruth Court.
 
 E. Bowman sued F.T. Jones for £31-11-8 as part cost of a wire netting fence in the Hundred of Kingston.  There was considerable dispute over the true nature of the fence and whether it was, or should have been vermin proof, or merely a netting fence on an old fence.  The evidence extends for over 1 column and eventually the verdict was for the amount claimed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

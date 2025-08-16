@@ -41,4 +41,4 @@ The sum raised goes towards the purchase of gymnastic implements for the grammar
 
 The Wesleyan Mutual Improvement Association held a soiree in the schoolroom on Tuesday evening.  J.R. Stephens initiated a discussion on the effects of the poet, statesman and warrior on the civilised world.  Messrs Lane, Ridgway and Oldham took part.  Rev. D.S. Wylie presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

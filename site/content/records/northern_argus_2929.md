@@ -22,4 +22,4 @@ publication_slug: northern-argus
 
 The Crippled Children’s Association held a trading table on Friday that was well supported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

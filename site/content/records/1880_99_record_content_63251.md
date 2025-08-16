@@ -55,4 +55,4 @@ Letters to the editor were uncommon.
 
 A strange form of advertising is the long columns of small print which masquerade as either news or short stories of one sort or another, and which are repeated unchanged for weeks.  Surely no one ever read them, at least after their first appearance, but they sought to sell such things as Mother Seigel’s Syrup or Dr Williams’ Pink Pills.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Burra Burra Company is digging a trench to carry off the water from the Bon Accord engine, so that the ford will remain operational at least until the winter rains bring floods.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

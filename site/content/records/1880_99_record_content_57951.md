@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  August Davidson, a native of Sweden and most recently a miner at Ulooloo died on 11 August at Hallett of Bright’s disease.  [Kidney failure.] [Aged 40.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

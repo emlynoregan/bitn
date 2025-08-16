@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Redruth Wesleyan Sunday-school anniversary last Sunday when the church was used for the first time since its enlargement. It was not seen to best advantage because the seats were turned around to face the children's gallery. Rev. W. Richards preached. Sports on Monday were followed by the public meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Alcoholism.  There is a short humorous account of the attempt by Nels and Annie [Senerson], already well lubricated, to get a drink, first at the Burra Hotel, then at the Commercial and finally being successful at the Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

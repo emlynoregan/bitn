@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Entertainment: Friday 30 March. The Kooringa and Redruth Primitive Methodist Sunday-Schools Picnic in the Police Paddock at Redruth attracted some 250 children and about the same number of adults. The Burra Drum and Fife Band attended and there was a public tea. It raised about £30
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -39,4 +39,4 @@ On Tuesday evening Rev. Stanton presented an entertainment at the Burra Hotel As
 
 The Wesleyan Sunday School held its Anniversary over Easter.  Mr Bone of Kent Town presented two sermons and Rev. Pope preached in the afternoon.  On Sunday evening it is estimated one sixth of the town’s population crammed the chapel.  On Monday the children were regaled with fruit at a picnic on Limestone Hill.  Mr McCulloch supplied the fruit.  Tea meetings followed.  Proceeds totalled £30-17-6.  About 200 children are on the books, but complaints of a scarcity of teachers are made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

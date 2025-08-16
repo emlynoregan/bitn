@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Redruth Primitive Methodist special services last Sunday by Rev. J.H. Williams. Tea- meeting on Monday when Rev. Williams lectured on ‘Best Things’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

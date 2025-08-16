@@ -39,4 +39,4 @@ Lake	1017	44	287	1
 
 [*With two candidates to be elected, plumpers were voters who selected only one candidate.  Duncan and his supporters clearly saw that their best chance was to encourage plumping.  Holder and Lake could have ensured each other of victory if they had been able to ensure their supporters voted for the two of them.  While this clearly happened in some boxes, it did not prevail everywhere.  Holder was well ahead in Burra for example, but in Jamestown, Holder 241 was not so far behind Lake with 297 and in Saddleworth Holder 68 and Lake 61 were quite close.  The total vote was up from 1360 in the previous election to 1852 this time.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

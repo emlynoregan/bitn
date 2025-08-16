@@ -47,4 +47,4 @@ James Martin was born in Cornwall and arrived in SA in 1847, aged 26.  He worked
 
 William Russell was born in Glassford, Lanarkshire on 20 October 1842.  His father died when he was young and he went to work on a farm.  In SA he worked for four years as a labourer at Alma Plains before selecting land near Gulnare.  In 1873 he moved to Caltowie where he farmed for 15 years and then at Belton and Belalie.  He has been a member of the Caltowie and Euralia DCs and a member of the SA Farmers’ Association and it Vice-President for two years.  He was a prominent agitator for getting seed wheat to struggling farmers in 1890 and stood for the District of Newcastle four years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

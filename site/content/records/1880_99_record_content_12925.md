@@ -53,4 +53,4 @@ Mr Rounsevell:
 
 He spoke mainly on taxation reform.  The proposed property tax was unfair and by no means as simple or equitable as the proposers pretended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

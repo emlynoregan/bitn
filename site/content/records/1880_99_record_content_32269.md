@@ -29,4 +29,4 @@ Since the last meeting the Association’s agents in London entered into an agre
 
 Tributers working above water level have raised 114 tons on ore in the last 6 months.  64 tons averaged 24¼% and c. 50 tons averaged 26%.  In the last half year outgoings were £441-10-7 and income £1,233-4-7 which increased the credit balance to £15,437-0-7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

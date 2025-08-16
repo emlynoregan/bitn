@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Resident’ writes hoping the new cab owner will improve conditions by eliminating smoking, swearing and riding on the step to the annoyance of passengers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ There are 747 books in the library and 1,546 have attended the reading room from
 Elected: Vice-President Marshall MacDermott; Treasurer, the Manager of the Union Bank; Secretary, Mr Lees; Committee comprising Messrs Stephens, Corey, Hosking, Roach and Dennis.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

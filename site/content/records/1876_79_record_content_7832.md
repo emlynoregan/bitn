@@ -44,4 +44,4 @@ The Mayor and official party then drove across it before returning to Kooringa f
 
 The toasts are reported in 1 column of detail on page 3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

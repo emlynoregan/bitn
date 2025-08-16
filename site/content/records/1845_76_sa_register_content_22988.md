@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advt.  Details of the sale of town allotments in the Township of Balaklava on Wednesday 24 November and also the Township of Wanborough (near the Port Wakefield Railway Terminus) on 25 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

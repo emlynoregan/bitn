@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Shooting Accident.  Walter Vivian, the young son of H. Vivian of the Commercial Hotel, accidentally shot one of the housemaids in the arm when a small rifle he was using to shoot sparrows accidentally discharged.  The bullet passed cleanly through her lower arm and she is recovering rapidly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

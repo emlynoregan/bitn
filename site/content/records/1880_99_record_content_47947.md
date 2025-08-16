@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. annual social last Friday in the German Schoolroom had W.T. Rabbich in the chair and C. Fuss as vice-chair.  T. Nevin read the 4th annual report.  It was the society’s most successful year with 35 meetings and an average attendance of 36.9.  Dr Sangster’s meeting drew 83 and the lowest, due to poor weather and counter-attractions, was 9.  There were the usual speeches and toasts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

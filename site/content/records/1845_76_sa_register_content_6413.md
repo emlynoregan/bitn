@@ -42,4 +42,4 @@ With only 16 elected members (the others being nominees of the Crown) one unfit 
 
 Let us accept the SA Mining Association’s letter and vote fearlessly and according to the dictates of conscience and reason.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

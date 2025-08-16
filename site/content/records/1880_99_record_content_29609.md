@@ -30,4 +30,4 @@ I HEREBY publicly thank the FRIEND HONESTY for having paid all expenses in re my
 
 W.H. HARDY
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

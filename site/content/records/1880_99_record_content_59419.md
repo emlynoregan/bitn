@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 WA Gold.  In the past year 27,000 persons passed through Port Adelaide bound for WA.  A lot of them came from other colonies, but the majority were South Australians.  Last week over 2,000 passengers left Pt Adelaide.  The general advice of WA diggers, who flooded the city at Christmas, was that it would be foolish to throw up a good job and seek work in the gold regions, but for those out of work and with a little cash the advice was ‘go’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

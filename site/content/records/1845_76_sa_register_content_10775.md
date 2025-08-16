@@ -52,4 +52,4 @@ The verdict was death due to exposure to intense cold.  The jury added: ‘The j
 
 [Born Henry Knevitte 23 January 1848, District of Adelaide: died Henry Knevett 30 June 1857 Sugarloaf Hill near Kooringa, residence Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

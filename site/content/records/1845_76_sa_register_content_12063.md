@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The weather has been very changeable.  On Saturday last there was a violent thunderstorm, which flooded the creeks and carried away the dirt, which is generally lying about.  No damage was done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

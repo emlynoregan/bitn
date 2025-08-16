@@ -31,4 +31,4 @@ Gladstone Gaol.  Charles McCarthy was sentenced to one month at Laura on 6 June,
 
 [The editor of the Record was horrified at this ‘monstrous absurdity’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

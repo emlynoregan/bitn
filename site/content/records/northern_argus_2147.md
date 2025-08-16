@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Photo of David Nourse rescuing trout fingerlings in pools south of the town weir; to be returned to the larger lake in the creek and to the Mine Pool.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

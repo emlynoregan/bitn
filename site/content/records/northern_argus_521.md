@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 BCS.  The 60/40 Prom to end 1985 will be held in the Burra Town Hall on 18 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

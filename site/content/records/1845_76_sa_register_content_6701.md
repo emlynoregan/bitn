@@ -68,4 +68,4 @@ Pollard and Thomas, draymen sought advice.  They had been engaged by Mr Young of
 
 Captain Bath pf the Princess Royal Mine appeared to answer the summons of Thomas Rosewall for £7-19-6 being the balance of wages due in respect of ore raised and dressed February to May 1850.  The argument depended on a deal of technical mining practice and eventually the Bench ruled that the defendant would pay the plaintiff £5-17-0 and each party would pay its own expenses.  The company was given till next Monday to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -47,4 +47,4 @@ Questions:
 
 Rounsevell would support the Totalizator Bill and though personally opposed to payment of members he would act on that issue as a delegate of his electors.  All candidates favoured a railway board to improve railway revenue and all would abolish the abuse of free passes.  All favoured land tax.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

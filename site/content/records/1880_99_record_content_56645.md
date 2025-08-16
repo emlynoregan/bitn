@@ -35,4 +35,4 @@ There was a letter from nine ratepayers complaining of the putrid smells from bo
 
 The Mayor said the matter had been dealt with at their last meeting and notices had been served.  To ensure a sound basis in case law another order had been prepared by the Central board of Health to be passed by this meeting.  This was then done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Erratic Correspondent’ again takes issue with ‘Teetotaller’.  He defends the use of the terms like ‘faddist’, ‘extremist’, and ‘bigot’ as being no more than the utmost truth.  He says he seeks compensation for the owner, not the licensee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Whit Monday was a public holiday here with shops and the Mine closed.  On the previous Sunday the Bible Christians held their Sunday School Anniversary and on the Monday the children had their usual games and food.  Proceeds of the services amounted to more than £50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

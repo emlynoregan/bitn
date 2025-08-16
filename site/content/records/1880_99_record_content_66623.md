@@ -34,4 +34,4 @@ James Richard’s side 10 goals 17 behinds
 
 This was played on the flat at Aberdeen adjoining R. Reed’s residence.  This is a good site, but small and the polo ground proper would have been better.  The game raised £1 for the Burra Jubilee Benevolent Soc. and was followed by a smoke social at the Kooringa Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

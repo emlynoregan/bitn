@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Re-opening of Kooringa Primitive Methodist Church, 20 January by Rev. W. Jenkin.  2.30 & 6 p.m. with tea meeting 23 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

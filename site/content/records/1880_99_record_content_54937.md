@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Floods.  The recent rains had so swollen Gum Creek that four shearers in a spring cart were swept away in the flood.  Fortunately they all landed on a small island from which they were rescued with the aid of ropes.  The horse and cart were not recovered until below the station where the horse seemed little worse for its experience, but the cart was destroyed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

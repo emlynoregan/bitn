@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Trade remains very slack, with few drays on the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

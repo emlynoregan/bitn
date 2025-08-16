@@ -45,4 +45,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs James Murphy died at Aberdeen on Friday.  She was a resident of nearly 20 years, arriving with her husband in 1878 and leaving a husband and three sons: Thomas (married), William, and James (Broken Hill).  And six daughters: Mrs J.G. Lock, Mrs H.R. Sowry (Broken Hill), Mrs J. Blott (Burra), Hannah & Kathleen (Glenelg), & Florence (Burra) and 17 grandchildren.  Two sisters survive: Mrs Pearson (Dunedin) & Mrs Masseda (Sydney).  Fr. Haendl conducted the funeral at St Joseph’s.  [Hannah Murphy died 13 May aged 64]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

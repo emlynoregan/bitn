@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Vandalism.  Children aged 9-10 have broken a number of windows at the Burra Youth Club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

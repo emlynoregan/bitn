@@ -31,4 +31,4 @@ Wesleyan Jubilee Services at Kooringa
 
 Jubilee services of the Wesleyan Missionary Society were held in Kooringa last Sunday.  Rev. S. Ironsides was the deputation from Adelaide and in the afternoon the service was taken by the Primitive Methodist minister Rev. J. Warner.  On Monday a tea meeting was held at which 200 to 300 sat down.  The public meeting followed with Mr J.R. Stephens presiding.  [A full report is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

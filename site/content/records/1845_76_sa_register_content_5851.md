@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Kooringa Election.  The Governor has refused to sanction Mr Lang’s holding his position of Resident Magistrate, if elected for Kooringa.  As a consequence he has withdrawn from the contest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

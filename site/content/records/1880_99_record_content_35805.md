@@ -27,4 +27,4 @@ Advt.  Burra Co. VF.  Notice to Members and Ex-Members
 
 All property belonging to Burra Co. VF and not in use must be returned at once to Commanding Officer.		C. Butterworth, Captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

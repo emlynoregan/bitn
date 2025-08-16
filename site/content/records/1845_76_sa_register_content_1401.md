@@ -37,4 +37,4 @@ Miners	25/- to 30/- a week, but skilled miners are often engaged on tribute
 
 With all this labour arriving it would be nice to see more men with capital amongst them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 ‘Bystander’ writes complaining that visitors still see Burra as a ‘miserable looking place’. He says they should address their complaints to Sir Henry Ayers as the failure of most to get freehold title is the real reason for that.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr G.J. Stewart will deliver an address on The Second Coming of Christ, in the German Schoolroom, Redruth, on 14 August, 7.30 p.m.  Bring your Bibles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

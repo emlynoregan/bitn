@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Kooringa Wesleyan Church anniversary 19 & 20 October. Rev. E. S. Bickford of Victoria will preach. On Thursday Rev. R.W. Campbell will give his lecture on Robert Burns in aid of the [Sunday] School Building Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

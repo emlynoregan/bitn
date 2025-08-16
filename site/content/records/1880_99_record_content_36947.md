@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF is to be represented at the review in Adelaide on Friday 20 June.  A special meeting is being held on the matter tonight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

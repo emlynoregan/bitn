@@ -54,4 +54,4 @@ I think the Upper House should be elected by the whole colony voting as one dist
 
 Should you wish again to have me as your representative, I would be most willing to serve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

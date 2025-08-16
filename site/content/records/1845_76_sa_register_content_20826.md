@@ -54,4 +54,4 @@ The petition to the House of Assembly was then read and procedural matters agree
 
 [Much more detail is presented.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

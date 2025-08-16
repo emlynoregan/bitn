@@ -29,4 +29,4 @@ John Kent, landlord of the Burra Hotel writes re the comment by Mr Bonney on the
 
 ‘…the accommodation in my house had for many years been considered good and sufficient, perhaps Mr Bonney will, through the medium of your valuable journal, inform me in what particular my house lacks the accommodation usually found in country hotels.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

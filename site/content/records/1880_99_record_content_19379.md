@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Pedestrian’ on the matter of roof guttering in Burra - expressing his disgust at both Cr West and the Mayor and suggesting that voters give consideration to electing councillors who will consider the welfare of the town in general.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

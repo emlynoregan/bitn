@@ -45,4 +45,4 @@ Jamestown-Yongala Junction (Petersburg) is 21½ miles.  Terowie to Quorn will be
 
 On 14 December a special train left Adelaide early with the Governor and the official party.  [They are listed.]  The Governor was greeted at Burra by the Mayor, while the trail was fuelled.  A large crowd waited for the train at Hallett where the Chairman of the Hallett DC greeted the Governor.  The Governor, Sir William Francis Drummond Jervois, responded.  There was a pause at Ulooloo platform when it was found that the platform encroached on the carriage steps.  There was a further stop for speeches at Yarcowie, where Robert J. Fisher JP obliged and the Governor replied.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

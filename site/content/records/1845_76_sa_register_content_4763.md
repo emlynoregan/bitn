@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Inquest.  The result of the inquest upon the remains of the ill-fated Fry is a verdict of ‘Found dead.’  The neckerchief found around the skeleton’s neck was stained with blood and it is therefore supposed that he cut his own throat.  The pocket-book supplies proof that he was illiterate and at the time of writing in it was suffering under a mental aberration.  It is clear now that Sergeant-Major McCulloch’s opinions were correct as to the fate of Fry, despite plausible statements made by correspondents in all the respectable papers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

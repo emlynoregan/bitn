@@ -54,4 +54,4 @@ This allowed a reduction in liabilities from £169-18-4 on 1 January 1883 to £9
 
 Elected: President, Mr Lockyer JP; Vice-President, C.C. Williams; Treasurer, Dr Brummitt; Hon. Sec., H. Roach.  [The committee included F.W. Holder.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

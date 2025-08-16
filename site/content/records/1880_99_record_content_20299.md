@@ -27,4 +27,4 @@ Unemployment.  The unemployed object to going to Hergott* to work for 5/6 a day.
 
 [*Herrgott Springs, later Marree.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 On Monday a horse and cart belonging to one of the butchers bolted at a fearful speed through the principal streets.  The shafts of the cart were broken, but fortunately no one was injured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ When men returned from the goldfields it was completed and finally opened for se
 
 It was used by many different groups over several decades.  The Aberdeen Oddfellows’ Lodge seems to have met there for most of the building’s existence.  The building is reported as burning down on the evening of Wednesday 20 July 1910.  Since the lodge meetings were held on alternate Thursdays, this was not following a lodge meeting.  Earlier in the night Mr C. Lowe had been in the premises cleaning the lamps, but no cause for the fire could be established.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

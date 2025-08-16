@@ -38,4 +38,4 @@ A Total Abstinence Meeting was held in Kooringa on 25 June in the Wesleyan schoo
 
 Twenty-nine names were added to the pledge book.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

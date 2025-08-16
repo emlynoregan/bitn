@@ -42,4 +42,4 @@ If the complainant wishes to have lectures that are less missionary in tone, per
 
 At the approaching annual meeting no doubt the complainant will attend and express himself plainly and will be able to introduce more books, planed tables and chairs, a salaried librarian and will himself take up the thankless office of Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

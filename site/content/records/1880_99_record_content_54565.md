@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Shearing violence has broken out at a shed c. 40 miles from Wilcannia in a fight between unionists and non-unionists.  Two shearers were wounded by police and one free labourer was also wounded by unionist fire.  The steamer Pooncarie was boarded on Sunday and set alight.  Sheds have also been fired in Queensland.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Burra Wesleyan Conversazione features pictures, needlework, curios, scientific and other apparatus etc.  In the evenings competitions are held in music and elocution.  The prize-winning essays and poems will be read.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

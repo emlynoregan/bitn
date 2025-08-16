@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 SA Military Forces, including the RVF will have a field day at Glenelg on 1 November.  Burra Co. will go by train, a short distance from which will be staged a sham fight and then a march past.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

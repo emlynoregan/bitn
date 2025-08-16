@@ -29,4 +29,4 @@ Mr Gill the artist has made seven interesting views at the Burra Burra Mines.  T
 
 Several sets of copies have been ordered by the Burra Burra proprietors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

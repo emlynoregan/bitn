@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on a Government proposal to cut up the travelling stock routes.  They are a vital necessity.  The Government says it wishes to shift to other shoulders the responsibility of keeping them free of vermin and thistles.  But the gain to the country of having these routes outweighs any loss of Government revenue, or costs to it.  Just as the cost of maintaining roads falls to the Government so should these costs.  If the routes are being abused then apply the law, but don’t sell them off.  A three-chain road is no substitute for the present 20-chain route that does not provide too much feed nor too much room for the passing of large flocks going different ways.  Narrow passages would be useless.  Ultimately the meat consumer will also be affected by the price of meat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

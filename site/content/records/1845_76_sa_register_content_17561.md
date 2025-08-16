@@ -32,4 +32,4 @@ publication_slug: sa-register
 Allow me to call attention to the dangerous state of the Redruth Bridge due to unwarrantable neglect.  On the Aberdeen side directly adjoining the pier a deal plank has been inserted instead of gum.  This naturally gave way and the hole has spread to about four planks wide, occasioning a serious shock to light vehicles, there being barely room to pass if the horse is at all skittish.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ Accident/Obituary.  Mr Charles Wall, a brother-in-law of Mr Chewings JP of Woork
 
 [Charles Wall died 28 May 1872 at Hampton aged 56.  SA Births CD records only three sons.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -34,4 +34,4 @@ publication_slug: record-1876-79
 
 Football. The club met on Monday at the commercial Hotel. Dr Nesbitt consented to become President. Vice-Presidents: Messrs Lipsett, Lane, Duff, Margetts, Coglin, Bruse, H. Dawson & Dr Sangster. There will be a meeting on Tuesday to choose a Captain and Vice-Captain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

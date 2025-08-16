@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  On 18 March at Redruth, of typhoid fever, Ellen Birt, wife of Matthew M. Birt, aged 26.  [Born Ellen Rogers 16 December 1855]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

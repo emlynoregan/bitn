@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Obituary.  George Brown, aged 38, left a wife and six children and had entered service on 31 May 1681 [sic] [1861?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -43,4 +43,4 @@ We can confirm that the strike is over and that at the usual hour on Wednesday m
 
 The miners had complained that no acknowledgement of this had been given or received.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -34,4 +34,4 @@ Isaac Lambert and Charles Smyth were fined 10/- for carting timber without a lic
 
 Samuel Davis was fined 40/- for failing to display clauses 66 & 67 of the Licensed Victualler's Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

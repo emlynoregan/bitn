@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 Burglary.  A number of beggars have been around lately and they use their time to examine premises, which they return to at night to plunder.  On Monday 20 January someone entered the Brewery Cellars and apparently looked for money.  On Wednesday night H. Roach’s Mill was entered, though only about a dozen coppers were taken.  [The article then continues to retell the court case against John Walker.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: northern-argus
 
 A Back to Hanson was held on 15 March and 200-250 people attended.  A morning church service was conducted by Norrie Baynes of Booborowie, who preached at Hanson for many years and he was assisted by Dorothy White, nee Woollacott.  A display of the town’s history by Kim Brereton was a huge success.  Everyone enjoyed cartoons of the 1940’s by ‘HEK’.  The oldest visitor was Dora Wade 84 and she cut the cake, helped by Flo Blieschke, Laurel Neill and Kim Brereton.  Organiser Pat Brereton was pleased with the success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

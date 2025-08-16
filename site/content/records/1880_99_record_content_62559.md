@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. J. Cowperthwaite of North Adelaide will give a lecture on 20 July in the Kooringa Wesleyan Lecture Hall on Nansen and the North Pole.  The silver coin admission will aid the Home Mission Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

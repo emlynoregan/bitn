@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  {by ‘Quiz’)  The depression is having an effect on both numbers and spirit.  Last Saturday the game was not so good, though the weather was excellent.  Only 9 Colours turned out to play 16 Allcomers.  Colours 4.0 defeated Allcomers 0.0.  Mr A. Lott was umpire.  The Allcomers completely lacked discipline or organisation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

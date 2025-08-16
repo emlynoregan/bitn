@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Polo.  Last Friday Burra 6 goals 14 behinds defeated Adelaide 3 goals 2 behinds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

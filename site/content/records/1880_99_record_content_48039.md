@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The entertainment in the evening at the Institute was prepared by C. Fuss and the Concert Committee and was excellent.  The hall was packed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Kooringa Businesses
 
 A great number of new storekeepers have lately begun trading, though with what success I cannot report.  Some are selling at Adelaide prices despite paying £5 a ton to teamsters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

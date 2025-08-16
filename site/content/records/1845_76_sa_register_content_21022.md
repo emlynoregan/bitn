@@ -41,4 +41,4 @@ The Government had assured them it was doing its best to push forward public wor
 
 The papers reported that the miners at Moonta had passed a resolution which in effect prevented them from making known their grievances and shut their mouths.  He considered that a disgrace to them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

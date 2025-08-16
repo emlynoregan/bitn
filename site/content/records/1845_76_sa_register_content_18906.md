@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Miss E. Palmerston gave an entertainment at the [Burra] hotel on 22 August to a good house.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

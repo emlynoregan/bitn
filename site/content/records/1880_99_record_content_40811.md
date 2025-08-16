@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Juvenile Foresters Lodge: Pride of the Burra was inaugurated on 16 March.  Twenty boys presented their health certificates and with parental consent were initiated.  [Further details are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

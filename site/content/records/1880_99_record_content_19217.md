@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt. John D. Custance, Principal of the Agricultural College, will give an address ‘How to make land pay’, at the Institute on 2 October.  Free - no collection.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

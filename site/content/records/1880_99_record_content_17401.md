@@ -25,4 +25,4 @@ Football Notes by ‘Drop Kick’.
 
 The first game of the season last Saturday following the wake of last season was a scratch match in which Colours 0.13 defeated Allcomers 0.5
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

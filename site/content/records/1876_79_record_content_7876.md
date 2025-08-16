@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Crops. The harvest is proceeding rapidly and results are exceeding estimates. Many will get over 16 bushels per acre and some over 20. Very few will get less than 8-10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

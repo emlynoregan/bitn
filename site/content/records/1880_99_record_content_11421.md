@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Wesleyan School building fund services on 30 December with Rev. W.H. Rofe of Terowie and Rev. S. Knight to preach.  And on 2 January 1884 there will be a Grand Concert in the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -49,4 +49,4 @@ The news from the diggings caused 20 ships to sail without waiting to be loaded,
 
 [The paper reports a gold discovery by a shepherd called McGregor, in the Wellington district, but he kept its location quiet.  It goes on to recount Hargraves’ exploration and his report of the widespread presence of gold in the Wellington-Bathurst area and how Hargraves has established a company of nine working miners at Ophir diggings.  Other sites where he discovered gold are cited as Summer Hill, Guyong and Lewis Pond Creek and a little at Dubbo.  There is news of a universal rush to the fields.  Blacksmiths are in great demand for picks and cradle makers are also very busy.  One correspondent suggested that perhaps 3% will become permanent miners.  Stories of individual discoveries are told.  There is speculation about whether, as in California, the rush will lead to lawlessness and a breakdown in order.  The Government is sending troops and police and an assay office is to be opened on the field.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

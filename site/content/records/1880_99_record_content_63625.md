@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council has obtained a £282 main roads grant for 1898.  The annual inspection of the town will take place on 16 February.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Fry & Smith’s new discovery has not yielded anything that has been tested, despite some reports and nothing likely to yield significantly has been seen.  The only stone seen here that are likely to yield highly came from the Appealina Mine, from which some nice specimens of copper oxide were sent by the last mail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

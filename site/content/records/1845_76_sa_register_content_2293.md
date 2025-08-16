@@ -41,4 +41,4 @@ July 29, 1848
 
 Price of admission, to defray expenses – Males 6d; females, free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

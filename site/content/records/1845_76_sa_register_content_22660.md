@@ -35,4 +35,4 @@ He continues to say that when established there was opposition to the Sailor’s
 
 ‘A “Home” is much more wanted in Adelaide than at the Burra, where not more than half a dozen bushmen would ever think of spending their holidays.  It is chiefly to the capital that the bushman looks for what he calls his “spree,” and it is there that he requires care and protection more than anywhere.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

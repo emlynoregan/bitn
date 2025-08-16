@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Defence Rifle Club.  Match on Monday in strong winds and variable light.  7 shots at each of 200, 500 & 600 yds.  Burra 592 defeated Clare 579.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

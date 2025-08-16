@@ -32,4 +32,4 @@ Editorial on the Burra Cemetery. This needs to be enlarged. Repairs are needed. 
 
 Mr Rees. We object to the tone of Mr Rees's speech at the dinner to Mr Bath. Instead of addressing the complimentary business of the evening he determined on introducing a great deal of political matter into his speech. He clearly regrets greatly his loss of office. He thinks we have forgotten he lost office through changing parties. We haven't.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

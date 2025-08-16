@@ -28,4 +28,4 @@ New Burra Building.
 
 Drew & Co. are erecting new premises on the site of the milliner’s rooms.  The building will have a depth of 82’.  The front will be brought out to the street line for 46’ and the plate glass windows will be in 10’ x 7’ sheets.  There will be an elegant verandah.  The contractor is John Pearce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

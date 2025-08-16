@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Bicycle Club.  Six took part in the outing on Saturday afternoon last and Sod Hut was reached about 4.00 p.m. after a 3.00 p.m. start.  No refreshments except water were available.  They left for Burra about 4.10 and arrived about 5.00 p.m. at Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

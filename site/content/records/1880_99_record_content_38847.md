@@ -26,4 +26,4 @@ Unlooked for expenditure was the result of the loss of two footbridges by the fl
 
 The £300 road grant was expended on main roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

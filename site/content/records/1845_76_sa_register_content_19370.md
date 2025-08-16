@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Rev. W.L. Stanton has given one of his excellent readings from popular authors at the Burra Hotel to aid the case of a widow recently bereaved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ Burra CWA celebrated its 60th birthday recently.
 
 Prior to a pooled luncheon, visitors were given a trip around Burra, visiting Malowen Lowarth and the restored Paxton Cottages.  In the afternoon they were entertained with items by Mavis Thomas and Marie Abbott.  Mallala branch members performed a very funny skit ‘The Waitress’ and the two Woolley girls sang.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  ‘Mark’ writes that in the past considerable effort went into making a ground near the brewery, but without much success.  A stir some three years ago saw the Council acquire and wall the Recreation Ground, but they have done nothing to make it a viable oval.  He suggests handing it over to a trust of the town’s sportsmen would have been more productive of a useful outcome.  Now it has a fine wall, one large and two smaller iron gates, a few forlorn trees - and not much grass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

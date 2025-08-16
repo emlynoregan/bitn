@@ -27,4 +27,4 @@ Port Wakefield Road
 
 A letter from J. Hamilton, Manager of the English & Australian Copper Co. stated he had anticipated the decision of the Road Board and had employed several working parties on the Port Wakefield Road.  As the sum of £1,750 was altogether inadequate, he was disposed to double that amount, if he could obtain from the Government a promise to reimburse the Company at some time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

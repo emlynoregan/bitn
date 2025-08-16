@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  Further on the Clare Club fiasco.  They decided to go to Saddleworth when they knew that team to be only about a dozen strong.  Saddleworth contacted Burra and got the services of four or five men.  When the Clare team arrived and saw the Burra players they refused to play.  In the end a scratch match among the Saddleworth players took place while the Clare team watched.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

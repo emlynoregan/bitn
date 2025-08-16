@@ -33,4 +33,4 @@ To become a member it is necessary to keep a horse and with chaff at between £3
 
 ‘The least the Government can do is to show their appreciation in another and better form to encourage our noble defenders to fight for their hearth and home.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Advt.  Independent Order of Oddfellows SA
 
 A preliminary meeting to form a lodge of the above order will be held at the Lodge Room, Burra Institute, 19 December 1885, J. Both P.G.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

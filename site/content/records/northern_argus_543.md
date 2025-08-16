@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Gary Williams will leave Burra at the end of the year and he was farewelled at the indoor hockey grand finals last Tuesday night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

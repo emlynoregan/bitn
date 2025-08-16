@@ -35,4 +35,4 @@ Fire.  Last Sunday between 4 and 5 p.m. a great cloud of dense smoke was seen ri
 
 [Brief note later on the page: is it true children started Sunday’s fire?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

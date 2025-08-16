@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  The 1st meeting of the committee formed at the General Temperance Meeting on Thursday is called for next Wednesday.  The aim is to provide suitable recreation for inhabitants of Burra.  Institute, 8 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

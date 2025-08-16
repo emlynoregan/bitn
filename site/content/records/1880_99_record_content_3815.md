@@ -28,4 +28,4 @@ Advt.  Samuel J. Hall has opened an eating-house in Thames St, Kooringa.
 
 Meals at all hours with a good yard for horses.  Board and lodging 18/- per week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the fire on Saturday morning at the Waterworks.  Mr Lapidge the engineer was roused from his sleep about 2 a.m. and told the yard was ablaze at the Waterworks.  The wood, about 16 tons, was burnt to ashes and the engine-house was only saved by the courageous efforts of the engineer with three or four helpers.  We have before urged the desirability of having a suitable hose in readiness, but so far to no avail.  The expense of a fire brigade has always been considered too great.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

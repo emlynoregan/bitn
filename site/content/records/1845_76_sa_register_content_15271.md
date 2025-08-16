@@ -31,4 +31,4 @@ Kooringa News, 24 December
 
 Last Thursday evening Mr G. Droege delivered his very interesting and instructive lecture on New Zealand at the Burra Institute.  The audience was very small due in part to the dramatic entertainment at the Burra Hotel, but chiefly to a general lack of interest in such matters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

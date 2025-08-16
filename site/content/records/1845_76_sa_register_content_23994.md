@@ -34,4 +34,4 @@ Court Case.  There is a report of the arrest by Lance-Corporal Smith of a man ca
 
 [There are other details and charges outlined.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

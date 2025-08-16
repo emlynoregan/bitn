@@ -35,4 +35,4 @@ J.D. Cave JP held an inquest at the Miners’ Arms at Kooringa on 17 July on the
 
 [Born John Jeffery Pearse 11 January 1858 Kooringa: died John Jeffery Pearce 17 July 1874, Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

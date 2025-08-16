@@ -35,4 +35,4 @@ Rev. T. Piper presented the Bible Christian missionary special sermons on Sunday
 
 The Amateur Christy Minstrels gave their first entertainment at the Burra Hotel Assembly Room on Tuesday to a large gathering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

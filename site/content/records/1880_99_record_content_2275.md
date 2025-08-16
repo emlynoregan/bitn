@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Sale.  John Sampson jun. will sell the chaff-cutter and circular saw, plant and sundries in the insolvent estate of Snell & Williams, on Saturday afternoon on the premises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

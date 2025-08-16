@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 United Protestant Sunday School Service (less the Anglicans) is to be held to celebrate the Jubilee in the Kooringa Bible Christian Church, 3 p.m. 20 June.  Rev. J.Y. Simpson (Wesleyan) will preside.  There will be addresses by Rev. W.A. Langsford (Wesleyan), Capt. Dearden (Salvation Army), Rev. Flood (Bible Christian) & Rev. Theobald (Primitive Methodist).  The participation of the Town Council and Friendly Societies is invited.  School will meet in Market Square and march in procession to the church headed by the Burra Brass Band.  The precedence as determined by lot: Primitive Methodist, Salvation Army, Bible Christian, Redruth Wesleyan, Kooringa Wesleyan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

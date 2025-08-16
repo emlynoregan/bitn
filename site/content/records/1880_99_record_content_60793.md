@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 John King was charged by J.T. Walker with stealing two pairs of boots from his shop on 24 September.  The prisoner denied all knowledge of the affair, but was sent to gaol for three months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

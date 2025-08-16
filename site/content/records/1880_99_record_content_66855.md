@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Bolt.  On Saturday morning Charlie Grow’s cab bolted from the station.  Someone trying to stop the horses caused it to overturn at the Royal Exchange corner.  The horses and harness were not damaged, but the same cannot be said for the cab.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

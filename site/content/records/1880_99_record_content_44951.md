@@ -76,4 +76,4 @@ Bon Accord Bridge: the ironwork for the new bridge is to come from England.
 
 Burra Mine.  Witnesses are being examined in Adelaide with reference to the purchase of the Burra Mine and the question should be settled in a month or two.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

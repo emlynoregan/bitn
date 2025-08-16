@@ -83,4 +83,4 @@ Of which shareholders get £3-7-7 and £10-2-1 goes in wages and other costs.
 
 The retiring directors, Kingston, Jaffrey, Beck, Peacock and Graves, were all re-elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

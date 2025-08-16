@@ -64,4 +64,4 @@ The coroner on behalf of the jury thanked Mr Perry for the humane manner in whic
 
 [Algernon George Johnson died 24 November 1875 Redruth, residence Riverton aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

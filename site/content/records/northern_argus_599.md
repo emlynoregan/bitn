@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 A Burra Picnic Race Meeting & Gymkhana is being arranged for Sunday 6 April at Thistlebeds Station 10 miles east of Burra on property owned by the Kellock family.  There will be a woolshed dance on 5 April.  Proceeds will aid the RFDS and the Hostel for the Aged in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

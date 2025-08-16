@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The weather has been very hot and has had a very bad effect on crops.  Now it is quite cold and threatening to rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

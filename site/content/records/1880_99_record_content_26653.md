@@ -53,4 +53,4 @@ Mr Rayner asked the chairman to make a note of those words.  The chairman:
 
 Cr Sampson was sure he would be elected Mayor and The Avenue, waterworks and tree watering would be dealt with at a general meeting of ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

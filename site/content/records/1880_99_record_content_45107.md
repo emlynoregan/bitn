@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Coursing Club.  George Parks got 53 nominations from all over the colony for the meet.  Conveyances will run to and from the ground at a charge of 5/- return.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

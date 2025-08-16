@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra Picnic Race Club held its AGM last week and elected: President, John Maidment; Vice-President, David Kellock and Secretary-Treasurer, Les Saunders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

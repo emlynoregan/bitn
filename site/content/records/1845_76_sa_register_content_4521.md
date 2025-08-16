@@ -32,4 +32,4 @@ Dividends already paid amount to £172,480 and the Directors seem perfectly warr
 
 ‘We venture to say there never ought to have been any serious interruption in that prosperous tide of affairs, which has so happily influenced the general progress of the colony.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

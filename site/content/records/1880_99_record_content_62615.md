@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 British & Foreign Bible Society Annual Meeting was held in the Kooringa Wesleyan Lecture Hall on 9 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

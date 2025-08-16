@@ -30,4 +30,4 @@ Arrived c. 10 minutes after the fire commenced.  Every effort was being made to 
 
 The verdict was insufficient evidence to establish the origin of the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

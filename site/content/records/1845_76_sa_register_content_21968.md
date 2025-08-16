@@ -25,4 +25,4 @@ Board of Education
 
 [A long report is printed from William Wyatt, Chief Inspector of Schools.  There is no direct reference to Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

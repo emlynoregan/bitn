@@ -35,4 +35,4 @@ The mayor refused to accept the motion.  Dissent followed and a warm discussion.
 
 Cr Parks eventually handed the Clerk the motion as previously reported, calling for a call of the whole Council on 6 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

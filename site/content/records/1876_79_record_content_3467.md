@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Commissioner of Police indicates that P.C. Wilson has been shifted for a sufficient reason and he will not intervene. The Council decided to continue to press for his return to Kooringa through the efforts of the local M.P.s (Rees and Rounsevell)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -60,4 +60,4 @@ The rest of the correspondent’s comments concerned the police.  The constable 
 
 [Thomas O’Loghlin died 20 November 1874 at Mt Bryan Flat aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

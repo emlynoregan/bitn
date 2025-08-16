@@ -28,4 +28,4 @@ William Smith writes in response to ‘Bushman’ of 24 April.
 
 [He writes in dialect and takes an opposing position.  Many of the displaced workers were good fordoing very little and those displaced should take the opportunities being offered in the new land being opened up on Eyre Peninsula and elsewhere.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

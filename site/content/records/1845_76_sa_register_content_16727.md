@@ -39,4 +39,4 @@ Accident.  Last week Mr W. Ross was travelling with about 8,000 sheep and camped
 
 On Thursday 30 July a lecture was delivered by C.D. Cooper of Adelaide at the Burra Institute on the subject of Popular Poetry, both humorous and otherwise.  Mr MacDermott presided and the Burra Band enlivened proceedings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

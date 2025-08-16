@@ -28,4 +28,4 @@ Copper Digging v. Gold Digging
 
 A father and three sons, tributers at the Burra Burra Mine, earned £24-5-4 per week for the last ‘take’ of eight weeks.  Another party of men made nearly £4 per person per week; both parties were working ‘fetches’ in the shallow levels.  Such wages as those, with comfortable homes and other advantages existing at Kooringa will bear favourable comparison with the vicissitudes of the goldfields on Victoria.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

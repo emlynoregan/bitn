@@ -34,4 +34,4 @@ A memorial was read urging a bridge between Kapunda and the village of Hamilton.
 
 A memorial was read relative to a bad place near the North Star (Templer’s) on the North Road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

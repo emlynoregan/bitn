@@ -47,4 +47,4 @@ The Murray Scrub about 20 miles east of Kooringa was visited and a remarkable fo
 
 At the request of Mr Williams, manager of the Patent Copper Co. Mr Trewartha investigated some land about three miles northeast of the Burra Mine where there are large bodies of silicious rocks, well adapted to the making of fire-bricks and therefore likely, in his opinion, to prove a valuable discovery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

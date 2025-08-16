@@ -28,4 +28,4 @@ John Roach writes from Penwortham Mill on 21 April.
 
 In reply to a correspondent in another colony, I can say that the Wesleyans were the first and only church at or near the Burra in 1847.  Their first place of worship was opened by the late Rev. D.J. Draper in October 1847.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI learnt last Wednesday that this year there would be no encampment.  This is not only a disappointment, but also it prevents the men from becoming ‘extra efficient’ and so earning £3-4-0 and even if ‘extra efficient is awarded they still lose £2-4-0.  This is no way to encourage the volunteers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Obituary.  Mr Buck Kotz died at home on 13 December.
 
 [Alexander Kotz, born 3 December 1920, Saddleworth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

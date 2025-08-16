@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 [He is commenting on a report that W. Halliday recently arrived in Burra with a 49-bale or 9½ ton load of wool.  He questions the damage that such loads do to a road that until recently was deemed impassable.  Surely, he says, there is no reason why two loads of 24 or 25 bales should not have been substituted with less damage to the road.  He also makes comparisons with common loads in England to suggest colonial horses are grossly overloaded.  These heavy loads rapidly reduce 2½ inch cubes of stone to powder.  The Width of Tyres Act should be amended so that the load carried should not exceed 8 cwt per inch of tyre, including the weight of the vehicle.  This would save many thousands of pounds annually and provide great relief to many overloaded and ill-treated animals.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -34,4 +34,4 @@ Plans for the road from Port Wakefield to the Burra Burra had been deposited at 
 
 The ford on the Light at Kapunda had been made good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

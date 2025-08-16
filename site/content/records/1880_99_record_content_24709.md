@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.L.H. Bruse’s meeting of creditors directed that his estate be assigned to Messrs J. Lewis & C. Drew for 5% commission.  The meeting not to be deemed an act of insolvency.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

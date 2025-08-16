@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Thomas Miller appeared to substantiate his right to a bullock claimed by Albert Meurant.  It appeared that about a year ago Meurant bought the bullock and soon after lost it.  A few days ago he saw the bullock in Miller’s team.  Miller proved he bought the bullock from J.F. Angas at Flaxman Valley at about the time Meurant lost it.  His Worship ordered the bullock be returned to Meurant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

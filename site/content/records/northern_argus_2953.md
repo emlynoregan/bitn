@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 BCS.  Students are rehearsing for the production of Oklahoma on 6, 7 & 8 August in Burra Town Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

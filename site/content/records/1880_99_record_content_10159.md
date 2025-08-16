@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘took with it that heap of ruins which stands on its banks in the southern part of the town known as the Pig and Whistle hotel, and ticketed “Bar at the back”.  It might be the means of inducing the owners to spend the insurance money on a building more worthy the name “hotel” than the place there at present.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

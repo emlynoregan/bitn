@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Temperance.  Next Wednesday in the Institute Revs D. O’Donnell and Mr E.H. Derrington will deliver addresses for the South Australian Alliance Executive: an organisation advocating total abstinence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

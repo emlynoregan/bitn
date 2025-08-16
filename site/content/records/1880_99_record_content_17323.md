@@ -34,4 +34,4 @@ This is causing problems.  In its favour it is a boon to be able to the city ear
 
 2.	The last train from the north is too early for business hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

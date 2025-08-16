@@ -29,4 +29,4 @@ Ulooloo Gold-fields
 
 Mr Coglin, the Crown Ranger, reports Wescott’s party obtained 1 oz of gold after 4 to 5 hours washing.  They are attempting to trace the lead back to the hills.  There are reports of others finding payable quantities, but also many reports of parties from Burra returning disappointed.  Much of that may be due to unfitness for the work, lack of tools or inexperience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

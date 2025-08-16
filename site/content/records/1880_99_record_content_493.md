@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Market Street. A special grant of £400 to make the road from St Joseph’s to Market Square has been placed on the Government’s estimates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

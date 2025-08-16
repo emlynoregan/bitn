@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Kooringa Primitive Methodist special annual services were held last Sunday 31 July and on 3 August the usual annual dinner was followed by a concert at the Institute.  Total proceeds were £37-5-9.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

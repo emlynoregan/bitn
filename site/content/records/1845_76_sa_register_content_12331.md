@@ -26,4 +26,4 @@ Kooringa News, 4 May
 
 Weather.  The needed rain began on Tuesday and continued gently for several hours.  It was much needed, with some of the runs as bare of feed as the highway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

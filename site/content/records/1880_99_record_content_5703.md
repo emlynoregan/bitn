@@ -29,4 +29,4 @@ Editorial on Burra Model School.
 
 The editor is in favour of inspection and examination as long as the latter elicits the true knowledge of the pupils and not merely an ability to answer in parrot fashion.  Standards must be the same across the various inspectors and cramming for exams must be deplored.  The recent % gained at the Model School is higher than ever.  The staff is still below the number that regulations suggest and this should be remedied.  During the year five pupil- teachers went for examination and of them three gained 1st class passes and one a 2nd class pass, while one failed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

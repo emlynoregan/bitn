@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [Absit omen = may this foreboding not become fact.  Which seems a trifle odd since the allegation is that it has been fact for the last 50 years.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

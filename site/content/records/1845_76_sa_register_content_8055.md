@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 John Broadbent’s Diary of an overland journey from Cherry Gardens to the Mount Alexander Diggings is printed.  The trip took one month.  Also printed is a letter from him dated 12 March 1852.  This adds nothing to what has already been noted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

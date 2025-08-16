@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Linkson said Lieut. Watt had kept the Burra Co. VF going long after it would otherwise have folded and was then responsible for the success in forming the Burra Co. MI.  Lieut. Watt made a suitable reply and thanked all who had donated prizes and so encouraged the men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

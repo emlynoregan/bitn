@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra National Trust has reproduced the superb old calendar with pen and wash drawings of Burra’s early buildings for use in 1986.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

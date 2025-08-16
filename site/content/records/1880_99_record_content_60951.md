@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 G. Wills & Co. have offered £500towards a fund to assist farmers in distress due to the bad season.  The Treasurer said recently that the Government had not yet enough information to enable them to formulate a policy on seed wheat and could not promise a £ for £ subsidy on donations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

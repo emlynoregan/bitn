@@ -67,4 +67,4 @@ P-C Richard Phelan could give no definite cause for the fire, but it appeared to
 
 The jury’s verdict was in line with Phelan’s views: the building was ‘wilfully and maliciously set on fire by person or persons unknown.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

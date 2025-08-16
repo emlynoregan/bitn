@@ -77,4 +77,4 @@ Cr West thought £30 was a reasonable contribution, but in due course East Ward 
 
 The matter was adjourned for two weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

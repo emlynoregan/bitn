@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Has been training very hard, and is equally confident of success.  ‘since his defeat last year he has not gained many friends, but if the speed is there what does it matter?  I would not be surprised if he pulls off the coveted prize.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

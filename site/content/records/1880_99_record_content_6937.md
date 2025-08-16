@@ -29,4 +29,4 @@ Local Board of Health
 
 Butcher’s licences granted to Messrs Benney, Goodridge, O’Leary and Rabbich.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

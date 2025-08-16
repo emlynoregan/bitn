@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 One asked why more men have not taken up the homestead blocks. [Also known as working men’s blocks.]  They are available at Hallett and would provide the necessities of life.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

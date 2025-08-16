@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Weather strange; Friday & Saturday last cold and stormy, Sunday was spring and Monday through Wednesday summer, Thursday rain, Friday light snow and at Mt Bryan there was more snow on Saturday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

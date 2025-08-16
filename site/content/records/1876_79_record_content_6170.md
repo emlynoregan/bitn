@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 D.S. Packard, solicitor, who has had management of Messrs Symon & Bakewell's office in Adelaide will take up his profession in Burra from 31 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

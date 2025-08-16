@@ -30,4 +30,4 @@ The work of the scavenger is to be increased.  Watertabling in the main streets 
 
 The Waterworks burnt fence to be replaced by O. Bartholomæus for £5-18-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church held its Anniversary services last Sunday.  The preacher was Rev. Thomas Weatherill of Mallala.  Services were fairly well attended.  The tea meeting followed on Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

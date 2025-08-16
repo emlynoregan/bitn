@@ -34,4 +34,4 @@ D. Roger’s tender for some kerbing at £1-13-0 per chain was accepted.
 
 The problem caused by stagnant water in the creek was left to the Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

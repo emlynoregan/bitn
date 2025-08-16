@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Street Trees.  The council has said that water is to be laid on to Welsh Place to water the trees.  A hydrant has been obtained so a hose can be fitted to any fireplug.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

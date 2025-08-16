@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Editorial on the change in attitudes, which is, directing more attention to the needs of the masses, but there is no agreement about such matters.  What one party sees as humane and effective, the other condemns as inefficient and illusory and an outrage to respectable feelings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 W.T. Rabbich writes on the land question.  He is concerned about the progressive land tax proposals.  He sees a major problem in the large estates occupying good agricultural land, but currently monopolised by the pastoral interests.  These should, he says, be broken up and pastoralism confined to less productive areas.  Repurchase has been suggested, but unless this is combined with a prohibition on re-establishing large estates it would lead to their re-appearance and speculation.  If, when land is needed for closer settlement, it were acquired by repurchase and then a progressive land tax applied it would protect against further monopoly.  Examples of land that could be acquired are cited as Martindale, Hill River, and Gum Creek Estates - all eminently suited for closer settlement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Holidays have come and gone, but the toy trumpets in particular seem to have come to stay, unfortunately.  The main activities locally were picnicking and fishing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

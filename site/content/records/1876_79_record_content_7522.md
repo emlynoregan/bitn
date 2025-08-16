@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Dr Nesbitt thanked the meeting for the amicable way in which unpleasant aspects of the past year had been aired without rancour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

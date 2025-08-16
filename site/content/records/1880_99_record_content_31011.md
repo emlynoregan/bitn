@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Jasper Deane: Wood-Carver of St Paul’s, by John Saunders, 29 June to 14 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

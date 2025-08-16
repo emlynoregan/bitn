@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 On Friday Bagg leaves for Broken Hill to try to lower the record for the run to Adelaide on a Swift Path Racer.  Good pacing will be arranged all the way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

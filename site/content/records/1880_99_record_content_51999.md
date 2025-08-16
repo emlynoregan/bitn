@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Advt.  Pastoralists and Graziers Meeting on Friday 8 December at 11 a.m. in the Adelaide Town Hall Banquet Room, to discuss the question of establishing the Frozen Meat Industry in SA.  C. Wade, J.J. Reid, J. Lewis, H.W. Hughes, W.B. Sells and A. McFarlane.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rabbits continue to increase and now a plague of caterpillars has appeared to the northeast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

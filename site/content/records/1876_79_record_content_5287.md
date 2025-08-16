@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Fire. On Wednesday 26 Nov. fires broke out in several places along the railway line just after the mail train went through Wattle Grove Farm (Alfred Hallett & F.J. Motley), but they were quickly extinguished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

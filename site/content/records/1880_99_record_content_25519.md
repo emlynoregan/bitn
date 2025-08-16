@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Tree Planting.  About 250 new plantings have been made in the streets of Burra.  The ratepayers are asked to care for those near their premises while they are young.  Those cared for are five to six times the size of those neglected in the areas previously planted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

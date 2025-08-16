@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Birth.  To Wendy Rayfield & Jeff Underwood at Burra Hospital recently, a daughter, Tansie Marie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

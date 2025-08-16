@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Birth.  On 31 January to the wife of John Jones at Redruth, a daughter.  [Linda Ellen]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Redruth Primitive Methodist special services in aid of circuit funds last Sunday and Monday. An open-air service at 5.30 p.m. was attended by c. 100 and the evening chapel service was crowded. Proceeds from the services and tea-meeting were £11.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

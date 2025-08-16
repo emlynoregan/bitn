@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Primitive Methodist Choir service of song in aid of the hospital raised £9-17-0 less printing and advertising costs for a nett £8-4-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -33,4 +33,4 @@ Editorial.  “Westward Ho!”
 
 The editor likens WA to Texas.  WA is now clamouring for responsible government.  What are the immediate prospects for WA?  Some four years ago the Kimberley District was opened for selection with wonderful water and grass for ten months of the year.  Pastoralism has taken off.  Cattle are doing well and sheep are being sent there by ship.  Derby is growing.  A new and prosperous era is in store for WA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

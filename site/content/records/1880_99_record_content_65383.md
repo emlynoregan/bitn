@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Burra Lodge (Oddfellows) was visited by District Officers on Wednesday 14 December.  There was a special lodge meeting in the evening followed by a social at the Commercial Hotel chaired by Dr Sangster and this is reported at length in 1¾ columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

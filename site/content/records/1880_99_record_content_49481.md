@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. R.M. Hunter, Wesleyan Minister at Kooringa, writes to say that an advertisement in the previous issue advised of an election meeting in the World’s End School, but this school uses the Wesleyan Church there and political meetings are not allowed in Wesleyan Churches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

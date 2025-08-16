@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 This morning Mr Giles Jnr came in from Ketchowla to report the sudden death of a young man at that place.  A trooper has gone out to make enquiries and see whether an inquest is needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

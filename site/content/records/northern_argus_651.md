@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 President of the Burra Hospital auxiliary until it went into temporary recess in 1975.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

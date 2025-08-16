@@ -35,4 +35,4 @@ Zion Primitive Methodist Chapel Redruth
 
 The Sunday school anniversary was held on 2 October the sermons were preached by Mr William Dale, Rev. J. Way of Kooringa and Rev. R.C. Flockart of Kooringa.  Congregations were very good.  On Monday the school, led by the Burra Brass Band, went in procession through Aberdeen, Redruth and Kooringa to the residence of the minister Rev. J.D. Whittaker, who is very ill, before returning to the chapel.  Mr Lamb of Kooringa took a faithful photograph of the procession.  They carried a silk banner with ‘Redruth P.M. Sunday School, established 1858’ on it.  Also two beautiful blue and white flags.  Cake, tea, nuts and gingerbread etc. followed.  Afterwards about 150 adults enjoyed tea followed by a public meeting at which it was shown that the school was in a flourishing state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

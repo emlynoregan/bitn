@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Kooringa Aborigines held a large conclave on Tuesday last to deliberate on the measures necessary to be taken in consequence of the desertion of the country by the white men!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

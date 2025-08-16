@@ -33,4 +33,4 @@ For a four-rail fence for 100-150 acres of land
 
 For the supply of 25,000 bushels of charcoal for the Burra Burra Mines in quantities of not less than 500 bushels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

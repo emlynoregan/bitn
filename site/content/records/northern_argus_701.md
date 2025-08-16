@@ -54,4 +54,4 @@ The microfilm of the Burra Record for 1876 to 1977 is available.  Challenges to 
 
 Mr Auhl has expressed a hope that the collection ‘will attract the commitment to its further use and growth in the course of the future of Burra and district.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

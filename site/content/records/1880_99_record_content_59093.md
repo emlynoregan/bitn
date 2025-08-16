@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Mr Holder is very highly praised for his comprehensive knowledge of all subjects in the Parliament, his ability to pick up the work of any colleague who may be absent and his intelligence and ability to construct a well-reasoned argument.  From an article by ‘Autolycus’ in the Mt Barker paper.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

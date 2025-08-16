@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Bath’s Grand Lottery was drawn in the large room of the Burra Hotel on 5 May, when 40 prizes were handed over to the fortunate winners.  About 150 people attended.  Mr Kingston attended for a short time and was enthusiastically cheered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

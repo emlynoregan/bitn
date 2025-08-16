@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Captain Sanders, who for 5½ years managed the Burra Mines is about to leave the colony to take charge of one of the Gippsland mines. A number of Burra friends invited him to the Corporation Office to present a silver inkstand and locket as a memorial of Burra. The Mayor made the presentation with an accompanying address. Mr Lane expressed the satisfaction he had had in working with the Captain in the Corporation and elsewhere. These feelings were echoed by Messrs Coglin, Bath and others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

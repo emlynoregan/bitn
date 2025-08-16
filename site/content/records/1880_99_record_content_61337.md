@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 John Newcomb (45) was charged with obtaining by false pretences articles from Charles Moore & Co. valued at £4-18-7 on 17 September.  He had represented himself as a lawyer practising at Quorn and passed a cheque that proved valueless.  Newcomb defended himself and claimed that it was a post-dated cheque, which constituted therefore no forgery, nor was it illegal.  He also claimed it was not illegal to set oneself up as a solicitor without being on the rolls as such.  The jury found him guilty and he was sentenced to 18 months hard labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

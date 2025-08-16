@@ -63,4 +63,4 @@ Two shipments of gold of £3,000 and £4,000 respectively have been sent to Lond
 
 A private letter from Bathurst tells of its writer having seen a 7 lb troy lump of gold.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

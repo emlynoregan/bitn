@@ -29,4 +29,4 @@ Rosie Lloyd (hurdler) attended the ANZ Youth Sports athletic clinic in Melbourne
 
 Rosie and four others will represent Australia in china in August at an athletics meet between Australia, China and Japan to be held in Beijing and Tianjin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

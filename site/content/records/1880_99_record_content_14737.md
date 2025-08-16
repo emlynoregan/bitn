@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Editorial on the London Economist, which has been writing about wheat production in America, India and Australia.  The writer considers the problem in Australia of land being exhausted with no new areas to be opened up.  In the past in SA new land were always available for settlement, but no longer.  Farms gradually went from 80 acres to 2,000 and he now predicts a reversal of this trend as more farmers’ sons seek farms.  But can smaller areas be made productive enough to support a family and be kept fertile?  He suggests an integrated farming system with cropping, dairying and pigs that would enable this.  Other products will be beet sugar, olives, mulberries (for silk), honey, flax, chicory and tobacco.  Methods of cultivation must be improved.  He supports the efforts of Professor Custance at Roseworthy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

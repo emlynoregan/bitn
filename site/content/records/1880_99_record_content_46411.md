@@ -30,4 +30,4 @@ Advt.  Kooringa Primitive Methodist Church Service of Song Jessica’s First Pra
 
 Rev. R.J. Daddow has just received the set of slides illustrative of the service and hymns and Mr Thomas will exhibit them through his new Telescopic Bi-unial (oxy ether) Lantern with limelight.  Connective readings R.J. Daddow and the choirs of Redruth & Kooringa Primitive Methodist Churches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

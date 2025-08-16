@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Election Matters.  Delegates of the National Defence League met at Hallett on 29 March and decided to support Mr Pascoe in the election.  Mr Pascoe has since retired in favour of Mr Duncan!  But the next paragraph says Mr Duncan has since retired in favour of Mr Pascoe!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

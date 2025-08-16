@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  On Tuesday a fire burnt 7 or 8 acres of W.A. Rabbich’s paddock situated west of the Burra Railway Station, adjoining the line.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

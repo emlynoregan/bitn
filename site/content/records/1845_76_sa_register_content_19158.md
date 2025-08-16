@@ -29,4 +29,4 @@ Advertisement
 
 Tenders are called for the purchase of sections 27 (164 acres) and 28 (152 acres) and 30 (237 acres in the Hundred of Kingston.  On section 30 there is a well with a good supply.  Section 28 has a two-roomed house.  This is a most desirable property within 7 miles of Kooringa.  With the land are sone 400 sheep and 30 lambs which will have to be taken by the purchaser.  For further particulars contact W.L.H. Bruse, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

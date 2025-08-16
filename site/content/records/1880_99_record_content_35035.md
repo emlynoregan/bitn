@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 At Riverton on 2 January Riverton 100 & 1 for 13 defeated Burra 41 & 72 by 9 wickets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

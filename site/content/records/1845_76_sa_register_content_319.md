@@ -34,4 +34,4 @@ Mining Companies
 
 SA Mining Assoc. announces ten miners have raised 200 tons of ore worth over £400 in twelve days and the principle lode has been found to be ‘of enormous dimensions’.  Sixteen of the £5 shares this week brought a 150% premium.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

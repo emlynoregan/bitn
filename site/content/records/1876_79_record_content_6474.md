@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Cornish Relief Fund. The President of the SA Conference has recommended support for the fund as great distress has been caused to innumerable families by the collapse of the mining industry in Cornwall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

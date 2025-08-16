@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Football meeting at the Burra Hotel on Wednesday.  W.H. Hardy took the chair.  The Captain, G. Herbert, resigned.  G. Parks took his place.  It was resolved to send a team to Terowie on 9 July and challenges had been issued to Clare and Auburn.  Last Wednesday’s scratch match was successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

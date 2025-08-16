@@ -30,4 +30,4 @@ John Olsen, Leader of the Opposition, opened the SES Shed at the railway yards o
 
 [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

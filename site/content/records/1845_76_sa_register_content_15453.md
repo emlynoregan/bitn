@@ -50,4 +50,4 @@ In the Far North the Great Northern Mines began in June 1860 and have been pursu
 
 Other mines referred to in the book are those of Strathalbyn, the Bremer and Kanmantoo from which silver, lead and copper have been obtained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

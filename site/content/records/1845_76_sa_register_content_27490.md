@@ -29,4 +29,4 @@ Burra School Needs.  Captain Killicoat, as Chairman of the District Council, has
 
 23 March 1876, page 6
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ The Old North Road
 A meeting at Templers, North Star Inn Saturday 23 July was called to discuss delays to the formation of the Old North Road.  Not only was work not progressing much, the work already done would not stand winter traffic.  The North District was unfairly treated.  After 27 years of the colony there North District did not have 27 miles of serviceable road.  The meeting called for Parliament to grant £30,000 for the completion of the Old North Road from Gawler past Templers.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Two destitute children, Walter and Edward Hand, aged 6 & 4 were sent to the Industrial School Magill till aged 16.  Their mother is in Redruth Gaol and their father is an absconded debtor of unknown whereabouts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

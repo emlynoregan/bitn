@@ -33,4 +33,4 @@ Samuel Shirwell was fined 10/- plus £1 costs for allowing his team to travel on
 
 Daniel Davies, alias Crancky Dan, was gaoled for 14 days for using abusive and indecent language to a young girl in the public streets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

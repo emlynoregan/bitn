@@ -28,4 +28,4 @@ Obituary.  Mr J.A. Hartley BA, SSc, died last week [15 September].  News arrived
 
 [John Anderson Hartley died aged 52.  The whole of the matter of the accident and its consequences is reported in detail in Colin Thiele’s Grains of Mustard Seed, Ed. Dept. of SA, 1975, in the Prologue, while his achievements are assessed in Chapter 4.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Paratoo Shearing - over 200 shearers and hands passed through Burra on Wed. for 
 
 [On the face of it this seems impossible, requiring each vehicle to carry at least 33 people!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

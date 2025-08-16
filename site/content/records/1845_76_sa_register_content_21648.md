@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 On 27 February Time Tries All was presented, followed by the burlesque Bombastes Furioso.  About 200 attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Editorial on The [SA] Parliament.
 
 Discusses matters before the house and in particular the attempt by the Government to avoid signing into law Mr Bray’s Local Courts Bill, despite its having been passed by both houses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

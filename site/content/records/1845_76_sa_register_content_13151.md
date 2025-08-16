@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 An attempt to declare Dr Browne a fit and proper candidate was met with interruptions of contempt and derision and failed to gain support.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

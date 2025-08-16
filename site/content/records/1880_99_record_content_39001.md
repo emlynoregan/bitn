@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Postal Charges to other countries are to drop on 1 January 1891 to 2½d per ½ oz letter to most countries and all will now go by the fastest means rather than by the all-sea route.  (The fastest route presently costs 6d per ½ oz.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

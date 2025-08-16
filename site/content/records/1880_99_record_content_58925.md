@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra State School had its prize distribution last Friday.  W. West as Chairman of the School Board of Advice presided.  Addresses were given by Rev. R.S. Casely, Mr W. Bennett (Teacher in charge since Mr Kennedy left) and T.W. Rabbich.  The prize list is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

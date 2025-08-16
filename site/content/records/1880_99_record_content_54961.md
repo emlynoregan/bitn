@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 New Councillor.  Contrary to the usual courtesy when all Councillors assemble for the swearing in of a new member of Council, on Tuesday night, 9 October, when W.H. Hardy was sworn only Cr Parks was present and a JP had to be hunted up.  The new Councillor received a cool reception at the Council meeting on 15 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

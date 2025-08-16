@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Easter services were well attended.  The locusts had some impact on the decorations and the flowers for the Sunday service were not quite as elaborate as some years.  The dahlias from the Misses Cave were very beautiful.  The new organ was heard for the first time and enables many pleasing musical effects previously impossible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

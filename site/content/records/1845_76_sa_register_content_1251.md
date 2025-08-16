@@ -72,4 +72,4 @@ There was then a debate about the rules of the Association as related to the num
 
 The question of whether Mr Stocks be requested to remain or not [apparently as an ordinary director] was negatived 20 to 7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

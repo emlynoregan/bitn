@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church at Mt Bryan East will hold its anniversary on 18 & 19 April.  The preacher will be Rev. W.F. James of Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

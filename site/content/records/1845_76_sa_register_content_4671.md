@@ -40,4 +40,4 @@ When it became known that water frontages were being reserved at the township of
 
 [A list of the sections that were sold is then printed, giving the information of Section number, areas, purchaser’s name and sum paid.  The total comes to £5,908-16-0.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

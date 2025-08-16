@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Goodridge & Duff will sell on Friday the heaviest bullock ever yarded here which weighed in yesterday at 2,100 lb or 18¾ cwt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

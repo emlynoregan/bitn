@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church Anniversary was held on 5 & 6 October.  Rev. G.E. Rowe preached in the morning, the service of song Little Dot was rendered in the afternoon and Rev. J.G. Wright preached in the evening.  The tea was very well attended and it was provisioned from Mr Gebhardt’s bakery.  Over £200 has been raised in the past year and all demands have been met with a few pounds over.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

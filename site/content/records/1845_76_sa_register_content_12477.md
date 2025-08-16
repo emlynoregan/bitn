@@ -30,4 +30,4 @@ Kooringa News, 13 July
 
 Accident.  On Monday Mr Jarvis of North-West Bend was thrown from his horse in the main street when a dog caused his horse to shy.  He landed on his head and appears to have suffered concussion, but is responding to treatment by Dr Mayne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

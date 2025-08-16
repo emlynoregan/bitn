@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rape.  Harry Hicks has been committed for trial on 3 August at the criminal sessions on the charge of the attempted rape of 11-year-old Ada Lamming on 15 July at Kooringa.  The evidence was unfit for publication.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

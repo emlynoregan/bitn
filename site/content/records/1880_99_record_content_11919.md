@@ -47,4 +47,4 @@ He saw himself in a society on the brink of great changes, of an end to tyranny 
 
 1883 saw the first steps in Australia towards federation and the prominence of the annexation policy.  In SA the year was characterised by severe depression and ended with a good harvest.  In Burra 1883 began with the destruction by fire of four of the newest business premises.  These have been rebuilt.  The last event has been the adoption of a waterworks scheme for the town.  In politics it is taxation and the land question that have dominated the year.  The Intercolonial railway is in hand and the Jubilee Exhibition is in prospect and the Federated Australasia question will continue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Alexander Harris fined 5/- for using unstamped weights. And for weighing butcher's meat with a spring balance, fined 20/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

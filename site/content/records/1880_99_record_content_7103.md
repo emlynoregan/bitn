@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Aberdeen suffered from the departure of many of their best players.  Best batsman: J. Sara (av. 29).  Their best bowler was O’Brien (av. 8.15)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Water Supply. There is a summary of the recent moves to get a water supply. The 
 
 There has been talk of laying a main from the spring at the wool wash in Kooringa into Market Square, but nothing has yet come of it. No real scheme for a permanent water supply has come from the last Corporation meeting except for an idea of extending the line from Ridgway's to Market Square. So Kooringa is Dow worse off than Aberdeen, which also has some surface water in the creek as a result of last Saturday's rain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

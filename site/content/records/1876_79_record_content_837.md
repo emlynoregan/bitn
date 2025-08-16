@@ -30,4 +30,4 @@ Kooringa Wesleyan Church
 
 Rev. D. O’Donnell of Clare’s lecture on Temperance at the Institute on Saturday was postponed when heavy rain produced a very small attendance.  He preached twice at the Kooringa Wesleyan Church on Sunday and on Monday at the Institute delivered an address on ‘Tom Hood: his life, character and works’.  Poor weather again reduced his audience.  The Temperance lecture was given on Tuesday to an audience that was not large, but ‘respectably filled’ the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

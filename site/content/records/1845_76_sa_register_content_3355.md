@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 [The rest of the editorial conveys news from England that arrived with these vessels.  It includes news of the Chartist uprising and arrests in Manchester.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

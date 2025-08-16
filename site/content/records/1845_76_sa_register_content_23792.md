@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  Fires were lit under the engine on 30 December 1870 and the new lift responded admirably.  It is expected the water will be sufficiently ‘in fork’ in a few days to allow the dressing machinery to be tried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

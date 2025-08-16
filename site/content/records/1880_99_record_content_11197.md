@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School annual fete was held last Friday.  An enjoyable series of sports was held under a threatening sky, which followed a night of thunder and lightning, but it was dry till an evening shower.  Proceeds were highly satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

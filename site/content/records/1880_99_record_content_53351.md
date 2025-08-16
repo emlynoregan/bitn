@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A large adverse petition is being prepared.  The editor favours the arguments against cutting up the roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

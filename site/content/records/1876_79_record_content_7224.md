@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Cornish Relief Fund. A portion of the fund has been used to send 156 people from 20 families to Canada an average cost per head of £4-12-3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

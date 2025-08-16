@@ -62,4 +62,4 @@ P-C John Worthy Johnson gave evidence and the verdict of the jury was ‘death b
 
 [Death registeration gives the age as 5 years and the place as Princes Town.  Born 1 April 1878.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

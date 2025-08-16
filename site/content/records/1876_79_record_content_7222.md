@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Terowie Railway. Earthworks are rapidly being pushed on. A beginning has been made right in Terowie and the gaps remaining between Hallett and Yarcowie are now short.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

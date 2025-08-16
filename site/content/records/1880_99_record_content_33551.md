@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Geake’s offer to light the Market Square lamp for 3 months for 15/- was accepted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

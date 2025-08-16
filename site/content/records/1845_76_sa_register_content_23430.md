@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  This has been one of the most favourable seasons for the Kooringa district.  Feed is abundant, few cattle have died from  cold and starvation in the wet and lambing has been most successful, though unfortunately not as numerous as might have been as farmers, fearing a continuation of the drought did not put rams into the flock at the usual period.  Both graziers and agriculturalists are in good heart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

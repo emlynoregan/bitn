@@ -27,4 +27,4 @@ Ulooloo Gold-field
 
 A report in the Northern Argus says 7 oz of gold have been brought into Burra from Ulooloo, but no one here seems to know of it.  Last week a party of four brought down from 3 to 5 dwt from trial dishes.   Several holes have been sunk, the deepest to 20 ft and they have bottomed on quartz boulders, which are too hard to handle by the miners.  Everyone seems certain good weighty gold is there, but no reef has yet been disclosed.  About a dozen persons are camped there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

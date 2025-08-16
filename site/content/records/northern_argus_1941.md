@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Carolyn Bowden & Debbie Moore have passed the State Final examinations as Enrolled Nurses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

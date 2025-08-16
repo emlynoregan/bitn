@@ -28,4 +28,4 @@ Editorial on The Burra Corporation Loan Scheme.
 
 Issuing bonds now seems possible at 5% with the last bond payable 15 years from issue - saving 2% on the present bank rate of 7%.  This will also avoid losing £600 of Government subsidy on this year’s rates.  The proposed expenditure is generally well received.  As for the £500 for the Recreation Ground, the Ornamental Grounds Bill will allow the Council to charge entrance fees on certain occasions and to charge the sporting associations and so a special rate is unlikely to be needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

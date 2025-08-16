@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Advt.  Auction: In the Hundred of Dalkey, section 2093 at Dunn’s Bridge on the River Wakefield, with the hotel known as The Bridge Inn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

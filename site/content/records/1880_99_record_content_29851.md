@@ -38,4 +38,4 @@ Others gave supporting evidence.
 
 The conclusion was that the deceased ‘met her death by drowning in a dam . . . but there was no evidence as to the state of her mind at the time.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Advts. Liston, Shakes & Co. will offer 13,440 sheep on 5 June.
 
 Davey, Farrar & Scott will offer 10,907 sheep on 9 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

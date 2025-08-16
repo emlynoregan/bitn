@@ -60,4 +60,4 @@ Mr J. Wiltshire then proposed ‘That Mr William Lang Esq., from his extensive p
 
 Seconded by J.S. Barnett and carried.  Mr Pearce, tailor, of Kooringa also spoke at length in support of Mr Lang.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

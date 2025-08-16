@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The season.  Rain is needed and crops are beginning to be stressed.  Wool is arriving fast at the station and by all accounts the clip is very good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

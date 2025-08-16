@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The new boundaries will require the retirement of both councillors of Middle and South Wards on 30 November and their replacement by two new Councillors each for East and West Wards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

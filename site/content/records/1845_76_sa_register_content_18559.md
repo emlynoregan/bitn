@@ -57,4 +57,4 @@ The offer is 50,000 shares of £1 each with power to increase the capital to £1
 
 Profits from banking may be estimated from the following:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

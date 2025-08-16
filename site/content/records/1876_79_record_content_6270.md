@@ -38,4 +38,4 @@ To the wife of A. Dearlove, on 24 April, at Kooringa, a son.  [Ernest.]
 
 To the wife of F. Eichler, on 11 April, at Kooringa, a daughter. [To Carl & Esther formerly Gould, nee Woollacott: Mary Henrietta Maude.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

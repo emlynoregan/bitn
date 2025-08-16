@@ -49,4 +49,4 @@ The jury gave a verdict of death from natural causes.
 
 [Born 26 March 1868 and registered as died 2 December 1885 aged 17.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Super Mac Team & Burra Breathers will take part in the sack truck race this month from Wilmington to Port Germein.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

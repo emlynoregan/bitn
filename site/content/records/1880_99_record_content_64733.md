@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Show Soc.  The next show is to be held on 21 September.  His Excellency the Governor, Sir Fowell Buxton Bt KCMG will attend.  There will be a Grand Concert in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ William Killicoat has lost about 50 sheep to dogs and offers a £5 reward.
 
 [The value of the reward appears in an Advt. on p.2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

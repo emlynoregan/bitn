@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Public Meeting at the Institute on Wednesday included most of our representative men and some of all shades of opinion, but a relatively small total of about 80 indicated the level of interest taken here in public questions.  The editor favours a tax on property rather than on income and is for the abolition of school fees.  The motion by Rev. S. Knight in favour of the Social Purity Movement is ‘well timed’ and raising the age of consent by two years is also highly recommended.  He does not however, agree with the reading of Bible passages in school without comment.  This will fail to inculcate any reverence for God or the spirit of religion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

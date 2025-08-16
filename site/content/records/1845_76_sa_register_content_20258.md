@@ -31,4 +31,4 @@ Employment prospects in Kooringa are hopeless, with more men discharged every we
 
 The unemployed met at the Redruth Court House on 14 March to consider the best means of getting work.  Mr MacDermott recommended the men elect two representatives to travel to Adelaide and have interviews with the contractors for the Roseworthy-Forresters Railway and the Pt Wakefield Railway, to see if work could be obtained there.  Mr MacDermott gave £1 to  the clerk of the court to be given to the men after a further £9 had been collected to defray the costs of the delegation to Adelaide.  Another friend left 10/- on the same conditions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

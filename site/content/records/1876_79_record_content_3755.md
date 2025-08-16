@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra School The headmaster, James Cater, intends opening an advanced class for those scholars of the above school who can join such a class with advantage to themselves. Work will commence Saturday 2 April from 10-12.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

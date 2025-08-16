@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The quarter’s Waterworks operations will leave the Council £2 in debit, but it was the slackest quarter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

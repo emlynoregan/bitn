@@ -36,4 +36,4 @@ Christmas Day was warm and windy and the churches full.  In the morning Rev. R.J
 
 On Boxing Day the Salvation Army public tea was very successful followed by an open-air meeting and a musical battle.  Next Sunday the Army collection will go towards the Broken Hill Distress Fund as it will from every corps in Australia.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

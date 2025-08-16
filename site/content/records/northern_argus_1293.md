@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 In Memorium: Farrell Flat manual telephone exchange passed into history 12 June 1985.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

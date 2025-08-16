@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. Daviestown. Rev. James Bickford will preach next Sunday with tea-meeting Monday. Collection in aid of the Black Springs circuit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Exports of Copper from SA in 1850.  (Valued at £75 per ton.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

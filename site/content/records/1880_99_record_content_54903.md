@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The bound volume of the paper from the Record office has another copy of the paper of the 3 October 1894 numbered 312.  Presumably this is a correction made for a 2nd edition or rather a 2nd print run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

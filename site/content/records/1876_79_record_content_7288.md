@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rev. R.W. Campbell's lecture on Robert Burns was a success and the musical portion under Mr Loutit was also appreciated. Proceeds were £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

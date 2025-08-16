@@ -31,4 +31,4 @@ Accident/Obituary.  Mr Fred Gurney had driven the mail conveyance from Gawler to
 
 [Frederick Gurney died 1 January 1872 Kooringa, residence Kooringa, aged 54.  Records show there were six children, two girls and four boys born between 1852 and 1868.  One, a boy born in 1865, had died aged 1 month.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

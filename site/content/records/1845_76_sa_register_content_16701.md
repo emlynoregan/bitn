@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Lot 7: Section 2512 of 80 acres in County Gawler at the junction of the Light & Gilbert Rivers. (Known as Pinkerton’s Flat.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ W.B. Rounsevell: ‘on account of his inconsistency and total disregard for poli
 
 Mr Copley: was elected as a people’s representative, but has become one of the greatest Conservatives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

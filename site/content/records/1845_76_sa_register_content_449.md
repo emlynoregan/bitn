@@ -56,4 +56,4 @@ Shoemakers	up to 30/- to 40/- a week
 
 Saddlers	30/- a week
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

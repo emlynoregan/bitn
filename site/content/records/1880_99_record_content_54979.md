@@ -64,4 +64,4 @@ It was resolved to get a competent man from Adelaide to assess and inspect all t
 
 Sending a letter of sympathy to the Mayor regretting his accident was supported by all but Cr Harris.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

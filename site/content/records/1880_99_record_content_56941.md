@@ -29,4 +29,4 @@ Football by ‘Whip’
 
 The old Burra Club has altered its name to Kooringa and the northerners have stuck with Aberdeen.  When outside matches are arranged a 20 will be selected from the two clubs.  The second match for the season on Saturday resulted in a draw when Aberdeen and Kooringa scored 4.0 each. Test matches between the two clubs are scheduled for 18 May, 15 June, 7 July, 27 July and 17 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

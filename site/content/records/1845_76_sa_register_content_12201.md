@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Institute saw a preliminary gathering of people on Saturday evening to arrange a public meeting on Tuesday to consider ways of assisting those suffering the effects of the recent bush fires.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

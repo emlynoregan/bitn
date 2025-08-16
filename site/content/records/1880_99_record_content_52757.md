@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  George Sara Jun. has commenced business on his own account in timber, paints, oils and builders’ ironmongery, in the same premises.  [Presumably this means in the former premises of Sara & Dunstan.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

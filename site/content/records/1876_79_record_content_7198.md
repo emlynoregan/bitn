@@ -25,4 +25,4 @@ Cricket. 24 Sept. the True Blue Club's 1st Eleven played the 2nd Fifteen The 1st
 
 The 2nd Fifteen: 44 & 66 (113) [sic] [110?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

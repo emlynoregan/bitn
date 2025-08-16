@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Henry Thomas Eaton, second son of H.T. Eaton, mounted trooper, died on 17 June at Redruth after a brief illness, aged 5 months.  [Registered as Harry Thomas Eaton born 16 January 1888.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

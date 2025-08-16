@@ -49,4 +49,4 @@ Cr West should then turn his attention to getting by some means the balance of t
 
 The editor then appends ¾ column of discussion and figures to show that the effect of the previous borrowings, which enabled the council to maximise Government subsidy and maximise spending on public works, was to leave the Council £488-3-4 better off, even taking into account all the interest paid, added to which the town had all the benefit of the works all these years.  Without this borrowing the Council would, since 1878, have had £3,288-3-4 worth of works less than it has had.  They were, he said, paying £131 a year interest and it was decreasing every year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

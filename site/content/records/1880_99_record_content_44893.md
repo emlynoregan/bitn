@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 At World’s End Mr Duldig is preparing a day’s sport of rabbit killing for 9 April when a start will be made from Klaebe’s house at 8 a.m. with return about 6 p.m.  Provisions will be provided at intervals.  Prizes will be distributed in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

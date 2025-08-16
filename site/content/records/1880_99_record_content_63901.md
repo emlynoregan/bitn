@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Rifle Club.  With so much talk of war the Government should lose no time in supplying the Burra defenders with suitable weapons to defend their hearths.  Before they can ‘hit a Russian or kill a Chinaman’ they will have to practise.  The Staff-Office in the city suggests rifles may be available by July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

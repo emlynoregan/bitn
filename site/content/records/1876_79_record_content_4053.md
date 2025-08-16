@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Entertainment: At the Institute 4 & 5 June the First Appearance of the Renowned U.S. Minstrels. 13 Star Artistes - the Elite of Minstrelsy. Best vocalists, funniest comedians and greatest dancers. The most complete orchestra. 3/- & 2/
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  On 3 Feb. at Richmond Creek, Eliza, wife of Thomas Ellery died of blood poisoning.  She was the sister of Mrs A. Harris of Kooringa.  [Aged 42, she was born Eliza Bodinner.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

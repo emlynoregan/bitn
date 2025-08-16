@@ -29,4 +29,4 @@ Redruth Court, 30 September.
 
 Mary O’Connor, grazier of the Hundred of Hanson, was fined 5/- + 15/- costs for depasturing 200 sheep on section 1003 Hundred of Hanson without a licence or lawful authority.  She has a licence for certain lands, but not including section 1003.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

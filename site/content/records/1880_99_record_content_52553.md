@@ -29,4 +29,4 @@ Obituary.  The only son of R.D. & E. Pascoe died on 27 December 1893, aged 14 mo
 
 [Born William Pascoe 29 October 1892, died Willie Pascoe.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

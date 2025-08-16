@@ -50,4 +50,4 @@ Cr Hardy moved the night cart be repaired.
 
 The Mayor will call police attention to larrikinism at the pump.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

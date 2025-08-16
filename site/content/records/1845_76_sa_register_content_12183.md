@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Obituary/Inquest.  An inquest was held today on the body of a child found in ploughing up a field in the neighbourhood.  It seemed to have been there some considerable time and no clues were obtained concerning it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

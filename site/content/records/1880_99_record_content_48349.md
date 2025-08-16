@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cr Parks drew attention to clause 3.  This dealt with breakages and unavoidable causes for supply failure and he said he was satisfied this was such an unavoidable cause.  The engineer said it would take two days to read the meters.  He said just now continuous pumping was necessary and asked how he could read meters?  He mentioned also leaking valves and broken taps, which also needed attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

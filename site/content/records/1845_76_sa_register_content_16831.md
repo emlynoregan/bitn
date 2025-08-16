@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Last Friday we had a most terrific hail storm accompanied by much thunder and lightning.  Within two hours the creeks were running higher than at any time this winter.  Fortunately crops seem not to have been badly affected, but blossom was stripped from fruit trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

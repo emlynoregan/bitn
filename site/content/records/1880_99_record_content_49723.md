@@ -32,4 +32,4 @@ Rev. R.M. Hunter & T. Kitchen were farewelled by a large gathering at the Wesley
 
 Mr Kitchen had put in a wonderful effort over 16 years in most aspects of the church’s life as teacher, Superintendent of the Sunday School, local preacher, and in many other positions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Booborowie.  Wool from here and beyond is going to the railhead at Burra in abundance now that the cessation of rain has made the roads passable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

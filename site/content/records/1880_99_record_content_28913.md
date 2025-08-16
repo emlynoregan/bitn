@@ -25,4 +25,4 @@ Editorial on Technical Education following a proposal to set up a School of Mine
 
 ‘There are many reasons why the State should not attempt to undertake secondary education in any form, and against its doing so insuperable objections would be raised.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

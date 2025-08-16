@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 Letters to editor. 
 J. Richardson writes defending himself against charges of rowdyism at the Commercial Hotel and asserting that hearing singing and swearing 100 yards distant was, to say the least, false.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

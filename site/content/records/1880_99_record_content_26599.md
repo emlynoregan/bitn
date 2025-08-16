@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  On Tuesday morning Willie Bush (10) of the Redruth Gaol and other boys were playing in the ruins of the Smelting works when he fell 12-14ft from a gallery and broke both arms above the wrists.  He is progressing favourably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

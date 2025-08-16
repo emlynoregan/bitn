@@ -29,4 +29,4 @@ Kooringa, 1 March.
 
 A complimentary dinner was given to W. Condon on Thursday evening.  He was guard on the Blinman [coach] line for a number of years.  B. Butterworth presided.  He was presented with a watch on leaving the Blinman Line.  [The various toasts are reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

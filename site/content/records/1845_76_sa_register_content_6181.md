@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Early Closing.  The shopkeepers of Burra have met the wishes of their assistants and will close their shops at 7 p.m. as from 15 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

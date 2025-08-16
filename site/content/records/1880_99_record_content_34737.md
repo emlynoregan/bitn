@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 R. Andrews offers to do the scavenging twice a month at each house and to clean the water tables from Snell’s corner to the Bank of Australasia for £7 per month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy who asserts that Mr Ridgway’s tearing up of the water account is ‘proof’ that he owes it.  It is well known that he uses water to grow produce for which he receives payment.  Ridgway must be compelled to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

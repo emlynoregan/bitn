@@ -31,4 +31,4 @@ Kooringa, Clare & Melrose Breweries have amalgamated.  The three businesses have
 
 John Christison of Clare is Managing Director and F.W. Jacka head brewer.  The head office will be at Melrose.  Freehold and leaseholds of hotels attached to the breweries also go to the new company along with the associated aerated waters and cordial factories.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

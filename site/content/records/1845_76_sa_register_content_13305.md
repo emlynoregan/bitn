@@ -97,4 +97,4 @@ The coroner then ruled that although the cause of death had been determined for 
 
 Peter Johns died 21 April 1860 at Burra Mine residence Kooringa aged 37.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

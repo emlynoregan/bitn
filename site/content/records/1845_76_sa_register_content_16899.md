@@ -31,4 +31,4 @@ On Sunday 25 October there was a fearful dust storm here and on Monday the hail 
 
 In some places shearing is finished and some shearers are passing through, spending a day or two here on their way to town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

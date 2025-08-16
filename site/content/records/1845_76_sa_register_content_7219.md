@@ -32,4 +32,4 @@ S. T. Gill
 
 We have just seen three views of Adelaide, drawn on stone by Mr S.T. Gill and lithographed by Messrs Penman and Galbraith.  The first was taken from the upper part of Hindley Street (west) looking east.  The second was from the corner of King William Street looking west and the third from a position in front of this paper’s office looking up Rundle Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

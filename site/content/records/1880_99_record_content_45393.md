@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 £2-10-0 was won by the dogs of F. Threadgold (2) and F. Frost while £1-10-0 was won by the dogs of B. Tonkin, A.J. Gray (2), J. McWhirter, J.D. Johnston and C. Pearce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

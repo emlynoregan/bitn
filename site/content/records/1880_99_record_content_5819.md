@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Wheeler Troupe will appear at the Institute 5, 6 & 7 January 1882 with a New Entertainment - The Great Hibernian and the laughable comedy, The Tourist Abroad.  Songs, dances, trios, choruses etc.  3/- & 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -63,4 +63,4 @@ He had no doubt they would receive plenty of assistance from the working classes
 
 ‘They had a good thing in hand and it must go on.  The great object of their anticipated Institute was the moral advancement of all.  It was for the good of the poor man; it would tend greatly to raise men in the scale of usefulness.’  (Seconded by Rev. Hillman.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

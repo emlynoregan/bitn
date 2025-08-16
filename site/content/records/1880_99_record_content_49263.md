@@ -38,4 +38,4 @@ Mr Pascoe:
 
 He did not support a progressive land tax, but favoured a wealth tax. He supported Intercolonial free trade and believed it would lead to federation.  He was not in favour of local option.  He was for the eight-hour system and was an independent candidate.  He was for payment of MPs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

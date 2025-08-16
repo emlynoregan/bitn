@@ -29,4 +29,4 @@ Entertainment: Sunday 3 April. Burra Races held on the Mine Paddock.  Good weath
 
 Reported as a good day with a well managed meeting on a good course. The report is quite detailed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

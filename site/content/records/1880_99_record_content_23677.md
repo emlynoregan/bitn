@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Railways.  The fare from Petersburg to Manna Hill is usually 20/- and though it was announced by the Commissioner of Public Works that it would be reduced to 10/- no one told the railways who continued to charge the old fare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

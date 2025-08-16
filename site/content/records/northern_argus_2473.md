@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Telecom Australia has advised Neil Andrew MP for Wakefield of improved telephone services for Mannanarie, Tarcowie, Pekina and Mt Bryan.  A modern telephone exchange was brought into service at Mannanarie on 7 April.  On 26 May a new automatic exchange at Tarcowie will replace manual exchanges as Tarcowie and Pekina.  On 2 June Mt Bryan will change from manual to a new automatic exchange.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 Burra Gold Seekers.  Those who left Kooringa recently to seek confirmation of the gold find at The Black Rock have returned without reaching their goal.  There was an accident to their vehicle and other circumstances that made them decide discretion was better than valour.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

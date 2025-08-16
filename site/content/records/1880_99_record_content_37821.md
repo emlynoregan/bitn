@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Committee to communicate with other centres to work for the dissolution of the House of Assembly has been active in sending out circulars in every direction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

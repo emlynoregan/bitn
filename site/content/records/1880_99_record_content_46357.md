@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mintaro Goldfields have been opened to the public.  Those who have been there for twelve months have found it paid quite well.  So far only surface gold has been taken.  Already 30-40 claims have been taken out and several old Burra hands are at work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

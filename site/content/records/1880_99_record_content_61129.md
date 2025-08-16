@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Anniversary was held on Sunday.  Rev. T. Theobald preached in the morning and Rev. J.Y. Simpson in the evening.  Rev. D.S. Wylie gave the connective readings for the afternoon service of song.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

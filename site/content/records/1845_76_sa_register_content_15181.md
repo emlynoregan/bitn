@@ -76,4 +76,4 @@ There is a population of some 4,500 souls and ‘there ought to be a flourishing
 
 But it seems it is the result of the owners refusing to alienate the land except on short term leases of 21 years.  The Bible Christian Chapel is the exception, having obtained a 99-year lease.  The town has no Council machinery of any sort and hence its squalor.  Adjacent are Redruth (with the Court House and Gaol), Aberdeen and Copperhouse and these, while a slight improvement, ‘partake more or less of the withering aspect of their original’.  The reducing population due to the migration to Wallaroo has the storekeepers in violent competition for business.  [Continued 23 December.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

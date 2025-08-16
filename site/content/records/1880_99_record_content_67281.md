@@ -28,4 +28,4 @@ Burra Waterworks.
 
 Mr Lapidge, the Waterworks Engineer for some years now, has had to resign on account of the long hours of work needed.  In summer he has to work 16 to 18 hours a day.  The problems are exacerbated by the smallness of the reservoir and the numerous other duties he is called on to carry out.  We urge the committee to take steps to retain his services as he is such a worthy and reliable officer who has the qualities and abilities to carry out the many tasks required.  He has saved the town a handsome sum in repairing meters and other tasks.  It will be impossible to get a better qualified man.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

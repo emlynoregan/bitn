@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  At the Institute on 17 & 18 June the original Cinematographe will return with a new series of picture.  Also the Gramophone, reproducing celebrated orchestral, band and solo music and songs by popular American singers.  Also the popular vocalist Mr Beaumont Read will sing each evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

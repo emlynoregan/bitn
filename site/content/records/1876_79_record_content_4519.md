@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Kooringa Wesleyan Church. Rev Campbell’s lecture on ‘Backwoods Preachers’ had a fair audience in the Wesleyan Church, Kooringa on Tuesday. Sara & Dunstan have won the tender to erect the main Sunday-school & two classrooms for £774-9-0 and are expected to be finished in four months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

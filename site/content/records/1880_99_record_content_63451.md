@@ -48,4 +48,4 @@ publication_slug: record-1880-99
 
 Jane Parks was born at Gwnipe, Cornwall and arrived in SA with her parents in March 1847 in the Phœbe.  She was married the same year and came to Burra with her husband in November 1850.  They celebrated their Golden Wedding on 11 October 1897.  There are three sons: Thomas, George and Charles.  The five daughters are: Mrs Dyer of Orroroo, Mrs Goldsworthy of Burra, Mrs Ware of Adelaide, Mrs Pascoe of Burra and Mrs Bennett of Burra.  Sisters are Mrs H. Jones of Victoria and Mrs James Sampson of Moonta.  Mr Harry Lawn of Baldina and James Lawn of Moonta are brothers.  Mr Parks was 70 on the day of his wife’s death.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

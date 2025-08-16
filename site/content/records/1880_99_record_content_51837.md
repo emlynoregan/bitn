@@ -33,4 +33,4 @@ The paper prints a truly amazing account of the injuries to Mrs Foy!
 
 On Friday it was found necessary (on account of mortification setting in) to amputate the right leg further up, midway between the foot and the knee, and now under the skilful care of Dr Brummitt there is every reason to believe that Mrs Foy will recover.  The left foot which received injuries is almost well.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

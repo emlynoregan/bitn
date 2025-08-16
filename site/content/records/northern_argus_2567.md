@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Weather.  A severe dust storm hit Burra at about 11 a.m. on Monday, cutting visibility significantly.  It heralded a cool change.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

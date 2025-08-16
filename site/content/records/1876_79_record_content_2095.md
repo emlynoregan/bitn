@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Coaches: E.F. Opie is new contractor for the N-E Mail. The 1st trip on 6 April had 13 passengers. There was a near accident at Terowie when the horses made a rush before being coupled up, but fortunately the driver was restrained as they dashed off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

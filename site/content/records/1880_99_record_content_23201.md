@@ -45,4 +45,4 @@ In the 16 teams of 8 competitors Burra came 12th.  Pt Adelaide 618, Redhill 608,
 
 In the 21 teams of 5 competitors, Burra came 18th.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

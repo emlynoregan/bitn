@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rain has been recorded generally in the district in good soaking falls.  The weather has been exceptionally cold with snow at Mt Bryan, Hallett & Sugarloaf and as far north as Pt Augusta, but not in Burra itself, though Saturday morning’s train arrived covered in enough to fuel snowball fights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

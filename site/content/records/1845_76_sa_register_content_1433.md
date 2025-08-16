@@ -80,4 +80,4 @@ Allen	892
 
 The Deed of Settlement was then produced and Mr Bayne began to read the massive document.  Soon after the start Mr Featherstone objected that he for one found it impossible to follow its complexities and objected to not having the leisure to peruse it.  Dr Addison and Captain Hall agreed it would take a week of leisure to become conversant with it.  Mr Stocks said that even a lawyer could not give an opinion of it from a hasty reading and he would not sign it without reading it.  It was agreed to have it printed and a committee was appointed to go over it, to receive objections etc. and to make recommendations to the Directors.  The meeting was adjourned to 19 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ John Matthew Blackwell (31) was charged with stealing between 1 & 17 July 1896, 
 
 When arrested Blackwell produced all the goods except for three and listed the places where he had got them.  The prosecution was unable to establish any positive identification of the items and as a result the jury returned a verdict of not guilty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

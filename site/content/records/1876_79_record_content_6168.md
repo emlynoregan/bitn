@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Gymnasium Club met on Wednesday and elected Mr Urwin as Captain and Mr Richards as Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

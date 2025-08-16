@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mr Kingston’s address is the production of one who thinks that assertions pass for facts.  It is a waste of time to wade through his windy verbiage in detail.  It is sufficient to say Mr Kingston would add dignity to his cause if he were to rely more on his own merits and not attempt to build his claim to be elected on the ruins of the reputation of his opponent.  Mr Kingston’s own principles are not well know here; 10 or 15 minutes of incoherent and unintelligible talk is not enough to convince any constituency that he is possessed of the ability to lead them.  The Committee would be very willing to meet Mr Kingston at a public meeting to deal with any of the assertions in Mr Kingston’s address, if he really thinks then to be true and has the courage to maintain them by argument in public.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

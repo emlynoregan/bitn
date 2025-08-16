@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kooringa Wesleyan Schoolroom. Festival on 1 January 1880 & Children's treat. Public Tea at 5.00 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

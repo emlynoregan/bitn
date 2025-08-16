@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Paterfamilias’ complains that several years ago when sheep cost twice the present sum the cost of mutton was 4d lb and it still is!  He also fears the move to increase the stock tax on animals crossing into SA will further raise meat prices.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

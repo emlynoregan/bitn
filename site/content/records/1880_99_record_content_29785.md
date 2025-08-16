@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Season.  September has been hot and dry after a dry winter.  Crops from Hallett to Adelaide are OK, but north and east of the railway they are terrible.  The North-East Pastoral District is particularly bad.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

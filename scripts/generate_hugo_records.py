@@ -194,14 +194,11 @@ This section contains individual records (articles, notices, letters, etc.) extr
 
         body_lines = []
         body_lines.append(r.get("original_text") or "")
-        # Source download link
-        source_doc = r.get("source_document") or ""
-        download_url = ""
-        if source_doc:
-            src_name = Path(source_doc).name
-            download_url = f"/downloads/markdown/{src_name}"
-            body_lines.append("")
-            body_lines.append(f"Source: [{src_name}]({download_url})")
+        # Source publication link (to publication page)
+        pub_title = PUBLICATION_TITLES.get(publication_slug, publication_slug.replace('-', ' ').title())
+        publication_url = f"/publications/{publication_slug}/"
+        body_lines.append("")
+        body_lines.append(f"Source publication: [{pub_title}]({publication_url})")
 
         md_path = CONTENT_DIR / f"{record_id}.md"
         md_path.write_text(as_yaml_front_matter(fm) + "\n".join(body_lines) + "\n", encoding="utf-8")

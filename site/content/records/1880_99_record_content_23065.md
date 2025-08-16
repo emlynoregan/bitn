@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Dow of Halifax, 2nd son of the late Andrew Dow of Ellend Hall, Normanton and nephew of the late John Dow of Kooringa, died 30 June at the residence of his brother, A. Munro Dow, in Keighley.  He was 28.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

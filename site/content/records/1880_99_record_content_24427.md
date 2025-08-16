@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 On New Year’s Day Young Australians 174 & 1 for 31 defeated Clare Early Closing Association 93 & 103
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

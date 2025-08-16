@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Rev. Buzacott and the native Teavae visited Burra today.  A lecture was delivered in the Wesleyan Chapel this evening to a crowded audience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

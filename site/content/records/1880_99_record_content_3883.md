@@ -30,4 +30,4 @@ Another effort is to be made to obtain a recreation ground for Burra.  We have l
 
 ‘A very pleasant ground might be laid out and suitably planted - to the eastward of the Model School, - which would not only be an acquisition as a place for recreation, but which would add to the appearance of our now too treeless town.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

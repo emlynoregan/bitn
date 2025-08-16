@@ -41,4 +41,4 @@ publication_slug: sa-register
 
 Royal Mining Co. of SA.  General Meeting of Shareholders at Payne’s Tavern Wednesday 25 November.  John Ellis of Pt Gawler took the chair.  Elected Directors: Hon. Capt. C.H. Bagot MLC, Charles Beck, John Ellis, James George Nash, John Bentham Neales, William Peacock, Matthew Smith, John Waterhouse, William Younghusband.  Trustees: E.L. Montefiore, E. Solomon and William Paxton.  Auditors: John Baker & George Tinline.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

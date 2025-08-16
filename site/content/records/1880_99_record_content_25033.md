@@ -26,4 +26,4 @@ Alma & Victoria Gold mine at Waukaringa.  After the investment of much effort an
 
 [The adventures of this mine were reported consistently week after week because Burra people owned much of the stock, but I have not charted its ups and downs in this summary.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

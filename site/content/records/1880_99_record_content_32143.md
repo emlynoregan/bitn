@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the waste of water in the floods recently seen surging down the local creeks, much of which could have been conserved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

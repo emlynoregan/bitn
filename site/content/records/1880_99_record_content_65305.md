@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mine directors visited Burra last Friday with the Government Geologist.  They inspected Rymil’s Bore and other portions of the mine with a view to further developments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

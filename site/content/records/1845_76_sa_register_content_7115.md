@@ -29,4 +29,4 @@ Gold in Australia [Editorial]
 
 The editor generally warns against rushing off without being fully informed.  He is concerned about the impact of the loss of labour on the colony and while understanding the excitement, trusts hopeful miners will not be lured to disappointment.  He undertakes to publish in instalments selections from a helpful pamphlet lately published in Sydney by Rev. W.B. Clarke, MA, Fellow of the Geological Society of London and entitled Plain Statements and Practical Hints respecting the Discovery and Working of Gold in Australia.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

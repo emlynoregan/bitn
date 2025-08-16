@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr J. Berridge, head teacher at Mt Bryan, died at Willaston on 15 January.  He was only 27 and had come from England two years ago to improve his health, and for a time the move had seemed successful.  [John Berridge.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

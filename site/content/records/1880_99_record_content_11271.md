@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Sampson said the South Ward had available in 1883 £198 and had spent £199-8-11 and it had, he believed, been judiciously spent west of the creek and it was now time for the east side to see some expenditure.  He favoured the formation of an East and West Ward to divide monies more equitably.  Next year the expected income would be £250 to £300.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

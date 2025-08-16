@@ -29,4 +29,4 @@ Obituary.  Mrs Effie Blanche Robinson of Hanson died on 6 August.  For many year
 
 [Born Effie Blanche Hughes 20 February 1905, Clare.  Married Sydney Horace Pearce Robinson 1927.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

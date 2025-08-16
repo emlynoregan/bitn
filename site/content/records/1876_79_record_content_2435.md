@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Mine: Accident to Edward Prior when he was hit on head by a piece of mallee which fell from the 85 fathom level to the bottom of Morphett's Shaft. He was lacerated, but survived.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

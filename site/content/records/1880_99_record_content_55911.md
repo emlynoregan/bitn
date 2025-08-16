@@ -28,4 +28,4 @@ Editorial on Federation.
 
 Federation is the most important question facing the Australian colonies.  Victoria wants federation at almost any price.  NSW wants it, but only with free trade.  Electoral franchise must be uniform for the Federal Parliament.  There are a host of issues to be settled.  The next convention to consider it should be elected by the people and not by the various Governments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

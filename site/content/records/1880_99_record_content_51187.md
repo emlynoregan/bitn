@@ -30,4 +30,4 @@ James Mends was fined £2-10-0 under the Width of Tyres Act for driving a wagon 
 
 J. Fairchild, as owner of the same wagon was fined £1-16-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

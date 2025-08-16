@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Kerbing of streets was being continued in 1886, for instance in May it was ordered for the east side of Thames St as far as Bridge St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

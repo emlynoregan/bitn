@@ -36,4 +36,4 @@ Redruth Wesleyan Church Anniversary last Sunday with sermons by Rev. S. Knight, 
 
 Rev. Ralph Brown’s talk on Heads and Faces is reported at some length.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

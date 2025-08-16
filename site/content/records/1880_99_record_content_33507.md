@@ -34,4 +34,4 @@ Rifle Match on Monday.
 
 1,000 yds.  Pte Hardy 1st, Sgt Anderson 2nd, Lieut. Butterworth 3rd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

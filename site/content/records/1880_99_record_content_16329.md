@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary/Inquest.  Traugott Wilksch drowned in a dam at Emu Downs on Wednesday.  The inquest was by J.D. Cave at the Burra Hospital on Thursday.  The verdict was accidental death.  The deceased seems to have fallen from a plank he was walking on to fill a bucket with water for the horses and may have hit his head on rocks when he fell.  [Born 3 September 1853; died 20 January, aged 31.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

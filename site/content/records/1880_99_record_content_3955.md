@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Ore bought in Pt Adelaide in 1879-80 was 2,481 tons, down from 4,072 in 1878-79.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

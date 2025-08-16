@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Pro Bono Publico writes expressing amazement that M-C Jemison should be wasting time on such a trivial matter as Agnes Gully standing on a footpath and talking to others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

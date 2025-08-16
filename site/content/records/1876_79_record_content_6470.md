@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Primitive Methodist Special Services at Kooringa on 18 & 19 May in aid of the trust fund drew good congregations, but the public tea was very poorly attended due to wet weather. Total proceeds amounted to £18-10-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 ‘East Ward Ratepayer’ writes, clearly annoyed that the Council seems to have acted either without or contrary to legal advice in the drainage problem with Bagot, Shakes and Lewis and also to have ignored an offer from them and Catchlove & Co. to pay ⅓ each of the cost of a spoon-drain to take the water the nearest way to the creek behind the brewery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Advt. J.G. Terry & Co. Coaches.
 
 Leave Fridays for Bimbowrie and return Mondays, connecting in both cases with the train. [Bimbowrie is north of Olary on the Broken Hill road]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

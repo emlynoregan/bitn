@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 3rd leader on the problem of unoccupied huts along railways being used as refuges for tramps.  Other problems arising are the recent cases of obstructions being placed on the lines and of a drunken man being found on the line.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

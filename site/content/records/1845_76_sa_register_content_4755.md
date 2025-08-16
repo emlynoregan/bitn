@@ -32,4 +32,4 @@ It seems that the panic was started by one of the Directors, who, having stated 
 
 [The image seems a bit odd, given that a gudgeon is a small freshwater fish.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

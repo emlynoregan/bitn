@@ -40,4 +40,4 @@ In the cricket match Boxing Day afternoon Burra 40 & 2 for 37 defeated Hackney 3
 
 28 December was very quiet as all the sportsmen went to Hallett for the Institute Sports Meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

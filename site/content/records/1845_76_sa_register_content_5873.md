@@ -32,4 +32,4 @@ MINING IN SOUTH AUSTRALIA from the London Mining Journal
 
 Discoverers of minerals went to extraordinary lengths to hide their discoveries so that there would be no extra bidders forcing up the price of the land when it was auctioned.  Sometimes green rocks were painted over, or a flock of sheep were camped on the site, or a hut could even be erected over the discovery.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

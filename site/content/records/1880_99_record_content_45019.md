@@ -35,4 +35,4 @@ Though he is not named in the Record it seems clear that W.H. Hardy had written 
 
 She asked if he believed in God and when he said no she said ‘I thought you didn’t, you are one of William’s sort, I can see the inhuman fiend in your mouth.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

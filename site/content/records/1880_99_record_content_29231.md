@@ -44,4 +44,4 @@ And the Domestic Drama ‘The Babes in the Wood’:
 
 A Marionette Drama featuring mechanical figures 24” high who walk, talk, sing and dance like living beings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

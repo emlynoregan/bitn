@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra School.  Tenders for the repair of the dilapidated school fence have been called.  The correspondence over this has been going on for 18 months.  A good jarrah picket fence is likely to result.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

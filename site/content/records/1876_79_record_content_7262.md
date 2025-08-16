@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Letter to Editor from `Honesty' complaining that the Burra Show has seen prizes awarded for flowers that were brought in from Adelaide, but were exhibited as grown within 20 miles of Burra. If this cannot be tested or exhibitors are unable to see the dishonesty involved then let there be no prizes for flowers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

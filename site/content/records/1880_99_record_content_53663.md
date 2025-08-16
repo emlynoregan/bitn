@@ -29,4 +29,4 @@ Advt. Burra Coursing Club meeting at Gum Creek Estate with permission of Hon. J.
 
 Nomination 30/- and Membership 10/6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

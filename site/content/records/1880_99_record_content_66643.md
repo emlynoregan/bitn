@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Captain Stewart and Lieut. Smith have ‘opened fire’ for the Army.  The lassies are preparing plans for their future engagements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

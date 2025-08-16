@@ -32,4 +32,4 @@ The Govt. suggests the installation of public fountains with the cost to be defr
 
 Mr P. Murphy was elected sexton and gardener of the cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -42,4 +42,4 @@ The proprietors can no longer plead that they are waiting to see how the mine wi
 
 [The editor of the SA Register then says they will be happy to take charge of any contributions for the benefit of this discover, ‘as we are compelled to despair of any tardy justice being done him’.  This was the second or third appeal forwarded to the paper on his behalf.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -46,4 +46,4 @@ Here there is a Hotel marked by cleanliness, order and civility.  It is built of
 
 At Hamilton there was a blacksmith, a general store and a hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

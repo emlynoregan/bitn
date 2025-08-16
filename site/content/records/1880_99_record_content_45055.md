@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A meeting at the Royal Exchange Hotel last Friday considered forming an Aberdeen Football Club.  A good attendance decided to go ahead.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

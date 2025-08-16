@@ -31,4 +31,4 @@ The Annual Kooringa Masonic Ball was held in Lamb’s Burra Hotel on Thursday.  
 
 The Wool Clip has almost been cleared.  More than two thirds has been forwarded, with over 10,000 bales sent from the Burra Station to Saturday last.  Fewer than 500 bales are left north of Gottlieb’s Wells.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

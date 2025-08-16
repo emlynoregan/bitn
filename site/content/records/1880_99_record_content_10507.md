@@ -35,4 +35,4 @@ J.F. Duff & J. Lewis arranged a trotting match in the past week.  Mr Duff conced
 
 Mr Duff’s pair refused to trot till Marrabel and so he was completely out of contention and he reached Kapunda at 11.15 a.m., having made a 15 minute stop at Waterloo and another at Marrabel, as well as 30 minutes at Hamilton.  He covered the 48 miles in 4 hrs, not including stops.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

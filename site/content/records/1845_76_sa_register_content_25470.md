@@ -28,4 +28,4 @@ Ulooloo.  Crops have been looking promising, but rain is now needed.
 
 Shearing has finished at several stations and continues at others.  On the whole the clip has been highly satisfactory.  The adjoining Hundred has not been declared and so there have been few new settlers in the past year.  The Ulooloo School, opened last year, has over 60 pupils.  One opened at Hallett, alias ‘Willigoleech’ [sic], a few weeks ago, has more than 20 scholars.  The diggings here have 15 or 16 men at work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

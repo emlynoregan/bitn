@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Obituary.  Jack (Johnny) Monaghan of Farrell Flat died last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

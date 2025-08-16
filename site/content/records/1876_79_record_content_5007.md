@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Primitive Methodist Church, Kooringa on Wednesday, Mr Philip Whyman exhibited his model of the Mosaic Tabernacle at a well-attended and interesting meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

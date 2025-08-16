@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Bazaar has possibly been the most successful effort of the sort ever seen in Burra.  Mr John Dunn MLC opened the bazaar following a luncheon in the Masonic Room.  Proceeds are expected to reach nearly £400 by the close.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

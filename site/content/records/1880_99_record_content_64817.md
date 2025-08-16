@@ -28,4 +28,4 @@ Court.
 
 George Ford & Victoria Ford were fined £2-10-0 each for throwing the stump at Inspector Gray, and with costs this amounted to £7-1-0 in all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

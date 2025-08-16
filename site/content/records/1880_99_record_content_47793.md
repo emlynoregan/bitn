@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Smallpox has appeared at Petersburg.  The patient is a girl aged c. 5.  It is thought the disease was contracted from a box bought recently in Colombo and ten persons have been taken by special train to the quarantine station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

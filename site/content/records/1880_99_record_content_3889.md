@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The New SA Parliament will see considerable changes with sixteen altogether new members and three with experience, though not in the previous Parliament.  Twenty-seven are returned from the previous Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

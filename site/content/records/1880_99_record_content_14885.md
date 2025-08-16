@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  The Hydraulic Engineer has agreed to allow connection to the mains before the handover to Council, which will make water available two or three weeks earlier.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

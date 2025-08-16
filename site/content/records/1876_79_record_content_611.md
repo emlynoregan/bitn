@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 ‘A Golddigger’ writes concerning the discovery of a gold reef about ten miles south of the old Waukaringa Reef, claiming it should go about 4 oz to the ton.  He is amazed that this has not stirred SA into action.  The whole show may come to nothing for the lack of a little ‘pushing in the matter’ from SA.  He suggests other colonies behave differently and even SA is prepared to spend money in the Northern Territory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

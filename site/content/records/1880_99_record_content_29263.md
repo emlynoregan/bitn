@@ -29,4 +29,4 @@ Obituary.  The Burra Hotel [typhoid] case resulted in the death of Mr Owens.
 
 [Francis Owens died 26 July at the Burra Hospital, aged 32.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

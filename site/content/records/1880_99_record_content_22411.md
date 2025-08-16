@@ -45,4 +45,4 @@ Aberdeen Reserve.  A title has now been issued for the Aberdeen Reserve.  Messrs
 
 The unemployed men working on the Mongolata Dam would finish this week.  Cr Coglin thought the Government might be asked to have them clean out Barker’s Dam.  Resolved to put it to them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

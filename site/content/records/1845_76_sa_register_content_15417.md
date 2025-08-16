@@ -33,4 +33,4 @@ Two Yards, having two 4-roomed stone-built cottages and 4 two-roomed wooden cott
 
 Apply Elder, Stirling & Co. Adelaide.  15 March 1862.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

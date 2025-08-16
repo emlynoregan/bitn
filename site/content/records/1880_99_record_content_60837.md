@@ -39,4 +39,4 @@ With a first-class collection of Broken Hill Specimens, which cannot possibly be
 
 For price and particulars apply S. Edwards, George St, Kooringa.  Inspection Invited.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

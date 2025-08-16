@@ -27,4 +27,4 @@ Editorial on the Treasurer’s intention to move on the proposed taxes: Land, In
 2nd Leader on the proposal to end the subsidy to Councils.  The writer favours this move because, while the subsidies are undoubtedly of use to country councils, its principal benefits go to the city and near city councils.  It is money raised from everyone and is a means of collecting from the country and giving to the city and from the poor to benefit the rich.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

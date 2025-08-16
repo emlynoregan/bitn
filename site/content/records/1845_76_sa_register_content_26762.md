@@ -27,4 +27,4 @@ District of the Burra
 
 A memorial was received from residents of various townships included in the District of the Burra, protesting against their being incorporated in that district and praying they may be brought under the Corporations Act and nominating the first Mayor and Councillors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Anthony Simbowski, aged 15, died of a fractured skull when his horse put a foot into a hole and fell with him on Sunday.  He was riding home from bathing with a friend in the Hundred of Bright.  He died within 12 hours of the accident.  [Died 26 January 1896.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

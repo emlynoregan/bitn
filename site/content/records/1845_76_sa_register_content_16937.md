@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mr Grundy’s first cattle sale was due to be held on Monday, but he was prevented from attending by the prevailing sickness at Gawler, from which we are so far free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

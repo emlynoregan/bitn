@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Accident.  Yesterday a boy standing on the road by Orchard’s Hotel Aberdeen was knocked down by the shaft of Dr Nesbitt’s buggy as it passed.  Miraculously the horse and the vehicle both passed over him without touching the boy who escaped with a shaking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

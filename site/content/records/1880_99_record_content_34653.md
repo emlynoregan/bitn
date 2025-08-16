@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The scavenger, R. Andrews, offered £7 a month for scavenging twice a month including water tables and all day work to be paid at 10/- a day for man, horse and cart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

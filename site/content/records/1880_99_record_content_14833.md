@@ -27,4 +27,4 @@ Editorial on the Burra Waterworks.
 
 The approach taken to deal liberally with small consumers and making the first charges as low as possible has greatly increased the demand and therefore the profit.  The cost of raising extra water after the system is installed is a mere nothing, so that once the guaranteed quantity is sold the rest is nearly all profit.  The Government has not however given the Council much encouragement, or even justice.  In Adelaide meters are let out at 12/- p.a. irrespective of size.  The proposed charge here is much more.  Water pipe has also been charged at an exorbitant rate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

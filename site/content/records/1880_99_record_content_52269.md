@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Pleuropneumonia has been found last week in some cattle east of Burra.  Two lots of c. 150 have been quarantined by Inspector Needham.  Inoculation has been halted because Mr Needham was injured by a nasty kick from a bullock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

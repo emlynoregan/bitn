@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Assoc. had a good attendance last Friday, chaired by Rev. R.W. Campbell as President. Ways of improving the organisation were discussed and the possibility of a more central location, perhaps the Institute, was considered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

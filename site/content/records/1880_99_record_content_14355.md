@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Railway Employees.  Railway repairers employed between Farrell’s Flat and Terowie met at the Bon Accord Hotel on 13 September to consider the action of the Government in charging them rent from 1 October.  They resolved that since 6/- a day barely affords a living for themselves and their families they cannot sign the agreement and respectfully request the matter be reconsidered by the Commissioner.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

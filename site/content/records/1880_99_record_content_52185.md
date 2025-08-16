@@ -47,4 +47,4 @@ Rev. S. Knight’s lecture on The Nineteenth Century, at the Wesleyan Lecture Ha
 
 Mt Bryan Concert tonight in the Council chamber.  Mt Bryan Fife and Drum Band and the Burra Juvenile Oxidentals will appear.  Proceeds will aid school prizes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Peter Veitch (39) has been appointed General Manager of Collinsville Stud.  He is currently manager of Wesfarmer Rural Ltd’s branch at Esperance, WA.  [Details of his experience are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

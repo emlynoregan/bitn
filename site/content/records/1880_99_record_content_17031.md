@@ -28,4 +28,4 @@ Thomas Watkins replies to the rather full account of his trial published in the 
 
 6 March and he gives a very different, and apparently quite plausible version of the situation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

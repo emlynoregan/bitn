@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  W.F. Coglin writes condemning them and their ‘so-called religious worship’, but he advises the youths of the town to refrain from visiting them so that shortly we may ‘be relieved from having their unearthly noise in our streets on the Sabbath with their drum and tambourine.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

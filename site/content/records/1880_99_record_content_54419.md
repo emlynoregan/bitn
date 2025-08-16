@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bishop Kennion, [the Anglican Bishop of Adelaide] is reported to be going to leave Adelaide on 29 August, having been transferred to the See of Bath and Wells.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

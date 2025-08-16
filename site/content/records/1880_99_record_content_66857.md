@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  William George Mant drowned in Dare’s Dam 40 miles east of Burra in the hundred of Tomkinson.  When reported on Thursday M-C Jemison and Mr E. Statton JP of Hallett set off to investigate.  Mant, aged 20, was a rabbiter on Collinsville after leaving home a few weeks ago for family reasons.  He apparently got cramp while swimming in the dam.  It took some time dragging the dam to recover the body.  [Died 7 September 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

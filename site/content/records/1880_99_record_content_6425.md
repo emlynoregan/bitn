@@ -37,4 +37,4 @@ Thomas Moyes, alias James Stewart was committed for trial at Gladstone for obtai
 
 Miss Hirsy, barmaid at Opie’s Hotel was charged with supplying a glass of beer to an Aboriginal native.  The lowest fine was imposed as the beer had been sold to a young man named McGrath, who had passed it on to the Aboriginal.  A similar case against E. Roach of the Exchange Hotel of supplying beer to Nanyeri was dismissed as the wrong barmaid had been summonsed. [But see appeal IV, 197, 7 April 1882]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

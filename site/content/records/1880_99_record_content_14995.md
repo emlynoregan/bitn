@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Dr Lee may be consulted at E. Frederick’s Burra Eating House from 10 a.m. to 4 p.m.  He has cured many dangerous complaints given up by other practitioners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

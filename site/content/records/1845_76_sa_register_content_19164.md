@@ -34,4 +34,4 @@ The year just ended has been marked by a terrible drought in pastoral areas and 
 
 In 1865 SA obtained something like a charter of rights in the shape of an Act of the UK Parliament declaring that Colonial Legislators may pass laws for local government without the feat of having them set aside on technical grounds.  Education is being well attended to.  The colony remains deficient in theatres, art galleries etc.  The criminal records are as free as usual from very serious offences.  Employment has been plentiful and wages good, although the price of food has been high.  Copper prices fell, but rose again by the year’s end.  The present crop seems likely to give a fair yield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

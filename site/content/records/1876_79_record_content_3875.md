@@ -30,4 +30,4 @@ Races. The Burra Jockey Club race meeting was held at the Copperhouse track on 2
 
 The grandstand was well patronised and may have to be enlarged in the future. The richest event was the Burra Handicap over 2 miles, won by Mr J.E. Savill's Queen Consort ridden by D. Taylor. The accident to McGrath occurred when he rode Talk o' the Glen against a post in the Maidens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

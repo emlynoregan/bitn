@@ -34,4 +34,4 @@ A number of destitute persons were allowed a remission of their rates.
 
 J. Pearse will rebuild the retaining wall at the Institute for £69.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

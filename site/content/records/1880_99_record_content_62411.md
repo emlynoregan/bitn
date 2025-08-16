@@ -35,4 +35,4 @@ The Bible Christian Sunday School Anniversary drew fair congregations.
 
 Burra Jubilee Benevolent Society was formed at a meeting last Thursday with Dr Brummitt as President, Miss Coglin as Secretary and J.F. Moore as Treasurer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

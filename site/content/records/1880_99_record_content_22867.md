@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Midland Road Board reports it has no funds to do the work requested by the Town Council: to widen the Mine Bridge and repair the ford at the Bon Accord Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

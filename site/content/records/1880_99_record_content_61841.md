@@ -28,4 +28,4 @@ Federation: What It Is.  A one column article by Sir Richard Chaffey Baker KCMG,
 
 It discusses the differences between unification, federation and confederation and outlines the roles of the House of Assembly and the Senate in a federation.  He stresses the need for a strong Senate to protect states’ rights if the smaller colonies do not wish to become provinces of Victoria and NSW.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

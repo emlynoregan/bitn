@@ -32,4 +32,4 @@ In the last few days we have lost our two schoolmasters; one accepted a better p
 
 [The only death registered in this period was that of Patrick O’Connor 9 July 1863 near Mintaro aged 28, but the death may not have been registered as the correspondent also reports that they were without an agent or deputy registrar of births, marriages and deaths and the nearest was ten miles away over very bad roads.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

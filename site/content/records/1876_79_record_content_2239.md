@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Coaches: E.F. Opie's coaches now run once a week Burra to Bimbowrie [near Outalpa - north of Olary on the Broken Hill road] and twice a week Burra to Waukaringa, departing 2pm Tuesday & Friday and the return coaches arrive Tuesday & Friday at 4pm in time to connect with the last Adelaide train. [Which dep.4.30pm]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

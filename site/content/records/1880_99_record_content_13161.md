@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Young Men’s Friendly Assoc. was inaugurated on the 7 May in their rooms, formerly Mr R.W. Mathews’ schoolroom [Thames St].  Dr I.J. Sangster was President and welcomed those present.  The society aims to improve the religious and social welfare of the young men of St Mary’s congregation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

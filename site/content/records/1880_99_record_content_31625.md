@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Association held its first meeting for the year at the Burra School on 9 Feb.  The schools represented were Baldina Plains, Burra, Davieston, Hallett, Hanson [Farrell Flat], Manoora, Saddleworth, Waterloo, and World’s End Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

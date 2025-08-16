@@ -31,4 +31,4 @@ Stockport News, 18 July
 
 Arrangements are being made to have an evening with Rev. W. Buzacott and Teavae of the South Sea Islands on their return from Burra some time next week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 [Ian Auhl in The Story of the Monster Mine etc. page 300 says that the salary of Bagshaw & his successor Rev. Pollitt, was largely met by the Patent Copper Co. which had recruited him in England to serve as chaplain for their works.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

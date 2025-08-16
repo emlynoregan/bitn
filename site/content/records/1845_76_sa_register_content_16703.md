@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Lot 8: Section 2009 of 70 acres in County Stanley at the source of the Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

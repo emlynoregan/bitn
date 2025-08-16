@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Observer’ on the same, saying that not only is this desecration seen in Aberdeen, but also at the Unicorn Brewery and in the yard ‘of a respectable boarding establishment.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

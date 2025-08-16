@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  On 26 October [sic, it was really 25th] Rev. J. Stuart Wayland preached his farewell sermon after six years incumbency.  In the afternoon on behalf of the Sunday school Dr Sangster presented Mr Wayland with a silver mounted emu egg inkstand.  He was also given a beautifully bound church service book.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

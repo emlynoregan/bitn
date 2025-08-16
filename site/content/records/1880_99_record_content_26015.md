@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.   The committee recommends that the guarantees for 1886 be called up at once and that the Government be charged 1/0 per 1,000 gallons and that the Council only renew the lease if the railway gets its water from the town works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

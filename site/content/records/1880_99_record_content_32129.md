@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Weather.  On Monday and Tuesday the season broke with a fall of almost 2” of rain.  Two of Mr J. Lewis’s cows were struck by lightning and killed.  Flooding further south delayed trains with over 5” falling at Saddleworth and Kapunda and the River Light flooded extensively.  The rains extended well to the east and north, but failed in the northeast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

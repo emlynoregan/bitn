@@ -32,4 +32,4 @@ During the year £111 had been raised by subscription and £120 by the ladies' b
 
 Bible Christian Schoolroom has been recently renovated at considerable expense. Its improvement was celebrated by a public supper and entertainment on Friday, proceeds to assist the improvement fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

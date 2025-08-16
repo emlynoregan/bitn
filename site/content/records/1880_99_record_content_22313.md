@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Temperance.  A temperance meeting will be held Wednesday evening in the Institute at which the SA Alliance will advocate Total Abstinence and the Local Option.  Rev. D. O’Donnell & Mr E.H. Derrington will speak and there will be singing at intervals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

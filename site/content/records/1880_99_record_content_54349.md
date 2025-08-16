@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Perpetual Leases.  Over 250 petitioners from the district have asked the Commissioner of Crown Lands for greater fixity of tenure and longer leases.  [They were hoping for perpetual leasehold.]  The Commissioner’s offer for them to come under the Pastoral Act of 1893 does not meet their request.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

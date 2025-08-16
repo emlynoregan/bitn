@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Church Sunday-school children had their abundance of fruit in the Burra Grammar School, which was filled to overflowing with children till dark.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

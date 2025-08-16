@@ -63,4 +63,4 @@ Rev. J. Homann will conduct two services in the old German Chapel in Redruth on 
 
 Burra Defence Rifle Club.  Half-yearly meeting shows a credit balance of £7-7-9 in the bank plus £1-1-11 cash.  Winner of the last match was A. Millet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

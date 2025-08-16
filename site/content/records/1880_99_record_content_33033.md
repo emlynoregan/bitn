@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Skating.  The Rink has reduced its operations from 3 to two days a week: Wednesday and Saturday.  [Days given page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

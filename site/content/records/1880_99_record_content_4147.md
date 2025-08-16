@@ -28,4 +28,4 @@ Burra Town Council
 
 A special meeting decided that Mr Duffy’s request was unreasonable.  He had never submitted a plan for the road and as all the allocated money was now expended they could only ask that the contract be fulfilled according to specifications.  They agreed to interview the Board the next day at Riverton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

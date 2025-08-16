@@ -37,4 +37,4 @@ Obituary.  Last Thursday saw the funeral of the late Mr Humphry of Baldino [sic:
 
 [James Humphrey died 18 February 1862 at Baldina aged 53.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

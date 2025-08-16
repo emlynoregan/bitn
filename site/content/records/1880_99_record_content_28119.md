@@ -29,4 +29,4 @@ Capital of £3,400 on 340 shares of £10 each.  Situated 6 miles from Burra rail
 
 The mine has already provided 10,000 tons of rich manganese ore used as a flux in the Burra Smelting Works.  [The hope of the syndicate was that the manganese was a cap to a silver deposit.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

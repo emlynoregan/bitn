@@ -55,4 +55,4 @@ Cr Sampson asked whether this was not getting money under false pretences.  He p
 
 Cr Ridgway said if the injury was received not due to carelessness employers were liable under the Employers’ Liability Act and the principle was just and equitable.  He was astonished at Cr Sampson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

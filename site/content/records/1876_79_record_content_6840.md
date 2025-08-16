@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Primitive Methodist Church Public Dinner & Concert at the Institute. Dinner 1/6. Concert 2/- & 1/-. Supper follows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

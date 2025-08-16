@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Waterworks.  We understand that the Town Council has decided to ask the Government to reduce the interest on the Waterworks capital account from 5% to 3% as without the Railway Department account it cannot be made to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

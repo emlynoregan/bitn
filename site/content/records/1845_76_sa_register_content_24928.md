@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Agriculture.  Hay making has begun.  The yield is very good and the weather continues to be favourable.  Locusts are numerous in the northeast, but so far have not invaded the agricultural areas.  Perhaps they have been kept away by the prevailing westerly winds.  Snakes are unusually plentiful this year and several have been killed in the township of Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

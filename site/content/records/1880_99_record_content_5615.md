@@ -43,4 +43,4 @@ But on the other side there have been splendid improvements in Commercial St, Ma
 
 The Inspectorship.  Mr Gray has resigned as inspector under The Board of Health and of Weights & Measures etc. and in that we lose a good servant, who gave many years to a most difficult task, acting without fear or favour and without officiousness.  We rely on such vigilance in a town where the water supply is from wells and the only receptacles for drainage in many places are blind creeks in the midst of houses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

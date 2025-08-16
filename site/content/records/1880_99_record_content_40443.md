@@ -40,4 +40,4 @@ Cr Watt then moved that at the next Council meeting Cr Rabbich be asked to expla
 
 The remaining tenders were of the same value [2/3 per yard from the editorial] and were disposed of by ballot.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

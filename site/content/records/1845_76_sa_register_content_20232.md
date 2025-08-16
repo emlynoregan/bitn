@@ -37,4 +37,4 @@ The Wallaroo Times reported on the contemplated stoppage, characterising it as o
 
 We hope that before long the market will improve and the mine will again be worked.  Burra has to pay a rate of carriage which would close several of the Peninsula mines if confronted with the same expense.  A railway to Burra might see mining profitably resumed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

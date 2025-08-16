@@ -34,4 +34,4 @@ Cr Hardy played the role of advocate and one would have supposed that he would t
 
 [The writer goes on at some length to decry this ‘perversion of first principles of justice.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

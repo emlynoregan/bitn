@@ -33,4 +33,4 @@ There is a request that the Council Chambers be a polling station.
 
 The platform needs lengthening with shelter for passengers and a goods shed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

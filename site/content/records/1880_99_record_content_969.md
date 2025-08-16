@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on Captain Bagot and the Land Laws.  Bagot advocated perpetual lease rather than freehold.  The editor considered that it was too late to introduce this in SA now, however good it was in theory if it had operated from the start of settlement.  He also raised other objections to the proposal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

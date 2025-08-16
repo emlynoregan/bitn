@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 All Nations Fair in aid of the blind will be held in Adelaide on Monday.  No Burra ladies will assist this year, but the local committee has sent £12-6-3 and a crate of turkeys from Hallett to bring the value to c. £15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

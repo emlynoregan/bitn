@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Long Letter from R.W. Mathews on the likelihood or otherwise of Eternal Punishment.  This followed the report of a discussion on the same subject in a recent YMCA meeting.  [Mathews did not believe in it since Christ had taken away the sins of the world and brought forgiveness.  He gives scriptural references in support of his views.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

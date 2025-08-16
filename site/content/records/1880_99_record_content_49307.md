@@ -118,4 +118,4 @@ Mr Symon, ‘What do you call it then?’
 
 Mr Symon asked why Hardy had waited so long to bring action.  Hardy said it was the 5 October item that had been the last straw.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

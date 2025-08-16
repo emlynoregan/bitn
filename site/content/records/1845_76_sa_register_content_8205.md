@@ -32,4 +32,4 @@ The Directors of the SA Mining Association will offer to let by public survey at
 
 Henry Ayers, Secretary, Adelaide, 9 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

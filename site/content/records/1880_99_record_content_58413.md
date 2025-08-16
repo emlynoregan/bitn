@@ -41,4 +41,4 @@ Obituary.  A young man named Nosworthy was killed at Lucindale last week when hi
 
 ‘Outsider’ writes with tongue firmly in cheek that W.H. Hardy, W.T. Rabbich and Tommy Halls, as leading men of the town, should be sent to Adelaide as a group to greet the new Governor, Sir Fowell Buxton, when he arrives in SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

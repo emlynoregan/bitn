@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Michael, Anne-Marie & Heidi Matuschka are moving soon to Crystal Brook.  While here they have been involved in golf, bowls, Lions and the National Trust, among other interests.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

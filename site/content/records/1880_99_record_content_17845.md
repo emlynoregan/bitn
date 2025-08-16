@@ -74,4 +74,4 @@ Cr West said Cr Sampson wanted to gain all he could at the cost of West Ward.  T
 
 Cr Ridgway moved that West Ward pay ⅔ and East Ward ⅓ and that East Ward finish the other footway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

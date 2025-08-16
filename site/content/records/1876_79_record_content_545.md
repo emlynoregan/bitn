@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Mr J.N. Martin, Stationmaster at Farrell’s Flat, has been appointed Superintendent of the Kingston-Naracoorte Railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

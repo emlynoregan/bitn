@@ -35,4 +35,4 @@ Notice.  James G. Terry announces that he has purchased the North-East Line of c
 
 Coaches will leave the White Hart Hotel, Aberdeen for Bimbowrie and intermediate stations every Friday at 1.30 p.m., arriving at Bimbowrie Saturday evening.  Coaches depart Bimbowrie Monday morning, arriving at Aberdeen in time to catch the 1.20 p.m. train to Adelaide.  The journey takes 36 hours.  Bookings in Adelaide at J. Hill & Co.’s office and in Aberdeen at W. Stewart’s White Hart Hotel or J. Tiver’s Railway Store.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

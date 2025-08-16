@@ -40,4 +40,4 @@ Prices for travelling 100 miles.	Qld	NSW	Vic.	SA
 
 Cattle per head	6/4	7/0½	8/2	9/6¼
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

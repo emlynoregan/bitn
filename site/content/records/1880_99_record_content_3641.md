@@ -67,4 +67,4 @@ Cr Rabbich gave notice that at the next meeting he would move the whole council 
 
 Cr Sampson’s proposal is then printed.  It contains no mention of funds for a Kangaroo St Bridge, but reveals that the bridge at the end of Welsh St, into Ayers St is known as Boundy’s Bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 [Photo of Gary Tapscott (of Elders) with Neil Page & Tom Owen in front of the building sold – the former Goldsbrough Mort offices west of Phillips Building.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

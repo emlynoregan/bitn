@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Can anyone inform me what has been done with the sum of about £400 collected eight years ago by bazaar and other means for building a church [Anglican] at Redruth?  Nothing has, I believe, been expended on the building in the last nine years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

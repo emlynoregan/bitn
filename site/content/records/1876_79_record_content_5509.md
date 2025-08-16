@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Station. Much machinery from the old ‘Try Again’ mines is at the railway station en route to the Cluckmaganing claim at Boolcoomatta, [N-E of Olary] which is expected to yield good results.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

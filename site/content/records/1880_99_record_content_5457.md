@@ -31,4 +31,4 @@ Editorial, on the Saleyards Question.
 
 Contrary to advice last week we are informed that no agreement has been reached with the salesmen.  They do not agree to pay the reported sums of £30 for sheep yards, £20 for Richardson’s Yards and £10 for the Aberdeen Yards.  The Mayor had reported theses sums as agreed and the Council then accepted such an agreement.  But it now appears that at the conference the matter was passed with only two of seven voting in favour and four abstaining.  The matter is to be embodied in a by-law, but under the circumstances we cannot endorse it.  Of course it may be revised before the by-law is passed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

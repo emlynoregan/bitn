@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Catherine Wade, died 14 November, aged 60, wife of the late Andrew Greville Wade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Advt.  M. Terry, contractor for the North-East Mails, will run a four-horse conv
 
 Commencing from Wednesday 28 February.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

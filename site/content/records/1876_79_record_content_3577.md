@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Education. The Govt. has decided that compulsory education according to the Act of 1875 is to be enforced wherever `there is sufficient school accommodation'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

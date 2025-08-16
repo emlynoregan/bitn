@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from L.W.H. suggesting that instead of simply relaying the track from Hallett and Terowie the old rails should be moved in to accommodate 3’6” gauge trains and new rails placed to accommodate the 5’3” gauge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

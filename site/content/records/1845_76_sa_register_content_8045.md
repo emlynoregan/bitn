@@ -32,4 +32,4 @@ The Overland Route to Mount Alexander
 
 Mr J. McLaren the Deputy Surveyor-General reports having sunk nine wells along the route and found good water in seven.  The distance between water is now 8-17 miles and in one place 20 miles.  This makes the Hundred Mile Scrub between Wellington and Tatiara practicable for drays.  Regular overland traffic for good and passengers should be attempted before long.  Perhaps the Victorian Government will be inspired by this example to improve the communications between Mount Alexander and Melbourne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

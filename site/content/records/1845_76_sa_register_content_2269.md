@@ -29,4 +29,4 @@ He further advises that he now has new horse drays travelling there at the rate 
 
 He is still looking for a partner who can command £250 in cash or good horses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

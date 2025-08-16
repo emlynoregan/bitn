@@ -41,4 +41,4 @@ Many people have passed through en route to the Barrier Ranges.  All are well eq
 
 The tributers at the mine are washing their ore and preparations are being made for an almost complete stoppage at the end of the month.  Wages have been reduced for the few remaining.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ The escort from Ballarat, arriving at Melbourne on 25 February, started with onl
 
 The gold price in Melbourne has been £3-1-6 to £3-2-0 per ounce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

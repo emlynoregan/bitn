@@ -32,4 +32,4 @@ Royal Mining Co.
 
 The lease by the Patent Copper Co. on the Royal Company’s property expired on 7 April.  Royal Company Directors: C.S. Hare, I.D. Henry and His Worship the Mayor of Adelaide, visited the site on Thursday last.  It is understood that the Patent Copper Co. managed to remove some 60-70 tons of copper ore before their lease expired.  The Directors took specimens and it is believed the property will be worked, if the extent of the lode justifies that.  It is located about 14 miles south of Kooringa, 1¼ miles from the Black Springs and 2 miles from Karkulto Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

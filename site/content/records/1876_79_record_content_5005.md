@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Editorial on the railway gauges — the foolishness of SA having two gauges. [SA was about to see the problems caused when broad gauge met narrow gauge at Hamley Bridge and Terowie — and somewhat later in the South East.] The editor favoured converting all SA to the NSW gauge of 4’8½”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

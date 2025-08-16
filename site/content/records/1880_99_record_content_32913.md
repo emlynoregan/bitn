@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the Burra Town Council and its improved and now sound financial position.  The writer commends the Town Clerk for getting the rates in so well and the Inspector for his hard work which no doubt aided greatly in stamping out the typhoid outbreak.  He suggests the Mayor ought to consider resigning due to his pressure of work from other duties.  [As SA Treasurer.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

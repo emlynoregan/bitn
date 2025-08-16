@@ -59,4 +59,4 @@ The annual meeting of the Auxiliary of the British and Foreign Bible Society, Ko
 
 [The report continues at some length with further details of the work of the organisation.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

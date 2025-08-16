@@ -27,4 +27,4 @@ Obituary.  Mrs East, the oldest resident in Burra died on Wednesday.
 
 [This terminology usually means the person resident in the town longest, rather than the longest lived person.]  [Mary East died 8 July aged 77.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

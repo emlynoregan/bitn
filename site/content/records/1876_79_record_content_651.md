@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Rev. D. O’Donnell of Clare will lecture in the Institute tomorrow night on Temperance and on Monday night on Tom Hood: His Life, Character and Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

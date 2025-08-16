@@ -30,4 +30,4 @@ Burra Town Council.
 
 A letter from the Superintendent of Fire Brigades calling attention to the dangers posed by cinematographes and urging an attempt be made to get a clause introduced into the proposed Amended Places of Public Amusements Act dealing with such appliances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Star Thistle has broken out in the local area, especially along the Burra Creek and grasshoppers are a problem particularly in the Hallett area, but the ichneumon fly, which lays its eggs in grasshoppers, is plentiful and small birds are also doing their job.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

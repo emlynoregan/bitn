@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial expressing concern at the very limited funds available to Council for the rest of the year, much having already been spent in labour to find employment for those out of work.  Now he suggests the dayman be put on half time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

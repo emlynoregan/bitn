@@ -40,4 +40,4 @@ A bunch or lode of malachite and red oxide between Peacock’s air-shaft and Wat
 
 In exploring the depths at 60 fathoms or more the miners have to contend with a great influx of water.  In some of the workings operations have to be suspended until the springs can be drained.  The present powerful steam pump with an 80 inch cylinder is proving inadequate in keeping the water ‘in fork’.  Consequently the Directors have lately ordered from England another large pumping engine, similar in power to the present one, together with a considerable supply of powerful pit-work.  This machinery is expected to arrive in summer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ Football.  Last Saturday the Aberdeens played the Railways.
 
 [The article breaks off in mid sentence without giving the results: ‘and after a fairly good game . . .’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

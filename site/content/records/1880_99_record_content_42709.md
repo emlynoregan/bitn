@@ -29,4 +29,4 @@ Burra North.
 
 Business at the north end of the town has been brisk of late due to the large number of drovers bringing stock to markets, shearers coming from northern sheds to be sent to new places and teams bringing in wool to the station.  Two fresh stores have opened and untenanted houses are not to be found.  The town with its good roads and footpaths and good sanitation is a pleasant place to live.  The Bon Accord railway crossing remains a dangerous place, but as yet the Railway Commissioners have taken no action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

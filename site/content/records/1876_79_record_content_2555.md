@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Mine. Capt. Sanders says Morphett's Shaft now over 95 fathoms and should reach 100 in less than 3 months. 85 South on Sander's Lode was promising as was 85 North on Kingston's Lode.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -34,4 +34,4 @@ A young child has been lost at Baldina.  A child of a wood cutter named Campbell
 
 [No corresponding death was registered.  John Stuart Campbell born to Charles Campbell and Mary Ann nee Wilson 6 December 1856 at Redruth is a possibility.  There is no registration of his death, but the same couple had another John Stuart Campbell born 6 September 1869 at Allens Creek, suggesting that the first child was dead by then.  This is also confirmed by a letter on the subject by the child’s father; see 29 July 1859 page 3]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

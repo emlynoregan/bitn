@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Lights on vehicles. We remind readers that lights are not required on vehicles on the nights from the 4-8 March on account of the full moon. The Act does not require them on the full moon or the 4 night previous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

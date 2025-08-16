@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cr Hardy’s absurd motion was dealt with, but could easily have led to much unpleasantness.  It is clear a storm is coming that will require the Mayor to use all his skill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

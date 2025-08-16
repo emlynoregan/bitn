@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Employment. A number of the Burra Miners have gone to work in New Caledonia on two year contracts - some for 11/- a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

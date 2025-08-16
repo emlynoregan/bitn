@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Depression.  Servant girls in Melbourne are offering their services at 3/- to 4/- a week to get a home!  Many shop assistants there are working a two day week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Black Hills Proprietary Silver Mining Co. held a board meeting in the Burra Institute 21 March.  The chairman was W.R. Ridgway.  Other members: J. Dunstan Sen., J. Dunstan Jun., W.A. Rabbich and J. Poole.  The company was registered and incorporated on 21 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

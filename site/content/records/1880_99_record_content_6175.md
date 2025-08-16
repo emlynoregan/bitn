@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  24 January, at Kooringa, Rosa May Lockyer, infant daughter of E.C. & M.J. Lockyer, aged 11 months.  [Born Rosa Mary Lockyer 26 February 1881]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

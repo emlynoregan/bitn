@@ -32,4 +32,4 @@ It will also be a benefit to other mines in the colony.
 
 It remains to be seen whether you will be fools enough to continue to sacrifice this sum annually for the benefit of the SA Company.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

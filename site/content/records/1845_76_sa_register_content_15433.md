@@ -30,4 +30,4 @@ Kooringa News, 19 March
 
 Special services were held last Sunday at the Westbury Wesleyan Chapel.  Rev. N. Bennett of Mintaro preached in the morning and evening and Mr W.H. Wilkinson Sen. in the afternoon.  There was a pretty good attendance to each service.  There was a tea meeting and a public meeting the following day and the weather was so fine as to induce many to go from Kooringa merely for the pleasant jaunt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

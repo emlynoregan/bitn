@@ -38,4 +38,4 @@ Obituary/Inquest.  On Thursday morning W.H. Challoner presided at the White Hart
 
 [Edward Donelly died 29 March 1862 Chewings Station aged 30.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

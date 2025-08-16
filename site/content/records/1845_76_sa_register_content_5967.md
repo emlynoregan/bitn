@@ -30,4 +30,4 @@ The number of claims registered [to vote] is 428.  The number of objections sent
 
 The objections include all the SA Mining Association Officers and the Patent Copper Company’s workmen, who pay no rent and also the Company’s tenants, who pay only 3/- a week and so under £10 p.a.  A Court of Revision will be held on 28 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

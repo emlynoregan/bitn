@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 John Hutson is building a wheelwright’s shop and other improvements are being made in Commercial Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

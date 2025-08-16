@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cricket.  A meeting is called for Thursday at the Commercial Hotel with the aim of starting a new club - just the one for the town as there is insufficient support for more.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. T.H. Burgess gave his third address on Thursday: The Land We Live In: Its Illustrious Future.  There was a small audience at the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

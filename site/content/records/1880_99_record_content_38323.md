@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on the railway brakes question.  The writer is disappointed that the Westinghouse system was the only one tried in the tests, but pleased to hear that it seems to have worked remarkably well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

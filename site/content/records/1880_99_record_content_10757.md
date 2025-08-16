@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Sampson called attention to the sale of an entire horse in Market Square recently and he thought common decency should not permit a repetition.  The local auctioneers will be asked not to sell entires in such a public place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

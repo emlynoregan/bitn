@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes a letter on taxation, pointing out that indirect taxation falls disproportionately on the poor.  He argues against both property and income tax in favour of a land tax.  He says that 3d in the £ on unimproved value of land exempting the price first paid to the Crown would stop speculation and choke monopoly [as well as yielding the required revenue].
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

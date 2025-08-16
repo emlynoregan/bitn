@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Silver.  The geologist, Mr Bell, is believed to have reported favourably on the possibilities of developing the Black Hills silver claims, but the owners are not publishing his report.  It is also reported that good assays have been received from claims in the Hundred of Tomkinson near Ketchowla.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

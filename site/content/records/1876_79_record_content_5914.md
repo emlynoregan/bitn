@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Electric Light. A report on Thomas Edison's enterprise at Menlo Park and reference to his patenting of the electric light.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

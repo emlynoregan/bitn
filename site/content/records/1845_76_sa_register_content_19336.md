@@ -38,4 +38,4 @@ Bigamy.  On Wednesday Mr John Bagg of Springbank sustained a charge of bigamy ag
 
 A serious assault occurred at the Smelters’ Home last Friday.  A man who was partially intoxicated challenged any person to a fight and when no one accepted the challenge he struck Mr D. Quigley without provocation, while the latter was drinking a glass of ale.  The latter threw the tumbler he was drinking from at the assailant and it smashed, inflicting a severe wound.  As the man provoked the assault the matter was settled out of court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Defence Rifle Club.  After many efforts of the enthusiastic supporters this is at last to become an established club.  Rifles are to be supplied and all that is wanted is a good number of members.  A meeting will be held on Thursday at the Institute and we hope all sportsmen who glory in shooting will attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

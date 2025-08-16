@@ -42,4 +42,4 @@ Cr Sampson wanted to know why Cr Hardy had it and why he was exhibiting it to ra
 
 Cr West supported the statements of Cr Sampson and Cr Sampson then moved that Cr Hardy return the book.  Cr Hardy 2nd saying he intended to do so anyway.  When put to the vote however, Hardy voted against it and the motion only passed on the casting vote of the Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

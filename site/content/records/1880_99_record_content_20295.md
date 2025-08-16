@@ -27,4 +27,4 @@ Redruth Court 25 November.
 
 Johnson fined 5/- for omitting to move his bullock team and dray from the middle of the road to allow a buggy to pass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Vestry.  The foundation stone was laid last Wednesday.  The vestry cost £250 and the ceremony was performed by the Rev. S. Knight.  Trees were planted around the church afterwards followed by a spread that included turkeys, fowls, tongue, suckling pig etc.  A public meeting followed and the total proceeds including previous promises were £95.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

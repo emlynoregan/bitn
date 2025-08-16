@@ -31,4 +31,4 @@ The partnership between Thomas Henry Mayne and Louis Joseph Maurau, surgeons of 
 
 Dr Mayne continues the practice assisted by Dr Horace Nutt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

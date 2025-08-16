@@ -35,4 +35,4 @@ To the north it has been very hot with reports of 105°F at Boolcoomata, but the
 
 Fire.  A very large fire has been raging on Booborowie Run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

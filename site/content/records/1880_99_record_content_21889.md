@@ -59,4 +59,4 @@ William Midwinter gave evidence that Jacob Jansen had stayed at his hotel from 1
 
 The jury found that death was due to the horse bolting while going down hill and no blame attaches to anyone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

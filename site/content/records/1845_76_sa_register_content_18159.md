@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Nothing has been done in relation to the election since a meeting attended by not more than a dozen persons.  There will not be much expense attached to the election as it was resolved not to advertise, but just to send the bellman around calling the meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

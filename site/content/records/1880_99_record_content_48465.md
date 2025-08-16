@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Institute Committee Meeting on Thursday agreed to accept the offer from Miss Spence to give a lecture on Effective Voting.  Mr J.A. Watt offered to get up four 6d concerts to aid the Institute funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

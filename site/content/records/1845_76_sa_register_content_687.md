@@ -31,4 +31,4 @@ Persons desirous of contracting for the erection of the Hotel at the Burra Burra
 
 Tenders to be in by 4 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -46,4 +46,4 @@ Mr Anderson for the defence said that his client was not intentionally a default
 
 The jury found him guilty and the judge sentenced him to three years’ hard labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

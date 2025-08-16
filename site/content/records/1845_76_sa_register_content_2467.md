@@ -31,4 +31,4 @@ This house commands extensive feed all round and the never failing water supply 
 
 WILLIAM DONNELLY, Proprietor, has spared neither trouble nor expense to make a house of superior accommodation and a table replenished with every variety that can be procured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

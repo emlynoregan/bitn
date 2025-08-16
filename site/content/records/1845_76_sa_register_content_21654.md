@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Election matters are very quiet, but it is hard to get anyone to stand.  It is believed both old members will stand, but one is far from popular and would be defeated by any moderate opposition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

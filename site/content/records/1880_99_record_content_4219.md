@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Anniversary was very successful.  The treasurer, Mr A.H. Forder reported that of the total cost of the church building of £1,500 all but £388 had been raised.  The trustees aimed to pay off £88 this anniversary.  So far £65 has been raised with several good supporters still to be interviewed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  In aid of the Jubilee Avenue Fund Mr Glynn MP will deliver his popular lecture on ‘Woman’ at the Institute on Friday 21 Oct.  Music by Mr H.R. Holder of the Adelaide Liedertafel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

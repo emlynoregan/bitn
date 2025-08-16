@@ -41,4 +41,4 @@ Christmas Eve was fine and pleasant, shops were well decked out and windows hand
 
 The main event of Christmas morning was the Christmas & Hospital Service at the Wesleyan Church, attended by the Town Council, Friendly Societies, Volunteer Forces and the Hospital Board.  The Burra Band led the procession from the Institute.  The collection raised £7-£8 for the Hospital.  The Anglican and catholic Churches also had their usual Christmas services which were fairly well attended.  In early afternoon large numbers were lounging about the streets while hotels were fairly patronised.  Picnic parties went to Princess Royal and other parties went shooting.  Some went to tea at the Primitive Methodist Church anniversary function.  After tea the usual games filled the time till the public meeting at 7.30 p.m.  Proceeds for the day were good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

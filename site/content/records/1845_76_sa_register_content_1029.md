@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 A party of miners from Cornwall on the Britannia and the Hoogly under Captain Rodd started on Monday from town to the Barossa Range to commence operations on the lands of G.F. Angas Esq.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

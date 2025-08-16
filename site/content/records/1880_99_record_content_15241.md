@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Melbourne Dramatic Co. leaves today for Adelaide.  Since the last paper: Octoroon and Sin and Its Shadow were presented on Friday and on Saturday Blue Ribbon of the Turf.   The advertised play, The Shaughraun, was withdraw on account of the difficulties of handling the scenery.  Uncle Tom’s Cabin was presented last night.  All performances were reported as being well done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

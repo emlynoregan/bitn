@@ -30,4 +30,4 @@ J.D. Cave had a nice collection of chrysanthemums at the Petersburg Show last we
 
 David Weinstein, the notable who was heard of in Burra at eh beginning of 1896, has been declared insolvent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

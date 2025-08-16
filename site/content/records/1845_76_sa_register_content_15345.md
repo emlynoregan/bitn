@@ -49,4 +49,4 @@ I examined the body of the deceased Charles Wolfe.  I found no marks of violence
 
 [The SA Deaths CD must be in error in recording the death of Charles Wolfe as 28 February [sic] 1862 at Gottlieb’s Well North, residence Winnininnie aged 30.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes expressing disgust at the recent attempt by Crs Ridgway and Coglin to reduce the wages of men employed by the Corporation and carried on the 21st.  It is ‘mean despicable and contemptible’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Burra Institute.  This institution’s committee are economical and are not need
 
 ‘They have finished in the south wing a new reading room, 24 ft x 13 ft and enlarged the library to correspond.  It measures 24 ft x 16 ft.  The rooms are 13 ft in height and are well ventilated, and are fitted and finished in an ornate style.  The Committee purpose erecting the north wing to correspond with the south.  The old lecture room, which is 34 ft x 20 ft, will be left to be used as an entrance-hall and small museum.  At the back will be built a lecture-hall 50 ft long and 34 ft broad, and when the whole structure is completed it is believed it will be a commodious and convenient establishment.  The Secretary, who has given £10 to the fund, is devoting his whole time and attention to the Institute without any fee, but hopes to be encouraged by the public.  The Committee are energetic in their endeavours to raise the required sum, which is £250.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

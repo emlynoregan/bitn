@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The School Board of Advice will place a footbridge over the creek opposite the Church of St Joseph.  Members will act in their private capacity.  [Another note in ‘Items’ suggests that subscriptions will be solicited.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

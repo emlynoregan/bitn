@@ -38,4 +38,4 @@ After repaying the original capital twice over, the clear surplus of property am
 
 [The editor says that this is a gross underestimation of the true value of the assets.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

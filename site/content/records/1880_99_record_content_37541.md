@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on the Collapse of the Progressive Land Tax Bill.  The House of Assembly rejected it 26 to 22 after some tricky manoeuvres by the Opposition.  While opposed to the tax we object to the slick trick used to stop it without the matter being properly debated.  ‘We believe in the abolition altogether of private titles.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

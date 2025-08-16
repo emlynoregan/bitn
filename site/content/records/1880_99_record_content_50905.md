@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Bill Sykes’ writes in dialect.  He has, he says, resolved to get into office as a ‘kounseller of the Burra Korporashun’ so that he can ‘suspend every bloomin thing in the shape of orders or rules, and carry on a secret société so that everyone won’t be able to see what capers I cut.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

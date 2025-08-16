@@ -28,4 +28,4 @@ Tree planting continued to fill in the gaps.
 
 The cemetery debt had been reduced to £9 from £30-9-9 at the start of the year.  This was possible by using the curator for public works when not required at the cemetery and it should allow the debt to be eliminated next year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

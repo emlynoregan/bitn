@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 SA Gold.  Mr Williams of the City Bridge Hotel with a party of successful miners from Mount Alexander has gone to Pt Lincoln seeking gold.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

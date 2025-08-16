@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Sunday School held its anniversary last Sunday.  The services were conducted by Rev. T. Flood and Rev. Lee.  Attendances were good.  The public tea is today at 5.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

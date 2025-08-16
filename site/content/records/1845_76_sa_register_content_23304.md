@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 SA has never yet trained a teacher of its own.  All have either been imported or improvised, or like Topsy they have grown fortuitously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

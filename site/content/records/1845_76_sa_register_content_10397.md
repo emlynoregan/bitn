@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 SA Mining Association.  The half-yearly report of the company is printed.  All the most interesting points are included in the editorial comment on page 2, but the page three notice does give the full financial details.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

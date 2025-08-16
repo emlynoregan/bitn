@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. S. Wellington, President of the Primitive Methodist Conference, has returned after his visit among old friends at the Giles’ Flat anniversary.  So many turned out to hear him that both afternoon and evening services had to be out of doors.  On Monday £15 was taken at the tea and he had to speak from a wagon in front of the church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

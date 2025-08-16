@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Lecture on `The Great Pyramid and the year 1881' at the Institute, Kooringa, 7 May, with coloured painted diagram 12'x18', 1/- & 2/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

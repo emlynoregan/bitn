@@ -37,4 +37,4 @@ Yesterday, Whitsunday, will be long remembered.  From about 3 p.m. it grew very 
 
 [*This statement regarding the £400 was later said to be incorrect by Sergeant-Major McCulloch in court on 18 June as reported in the Register of 25 June.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

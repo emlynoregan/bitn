@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Straying Animals.  Another letter complains of the continuing problem of straying cows and horses in Redruth and Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Birth. On 28 Feb. to the wife of Thomas Hall of the Barrier Ranges, a son.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

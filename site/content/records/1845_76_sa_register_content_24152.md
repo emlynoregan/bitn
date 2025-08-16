@@ -36,4 +36,4 @@ Robert Gill, a farmer, said labour of the right sort was not available when want
 
 Mr Young jocosely remarked that someone had said there were no ruins to be seen in the colony, but that person had only to come to Kooringa to discover his mistake.  Certainly the state of Kooringa was not a progressive one, but whether that was to be referred to the conduct of the landlords, the least said the better.  He had been there twenty years and seen many ups and downs.  The first supporters of the place were the miners – very good ones; the next help was the sheep farmers, who were excellent also and now they had the agriculturalists coming around them and he thought they would be more certain customers than the other classes.  Last season they had a good harvest and they had behaved well and spent money freely.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

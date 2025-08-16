@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Station.  The new station is finished and looks respectable.  We hope it will not be covered by advertising hoardings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

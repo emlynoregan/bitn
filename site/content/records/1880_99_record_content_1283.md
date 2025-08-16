@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Cricket Club’s annual dinner was held at the Burra Hotel last Wednesday with P. Lane in the chair and the club’s president, E. Lipsett in the vice-chair.  C. Butterworth, Captain, was the season’s best bowler and W. Parker the best batsman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

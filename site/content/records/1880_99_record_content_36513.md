@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Sports.  Out-of-town reports are big on rowing.  In Sydney there will be a race for £500 a side on 23 June.  Boxing and cricket are also prominent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

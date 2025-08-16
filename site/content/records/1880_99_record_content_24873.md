@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Teetulpa.  There has been a new rush to ‘King’s Bluff’ where 25 dishes yielded 10 dwt 15 grs, which was considered good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

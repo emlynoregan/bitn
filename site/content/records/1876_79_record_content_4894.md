@@ -32,4 +32,4 @@ Burra Show. Arrangements this year were an improvement on last year both in mach
 fortunate indeed. The results occupy two columns on page 3. There was a banquet afterwards at the Institute. 
 [They include Best bouquet for table — W. Fuss 1st 5/- & and B. Fuss 2nd 2/6. W.=H.C.W., but B.=?- perhaps Bertha?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

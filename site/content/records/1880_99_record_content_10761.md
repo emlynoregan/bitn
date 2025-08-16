@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Robert Brown jnr writes affirming that all the ewes that won prizes at the recent show were bred at Wandillah and not from Martindale as some person had rumoured.  All ewes shown were local and all but 2 of the 21 rams also - and those 2 were not prizewinners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Anniversary last Sunday.  The annual children’s treat was held on Monday at Mr Sandland’s paddock on the Adelaide Road.  [Sod Hut.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

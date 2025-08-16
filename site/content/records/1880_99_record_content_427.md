@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 New Auction Firm.  Messrs Homburg & Co.  will hold a sale in the Bon Accord yards next Tuesday.  (c. 500 sheep and a few cattle and horses)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

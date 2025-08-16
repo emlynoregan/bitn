@@ -45,4 +45,4 @@ Mr Rains galloped into a spring cart just north of White's residence and suffere
 
 Mr J.F. Duff was driving a pair of horses when they bolted up Commercial St and were stopped eventually some way along the Sod Hut Road. He turned them, but they bolted again at the bridge in Commercial St and negotiated Market Square at a great rate before again being stopped without damage. The horse of F. Bromley, butcher, became unmanageable near the Aberdeen Hotel and ran into W.H. Martin's buggy, breaking the points off both shafts and slightly hurting his horse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

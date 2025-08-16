@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Evicted Irish Tenants.  A meeting was held in the Institute last Wednesday chaired by F. W. Holder and a committee was appointed to see the town canvassed on behalf of the cause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

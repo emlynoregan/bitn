@@ -31,4 +31,4 @@ St Mary’s 144 defeated Broken Hill 73
 
 Clare 102 & 169 defeated St Mary’s 59 & 8 for 95 [Apparently a win on 1st innings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

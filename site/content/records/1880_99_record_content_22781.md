@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Financially the year began with £12-13-6 and receipts brought it up to £172-4-10.  Expenditure has been £196-1-8, which included £39-3-6 on excavation for new rooms, leaving a deficit of £22-16-10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

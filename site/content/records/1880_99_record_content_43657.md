@@ -47,4 +47,4 @@ Chairs and forms were placed in the aisles for this (which should not have been 
 
 Once again we must thank Mr J. Roach for bringing talent from Adelaide for the concert - several ladies and gentlemen at his own expense.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

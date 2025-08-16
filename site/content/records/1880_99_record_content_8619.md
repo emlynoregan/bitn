@@ -40,4 +40,4 @@ G.A. Gebhardt gave evidence contending that the sheep were his.  Mr Ford’s lan
 
 Ford was fined 40/- per sheep plus costs.  [The number of sheep doesn’t seem to be mentioned.]  Mr Akhurst, for Ford, said he would appeal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

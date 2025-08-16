@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Queen Victoria’s Jubilee.  The Mayor has supplied a medal commemorating the Queen’s Jubilee to each child in the town and there was a large distribution at the public school yesterday by Mr Wittber.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

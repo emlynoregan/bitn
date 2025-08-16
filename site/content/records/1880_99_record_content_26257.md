@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Editorial on Mr Rees and the affair of the connection of the Engineer-in-Chief with the Silverton Tramway co. and other matters.  Mr Rees has tried to affix on the Engineer-in-Chief the stigma of having received bribes, without any proof.  So far his efforts have rebounded upon himself.  A select committee has been appointed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

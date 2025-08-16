@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Ian Auhl’s Book The Story of the Monster Mine is now available from the District Council of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Silverton (Broken Hill) Railway has been operational for some weeks as far as Cockburn, but the contractors (Millar Bros) have not handed it over to the Government.  They are also building the line on the NSW side of the border and so are carrying their supplies there free of charge, as well as netting £4,000 a week from other traffic.  Why is this not going to the SA Government?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

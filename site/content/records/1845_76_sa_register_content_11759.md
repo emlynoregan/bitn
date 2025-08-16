@@ -28,4 +28,4 @@ Gawler Station
 
 [A report on difficulties in handling traffic at the Gawler Station reveals that the station had been laid out to receive and deliver coal and copper ore on the western side.  This traffic saw the loading and unloading of from 25 to 30 drays per day, or from 14,000 to 15,000 tons per annum.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

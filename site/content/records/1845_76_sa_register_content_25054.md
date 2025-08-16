@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Redruth Court.  A sailor who had probably deserted had been working on a sheep station when he obtained permission from his employer to run up a bill for £3 at a Burra store.  He falsely obtained credit for almost £11 and then disappeared to Port Adelaide, where he was captured as he was about to join HMS Clio.  He was returned to Redruth and sentenced to 3 months in the local gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

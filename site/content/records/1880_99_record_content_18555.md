@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Messrs Roach called attention to the need for improving the approach to their mill and weighbridge.  This was referred to the Works Committee, as was the approach to the White Hart Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

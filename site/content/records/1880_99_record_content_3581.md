@@ -30,4 +30,4 @@ The licence fee to keep the house open as a hotel is now £30 and as this is too
 
 William Dunnemann, Copperhouse March 25 1880.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

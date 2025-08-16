@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The boy Broad, who sustained such severe injuries last week when a mule team passed over him, is making good progress and his hand will be saved, though he may not have such free use of it as formerly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

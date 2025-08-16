@@ -46,4 +46,4 @@ Two approaches to the bridge in Aberdeen are to be made.
 
 Expenditure on public works has been just over £1,000 for the year and the cemetery fund has been repaid £156. Indebtedness is now a little less than on 1 January, but no further works are to take place except those already ordered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

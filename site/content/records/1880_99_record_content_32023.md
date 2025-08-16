@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Ex-Mayor Killicoat has offered to plant a double row of trees from Redruth towards Mr Cave’s if the Council will find the guards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

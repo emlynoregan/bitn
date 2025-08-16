@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A. Bartholomæus is selling off the whole of his stock at his Redruth store as he is giving up storekeeping after 8 years.  Drapery, groceries, ironmongery etc. are to be had for bargain prices.  Cash only.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

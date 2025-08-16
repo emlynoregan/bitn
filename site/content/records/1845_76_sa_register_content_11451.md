@@ -51,4 +51,4 @@ I feel it is necessary to lay rhe full story before the public, as otherwise peo
 
 The committee have individually contributed nobly to the Institute, but cannot but feel aggrieved at being compelled to make arrangements for meeting their creditors to the extent of about £300, even after taking credit for the £50 voted for the Institute and the £50 just applied for.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

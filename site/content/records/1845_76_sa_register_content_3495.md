@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  The Reformer stage cart has just returned from the North Country and starts again this week for the same route to the Burra Burra and on to Mount Remarkable if inducement offer.  She carries 10 passengers or 18 cwt dead weight.  W.W.G. Nicholls.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

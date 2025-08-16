@@ -35,4 +35,4 @@ Miners are leaving for Wallaroo in large numbers.
 
 A Benevolent Society has been resuscitated here to meet many of the pressing wants daily seen in this place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

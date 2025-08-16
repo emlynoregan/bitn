@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mr Bruse’s new hotel, which faces the principal street, will be two storeys high and an ornament to the locality. [The Commercial Hotel]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

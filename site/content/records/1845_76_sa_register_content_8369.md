@@ -28,4 +28,4 @@ Central Road Board
 
 The letter from Mr Lawson read at the last meeting, asking for remuneration for having strengthened the bridges at Gawler for the transit of the great Burra Burra engine, was again brought forward.  A letter was also read from Mr Ayers, Secretary to the SA Mining Association, stating that Mr Lawson had been paid by the Association.  It was resolved that Mr Lawson be informed that the Board did not recognise his right to expect any compensation from them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

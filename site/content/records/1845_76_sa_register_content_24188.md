@@ -30,4 +30,4 @@ Bushranger Arrested
 
 On Monday [sic] 13 October Lance-Corporal Smith arrested John Baker the notorious character with a previous sentence for horse-stealing.  There is a warrant out against him for stealing horses from Mt Murchison in NSW.  He was armed when arrested and offered strong resistance.  [The 13 October was a Friday.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

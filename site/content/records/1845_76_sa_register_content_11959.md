@@ -35,4 +35,4 @@ A mineral lese has been taken out by Messrs Bath & Bosance of Kooringa for a sec
 
 At the Miners’ and Mechanics’ Institute on 20 August a lecture was delivered by Mr T.P. Hill of Adelaide on Public Speaking.  Mr Hill said this skill needed more attention.  It was not a gift, but could be acquired.  The lecture occupied two hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

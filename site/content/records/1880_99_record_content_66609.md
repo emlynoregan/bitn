@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Captain & Mrs Melksham’s farewell social was held last Wednesday at the Barracks on the eve of their departure for Magill after a stay of seven months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

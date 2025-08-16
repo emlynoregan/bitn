@@ -68,4 +68,4 @@ Notes by a ‘Taxpayer’ to the ratepayers’ meeting add only a little to the 
 
 ‘His Worship the Mayor went unnecessarily out of his way and did not take the palm for good taste, when replying to a relevant question asked by Mr P. Lane; he attacked Mr Lane personally’ It was certainly a lapsus lingual on the part of the Mayor when he said that the National Defence League, to which he belonged, was against part XIX.  What has the NDL to do with the Mayor’s voting when representing the Municipality at a Municipal Association Meeting?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

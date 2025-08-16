@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  On Saturday a match between 15 from Aberdeen and 11 from Kooringa was begun on the Burra Oval.  Kooringa compiled 148 and at stumps Aberdeen was 4 for 68.  The match continues next Saturday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

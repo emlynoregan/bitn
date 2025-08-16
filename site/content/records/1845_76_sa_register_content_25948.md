@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mt Bryan.  A gentleman with many teams reports that there is nowhere in the colony with one quarter the traffic that uses the Burra-Mt Bryan Road, that is half as bad as that road. The road is decorated with broken wagons, and wool that has been unloaded and left by the roadside.  Teamsters never think of travelling in less that five or six together; all the leading horses are attached to each wagon separately and even then the vehicle often gets stuck in the mud.  One day a teamster got his axle so far down in the newly-formed road that it was dragging the metal forward.  Even when unloaded, it took 16 bullocks to extricate the empty wagon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

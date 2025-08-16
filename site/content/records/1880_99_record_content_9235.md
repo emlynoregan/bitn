@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Special annual services for the British and Foreign Bible Society will be held on 21 Jan. In the morning in the Kooringa Primitive Methodist Church and afternoon in the Kooringa Wesleyan Chapel (A united service)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -60,4 +60,4 @@ The petition was signed by eleven memorialists.
 
 At the present time only four people obtained water from the main and the loss last year to the government was only £8.  The memorialists, four in Aberdeen and eleven in Redruth, would engage to take water and so boost the number of consumers to 19 which would allow the scheme to turn a profit.  The Council decided to support the move.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Weather.  Monday at Kooringa could justly be described as ‘Black Monday’.  A violent wind drove clouds of dust, which shrouded the whole town all day in dust.  Nearly all the shops had to close to save their contents.  The storm reached its height in the afternoon.  Little damage was done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

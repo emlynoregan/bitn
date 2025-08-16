@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Marriage. Burra Uniting Church 25 October: Sally Hayes will marry Kym Lynch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

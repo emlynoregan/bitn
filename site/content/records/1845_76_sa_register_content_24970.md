@@ -30,4 +30,4 @@ Accident/Obituary.  On Friday 13 December a young lad, Frederick Scott, the son 
 
 [Frederick Scott, born 18 February 1866 Redruth: died 13 December 1872 Burra Mine.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Terowie game is now expected to be on 4 September with 15 men to a team.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

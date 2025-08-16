@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr C.H. Uhrlaub will be given a send-off social at the Kingston Hotel at Mt Bryan after living at Mt Bryan for 5 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

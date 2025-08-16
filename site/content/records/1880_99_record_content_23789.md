@@ -34,4 +34,4 @@ Burra Co. RVF & SA Defence.
 
 The men and the band went by special train to Adelaide, assembled on the Parade Ground and then marched to Port Adelaide with just two short halts along the way.  Then over Jervois Bridge to Peterhead and Fort Largs.  In all a march of 12 miles.  Dinner was then eaten and than an attack was staged upon Fort Largs.  After the exercise they formed up and marched through Semaphore to Glanville, adding a couple of extra miles, and then to the Port Adelaide Station for a train to the city.  Not a few men fell out through exhaustion.  Of the 48 from Burra only 5 or 6 had to fall out.  All told the march was over 20 miles and too far for unaccustomed men.  Over 1,000 in all took part.  The Burra train left Adelaide at 8.00 p.m. and reached Burra just after midnight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

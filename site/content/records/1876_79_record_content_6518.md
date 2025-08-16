@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Artesian Wells. There is a report on the deputation led by Dr Nesbitt (Mayor) that waited on the Commissioner of Crown Lands (Hon. T. Playford) to recommend that the Govt. set up a system of artesian and tube wells in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

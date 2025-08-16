@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 On Friday a fire in Mr Warnes paddock half a mile east of Kooringa destroyed 20 acres of grass.  This is the fourth in the vicinity without known cause. [But see later inquest in paper of 24 Jan. page 3 and court case in paper of 14 Feb. page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

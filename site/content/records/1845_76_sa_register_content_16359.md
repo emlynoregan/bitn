@@ -31,4 +31,4 @@ James Osborne was charged with stealing a pair of trousers, one vest, one silk d
 
 The prisoner was sentenced to one month in gaol and ordered to pay the costs of the three witnesses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

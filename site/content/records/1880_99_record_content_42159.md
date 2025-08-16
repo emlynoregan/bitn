@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Sports reports from out-of-town were dominated by cycling, football, horse races and still some sculling that was being contested for large sums.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

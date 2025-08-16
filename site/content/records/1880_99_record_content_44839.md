@@ -29,4 +29,4 @@ Cricket.  Saturday at the Burra Oval Aberdeen v. The Stragglers (formerly Quarry
 
 Aberdeen 104, Stragglers 1 for 120.  A. Wade 50 not out & E. Lockyer 65 not out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

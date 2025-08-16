@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The New Premier.  The Kapunda Herald says: ‘Mr Holder is one of the most capable men in the House; mentally he has quick perception and a good power of critical analysis, that physically [he] is one of the thinest [sic] men in South Australia; that he is racked with a distressing hollow cough; that in spite of his weakness he is as energetic as any other man in the House; that he is more dexterous and quite as cool-headed as Mr Playford; that he has had many ups and downs, and tried many avocations in the course of a short life; and that he is as ambitious as Lucifer; as agile as an acrobat, and as determined as a bull-dog.  Whatever you may think of Mr Holder, you should not be so mistaken as to suppose that he is a man to be kept down.  Try to keep a cork under water without weighting it.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

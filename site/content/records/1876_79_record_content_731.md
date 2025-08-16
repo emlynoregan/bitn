@@ -29,4 +29,4 @@ Burra District Council, 1 August
 
 Mr J. Humphries resigned as a Councillor.  The Mayor and Cr Lipsett waited on the District Council concerning the transfer of the slaughterhouse to the Corporation.  The DC was willing to treat, but wanted to wait for the election of fresh councillors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

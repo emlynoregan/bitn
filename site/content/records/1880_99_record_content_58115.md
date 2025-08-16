@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Obituary.  Andrew Przibilla Senior died at Burra Hospital on Thursday aged 62.  He had long resided at Farrell’s Flat and for the last 8 years at Baldina, where he was a farmer.  He was buried at Baldina cemetery.  He arrived in SA 52 years ago and leaves a wife, 13 children and 1 great-grandchild.  [Sic, there is no mention of grandchildren.]  One son, Mr Andrew Przibilla jnr and one daughter, Mrs Jeffrey of Schomburgk, are married.  [Hundred of Schomburgk has been Hundred of Maude since 1918.] [Registered as Andrew Pryzibilla died 12 September 1895 aged 60.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

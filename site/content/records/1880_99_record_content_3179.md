@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Expedition’ complaining of the bad advice he had re the cost of posting a letter to New York at the local P.O.  He was 1st told it would cost 4d, but it was returned with a demand for 1/-.  He paid this and then 4d was returned.  Later the letter reappeared with a demand for 1/4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

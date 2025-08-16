@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra featured in a large segment of the Leylend Brothers’ program on Sunday Night.  It must have been filmed some time ago, as Morphett’s Enginehouse was a ruin surrounded by scaffolding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

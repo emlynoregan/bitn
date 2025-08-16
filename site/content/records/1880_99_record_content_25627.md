@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The visitors came and went by train. [Probably having made arrangements for a road connection from Farrell’s Flat, since there was no rail to Clare.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

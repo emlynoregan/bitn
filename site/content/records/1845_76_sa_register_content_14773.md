@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 I cannot let the letter of ‘A Kooringa Tradesman’ pass without attempting to vindicate the truth.  The nearest house is 50 yards away, not 150.  The road approaching the Telegraph Station is the very best piece of road in the township, and almost everyone expresses his entire satisfaction at the decision come to by our worthy representatives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

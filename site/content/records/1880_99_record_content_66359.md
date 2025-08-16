@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Rt Rev. Dr Maher, Bishop of Port Augusta, held a confirmation service at St Joseph’s last Sunday when 63 were confirmed.  Illness prevented his lordship from preaching.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

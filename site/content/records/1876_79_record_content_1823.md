@@ -32,4 +32,4 @@ Wed. - loss of John Dunstan's house at Redruth Thurs. - small fire in Commercial
 
 Captain Sanders offered the mine engine with horses and harness, but wanted the town to provide proper uniforms for volunteers and a small sum annually to maintain the engine and hoses
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

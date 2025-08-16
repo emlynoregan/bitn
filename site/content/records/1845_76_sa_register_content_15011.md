@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 On Sunday three special sermons were preached in the Bible Christian Chapel by Mr S. Keen of Adelaide on behalf of Home Missions and there is to be a public meeting on the same subject tonight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

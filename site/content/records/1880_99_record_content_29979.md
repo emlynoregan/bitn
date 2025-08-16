@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Letter of thanks from J.E. Hansen, Evangelical Lutheran Minister of Emu Downs on behalf of Bernhard Wilhelm Albrecht, deceased, who had died at the Burra Hospital on 2 October after being there seven months.  He praises the staff and service received, especially from Dr Sangster and Miss Birkett, the Matron.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

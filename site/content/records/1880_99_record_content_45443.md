@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Patrick O’Connor, aged 16, was charged with entering Philip Lane’s shop on 7 May and stealing a breach-loading gun and two watches.  Sentenced to six months, but sentence suspended on payment of a £20 bond and reporting to L-C Thomas every three months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

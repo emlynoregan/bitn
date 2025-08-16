@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Salvation Army has not yet appeared in Clare, though they were expected to do so last Saturday.  [This article needs more accurate dating as it appears on the face of it to contradict the report in the paper of 27 June.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

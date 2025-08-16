@@ -30,4 +30,4 @@ A committee meeting was held in the Burra Institute on 29 June to form a Philhar
 
 Rhe Buckley & La Feuillade  Anglo-American Co. performed at the Institute on Friday 23 June.  There was only moderate attendance due to insufficient notice.  It was an evening of songs, comic songs and music in part one.  After the interval songs, dances, comic sketches and musical items were presented.  On Saturday night there was a change of program, which was also gone through with spirit and was loudly applauded by the small audience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

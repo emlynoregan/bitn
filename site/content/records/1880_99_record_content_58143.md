@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 11th race was from Yunta on 11 September and was won by A. Pearce’s birds, which covered the 84 miles 1,445 yds in 104 mins at av. 1,435 yds per min.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

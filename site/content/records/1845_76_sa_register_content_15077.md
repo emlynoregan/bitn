@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 The annual meeting of the Auxiliary of the British and Foreign Bible Society, Kooringa Branch was held on Tuesday 5 November in the Bible Christian Chapel.  The proceedings began at 6 p.m. and by 7 p.m. the spacious building was completely filled.  Mr MacDermott SM was voted into the chair and Rev. W. Davidson read a detailed report of the year’s activities.  This year the branch issued 250 Bibles and 247 Testaments compared with 231 and 116 respectively the year before.  In this year these issues comprised 483 English volumes, 13 Welsh and 1 German.  Arrangements have been made to open a depot at Black Springs.  Income this year was £116-10-0 exclusive of sales at the depot.  (£96-2-3 came from subscriptions.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.H. Duncan believed if they went into progressive land tax it would lead to a single tax and land nationalisation. (laughter)  He was for a property tax and the Transcontinental Railway.  Like Mr Ward he thought the Government should be responsible for the control of noxious weeds and vermin on their land as much as the landowner is on his.  He favoured homestead block, but only on good land where something would grow.  He personally opposed payment of members, but would go along with public sentiment on it.  He was against local option, but if elected would support it with compensation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

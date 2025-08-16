@@ -36,4 +36,4 @@ Billy and Jemmy, two Aboriginal men were charged with the wilful murder of Rober
 
 The prisoners were remanded for eight days to be brought up at Kooringa for re-examination.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

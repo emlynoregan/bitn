@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘No. 2 Reserve at Redruth is now planted with trees, Councillors Linkson and Walsh paying expenses, which amounted to £1-18-0 less than last year/  This should be looked into, and no doubt it will.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

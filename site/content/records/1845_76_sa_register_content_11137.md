@@ -25,4 +25,4 @@ SA Mining Association Half-Yearly Report
 
 [The essential features are covered in the Editorial comments on page 2.  The report, of course, gives more detail and financial statements.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

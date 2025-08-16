@@ -51,4 +51,4 @@ Rev. Ibbetson preached his farewell sermon last Sunday at St Mary’s.  At the f
 
 A young man named James Tucker has been committed for trail on the charge of raping a young girl aged five.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

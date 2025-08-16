@@ -32,4 +32,4 @@ Notice.  On Tuesday at 10 a.m. W.G. Nicholl’s covered cart with three or four 
 
 The cart carried the Adelaide Observer and the SA Register newspapers through the country.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

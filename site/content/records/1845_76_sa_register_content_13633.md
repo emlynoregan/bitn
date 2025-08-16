@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A public meeting was held at the Burra Hotel on Saturday evening to consider memorializing Parliament on the amendment or removal of various clauses of the Impounding Act.  There were not many present, but all were unanimous on the subject.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

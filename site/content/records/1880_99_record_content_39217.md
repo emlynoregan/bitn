@@ -46,4 +46,4 @@ Cr Sampson thought Crs O’Leary and Watt were ignorant except on the side of Ba
 
 The motion was put and carried on the votes of Crs Rabbich, Sampson and Parks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

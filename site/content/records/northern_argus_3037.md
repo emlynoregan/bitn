@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Chris Hennekam and Alan Pearce have moved from Cubs to the Scout Troupe.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

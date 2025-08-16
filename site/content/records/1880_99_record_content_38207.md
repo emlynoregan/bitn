@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Nelson P. Whitelock, editor of the Barrier Miner, was to give a lecture at Broken Hill on protection, but it was cancelled on account of the small attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

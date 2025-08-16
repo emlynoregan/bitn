@@ -29,4 +29,4 @@ Ballast Quarry.  The SAR are to construct a siding from the main line at a point
 
 [The previous issue had said that the Government had a three year lease on the quarry from Mr Ford.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

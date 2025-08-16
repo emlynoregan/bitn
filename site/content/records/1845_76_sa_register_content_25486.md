@@ -32,4 +32,4 @@ Kooringa 22 October: There has been some light rain, but hot winds have countere
 
 Mt Bryan East.  The last month has been very dry, with a few showers last Thursday and Friday.  Grasshoppers are innumerable in some patches.  Calm days alternate with near hurricane conditions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -40,4 +40,4 @@ William Tregea was present when Wasley bought the bullock and when Bartle had ma
 
 His Worship ruled that the defendant was unable to show by evidence that the bullock belonged to him and ordered it be returned to the complainant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ The Overland Gold Escort
 
 ‘A Friend’ writes to the Editor expressing his concern about the imminent arrival of the Gold Escort.  Last time, he says, the names of people receiving gold and the amount of it was published in the paper.  This is an invasion of privacy and has the potential to lead to robberies.  He hopes Captain Tolmer will adopt a more discrete policy this time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

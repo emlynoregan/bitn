@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes calling attention to the sale of a dangerous Chinese firework.  Sales of these should be stopped during the summer months for fear of fire.  Also in the evening young men stand in the doorways of shops in the town smoking pipes and cigars, knocking them out and scattering sparks which the draught blows under doors and into shops.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

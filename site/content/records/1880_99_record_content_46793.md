@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Season.  Prospects are good and after a very bad start to the east this area has at last received some good rains, extending some 80 miles east of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

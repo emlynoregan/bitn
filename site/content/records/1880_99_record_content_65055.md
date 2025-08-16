@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Bicycle Club has arranged a run to Mt Bryan this afternoon at 2.25 p.m. and on 16 November has arranged a road race to Mt Bryan and back.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes condemning J. Dunstan JP for fining a man who admitted being in possession of two £1 notes, the property of Mr Warnes.  [£6 or two months]  Hardy goes on to criticise the policeman - ‘or should I say boy’, who allows all kinds of larrikinism to take place before his eyes.  Something, he says, needs to be done.  He also complains that the hotels are not closed on Sunday when they should be.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

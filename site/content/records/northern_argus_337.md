@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Burra DC has received a grant of $54,000 under the Federal Government’s Community Employment Program.  It will be used on the Market Square parking facilities and should employ five people for 23 weeks.  The Council has contributed $46,892.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

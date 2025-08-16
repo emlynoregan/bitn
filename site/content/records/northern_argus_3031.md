@@ -26,4 +26,4 @@ Bon Accord Mine Museum
 
 The CEP project valued at $25,000 is nearing completion.  The project covered repairs and some landscaping.  The E & WS shed over the shaft has been painted and new guttering fitted.  All fencing has been renewed.  Large artefacts have been raised on blocks.  Pathways have been created.  Pointing and stabilising of walls was carried out.  The foundations of the town’s original waterworks are believed to have been uncovered.  A picnic area has been formed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

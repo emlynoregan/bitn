@@ -30,4 +30,4 @@ Editorial on the new Market St roadworks.  Mr Duffy, Surveyor for the Midland Ro
 
 The Council has been much more reasonable with the contractor, Mr Pearse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

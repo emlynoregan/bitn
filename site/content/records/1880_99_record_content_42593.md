@@ -29,4 +29,4 @@ Editorial on The Australian Squadron.
 
 The advent of five cruisers and two gunboats for the Australasian area with 5% of the capital and running costs to be the responsibility of the colonies.  Intended to protect commerce and shipping rather than the land.  Cost to SA c. £10,000 p.a. (in addition to our land forces and Protector and Forts Largs and Glanville.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

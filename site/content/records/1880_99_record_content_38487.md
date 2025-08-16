@@ -37,4 +37,4 @@ Apples 1/6 lb	Soap 4½d lb	Salt 2½d lb
 
 Tobacco 6/6 lb	Coffee 1/4 lb	Eggs 1/4 doz.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

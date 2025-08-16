@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 21657→Cricket.  In an intercolonial game SA 172 & 274 defeated Victoria 182 & 219.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

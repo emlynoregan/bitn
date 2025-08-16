@@ -26,4 +26,4 @@ Female Exercise.  A celebrated physician says re exercise for women that the bes
 
 ‘[Walking] ought to be preserved even in bad weather, and particularly in winter.  It is the cheapest and safest exercise.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

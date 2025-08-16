@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield had a temperature of 120°F on Monday and five people have been fined £10 each for sly grog dealing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

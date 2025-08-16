@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ulooloo Gold.  Reports say that the men of the Government group have been busy sinking shafts, but have not found significant gold yet.  W.H. Hardy has sprained his ankle and been unable to work for a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Those purchasing waterfront leases of 14 years at a peppercorn rent were:
 
 At Emu Springs in County Stanley Mineral Lands Sections:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

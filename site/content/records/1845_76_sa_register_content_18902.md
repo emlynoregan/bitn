@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 In the north many stations are quite bare of stock.  Those in this neighbourhood grumble much, but can be thankful conditions are no much worse.  Nevertheless, dust storms are prevalent on the Baldina Plain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

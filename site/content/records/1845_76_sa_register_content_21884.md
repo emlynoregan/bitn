@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Shop assistants are often working 16 hours a day.  I would appeal to the wives of the working classes to try to crush this system and to try to assist some of their fellow citizens to obtain shorter working hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

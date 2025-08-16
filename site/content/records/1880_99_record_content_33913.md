@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 3rd Leader on the great wealth of employers like Andrew Carnegie who pays the lowest possible wages and the need to see a more equitable distribution of wealth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ The Sparrow Destruction Act.
 It has been deemed inexpedient to bring the town under the Act, as it would lead to increased rates and in any case most people were endeavouring to suppress the nuisance.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

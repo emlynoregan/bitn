@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 George Riley, stonemason, charged John Clark with absconding from work on 28 September.  Defendant had entered into an agreement of two years to be taught the trade.  Clark said on the day in question Riley had told him to go about his business, which he took to mean he had been dismissed.  Riley admitted saying the words, but did not mean the agreement to be broken.  Case dismissed, as it was clear complainant had himself broken the agreement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

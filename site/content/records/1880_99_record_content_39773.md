@@ -102,4 +102,4 @@ Amendment lost and motion carried after Crs Sampson and O’Leary had indulged i
 
 It was also resolved that the town’s main be flushed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

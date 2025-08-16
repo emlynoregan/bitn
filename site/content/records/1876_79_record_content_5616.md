@@ -35,4 +35,4 @@ Advt. Affirming what Rev. R.W. Campbell had said in his letter re the resignatio
 
 J. Paull J. Roach J. Sleep J.R. Stephens F.W. Holder T. Drew T.W. Wilkinson
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

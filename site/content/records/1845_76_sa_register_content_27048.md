@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Freight Charges.  A preliminary meeting was held at the White Hart Hotel on 31 December 1875 to discuss the rates charged by the SA Carrying Company.  It was decided to convene a larger meeting and to solicit the co-operation of Adelaide merchants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

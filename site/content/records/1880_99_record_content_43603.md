@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 We note tenders are called for the position of Engineer at the Burra Waterworks.  There is ample room for improvement and we hope that only a reliable man will be appointed.  The map of the Waterworks has been neglected and a number of places now connected are not shown on the map.  We are told that a main laid some years ago in Redruth is also not shown.  Before the present engineer goes all places connected should be mapped and then this kept in proper order.  Fireplugs are located in front of most large establishments, but having them and finding them are two different things.  They have not been seen for years.  Ratepayers are not being dealt with justly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ Office, Rundle Street (Waterman’s Buildings).  Open 10 a.m. to 3 p.m.  The Boa
 
 Henry Ayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

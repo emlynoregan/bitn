@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 J. Dunstan Jnr is reported to be an alderman at Broken Hill.  The same report suggests that the goings-on at the Burra Council, however entertaining, are as nothing compared with those of the Broken Hill Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  Rains continue to promise a bountiful harvest.  Kooringa is fast becoming more dependent on agriculture instead of only on mining and sheep farming.  This is seen in the number of implements now exposed for sale as well as the number of farmers’ carts travelling in and out of the town.  The sheep stations are preparing for shearing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -85,4 +85,4 @@ Section 53 in the Hundred of Kooringa except for the following allotments laid o
 
 In the Hundred of Ayers sections 2269, 2270 and 2271.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

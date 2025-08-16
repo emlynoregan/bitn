@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute AGM reported.  The library holds 2,740 volumes and has 123 subscribers.  The Institute liability at 31 Dec. 1880 was £408-14-8, down £76-0-2 for the year.  The value of the property in excess of this liability was £3,863-13-4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

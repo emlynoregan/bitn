@@ -40,4 +40,4 @@ In March Chilean bars were quoted at c. £72-10-0 while Wallaroo was £80-10-0 a
 
 Prices throughout March changed only slightly, but trade is picking up generally and prospects are more promising than at any time since 1866.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

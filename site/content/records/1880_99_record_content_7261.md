@@ -46,4 +46,4 @@ Verdict was death from burns received through falling into a fire while in a sta
 
 [The registration of death says: Jemmy Wonga, died 27 June, aged 45, but the documents related to the cemetery records say burial was on 24 June!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

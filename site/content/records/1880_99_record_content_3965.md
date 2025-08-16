@@ -35,4 +35,4 @@ Cricket.  The first dinner of the Aberdeen Cricket Club was held at the Royal Ex
 
 M. Moorhouse in his speech said that the club started in October with 11 members and now had 29 paid up.  5 matches had been played with 2 won and 3 lost.  The club had a small debt.  W. Cobb had the best batting average at just over 10, with Mr Yeomans 2nd.  Best bowler was W. Cobb with 4.5 runs/wicket.  [The toasts are reported in ¾ column.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

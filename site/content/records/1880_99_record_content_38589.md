@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 3rd Leader on the report of Rabbit Inspector Becker.  He says press reports are a gross misrepresentation, but later says ‘the rabbits are breading so fast that unless something is not soon done they will seriously mar the prospects of the colony.  The report is both grossly untrue and illogical.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

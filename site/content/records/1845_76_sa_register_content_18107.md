@@ -30,4 +30,4 @@ The ford over the creek at Redruth was finished last Saturday and it presents a 
 
 The ford will be a great improvement and is metalled with the best wearing stone in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

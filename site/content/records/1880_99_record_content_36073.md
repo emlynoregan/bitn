@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 F.W. Holder pointed out that he had not had editorial control of the Record for the last nine months and in fact both the Advertiser and the Register had published longer reports of his speech than had the Record.  He was glad the progressive land tax was being supported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

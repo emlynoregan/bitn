@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cr Symons moved an amendment that all money in hand be expended and the Government be asked to advance next year’s subsidy and that the rates be got in, but this lapsed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

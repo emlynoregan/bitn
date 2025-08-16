@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  John Sampson Jun. has decided to present the Burra Football Club with a new ball if they put up a creditable show against Pt Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

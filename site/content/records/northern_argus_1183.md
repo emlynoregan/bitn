@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Accident.  On Monday 5 May a Tarago van rolled over in Paradise Street, Burra and a passenger from NSW was taken to the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

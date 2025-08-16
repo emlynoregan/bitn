@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mr Ewbank gave two readings and recitations in the past fortnight at the Burra Hotel and the Institute respectively.  Both were thinly attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Bolt.  Mr F. Field started from ‘Monavea’ in a buggy on Saturday, but when about ¾ mile from the polo ground he got down to take off a piece of broken shoe from one of the horses and the horses bolted before he could get back into the trap.  They cleared the corner of the Chinaman’s garden just behind the railway station, lost the buggy at a nearby yard and came to grief at a barbed wire fence, fortunately without doing themselves much harm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

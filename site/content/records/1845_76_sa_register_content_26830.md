@@ -42,4 +42,4 @@ Hay is being harvested.
 
 The wood market has been and remains brisk.  Large supplies are being taken to the Burra Mine and to the two flour mills.  157 wood licences have been issued at Redruth and about 700 tons are delivered weekly, chiefly from scrub east of Kooringa.  The amount received from timber licences in one month is £59-17-6.  The Crown Ranger is indefatigable in seeing that all teamsters have licences and it is gratifying to see the friendly terms that exist between him and the men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

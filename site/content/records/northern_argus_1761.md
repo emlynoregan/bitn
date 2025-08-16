@@ -27,4 +27,4 @@ Obituary.  Mr Bill Corner died last week.
 [William James Corner died 26 September 1986 aged 72.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

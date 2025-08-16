@@ -39,4 +39,4 @@ The jury returned a verdict that the deceased had died from natural causes.
 
 The coroner then discharged the prisoner, quite clear of any stain upon her character, so far as the charge was concerned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

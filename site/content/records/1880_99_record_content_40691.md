@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Birth.  On 4 March at her mother’s residence (Mrs Goss’s) Redruth, to the wife of I. Haskard of Broken Hill and late of Jamestown, a daughter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

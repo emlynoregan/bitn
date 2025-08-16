@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Stones, potatoes and eggs have been thrown at the Army.  An anonymous letter and one from W.H. Hardy protest against these attacks and the lack of police action against the larrikins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

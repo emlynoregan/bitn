@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Burra Little Athletics had a very successful first season in 1986-87.  Over 50 registrations were received.  Meetings were held either Friday evenings or Sunday afternoons.  In the club’s first major championship they brought home the winner’s trophy from the Santos Regionals at Clare.  A number of athletes took major placings in the State Individual Championships and two athletes, Petrea Piggott and Adrian Day, were selected in the state team to compete in Darwin.  Rob Letcher is President of the group with Di Day as Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

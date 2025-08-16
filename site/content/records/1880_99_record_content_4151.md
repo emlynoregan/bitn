@@ -35,4 +35,4 @@ The Midland road Board has agreed to construct a culvert in Commercial St opposi
 
 [This appears to be the culvert under discussion in the last issue.  Apparently the Mt Pleasant water was to be taken under Commercial St to the creek behind the Commercial Hotel.  This decision of the Board would thus be a change to their original decision after further representation from the Council.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

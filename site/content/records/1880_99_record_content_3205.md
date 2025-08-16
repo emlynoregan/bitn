@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Under the Verandah’ by ‘Window Lamp’  ‘What the Cousins Say’ which purports to be a conversation between a series of cousins which provides a mildly satiric look at town affairs. [It is no longer in Cornish dialect as earlier similar columns had sometimes been.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

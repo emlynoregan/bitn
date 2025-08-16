@@ -29,4 +29,4 @@ The rush to the Barrier Ranges has subsided.  All letters and reports from there
 
 Complaints are being made that the fees charged for keeping an animal in the pound for a fortnight come to more than it is worth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

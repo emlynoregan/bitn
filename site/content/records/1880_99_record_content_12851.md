@@ -30,4 +30,4 @@ Rounsevell said he had proposed first a land tax and then an income tax and then
 
 Mr Rounsevell said Mr Holder’s explanation was specious.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

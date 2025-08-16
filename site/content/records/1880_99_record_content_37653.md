@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 E.T. Smith, the temperance speaker at the Institute on Wednesday, drew a fair attendance and produced an impressive performance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

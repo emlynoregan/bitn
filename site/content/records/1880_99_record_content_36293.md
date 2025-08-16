@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  The Amalgamated Shearers’ Union of Australasia will meet at Opie’s Hotel, Aberdeen on Monday 28 April at 7 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

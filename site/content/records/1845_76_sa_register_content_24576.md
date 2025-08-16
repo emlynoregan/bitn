@@ -43,4 +43,4 @@ On the same day the Bible Christian Sunday School celebrated its Anniversary.  M
 
 The Mount Razorback Wesleyan Chapel was opened near Mt Bryan by Rev. Stephenson on Whit Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

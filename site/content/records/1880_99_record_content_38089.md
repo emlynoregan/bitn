@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mrs Anderson & family, who have been residents in Commercial St for many years have left for NSW to settle with other family members who have been there a long time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

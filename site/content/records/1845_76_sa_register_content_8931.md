@@ -26,4 +26,4 @@ Burra Burra Mine
 
 6 p.m. 15 January.  The engine continues to ‘fork’ the water satisfactorily and the Mine is quite secure.  The water is now 4½ fathoms below the 30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

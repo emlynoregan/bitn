@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Notice.  W.J. Davey has bought The Record from P. Murrie Jun. and will carry on the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

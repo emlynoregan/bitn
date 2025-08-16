@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Unemployment. For some time there have been a number of men out of work in Burra, but a contract for about 60 chains of road near Breakneck Hill has absorbed them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

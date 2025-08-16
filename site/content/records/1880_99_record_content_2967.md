@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Apart from copper mines (now almost idle) SA has done little to promote mining - mining has the potential, as it requires considerable labour, to increase local consumption to the benefit of all.  Developments should be made in the Flinders Ranges, at Waukaringa, & in the Barossa Valley.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

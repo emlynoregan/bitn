@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 The Mayor reported that a vacancy had been caused in South Ward and nominations for a replacement councillor would be received till 16 June and the election if needed would be on 19 June. [James W. White was the previous councillor, but there is no explanation for his departure.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

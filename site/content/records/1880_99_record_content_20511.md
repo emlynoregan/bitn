@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 E. Gray writes as a teamster plying between Terowie and Burra and Silverton.  He complains that price-cutting between the merchants of Terowie and Burra is ruinous for the teamsters.  He urges all carters to demand £7 a ton to Silverton, which after all is only wages when the wear and tear and horse feed is allowed for.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

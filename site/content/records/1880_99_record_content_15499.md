@@ -47,4 +47,4 @@ Cave then goes on in a similar complicated process to illustrate that the loss o
 
 [* This £35 was not explained until the next paper when a correction made it clear that it was Cave’s fee for writing up the assessment.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

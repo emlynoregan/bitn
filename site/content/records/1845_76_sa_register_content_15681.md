@@ -27,4 +27,4 @@ Kooringa News, 18 June
 
 The Bon Accord Mine may have some good news for the town.  The small prospecting party working there has at last found a promising lode of copper ore and sixteen men have been taken on to prove the value of the discovery.  If they manage to do so it will be no more than the company deserves, having spent a considerable sum upon the works.  A development of this mine would also greatly assist in stemming the present flow of migration from here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

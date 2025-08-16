@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 William T. Bleechmore of Auburn writes on 10 December to complain of the very poor service provided by the mail conveyances in the north.  He recently had but a very precarious seat on top of mail bags when travelling to Auburn.  He says he has often heard that southern coaches are far superior with a mail guard in charge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

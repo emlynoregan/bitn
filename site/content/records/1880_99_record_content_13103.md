@@ -25,4 +25,4 @@ Editorial on Taxation.
 
 The writer condemns the heavy reliance on customs duties, which means the poor contribute about as much per head as the rich. The expenditure has largely been in adding to the value of the lands owned by the wealthy.  Over £20 million has been spent in this way and it has seen over £40 million added to the value of property.  The wealthy have contributed about £74,000 in probate and succession duty.  They have stubbornly resisted any tax on land, but land tax is now a matter of necessity and the land interest will have to yield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

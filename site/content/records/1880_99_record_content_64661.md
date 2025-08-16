@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt will give a lecture on his trip to New Zealand on August 26 to aid the Burra Jubilee Benevolent Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

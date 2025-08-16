@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A memorial will be sent to the Commissioner of Crown Lands asking for relief from repayments.  The farmers claimed to want to hold on as they ‘believe that the tide of seasons will shortly turn, and desire to hold on as long as possible so as to reap the reward of their patience and toil.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

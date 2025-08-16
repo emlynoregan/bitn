@@ -100,4 +100,4 @@ Mr Harris then moved: ‘That a memorial, founded on the foregoing resolutions, 
 
 A vote of thanks to Mr Lang was carried by acclamation.  Mr Burgess observed that had the meeting been called for 6 p.m. instead of 3 p.m. it would have been necessary to adjourn to the open air.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 Weather lately has been delightfully cool, but wind and dust have been unpleasant at times.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

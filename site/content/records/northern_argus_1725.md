@@ -40,4 +40,4 @@ The Junior Award went to Darren Jones, son of Des & Yvonne.
 He was Captain of the Burra Junior Cricket Team (who were season’s premiers) with a batting average of 94.8 and two centuries – 107 not out and 109 not out.  He also took 25 wickets and 25 catches.  He also played in Burra’s ‘A’ Grade cricket team.  In football he won the North Eastern Association Junior Colts Medal and was the Association’s top goal kicker with 68 goals.  He is also a prominent athlete in track and field.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

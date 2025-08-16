@@ -62,4 +62,4 @@ Cr Rabbich objected to some of Mr Lewis’s remarks.  They had no desire to go t
 Mr Lewis: the court evidence said the creek at times came down a banker and was in places 10’ wide and 6’ deep.  Would the opening carry away such a volume?
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

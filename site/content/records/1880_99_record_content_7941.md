@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Bazaar in the Institute last Friday and Saturday was most successful.  The hall was packed on Friday.  Mr A.W. Dobbie of Adelaide exhibited his phonograph to the delight and wonder of all listeners.  Proceeds were c. £140.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

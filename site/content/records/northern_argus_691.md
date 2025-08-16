@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 [Born 5 December 1915, Kooringa: died 20 January 1986.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

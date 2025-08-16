@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Last year one of the North Ward Councillors tried to introduce a new by-law, but it came to grief on unforseen rocks.  This year another effort was made and now the opposition of 216 ratepayers has led to a decision to rescind the new by-law.  Really they had no choice because the whole proceedings were ultra vires and the by-law was framed in such a reckless manner as to contravene the Hawker’s Act 1863.  [The paper then prints parallel texts of the two measures to prove the point.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

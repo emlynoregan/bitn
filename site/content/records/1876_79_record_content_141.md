@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 ‘Estrom’ writes saying that the recent debate in the SA Parliament on railway gauges saw only one speaker argue forcibly against the current support for the narrow gauge.  There is, he says, a remarkable similarity in the arguments of Mr Rees in Parliament and those put forward in the local Parliamentary Club debate on the issue, indeed access to the local debates seems evident from a perusal of the reports of the SA Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

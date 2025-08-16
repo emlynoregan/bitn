@@ -34,4 +34,4 @@ The coming of Federation generated a good deal of news, comment and special arti
 
 There was less of the reprinted humour that had proliferated in 1897 and the big issues of the day for the colony were covered in some depth.  This was especially true of Federation and the Legislative Council elections.  On the local front the issue of the Waterworks was well covered and the church activities got a fair coverage.  Sport seems to have missed out this year.  Football either wasn’t played or got no cover.  The impression is that the paper rarely sent a reporter to cover anything and relied on representatives of clubs etc. to send copy in.  All in all perhaps a marginally better paper than 1897.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

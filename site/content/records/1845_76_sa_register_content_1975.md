@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Carters are requested to observe the arrangements made for loading the drays during the holidays, and from the large quantity of ore now ready for carting they may rely on getting loaded without detention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Town Clerk reported the street lamps used 1 pint of kerosene per night and burnt out about 3 a.m., but this injured the burner and more kerosene should be used and the lamps be put out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

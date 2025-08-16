@@ -60,4 +60,4 @@ Another highlight was the presence of bullocky Jim Kelly and his 18-bullock team
 
 In the year Matt Reilly has assisted in the filling in and levelling of the old railway siding and the iron fence at the bottom of the showgrounds had been rebuilt.  Since the show the oval had been resown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

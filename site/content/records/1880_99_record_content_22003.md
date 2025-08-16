@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Two brothers [Samuel Arnold (19) and Alfred Arnold (27)] were killed when an unexploded charge of dynamite went off in a well they were sinking at Terowie on 13 April.  [Ages in the paper were given as c. 20 & 24.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

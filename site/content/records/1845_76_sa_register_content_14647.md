@@ -27,4 +27,4 @@ Kooringa News, 29 May
 
 Last Friday, Her Majesty’s birthday, was only partially observed as a holiday.  Most stores were closed, but the miners were at work all day.  The only event on the occasion was a tea feast for the Sunday school children of St Mary’s.  The church was decorated with boughs, flowers and a number of banners bearing suitable mottoes.  Outside the event was signalled with two large flags.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

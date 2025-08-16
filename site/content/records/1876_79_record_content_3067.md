@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Alfred Hallett obituary. Died [at Medindie] 3 Nov. aged 63. Father of Alfred Hallett of Wandillah & Caroona (lessee).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

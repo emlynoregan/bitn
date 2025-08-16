@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Gold Coinage.  A recent Imperial enactment will make all pre-Victorian gold coinage no longer legal tender from 1 April.  After that date it will be worth only its value as gold and that value will be paid by banks only after its assay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

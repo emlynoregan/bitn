@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Wheal Sarah Mine.  The beautiful specimens of copper ore described by our Kooringa correspondent [8 October] are now to be seen at Green’s Exchange.  Judging from these specimens and from verbal accounts of the mine, there is every likelihood the discovery will turn out to be highly valuable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

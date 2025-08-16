@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 Kooringa Cricket Club met at Commercial Hotel on Friday 6 September. E. Lipsett was elected President and W. Parker, Vice-President. 
 Entrance to club to be 5/-. A meeting was held last Wednesday to decide whether to amalgamate the town’s clubs. This will be decided at another meeting next Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

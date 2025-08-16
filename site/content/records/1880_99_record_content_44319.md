@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ballast Quarry.  On Saturday the Redruth [i.e. Aberdeen] Quarry was closed due to unsafe working conditions.  In the past week hundreds of tons of stuff have fallen, but luckily no one was hurt despite some narrow escapes.  The overhangings are now decidedly unsafe.  Several men have been thrown out of work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

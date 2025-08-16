@@ -34,4 +34,4 @@ It also advises it is issuing notices to destroy sparrows to its residents.
 
 Launder & Co. will repair the damaged bridge in Ayers St for £5-10-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

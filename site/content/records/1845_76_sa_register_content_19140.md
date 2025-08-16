@@ -41,4 +41,4 @@ Averaging the sheep numbers from September 1863 to September 1865 the rent for e
 
 But with only 4,300 sheep left at present the rent is about 1/8 per sheep – equal to the entire income from wool after paying shearing expenses.  In fact in seasons like this the expenses of carrying on the station are quite double the value of the wool produced.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

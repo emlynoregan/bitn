@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Prince of Wales Hospital Fund has been established to commemorate the 60th anniversary of the Queen’s reign and will fund the London Hospital’s gap between ordinary receipts and ordinary expenditure.  The Bank of Australasia will forward amounts of not less than 10/- free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

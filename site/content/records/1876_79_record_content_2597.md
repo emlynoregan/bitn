@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Single ploughs, men's class, entrance 7/6 with 1st prize £5, 2nd £2/101- and 3rd prize a set of swingletrees. If 10 or more compete the 2nd prize will be £3, the 3rd £2 and the 4th a set of swingletrees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

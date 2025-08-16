@@ -28,4 +28,4 @@ On the 8th a concert with a Minstrel Entertainment in the first half comprising 
 
 On the 10th a select concert of works by Gounod, Mendellsohn, [sic] Sullivan, Smart, and others.  Each part will conclude with the popular Nursery Rhymes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

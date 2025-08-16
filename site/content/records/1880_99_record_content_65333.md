@@ -32,4 +32,4 @@ The Inspector visited Rabbich’s slaughterhouse on 16 November and ordered the 
 
 Copperhouse School closets were unsatisfactory and new and deeper pits are to be dug over the school holidays – lime to be used in the meantime.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Lambing.  The % is the lowest for many years.  Several farmers at Baldina have had to kill every lamb to save the ewes, so scarce is the feed.  Booborowie Station has been very good however, and next comes W. Killicoat with 80%; marred by dog attacks.  Dogs are a widespread problem.  Gum Creek tailed 75%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ The management of this company, having been resigned by Messrs Thomas Henry Will
 
 R. Hicks, Solicitor, New Exchange Chambers, 4 September 1854.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

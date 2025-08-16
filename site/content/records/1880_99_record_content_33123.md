@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Petition signed by 409 was presented to the Commissioner of Crown Lands asking that the TSR near Burra be allocated at Working Men’s Blocks.  He said some land had already been surveyed and other blocks were being surveyed.  Care will be taken to preserve sufficient roadway and reserves for travelling stock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

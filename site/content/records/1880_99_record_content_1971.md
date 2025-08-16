@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Baldry Wesleyan Chapel Anniversary last Sunday.  J. Goss preached.  There is no building debt and proceeds were only £6.  It is intended shortly to either erect a new church or to make extensive improvements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

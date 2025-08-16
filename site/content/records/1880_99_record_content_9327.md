@@ -36,4 +36,4 @@ Obituary.  Rev. G.W. Patchell, who was stationed in the Kooringa circuit six yea
 
 He was born in King’s County, Ireland on 11 April 1832.  In 1857 he passed the District Meeting in Omagh and was accepted into the Wesleyan Methodist Church in Ireland as a minister.  In 1866 he was received by the Australian Conference and served in the circuits of Wallaroo, North Adelaide, Port Adelaide, Pirie St, Kooringa, Willunga and Goolwa.  He was Vice-President of the SA Temperance Society.  [George William Patchell died 26 January 1883]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

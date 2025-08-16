@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Entertainment: Report on the diorama: scenes included the evacuation of Fort Moutrie by moonlight, the passing of Long Bridge, Harper's Ferry, Mississippi Steamer and a mechanical diorama scene of the engagement between the Kearsage & the Alabama. - Very favourable review.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

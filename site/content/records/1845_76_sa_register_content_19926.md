@@ -46,4 +46,4 @@ Other displays are bags of wheat, flour, and oats and jars and pots of fruits et
 
 ‘Mr B. Herschel Babbage is representative commissioner for South Australia and has worked untiringly to present the South Australian exhibits.  He is a son of the eminent calculator and he exhibits a drawing of a portion of his father’s calculating machine and a book of sketches made by himself during his exploration of the interior in 1848 when he discovered Lakes Gregory and Eyre.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

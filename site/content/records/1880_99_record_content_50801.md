@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Mr W. Dunn continues to be confined to bed suffering from a gathered elbow, supposed to be the result of the disturbance which took place in his bar on 28 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

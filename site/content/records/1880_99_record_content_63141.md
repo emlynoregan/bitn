@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 W.G. Hawkes, manager of Koonoona Estate will sail to England on Wednesday for a well-earned holiday.  He has been manager for six years.  He left England 20 years ago and expects to be away till the end of March 1898.  He will be wished bon voyage at a social at Black Springs given by members of St Mary’s Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

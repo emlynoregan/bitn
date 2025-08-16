@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Robbery.  H. Roach’s flour mill was robbed c. 4 o’clock on Monday afternoon when the cash box was found to be rifled.  The thief took a ticket for a southern station and vanished.  No local resident was implicated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

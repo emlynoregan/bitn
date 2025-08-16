@@ -52,4 +52,4 @@ For the whole field the average is 1 oz 6 dwt 2 gr per man per day.  This has be
 
 [The article goes on to talk of gold escorts and to cite sums for individual parties.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

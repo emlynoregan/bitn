@@ -30,4 +30,4 @@ Rainer’s Original Panorama of the American War and Tuesday 29 August
 
 Rainer’s Great Panorama of the Russo-Turkish War.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

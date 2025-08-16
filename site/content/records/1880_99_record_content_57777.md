@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Snow began to fall about 9.40 p.m. on Friday last and soon covered the surface.  Few saw it, as the night was very dark.  The fall was preceded by boisterous weather and rain.  On Saturday a second fall at about 6.30 a.m. was generally seen and many a snowball fight ensued.  A heavy fall was reported from Mt Bryan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

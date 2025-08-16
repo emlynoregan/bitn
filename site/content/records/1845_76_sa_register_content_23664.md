@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advt.  Mr J.G. Lamb advises he will run a conveyance free of charge between Burra Hotel, Kooringa and the Railway Station, Redruth on the arrival and departure of the train.  Breakfast will be prepared previous to the departure and dinner will be waiting the arrival.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

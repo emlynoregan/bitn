@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Narkara proprietors are also trying to form a company to work their claim.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

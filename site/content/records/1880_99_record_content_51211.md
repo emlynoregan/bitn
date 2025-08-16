@@ -40,4 +40,4 @@ We are now free from the charge made against us.
 
 ‘It is to be hoped the offending councillors with the Mayor will take the verdict calmly although it may seem hard.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

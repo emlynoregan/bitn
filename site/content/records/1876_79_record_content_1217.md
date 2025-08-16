@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra School: Only W. Sara & Dunstan tendered at £7970/8/- which was thought too high - tender readvertised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

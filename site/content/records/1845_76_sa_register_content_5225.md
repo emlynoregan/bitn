@@ -95,4 +95,4 @@ Mr Pearce supported universal suffrage as in the amendment.
 
 Rev. Cheetham also supported the amendment for similar reasons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

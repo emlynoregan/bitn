@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Services by Rev. W.H. Evans.  Service of Song was Jessica’s First Prayer under the leadership of Mr R. Birt with Rev. H. Parkinson giving the connective readings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

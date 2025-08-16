@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 *Lapford was the name of a town surveyed on the north bank of the Burra Creek on the east side of the road to Robertstown where the two meet at World’s End.  It was proclaimed on 9 August 1877 and after a brief flurry of activity was already defunct by 1885.  It ceased to exist formally on 13 December 1962.  The World’s End church and school was a short distance north on the western side of the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

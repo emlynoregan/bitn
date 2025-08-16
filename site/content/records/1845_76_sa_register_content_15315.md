@@ -40,4 +40,4 @@ The other body was found between Parnaroo and Stewarts, but there are no other d
 
 I am informed that arrangements are being made to present a handsome testimonial to Corporal Rollison, who has lately been removed from here to Wellington.  I am sure many will join in because he has rendered active and efficient service as a trooper while here and has earned the respect and good will of all who have come to know him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

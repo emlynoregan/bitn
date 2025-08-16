@@ -29,4 +29,4 @@ Letter from W.H. Hardy who reveals himself as the writer of the letter from ‘R
 
 [Hardy’s letter is excessively wordy and pompous and it is no surprise that after over ½ column of it the editor writes: ‘We cannot find room for any more of this.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ SAMA has granted permission for the creek now occupying Chapel St to be diverted
 
 The Burra Conversazione is reported in 1 column.  It ran for a week.  [The report seems to imply that the telephones were operated between Burra and Clare - presumably making use of the telegraph lines.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

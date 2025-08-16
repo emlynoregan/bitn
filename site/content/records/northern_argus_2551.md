@@ -42,4 +42,4 @@ Library Depots operated at Booborowie, Mt Bryan and Farrell Flat.  The libraryâ€
 
 Elected to the Board: Chairman, Sue Warnes; Vice-Chairman, Helen Stockman; Secretary, Betty Thamm and Treasurer, Tess Hopkins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

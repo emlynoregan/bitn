@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI will fire a rifle match on the Port Adelaide Range on 24 May against teams from Moonta Co. MI and C. Company of 3rd Regiment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 SA Election at Burra was orderly and about a quarter of the enrolled electors voted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

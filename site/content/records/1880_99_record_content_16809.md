@@ -48,4 +48,4 @@ He held that £275 of the £449-14-4 debt was incurred by the Recreation Ground 
 
 Cr West was not swayed by the Mayor’s argument and pressed for a ratepayers’ meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

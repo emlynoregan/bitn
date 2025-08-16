@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the fiasco of the opening of the railway to Aldgate which was indicative of the state of management and the failure as yet to fit automatic breaks which makes travel on the Hills line dangerous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

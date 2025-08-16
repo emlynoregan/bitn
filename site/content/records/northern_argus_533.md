@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Community Library has had a four year project to list all obituaries from 100 years of the Burra Record.  On Wednesday the librarian Colin Fidock said typing up about 6,000 entries was well under way.  It is planned to publish it as a Jubilee 150 project.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ The supplements comprised a single broadsheet page of seven columns of small pri
 
 The titles of the serialised novels give a sufficient hint as to their contents.  They are generally romances of a most melodramatic sort.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

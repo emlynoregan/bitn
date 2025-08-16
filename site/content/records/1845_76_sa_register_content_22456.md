@@ -26,4 +26,4 @@ Kooringa News, 11 November
 
 The crops are looking splendid with no signs of red rust.  Were farmers to get hold of the land in the neighbourhood of Burra, it would soon be one large agricultural area; even as it is fully 4,000 acres have been sown or fallowed since last year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

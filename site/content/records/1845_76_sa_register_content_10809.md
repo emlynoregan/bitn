@@ -28,4 +28,4 @@ Kooringa Smelting Works
 
 For the 12 months to 30 June the works smelted 2,000 tons of copper, worth in England, according to the latest advices, £252,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

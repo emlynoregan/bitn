@@ -29,4 +29,4 @@ An Entertainment.  On 9 August Rev. L.W. Stanton gave one of his literary and mu
 
 Mr Stanton said that the three previous events had raised £17, enabling the distribution of 18 tons of firewood to 45 needy families.  A third had been in receipt of this necessary gift for 12 consecutive weeks and the others for lesser periods.  He proposed that this entertainment and the next two should help to provide boots for poor children, many of whom were quite barefooted in this severe weather.  The parents would be asked to pay half the cost in small instalments.  Up to three children in a family would be helped provided they should regularly attend one school or another.  £5-7-0 was collected.  Another entertainment will be held in September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Wesleyan Mutual Improvement Association held their half-yearly soiree at the schoolroom on 14 August.  After tea and cake the members delighted hearers with recitations and the Wesleyan Choir performed a piece of sacred music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -34,4 +34,4 @@ We understand the Playford Government has decided against any bridge to replace 
 
 [It is hard to see how a bridge to the south of the stockyards would aid those bringing stock from the north!  Surely it was stock from the east and stock using the Copperhouse road that would have benefited and the latter probably already had trouble at the ford between Copperhouse and Burra when the creeks were high.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 In May the History Trust had granted $2,000 for a cataloguing and registration of portable artefacts on the site.  The recent DEP grant of some $104,137 towards a total project of $130,703 will enable much more conservation and some walking trails to be undertaken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

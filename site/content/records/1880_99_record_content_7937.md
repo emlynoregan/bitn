@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the unreasonableness of the Midland Road Board re junctions between main roads and district roads.  Height differences often made access to the main road difficult or even impossible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

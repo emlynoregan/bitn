@@ -38,4 +38,4 @@ Rev. H. Heathersaw spoke for Primitive Methodists in support of Union.
 
 The motion calling for Union was carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

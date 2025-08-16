@@ -30,4 +30,4 @@ The Disputed Council Minute.
 
 On Saturday, while looking for something else, the Town Clerk found the minute authorising Cr Ridgway’s work on “Ford south end of the new plantation.’  Cr Sampson and Cr Symons were both present when it passed.  Much of the difficulty would have been avoided had this been found when it was sought by Cr Sampson a month ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Postal Services.  It has been pointed out that it is possible to send a 2 lb parcel from Victoria to England and then back to NSW for 8d less than it costs to send it direct to NSW.  It could also be sent from England to Bathurst, NSW for 5/-, but from Sydney to Bathurst the cost was 10/6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

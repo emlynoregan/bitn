@@ -77,4 +77,4 @@ At Kooringa about ¾ mile in the township should be made at once as it is in a b
 
 4 August Templers to Gawler and thence to Smithfield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

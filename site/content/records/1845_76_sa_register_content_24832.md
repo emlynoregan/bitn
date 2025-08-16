@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Copper Prices.  The great fall in copper prices was the topic on the exchange yesterday.  Private telegrams confirm a price of £98 per ton.  The cause appears to be the very vigorous way in which Chile has resumed her trade with England.  [Further details of the price fluctuations are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

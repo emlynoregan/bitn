@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The Burra Election.  Mr R. Rees spoke at the Aberdeen Hotel on 19 February.  Mr Rees reported that an attempt had been made to intimidate him.  The Bank of Adelaide had called upon him to pay off his overdraft, if he could afford to run for office.  He believed that to be instigated by friends of Mr J. Lindsay.  He had paid off his overdraft.  The candidate then reiterated his political views.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

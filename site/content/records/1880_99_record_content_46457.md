@@ -42,4 +42,4 @@ The new boiler at the Waterworks has been finished and is in use.
 
 C.A. Uhrlaub writes to respond to allegations that Aberdeen did not engage to play a Mt Bryan and Burra combined team.  True, he says, but Mt Bryan is a new club and could muster only 14.  In order to not disappoint the visitors some Hallett men and three Burraites were added.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

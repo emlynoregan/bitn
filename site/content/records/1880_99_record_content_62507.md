@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr F.W. Holder was recently accused in the House of Assembly of embezzling money, though the word was later withdrawn.  12-15 months ago Mr Holder was given a cheque to settle some business for the late Mr C. Drew, but for obvious reasons the amount was not paid over until quite recently – well at least he paid it into his own account and kept it 15 months without authority.  The matter has now been settled.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

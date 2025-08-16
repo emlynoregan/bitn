@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 T. Nevin writes to explain his comments to some noisy boys at the recent concert on Friday in the Redruth Wesleyan Schoolroom, when he referred to them as of lowly origin not of low origin.  Lowly he says means ‘meek, humble, modest, without rank etc.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

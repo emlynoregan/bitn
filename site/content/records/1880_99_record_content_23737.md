@@ -66,4 +66,4 @@ Prizes for bouquets went to: C. Oppermann, Miss Stevens, Mrs Holder, Mrs C. Oppe
 
 The children’s prizes went to: Master H. Drew, Master T. Drew and Miss E. Drew.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

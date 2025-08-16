@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Road Accident.  Last Monday at Terowie a man named Cameron was knocked down by his team and a wheel apparently ran over his head.  Despite a serious scalp wound, he would seem to be recovering in the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ W.B .Lucas writes commenting on a claim by Mr Hewitt at the Central Road Board t
 
 When Mr Hewitt went to McLaren Vale 12 years ago he may remember two parties were engaged in laying out the road south of Willunga and in building bridges.  What has ever been done for the North Road beyond Gawler?  I am not aware that at present a single main line to the north of Gawler Town is properly laid out or defined.  I am afraid if it is not attended to accidents at the Light will be still more numerous.  Bullock dray tracks are our only roads north of Gawler.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

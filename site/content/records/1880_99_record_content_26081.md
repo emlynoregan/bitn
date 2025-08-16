@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Robbery.  Mrs Thomas of Paxton Square was robbed of £11 from her unlocked house while attending the Salvation Army service on Tuesday evening.  A dog belonging to Mr R. Kenley, a near neighbour, was poisoned at the same time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

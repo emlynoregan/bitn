@@ -27,4 +27,4 @@ D. Rayfield writes to the editor re the Burra rates.
 
 The rates have not risen by 7.64% - in fact the average house owner in Burra has had a rate rise of 15% and in other towns of 14.28%.  The increase for many commercial properties is far greater – 50% or more. This far exceeds the inflation rate, which is currently about 8.3%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

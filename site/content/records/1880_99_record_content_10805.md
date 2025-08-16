@@ -52,4 +52,4 @@ Mr Lane asked the estimated cost of deepening and timbering the shaft on Corpora
 
 The town Clerk then read the list of guarantees.  P. Murphy moved the matter stand over for 77 years - he was worried what would happen when guarantors died, became insolvent, or left the town.  There was no seconder.  The vote was then taken: 31 for and 29 against.  A poll was then demanded by a group of ratepayers and one will be held on 12 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

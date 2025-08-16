@@ -65,4 +65,4 @@ T. Binge got 1 month for indecent exposure in a public street.
 
 E. Wilcox was fined 20/- + 10/- for lighting a fire in the open.  (Even though it was in connection with tiring.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

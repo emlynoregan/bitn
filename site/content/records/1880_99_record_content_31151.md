@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Alma and Victoria Gold Mine, after an arduous struggle, has finally paid a dividend.  A copper mine at Mutooroo has also paid a dividend and those on Yorke Peninsula have never been busier, helped by the high price of copper, which the French Syndicate can evidently control.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Burra Mine.  The water at the Mine is nearly forked to the required depth for the dressing machinery to be tested.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

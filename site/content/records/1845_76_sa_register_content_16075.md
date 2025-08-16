@@ -33,4 +33,4 @@ Mr W.H. Wilkinson was voted into the chair on Tuesday night at the Burra Hotel w
 
 Mr Cole said he had been instrumental in obtaining the vote for the Redruth Bridge and the survey of the Main North Road.  He had also helped to get a sum of money for the construction of a road through the town, which ought to have been spent last year, but was still lying idle because the Central Road Board was not accepting contracts on the excuse of not competing with agriculture and others in the labour market.  He said the district had not received justice in expenditure on roads because the Government had received upwards of £130,000 in revenue from it, not a tenth of that had been expended on roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Market Square Well. The well boring in Market Square continues to average 5 to 6 ft per day. There is an abundance of water in the well from c. 15' from the surface.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

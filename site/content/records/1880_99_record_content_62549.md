@@ -34,4 +34,4 @@ The opening credit was £75-8-8 and receipts were £77-0-6 to total £152-9-2.  
 
 76 volumes have been added to bring the total in the library to 2,736.  There are 80 subscribers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

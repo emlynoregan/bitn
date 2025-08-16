@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Captain J. White was presented with a gold watch on 31 August at a meeting of about 60 of his friends at the Primitive Methodist Schoolroom at Kooringa.  It marked the severing of his association with the Burra Mine.  Captain White said he did not intend to leave the district and yet hoped to see the Mine prove as rich and remunerative as it had ever been.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Football.  Clare, Monday.  Clare 2.20 defeated Burra 0.5
 
 Clare had a full team; Burra could only get 14 to go away.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

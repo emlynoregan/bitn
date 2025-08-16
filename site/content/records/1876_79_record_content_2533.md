@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Corp. - Council agreed to pay half cost of repairing the Miners' Arms footbridge if the public would fund the rest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

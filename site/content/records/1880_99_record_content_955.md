@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 XXXI	Hawking within the Corporation is banned unless a licence costing 10/- p.a. is obtained for a pack and 20/- p.a. for a vehicle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

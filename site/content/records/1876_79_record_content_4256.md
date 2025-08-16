@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 A quarantine station is being erected on Torrens Island (Adelaide) to accommodate 250 at a cost of £3,500.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

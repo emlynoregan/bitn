@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Ned Kelly. There is a report on the statement made by Ned Kelly which contains an account of his life.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

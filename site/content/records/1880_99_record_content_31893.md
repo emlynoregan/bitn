@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  Nothing more is known of the completion or otherwise of the sale in London.  The balance was due to be paid last Wednesday, but the unsettled state of the copper market casts doubt on everything connected with it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

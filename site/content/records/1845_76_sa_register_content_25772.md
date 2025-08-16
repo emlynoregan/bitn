@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 The Burra-Hallett Road.  A memorial has been received from 124 teamsters and settlers mentioning the impassable state of the Burra-Hallett road.  They also pray that the contractors Kerby & Wade, working on the road south of Mt Bryan Hotel not be allowed an extension of time, as labour was not scarce.  The Commissioner of Public Works announced the provision in 1874-75 for £750 for the Saddleworth-Auburn road and £500 for repairs to the Stanley Flat to Bungaree and Anama road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

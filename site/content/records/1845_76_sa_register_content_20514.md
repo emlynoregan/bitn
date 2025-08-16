@@ -57,4 +57,4 @@ Some might argue that with the Mine closed a railway to Burra was now wasted, bu
 
 [He then elaborated on costs and viability of the Mine for various percentage ore types.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

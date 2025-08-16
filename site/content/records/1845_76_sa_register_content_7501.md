@@ -38,4 +38,4 @@ Mr Fitzgerald applied to the court for a warrant against the Copper Co. for £22
 Mr Fitzgerald had no objection as long as the Bench would inform Mr Ewbank that they could not entertain his proposal and that unless the Money was paid by Monday they would be obliged to grant the warrant of distress.  Dr Bull said he would consult his brother Magistrate and Mr Grant would be instructed to reply to Mr Ewbank’s message.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

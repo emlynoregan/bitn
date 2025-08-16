@@ -32,4 +32,4 @@ Burra Slag Extraction Co. at the Smelting Works.
 
 About 7 years ago Mr Paynter made an effort to treat the slagheap at the old smelting works, but after erecting machinery and giving a fair test the work had to be abandoned as copper prices were so low: £45-£46 per ton.  He said then that it would pay if prices reached £56-£60 a ton and as Burra copper would now fetch c. £75 it should pay well.  Hon. J. Martin MLC visited on Tuesday with his engineer to select a site for the battery.  Considerable water is required and an old well at the old works is to provide it.  After treatment the remains are expected to be useful as a fertiliser.  A 10-head battery will be erected on the south side of the heap employing 10-15 men initially and perhaps more later.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

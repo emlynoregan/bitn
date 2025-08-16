@@ -29,4 +29,4 @@ Advt.  Rev. W.H. Evans of Victoria will lecture in the Bible Christian Church, K
 
 13 May on Courtship and Marriage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

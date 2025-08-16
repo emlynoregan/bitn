@@ -44,4 +44,4 @@ Jane Wallis, wife of the complainant, said she and the wife of the prisoner had 
 
 Remanded for one week in the hope the prosecutor might by then be well enough to attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

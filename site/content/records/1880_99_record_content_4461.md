@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Parker’s, land in Graham was sold for £5-17-6 a foot and total proceeds for the sale were over £400.  Mr Boundy was the buyer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Expenditure on Police, Gaols and Convicts
 
 Redruth Gaol.  Keeper of the Gaol, third class, apartment and £130.  One Turnkey, apartment and 6/- per day £109-16-0.  Increases under Clerks’ Salary Act, £70.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

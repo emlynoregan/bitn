@@ -57,4 +57,4 @@ Lot 8.	Ross’s Creek near Kapunda section 108 of84 acres.
 
 Lot 9.	Co. Stanley section 2206 of 80 acres between Springbank and Nankervis about 1 mile from the Burra railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

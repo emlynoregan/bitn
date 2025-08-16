@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Obituary.  The wife of our esteemed Clerk of the Court Mr A.H. Forder has died and the funeral was very largely attended, with nineteen carriages of all description.  All the principal people of the town attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

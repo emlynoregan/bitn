@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Shooting Accident.  Joseph Smith aged 18 was taking a gun from a trap after an outing at Yarcowie on Sunday, when it discharged.  The shot entered his hand and narrowly missed his body.  He was transferred to the Burra Hospital on Monday morning and it now seems likely that amputation of the thumb will not be necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

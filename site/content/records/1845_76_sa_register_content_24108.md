@@ -38,4 +38,4 @@ In the settled areas Aborigines are declining rapidly in number:
 
 In 1861 there were 5,046 and in 1871 the number was 3,369.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Farrell’s Flat Races.  ‘Whip’ reports on the financial success of the meeting and hopes the 20 mile limit on the totalizator will be lifted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

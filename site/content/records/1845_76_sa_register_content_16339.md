@@ -31,4 +31,4 @@ Advertisement.  Tenders are called for additions and alterations to the Redruth 
 
 [Note: a list of Public Works estimates was published in the Register 11 March 1863 page 2, which includes the above works – alterations and additions to the Court House at Redruth £320 and at Redruth Gaol a new room to the turnkey’s quarters £200.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -86,4 +86,4 @@ The report of the Chief Mine Captain speaks in very favourable terms of the pros
 
 The high profit figure for 1856 relates to the high price of copper at that time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

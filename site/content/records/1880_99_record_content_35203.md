@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘On former occasions Australia has run no danger, but the question may now be asked whether, in these days of rapid and constant communication, there is any likelihood of the epidemic reaching the colonies?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

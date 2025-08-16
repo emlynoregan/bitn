@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Advt.  J.B. Bull, formerly of the Far North and late of the Duke of Edinburgh Hotel in Hindley St, Adelaide, has taken over the Aberdeen Hotel and repaired and furnished it.  [Description of food and drink arrangements.] There is good stabling, a blacksmith’s shop with one of the best shoers in the colony.  Good Skittle Alley.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

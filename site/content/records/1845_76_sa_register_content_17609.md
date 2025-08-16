@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Obituary. The funeral of the late Mrs Roberts took place on Sunday and was attended by nearly everyone.  She was a class leader of the Wesleyan community.  Her sudden death left a family of six children, the youngest a few days old.  [Born Jane Shortland or Shourtland c. 1820: died 2 June 1864, Kooringa.  She died in childbirth, being delivered of twin daughters.  Jane Shourtland Roberts was born 2 June 1864, Kooringa: died 15 June 1864, Kooringa.  Her sister Alice Shourtland Roberts born 2 June 1864, Kooringa, perhaps surprisingly survived to be married in 1889.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

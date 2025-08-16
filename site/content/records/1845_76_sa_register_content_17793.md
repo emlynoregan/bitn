@@ -46,4 +46,4 @@ World’s End, Murray Flat, Emu Flats, Baldina, Barker’s, Booyoolie, Hopes, Ma
 
 This is the second instalment of Goyder’s Report.  Some details of local runs follow:]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

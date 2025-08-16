@@ -37,4 +37,4 @@ A great many drays are still on the road and as many as fifty can be counted in 
 
 The weather has been cool; from 84°F on the 2 December and only 64°F on 8 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

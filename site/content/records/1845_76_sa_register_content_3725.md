@@ -27,4 +27,4 @@ Court
 
 [A case is reported in which John David was charged by G.S. Walters on behalf of the Patent Copper Co. with deserting his hired service.  David said he had been engaged as a refiner of copper, but had been given no work of that nature.  Most of the evidence reported is legalistic quibbling with lawyers arguing about identifying the company and whether documents are valid and signatures true. It comes to no conclusion here.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

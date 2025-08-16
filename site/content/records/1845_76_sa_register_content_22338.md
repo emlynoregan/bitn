@@ -27,4 +27,4 @@ The Burra Railway
 
 Rapid progress is being made with the Burra Railway works.  Deep soil is found on the plains through which it passes and persons in search of farms can see it in the cuttings.  Contractors on the line are ready to employ as many miners as choose to apply.  At present very few Burra men are employed on the railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

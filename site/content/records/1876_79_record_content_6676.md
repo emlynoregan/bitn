@@ -32,4 +32,4 @@ Obituary& Inquest. W.C. Beasely died at the Bon Accord Hotel 20 June. Inquest by
 
 [Died 20 June Aberdeen, residence Queensland aged 45.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

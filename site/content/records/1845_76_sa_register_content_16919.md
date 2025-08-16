@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Monday, the Prince of Wales’ birthday, was kept as a holiday.  Many people picnicked at Princess Royal where a favourite pastime was cray-fishing.  [Yabbying.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Wesleyan Conference has placed Rev. S. Knight at Kooringa with Rev. W.A. Bainger.  Rev. J. Bickford will go to Pt Adelaide.  Rev. R.S. Casely succeeds Mr Knight at North Adelaide.  Rev. R.W. Campbell goes to Jamestown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

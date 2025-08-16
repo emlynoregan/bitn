@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 BCS.  One of the school lambs was deliberately mutilated during the holidays, being found with its ears cut off and being badly flyblown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

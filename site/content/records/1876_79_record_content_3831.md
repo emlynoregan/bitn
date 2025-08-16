@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Obituary. George Bennett, one of the oldest inhabitants of Burra who arrived in 1845. He was buried with full Masonic honours, being a member of Kooringa Lodge No. 585 E.C.  [Died at Kooringa 14 March 1878 aged 59.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

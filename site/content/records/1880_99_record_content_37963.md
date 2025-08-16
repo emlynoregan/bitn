@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Railway Commissioners have decided that the death of ganger Davis merits no special payment as it was ‘caused by the neglect of the unfortunate man to observe the printed regulations’.  When announced in Parliament this caused Mr Holder to interject ‘No!’ and the editor clearly agrees with Holder.  The verdict at the inquest did not support this either.  Mr Holder has taken an interest and we hope he can get the Parliament to vote a reasonable compensation as the Commissioners are ‘evidently afraid to acknowledge any carelessness on the part of the railway department.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

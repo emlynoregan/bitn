@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Escott, aged 64 and a colonist of 38 years, died at his residence at Koonoona on 28 April of heart disease.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

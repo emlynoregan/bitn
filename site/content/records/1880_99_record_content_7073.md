@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Apoinga Copper.  Testing of copper lodes at Apoinga, some 12 miles south of Burra continues and it is hoped to have 100 men working there soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

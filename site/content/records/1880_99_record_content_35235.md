@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 2nd Leader on a fire at Mt Bryan.  A large fire began on Saturday on W. Cockrum’s property.  A railway spark is thought to be the origin.  The editor says five out of six fires are caused largely by avoidable actions.  They come from smokers in trains and from firemen in locomotives knocking clinker off the poker over the side of the engine.  Spark catchers should stop chimney sparks and the law should address these issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

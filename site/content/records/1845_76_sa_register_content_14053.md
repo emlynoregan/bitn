@@ -28,4 +28,4 @@ The Burra Burra Mines
 
 A new lode of malachite containing 25-30% copper has been opened in the 60 fathom level between Schneider’s Engine Shaft and Roach’s Shaft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

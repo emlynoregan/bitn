@@ -68,4 +68,4 @@ Mr Holder said the council had shown its determination to proceed in the matter 
 
 The Mayor said that in the event of the footpath in question being completed he intended taking the matter of fencing and planting into his own hands and would hand it over to the ratepayers free of cost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Marriage.  Henry, 5th son of the late James Pearce of Kooringa and S. Charlotte Wright, 4th daughter of William Henry Wright of Wright St, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

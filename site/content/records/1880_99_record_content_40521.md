@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cr Sampson said before Cr Rabbich did explain he would move that the Council go into committee and all strangers leave.  Cr Watt 2nd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

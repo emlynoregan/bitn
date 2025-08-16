@@ -50,4 +50,4 @@ Part of Gottlieb’s Wells and Munjibbie Runs were burnt on Wednesday and the Ma
 
 Farmers have been spared except for six or seven near Sevenhills.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

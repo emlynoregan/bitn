@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Copperhouse Primitive Methodist Church Anniversary last Sunday and Monday.  The premises have been lately renovated and the anniversary collection will more than halve the small debt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

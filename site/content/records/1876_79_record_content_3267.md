@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Bible Christian Sunday-School Picnic 26 Dec: at Mr Fradd's paddock at Sod Hut. Sports, refreshments and the town band.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -30,4 +30,4 @@ Editorial on the Federation Vote.
 
 If we wait for a better bill the only one likely will be better for NSW which will be worse for SA.  We cannot afford to vote ‘No’ on Saturday.  A ‘Yes’ vote could well improve prospects of higher wages, greater prosperity and more employment: a ‘No’ vote will not help any of these.  Without federation and with a protectionist NSW we would lose £5,000 per week of railway revenue from NSW.  Queensland already has a 30/- per ton duty on wool and station produce to stop it entering SA.  NSW threatens a 40/- per ton duty on ore from Broken Hill.  Only a ‘Yes’ vote can Advance Australia.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

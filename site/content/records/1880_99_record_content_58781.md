@@ -30,4 +30,4 @@ Thomas Byrnes was charged with brutally assaulting Robert Cox on the evening of 
 
 Robert Cox gave evidence of the unprovoked assault and Byrnes was sentenced to two months in gaol.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

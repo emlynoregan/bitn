@@ -35,4 +35,4 @@ The township is in good humour in consequence of having from 80-100 heavily load
 
 Most of the Government selectors in this district are fully able to buy their sections, the purchase-money for which will shortly fall due.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

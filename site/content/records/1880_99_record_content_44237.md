@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the rising power of the Labor Movement in SA and in Parliament - approving the change and commenting on the efforts of the very conservative National Defence League.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

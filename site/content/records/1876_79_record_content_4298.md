@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 District Council of Burra. Henry Pinch and William Watts elected for North or Redruth Ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

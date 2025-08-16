@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Patent Copper Company has fixed its rate of cartage between the Burra Copper Works and Port Wakefield, either way, at 30/- per ton for the whole of next season, say to 31 March 1853.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

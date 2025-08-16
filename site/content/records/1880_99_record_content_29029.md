@@ -34,4 +34,4 @@ A complaint has been lodged about the dirty state of the Burra Hotel premises: t
 
 Messrs Rabbich & Sons objected to the manner in which they have been singled out for committing a nuisance.  [Presumably a reference to the lid required for their boiling down operation.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

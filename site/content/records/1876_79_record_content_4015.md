@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 After this Date the above Line of Coaches will START from HALLETT instead of Burra. A COACH will RUN DAILY between HALLETT and TEROWIE commencing on 25th instant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

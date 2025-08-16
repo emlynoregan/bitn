@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Sculling Match between Gaudaur & Hanlan on the Ottawa River is described in detail over ⅔ column.  Such matches were keenly followed at the time and this one was for £500 a side.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

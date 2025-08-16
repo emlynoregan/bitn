@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 RVF.  There is a proposal to amalgamate the VMF and the RVF, doing away with the pay for the former and granting each man a uniform and £2 p.a. capitation grant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

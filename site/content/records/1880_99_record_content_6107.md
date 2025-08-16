@@ -37,4 +37,4 @@ The pair are neighbours at Cemetery Flat.  The defendant assaulted the complaina
 
 Uren was jailed for 7 days in default of a fine of £1 + 10/- costs
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

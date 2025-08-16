@@ -50,4 +50,4 @@ The Eastern Road has been removed from the schedule of main roads, which places 
 
 The international financial crisis in England, USA & Germany will influence the borrowing powers in Australia.  War has for now been avoided and famine rages in Russia, while anarchy prevails in several of the smaller American Republics.  Troubles seem to loom in China.  The Irish question remains unresolved and labour troubles continue around the world.  In Australia the federation movement has failed, at least for now.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

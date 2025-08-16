@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Inquest into the death of William Martin at the Burra Hospital.  He died as a result of the riding accident reported in issue 529 page 2.  Inquest adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

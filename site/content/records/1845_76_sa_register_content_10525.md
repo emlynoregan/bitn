@@ -30,4 +30,4 @@ Parliamentary Election
 
 We are told that Mr G.C. Hawker and Mr Younghusband are both willing to stand for the seat of Burra & Clare in the House of Assembly.  It is known that Mr Kingston and Mr Morris Marks are already in the field.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

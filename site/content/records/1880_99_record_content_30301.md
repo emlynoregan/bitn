@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from a ‘Ratepayer’ complaining that the Board of Health fails to take action to prevent the stench which each summer brings to the people of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

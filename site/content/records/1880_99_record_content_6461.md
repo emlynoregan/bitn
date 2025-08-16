@@ -45,4 +45,4 @@ It concluded he died from blood poisoning, probably aggravated by very intempera
 
 [* Note that oddly enough in his registration of death his name is given as George Ernest Hennett, aged 45, labourer of Terowie.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

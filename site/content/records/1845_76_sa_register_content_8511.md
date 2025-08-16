@@ -43,4 +43,4 @@ On Monday last a parting dinner was given by Mr Chambers to his Kooringa friends
 
 [BISA suggests he was James (Jemmy) Chambers who was born 26 September 1812 at Enfield, London, UK and died 7 August 1862 at North Adelaide.  He was survived by his wife and six children.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

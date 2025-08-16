@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Elder, Smith & Co. will offer Old Koomooloo for sale, 55 miles east of Burra, comprising Miscellaneous Lease No. 5515 of 30 square miles with 17 years to run and Pastoral Lease No. 273 Class II of 19 square miles with 16½ years to run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

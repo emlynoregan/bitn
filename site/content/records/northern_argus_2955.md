@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Justin Fidock has been received into the Venturer Unit from the Scouts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

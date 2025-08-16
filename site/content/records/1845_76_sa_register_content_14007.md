@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The number of dogs has been considerable reduced to the benefit of the community as a result of the operation of the Dog Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

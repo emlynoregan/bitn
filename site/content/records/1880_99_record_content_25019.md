@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cockburn on the NSW border has a street of fine powder dust, which is chokingly mobile.  There is no hotel, but there is one just across the border.  The buildings are of iron, wood and canvas: the last being widely used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

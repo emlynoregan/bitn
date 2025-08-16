@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Thomas Willoughby has commenced driving a stage conveyance from Burra Burra to Adelaide via Kapunda each week.  Fare £1.  Parcels taken and their safe delivery guaranteed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

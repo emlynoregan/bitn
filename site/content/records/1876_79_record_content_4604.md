@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. for the Burra show on 26 Sept. Entrance 2/6 at 1.00 pm and 1/- at 2.00 pm.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

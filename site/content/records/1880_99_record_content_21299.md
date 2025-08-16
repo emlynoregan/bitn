@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Any Other Man’ challenges the validity of W.H. Hardy’s attack on the police and larrikinism.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

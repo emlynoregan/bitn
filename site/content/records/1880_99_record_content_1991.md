@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 SAMA half-yearly report.  The value of property owned has been revalued upwards.  Burra property increases from £22,000 to £29,000.  Kooringa and Graham property rises from £38,000 to £46,000.  The mine is being kept in a condition to be worked when copper prices justify it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

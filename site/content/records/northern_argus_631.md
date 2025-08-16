@@ -21,4 +21,4 @@ publication_slug: northern-argus
 
 [Further details are given in an article filling page 1.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

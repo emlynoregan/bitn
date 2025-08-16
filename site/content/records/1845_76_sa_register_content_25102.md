@@ -37,4 +37,4 @@ The Commissioner pointed out that the railways contracted to deliver the grain t
 
 The Engineer-in Chief pointed out that to increase the traffic by 300-440 tons per day would require more engines and more engine-drivers.  They were presently running trains up to 11.45 p.m. and the locomotives had to be cleaned and repaired.  Loading at the port was slow.  The wheat had to be sampled by a man with a long tube and rejected wheat had to be dealt with.  Better labelling of the wheat and more careful loading with a view to easier shunting operations and port handling procedures, would be of some help.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

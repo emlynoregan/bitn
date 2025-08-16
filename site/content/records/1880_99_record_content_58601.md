@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Government grant this year was £217 compared with £275 the previous year.  The grant has been usefully expended very nearly all in labour at a time when work was scarce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Miners Wanted at Wallaroo
 
 200 to 300 miners are wanted immediately at Moonta and Wallaroo Mines.  Average earnings of tutworkmen 40/- per week and upwards.  Tribute pitches also to be let.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 21630→
 21631→[In troy weight there were 24 grains in 1 penny-weight and 20 penny-weights in an ounce and 12 ounces in a pound (5760 grains)]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

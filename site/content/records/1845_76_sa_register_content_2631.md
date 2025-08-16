@@ -35,4 +35,4 @@ Would it not be better, he asks, ‘to commence carrying off the whole of the su
 
 The proprietors would act judiciously in looking ahead, and cause a given number of men to be employed in making discoveries within the limits of the set whilst the mine is rich, because the outlay would not be felt; and supposing new lodes should be found rich in minerals, the quantity they could raise would be increased, and shares would probably in a short time double, and possibly quadruple their present value.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

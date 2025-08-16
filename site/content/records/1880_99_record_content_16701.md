@@ -57,4 +57,4 @@ Crs West and Sampson wanted to receive the report, but it was eventually adopted
 Cr West gave notice of a motion to borrow £500.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

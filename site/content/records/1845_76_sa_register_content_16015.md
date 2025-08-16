@@ -44,4 +44,4 @@ Accident.  Henry Skewes, a colt breaker and resident here, was struck today by l
 
 The weather has been most variable throughout the week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

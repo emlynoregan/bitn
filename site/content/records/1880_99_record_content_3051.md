@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 F.W. Coglin’s presentation is reported in ⅔column.  He received a gold watch and chain.  There were speeches by the Mayor, T. Bath, J. Lewis JP, F.W. Holder, J. Roberts, and W. Geake.  He had been employed by the Govt. for 22 years before retiring. [As Govt. ranger.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

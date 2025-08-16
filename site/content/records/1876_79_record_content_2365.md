@@ -31,4 +31,4 @@ To say that there is not a lot of low-lived thieves prowling about the neighbour
 
 I am, Sir & c., REVOLVER Redruth, May 31, 1877.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

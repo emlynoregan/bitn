@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Aberdeen Crossing.  The Railway Commissioners are believed to be considering a gong, which will be fine for people, but useless for the thousands of sheep that might be in the process of crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

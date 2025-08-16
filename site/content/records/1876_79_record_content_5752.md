@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Commercial St Bridge. The old bridge near the Roman Catholic School is being demolished in preparation for the building of a new and larger bridge there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

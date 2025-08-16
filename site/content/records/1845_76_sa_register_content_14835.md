@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Burra Mine has discharged a further 50 hands, presumably in an attempt to reduce working expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

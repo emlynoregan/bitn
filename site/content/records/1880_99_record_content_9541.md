@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Mrs Lawler thanks all those who contributed to the Lawler relief fund in her late loss.  [A half column list is printed]  £89-8-3 was raised of which £20 came from Mrs R.C. Baker of Adelaide and £14-14-0 from a concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

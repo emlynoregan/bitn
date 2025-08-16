@@ -27,4 +27,4 @@ Tothill’s Creek Width of Tires Act Meeting
 
 [The arguments at this meeting were essentially the same as at the Burra meeting already reported and noted above.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

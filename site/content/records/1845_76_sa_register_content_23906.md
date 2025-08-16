@@ -75,4 +75,4 @@ Lot 13.	Two-Mile Station: one mile from Pt Wakefield.
 
 Lots 14-20 were all in or around Pt Wakefield.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

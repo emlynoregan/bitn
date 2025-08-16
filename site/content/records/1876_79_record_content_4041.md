@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Corp. A letter to Ed. complains that 18 goats held at the pound were killed last Sat. and the bodies were slung into an old quarry, not buried as they should have been. Why?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -31,4 +31,4 @@ Burra Town Council
 
 Resolved 5 March to see to the flagging of footpaths in front of Messrs Geake, Lane, Snell & Mrs Bock.  Tenders called.  A contract has been let for the flagging in front of the shops being rebuilt - half of the cost to be recovered from the owners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs E. Ellery, an old Burra identity, died at her son’s residence in Quorn.  She was buried at Burra last Monday afternoon.  [Ann Ellery died 15 August aged 79.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

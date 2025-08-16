@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Bible Christian Church gave W. Davey a wall barometer at a farewell tea on Monday in gratitude for his service to the institution. [Corrected in issue of 25 October p.2: A barometer went to Mr Davey Jun. and a silver inkstand to Mr Davey Sen. The former has greatly assisted with the choir.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

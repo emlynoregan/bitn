@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Democrat’ writes a second article on the Federation Bill for the ‘No’ case.  This time he is against the provision that in each state the franchise shall be the same federally as it is for the state elections.  This will preserve the ultraconservative power in Tasmania and WA as they are guaranteed the same number of seats as the other colonies regardless of population size.  The provisions of the restricted franchise will reproduce an unjust power in the House of Representatives and confirm it in the Senate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

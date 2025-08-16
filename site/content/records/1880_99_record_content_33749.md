@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Smelting Works.  Mr Bartle has begun treating the slag.  He is busy pounding and washing and has forwarded a fair amount to Adelaide.  Many say it will pay, but as many are sceptical.  If successful it could employ 20-30 men for a number of years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

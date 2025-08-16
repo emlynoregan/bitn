@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Unemployment Relief.  45 local men have petitioned the Mayor to obtain work.  The Govt. was approached and replied that the Conservator of Water expected to be able to take on 20-30 early next week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

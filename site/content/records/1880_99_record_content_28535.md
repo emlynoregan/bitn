@@ -36,4 +36,4 @@ He said he was opposed by a strong coalition of squatters and landed proprietors
 
 Like the other candidates, he favoured federation, but this would not come till tariffs in all colonies were equal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Red Cross has a tree planting ceremony at Aberdeen Clubrooms on 7 May followed by luch and a hat parade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -43,4 +43,4 @@ He was the son of Sampson & Jane Vivian and was born at St Austell, Cornwall in 
 
 [This last sentence suggests he arrived in Australia not in 1885, but perhaps in 1855, or if the numbers were inverted, in 1858, in any case 1885 is surely wrong.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

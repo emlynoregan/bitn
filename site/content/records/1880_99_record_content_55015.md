@@ -29,4 +29,4 @@ Advt.  Burra Institute Popular Lectures, 2 November.
 
 Vine Growing by Professor Perkins & Farming by Professor Lowrie MA, DSc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

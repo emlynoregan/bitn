@@ -38,4 +38,4 @@ Robert Nelson was fined 5/- for being drunk.
 
 Duncan McGregor was fined 5/- for being drunk.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

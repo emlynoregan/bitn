@@ -31,4 +31,4 @@ There is a suggestion that the Government should buy Analby [sic] Estate of 65,0
 
 [Presumably this is a reference to Anlaby – a portion of which was eventually bought for this purpose in 1905.  It began with a section 16 km NNE of Kapunda.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

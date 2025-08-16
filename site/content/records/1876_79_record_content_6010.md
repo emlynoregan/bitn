@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's Mutual Improvement Association. (BYMMIA) Steps are being taken to establish such an association to help young men and extend the usefulness of the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  The Burra Burra Races are about to come off.  Postboy is the fastest horse in the colony over a mile and a half and more than likely to wine the Town Plate at that event.  Any gentleman wishing to purchase the same may obtain all particulars from J. Norman, Horse Bazaar, Morphett Street or at the Port Hotel Stables, Port Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

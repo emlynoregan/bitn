@@ -39,4 +39,4 @@ The rent should be £1-5-0 per mile[2]
 
 He calls a meeting at the Burra Institute for 4 o’clock on 3 June to discuss these issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

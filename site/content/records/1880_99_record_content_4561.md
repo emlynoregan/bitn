@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 New Railway Station.  A large number attended a meeting in Kooringa on Monday to support the move for a new Burra railway station.  The substance of the debate is as before reported for the Aberdeen meeting.  The speakers in support included W.R. Ridgway JP, Dr J.R. Stephens JP, H. Dawson JP, Cr Sampson, & F.R. White.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

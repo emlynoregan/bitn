@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Argus’ observing that all too often men of the town work only to obtain money to spend on drink.  He complains about the number of men who prop up posts in Market Square, their conversation liberally sprinkled with ‘a favourite adjective’ and ‘garnished with manly oaths of the choicest blasphemy’.  There they pass personal comments on any passer-by whether male or female and mistake the same for wit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

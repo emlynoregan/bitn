@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Mr Rounsevell has left the colony and we assumed he left his resignation behind him, but evidently not. We find Parliament assembled again and Mr Rees to do all the representing for the Burra District. Unless Mr Rounsevell returns very soon the vacancy should be declared and an election held as soon as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

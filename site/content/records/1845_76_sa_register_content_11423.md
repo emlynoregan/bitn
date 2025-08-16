@@ -35,4 +35,4 @@ After reports from the Strathalbyn Mining and Smelting Company and the Worthing 
 
 Advices to 7 October say that carting of both coal and ore had fairly commenced, under very favourable auspices.  The carting for the year ending 30 June had exceeded 28,000 tons.  The Company’s wharf is now connected with Gawler (26 miles north of Adelaide) by rail, and the coal and ore traffic was about to commence.  About 2,000 tons of ore were in course of, or ready for shipment.  The mob of horses had arrived from NSW and the mules were engaged in carting from the Murray Scrubs and were looking very well.  The works continued in full operation and labour was generally more abundant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ Redruth Court, 21 June
 
 John Mannix, charged with stealing a silver watch valued at £4-10-0 from John Buckley of Hd Adams, was remanded to 6 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

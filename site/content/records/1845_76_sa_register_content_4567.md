@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 The writer says the miners at first obtained good wages and were able to set aside something for a rainy day.  But, then wages were cut by a management that was penny wise and pound foolish.  The miners became discouraged and their energies were dampened, to the disadvantage of all, including the mine proprietors.  Now the company is offering free passage to Cornish miners.  With local miners not earning survival wages, is it becoming to multiply the numbers of ill-paid and discontented men?  To add to their hardships the company has ordered those with home  on the mine site (erected with the company’s permission) to now move into Kooringa – giving them a two mile walk home and back id they wish to dine.  By thus pointing out the ‘rocks and shoals on which he [the immigrant] (if he venture here) will inevitably suffer shipwreck’ the writer hopes to prevent the ‘unnecessary influx of emigrants’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

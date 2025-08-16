@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Miss M.T. O’Leary was elected Senior Matron and Miss M. Tobin Junior Matron.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

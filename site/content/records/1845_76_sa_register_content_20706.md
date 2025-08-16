@@ -60,4 +60,4 @@ Previously much copper in solution escaped into the River Light, but efforts wil
 
 The new company objects to the workings being within the Corporation boundaries with the accompanying rates charges and they also object to the railway’s rates for carriage.  They believe they are entitled to concessions as they presently pay £400 to £500 a month and expect shortly to increase that to £1,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

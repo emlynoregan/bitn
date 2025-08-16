@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  There was considerable debate over the cost of the Waterworks to be charged to the Council by the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

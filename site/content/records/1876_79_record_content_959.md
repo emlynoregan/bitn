@@ -39,4 +39,4 @@ Mrs Leech fined 10/- + 5/- costs for allowing 15 swine to trespass on the reserv
 
 Alexander Robinson fined £2 + £2-6-0 costs (the minimum fine) for failing on 6 August to travel 5 miles a day with sheep, as required by law.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

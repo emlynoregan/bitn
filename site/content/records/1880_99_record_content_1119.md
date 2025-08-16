@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Drew & Co. are to be permitted to pave in front of their premises with the council to pay one moiety.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

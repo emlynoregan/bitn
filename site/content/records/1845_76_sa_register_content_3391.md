@@ -33,4 +33,4 @@ The meeting of shareholders tomorrow is anticipated with interest.  Some are app
 
 ‘In reply to one correspondent, it would hardly be practicable to “restrain Directors from dealing in shares while in office,” as their transactions might be effected through other means.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

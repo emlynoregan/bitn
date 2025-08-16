@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Ilbert Bill, which would allow, in India, British born persons to be tried for criminal offences before Indian native judges with or without juries of natives.  The Bill he finds quite objectionable in either its original or amended forms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

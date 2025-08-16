@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Accident.  On Saturday morning last Mr Rumball was in Market Square in his buggy going towards Redruth when it collided with a spring dray driven by a lad named Walsh.  The accident happened in front of J.T. Walker’s.  Mr C. Fuss’s young son was thrown out of the buggy and received a nasty shaking requiring hospital assistance.  The little fellow is now recovering.  [In 1893 C. Fuss had two sons: Ray was 9 and Bob was 7, so presumably this referred to the latter.  Mr Rumball was the child’s grandfather.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

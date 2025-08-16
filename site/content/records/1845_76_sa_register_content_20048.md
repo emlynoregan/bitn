@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Messrs Drew & Co. have the contract to supply rations to the destitute poor for 12 months and Mr Godson the contract for medical comforts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

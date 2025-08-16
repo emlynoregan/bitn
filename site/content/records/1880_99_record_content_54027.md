@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Henderson’s Whistle sounded at 11.30 p.m. on Wednesday night and though it was a cold and windy night several plucky residents turned out to the supposed danger call, but the only fire was in the furnace, being heated to generate steam for the following day’s blacksmith work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

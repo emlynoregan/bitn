@@ -29,4 +29,4 @@ Obituary.  Kate, youngest daughter of Richard and M. Edwards died at Kooringa 24
 
 [Born Catherine Edwards 24 April 1870]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

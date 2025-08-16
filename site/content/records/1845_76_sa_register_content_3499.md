@@ -28,4 +28,4 @@ Advertisement.  The Reformer stage cart has returned again and is open to hire f
 
 W.W.G. Nicholls, The Friend of the Millions Temperance Hotel, Hindley Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

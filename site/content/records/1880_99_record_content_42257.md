@@ -61,4 +61,4 @@ The drain referred to by Bagot, Shakes & Lewis would be done in the coming fortn
 
 It was resolved that the Waterworks Committee report next meeting on the lease renewal and machinery replacements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Brands Act of 1879 was discussed at a meeting at the Burra Institute on 18 June with Dr Nesbitt in the chair. T. Warnes moved that the Brands Act was in the main suitable and should be given a year's trial, during which any problems would become patent. Much of the very loud agitation came from places where few animals were kept. Branding was not compulsory under the Act, only if it were used the brand must be registered. The discussion generally supported the Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

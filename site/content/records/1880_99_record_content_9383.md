@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mrs Lawler’s benefit concert was well patronised and the nett proceeds of £15 are to be added to the £60 raised by subscriptions and to the £20 special donation of Mrs R.C. Baker of Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

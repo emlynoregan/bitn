@@ -34,4 +34,4 @@ He glided into the subjects of the English poor laws and the suppression of the 
 
 Mr Nicholls was most cordially chorused by the whole congregation, which shortly after broke up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

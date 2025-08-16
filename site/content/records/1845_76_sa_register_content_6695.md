@@ -30,4 +30,4 @@ Savings of the Burra Miners
 
 It is said the police have in their possession more than £400 belonging to the late William Box, who was drowned in the Burra Creek during the flood.  This is a singular illustration of the pertinacity with which the miners preferred their cells to other habitations; Box we understand owned several cottages in the township, while he himself resided in the Creek.  [Both the statement regarding the £400 and that concerning the ownership of cottages were later said to be incorrect by Sergeant-Major McCulloch in court on 18 June as reported in the Register of 25 June.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

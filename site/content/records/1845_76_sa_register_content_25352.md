@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mt Bryan East.  The weather has been dry and frosty with ice nearly a quarter of an inch thick and snow on the Mount.  A good rain last week improved conditions.  Early planted crops are looking well, but later plantings are backward because of the cold weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

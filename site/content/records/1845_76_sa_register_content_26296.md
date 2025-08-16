@@ -33,4 +33,4 @@ The harvest is over and most of the grain is bagged.  Owing to smut, half-heads,
 
 The Mt Bryan DC seems to be dormant, as we hear nothing of their doings, although so near.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

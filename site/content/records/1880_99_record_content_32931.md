@@ -43,4 +43,4 @@ All hands except the Dayman are to be discharged to try to keep the account in c
 
 Cr Hardy called attention to the problem of straying cattle for which ‘even councillors are guilty’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

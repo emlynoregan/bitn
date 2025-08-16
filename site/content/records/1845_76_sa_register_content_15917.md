@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Notice.  SA Mining Association gives notice that the half-yearly meeting of shareholders will be held at the Association’s office in Rundle Street on Wednesday 15 October 1862 to receive the Directors’ Report, doe the examination of the Auditors’ Report and to elect a Director in place of J.C. Boord, Esq. who has resigned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

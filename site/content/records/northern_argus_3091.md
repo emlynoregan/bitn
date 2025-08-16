@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Lions Club has erected new shades at the Burra Swimming Pool.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -34,4 +34,4 @@ e.g. ‘a great proportion of our agricultural labourers, dam sinkers, road make
 
 [The writing style is rather incoherent, sprinkled with Latin tags and full of extreme hyperbole and arrant nonsense.  It is not said who Holder put in place as acting editor while he went to NZ, but this reflects neither Holder’s style nor attitudes.  The style and comments made in his obituary strongly suggest it was Benjamin Franklin Langford, as does a notice later in 1884.  See: VI, 397, 12 Dec. 1884, page 2 and XV, 388, 11 Oct. 1899, page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

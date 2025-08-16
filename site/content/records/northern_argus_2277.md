@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 National Trust 22nd AGM was held at the Burra Civic Centre on 3 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 So did the jury, adding ‘their sense of the impropriety of Mr Dare’s conduct in aiding and abetting such decided intemperance.’  [I cannot find any registration of death.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

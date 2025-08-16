@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra Apexians and their wives held their Christmas break-up last Tuesday.  They took the opportunity to farewell the Thai exchange student Lek and also Apexian Jim Low and his wife Bev who leave shortly to take teaching appointments at Cummins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

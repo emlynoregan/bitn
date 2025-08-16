@@ -27,4 +27,4 @@ Advertisements
 
 Wanted: a Storekeeper for the Burra Burra Mines.  Applications in writing only, accompanied by testimonials as to character and ability, before 3 p.m. 16 June.  Henry Ayers, Secretary, SAMA, Adelaide, 4 June 1856.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

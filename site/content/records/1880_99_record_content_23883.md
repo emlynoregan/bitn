@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Public Banquet is proposed for the retiring MP, Mr Rounsevell, at the Institute on 9 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

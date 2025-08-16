@@ -42,4 +42,4 @@ School Floral & Art Exhibition prize list is printed.
 
 Bible Christian Church Trustees for the last seven years have paid £25 p.a. plus the interest, leaving a debt of £225 on the large church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

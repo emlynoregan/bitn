@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Joseph’s School annual picnic was held at Princess Royal on Tuesday.  Father Kreisll and the Sisters and others did very well in preparing the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

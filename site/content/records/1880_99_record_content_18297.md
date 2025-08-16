@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the folly of importing migrants when we have in SA high unemployment and hundreds are leaving to get jobs in other colonies - and more would go if they could afford the passage.  What is lacking and badly needed is something to employ people besides wheat with its great need for employment for just two months out of the twelve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Wheat Traffic.  [The editor has another column reporting the wheat traffic on th
 
 (Figures in tons for the week ending as indicated.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

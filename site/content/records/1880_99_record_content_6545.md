@@ -32,4 +32,4 @@ Burra Football Club AGM was held in Doe’s rooms on Tuesday.  Elections:
 
 Patron, A. McCulloch; President, E.C. Lockyer; Captain, Mr Brady; Vice-Captain, T. Skewes; Secretary & Treasurer, G. Dawson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

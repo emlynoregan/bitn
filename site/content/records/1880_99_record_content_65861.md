@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Alicia Smith, wife of William Smith died in her home at Parkside on 5 February, aged 71.  She lived in Burra for many years and was a brilliant pianist and staunch member of the Anglican Church.  [Born Alicia Wilkinson]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

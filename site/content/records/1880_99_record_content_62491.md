@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr W. Bennett drilled his large congregation of children at 10 a.m. at the school and they were then addressed by the Mayor who made appropriate reference to the Queen’s reign.  The medals were distributed and the children then set off behind the band to the oval.  Dozens of races of various kinds followed.  These never had fewer than 40 contenders and the majority had at least 150.  Handicapping was done remarkably quickly with a few questions about age and who they could beat, and then it was off – often still fully clothed in heavy winter wear and clutching apples, rolls or lollies, some of which ended up decorating the grass.  In the tug-of-war ‘country’ beat ‘town’.  About 750 children attended representing not only the town, but the country schools in the district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr C.A. Uhrlaub, who has been the Mt Bryan schoolteacher for 5 years, was given a social at the Kingston Hotel last Wednesday with a moderate attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

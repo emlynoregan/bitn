@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  A Complimentary Banquet will be tendered Mr Matthew Burnett at the Institute on Wednesday 6 February at 5 p.m. before he leaves for Tasmania.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

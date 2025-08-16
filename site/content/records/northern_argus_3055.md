@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Sujitra Suttiserm, who likes to be called Lek, is an American Field Scholar exchange student from Thailand who has been at BCS for the past few months while staying with Dick and Barbara Secomb on a farm just north of Burra.  She goes home in January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

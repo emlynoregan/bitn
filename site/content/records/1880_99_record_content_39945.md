@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The problem was that people paid for a certain allowance of water, but in the July-December half year didn’t need as much because their tanks were full.  At present their unused portion was then lost and could not be carried forward into the following January-June half when water was most needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

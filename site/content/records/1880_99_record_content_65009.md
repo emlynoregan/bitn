@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Railways.  The proposal of the SA Government to increase the price of carting ore from Broken Hill is short-sighted.  Broken Hill could easily construct a railway on their own account and deprive SA of a vast amount of revenue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

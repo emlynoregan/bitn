@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Turkey Season is open and on Wednesday we hear a party bagged 25.  The birds are numerous this year, but remember that permission to enter private property for this purpose is required.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

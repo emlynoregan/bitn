@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A bolt: a pair of well-known mules bolted again in Market Square on Tuesday from Drew & Co.’s and were caught by Mr W. Young after nearly carrying away a barber’s pole and the artesian well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

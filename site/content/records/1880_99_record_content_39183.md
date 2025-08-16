@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Entertainment in the Kooringa Wesleyan Lecture Hall, Wednesday, 17 December.  Carols, songs & recitations.  6d.  Picnic for the Sunday school on 1 January 1891 at John Fradd’s paddock, Sod Hut.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

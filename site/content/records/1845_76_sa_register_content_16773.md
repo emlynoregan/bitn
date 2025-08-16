@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Redruth Wesleyan Chapel held its Anniversary services last Sunday.  Mr H. Jolly of Mintaro preached two powerful sermons.  The tea meeting on Monday was largely attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

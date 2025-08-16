@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The boring at the mine has been going on for over 14 months and the second bore is about to begin.  Mr Leahy has done well in working the bore without damage to the diamond drill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

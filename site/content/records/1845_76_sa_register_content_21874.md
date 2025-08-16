@@ -36,4 +36,4 @@ The other was signed by tradespeople of Kooringa and the neighbourhood and vouch
 
 The members spoke in support of the memorialists.  The Commissioner said no time would be lost in completing arrangements to carry out the promise he had previously made in favour of commencing the line at both ends.  He hoped everything would be ready to let contracts at the beginning of June, but a more formal answer would be forwarded next Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -38,4 +38,4 @@ Obituary.  Henry Dawson JP has been drowned in a yachting accident.  A party of 
 
 Mr Dawson was formerly in business in Burra and his departure from the town was the occasion of a farewell banquet.  He took up squatting near Mt Bryan before retiring to Parkside.  He leaves a large family well provided for.  So far the bodies have not been found.  [Died 8 February, aged 56, oddly the Deaths registration CD does not list a Mr King dying on or about that date.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

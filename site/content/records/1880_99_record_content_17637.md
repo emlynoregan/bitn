@@ -37,4 +37,4 @@ The Chrysanthemum Show, managed by the Institute committee was held on 29 April.
 
 His flowers were sometimes twice the size of others and some extraordinarily large.  Mr C. Drew and Mr J. Lewis also did well, as did Mr Lasscock.  For flowers in pots Dr Brummitt and Messrs Drew, Holder and Mayger divided the honours.  Other successful exhibitors of cut flowers were Mrs McLagan, and Messrs T. Pearce and W. Davey.  The prize list is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

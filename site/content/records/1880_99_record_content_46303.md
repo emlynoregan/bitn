@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 [When news did arrive for the paper of 17 Aug. it was of about 0.50” at Barker’s and World’s End, but further east virtually nothing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

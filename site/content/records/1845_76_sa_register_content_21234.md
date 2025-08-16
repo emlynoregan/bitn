@@ -32,4 +32,4 @@ The weather has been very inclement.  Last week there was a heavy fall of snow o
 
 Mrs Elizabeth Ann Hooper lost about £9 and suspecting it was in the home of Mary Davey, she got a search warrant for Mr Davey’s premises.  While the police were searching the home Mrs Davey went to Mrs Hooper and insisted she come and witness the process.  When Mrs Hooper entered the home Mary Davey knocked her down and attempted to stab her with a butcher’s knife.  The police prevented the attack.  Mary Davey was sentenced to four month’s imprisonment for the offence.  She has six young children and a sick husband and the youngest child is still at breast.  She was allowed to take it to gaol with her.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ Inquest held at the Plough and Harrow in Rundle Street on the body of a child Ri
 
 [Richard Thomas Burn died 15 October 1846 Burra Burra Mine aged 9.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

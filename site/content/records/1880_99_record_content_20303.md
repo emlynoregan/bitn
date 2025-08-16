@@ -28,4 +28,4 @@ Municipal Election.  Redruth is in a quandary.  Either they vote for the former 
 
 Some people are cruel enough to say that Cr Ridgway never meant to resign and Cr Tiver was determined to stand again to back him up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

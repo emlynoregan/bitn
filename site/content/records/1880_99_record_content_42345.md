@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 R. Brummitt writes expressing surprise at complaints about the location of the fence along Nankivell’s Gully Road.  [The road east from Kooringa.]  He had in the past several times found his buggy’s wheels dangerously close to the edge before the fence was relocated to the roadside at the top of the embankment, rather than the bottom.  He considers the new location at the top much safer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

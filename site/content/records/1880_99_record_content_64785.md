@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Bolt.  Last Sunday when Ah Chin was visiting his cousins in Ayers St the horse in his vehicle bolted just as he was about to chain the wheel.  Fortunately it negotiated a number of corners without damage and was finally stopped near Charley Grow’s stables by a lad named Lines, who delivered it to the driver who ‘thankee Jack welly muchee’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Market Square Well.  Troughs have now been fixed and the Council have passed the pump conditional upon the supply of another handle and some extra piping.  Water from the troughs or for people drawing it by the bucket is free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

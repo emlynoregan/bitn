@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.   The Prospectus for Wheelbarrow Hills Silver and Lead Mining Syndicate is published.  This aims to raise £500 in 100 shares of £5.  The claim covers 90 acres three miles north of Farrell’s Flat railway station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

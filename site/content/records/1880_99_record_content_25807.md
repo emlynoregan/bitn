@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Silverton & Mt Gambier railway lines have now been handed over to the Government and open to heavy traffic in both goods and passengers on the Silverton line.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

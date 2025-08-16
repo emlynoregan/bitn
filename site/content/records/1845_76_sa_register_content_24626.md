@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Mt Bryan East.  On the eastern side of the ranges there has been splendid rain, which will greatly benefit the sown crops.  The weather, which had been very boisterous, is now fine and there are prospects of a good season for the pioneers of agricultural settlement in that direction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

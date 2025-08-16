@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Copperhouse School. From proceedings in Parliament it seems that the Burra School Board of Advice was unanimous in deciding against the establishment of a school at Copperhouse. Our information that the chairman and one other favoured it was apparently wrong. The Minister of Education is willing to yield, but finds it difficult in light of a reiteration of the Board's view on Wednesday. This is extreme blindness on the part of the Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  The annual social was a great success.  About 50 volunteers and patrons sat down to a magnificent spread followed by speeches, toasts and musical items.  The reported speeches tell us that Arbor Day had been deferred due to rain.  Cr Sampson recalled that 43 years before, when he came to Burra, there had been no defined roads or footpaths.  P. Murrie thought Government support was meagre, but might improve since Premier and Treasurer were both former volunteer captains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 The land southeast of Burra attracted most interest when there were 250 applicants for 13 blocks.  The results have given considerable dissatisfaction with much of the land going to the big landowners in the area like Thomas Warnes (Koomooloo), John Bailey (Gum Creek), Mr Dunn (Mt Barker), Mr Reed (Clare).  But all were allocated under the personal residence provisions [which presumably ruled out many applicants.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

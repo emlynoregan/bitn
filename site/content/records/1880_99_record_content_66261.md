@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Daniel Galvin, aged 79, has been charged with attempting to carnally know Harriett Willis, aged 13-16 years and has been committed for trial at the next criminal sittings.  Both parties are in receipt of Government rations and live in Paxton Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

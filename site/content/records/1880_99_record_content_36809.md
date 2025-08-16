@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Trees.  There is a nice flat needing planting near the remains of the Jubilee Foot Bridge.  ‘Bye the bye, there is a tale to unfold in reference to that bridge, but I do not feel inclined for that now.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

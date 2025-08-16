@@ -29,4 +29,4 @@ Editorial on The Commercial St Footpath.
 
 The editor is not favourably impressed by the decision arrived at, but is glad to have the matter resolved.  He is somewhat concerned that Mr Dawson believes that before every action is taken the Act requires a survey be done, an estimate of cost made and adjacent owners notified.  He then goes in some detail through the provisions of the Act to show that Mr Dawson’s interpretation cannot stand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

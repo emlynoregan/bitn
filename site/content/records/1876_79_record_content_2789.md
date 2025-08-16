@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Thistlebeds. A memorial to the Post Master General asked for a weekly mail service as the area was `thickly populated now'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

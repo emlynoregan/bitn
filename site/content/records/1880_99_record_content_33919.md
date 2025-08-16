@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Anti Dirt Heap’ complaining that the water tables along the north side of Commercial St and Market Square are foul smelling and need cleaning out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

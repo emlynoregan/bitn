@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Hooghly departed Plymouth on 14 August (99 days from the Lizard.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Francis Alexander Costelle, a pauper, was certified a lunatic by Dr Brummitt and was ordered to the Asylum.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

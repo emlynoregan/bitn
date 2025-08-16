@@ -52,4 +52,4 @@ The two men against whom informations were laid have since given themselves up. 
 
 [The paper then continues to report developments.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

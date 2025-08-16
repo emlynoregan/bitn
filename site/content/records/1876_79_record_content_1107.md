@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Drought continues; the new Hundreds of Baldina & Bright petition for a town to be surveyed at the intersection of the travelling stock routes near the confluence of Baldina and Cumbo Creeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

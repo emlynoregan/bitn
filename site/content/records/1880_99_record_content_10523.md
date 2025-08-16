@@ -36,4 +36,4 @@ Fowl Fanciers
 
 There is ¾ column on Burra fowl fanciers, who were notably J.D. Cave and G. Lehman, but also included C. Schutz, P.L. Killicoat, F.W. Holder, Mr Rabbich, M. Rayner, Mr Warburton & A. Loutit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

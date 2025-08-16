@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Firewood for Railways.  A deputation waited on the Minister for Public Works urging that the railways buy firewood presently being cleared from agricultural land in the Counties of Stanley and Light, for use in locomotives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

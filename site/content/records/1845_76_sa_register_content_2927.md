@@ -30,4 +30,4 @@ A New Song for an Old Tune
 W.B. appends his initials to a rather awful poem/song on the rise to riches of the Burra Burra Proprietors and their present attempt to mulct the miners of their pay.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

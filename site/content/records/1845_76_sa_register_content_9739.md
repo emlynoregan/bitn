@@ -70,4 +70,4 @@ The work of the year to which these figures refer consisted of supervising an av
 
 The expenses of management for the year just ended amounted to £5,008.  Ore raised was 9,859 tons.  Total expenditure was £127,664-11-5, including £28,015 paid in dividends.  The estimated profit for the year is set down at £81,010-17-11.  The average number of men employed was 650.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

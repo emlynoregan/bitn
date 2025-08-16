@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Captain Gillieland of the Salvation Army is farewelled this evening and his place taken by Captain Foyle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

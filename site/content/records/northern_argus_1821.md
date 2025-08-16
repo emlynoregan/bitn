@@ -31,4 +31,4 @@ The Junior Tanunda Brass Band
 
 The dragon boat race.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

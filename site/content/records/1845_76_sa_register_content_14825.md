@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Times here are bad with little business activity.  30-40 hands have been discharged from the Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -39,4 +39,4 @@ The elegant furniture and personal effects will be sold by auction at an early d
 
 For details and cards to view apply to Henry Ayers Esq. at the Burra Mining Office, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ The Mayor called attention to the need for a crossing of the creek near the new 
 
 This was referred to the Public Works Committee for a report.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

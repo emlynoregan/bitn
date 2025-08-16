@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader on sharp business practices and accumulation of wealth and the hypocrisy of those who have it.  [All in rather purple prose.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 ‘Wanted from the Treasurer of the Clare Village School, a receipt for £20 the secretary has received in my name, to teach the rising generation, but not to lend out to assist him who ought to have been more severely punished, than fined £20.  I wait till noon on the 10th instant.  W.W.G. Nicholls.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

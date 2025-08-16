@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Miss Killicoat was on her way to St Mary’s on Sunday in a wagonette when the horse bolted.  Miss Killicoat apparently tried to get out for she was found on the road with a broken collarbone and other injuries, but is progressing favourably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

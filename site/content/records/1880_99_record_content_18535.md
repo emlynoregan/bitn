@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Waste is all around in Government buildings.  In many places a single building could house the railway station, police station and the post and telegraph office, etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

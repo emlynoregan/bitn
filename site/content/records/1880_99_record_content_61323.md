@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fire.  A fire on C. Radford’s bedroom at Spring Bank on Friday morning destroyed the room, but the house was saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

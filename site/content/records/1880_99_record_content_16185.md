@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the need for fire a fighting capacity in the town.  The Fire Brigade Act is actually of little avail outside the city.  What is needed is a couple of fire reels and a volunteer group.  Also a key to allow turning of full pressure into the street where the fire is.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

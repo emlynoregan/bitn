@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the larrikins and the Salvation Army.  He condemns the larrikin behaviour at the Barracks, but fears that sometimes, and all too often recently at the public meetings, the Salvationists are guilty of provocation: ‘the antagonism of the crowd is distinctly challenged and opposition is courted and invited.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

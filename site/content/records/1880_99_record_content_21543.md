@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the failure of the Commercial Bank.  There was an attempt to amalgamate with the Commercial Bank of Australasia, but its losses were too great.  (There was fortunately no branch of the bank in Burra.)  Indications at this stage were that customers and depositors would get 20/- in the £ and shareholders 10/- per share. The £4 shares were valued at £3-12-6 on Tuesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Carter of Pt Pirie scooped the pool by winning all the races he entered with comparative ease.  The pedestrian events were well contested and local men were eliminated early, leaving visitors to carry off all the money.  J. Power won the Sheffield.  There was a successful concert in the evening at the Institute.  The results of event are printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Malowen Lowarth Garden us a picture with sunflowers, hollyhocks etc. in bloom.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

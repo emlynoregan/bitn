@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Burra Manganese and Silver Mining Co. Ltd.  On Saturday 30 June the mine was visited by Mr J. Jackman Jun. of Adelaide, P. Lane, P. Oates of Kooringa who are the directors and by Captain Rosewall and the Secretary, J.H. Schiekel.  They intend to call tenders for the sinking of a 100’ shaft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

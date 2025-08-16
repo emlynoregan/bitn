@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Editor is amazed that such huge areas of land are devoted to TSRs in SA to encourage stock from Queensland and NSW to compete with SA producers and yet no import duty is charged (unlike NSW & Victoria).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

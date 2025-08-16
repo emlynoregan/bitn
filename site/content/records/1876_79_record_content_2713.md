@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Hallett Railway - Mr Gilbert of the Mt Bryan Run claimed that he had been ' offered only £360 (£15lacre) for 24 acres acquired for the line, but the acquisition left a narrow strip of the run isolated on the other side of the line from the rest of the run. He sought £1506 (£6/acre) for the affected land. Claim is being considered in arbitration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

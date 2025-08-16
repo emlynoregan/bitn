@@ -73,4 +73,4 @@ The race of the day was the Sheffield Handicap over 135 yards, with 36 entrants.
 
 There were 9 heats in the 1st round, 5 heats in the second round and two heats in the 3rd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Roberts was bidden farewell in the Bible Christian Schoolroom on Tuesday.  He is removing to Port Augusta.  Tea preceded the presentation of a valuable writing case and inkstand from the Sunday School and church.  The Oddfellows Lodge gave him a watch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

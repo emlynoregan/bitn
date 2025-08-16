@@ -78,4 +78,4 @@ The mayor and three Councillors then transacted some business as a growing crowd
 
 Legal proceedings are to be instituted against one or two for the illegal ejection of ratepayers and in respect to the letter sent to the police – it being noted that the pre-prepared letter giving the reason for calling the police stated that Mr W.J. Davey was the obstructing person when in fact it was Mr Sampson who had been specifically asked to move.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

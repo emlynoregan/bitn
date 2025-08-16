@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 27 Sept. Augustus Tiver, eldest son of Charles Tiver to Mary Ann, eldest daughter of Mr Edward Prior, both of Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

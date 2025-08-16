@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Terowie Train: on Saturday the passenger train from Terowie was an hour late due to the engine derailing itself twice at Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

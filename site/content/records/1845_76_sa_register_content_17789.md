@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Rev. Stanton will give a miscellaneous reading on Thursday night in aid of fencing the Grammar School playground.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

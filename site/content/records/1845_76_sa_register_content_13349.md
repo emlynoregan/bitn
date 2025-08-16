@@ -63,4 +63,4 @@ Though the cause of death of Pryor and Johns was commonly called suffocation, it
 
 The jury found death was due to the effects of a fire in the Burra Mine, which originated from some unknown cause.  They also praised the men who risked their lives endeavouring to save their fellow-miners and in extinguishing the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

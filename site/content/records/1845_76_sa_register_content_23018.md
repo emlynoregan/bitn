@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Mine.  Workings have been resumed on a small scale from the beginning of November.  This is but a prelude to the more enlarged and important operations to be carried out under the supervision of Mr Swansborough.  Some of the new machinery arrived on the Orient and the rest is expected shortly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 At the Burra Mine a very promising lode has been discovered at the 70 fathom level and running southward under the hill opposite the Burra Hotel.  I hope this turns out better than the last two or three ‘valuable discoveries’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  The Gawler Times correspondent reports things now very quiet in the filed.  Not more than 30 persons are now present.  There is a Government party prospecting in the neighbourhood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

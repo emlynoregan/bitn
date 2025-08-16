@@ -30,4 +30,4 @@ Cr Hardy asked if ‘that wood’ had yet been returned.
 
 Mr Lapidge, the engineer, said it had not, but that Mr Nankivell would throw it off at Cr Harris’s when he brought the first load in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

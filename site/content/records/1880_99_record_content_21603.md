@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bank of Australasia.  The Aberdeen branch is to be closed at the end of this month.  The branch has been open for a number of years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

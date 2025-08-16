@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 IOR Rose of Sharon Tent annual festival on 25 March in the Institute drew about 200 people.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Thomas Kitchen, former secretary of Albert District of the Order of Rechabites has been charged with embezzling £20 from the same and the case has been adjourned with bail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

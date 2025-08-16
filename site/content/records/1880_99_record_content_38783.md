@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Season.  Shearing is almost finished after the delays due to wet weather.  The hay harvest was most prolific and wheat yields promise to be high [subject to locust damage in places].
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

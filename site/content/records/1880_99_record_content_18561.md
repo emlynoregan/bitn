@@ -48,4 +48,4 @@ A larger pump may be needed and there is no objection to one being made now if t
 
 ‘. . .the opinion expressed as to the relative economy of large and small engines are of such an extraordinary nature and so diametrically opposed to the results of experience as to occasion me the most serious misgivings in the propriety of placing the control of the works in the hands of the present Council.’ (R.L. Mestayer)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

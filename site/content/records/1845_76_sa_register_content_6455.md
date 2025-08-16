@@ -90,4 +90,4 @@ Mr Fitzgerald obtained a summons under the Masters & Servants Act to recover £1
 
 Mr Harry Horten gave information of a robbery which had been committed at his lodging last Friday and stated that a box, a case, and a writing desk were discovered yesterday on the hill behind his lodging.  The contents were missing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

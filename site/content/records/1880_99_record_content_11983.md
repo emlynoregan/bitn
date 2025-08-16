@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  James Flaherty died on Saturday at Burra Hospital after falling from a wagon at Petersburg two weeks ago and sustaining a fractured skull.  [Died 5 January, aged 38.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

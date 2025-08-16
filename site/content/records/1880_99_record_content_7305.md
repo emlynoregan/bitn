@@ -25,4 +25,4 @@ Editorial on the Debate on the Land Bill.
 
 To allow those who bid up the price of land extravagantly in order to keep others out, now to surrender and reselect without penalty is ‘to offer a premium to recklessness and greed.’  The only concessions that should be offered is remission of interest for those whose crops have failed - say less than 4 bushels per acre.  A solution might be that whatever the price it be paid in 20 equal instalments without interest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Editorial on Federation.  The writer is very much for the proposal, believing that in unity is strength, but of course urging that care be taken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

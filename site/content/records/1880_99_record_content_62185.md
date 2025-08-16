@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mounted Rifle Companies.  A special train arrived with members of various Mounted companies in the North.  28 Spalding defenders joined them for the trip to Adelaide.  The Burra Co., being defunct, of course was not represented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

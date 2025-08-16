@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A.H. Jennings, who has been operator at the Kooringa Post Office for 12 years, is about to transfer to Adelaide GPO.  He has been connected with the Burra Institute, is Minister’s Warden at the church and was interested in chess and cricket.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

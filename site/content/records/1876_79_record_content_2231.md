@@ -32,4 +32,4 @@ Eastern Road: Midland Road board received a direction from Commissioner of Publi
 
 The board decided not to respond immediately, but to seek further legal advice as the instruction seemed based on a technicality. They were inclined to stick to their position - after all why have a Board if the minister could issue orders overturning the decisions based on actual inspection and on the spot surveys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

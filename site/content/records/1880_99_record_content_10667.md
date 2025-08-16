@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Stranger’ writes wondering whether the two persons seen the last two or three nights at midnight at the corner of the right-of-way by Park’s shop are interested in local poultry (which has gone missing of late) or are interested in activity at a local hotel - perhaps the police can answer?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

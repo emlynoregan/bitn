@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Marble Flux.  The railways will carry marble flux to Cockburn for 12/6 a ton, removing the obstacle to quarrying it in Burra and employing about 40 men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra D.C. £250 from Crown Lands has passed to Council’s credit for the Nankivell’s Gully Rd and £200 placed in the estimates to be paid on the road’s completion. Mr Sanders, pound-keeper, [Copperhouse] applied for an increase in sustenance rates. Not entertained at present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

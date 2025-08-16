@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Our Own, (the paper for the Burra School) has been received from Mr Wittber.  It recalls the laying of the school’s foundation stone and gives hints on homework etc. of value to the children.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

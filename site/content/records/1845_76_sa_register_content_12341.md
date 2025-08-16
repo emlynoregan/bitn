@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Registered electors for the District of the Burra and Clare:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

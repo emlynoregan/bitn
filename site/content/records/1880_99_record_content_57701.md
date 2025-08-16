@@ -30,4 +30,4 @@ Now			29/2	54/2	91/8	116/8	141/8
 
 Approx % reduction	22	19	15	12	10
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

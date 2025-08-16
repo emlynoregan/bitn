@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 W.R. Ridgway appealed in court at Redruth against the Corporation Assessment of the Burra Burra Mine which was assessed at £573/15/-; a decrease from £600 under the District Council. Judgement upheld his objection to some degree and set the value at £650.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

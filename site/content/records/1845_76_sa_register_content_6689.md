@@ -30,4 +30,4 @@ The Moral Responsibility of Employers.  [Editorial]
 
 [After a discussion of the relationships and tensions between employer and worker in the UK, the convict colonies and SA, the editor moves on to the moral obligations of the employer to provide for employees.  This leads to another plea for the Directors of the SA Mining Association for the ‘erection of suitable habitations for those men be whose exertions huge profits have been realized’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

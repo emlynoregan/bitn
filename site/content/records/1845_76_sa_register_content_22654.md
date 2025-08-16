@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 [He suggests that the paper has been refusing to print letters opposed to the scheme, while printing supporting correspondence.  He takes the view that bushmen generally are opposed on the grounds that it singles them out as a class needing support and protection and is supported by squatters for purposes of their own.  The Chairman and secretary, he says, are deeply unpopular among bushmen.  The whole idea is patronising and demeaning.  It would also provide unwarranted competition with the private enterprise of respectable shopkeepers and innkeepers.  The editor denies any bias and says he is willing to publish arguments against the concept when they are temperately expressed.  Other letters received have been very intemperate and dealt only in assertion and insinuation rather than reasoned argument.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Copperhouse Primitive Methodist Anniversary was celebrated on 2 & 3 January.  The congregation was large and profitable and with the tea meeting enabled the debt to be reduced by £20.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

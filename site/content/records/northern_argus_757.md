@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra National Trust Branch held a working bee at Morphett’s Enginehouse last Sunday – preparing the site for work to commence on the Jubilee 150 restoration project there.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

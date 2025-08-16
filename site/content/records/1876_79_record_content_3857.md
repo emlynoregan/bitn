@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra School. The model school at Burra announces positions for pupil teachers. Applications to E. Lipsett, Chairman of the Board of Advice. 28 March 1878.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. Thomas Cook’s mission at the Kooringa Wesleyan Church takes place next Sunday.  He is one of the church’s most successful missionary preachers ever and has been heard in Great Britain, Ireland and South Africa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

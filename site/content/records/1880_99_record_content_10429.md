@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra YMCA lecture by Rev. S. Knight on Richard Heales, day labourer and Chief Secretary of Victoria.  Kooringa Wesleyan Schoolroom, 31 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

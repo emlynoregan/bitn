@@ -95,4 +95,4 @@ The problem of relief for the poor in Burra was then addressed
 
 Cr Harris suggested that each councillor undertake to give or collect £10 to help urgent cases of need in the town.  An advertisement to be placed in the Record asking those in urgent need to apply to the Town Clerk.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

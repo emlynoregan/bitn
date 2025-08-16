@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  This criticised the Corporation balance sheet, which was published in the previous issue, in that it lacked much of the detail previously provided.  Accounting procedures had changed and some items normally charged to the next year were included in 1884, which made comparisons with previous years difficult.  In a number of cases 15 months expenditure had been charged in one year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

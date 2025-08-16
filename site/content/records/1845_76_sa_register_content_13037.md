@@ -34,4 +34,4 @@ Redruth Bridge.  [It appears that on receiving tenders so much in excess of the 
 
 The Commissioner found he did not feel justified in accepting either of the tenders so much in excess of the voted provision for the structure.  He would, however, lay the plans before Parliament when next assembled and would propose a further grant sufficient to construct the bridge, which he judged exceedingly appropriate for the intended site.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

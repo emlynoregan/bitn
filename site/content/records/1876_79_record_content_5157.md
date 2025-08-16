@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Selectors. The Commissioner has replied to the Baldina selectors who petitioned for extra time to pay their next instalment. Each application will be assessed on its merits and will be considered on the basis of crop failure, extent of land sown and produce obtained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

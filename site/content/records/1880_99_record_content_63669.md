@@ -30,4 +30,4 @@ The Poisoner is about again.  Poison has been laid around town and people have l
 
 One victim was Harry Vivian’s fox terrier Doolan, a much loved animal and well known to patrons of Mr Vivian’s Commercial Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

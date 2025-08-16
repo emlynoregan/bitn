@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Next Monday evening at the Institute Mr E.L. Grundy will deliver a lecture on Duties of the Present Age and of Posterity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

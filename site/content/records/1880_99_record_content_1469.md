@@ -29,4 +29,4 @@ The team took a train to Tarlee and then went by trap to Kapunda, which they rea
 
 Kapunda 3.23 defeated Burra 0.0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

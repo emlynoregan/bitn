@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Foresters’ Demonstration & Annual Pic-Nic was held about ½ mile north of the station on 28 December.  The morning was warm and it looked like a disagreeable day was to follow.  The crowd must have been over 1,000 and the gate was over £18.  The running track was good, but the cycle track was cramped.  The hop, step and jump was a gift for A. Lott and the forced handicap over 150 yards was a present for H. Dawson.  Other events were well contested.  H. Lewis won the Sheffield Handicap and the £10, while W.S. Smith carried off the 1st prize in the bicycle race (£4).  This race over 3 miles had eleven starters, which were too many for the cramped track, and a number of falls resulted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

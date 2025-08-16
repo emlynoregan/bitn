@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Bushrangers. In NSW the Hay gang have been caught, but in Victoria the Kelly gang remains at large.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

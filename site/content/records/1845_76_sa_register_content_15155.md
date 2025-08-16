@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The arrangements for the amalgamation of the Telegraph and Post Office are at last completed.  The Post Office moved this afternoon and today’s mail was delivered to the new location.  It is strange that the move was not made earlier because the office has been ready for almost a month past.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

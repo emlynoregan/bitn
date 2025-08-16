@@ -46,4 +46,4 @@ I have protested personally to the Premier and to the State Ombudsman with no ta
 
 ‘The net result of such protests is not a genuine attempt to find a satisfactory home for the Copper Centre, but to cease negotiations with Burra Council and to re-allocate the grant altogether.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

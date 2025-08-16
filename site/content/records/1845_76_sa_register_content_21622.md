@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Much discussion locally concerns the possible location of the station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Batchelor has moved from the old shop to that previously occupied by Mr Walker. [See also advt. page 1.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

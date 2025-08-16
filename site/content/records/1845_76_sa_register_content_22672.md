@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 Vandalism.  For some time the owners of unoccupied buildings at Kooringa have been annoyed by having windows broken by unidentified youths.  No sooner do occupiers leave than the windows are smashed.  Mr John Viant of Paxton Square saw a boy throw stones at the windows of the adjoining cottage and, recognising them, reported them to Mr Challoner JP, the Mine Accountant.  He prosecuted William Stephens aged 11 who was sentenced to one month’s imprisonment with hard labour at Redruth Gaol.  Mr Challoner said damage worth thousands of pounds had been done to the company’s property at Kooringa.  A reward of £5 had been offered, but had not been successful and police had also failed.  Mr Viant was offered £5, but rejected it.  The damage is not confined to vacant houses.  On the 13th windows in the [Anglican] church, the Wesleyan Chapel and the Bible Christian Schoolroom were all broken – as many as eight panes in the one building.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

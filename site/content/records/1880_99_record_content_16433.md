@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cr Symons objected to anything being done that would not be done by private individuals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

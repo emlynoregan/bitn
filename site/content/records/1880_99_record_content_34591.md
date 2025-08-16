@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Storm.  Last Thursday there was a violent electrical storm for some 10 to 15 minutes.  The only damage occurred when lightning struck the Kooringa Post Office in several places, cracking several chimneys and almost destroying one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

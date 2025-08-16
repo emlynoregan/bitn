@@ -34,4 +34,4 @@ Letter from James Cullen in response to Thomas Watkins, to debunk the latter’s
 Watkins actually admits the assault in his own letter - in denying he took stones out of the boy’s hands and then saying he knocked the stones from his hands and pushed him backwards.  Had he lived thirty years where he is without a blemish on his character as he [Watkins] asserts, there would be none of this.  ‘I will leave that to all who know him.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

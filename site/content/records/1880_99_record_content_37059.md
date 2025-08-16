@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Arbor Day.  A meeting was held of the Town Council, Bureau of Agriculture, Government School teachers and some of the private school teachers in the council Chamber last evening to decide how Arbor Day was to be handled.  Because 1 August is a sale day it was resolved to move Arbor Day to the last week in July.  A committee was established to arrange a program and another to prepare a treat for the children.  Meeting then adjourned till Tuesday fortnight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

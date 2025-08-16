@@ -25,4 +25,4 @@ The New By-Law
 
 The wording of the recent memorial to Council on the subject of the new by-law is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ Election of Resident Director for Burra Burra Mines
 Yesterday being the day for the election of a General Superintendent for the Burra Burra Mines due to the resignation of S. Stocks [Jnr] much curiosity prevailed as to the outcome.  There were more than 20 candidates.  No official announcement has been made, but it has been intimated to us that Mr Chipman, a passenger on the Royal Archer was elected to the office of Superintendent at £350 and Mr Roach, recently arrived from Cornwall, has been engaged to control underground operations at £225.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ Burra Town Council, 10 August
 
 Sir H. Ayers writes that a road from Paxton Square to Redruth via the Smelting Works will be granted to the town as soon as they are prepared to fence it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

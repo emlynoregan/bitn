@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 ‘Pro Bono Publico’ writes to the editor also on the Kooringa Post Office question:
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

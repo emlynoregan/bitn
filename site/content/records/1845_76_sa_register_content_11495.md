@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Advertisement.  Black Springs: A Blacksmith’s and Wheelwright’s Shop and a two-roomed cottage is to let in the Township of Emuville on the main road to the Burra.  Good water.  Really reasonable.  Apply to J. Stanway, proprietor or to J. & E. Tapley, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

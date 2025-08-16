@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The German Choral Society gave a concert in the large room at the Burra Hotel on Monday last, to which they invited the principal residents.  A strong following attended. They were assisted by Messrs Chapman & Ware, who sang a duet, and by Messrs Siekemann & Chapman who sang several songs.  A ball followed the concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

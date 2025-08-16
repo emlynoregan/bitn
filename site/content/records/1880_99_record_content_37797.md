@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Sport.  Out-of-town reports cover football in Adelaide, the Melbourne Cup, and the arrival in Sydney of the boxer Peter Jackson who was met by a crowd of about 4,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

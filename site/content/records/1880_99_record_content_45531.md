@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather.  0.33” fell on Friday and a gale set in on Monday and from 6 p.m. until 9 a.m. Tuesday a further 0.63” fell, but the eastern country remains dry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

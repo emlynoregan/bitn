@@ -35,4 +35,4 @@ The IOR Rose of Sharon Tent held its annual festival in the Bible Christian Scho
 
 The IOGT brass band gave spirited selections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Boys class (under 16), 51- entrance with 1st prize £3, 2nd £2 with a 3rd prize of £1 if 4 or more enter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

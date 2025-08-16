@@ -30,4 +30,4 @@ publication_slug: sa-register
 Now that the town is beginning to flourish again it is time to think of augmenting the police here to protect life and property.  At present there are but four mounted police to serve a population of about 2,000.  I believe we need another four foot-police, not only to protect property, but to control furious riding, which is common and endangers lives.  Controlling the straying pigs, goats etc. is also required.  The mounted men seem very active, but insufficient for the demands of the place.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

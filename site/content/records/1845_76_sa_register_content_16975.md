@@ -33,4 +33,4 @@ Kooringa News, 9 December
 
 H.E. the Governor arrived in Kooringa on Tuesday 8 December accompanied by the Hon. H. Ayers, Mr A. Blyth MP, Mr J. Beck and others.  They were enthusiastically received along the road by a large procession of gentlemen on horseback and in vehicles.  On reaching the Burra Hotel Mr Ayers apologises for the Governor not addressing the townspeople that day and appointed the next day at 4 p.m. in Market Square for the purpose.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  As originally provided for they are almost complete and water should be flowing in about one week.  All applicants at Kooringa have been connected and service laying begins in Aberdeen on Saturday or Monday.  Extensions in Kangaroo, Queen and Chapel Streets are progressing with connections expected in about a fortnight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

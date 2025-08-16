@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. Burra Institute 31 October. The Musically Illustrated Service ‘Eva’, by the Kooringa Primitive Methodist Church Choir and a few friends, on behalf of the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

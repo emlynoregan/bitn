@@ -30,4 +30,4 @@ The Burra Burra Mine
 
 A model of the Mine is on show at Kooringa.  It is acknowledged to be one of the most complete yet accomplished and was built by Henry Geyer, a German miner.  The surface and underground workings are shown and the miners and Captains engaged in their activities.  The engine is at work and the horses doing their duty at the whims.  After this week we believe it is Geyer’s intention to take the model to Adelaide, exhibiting it at the towns along the way at a charge of 1/- each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the depression and how bad times can turn people to try new and potentially productive ventures, such as new ways to make money in mineral searches etc.  But last year’s Mining Act allows land to be held by speculators without development so new fields may be kept idle or not proved.  New provisions are needed under the act to see that claims remain active, or are surrendered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

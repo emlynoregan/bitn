@@ -25,4 +25,4 @@ Editorial on the great gambling craze that has attached itself to the sculling c
 
 ‘evidence that betting and gambling are very largely on the increase, and is, we grieve to say, abundant, disastrous and almost universal.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

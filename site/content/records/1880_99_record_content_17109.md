@@ -33,4 +33,4 @@ Public tea meeting and sale of gifts on Good Friday.
 Advt.  Public Religious meeting on The Second Coming of Christ, in the store next to the Wesleyan Church, Redruth on Good Friday at 7.30 p.m.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

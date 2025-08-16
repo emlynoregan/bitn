@@ -87,4 +87,4 @@ They had stopped the town undertaking public works in 1876 of £123-19-1 and in 
 ‘Dr Nesbitt had said he did not say so but he did. Then he had tried to soft soap them by telling them they were all respectable but they would not swallow all he said they new [sic] that if he were not in his present position he would pass them like dirt in the street.’ (He then attacked the Nesbitt claim that all thought and acted as Lane — i.e. that Bath = Lane & Lipsett = Lane.) Nesbitt, he said, was brought there by a party.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

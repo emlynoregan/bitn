@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Smallpox.  A notice urges the immediate vaccination of all children not yet done, due to an outbreak of the disease in NSW and Victoria.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

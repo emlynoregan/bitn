@@ -28,4 +28,4 @@ Editorial on ‘Our Goldfields’
 
 The report of the Warden Mr Perterswald confirms that there is no evidence that SA gold mining has progressed beyond small things.  Nothing more can be expected till men of means are prepared to invest in development works.  [The article then goes on to give an account of various discoveries in the colony and the Northern Territory.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

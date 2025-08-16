@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Methodist’ from Aberdeen also wrote to complain that the Salvation Army had paraded through Aberdeen and Redruth and disturbed the Sabbath School and again in the evening when it disturbed the Redruth Wesleyan Church Service.  They also marched past the Primitive Methodist Church during anniversary services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

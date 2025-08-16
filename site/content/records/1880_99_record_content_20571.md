@@ -38,4 +38,4 @@ P.L. Killicoat advises he has seen people drinking from the cemetery well.
 
 Cr Ridgway moved that the attention of the Hydraulic Engineer be drawn to the agreement that interest be not charged till the work is complete.  No certificate of completion has been issued and the engine is not fixed and the engine house not built.  A year’s interest was payable before the work began, but was to date from completion.  The whole of that deposit has not been paid: about £95 of the £112, he thought.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

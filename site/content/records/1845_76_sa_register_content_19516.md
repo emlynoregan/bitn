@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 At Redruth Court today a man named Hockey was fined for assaulting Mrs Veal.  He impudently said he would not pay and when told he must, he behaved in a most unbecoming manner and was removed by Corporal Shaw and two assistants.  His wife then assaulted the complainant’s husband in open court and tried to rescue her husband from custody.  Hockey was then imprisoned for seven days and his wife reprimanded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

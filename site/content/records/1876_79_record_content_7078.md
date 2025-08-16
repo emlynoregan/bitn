@@ -34,4 +34,4 @@ Mr Woollacott declined to sign the contract for the Redruth Bridge and sought th
 
 Captain Killicoat reported that the culvert opposite the Roman Catholic school had diverted water and endangered the foundations. He advised a wall be constructed 20' long on condition the Corporation take it over when built. In Market Square he recommended 6 chains of road be made nearer the frontages. The surveyor is to inspect, prepare plans and present estimates by the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

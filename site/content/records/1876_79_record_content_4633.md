@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. Razorback Wesleyan Church. A lecture will be given by the Rev. R.W. Campbell on Monday 2 Sept. at 7.00 pm on Peter Cartwright, the backwoods preacher. Collection to the trust fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

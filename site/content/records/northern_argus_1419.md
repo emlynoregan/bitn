@@ -31,4 +31,4 @@ publication_slug: northern-argus
 
 Australia Post recently surveyed letter box use in SA and found that Burra’s three Victorian era letter boxes were not used enough to justify their retention.  The National Trust and Burra Preservation Society objected to their removal and as a result Australia Post has agreed to let them remain.  Only the Burra North box will remain operational.  The boxes near the Burra Hospital and the Kooringa Hotel will be closed.  Remarkably few post boxes from the Victorian era remain in SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

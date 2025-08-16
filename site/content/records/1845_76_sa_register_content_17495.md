@@ -37,4 +37,4 @@ On Monday he was found dead in his hut at Baldina and seemed to have been dead a
 
 [William Smith died 8 May 1864 at Baldina aged 46.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Australasian National League social on Friday was successfully held at the Institute.  W.G. Hawkes presided.  There were musical and singing items among addresses by B.A. Molden, and the Hon. W.B. Rounsevell. The evening concluded with a dance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

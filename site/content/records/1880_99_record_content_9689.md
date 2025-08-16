@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Foresters’ entertainment in the Institute on 26 March was a great success, after which dancing continued till about 3.00 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

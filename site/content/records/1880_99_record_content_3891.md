@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘A Ratepayer of Kangaroo St’. We asked bread and got stone - we wanted £17, if that was all there was to spare towards the bridge, but the Corporation has decided to spend it on ‘what those most interested declare to be utterly useless.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

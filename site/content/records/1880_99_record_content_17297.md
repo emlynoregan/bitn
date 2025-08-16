@@ -32,4 +32,4 @@ District Plate 2 miles	£8	Hacks 1 mile		£6
 
 Hurry Skurry 1 mile
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

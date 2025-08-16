@@ -36,4 +36,4 @@ He is pleased to note the direct representation of commercial interests and in g
 
 Internationally things are uncertain.  German diplomacy is tortuous in its ways and a general European War could yet come to pass over South Africa.  The USA is estranged from England – largely over the silver question.  The demonetisation of silver and the resulting low prices for it have caused bitter feelings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

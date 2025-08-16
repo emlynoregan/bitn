@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Fire.  Five men were fined from £2 to £3 each for leaving a camp fire alight at Mt Bryan.  The magistrate hoped this might deter teamsters from leaving fires alight after camping: Thomas Miller, W.H. Vivian, Robert Pickford, James Pickford and Robert Cock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

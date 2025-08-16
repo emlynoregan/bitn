@@ -50,4 +50,4 @@ On the Queen’s Birthday holiday there were races at Mt Bryan Hotel, but few pe
 
 The Princess Royal Mine still looks well and if some capital can be obtained to crush ore many think it will prove a splendid mine.  There are large piles of ore at grass.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

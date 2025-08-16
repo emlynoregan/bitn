@@ -32,4 +32,4 @@ The Surveyor-General Sir Thomas Mitchell is visiting the diggings.  A post offic
 
 At a recent date there were about 2,000 persons at Ophir, with the crowd increasing daily.  Generally, co-operative parties of six or seven, properly equipped, and victualled for two or three months are doing best.  It seems that gold worth £20,000 has been declared won so far, but how much is being kept secret is unknown.  A party of three or four gentlemen from Sydney purchased £900 worth from a few diggers.  Of their purchase, one specimen exhibited in a Sydney jeweller’s window weighed 46½ ounces.  Although the gold district extends for over 300 square miles, the immediate locality where it is being extracted in remunerative quantities is very limited in extent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

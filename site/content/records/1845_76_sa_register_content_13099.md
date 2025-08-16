@@ -29,4 +29,4 @@ Kooringa News, 28 February
 
 A well attended meeting was held at the Burra Hotel on 27 February to form a volunteer corps in the district.  Mr Macdonald SM presided.  Dr Mayne proposed the formation of a corps.  Mr W. Peirce [sic: Pearce?] supported it and then moved an adjournment to next Thursday.  Mr Fellowes expressed surprise at the apathy displayed.  The names of those willing to enrol were taken down.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ Thomas Tapley Jnr.  A further attempt was made to get the licence on behalf of b
 
 William Templar’s case was considered.  Evidence was tendered as to the incivilities referred to.  They had occurred when Templar had refused to give hay to horses of Dr Kent and Mr James Philcox in front of his house.  The defence was that with up to 30 people camped around the premises, each with a fire; it was a threat to the premises to spread hay around.  He had offered to supply hay or corn in the stable instead.  The Bench said this was only one of a number of severe complaints and, as a caution to Mr Templar, they would now refuse renewal of the licence, with leave to apply next quarter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

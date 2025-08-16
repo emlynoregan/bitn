@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Manoora district reports that there are prospects for an excellent season with good rains and the wheat progressing strongly.  There is a great deal of sickness about in the form of whooping cough and some diphtheria along with many severe colds.  Only a few cases have proved fatal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

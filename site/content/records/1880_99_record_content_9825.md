@@ -30,4 +30,4 @@ Editorial.  There has been no reply from the commissioner re the transfer of Con
 
 ‘Unfortunately it seems that the security of a police constable’s position depends not upon the fearlessness with which he does his duty and the satisfaction he gives the law-abiding portion of the community or authorities, but upon the persistence with which by keeping his eyes closed to unpleasant facts he escapes getting into hot water with those over whom he is supposed to watch or getting them into trouble.’  The Inspector of Police to whom the Commissioner referred the matter ‘does not avoid all the appearance of evil . . . for his best and most intimate friends are those who know before hand of his visits, and take him to and from the train &c., [and they] are the publicans.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

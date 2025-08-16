@@ -29,4 +29,4 @@ Crops are generally looking well and in general a bountiful harvest is anticipat
 
 It was a great oversight that the Government sold the section near Springfield with a good ford.  Now teams have to go the back road, which is in a dangerous state.  It will cost the Government £200 or more.  Traffic is large and still increasing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

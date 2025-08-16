@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Distressed Farmers’ Fund.  The fund is being well supported.  The continuing dry weather makes for a very bad outlook.  Everyone is concerned to know the intention of the Government in this matter.  Several local citizens have donated substantial funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

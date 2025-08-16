@@ -30,4 +30,4 @@ Burra Institute Committee Meeting, 8 May.  The Chrysanthemum Show raised £7-16-
 
 Messrs Rayner and Goss waited on the committee in reference to the establishment of a branch reading room at Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mr West the teacher at Redruth gave his pupils a half holiday on Tuesday.  After a run on the hills they had tea and Mr Godson gave them a suitable address.  The school now has 120 children.  Mr West deserves his success from the pains he takes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Northern & Midland Public Schools Floral & Industrial Exhibition was held at Jamestown last Friday & Saturday.  This annual event was a great success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

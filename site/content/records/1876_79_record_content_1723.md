@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Just as work was about to start the committee learned that the lease of the Burra Hotel was available to them on advantageous terms. The committee decided that if freehold could be got and the contractor would agree to forego the contract they would prefer the Burra Hotel site.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

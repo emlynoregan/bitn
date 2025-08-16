@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  The Blue Ribbon Army and Gospel Temperance Union will meet at the Primitive Methodist Church, Redruth, 10 July, and at the Institute 11 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

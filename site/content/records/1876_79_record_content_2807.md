@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Statton and Henderson offered to transfer the land needed for the approach to the Kingston St Bridge for nothing if the Corp. would fill the 100 feet of land to be given in exchange, to the height of their existing premises and build a retaining wall. The Corp. agreed to this offer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

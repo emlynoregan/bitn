@@ -40,4 +40,4 @@ Obituary.  The wife of our esteemed Clerk of the Court Mr A.H. Forder has died a
 
 [Born Asenath Jayne Mayne 1836, Cambourne, Cornwall: died 11 January 1865, Redruth, SA.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

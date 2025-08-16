@@ -36,4 +36,4 @@ Various minor matters relating to trees were discussed and work done was reporte
 
 Mt Bryan School was inspected and judged very successful under Mr Uhrlaub with 83.96% and 5 Compulsory Certificates were awarded.  The Fife & Drum Band will compete at the Gladstone Show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

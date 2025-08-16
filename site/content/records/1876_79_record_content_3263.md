@@ -34,4 +34,4 @@ publication_slug: record-1876-79
 
 A Banquet at the Commercial Hotel on Tuesday evening was presided over by the mayor, E. Lipsett. It honoured Mr. P. Lane, retiring mayor and Dr. Cave, who is moving to Jamestown to another practice. The mayor was supported by T. Warnes, Thomas Bath, P. Lane, Dr Cave, and Capt. Sanders. 30 gentlemen sat down to a `capital spread'. Capt. Sanders gave the address to Dr Cave and presented him with an inkstand. The Town Clerk, C. Lowe gave the address to P. Lane, but the presentation of a 4 piece tea and coffee service, suitably engraved, had to be deferred to Wed. evening at the Commercial Hotel. There were songs and recitations as well as the usual toast and speeches. Mr Grant for example recited 'The Charge of the Light Brigade'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

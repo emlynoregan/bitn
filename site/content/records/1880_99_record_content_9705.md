@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Easter Monday Burra played the Northern Areas Assoc. at Burra.  Northern Areas 94 and 78, Burra 69 and 36 for 3 wickets.  This, in contrast to the preceding was called a draw.  [It was usually agreed before the game that if four innings were not completed the game would be decided on the first innings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

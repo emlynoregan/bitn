@@ -87,4 +87,4 @@ The Bands of Hope demonstration and picnic passed off very well and the sports a
 
 The Races last Monday in Mr Duff’s paddock at Copperhouse were successful despite the short notice.  [Results printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

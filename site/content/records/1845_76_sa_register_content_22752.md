@@ -55,4 +55,4 @@ The Northern Extension Railway had been only twelve months in hand at the date o
 Dr Berncastle.  [Another item deals with this much publicised practitioner who claimed to be an eminent oculist and aurist.  The paper says it is yet to find a single well verified case in which he effected a cure, but reports on some very bad outcomes.  The Doctor had eventually fled back to Victoria.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Redruth News, 24 February
 
 Mr Aaron Coles arrived in Redruth on 20 February and was cordially greeted and congratulated on his honourable acquittal of the charge recently brought against him. On the day of the trial a considerable crowd gathered around his house and waited for the delivery of the telegram to Mrs A. Cole, bearing the news of the outcome.  Mrs Cole immediately announced the news to hearty and enthusiastic sheers and people continued to crowd around the house till 10 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

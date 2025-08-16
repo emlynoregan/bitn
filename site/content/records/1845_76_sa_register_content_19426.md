@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 One of the workers on this road last Sunday sought to obtain two bottles of rum on credit from the Sod Hut Inn.  When he was refused he took them anyway and has now been charged with theft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

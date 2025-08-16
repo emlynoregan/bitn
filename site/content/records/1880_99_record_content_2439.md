@@ -41,4 +41,4 @@ W.L.H. Bruse 5/- for a stray cow
 
 G. Ford 5/- for stray swine
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

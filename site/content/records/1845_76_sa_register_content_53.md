@@ -31,4 +31,4 @@ Adelaide was in some excitement when it was discovered that Messrs Phillipson & 
 
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

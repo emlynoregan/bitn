@@ -40,4 +40,4 @@ Miss E. Palmerston gave an entertainment at the [Burra] hotel on 22 August to a 
 
 Police are on the track of parties involved in several cases of cattle stealing in the neighbourhood lately.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

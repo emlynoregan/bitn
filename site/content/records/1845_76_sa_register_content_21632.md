@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Bushfires continue to be prevalent.  On Monday one broke out at Princess Royal Station about a mile north of the head station and about 800 acres of feed was destroyed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

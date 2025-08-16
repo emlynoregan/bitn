@@ -39,4 +39,4 @@ The Burra Directors have visited the mine and as a result one of the engines has
 
 For pastoralists the lambing is far advanced, but as yet we have had no rain and the scarcity of feed is becoming a matter of serious concern.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -45,4 +45,4 @@ Morphett’s Enginehouse restoration has been described as unique in the Souther
 
 Visitors will be able to visit the three restored floors of the Enginehouse and view the mine pool and Morphett’s Shaft from the balconies on the second floor.  The Department of Mines and Energy is providing funding to allow the timbering of the top 40 feet or so of the shaft and the eventual re-opening of the miners’ adit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

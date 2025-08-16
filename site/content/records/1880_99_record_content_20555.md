@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Fred Barnes of Suffolk, England, died on 6 December in the Burra hospital, aged 55.  A colonist of 37 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

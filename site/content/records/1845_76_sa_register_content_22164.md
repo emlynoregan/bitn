@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 John Kennedy writes to complain of the charges made for station stores in the outback.  The men are compelled to take what is offered and to pay the price.  There is no option.  All sorts of obstacle are placed in the way of hawkers to prevent them from selling.  There is no check on dishonesty. Light weights can be used.  The Government ought to interfere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ From the Police Commissioner’s Quarterly Report
 
 Kooringa.  Nothing has yet been done towards the erection of a new police station, nor does it seem likely that the present gaol at Redruth can be made available for the Police for a long time to come.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

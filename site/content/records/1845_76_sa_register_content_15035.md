@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Various mischievous pranks have been played lately to the annoyance of many.  Mr Splane’s ‘golden boot’ was torn from the front of his shop and cast into the yard behind the Police Station.  A spring dray of Mr J. Parks was wheeled into the creek, besides a number of other pranks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

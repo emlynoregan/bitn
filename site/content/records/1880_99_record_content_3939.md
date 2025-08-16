@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Observer’ complaining about the desecration of the Sabbath when a fruiterer erected a booth on Sunday in preparation for Monday’s sports.  Several young men then took down the tent and scattered the poles, stakes etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

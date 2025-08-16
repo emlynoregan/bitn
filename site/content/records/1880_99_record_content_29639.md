@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Captain W. Fox presided.  W.E. Frith five games played last season of which 3 were won and 2 were lost.  Jos. Blott had the highest batting average of 28 run from three innings and also had the highest score with 51 not out.  J.D. Cave advanced the sum of £10 for the pitch of which £5 had been repaid.  P.L. Killicoat supplied the matting.  F.W. Holder was re-elected Patron and P.L. Killicoat was re-elected President.  Captain will be Mr Fox.  The next season will open on 1st week of September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

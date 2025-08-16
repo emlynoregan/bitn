@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The Mayor reported that the final cost of Jubilee Avenue, which was about double the original length that was proposed, would be £177-18-2.  This leaves about £50 to be raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

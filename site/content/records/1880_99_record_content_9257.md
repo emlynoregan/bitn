@@ -39,4 +39,4 @@ Dr Brummitt examined the deceased and failed to find any serious injury.  He was
 
 Catherine Cameron - Matron of the Burra Hospital.  Deceased said he had been a shepherd at Hearn & Foot’s station Outalpa for two years.  He had come into Terowie and given Mr Winterbottom £40-11-0 and had lived on that for four weeks.  He gave his age as 52.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

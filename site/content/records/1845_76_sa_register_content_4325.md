@@ -32,4 +32,4 @@ Notice.  A notice in the Government Gazette lists lands for sale under the Sale 
 
 The list is long, but of interest is [Hundred of Kooringa] Section 2067, of 73 acres, north of Burra Special Survey and east of the township of Redruth.   Many sections are offered in the Emu Flats area of the County of Stanley.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

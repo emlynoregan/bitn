@@ -53,4 +53,4 @@ Adelaide-Burra 	1st Class 25/3
 
 3rd Class 12/9
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

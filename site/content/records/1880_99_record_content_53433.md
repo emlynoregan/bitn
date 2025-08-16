@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Fraud.  Recently two respectably dressed men put up at the Commercial Hotel for a week and went about the town posing as piano and organ tuners.  They then departed without paying the bill.  A warning to publicans – they were last seen heading towards Farrell’s Flat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

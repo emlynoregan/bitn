@@ -38,4 +38,4 @@ Sinclair the Wizard and Mr Johnson the violinist performed here last Wednesday e
 
 A man named Jones, who has travelled these roads for the last twelve years, reports that he was robbed by a man near the Cross Roads Inn and a purse containing £4 was taken from him.  The victim’s hand was cut and other violence inflicted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

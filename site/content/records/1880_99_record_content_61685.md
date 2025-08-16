@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Foot Races.  A few nights ago at the Burra Oval W. Lasscock met P. Treloar in a 135 yard sprint.  Lasscock gave Treloar 6 yards.  Walter was never seen by Percy.  A second race was then run in which Percy gave Walter 6 yards and hopped away from him.  Walter has given up running and Percy is thinking of entering the Sydney Cup.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

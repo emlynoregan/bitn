@@ -40,4 +40,4 @@ Miss Marguerite Carole appeared before meagre audiences at the Burra Hotel assem
 
 Members of the Burra United and Golden Age Lodges were addressed by S.D. Hastings at the Primitive Methodist Schoolroom.  Afterwards there was a meeting in the Bible Christian Church where Rev. T. Hillman presided.  S.D. Hastings, Rev. G.W. Patchell, Rev. S. Gray and other Good Templars attended.  The audience was very large.  Mr Hastings lectured on Templarism and the prohibition of the liquor trade.  A choir enlivened the proceedings.  Town tradesmen closed their establishments at 6 o’clock that evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

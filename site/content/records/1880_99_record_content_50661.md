@@ -38,4 +38,4 @@ Mr Henry Taylor’s lecture on Why we are Poor or Why Farming Doesn’t Pay was 
 
 [The report runs for 1⅓ columns.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

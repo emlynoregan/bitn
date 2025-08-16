@@ -41,4 +41,4 @@ As for expressing appreciation of our minister – this is surely understandable
 
 Brummitt says he has long advocated union and rejoices in its imminent consummation.  Those who look for offence in the inevitable difficulties of adjustment will find it even where none was intended.  Rather try to put a favourable construction on our brothers’ acts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

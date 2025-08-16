@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Migration.  There is a substantial flow of people to WA [and its goldfields].  This year to March 10 SA lost 1,535 to WA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

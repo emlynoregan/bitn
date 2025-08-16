@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Broken Hill Correspondent continues to report charges etc. arising from the recent strike and the arrival of the blackleg workers: some 200 from Melbourne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rev. W. Jenkin denies he is the author of the letter to the Australian Star remarked on a fortnight since. We apologise for having thought hardly of him on this count.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

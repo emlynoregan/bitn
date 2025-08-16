@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Tourist Office is looking very spruce with its new paint.  It makes the Rotunda look a little sad.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -36,4 +36,4 @@ On Thursday the foundation stone of the church was laid by the Lord Bishop, assi
 
 Rev. Ibbetson delivered an interesting address on ‘Railways and their Appurtenances’ in the Institute on Friday evening, also in aid of the church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

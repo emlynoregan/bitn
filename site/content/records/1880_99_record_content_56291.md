@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  The good qualities of a Rochester Lamp were demonstrated at Bath & Pearce’s store on Saturday when one fell from the ceiling to the floor and immediately extinguished itself.  An ordinary lamp would have produced serious results.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

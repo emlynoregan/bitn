@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Booborowie.  28 October.  With cool weather after the heat measles have started anew.  A record area has been sown to wheat.  Contamination with wild oats is a problem.  The time when country folk fear fires is approaching ‘as thousands of pounds worth of property may be sacrificed owing to fires caused by the accursed tandstickors.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

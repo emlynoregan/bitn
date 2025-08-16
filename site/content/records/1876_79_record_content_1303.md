@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Parl. Club failed to get a quorum and it was suggested that it may have to go into recess for the summer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

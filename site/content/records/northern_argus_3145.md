@@ -29,4 +29,4 @@ Obituary.  Mrs Gwen Mitchell died at Burra Hospital on 6 October.
 
 [Born Gwenda Muriel Genevyeve Neill 12 November 1909 Croydon SA.  Married John Oliver Mitchell 1932.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 T.H. Woollacott also reported (with a smile) a reception by Mrs Gully ‘. . . not a very gentle one; Mrs Gully rushed at me with a washing pan.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

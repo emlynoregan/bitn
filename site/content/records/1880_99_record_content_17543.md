@@ -26,4 +26,4 @@ Cricket.  Clare 2nd Eleven defeated Aberdeen by an innings and 30 runs.
 
 [But the next issue on 28 April gave the figures as Clare 127 def. Aberdeen 50 & 41 (91)]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

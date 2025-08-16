@@ -26,4 +26,4 @@ Letter to Editor.
 
 A writer complains of children being kept in at school for long periods - sometimes a whole class for the offence of one or two of its members. Of course some punishments are needed, but something else is needed. It is almost impossible to get home and to have dinner if the time is deducted from dinner period and if it is after school it is hard to get home before dark in the short evenings ahead. Many parents, especially those without servants, depend on children to assist after school. The school is very unpopular and I believe this is one of the objections to it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

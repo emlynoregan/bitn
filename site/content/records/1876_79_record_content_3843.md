@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Election Meeting, at the Institute on Monday was chaired by the Mayor, Mr E. Lipsett. Some 300 attended to hear speeches by the candidates for the district, Mr Rees and Mr W.B. Rounsevell. Their speeches are reported in 3 columns of detail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

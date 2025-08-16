@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Edouin Family has been in Kooringa for the last week, playing to middling houses.  Their reputation suggests a better turnout, but perhaps this was affected by Easter sports and the knowledge that Burton’s Circus is coming soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

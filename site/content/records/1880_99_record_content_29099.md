@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Adult’ replies to ‘Common Sense’ that children cannot, as a rule, tell adults anything they do not know.  They should be seen and not heard.  He further complains that Bands of Hope are too frequently places of amusement ‘and not places where the drink curse is cried down’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

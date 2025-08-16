@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Erratic Correspondent’ turns to the Barrier Miner where an article comments on a NSW election, but he soon gets back to his favourite free trade v. protection issue.  He goes on to discuss an unfair strike by shearers at William Killicoat’s over food that was of good standard.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

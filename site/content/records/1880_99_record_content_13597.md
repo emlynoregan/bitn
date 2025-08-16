@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  Public Meeting convened by R. Brummitt, Mayor, in response to a requisition to consider the Silverton Railway question.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

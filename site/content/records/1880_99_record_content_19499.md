@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Letter from another ‘Ratepayer’ who says it is ridiculous to have paid stationmen 7/- a day when there are plenty who can’t get work at 5/- and when the rate recently was 6/6 for other hands and 7/6 daymen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

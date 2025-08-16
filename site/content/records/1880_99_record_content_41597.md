@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 He is in favour of efforts by Messrs Holder & Lake to raise public awareness of the issues and to promote discussion of the same.  And he approves the efforts of the press to make people aware of the nature of other federations like the USA, Switzerland and Canada.  He then outlines the proposals for a Commonwealth as outlined at the recent convention with details of the Parliament and its powers.  He comes out in the end in favour of federation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Some time ago there was gross misconduct near the parsonage at Redruth and the perpetrators have not been brought to justice.  On Thursday last some sleepers were laid across railway line.  On Sunday a ladder was put across the road in Aberdeen and a row of harrows placed across it too.  One recent Sunday morning a row of packing cases were placed across the Redruth Bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

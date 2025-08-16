@@ -32,4 +32,4 @@ Court Cases.  Thomas Richardson [of the Burra Hotel] claimed £9-6-6 from P-C Jo
 
 Mrs Everett claimed support from her father John Calloway of the Pig and Whistle Hotel as she had a child to support and her husband had deserted her four months since.  An order was made for 5/- a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

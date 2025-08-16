@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Town Council. There is likely to be a deficiency for the year of £507. The finance committee recommends a borrowing of £400 and that only essential work be done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

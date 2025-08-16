@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Presbyterians held a tea meeting last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

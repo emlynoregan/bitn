@@ -39,4 +39,4 @@ Rounsevell, William Benjamin, Wine & Spirit Merchant of Glenelg, nominated by 21
 
 Smyth, Thomas Ekin, Physician of Waterloo, nominated by 8 electors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

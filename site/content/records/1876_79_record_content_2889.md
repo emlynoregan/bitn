@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Railways. Burra meeting opposing the new railway tariffs on 18 Sept. 20 present chaired by the Mayor, Mr P. Lane. A deputation to the Commissioner of Public Works on Wed got him to agree to lower the charges for copper ore, wood and building stone, but not on wool or wheat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

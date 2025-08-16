@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Scavenger. Advt. by the Board of Health for a scavenger for Burra. "Rubbish to be removed from every house within the Corporation fortnightly. Commencing 1 May" Tenders to F.W. Holder, Sec., Board of Health.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

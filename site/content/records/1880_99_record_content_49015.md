@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bike Race.  A meeting was held at the Royal Exchange Hotel on Monday to organise the Easter Monday bike races.  G. Parks took the chair.  The main event will now be a 20 mile race for ordinary high machines: 1st £12, 2nd £5, 3rd £2 and 4th £1.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

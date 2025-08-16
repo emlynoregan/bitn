@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Institute annual meeting of subscribers was held on 8 January with Mr Holder in the chair.  There were then 5932 volumes in the library and 92 members with some 40 using the reading room each day.  Receipts for the year were £341-1-9 and expenditure £226-2-2 which allowed the bank debt of £102-6-1 to be paid resulting in a credit balance of £12-13-6 which was the first credit balance ever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

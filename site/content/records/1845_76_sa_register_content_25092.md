@@ -30,4 +30,4 @@ W.C. Sanders writes re labourers’ wages.
 
 [His main point was that a list of labourers’ wages to be sent to England was suggesting that they earned 6/- per day.  This was true only for the peak of the seasonal work.  Most would be glad to get 4/- per day throughout the year.  He also says that 6/- a day does not go so far in SA as it would in the UK.  What is needed in SA is a great influx of god domestic servants.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

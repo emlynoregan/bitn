@@ -36,4 +36,4 @@ Burra High School: Report 23 December 1898.
 
 In 1898 the Principal, Mrs Maclagan, died and the position was taken over by her sister, A.B. Millar. She was assisted by Miss Davidson.  The school remains the same size as in 1897.  In midwinter our top girl, May Sangster, went to Adelaide.  Kathleen Roach is Dux for 1898.  In Class V Vera Wilkinson is first in English, Arithmetic, History, Geography, and French and gets Mrs Brummitt’s prize for best attendance as well as Mrs Winnall’s prize for special progress in Music.  Ivy Topperwein tops Class IV while Merle Dunn as highest junior tops the lower school.  [A complete prize list is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

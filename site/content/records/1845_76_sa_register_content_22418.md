@@ -40,4 +40,4 @@ The cost is from 1d to 2d per sheep.
 
 The quantity of dirt washed from sheep from the Murray Flats, which are very dirty, is from 50 to 60% of the weight.  A bale of unwashed wool weighs about 448 pounds, while a bale of cleansed wool weighs about 200 pounds.  The saving in carriage and freight is obvious.  In addition the clean wool fetched a higher price.  Last year two pounds of greasy wool fetched 16d, but cleaned and reduced to one pound it sold for 21d, a clear gain of 5d and 2d on cartage easily covered the cost of cleaning.  Losses by death in the process are trifling – less than 0.5%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

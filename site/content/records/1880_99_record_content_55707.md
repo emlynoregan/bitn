@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 E.F. Brady	Tinsmith Iron Worker, etc., Commercial St, in late H. Pearce’s shop & in Aberdeen in late I.W. Goss’s residence
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

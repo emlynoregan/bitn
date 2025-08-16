@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The weather continues fine and the lack of rain has meant no visible grass on local stations and lambing has commenced.  Losses are expected to be very high from lack of feed and rain.  Only odd showers have fallen since the January flood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

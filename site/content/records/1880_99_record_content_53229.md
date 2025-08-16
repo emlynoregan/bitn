@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 World’s End Creek.  The Commissioner of Public Works, Hon. F.W. Holder, visited Burra on 21 March to enquire into water conservation at World’s End Creek.  About six years ago Mr Porter of the Water Conservation Department found a site he thought suitable for a reservoir.  Mr Holder visited the site on 20 March and was favourably impressed with its potential.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

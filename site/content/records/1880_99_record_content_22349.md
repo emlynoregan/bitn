@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 E.H. Derrington, General Secretary of the alliance, was to have spoken, but he felt it had all been said and he called for members to submit their names.  72 did so.  A local committee was formed to carry on the work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

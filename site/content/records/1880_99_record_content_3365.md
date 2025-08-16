@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Baldina Petition.  The Commissioner of Crown Lands has agreed to consider the requests for the deferral of land repayments in the Hundred of Baldina on an individual basis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

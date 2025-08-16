@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Advt. Stony Gap Anniversary Services, 21 December at 2.00 p.m. & 6.00 p.m. by Mr E. Lipsett. 25 December Tea-meeting. Proceeds to aid the schoolroom fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

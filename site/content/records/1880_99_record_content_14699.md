@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 4th Leader on the Bill to abolish grants-in-aid for Corporations and District Councils.  The money is most unevenly distributed.  Most of the grants go to the metropolitan area and since they are derived from general revenue they transfer money from rural to the urban area.  The writer argues for the continuation of grants for a fixed period dating from the proclamation of a Corporation or District Council.  (From the proclamation of the original Council in the event of the subdivision of Councils etc.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

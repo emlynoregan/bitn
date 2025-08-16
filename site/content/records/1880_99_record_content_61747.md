@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the problem of how and when to distribute the money in the Distressed Farmers’ Fund.  Also seed wheat is available from the fund at about 5/7 a bushel to which the Government has added 6d for carriage to bring the cost to 6/1 on which the farmer must pay 5% interest.  The farmer could borrow money on better terms.  When the fund started it was thought the money would buy seed wheat for free distribution.  In the election the impression was given that the farmer could get a loan of up to one-third the value of improvements.  Now the farmer cannot get anything like that amount.  A farmer asked for £150 on £600 security and was offered £75.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

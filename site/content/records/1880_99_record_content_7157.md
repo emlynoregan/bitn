@@ -66,4 +66,4 @@ Proceeds from the gathering were c. £46.
 
 The house is 68’4” x 41’ with 8 rooms, a passage, a bathroom, and a very large underground tank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Joseph’s Bazaar was held in the Institute Monday to Wednesday last.  We believe the nett proceeds were c. £130, in aid of the building fund of the new convent school, which is in the course of erection.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

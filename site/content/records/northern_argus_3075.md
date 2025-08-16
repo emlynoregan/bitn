@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Two very improved players received President’s Trophies: Paul Williams and Jason Shepherd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Answer to correspondent: The total amount collected for the Daulby Fund was £40-19-3.  The debts of the estate amounted to £18-16-3, which were paid by the committee and the balance of £22-3-0 was paid to Mrs Daulby.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

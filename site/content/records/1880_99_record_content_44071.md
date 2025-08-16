@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Statistics for the year are printed.  For the year there were 292 admissions with 262 discharged and 28 deaths.  The highest occupancy for any day was 43.  The cost per head per day was 3/3 compared with 3/- the previous year.  T. Edwards reported, among other matters, that some maintenance and painting had been done by convalescent patients.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

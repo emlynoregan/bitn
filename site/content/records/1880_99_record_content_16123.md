@@ -38,4 +38,4 @@ Cr Ridgway said something inaudible.
 
 Cr Sampson complained that Ridgway had said he was no gentleman.  [The reporter says that Ridgway had not said that.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  A Grand Vocal, Musical and Histrionic Entertainment will be held at the Institute on 27 June, in aid of Mrs Hill who is entirely without support owing to the death of her son.  [Her husband Thomas Hill died 7 September 1882 aged 54 and the son Thomas, born 25 July 1866, died 8 June 1883.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

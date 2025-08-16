@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Electoral Notice.  [The requisition to J.B. Neales with the full list of signatures is printed along with his response, agreeing to stand.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

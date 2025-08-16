@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Exhibition.  Tickets for the School, Art, Musical and Cookery Exhibition which opens today at the Institute are 1/- or 1/6 for a double ticket to the exhibition and the evening concert for tomorrow.  The Burra Band attends this evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Sunday Closing and Local Option Associations.  There was a meeting at the Burra Institute last Monday that debated the selection of candidates for Parliament who would support the cause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

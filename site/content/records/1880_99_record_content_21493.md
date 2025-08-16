@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Silver fever seems to be abating somewhat, though many were still at work at the Ulooloo goldfield and some were even said to be making wages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

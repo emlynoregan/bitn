@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Some good lodes have been discovered in this year’s boring operations: No. 1 bore went down over 1,000’.  No. 2 bore found high grade ore at c. 700’ and ‘It is astonishing that the directors do not bestir themselves in this very important matter.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

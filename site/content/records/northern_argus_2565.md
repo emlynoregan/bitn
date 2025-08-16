@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 A Swarm of Grasshoppers flew into Burra on Friday last.  There was a carpet of them on the bowling green, but fortunately on Saturday they moved on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

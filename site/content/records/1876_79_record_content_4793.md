@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Obituary. Emily Hutson, wife of John Hutson, on 18 September, aged 43.  [Registered as Emily Hudson died 19 September 1878.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

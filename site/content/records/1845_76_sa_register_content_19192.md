@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 The inhabitants of Kooringa, Redruth and Aberdeen etc. are anxious to know when the long-talked-of road through the Sod Hut Ranges will be made passable, lest next winter they be cut off from the ports.  Why has this road not long ago been defined or even gazetted?  Burra Mines have been active for 20 years and the road to Kooringa is not yet defined.  Compare this with the splendid road to Callington Mines.  People prefer to travel via Clare if possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

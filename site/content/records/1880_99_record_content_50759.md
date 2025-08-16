@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘If it takes a labourer one day and a half to plant No. 2 reserve, how long would it take the dayman?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

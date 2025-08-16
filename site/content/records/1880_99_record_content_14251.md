@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church organised a concert in the Institute on Monday featuring some of the colony’s most talented vocalists.  Mr & Mrs Crocker Smith, Mrs T.H. Jones and Mrs J. James presented a fine program aided by Miss Clarke and Miss Knight with overtures and Mrs H. Roach as accompanist.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

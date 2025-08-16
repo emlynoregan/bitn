@@ -30,4 +30,4 @@ Notice.  The undersigned are requested by Mr Merewether, manager of the Australi
 G.A. & H. Bartleet, Grenfell Street, December 20, 1862.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

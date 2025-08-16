@@ -40,4 +40,4 @@ Kooringa, Baldina and World’s End to be one circuit and Redruth, Westbury, Lei
 
 A special effort was called for in the March quarter, to reduce the circuit debt of £250 and any balance left was to be made the responsibility of the Kooringa circuit.  The Glebe was to go with the Redruth circuit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

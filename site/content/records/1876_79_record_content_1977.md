@@ -65,4 +65,4 @@ There was considerable damage to the road to Hallett and the formation for the n
 
 This was the worst flood for 30 years. [In view of the floods of 1851 this may not be strictly true.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

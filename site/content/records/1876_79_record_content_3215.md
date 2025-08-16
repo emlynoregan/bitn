@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Aberdeen Hotel. Proprietorship has passed from Mr Orchard to Mr J. Broad, formerly of the Willogoleech  Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

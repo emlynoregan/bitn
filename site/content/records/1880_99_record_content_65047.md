@@ -31,4 +31,4 @@ The engineer reports several breakages and that repairs have been effected.  He 
 
 There has at last been a reply from the Commissioner of Public Works to the request that the capital value be reduced to £6,000 and the interest to 4%.  The Government is prepared to allow 4% on the existing capital, but if the interest is in arrears for one month it will be 5%.  The Council will hold a special meeting to consider the case on Friday next when steps will be taken to lay the issue before ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

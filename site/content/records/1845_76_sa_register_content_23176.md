@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Railway Station.  The residents are unanimous that the terminus is a shabby affair, quite unworthy the intended use.  There is no accommodation at all for passengers and but little for officials.  Perhaps this is to make up for the palatial structure at Wasleys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

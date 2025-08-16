@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 SA Gold.  Mr Alfred Stephens of Peacock’s Buildings in Hindley Street has found small fragments of gold in the Torrens near the spot where the Frome Bridge formerly stood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

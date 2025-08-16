@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Wesleyan Foreign Mission’s Rev. F. Langham has been in town for the past week preaching in aid of the missions.  He has been 23 years in Fiji.  On Wednesday a united service was held in the Bible Christian Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

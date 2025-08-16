@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Arthur Bagg aged 16 had a lucky escape on Sunday afternoon when riding from Redruth to Kooringa with John Killicoat.  Near Jubilee Fountain a dog rushed at the horses causing Bagg’s to fall down cutting its knees and ruining it for future work.  Bagg was lucky to escape being crushed.  We understand that Mr Bagg intends to take proceedings against the dog’s owner unless it is destroyed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

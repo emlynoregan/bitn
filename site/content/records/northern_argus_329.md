@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Tim Stockman received highest marks for BCS Year 7 students in an Australia-Wide Science Competition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

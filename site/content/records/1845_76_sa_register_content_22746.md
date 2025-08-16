@@ -36,4 +36,4 @@ Obituary.  On Saturday news reached Kooringa that a man had been found dead stan
 [SA Deaths CD says he was Thomas Muller aged 37 who died 25 April 1869 on Cachowla [sic] Run.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

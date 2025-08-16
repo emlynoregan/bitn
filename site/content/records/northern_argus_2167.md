@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 BCS.  The Senior School Swimming Carnival was held last Friday and was won by Jennison House.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

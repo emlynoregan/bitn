@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Grow’s horses bolted from outside the Commercial Hotel on Tuesday when frightened by passing horses.  The ‘cabe’ was badly damaged in a collision with a corner guard and a tree.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ A Concert, presided over by W.H. Rosman was held on Monday evening at the Burra 
 
 There cannot have been many fewer than 500 in the room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

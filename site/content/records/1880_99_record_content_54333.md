@@ -45,4 +45,4 @@ The Mayor arrived at his point, having thought the meeting was for 8 p.m. and no
 
 Mr Holder sent a telegram on Tuesday afternoon saying that he and Mr Lake had seen the Commissioner who had said 25 Burra men would be sent to Gumbowie next week with others to follow.  There was as yet no decision on the ballast quarry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

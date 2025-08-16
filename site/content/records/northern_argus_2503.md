@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Derek Rayfield is the son of a London cabbie and was in the RAF and private business before migrating in 1969 and becoming a member of the RAAF.  He is married with three children and three grandchildren.  He has lived in Burra since 1978.  He has been involved with Senior Citizens and the National Trust and id the Secretary of the Caring and Sharing Group and of the Burra Preservation Organisation.  He is also an active member of the elderly visitation program.  He would, in Council, seek to prevent financial negligence, encourage community involvement in major decisions and seek to maintain roads, footpaths and erect toilets in Burra North.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

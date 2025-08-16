@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Comfort’ writes complaining that ladies’ waiting rooms at railway stations are not heated in the depths of winter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

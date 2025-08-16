@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra School.  The annual examination resulted in a very creditable average of 89.95%.  Examples of the exam papers for each class are printed in the paper.  35 Compulsory Certificates were gained this year.  (15 in 1882)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

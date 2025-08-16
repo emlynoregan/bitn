@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Note that the above two articles were jumbled by the compositor: from the bottom of column 3 the leading article continues 23 lines from the top of column 5.  The 2nd article goes from line 22 of column 5 to the top of column 4.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

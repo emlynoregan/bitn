@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  An entertainment of carols, readings and musical selections was held at Burra Hospital on Tuesday evening.  St Mary’s Choir attended and the Mayor provided a string band.  Mr Packard chose two humorous readings, which were appreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

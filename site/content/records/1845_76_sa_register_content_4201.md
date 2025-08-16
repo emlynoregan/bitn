@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The writer discusses the alternatives of horse-drawn tramways and steam railways.  He concludes that steam railways are needed, but that the relatively light traffic here will only justify light railways with light locomotives travelling at low speeds.  (12-15 m.p.h. is suggested.)  Details of rails and sleepers and the costs involved are then discussed, and then figures are given for likely traffic between Burra and Adelaide.  The writer calculates that a line to the Burra Mine could generate a profit of 20% on the capital invested of £225,000.  Relative costs of horse and steam power are tabulated and show considerable advantage in favour of steam.  The writer concludes that horse power may be viable on very lightly used short branch lines.  Horse drawn tramways may be viable where there is light traffic over short distances because time/speed becomes less of an issue and costs at 2½ m.p.h. are not very much greater than for steam power.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

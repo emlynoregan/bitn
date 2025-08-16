@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Another white elephant is the Recreation Ground, which can never pay for itself and serves the interests of only a few.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ Farewell Banquet to J. Braley JP and Charles Gall.  Mr Braley has retired from t
 
 A presentation was made to Mr Gall of a chased gold hunting watch by the Mayor of Burra, Mr E.C. Lockyer on behalf of friends of the gentleman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

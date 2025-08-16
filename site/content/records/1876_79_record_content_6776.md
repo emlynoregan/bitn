@@ -54,4 +54,4 @@ Extended premises for Statton & Henderson
 
 Proposed rebuilding of the Miners' Arms. [Though this did not take place in the rather grandiose form originally proposed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

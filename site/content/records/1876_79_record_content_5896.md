@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kingston St Bridge. Work is progressing. The cylinders have been sunk and the girders are being put into place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

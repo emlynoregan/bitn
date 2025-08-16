@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 John Harry (16) son of George Harry of Mt Bryan received a shot in the leg just above the knee when a muzzle-loading gun discharged when his elder brother was fitting a cap on the nipple.  He is recovering in Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Rev. L.W. Stanton presented a successful entertainment at the Burra Hotel on Tue
 
 The collection amounted to nearly £11.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 J.A. S. Bagg left Broken Hill at 4 a.m.  He had left Burra for Broken Hill last Wednesday and complained of the sandy road.  He now expects to pass through Burra on Wednesday 11 May between 4 and 5 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Advertisement.  Fifteenth Dividend.  Notice is hereby given that the Directors o
 
 Henry Ayers, Secretary, Adelaide 15 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

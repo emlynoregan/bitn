@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Market Square Well.  From 1 January watermen carrying water for sale will be charged £3 p.a. and private persons for personal use will be charged £1 p.a. (Fees paid in advance.) Water in the trough, etc. is free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

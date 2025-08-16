@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 A very successful tea meeting was held on the Monday at which Rev. C. Colwell read the financial report showing a debt on the whole property (church, school and manse) of £1,225.  The nett returns from the bazaar had been £325 and the anniversary services had raised £100, making up the noble sum of £523 [sic!].  This reduced the debt to £700.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

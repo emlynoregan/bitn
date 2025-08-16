@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 SA Mining Association has held its half-yearly meeting.  The report of the Directors was extremely gratifying.  Despite having spent more than £13,000 in acquiring and starting the new mine of Karkulto at the Emu Plains, there has been no interruption in the quarterly dividend of 200%.  Mr Frederick John Beck was elected to the Directorship vacated by his brother on the latter’s departure for England.  Captain Allen was chosen as the new Chairman of the Board of Directors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

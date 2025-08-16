@@ -61,4 +61,4 @@ It is estimated some 30,000 to 40,000 tons of ore have been raised at 4 to 5% co
 
 Previously much copper in solution escaped into the River Light, but efforts will be made to contain this extravagance.  At present about 200 persons are employed – 100 of them tributers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

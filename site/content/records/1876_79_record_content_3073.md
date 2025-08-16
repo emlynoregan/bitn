@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Young Men's United Assoc. held a 'sociable' at Kooringa Wesleyan Sunday School on 7 Nov. A number of tables were set out with different activities and participants moved around at leisure. The activities included: - 3 microscopes, 2 galvanic batteries, 3 sets of parlour croquet, a zootrope [or zoetrope - a cylinder open at top with slits in the side and animals etc. painted on the inner surface so that when the cylinder rotates and the pictures are viewed through the slots, the pictures appear to move.] lotto, draughts, a working model steam engine, 2 music boxes, 5 stereoscopes, a graphoscope [an apparatus with a magnifying glass arranged to enable comfortable viewing of engravings, photographs etc.] conversation cards, chess, a geographic lottery and photographs. There were also songs, duets and instrumental music, with refreshments. About 150 attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

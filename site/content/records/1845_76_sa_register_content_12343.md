@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Redruth & Burra Building Society.  At the general monthly meeting on 3 May, two £100 shares were sold at a premium of £35 each.  New rules on the permanent principle have been enacted by the Government and several new members have been admitted without paying the arrears in subscriptions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

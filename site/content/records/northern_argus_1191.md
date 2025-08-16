@@ -33,4 +33,4 @@ publication_slug: northern-argus
 
 Burra National Trust was advised last week that the Redruth Gaol had been selected as the Commonwealth Bank’s Heritage 88 project for SA.  Branch President Maureen Wright, Colin Fidock and James Hawker all travelled to Ayers House in Adelaide for the presentation.  The Bank is committing $500,000 to one project in each state.  The gaol came into Burra National Trust control some nine years ago and they have since done considerable work to conserve it.  It was built in 1856 as the first gaol in SA outside the metropolitan area of Adelaide.  It later served as a girls’ reformatory and more recently as a location for the film Breaker Morant.  It receives about 3,000 visitors a year.  Burra’s share of the grant is to be $50,000.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

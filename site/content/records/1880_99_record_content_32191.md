@@ -46,4 +46,4 @@ Committee		W.T. Rabbich, C. Fuss, O. Bartholomæus, C. Keighley.
 
 The first meeting will be on 18 April in the form of songs, recitations, speeches etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

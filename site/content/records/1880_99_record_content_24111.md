@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Roach Bros.  The Burra Mill has begun work after a long period of inaction as the new season’s wheat has begun to arrive.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

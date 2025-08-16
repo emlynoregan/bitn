@@ -28,4 +28,4 @@ Working Men’s Association
 
 [There is a long report on a public meeting held in connection with the Working Men’s Association in Mr Hosking’s Schoolroom in Gouger Street, Adelaide on 5 September.  About 300 attended.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The gauge question was also raised. [The line from Pt Pirie to Jamestown was 3'6" and the Hallett line was 5'3" so that somewhere there was going to be a break of gauge station.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Charles Todd, the Government Astronomer writes at length on the season’s rainfall and gives data for the past years in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ The decision on the town survey was deferred for two weeks.
 
 Decision on funding for the levelling and planting of the Recreation Ground was also deferred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

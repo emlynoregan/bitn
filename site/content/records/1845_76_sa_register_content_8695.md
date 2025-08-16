@@ -33,4 +33,4 @@ Presentation to Dr W.P. Hill
 
 At the Burra Burra Hotel on 27 March a group of gentlemen, farmers and tradesmen gathered to make a presentation to Dr Hill as a mark of their esteem and friendship.  The presentation was a silver cup fashioned by Mr Firnhaber of North Adelaide.  There is a horse elaborately chased on one side and an inscription surrounded by a wreath.  About twenty persons gathered for a supper provided by Mr & Mrs Barker. The inscription on the cup is: ‘Presented to W.P. Hill, Esq., as a testimony of esteem, and for his exertions in support of the Burra Burra Races, March 1854.’  Dr Hill thanked them for their kindness, but said his health did not allow him to speak much at present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

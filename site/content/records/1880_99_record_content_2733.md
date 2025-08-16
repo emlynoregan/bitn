@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 22 Apr 81	Serpent Ch XXXII	One Hundred Pounds Reward		X			X	X	X	X	X
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

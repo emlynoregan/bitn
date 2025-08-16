@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Melbourne Exhibition.  Adelaide is without ‘notabilities’ as they have all gone to see the Melbourne Exhibition.  36,00 people attended the opening, with 311 travelling from Adelaide on the first excursion train.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

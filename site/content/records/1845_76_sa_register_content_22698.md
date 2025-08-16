@@ -47,4 +47,4 @@ The first five were declared elected.  An extraordinary general meeting was then
 
 The proceedings will be laid before another extraordinary general meeting for confirmation on 12 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

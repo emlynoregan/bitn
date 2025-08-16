@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Thomas Harris (wheelwright etc. of Commercial St) showed us on Tuesday morning a special cart made to order for F.E. Bromley, butcher of Broken Hill.  It is a light cart made of the best kauri pine and VDL stringy bark, set on three springs allowing the tail board to drop down and swing.  [Other improved features are listed.]  It is painted in Victoria lake and lined with vermillion with wheels and spokes in cream lined with blue and red.  The wheels are riveted at every spoke and the tyres are exceptionally strong.  Mr Harris invites inspection.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

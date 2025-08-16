@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Mt Bryan Ranges Silver Mining Association also continues with its No. 2 shaft now at 34’6”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

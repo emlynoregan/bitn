@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Cathedral Choir last Saturday provided a program of favourite Negro and plantation songs, duets, trios etc.  There was a fair attendance considering that shops were open till 9.00 p.m.  There was a far better house on Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

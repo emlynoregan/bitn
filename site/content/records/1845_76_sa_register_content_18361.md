@@ -38,4 +38,4 @@ Another find about a mile further on, on the same Wandillah Run promises samples
 
 The Crown Lands Ranger has been prosecuting people for illegally depasturing cattle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

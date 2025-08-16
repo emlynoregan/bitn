@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 SA Farming.  Article of some 2¾ columns by F. Wurm of Stansbury urging the diversification of Australian farming by the growing of olives, silk, grapes, fruits, maize, carob, sugar, and the production of cheese.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

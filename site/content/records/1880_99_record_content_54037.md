@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cycling news takes almost 1¼ columns and though most is not local; there is a preview and tips for the 20 mile race to Mt Bryan to be run today.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

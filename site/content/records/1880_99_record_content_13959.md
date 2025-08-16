@@ -49,4 +49,4 @@ The Government will be asked to erect a post office at Redruth.
 
 A deputation to The Commissioner of Public Works is to be organised re the Burra -Silverton Railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

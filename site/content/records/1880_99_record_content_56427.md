@@ -40,4 +40,4 @@ There has never been a complaint against Messrs O’Leary and it is very hard th
 
 [Presumably the word in mind was untenantable, if the word is admissible.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

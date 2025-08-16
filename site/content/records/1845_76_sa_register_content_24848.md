@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Midweek Holiday.  The new arrangement for businesses at Burra to close at 1 p.m. on Wednesdays came into effect his week.  This week the weather was too stormy to encourage outdoor sports, despite which a group of cricketers played for two or three hours at Redruth and some lovers of quoits followed their preferred game at Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

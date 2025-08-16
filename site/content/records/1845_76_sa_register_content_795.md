@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  Mr Neales has received instructions from Mr J.B. Graham for the sale of all his stock as a wholesale and retail grocer, ironmonger and general storekeeper, as he is retiring from business.  Sale on 17 September unless sold previously by private contract.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

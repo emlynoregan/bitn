@@ -32,4 +32,4 @@ The winter rate of cartage of Â£3 for 21 cwt will cease and the summer rate of Â
 
 Henry Ayers, Secretary.  7 September 1848.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -38,4 +38,4 @@ The Patent Copper Company wrote urging that some outlay be made on the Great Wes
 
 The Secretary was instructed to reply that at present the Board’s activities did not extend beyond the Gilbert, but the subject would be reconsidered when the means and staff of the Board were larger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

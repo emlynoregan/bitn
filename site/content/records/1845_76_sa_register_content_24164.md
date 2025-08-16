@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  The mine stamps are again working and the reintroduction of the old apparatus is highly approved by the miners.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

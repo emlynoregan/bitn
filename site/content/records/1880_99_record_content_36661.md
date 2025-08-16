@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Review of the ‘amusing yet pathetic musical comedy, Hans the Boatman, at the Institute on Saturday last.  The piece was very well sung and acted.  Indeed at the climax where the blinded Hans is reunited with his wife ‘the audience gave way to sobs and tears’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

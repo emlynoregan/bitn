@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  Some thousands of ounces have now been won and the Teetulpa Bank alone bought 3,605 oz in the 28 days to Christmas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

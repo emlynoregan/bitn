@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Fire broke out in Captain Killicoat’s paddock yesterday (15 November).  Mr P.L. Killicoat and two of his workmen were almost immediately on the scene.  A number of others from Redruth came to assist.  The cause has not been identified.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

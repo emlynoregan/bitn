@@ -35,4 +35,4 @@ It is generally thought that the Rabbit Act should have made it compulsory for t
 
 Many settlers think there should be another Hundred declared east of the Hundred of Hallett. Many would rather settle there than go further north.  It would help present settlers by encouraging tradespeople to come to the area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

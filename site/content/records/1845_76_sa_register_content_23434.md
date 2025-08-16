@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Northern Extension Railway.  The permanent way has now been laid to the terminus and an engine and train have run the whole distance.  Residents of Kooringa hope the Governor may be able to open the line on 1 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

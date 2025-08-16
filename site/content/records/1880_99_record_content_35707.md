@@ -56,4 +56,4 @@ Other Councillors reiterated the general trend of these comments.
 
 The Mayor was sorry to have offended, but felt he had to give notice under the Act and Mr Holder had no role in the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

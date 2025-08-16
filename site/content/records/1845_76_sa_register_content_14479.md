@@ -49,4 +49,4 @@ Had seen the body, but it was not easy to conclude the caused of death.  It was 
 
 [Hannah Paynter died 26 April 1861 at Wildoto aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

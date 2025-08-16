@@ -42,4 +42,4 @@ The mayor said on Monday night that if ever he was disgusted with a meeting it w
 
 ‘Since we refused to accept [Hardy’s] offer of 10s (ten shillings) per week we have been the victims of several disgraceful and abusive letters and a postcard of a recent date was not allowed to pass through the post office, and which was subsequently forwarded to the Postmaster General.  Some of the letters were insufficiently stamped and others not stamped at all.  We substantiate the report in every particular notwithstanding Councillor Hardy’s vituperation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

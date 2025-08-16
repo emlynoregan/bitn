@@ -69,4 +69,4 @@ World’s End Silver.  Silver has recently been discovered in the Robertstown-Wo
 
 James Cater, the first headmaster of Burra Public School has been promoted to East Adelaide School.  He will be missed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

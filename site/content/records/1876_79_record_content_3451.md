@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rabbits. The Northern Rabbit Meat Preserving Co. has taken over the premises of World's End Station for the purposes of rabbit preserving.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

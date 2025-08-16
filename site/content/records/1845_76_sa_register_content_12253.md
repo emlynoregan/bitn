@@ -52,4 +52,4 @@ The River Broughton Company has engaged four more miners making eight now at wor
 A meeting of Wheal Sarah shareholders saw a further call made and the mine is being worked with vigour.  The first pile of ore has been crushed and sampled and will likely be sold in a few days.  A number of drays are on the road with ore from this mine.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

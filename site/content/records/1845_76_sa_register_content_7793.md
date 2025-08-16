@@ -32,4 +32,4 @@ James Trestrail writes to the editor from Trenale, Barossa, 16 January.
 
 Gold is also reported found in the Bugle Ranges near Mt Barker on the authority of Mr Phillips of Mt Barker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

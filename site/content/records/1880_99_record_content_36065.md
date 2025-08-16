@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 W.R. Ridgway spent some time explaining why he was not reported in the Advertiser which was too busy supporting the Government, or in the Record which was too busy supporting its editor, Mr Holder, or in the Jamestown Review which was too busy supporting its editor, Mr Lake.  He thought the Government policy was good except for the progressive land tax, but made no other significant policy statements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

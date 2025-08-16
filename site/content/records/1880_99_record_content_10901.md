@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Picnic’ urging that a town picnic at the Princess Royal be organised to celebrate the success of the Wednesday half-holiday movement, now of almost two years’ standing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

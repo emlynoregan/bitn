@@ -26,4 +26,4 @@ Editorial on The Election.
 
 The editor compliments the candidates for the creditable and courteous way they are conducting their campaigns.  He concludes that while Mr Holder is assured of a win, the second member is quite impossible to predict.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

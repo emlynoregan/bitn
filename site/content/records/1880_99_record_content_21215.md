@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Burra Co. RVF.  [This paper like many others carried orders for the drills etc. for the Rifle Volunteer Force, commanded locally by Captain W.F. Holder.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

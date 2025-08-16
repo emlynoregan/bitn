@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Stanley Rabbich, aged 12, 2nd son of W.T. Rabbich, died as the result of a scalding received recently from the explosion of steam in an oil drum.  [Registered as born William Stanley Rabbish 11 August 1881: died William Stanley Rabbich 5 March 1894.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Burra Town Council.
 
 Cr Sampson is moving to realign ward boundaries.  At present Middle Ward has good income and little work is needed while South Ward has similar income, but much more work required.  The plan is to divide the wards by a north-south line instead of an east-west line so the expensive streets are divided between the two.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

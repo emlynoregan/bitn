@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Entertainment in aid of the Burra Institute by the Burra amateur Dramatic Co., 14 July, ending with the farce, `D'ye Know Me Now?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

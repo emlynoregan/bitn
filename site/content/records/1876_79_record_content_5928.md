@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Railways Dept. The department has decreed that no one will in future be allowed to travel by goods train without special permission of the Manager of Railways, which amounts to a prohibition for all. Surely this is unnecessary as very few ever wish to travel by so slow and inconvenient a means unless strong necessity arises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

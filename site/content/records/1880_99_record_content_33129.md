@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on Local court decision in Penola, which empowered the DC to assess cottages occupied by Government employees for rates.  The Government lost an appeal and a number of subsequent appeals, with costs against it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

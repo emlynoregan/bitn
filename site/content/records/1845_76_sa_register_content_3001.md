@@ -144,4 +144,4 @@ Fisher was queried as to relevance and said he intended to show these cracked bu
 
 Ayers said the census had show there were c. 1,500 living at the Mine – a number of them ‘in holes excavated’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

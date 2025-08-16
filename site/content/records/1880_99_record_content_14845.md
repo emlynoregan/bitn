@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 British & Foreign Bible Soc. annual meeting was held in the Institute on 20 October.  The deputation gave an interesting address on the works of the society.  Elected for the next year: President, P. Lane; Vice-President, Dr Sangster; Committee of the town’s ministers plus F.W. Holder, W.H. Turner, J. Dunstan jun. & T. Edwards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

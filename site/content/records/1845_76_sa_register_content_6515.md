@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Notice.  Kooringa Money Orders.  Those holding orders issued by Mr W. Coote, storekeeper of Kooringa, bearing a date up to December 1850 are advised that they are now payable at the office of Mr Thomas Reynolds, wholesale grocer of Rundle Street or at Mr Samuel Hart’s, wholesale draper of Hindley Street and NOT at Messrs Mac George & Co. as hitherto.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on Christmas in a bad year when all round it has been the worst harvest on record.  The depression has if anything intensified, unemployment is high and savings have been used up.  He goes on with the usual Christmas hopes for good cheer, Christmas goodwill etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

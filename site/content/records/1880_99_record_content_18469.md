@@ -28,4 +28,4 @@ Burra Institute half-yearly meeting saw only 10 subscribers, including the commi
 
 £86-17-0 at 30 June, since when it had been further reduced to £56-17-0.  The government subsidy would come in a week or two and would pay off all debts and outstanding accounts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

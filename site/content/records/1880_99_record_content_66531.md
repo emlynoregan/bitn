@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. E.T. Cox gave a 1½ hour talk on ‘Charles Kingsley’ at the Wesleyan Lecture Hall on Friday night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

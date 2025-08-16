@@ -75,4 +75,4 @@ Hardy said it was not introduced to suit any ratepayer, but to compel hawkers to
 
 Eventually the Mayor ruled it be dealt with at the next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

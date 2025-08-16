@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Storm. The high wind on Monday tore away the verandah from Mr Ford’s corner shop and deposited it on top of Mt T, Wilkinson’s private residence, damaging several sheets of iron.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

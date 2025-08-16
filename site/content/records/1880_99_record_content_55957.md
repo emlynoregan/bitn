@@ -71,4 +71,4 @@ Jones was committed to stand trial at the next criminal sittings on the charge o
 
 Evidence also given showed he had only been out of Adelaide Gaol for a month and was at the site of a fire in J. Lewis’s paddock near Copperhouse a few days ago and is likely to face a charge in relation to that also.  [See XV, 328(2), 27 Feb. 1895, page 3]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

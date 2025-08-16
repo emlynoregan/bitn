@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  (by ‘Quiz’)  There was no practice match because of the rain.  Terowie issues a challenge for a match on 1 September at Burra and calls for a return one in Terowie this season or a forfeit of £5.  ‘Quiz’ thought this rather silly impudence.  A trip to Clare had already been arranged for that date.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

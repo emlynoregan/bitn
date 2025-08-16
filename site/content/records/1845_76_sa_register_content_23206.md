@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Northern Extension Railway.  People at Mintaro are disappointed that the line was not opened on Monday as promised.  We are informed that it will shortly be opened for down, but not for up traffic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

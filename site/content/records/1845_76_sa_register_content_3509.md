@@ -26,4 +26,4 @@ Advertisement.  Selling off cheap.
 
 W.W.G. Nicholls, having decided to give up his business, will sell his stock0in-trade in lots to suit purchasers.  The stock comprises two spring carts, builders’ box carts and horse drays, a water cart, several good horses, sets of good shaft harness; light and heavy coach harness and tandem harness and a few tons of pressed oaten hay.  The stables, yard, cottage and the Temperance Hotel will also be sold.  The last mentioned has been entirely rebuilt.  The vendors family affairs makes it inexpedient to carry on the business as heretofore and this is the only reason for his parting with it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

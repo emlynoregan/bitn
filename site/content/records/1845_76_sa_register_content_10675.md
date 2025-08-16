@@ -29,4 +29,4 @@ Notice.  Lithographed Plans of the County of Burra, price 5/- each, shortly to b
 
 A. H. Freeling, Captain R.E., Surveyor-General.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

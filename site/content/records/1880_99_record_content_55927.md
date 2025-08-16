@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  On 23 January at Victoria Park: St Mary’s 50 v. 7 for 71 & Burra 120.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

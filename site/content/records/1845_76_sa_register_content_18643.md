@@ -37,4 +37,4 @@ The anniversary of the Bible Christian Sunday School was celebrated and was exte
 
 Mr Stanton’s injuries have proved less serious than feared.  No bones were broken and it a severe shaking from his fall that prevents him from returning to his duties at the Grammar School.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

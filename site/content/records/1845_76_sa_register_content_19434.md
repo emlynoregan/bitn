@@ -56,4 +56,4 @@ Obituary.  Emily Alice Martlew aged 2 years 7 months, daughter of a shepherd in 
 
 Sunday night was the coldest for some time with ice on every open tank in the morning when the thermometer at 7 a.m. was 27°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

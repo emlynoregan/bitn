@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  The area around Kooringa seems to be heading into drought.  Showers within the next fortnight would not come too late, but time is running out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

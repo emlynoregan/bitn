@@ -31,4 +31,4 @@ SA Election
 
 The Court of Revision was held at the Burra Hotel.  Copies of the last Electoral Roll had been posted at the Kooringa Court House and the Redruth Gaol.  There were 100 claims for admission to the roll and no objections to them.  Four names of persons now dead were struck off.  Two names were corrected, leaving 500 names on the roll.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

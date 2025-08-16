@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Silverton now has two coaches a week and the last two carried 14 or 15 passengers each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

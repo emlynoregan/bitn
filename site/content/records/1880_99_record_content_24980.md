@@ -20,4 +20,4 @@ publication_slug: record-1880-99
 
 Election.
 
-Source: [1880-99_Record.md](/downloads/markdown/1880-99_Record.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

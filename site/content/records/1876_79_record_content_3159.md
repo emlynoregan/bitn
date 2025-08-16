@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 There was an engine ready to do the pumping. Mr Dawson wanted water immediately via a trough at the station gate filled by tapping the government main from the Bon Accord shaft. This could be done for about £IQ. Last summer the Bon Accord Hotel had apparently got a pipe from the government scheme and paid 6/- per 1,000 gallons. After some debate Mr Ridgway withdrew his motion so that one by Mr Rosman for the placement of a trough immediately could be put. It passed unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

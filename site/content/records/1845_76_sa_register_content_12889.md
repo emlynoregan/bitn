@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Kooringa Primitive Methodist Sunday School held its third anniversary on 25 December.  Sermons were preached by Rev. T. Braithwaite, J. Way (Bible Christian) and the resident minister J.D. Whittaker.  On the 26 December at about 1 p.m. the children marched through the town bearing their flags and banners and at about 3.30 p.m. they sat down to an excellent repast.  After the children were dismissed about 300 adults sat down to enjoy the dainties supplied by Mr Robert Roach who sent an abundant supply of good things.  Captain Skews presided at the following public meeting.  Mr Jenkins read the report, which showed the school to be in a prosperous state.  The choir under Mr J. Stephens gave some excellent pieces of sacred music.  The collections came to over £43.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

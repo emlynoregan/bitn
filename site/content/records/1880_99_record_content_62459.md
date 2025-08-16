@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Rain.  Splendid falls were recorded last week, starting on 14 June which have revived hopes for a good harvest after all.  The sheep have survived the cold, better than expected, but cattle and horses have been worse hit and can be seen dead in every direction.  Several farmers have lost every horse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

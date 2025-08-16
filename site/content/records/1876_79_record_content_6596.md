@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Miners' Arms has not been bought by the Unicorn Brewery, but is offered for sale by tender.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

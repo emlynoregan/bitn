@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 St Mary's. Subscriptions for the new church, which is of excellent design, are coming in. Mr McCulloch of Princess Royal promised £500 if others matched that and that condition has now been met. Promises and donations now £1,500 with costs estimated at something over £2,000. [McCulloch later denied having made any such promise.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

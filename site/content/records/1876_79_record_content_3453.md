@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Weather. The year began very hot. Last Thursday the temperature in various shops in town varied from 102°F to 110°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

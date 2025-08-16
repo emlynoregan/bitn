@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  J.G. Ward, veterinary surgeon, announces he has taken over the Bon Accord Hotel and intends also to practise his profession from there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -43,4 +43,4 @@ Dr Robert Brummitt - a post mortem revealed that death was due to an aneurism, w
 
 Verdict was death by natural causes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

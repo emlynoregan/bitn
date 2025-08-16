@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Obituary. At South Terrace, Adelaide, Emma, wife of Charles Edlin. [Date and age hard to read: possibly 13 January, aged 50.]  [Born Emma Woodroffe c. 1830: died Adelaide 12 January 1879 aged 49.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ Advt.  Salvation Army Barracks, Limelight Service, Sunday & Monday 21 & 22 July.
 
 30,000 miles by Land and Sea, Wreck of the Wairapara and many other interesting views will be shown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

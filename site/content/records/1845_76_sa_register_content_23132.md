@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Advt.  Allotments facing the west side of Mintaro Railway Station are to let for a term expiring 6 April 1876.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

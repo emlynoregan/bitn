@@ -56,4 +56,4 @@ A notice was then posted:
 
 Who can read this without regretting the absence of a spirit of conciliation, which is the essence of Christianity and has hitherto distinguished every man deserving the name of a freeborn Englishman?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

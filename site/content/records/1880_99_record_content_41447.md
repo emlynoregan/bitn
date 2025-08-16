@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Hallett Band concert on 25 May [at Hallett] in aid of the local band.  W.J. Davey has been conductor for three months.  [The report on 27 May says it was in aid of the Hallett Institute!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

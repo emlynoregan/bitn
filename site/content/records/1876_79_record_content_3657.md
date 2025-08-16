@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 "That the Mayor and Corporation of the Town of Burra very respectfully request the Commissioner of Public Works to regard them as the proper medium through which the wants of the town ought to be made known, and with very great deference point out that the recent granting of a water supply to only one portion of the town at the request of some private ratepayers has a tendency to weaken the influence of the corporate and representative body, and, as a matter of course, cause them to be ignored."
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Football. (by ‘Quiz’)  Interest seems to be failing.  Last Saturday 3 in Colours and 5 in plain clothes gathered with about 15 Allcomers, but it was about 4 p.m. before there were enough for a game.  The wind strongly favoured the Allcomers and Scarborough’s team of Allcomers 2.4 defeated Fitzgerald’s team of Colours 1.3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -63,4 +63,4 @@ Messrs Penny’s smelting-works at Apoinga, 20 miles south of Burra Burra are co
 
 Another small smelter is working on the Bremer, in the Mt Barker district.  They have an agreement with the South Australian Company to smelt their ores from the Kanmantoo Mine for two years on terms which, it is said, pays the smelters very well.  [Continued 24 January.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

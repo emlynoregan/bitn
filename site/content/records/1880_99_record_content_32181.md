@@ -29,4 +29,4 @@ An application to hire the hall as a skating rink has been dealt with and charge
 
 The Chrysanthemum Show will be held on 23 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

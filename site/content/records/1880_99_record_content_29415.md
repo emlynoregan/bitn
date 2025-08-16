@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 New Land Assessment.   This is expected to be at least 25% below the old assessment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

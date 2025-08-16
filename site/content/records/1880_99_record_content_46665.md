@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 If the Baldina Creek scheme was a success, as he was confident it would be, it could be repeated with the World’s End and Newikie Creeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

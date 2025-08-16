@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Annie Mann, wife of James Mann of Hallett, died on 20 October at the Burra Hospital, aged 45, from cancer.  She was a colonist of 42 years.  [Registered as 19 October.  Born Annie Armstrong.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

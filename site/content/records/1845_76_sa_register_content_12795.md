@@ -41,4 +41,4 @@ On Tuesday 1 November there was a political meeting at Lamb’s Aberdeen Hotel. 
 
 The Court of Revision sat at the Burra Hotel this week when one name was struck off the roll for the Legislative Council and one from the roll for the House of Assembly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

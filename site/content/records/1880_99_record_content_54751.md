@@ -30,4 +30,4 @@ Advt.  Redruth Wesleyan Church and Parsonage have an annual loan instalment due 
 
 1/- to be returned in goods, or 6d not returned.  Knife & Fork Spread from 12 to 6 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

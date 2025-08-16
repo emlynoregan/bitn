@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 We have been amused at the way in which some persons ask for more exclusive rights and yet decline to assist the Council.  They use the public ground for practice and yet go to the other side of Aberdeen whenever money is to be taken.  It is not reasonable to expect the Council to hand over the ground to two clubs for their use alone on all holidays and occasions when the public might desire to use it.  This would be unjust to other clubs and users.  These two clubs are not prepared to contribute towards past expenses or to guarantee anything of the cost of the pavilion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

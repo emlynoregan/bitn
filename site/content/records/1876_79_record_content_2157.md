@@ -30,4 +30,4 @@ Sales raised £26,227 and rents bought in £2959 [total £29,186], but expenses 
 
 300 men and boys employed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

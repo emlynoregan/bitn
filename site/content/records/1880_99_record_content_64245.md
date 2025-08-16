@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.O. Archibald & L. Cohen addressed electors last Thursday in the Institute on the Federation Bill, and urged the ‘No’ case.  Mr J. Sampson (Mayor) chaired the meeting for which there was a fair attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The season.  Farmers are busy fallowing and seeding at present and where early crops have been planted the seed is showing.  Everywhere else farmers who can afford to do so are purchasing seed drills which deposit grain and an amount of fertilizer at the same time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

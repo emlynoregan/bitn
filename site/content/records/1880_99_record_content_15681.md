@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Halls sued Henry O’Brien for cruelty to a horse O’Brien had hired from Halls.  Claim for £10 damages.  A wire seems to have been used instead of a whip.  The case was dismissed essentially on legal technicalities as having been wrongly brought rather than on doubt about the damages to the horse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

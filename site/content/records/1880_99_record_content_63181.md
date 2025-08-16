@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Railways. Hon. E. Ward asked in the Legislative Council last week that a copy of the report of the Railway commissioners on the proposed extension of the broad gauge from Terowie to Petersburg be laid on the table.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Mt Bryan East.  24 August.  A large quantity of rain has fallen and this will ai
 
 Residents are wondering why it is taking the Government so long to reveal its decision on the formation or otherwise of a District Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

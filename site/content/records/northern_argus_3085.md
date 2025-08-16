@@ -31,4 +31,4 @@ Obituary.  Mrs Belle Hannaford of Hallett has died aged 93.
 
 Born Bell Lucas 20 February 1894 Petersburg [Peterborough].  Married Victor Roy Hannaford 1925.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

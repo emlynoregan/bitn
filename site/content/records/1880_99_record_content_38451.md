@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ellis Newton announced the proceeds of his concert on Tuesday evening in his tent behind the Commercial Hotel are to go to a resident widow.  Communications are requested from such widow and if the case is genuine the proceeds will be supplimented [sic] by a further two guineas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

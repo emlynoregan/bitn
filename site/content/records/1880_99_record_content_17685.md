@@ -96,4 +96,4 @@ Cr Sampson moved it stand over - if East Ward were saddled with half the £140 c
 
 Cr West thought £30 was a reasonable contribution, but in due course East Ward would have to pay for fencing, planting and completing the eastern footway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

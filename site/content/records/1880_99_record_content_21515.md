@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Silverton Railway.  There was agitation for strengthening the railway to Silverton, now under construction, and it will now be made capable of traffic at 20 m.p.h. with heavier trains.  It will now be graded and ballasted throughout.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

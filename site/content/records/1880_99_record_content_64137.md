@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 X-Rays are now in use in Adelaide Hospital and a Port Adelaide boy has had a 3¼’ long packing needle discovered in his bladder.  It has since been successfully extracted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

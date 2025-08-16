@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Season. Crops to the north and north-west are good, but growth has been slow due to low temperatures. To the east growth is faster and looking well. To the south growth is backward and warmth needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

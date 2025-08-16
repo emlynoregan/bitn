@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Charles Morgan was charged by G. Griffen, Salvation Army Lieutenant, with disturbing a religious congregation in the Barracks on 17 Feb. by talking and laughing.  He was sentenced to 7 days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

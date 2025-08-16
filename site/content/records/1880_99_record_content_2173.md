@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W. Jenkin re the compulsory clause of the Education Act being a dead letter.  Attendance is all, the competence of the teacher is ignored and the private schools are not supervised at all.  Quite 200 children attend five private schools in Kooringa and one in Redruth, and yet these children are not examined.  They may be well taught, but we have no check on that.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

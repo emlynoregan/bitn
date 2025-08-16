@@ -45,4 +45,4 @@ Burra School. A public meeting at the Institute was held on 9 Jan. to decide on 
 
 22 Jan. was selected as the day. Gov. Jervois was invited to open the school along with Members of the Ministry, the Board of Education and the Members of Parliament for the district. Local dignitaries of course and the Friendly Societies would be asked to take part. There would be a banquet at the Institute and the former Mayor [P. Lane] would be included in that. The Burra Brass Band was engaged and refreshments for the scholars were also organised
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

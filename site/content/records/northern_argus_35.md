@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 A Public Meeting is called for the Civic Centre on Thursday to begin plans for Burra’s float in the Jubilee 150 procession in Adelaide on New Year’s Eve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

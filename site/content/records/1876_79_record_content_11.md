@@ -38,4 +38,4 @@ The Record: A Paper for Burra and the North-East
 
 The Burra Record: A Paper for the North and North-East
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

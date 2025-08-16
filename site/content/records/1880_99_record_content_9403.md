@@ -30,4 +30,4 @@ The Wants of the Burra District were presented to the Commissioner of Public Wor
 
 [½ column is devoted to the needs of the wide-flung electorate.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

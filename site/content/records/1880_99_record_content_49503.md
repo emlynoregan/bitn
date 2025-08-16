@@ -35,4 +35,4 @@ H.R. Hill appeared for the plaintiff and J.H. Symon for the defendant.
 
 The evidence is quite amazing and Hardy was mercilessly destroyed by the QC who also made mincemeat of Hill.  Early on it is clear that Symon is a very clever manipulator of technicalities and later an astute and quite ruthless exposer of a stumbling witness.  Hardy clearly had no idea what he was letting loose upon himself.  Some of Hardy’s letters to Davey that are introduced in evidence scarcely seem to be those of a rational person.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

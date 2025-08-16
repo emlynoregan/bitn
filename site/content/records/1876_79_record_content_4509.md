@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Stock Sale. Last Friday’s sale was the biggest ever in Burra, realising about £7,000 and bringing much business into the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. J.H. Hadley was farewelled at the Redruth Wesleyan Schoolroom on Wednesday evening when about 100 attended.  A bound address was presented to the minister who is going to Kadina.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

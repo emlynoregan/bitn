@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Football. The match on Wednesday in Austin's paddock resulted in a draw. Burra 1.11 and Clare 1.4 [At this time points were recorded, but did not count in determining the result.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

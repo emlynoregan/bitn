@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Typhoid.  Currently there are 49 patients in the Burra Hospital of whom 13 are children suffering from typhoid fever – additional nurses have been engaged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

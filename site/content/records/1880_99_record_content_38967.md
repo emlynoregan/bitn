@@ -87,4 +87,4 @@ Postal Charges to other countries are to drop on 1 January 1891 to 2½d per ½ o
 
 Salvation Army Guards Brass Band of over twenty performers from Melbourne visited and was much appreciated.  They played in Jamestown Friday, travelled to Yarcowie on Saturday to catch the train to Burra, arriving at a few minutes to five.  They marched to Kooringa and had dinner at the Barracks.  Then there was a huge meeting in Market Square and on Sunday the usual meetings drew large crowds.  They left on Monday for Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

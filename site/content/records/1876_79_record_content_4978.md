@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Submarine cable to Europe has been disrupted. This is very inconvenient given the state of politics in Europe over the Turkish-Greek question and the implementation of the Berlin Treaty and the troubles in Afghanistan between Russia and England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -41,4 +41,4 @@ Mr. Collins of Mt Bryan - a colonist of 25 years.
 
 Thomas Killicoat - foreman of the water stamps. [Incorrectly said to be a miner and ore dresser, but corrected in next issue.  Died 13 November 1876 Burra Mines aged 60.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

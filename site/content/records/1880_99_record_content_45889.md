@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI went to the residence of Mr Field about six miles from Burra on Wednesday.  Drills were practised and a first class spread provided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

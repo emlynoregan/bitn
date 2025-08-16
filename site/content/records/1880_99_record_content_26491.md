@@ -37,4 +37,4 @@ The return was equally miserable except for two women who managed with bad grace
 
 There were 670 persons in the train overall.  [Actually 673 according to the figures cited.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

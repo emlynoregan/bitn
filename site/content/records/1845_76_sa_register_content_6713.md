@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The case of Blair v. Taylor was referred to arbitration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

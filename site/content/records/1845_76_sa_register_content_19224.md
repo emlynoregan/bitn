@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Sickness is still prevalent and deaths are unusually numerous.  Two died from typhus during the week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

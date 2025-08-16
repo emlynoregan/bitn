@@ -41,4 +41,4 @@ He was also charged with leaving his cab without first chaining the wheels.  Fin
 
 Charlie Grow was fined 10/- + 10/- costs for driving his cab without lights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

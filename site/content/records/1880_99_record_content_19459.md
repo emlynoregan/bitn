@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The 63rd dividend of £3080 was paid on 8 July last.  Expenses for the period were £589-13-4 and income £1,206-1-9.  The account had a credit balance of £69,160-15-5.  About 2¼ acres of land has been sold in Kooringa.  No country land has been sold.  Some Kooringa leases were renewed.  Land held by SAMA is valued at £128,638-14-8.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ Last Tuesday the Premier P. Murrie announced his ministry and policy.  Premier a
 
 The policy was presented under 21 headings and was printed in the paper.  Among the policies: the Transcontinental Railway was to proceed, the tax basis was to be a single property tax, tariffs stay as they are at present, there will be payment for Members of Parliament and single member constituencies.  The Legislative Council will have a reduced term or be abolished.  There will be home rule for the NT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

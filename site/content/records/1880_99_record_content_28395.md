@@ -28,4 +28,4 @@ Public Notice.  Thomas W. Pearce published a letter from W.L. H. Bruse of 3 Apri
 
 Mr Pearce publishes this letter in order that ‘the public will see the jealousy therein’.  He then says that he will continue to offer his services as an undertaker etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

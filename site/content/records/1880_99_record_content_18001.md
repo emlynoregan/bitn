@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra [Oddfellows] Lodge, six-monthly finance meeting showed 308 members.  Income £536-16-3, Expenditure £440-13-2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

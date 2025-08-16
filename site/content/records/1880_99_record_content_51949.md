@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 5 June.  There was a stormy discussion re Cr Linkson putting on a man to work in North Ward.  He was so amazed at the discussion that he said Cr Hardy was not fit to fill any position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

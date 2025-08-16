@@ -45,4 +45,4 @@ Graham’s Lode, Penny’s Lode and others are only partly examined.
 
 The directors have opened a native spring about 1½ miles from the township.  It has been ascertained to yield 700 gallons of good water per day.  The directors brought with them some splendid specimens of ore.  Shares in the SA Mining Assoc. are changing hands at a premium of 220%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

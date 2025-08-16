@@ -34,4 +34,4 @@ W.H. Hardy has recently returned after 12 months in Central Australia where he w
 
 [The year is right for this to have been the Arltunga battery to the east of Alice Springs & further research could no doubt confirm that.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

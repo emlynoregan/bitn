@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mrs Pearce Sen. Last Tuesday night mistook the road to the ford in the dark and took the approach road to the new bridge instead. The fence across the approach has recently been removed and she fell 9-10’ off the new approach and was lucky to have escaped with severe shaking and bruising.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

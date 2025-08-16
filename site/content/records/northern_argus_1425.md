@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 The Bush Picnic Race Meeting Committee held its AGM recently.  The next race meeting will be 29 March 1987.  Elected: President, John Maidment; Senior Vice-President, David Kellock and Secretary-Treasurer, Les Saunders.  Proceeds will again be split between RFDS and Burra Senior Citizens Hostel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

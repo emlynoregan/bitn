@@ -35,4 +35,4 @@ A private letter says a lump of gold weighing 46 ounces is going home to the Gre
 
 In SA there are rumoured discoveries at Mount Torrens and reports from Mount Remarkable, but these are unauthenticated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

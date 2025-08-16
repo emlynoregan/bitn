@@ -30,4 +30,4 @@ Advertisement.  Burra Burra Mines.  £4 per ton of 20 cwt will be paid for the c
 
 Henry Ayers, Secretary, Adelaide, 13 June 1854.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 W.H. Linkson, Secretary of the Burra Cricket Club, responds to an attack made on him by the cowardly anonymous writer.  He supplies answers from Mr S.E. Evans to show that there was no correspondence between them relating to the match in question.  [The match referred to was one played in Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

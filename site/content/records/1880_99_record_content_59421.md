@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Guards’ Band visited Burra on Thursday.  Their number has been reduced, but the quality remains.  On Thursday afternoon they played for Burra Hospital patients.  A successful open-air meeting in Market Square and subsequently a ‘£7-10-0 house’ greeted the performers.  They left Burra the following morning for the north.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

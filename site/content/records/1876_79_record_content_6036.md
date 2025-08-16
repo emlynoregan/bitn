@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Marriage. 22 Feb. 1879. David, eldest son of George Anderson of Burra, to Jane A. Ellery, eldest daughter of Richard Collins of Mt Bryan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

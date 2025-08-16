@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the town’s prospects.  1879 had not been a good year with trade down and money tight.  The crops had been poor and rabbit ravaged.  The pastoralists had not had it so bad, but were not flourishing either.  Mining was very bad, but prices for commodities were up a little at year’s end.  There was a worldwide depression in trade.  The Government had survived the year only because of a divided and incompetent opposition.  1880 promises to be better than 1879.  There is rising demand for wool, copper and wheat and if copper prices rise further there are encouraging prospects for the mine.  Prospects for Government income are correspondingly better.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

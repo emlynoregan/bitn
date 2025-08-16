@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Jubilee Fisk Singers will return to the Institute after a long absence for Thursday and Friday next.  Their tour has been an unprecedented success.  The program is of old favourites, Negro plantation songs, Jubilee choruses, first-class secular and comic songs.  Also hear Miss Mattie Allan, the world’s only lady tenor.  3/-, 2/-, 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 R. Brummitt, Mayor, writes a letter suggesting that to commemorate the Diamond Jubilee Burra establish a Benevolent Society for the poor of the town and he calls a meeting for that purpose at 3 o’clock in the Council Chamber on Thursday afternoon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

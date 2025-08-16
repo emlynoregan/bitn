@@ -41,4 +41,4 @@ England is about 15,000 miles away and Newcastle about 1,500.  The cost to the l
 
 [The Register observes that the Maitland author seems unaware that the supplies of wood fuel in South Australia would meet the vast consumption for some generations to come, even if South Australia does not find its own coal reserves.  The positive aspect of the article, it believes, lies in its desire to expand inter-colonial trade and develop Australian manufacturing capabilities.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

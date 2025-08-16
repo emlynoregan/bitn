@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Home Reading Circle was formed at a meeting held at the Burra High School [Bleak House] on Saturday evening.  Mr J. Sandland presided.  Mr J. A. Kennedy was elected President and J.E.H. Winnall, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

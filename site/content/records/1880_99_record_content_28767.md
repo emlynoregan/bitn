@@ -28,4 +28,4 @@ Advt.  W. Baxter’s Sea on Land
 
 Open every evening weather permitting at the rear of the Commercial Hotel.  Open 3-5 Saturday afternoon for school children at 1d.  On Monday evening half the proceeds will go to the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

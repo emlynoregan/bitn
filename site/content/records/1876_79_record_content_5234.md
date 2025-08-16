@@ -82,4 +82,4 @@ Lipsett rose to object and others interjected that there were in fact no public 
 W. Pearce jnr said he didn’t know there were even two or three public wells. 
 Cr Roberts and Rev. W. Jenkin rose in support of Mr Lipsett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -47,4 +47,4 @@ A resolution thanking Mr Holder for his work as Town Clerk was passed.
 
 S. Mortimer, field umpire for the Clare-Mintaro football game that had sparked controversy wrote adding his comments.  He says the rough play was quite even on both sides and Mintaro won on its own merits.  He did not threaten to leave the match on account of Mintaro’s rough play as the Clare correspondent had said.  He did say to Mintaro that if their bad language was not moderated he would not act in future games.  This however, he intended as a hint to both sides as the language of the Clare team was equally bad.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Dramatic Club.  The play More Sinned Against than Sinning was performed to a full house on Wednesday last.  Proceeds went to the Burra Institute, the Cricket Club and Burra Literary Soc.  It is reviewed in ½ column.  The musical incidents in the drama were played by the Burra Orchestra making its first appearance under W.J. Davey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

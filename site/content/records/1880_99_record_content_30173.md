@@ -44,4 +44,4 @@ William Banks was sentenced to 3 months for stealing a watch from Mr Henry Skewe
 
 A coloured man, James Ahange got 6 months for stealing £2-10-0 in silver from the pocket of a lodger at the Kooringa Hotel.  [He appears in Gaol records as the Chinese Ah Hang.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -42,4 +42,4 @@ Cr Hardy moved Council secure the carrying out of the agreement between Mr Ridgw
 
 Cr Rabbich said they had no right to interfere till the end of year 7 when they could see if £35 had been expended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

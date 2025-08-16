@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 James Prior charge Richard Rossiter with stealing his horse from Yungala [sic: for Yongala].
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

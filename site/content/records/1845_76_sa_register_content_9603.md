@@ -42,4 +42,4 @@ John Benjamin said the prisoner had bought a shirt from him the previous day and
 
 John Macdonald claimed that he and Eade were both drunk, but Eade was the worse.  Eade had given him the £6-6-0 order and told him to pay for two nobblers and to get a shirt.  I got the nobblers, but could not get change.  Went to Mr Benjamin’s and got the shirt and the two orders produced as change.  Then went behind an old bakehouse and went to sleep.  In the morning I went to the hotel and found Eade with others.  I was not then aware that I had not given him the change.  Committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

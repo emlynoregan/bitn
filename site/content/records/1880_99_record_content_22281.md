@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Silver Claims.  The report of the Government Geologist is that World’s End-Robertstown fields will not yield payable silver.  Unless some discovery contradicts this there seems no hope of developments there.  This should all have been ascertained four months ago!  What a waste of effort and money.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

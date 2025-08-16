@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cemetery.  The curator was against placing a turnstile at the cemetery, but recommended it be open to the public on Wednesday afternoons and a motion to open it from 1 to 5 p.m. on Wednesdays was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

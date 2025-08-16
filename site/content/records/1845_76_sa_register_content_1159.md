@@ -40,4 +40,4 @@ By comparison a recent sale of Cornish and Devonshire copper ores of 3,015 tons 
 
 Several parcels have now realised above £30 per ton and one kind of ore now very prevalent will certainly realise £40 per ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

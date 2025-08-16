@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Institute half yearly meeting of subscribers on Tuesday found that the debt on the property is now only about £40 despite additions to the library stock and some planting on the grounds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

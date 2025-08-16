@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Influenza in Burra is serious, but it is not in its most virulent form.  At Gum Creek Mr & Mrs Scott and family with 8 or 9 shearers have been laid up and at Caroona only one shearer is capable of working.  At Mt Bryan Mrs Ullman died on Monday and Mr Ullman and two children are seriously ill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

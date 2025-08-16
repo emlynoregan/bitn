@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The race from Saddleworth on 9 September was for birds rung after 1 June 1895.  It was won by J.A. Pearce’s birds, which covered the 30 miles 320 yds in 39¾ mins at a velocity of 1,336 yds per minute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

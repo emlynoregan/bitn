@@ -42,4 +42,4 @@ James Sullivan writes in response to a letter signed ‘W.H. Geddes’, Burra Ho
 
 As one of the party that came from Ketchowla, I can say that the barman, as I supposed him to be, bluntly refused to take the man in, although we offered to pay any charge he might make until Monday morning, when the patient was to go to Adelaide Hospital by train.  I must say that Mr Austin did all he could considering the distance in the bush, that any kind feeling gentleman could do for a poor unfortunate bushman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

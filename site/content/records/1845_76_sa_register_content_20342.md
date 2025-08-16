@@ -54,4 +54,4 @@ The Bishop responded, addressing the gathering of about 300 persons.
 
 On Wednesday 3 April Very Rev. Fr Tappeiner celebrated Mass and his Lordship baptised 19 postulants.  The chapel was densely crowded.  In the evening the Bishop went to Sevenhills College.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ballast Quarry.  A contract has been let to Mr E. Camp for 5,000 yd3 of metal from the Aberdeen Quarry, but the blocking of the road by the Bon Accord Bridge work will make delivery difficult.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

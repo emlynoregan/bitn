@@ -28,4 +28,4 @@ SA Education.  School Returns for 1869.
 
 ‘The 527 schools, with their 1,013 teachers – has not produced anything very creditable to us as a nation.  It has neither attained a high standard of instruction nor has it secured a large school attendance.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

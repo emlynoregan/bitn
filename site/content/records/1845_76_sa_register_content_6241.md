@@ -53,4 +53,4 @@ Steps needed to be taken to promote education of children in the bush.
 
 He was a strong supporter of Sunday schools.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

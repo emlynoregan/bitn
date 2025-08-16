@@ -33,4 +33,4 @@ William Develaing was fined £1 + £1-8-0 costs for not complying with a Local B
 
 Mr Duff was fined 10/- for driving at 11-12 m.p.h. through Best Place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

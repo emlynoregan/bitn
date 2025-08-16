@@ -76,4 +76,4 @@ Will ratepayers sanction its use for other purposes?
 
 The need for a proper survey is apparent.  At present nothing can prevent encroachments for there is no proof of where boundaries are.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

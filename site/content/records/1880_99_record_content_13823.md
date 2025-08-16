@@ -29,4 +29,4 @@ Salvation Army.  A letter was sent from F.W. Holder as Town Clerk to the Salvati
 
 Captain W. Bonell replied that he felt in a free country everyone has a right to worship God in their own way and he sees no reason to stop the band as long as church bells keep ringing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

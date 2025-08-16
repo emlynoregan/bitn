@@ -84,4 +84,4 @@ Bonded Debt	£2,300
 
 * In view of the Mayor’s report in the paper of 21 November the figure here for the General Account seems more likely to be the figure for the General Account plus the Recreation Ground and Cemetery less the Health Account credit.  This total then being estimated at £412-17-11.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

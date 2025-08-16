@@ -33,4 +33,4 @@ At Copperhouse there were 45 enrolled with an average 30 attending and 4 free sc
 
 Davieston had 27 enrolled, an average attendance of 16 and no free scholars.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

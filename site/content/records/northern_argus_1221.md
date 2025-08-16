@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Marguarite Lang was naturalised at a ceremony at the May meeting of the Burra Burra DC.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

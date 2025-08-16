@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Accident.  Mr J.M. McBride’s horse bolted last Tuesday.  He missed the reins and the wheels caught him, throwing him violently to the ground, dislocating his right arm at the shoulder and bruising him.  The horses were stopped after 1½ miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

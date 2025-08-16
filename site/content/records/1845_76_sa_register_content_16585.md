@@ -35,4 +35,4 @@ The miller is adding to his property here, which will add to the town’s prospe
 
 The District Council is presently cutting through Cox’s Hill, which will be a great help to all loading passing through Mintaro this winter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

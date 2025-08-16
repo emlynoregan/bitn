@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mt Bryan Ranges Silver Mine Assoc.  The manager reports No. 2 shaft to 46’6” and expects to cut the lode next week.  In the underlie shaft they have started to open out the lode at 35’.  [Further work reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -61,4 +61,4 @@ A telegram tells us that when the inquest was resumed on Saturday 13 August at 7
 
 [But see 23 August 1870, page 3 reported the resumption of the inquest on 20 August.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

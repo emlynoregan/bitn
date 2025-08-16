@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Copperhouse Primitive Methodist Church held its Anniversary on 1 with a public tea on 2 January followed by the service of song Nobody’s Darling in the evening, rendered by the Redruth Primitive Methodist Choir.  This was held in the open air, as the congregation was too large for the church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

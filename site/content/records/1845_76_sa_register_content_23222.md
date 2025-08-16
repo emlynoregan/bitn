@@ -39,4 +39,4 @@ Inquest on Redruth Post Office Fire.  Mr MacDermott SM conducted the inquest at 
 
 Ellen Cushion gave corroborative evidence.  She had seen no one about outside when she had run out.  Other witnesses were examined at great length, but nothing further was elicited.  The stock had been insured for £500 and the building for £300.  The verdict was ‘That there is no evidence to show how the fire occurred.’  They added a rider ‘That the building where the Post-Office was kept was not suitable for the purpose on account of its inflammable nature.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

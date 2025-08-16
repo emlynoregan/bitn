@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Accident.  On Monday morning the foreman timberman Bennet Dally was down a shaft removing some timbers to put in a new sett and just as all was ready to send down the new timber the earth gave way and buried him with about three fathoms of earth.  Men were there immediately, but could not believe he could be gotten out alive.  After three hours’ work they found him almost unhurt.  The timbers had fallen together so as to form a shield over him.  He was able to walk home to his family who live on the mine.  Captain Roach was so impressed with the efforts of Henry Pens in particular that he handed him over £2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

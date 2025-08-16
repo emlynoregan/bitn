@@ -39,4 +39,4 @@ Wednesday 11 February [sic: for 13 February].
 
 Thomas Gallagher and Joseph Thornton had been charged by William Windover of entering his house through a window and threatening to murder him.  Windover failed to appear and the two were discharged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

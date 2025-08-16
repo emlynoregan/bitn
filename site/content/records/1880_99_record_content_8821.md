@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 14 Apr.	IV-VI	Good End of a Bad Shilling	X	X		X		X	X	X		Leichardt Letters
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

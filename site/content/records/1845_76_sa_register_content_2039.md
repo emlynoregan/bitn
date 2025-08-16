@@ -34,4 +34,4 @@ Of the new leases for runs:
 
 W.J. & J.H. Browne acquired a new run north of the Broughton, adjoining the run granted to Messrs Browne for1847, to the westward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

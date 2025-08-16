@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 A writer asks why the youths of the town are allowed to disturb others at entertainments in the Inst. etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

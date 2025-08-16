@@ -33,4 +33,4 @@ We cannot recall in England rabbits multiplying such as to threaten crops, but i
 
 [The article then details the devastation caused in 12 years since rabbits were introduced at Invercargill in New Zealand.  It outlines haw sheep suffer from the loss of feed consumed by the pest.  Details extend for about 1 column.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Broken Hill Fire.  A fire in Block 10 that started yesterday is believed under control.  The fire that started in Block 11 on 21 July is not yet entirely extinguished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

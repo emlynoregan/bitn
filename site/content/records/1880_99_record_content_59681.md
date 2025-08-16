@@ -30,4 +30,4 @@ W.G. Neville, landlord of the Royal Exchange Hotel, was charged with having in h
 
 Over half a column of evidence in detail is reported showing that the Inspector was unable to explain the procedure for deciding if it was less than 25% underproof and the case was dismissed with costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

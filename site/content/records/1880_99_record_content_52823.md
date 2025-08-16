@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Inquest into the fire in T. Warnes’s paddock revealing that it was started when James Pens went to the paddock to catch his horse which was kept there.  While there he lit his pipe with a safety match and threw it down.  The verdict was ‘although his conduct was highly reprehensible we consider it to have been so far accidental, that it was not done either wilfully or maliciously’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

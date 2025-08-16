@@ -29,4 +29,4 @@ Burra Races went very well last Monday, although the townspeople did not attend 
 
 [Note the term Hurry Skurry is not used in Burra as defined in the Dictionary of Australian Words, as the winner and second in it were both winners in previous events.  It would appear that here the race for horses not winning in other events was called the Consolation Race and was last on this card.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

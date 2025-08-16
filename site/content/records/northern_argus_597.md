@@ -33,4 +33,4 @@ publication_slug: northern-argus
 
 Barrow Push Teams are assembling in Broken Hill.  In Burra in anticipation of the finish Market Square will be closed to traffic from 10 a.m. to 4 p.m. on Sunday.  Live bands will play in the rotunda.  Food and drink stalls will operate and Radio 5PI will have its van there.  Other stalls will be set up.  The SES is providing a service all along the route and medical back-up has been arranged.  From 4 p.m. celebrations will move to the creek area where there will also be stalls and a disco has been arranged in the Town Hall at 8 p.m. by the Burra Rural Youth Club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

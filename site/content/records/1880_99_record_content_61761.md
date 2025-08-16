@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra High School starts on 26 January.  Miss Sprod will teach this quarter.  Miss Davidson, undergraduate of Melbourne University joins the staff to teach drawing and painting.  F. McLagan, Principal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

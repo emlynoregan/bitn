@@ -31,4 +31,4 @@ Obituary.  Mr Dick Reed died last week.  He is survived by his wife Dorothy and 
 
 [Richard Malcolm Reed born 29 April 1910, Kooringa: died 16 September 1986.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

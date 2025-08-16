@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Council has accepted the tender of R.G. Gardner & Co. for the town survey for £408-15-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

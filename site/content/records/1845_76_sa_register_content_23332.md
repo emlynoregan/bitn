@@ -20,4 +20,4 @@ publication_slug: sa-register
 
 25 May 1870, page 6
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

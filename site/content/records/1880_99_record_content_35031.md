@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Stock, the fast skater, previously in charge of the rink at the Burra Institute, has challenged anyone in Broken Hill to compete with him and F. Nestdale has responded, offering a 10 mile race for £10 a side with the winner to take 75% of the gate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

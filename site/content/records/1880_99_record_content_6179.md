@@ -31,4 +31,4 @@ Editorial on The Council Loan
 
 The councillors are not unanimous re the Recreation Ground section of the proposal.  North Ward councillors feel the ward will not benefit.  This ward jealousy 	is disappointing.  There are many reserves in the north and south parts of the town and the new one is the best that could be chosen and the idea of splitting the money for planting so some goes to old North Ward reserves is unfortunate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

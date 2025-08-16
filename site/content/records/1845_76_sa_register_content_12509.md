@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  The Royal Mining Co. offers the right to run over 24 sections totalling 1,916 acres at the Emu Flats, County of Stanley.  For terms apply to the office in King William Street.  Nath. Summers, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

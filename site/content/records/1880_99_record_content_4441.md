@@ -34,4 +34,4 @@ This problem really argues for the immigration of Chinese women.
 
 ‘The prejudice between race and race should be now, in this period of intercommunication, a thing of the past.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

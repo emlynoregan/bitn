@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the SA election.  The election had the largest turnout to that date and this time all districts voted on the same day.  It resulted in ‘10 direct labour representatives’.  The editor sees this as a good thing – that all classes should be represented, and their policies are very moderate, so the colony should have nothing to fear from this development.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ The Directors hereby notify that they have made arrangements at the Mine for the
 
 Tuesday 19 September 1848.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

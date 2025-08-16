@@ -39,4 +39,4 @@ Sidney Benham, police trooper, reported going out when advised by Walter Bagg th
 
 John Casey, employed by the deceased, said when he arrived on the scene the deceased was fully conscious and said he had shot himself ‘to put myself out of misery’.  Casey said he had never heard deceased express any thoughts of that sort before.  He had worked there about one month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

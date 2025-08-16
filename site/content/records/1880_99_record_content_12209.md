@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Benjamin Clegg and Susan Clegg alias Susan Charlton were charged with incest, having lived together as man and wife for 4 or 5 years, they being brother and sister.  Case adjourned for evidence from the mother to be obtained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

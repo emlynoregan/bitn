@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘Fairplay to All’ writes a letter re one law for the rich and another for the poor.  The writer’s specific complaint relates to the decision not to prosecute prostitutes at a particular high-class brothel in Adelaide because so many of the ‘Upper Ten’ were visitors, including Members of Parliament, leading lawyers, and other prominent citizens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

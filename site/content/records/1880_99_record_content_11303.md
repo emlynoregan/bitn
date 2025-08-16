@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Local Board of Health has continued scavenging and inspection and the town is in a good sanitary condition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Jubilee 150 Funding
 
 Burra Burra DC delegation met with the Jubilee 150 Board Executive Committee on 10 October and were told that the Board had recommended that funds earmarked for the Copper Interpretation Centre be withdrawn.  The Burra Burra DC Chairman has requested an urgent meeting with the Premier, the Chairman of the Jubilee 150 Board and a representative from the Department of Environment and Planning – Heritage Conservation Branch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

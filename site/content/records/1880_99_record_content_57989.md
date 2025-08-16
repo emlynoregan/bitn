@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 West Ward had £82-15-7 and retains £7-7-0 plus £12-11-10 carried over from last year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

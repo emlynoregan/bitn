@@ -37,4 +37,4 @@ publication_slug: record-1880-99
 
 F.W. Holder was accorded a farewell in the Corporation Chamber on Thursday evening last.  He has been a resident for over 15 years and is about to remove to Adelaide.  The mayor, W. West, took the chair and speeches praising Mr Holder were made by Rev. J.S. Wayland, Dr Brummitt, Cr Rabbich, Messrs P. Lane, T. Kitchen, W. Davey, W.H. Hardy, T.T. Shortridge, J. Jenkin & W.H. Linkson.  Several presentations will be made to Mr Holder at a public meeting on Friday 11 September in the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

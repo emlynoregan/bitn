@@ -34,4 +34,4 @@ Much sickness prevails in the town at present.  There are many cases of measles 
 [Note that the SA Deaths registrations for 1862 bear out this report:
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

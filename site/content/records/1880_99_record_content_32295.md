@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Robbery.  A case of jewellery valued at about £30 was stolen from the Kingston Hotel at Mt Bryan on 17 April.  The property was found hidden beneath the floor of an old closet and the police have a clue to the culprit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

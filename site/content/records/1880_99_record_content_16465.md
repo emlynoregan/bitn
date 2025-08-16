@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd leader on the possibility of compulsory insurance for members of the public service for a sum equal to twice the annual income of the contributors class or grade, to be drawn on death or at age sixty or to be taken as an annuity equal to one fifth of such salary.  The premiums to be deducted by the Treasurer and to be paid until death or retirement and to be unassignable till death or retirement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ The Old North Road
 
 A meeting at Templer’s North Star Inn on Saturday 29 July called for the complete formation of the Old North Road from Gawler past Templers to the top of Templer’s Hill, with the idea that settlers in Alma, Hundred of Blyth, Stockport and Light Bridge would then support them for the extension of this line of road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

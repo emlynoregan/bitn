@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Girls’ School, run by Mr & Mrs Mathews, held an afternoon tea and entertainment in the evening to bring the midwinter session to a close.  The work of the children reflects well on the teaching and Mr & Mrs Mathews merit the success, which has so far attended their efforts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

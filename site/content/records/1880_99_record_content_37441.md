@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Ajax’ lists the survivors of the Charge of the Light Brigade at Balaclava and describes their plight: subscriptions to aid them having been called for.  Some 20 in dire straits are listed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

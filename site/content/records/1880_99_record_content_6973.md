@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Band of Hope began its third year on Wednesday.  In the last year 42 signed the pledge at Redruth and 10 at Copperhouse.  The total is now 281.  Rev. Knight spoke against banquets at the public expense as at the opening of the Great Northern Railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

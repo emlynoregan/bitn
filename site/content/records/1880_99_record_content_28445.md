@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ralph Bartle was accused of embezzling £2 given to him by Messrs Roach Bros. on account of the Burra Corporation, on or about 14 October 1887 and also the sum of £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

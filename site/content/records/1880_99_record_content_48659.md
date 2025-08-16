@@ -51,4 +51,4 @@ The Mayor again called for a vote.
 
 Cr Parks then said members of Council objected to the part of the Mayor’s report where he made reference to Cr Linkson.  He said he had since looked up Standing Orders and thinks now the Mayor was wrong.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

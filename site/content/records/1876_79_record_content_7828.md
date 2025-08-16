@@ -36,4 +36,4 @@ Redruth Bridge Opening.
 
 For some months the Redruth Bridge has been very unsafe. Two or three years ago we believe a horse fell through a hole in the middle of the roadway and the laminated timber arches were known to be rotten to the core. The Midland Road Board decided to replace it with an iron bridge on account of the traffic it had to carry to and from the eastern country. The contract for the ironwork went to Messrs James Martin & Co. of Gawler, but a long strike delayed completion and their girders were eventually put together in the yard of Mr Hooker of Adelaide. On the journey to the site one girder fell and it was feared it would have to be written off, but with effort the engineer, Mr Duff, managed to have it restored. Mr Duncan Grant got the job of assembling the new structure as well as removing the old bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

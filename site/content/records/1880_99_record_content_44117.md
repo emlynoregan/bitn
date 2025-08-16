@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the vote of censure passed on Cr Hardy at the Council meeting last Monday.  The editor urges Councillors to work together for the good of the town.  Never before in times of prosperity and depression has occasion arisen to justify a vote of censure on any officer or member of Council, but things have been so disgraceful of late that the action of the Council in passing a vote of censure on Cr Hardy is to be commended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church held thanksgiving services last Sunday, but unfavourable weather meant numbers attending were not much above normal services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

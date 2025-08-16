@@ -43,4 +43,4 @@ Princess Royal Mine is attracting great attention with 16 pitches let. The lesse
 
 Heinrich Sievert was charged today with stealing a hat, the property of Corporal Shaw, from the dining room of the Burra Hotel on 2 May.  He was committed for trial at the next Local Court of Full Jurisdiction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

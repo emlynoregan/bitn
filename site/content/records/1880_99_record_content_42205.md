@@ -41,4 +41,4 @@ The neighbourhood is being continually annoyed night after night with someone pa
 
 ‘Kooringa is troubled with two or three old hags who deserve to be tarred and feathered and then hunted like dogs out of a respectable community.  The authorities need to take the matter seriously and leave no stone unturned to punish the guilty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

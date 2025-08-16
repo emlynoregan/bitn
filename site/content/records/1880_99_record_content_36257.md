@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Chrysanthemum Show.  The Institute Committee resolved on 14 April to cancel this year’s show as grasshoppers have eaten most of the plants this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

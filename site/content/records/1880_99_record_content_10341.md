@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  A public meeting is called for 15 August in the Institute to consider the Education Bill and Taxation proposals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

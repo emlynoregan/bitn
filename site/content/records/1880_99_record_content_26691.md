@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Lawn Tennis.  The Burra v. Clare match on the Burra Club Court near the Smelting Works was held on 9 Nov. and Burra 11 sets 77 games defeated Clare 3 sets 46 games.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

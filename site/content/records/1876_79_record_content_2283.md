@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 There was a detailed report of the public meeting: 2.5 columns on p.187 & 3 on p.188.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

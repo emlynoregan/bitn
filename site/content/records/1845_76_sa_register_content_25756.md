@@ -33,4 +33,4 @@ J.D. Cave JP held an inquest on 5 August into the sudden death that morning of R
 
 [In view of the above the death registration would seem to be in error: Robert Mark Dell died 5 August 1874 aged 63 at Caltowie, residence Caltowie.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

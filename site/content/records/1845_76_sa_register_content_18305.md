@@ -41,4 +41,4 @@ Josiah Jeffreys gave a similar account and Bennet Dalby, the chief timberman, al
 
 [This death does not appear on SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

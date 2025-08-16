@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Recent Brutal Assault. Three men were brought before His Worship on Saturday last in connection with this case.  The case against one was dismissed.  One was fined £5 and Kellaway was committed for trial in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

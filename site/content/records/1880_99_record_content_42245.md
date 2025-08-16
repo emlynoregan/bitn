@@ -27,4 +27,4 @@ A Robbery was attempted about 2 a.m. Monday at a well-known Redruth Hotel.  Entr
 
 [No doubt the whole town knew whose horse it was from the preceding and the added clue that had it died a lot of people would have had to go without their vegetables.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

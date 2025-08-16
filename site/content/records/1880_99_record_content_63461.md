@@ -56,4 +56,4 @@ Miss Millar's mapping prize was awarded by Mr Winnall to Vera Wilkinson.
 
 In Class V Ida Brummitt topped the exams and Vera Wilkinson was first in class marks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

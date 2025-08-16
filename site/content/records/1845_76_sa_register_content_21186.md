@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Last Wednesday 11 September about 40 people in eleven conveyances set out in wind and rain from the Wesleyan Church for a tea meeting some 35 miles away on Mr George Hiles’ Munjibbie Station.  All present enjoyed the outing very much, but on the homeward journey next day Mr William Pearce was thrown over the splashboard while getting into his vehicle while it was in motion.  He broke his leg near the ankle and is progressing under the care of Dr Dashwood.  The object of the meeting was to raise money for the ministry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

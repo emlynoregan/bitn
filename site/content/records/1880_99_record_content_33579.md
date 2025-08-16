@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Burra Elector’ writes concerning W.B. Rounsevell’s indecision about whether to stand again for Burra or to move to Port Adelaide.  If he finally decides on Burra and other good local candidates come forward he deserves to find the going hard, as in the writer’s view Burra has too often been represented by city men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

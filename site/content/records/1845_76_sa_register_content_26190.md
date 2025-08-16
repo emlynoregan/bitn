@@ -30,4 +30,4 @@ More than one enterprising sheep farmer has entered upon wheat growing on a cons
 
 [The article goes into others details and believes that the two branches of farming should be combined to the advantage of the farmer; providing a less precarious living, preserving the productivity of the soil and increasing the prosperity of the colony.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

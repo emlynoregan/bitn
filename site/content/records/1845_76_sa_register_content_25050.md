@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Mt Bryan East.  Yield of wheat for the season seems to be 14-15 bushels per acre.  Wheat was fortunately bagged before a thorough rain on 27-28 January.  The crown Lands Ranger is tackling the Scotch thistle problem, but rabbits are on the increase.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

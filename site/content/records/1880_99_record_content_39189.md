@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on some of the more bizarre ways people have of raising money: probably sparked by ‘a series of idiots’ who are starving themselves for 40 days for exhibition.  In Sydney the Government has been asked to intervene, but Sir Henry Parkes (Premier) says if a man is fool enough to starve himself to death the Government has no right to intervene.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

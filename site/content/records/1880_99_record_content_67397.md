@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  Boring was to have ceased on 11 November, but owing to the discovery of a magnificent lode of high grade ore the directors have decided to continue the work to prove the find.  There is nothing to prevent the property from being worked – ‘unless it is expected to scoop up moulded pence as well as maleable [sic] copper’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

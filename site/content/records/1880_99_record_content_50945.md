@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Poultry Show.  Until recently this was an annual event, but no longer.  Mr Forsyth of Copperhouse has exhibited cages of birds at the Sa Poultry Show in Adelaide on 1 & 2 September, winning 8 firsts, 2 specials and 5 second prizes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

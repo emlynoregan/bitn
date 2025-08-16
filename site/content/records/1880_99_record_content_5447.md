@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  New Line of Cabs.  Donald Morrison has taken the livery and bait stables at the rear of the Royal Exchange Hotel, Aberdeen and runs cabs regularly between the railway station and all parts of Aberdeen, Redruth and Kooringa.  Horses and traps on hire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 A Fractious Horse.  A horse attached to Drew & Crewes’ trolly caused considerable concern in Market Square on Tuesday when it became disturbed.  It threw itself to the ground and then got up and dashed at the Record Office.  R.D. Pascoe rescued a bicycle from its path.  It then went under the verandah of P. Lane’s and Wilkinson’s shops, but rushed out again before damage was done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

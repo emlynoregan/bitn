@@ -45,4 +45,4 @@ In the local court today William Pearce brought an action against Julius Victors
 
 A charge by James Pearce against John Bagg for abusive language was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

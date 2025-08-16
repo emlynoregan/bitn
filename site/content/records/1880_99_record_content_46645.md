@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Major Hoskin and Captain Bennett visited Burra on Friday and their meetings were well attended.  A social was held in the afternoon with a first class spread.  There was a torchlight procession at 7.30 and the band played.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

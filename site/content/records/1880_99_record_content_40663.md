@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes in support of Cr Rabbich and suggests a subscription be raised to pay the fine inflicted on him in the event that it stands and has to be met.  He is prepared to pay towards it, but if it comes to that he will ‘never support the petty tyrants who have made it necessary’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

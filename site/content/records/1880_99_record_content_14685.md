@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church.  Rev. C. Tresise was temporarily sent to Kooringa after the last Bible Christian Conference, but now Rev. James has arrived from England, freeing Rev. Tresise for evangelistic labours in different places.  A tea was held to farewell him on Wednesday, presided over by Mr W.H. Turner.  Mr Holder spoke in appreciation of Rev. Tresise’s work followed by Mr Trellagan of Mt Bryan, Rev. G.E. Rowe and Mr G. Anderson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

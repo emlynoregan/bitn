@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Morgan, wife of John Morgan, died at Kooringa on Thursday, aged 25.  She was born Edith Mary Woods, the 2nd daughter of William Woods of Adelaide.  [Registered as born Edith Mary Wood 17 November 1872: died 3 March aged 25.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

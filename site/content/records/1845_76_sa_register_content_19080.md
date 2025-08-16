@@ -30,4 +30,4 @@ Central Road Board: The Road to Burra
 
 A memorial signed by 122 inhabitants of the various Burra townships prayed that the Board appropriate £5,000 or a portion of such amount voted by the Legislature for the Burra Road, for use on that portion of the road between Langmead’s and Kooringa.  This was the worst portion and in fact impassable.  The memorial noted that 15 months ago the Board voted £650 for making a portion of road at the Sod Hut Ranges, but such sum had not yet been expended.  Two other petitions on this matter were also received.  The Board directed that the works be pushed forward as speedily as possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

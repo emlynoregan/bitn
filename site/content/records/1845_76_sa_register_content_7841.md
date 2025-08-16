@@ -38,4 +38,4 @@ From the opening of the Victorian goldfields to date 220,305 oz have been shippe
 [The article goes on to report that robberies and crimes of violence are numerous.  Two murders are detailed.  Details of shipping are also given.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

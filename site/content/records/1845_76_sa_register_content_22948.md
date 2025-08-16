@@ -81,4 +81,4 @@ Wheal Schneider section 2178 (near Karkulto) of 77 acres.
 
 About 60 wagons, 250 horses and mules, harness, carts, plant and implements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

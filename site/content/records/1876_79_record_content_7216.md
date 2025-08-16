@@ -32,4 +32,4 @@ Obituary. At Kooringa, 2 October, Eliza Hosking, wife of John Hosking, aged 56.
 
 [Born Eliza Barnett/Burnett 6 March 1824 Cornwall, England.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Obituary & Inquest at Hallett on Wednesday 31 July on F.B. Garlin who had died suddenly near Tommy’s Gap after walking over a difficult piece of ground; the passengers having alighted from the Jamestown-Hallett coach to ease the load for the horses. The deceased had died quite suddenly after being helped back into the coach suffering from palpitation of the heart. The verdict was death by visitation of God.  [Frederick Benjamin Carlin died 30 July 1878 at Tommy’s Gap near Hallett aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

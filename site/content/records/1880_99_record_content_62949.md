@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Accident.  On Monday morning Mr Duncan Blair, accompanied by his wife, drove into Burra on business and on the way home in the evening the horse collided with a fence about a mile from the Bon Accord Hotel.  The cart capsized and Mrs Blair received a nasty head injury.  Cpl Noble had her conveyed to the hotel, but Dr Sangster then had her removed to the Burra Hospital.  Blair himself received a severe gash over the left eye and severe bruising.  It is a coincidence that only a few months ago he had both legs broken in an accident at almost the same spot.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

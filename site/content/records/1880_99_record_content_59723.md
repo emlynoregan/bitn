@@ -31,4 +31,4 @@ At Mongolata last Wednesday: Mongolata 32, Burra 2nd Eleven 122.
 
 At Manoora last Wednesday: Manoora 127, Burra 5 for 162.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

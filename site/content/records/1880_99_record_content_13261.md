@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Tree Planting is being prepared for.  The small reserves are being fenced and over 300 tree guards are being made and placed in holes prepared for trees.  800 trees have been ordered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

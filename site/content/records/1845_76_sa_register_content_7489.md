@@ -33,4 +33,4 @@ George Bevan, Clerk for the Patent Copper Co. appeared to answer an information 
 The company made no defence and was ordered, after some discussion between the parties, to pay £22-10-0 plus 23/- costs.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

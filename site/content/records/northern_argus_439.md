@@ -41,4 +41,4 @@ Plans were also produced at the meeting for the proposed Burra North deviation o
 
 [Photo of goose-neck poles in Commercial Street and the south side of Market Square.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Newmarket coat	a close-fitting tailcoat originally worn for riding and named after a town in Suffolk famous for horse-racing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

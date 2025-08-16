@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Arrangements have been made for Mt Leyshon Jones to smelt ore in the Burra Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

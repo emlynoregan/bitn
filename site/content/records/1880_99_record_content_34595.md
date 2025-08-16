@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Children’s Concert.  Last Friday the Public School Children gave their concert in aid of the Christmas tree.  Mr Wittber deserves great credit for organising the occasion.  It raised about £6 and is reported in about ½ column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

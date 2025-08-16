@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the Long Depression, which he says, has been brought about principally by drought combined with the fall in commodity prices.  Both wheat and copper have fallen sharply in value.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

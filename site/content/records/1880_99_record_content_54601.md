@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Ministering Children’s League Social & Promenade Concert in the Wesleyan Lecture Hall last Friday drew only a moderate attendance in poor weather.  £6 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

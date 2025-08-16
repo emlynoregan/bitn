@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Burra Football Club AGM with W. Fitzgerald in the chair.  G. Parks resigned as secretary on account of ill health and J. Blott became Secretary pro tem.  Terowie wished to play 5 matches, 3 at Burra and 2 at Terowie with the first on 30 April, but this was deemed too soon and a reply was deferred.  The Patron was confirmed as F.W. Holder and the President as D.S. Packard.  Colours remained red and blue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

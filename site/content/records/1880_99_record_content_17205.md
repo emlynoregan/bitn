@@ -64,4 +64,4 @@ Ambrose Harris asked where the Parklands were and did they not belong to SAMA.
 
 The Mayor listed the Recreation Ground, the Redruth Reserves, Welsh Place etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 Advertisement.  The Eastern Plains Mail will in future run from Kooringa to Autalpo [Outalpa] via Chewing’s, Pendappa, Paratoo, Teetulpo [Teetulpa], Uarpo and Winininie [Winnininnie]; leaving Kooringa on Saturday 12 July and then every alternate Saturday, returning on the following Friday.  H. Dawson, Contractor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

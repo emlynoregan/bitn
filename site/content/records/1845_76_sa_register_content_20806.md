@@ -50,4 +50,4 @@ The final motion called for the adoption of a memorial similar to that sent from
 
 All were passed without dissent.  [Much more detail is reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

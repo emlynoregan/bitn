@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Racing Club secretary, F.T. Roberts, writes in to say he is willing to call a meeting if Burra sports will rally round.  [Though apparently he doesn’t actually call one.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

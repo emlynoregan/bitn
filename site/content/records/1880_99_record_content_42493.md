@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Conference decided to establish Way College as a memorial to Rev. J. Way in 1885.  W.G. Torr, the head master at the college, arrived in Adelaide last Thursday morning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

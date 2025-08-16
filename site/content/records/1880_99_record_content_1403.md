@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Report on the state of the Burra Leighton Road.  [Following the recent conflict over the quality of the road metal being used.]  35 yd3 of metal have been condemned, but the other charges brought by Mr Killicoat are not sustained.  The contractor, Mr Fuss, has done nothing beyond the partial delivery of 200 yd3 of bottom metal for widening the road and repairing parts of it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

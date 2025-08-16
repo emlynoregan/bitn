@@ -32,4 +32,4 @@ Notice.  The Corporation gives notice that it will sell in one year from the pub
 
 There are listed places in Redruth, Aberdeen, New Aberdeen as well as Hampton and Llwchwr, but especially a large part of Millerton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

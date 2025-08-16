@@ -26,4 +26,4 @@ Burra School Penny Bank.   The first year’s business: £32-7-6 in the bank and
 
 £22-5-4 withdrawn.  There are 252 depositors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

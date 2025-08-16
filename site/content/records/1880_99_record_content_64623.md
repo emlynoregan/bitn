@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt gave a lecture on Maoriland and What I Saw There on Wednesday in the Kooringa Wesleyan Lecture Hall.  Mr Lapidge helped with lantern slides.  Bad weather meant the attendance was not large.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

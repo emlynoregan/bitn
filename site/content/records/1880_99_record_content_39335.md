@@ -30,4 +30,4 @@ W.T Rabbich writes in reply to D.J. O’Leary.  He is rather waffly, but makes t
 
 Who is responsible if not Cr O’Leary?  Fancy trying to shield behind grasshoppers!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

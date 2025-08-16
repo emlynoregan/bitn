@@ -35,4 +35,4 @@ A letter from the Colonial secretary stated that the Governor had appropriated Â
 
 The Secretary reminded the Board they had earlier passed a resolution, stating that they would supervise such works if the Government would supply the necessary money.  Resolved that the Secretary write to the Patent Copper Company to ascertain what arrangements they were willing to make for the superintendence of the works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

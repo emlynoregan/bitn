@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Vandalism.  For some time the Town Council has been put to considerable expense due to vandalism of the lamp on the Kingston St Bridge.  On Saturday night about 12 o’clock two well-known residents were ‘almost caught in the act’ and will appear in court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

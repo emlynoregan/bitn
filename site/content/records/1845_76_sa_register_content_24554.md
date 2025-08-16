@@ -31,4 +31,4 @@ A correspondent says that stocks of copper in Chile have been overestimated by s
 
 [The article then goes into further details and explanations and includes a report from Captain Osborne, manager of the Kapunda Mine.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

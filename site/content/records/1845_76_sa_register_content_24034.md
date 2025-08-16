@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 St Mary’s, Burra.  A recent church warden was given a sum of money in recognition of his four years’ service as harmoniumist.  He has generously deposited the sum in the offertory bag to go towards the repair costs of the church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

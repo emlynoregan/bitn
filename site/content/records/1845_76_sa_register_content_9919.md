@@ -27,4 +27,4 @@ Kooringa News
 
 Accident.  The Saturday night’s mail did not arrive till Sunday afternoon at 3.30 p.m. due to an accident at Sheoak Log.  An axletree and one of the boxes broke.  The mail reached Kapunda on Saturday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

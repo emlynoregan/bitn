@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Silverton Railway.  Pt Augusta is despatching a person along their preferred route from Carrieton to the border to get information for their case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

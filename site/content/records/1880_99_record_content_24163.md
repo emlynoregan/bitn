@@ -70,4 +70,4 @@ For Burra the railway to Silverton will cut off a great deal of trade that used 
 
 The traders in the town survived the closure of the mine in 1877 better than expected: the test may come with this later loss of trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

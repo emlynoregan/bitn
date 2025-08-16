@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on what the writer regards as an absurd request from the building trade that the Government goes on with public buildings in Adelaide regardless of the need for them in order to give employment to men otherwise unemployed.  He believes that calling for reproductive works is one thing, but this type of demand is absurd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

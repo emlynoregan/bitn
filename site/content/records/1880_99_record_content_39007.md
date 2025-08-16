@@ -41,4 +41,4 @@ Burra Mine continues to be worked by tributers on a small scale and they are sai
 
 The Fire Clay deposits at Chalk cliffs remain undeveloped.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

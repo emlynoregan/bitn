@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr W. H. Williams died on Wednesday in the Burra Hospital after only three days’ illness. On Sunday he developed an ear-ache and though he received medical attention, including an operation, he died from inflammation of the brain.  He was a member of the AOF whose members formed a procession for the funeral.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

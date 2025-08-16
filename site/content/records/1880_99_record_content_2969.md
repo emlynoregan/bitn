@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd leader on Cr Dunstan’s proposal for a tree-planting rate.  The editor was opposed as many ratepayers were poor and were also merely ‘birds of passage’.  The money should come from subscriptions or a council loan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

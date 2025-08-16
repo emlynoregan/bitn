@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr G.J. Stewart will lecture on ‘The Second Coming of Christ’ at the old Baptist Church in Thames St, Kooringa, Friday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

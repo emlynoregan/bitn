@@ -52,4 +52,4 @@ There was a somewhat heated exchange over a shortage in the metal that had been 
 
 There was a long and quite acrimonious discussion about the Waterworks Engineer, but the actual issue in contention is not stated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

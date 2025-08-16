@@ -39,4 +39,4 @@ Amount due is £300 p.a. 1889 to 1893 and £200 p.a. 1894 to 1897.
 
 Interest on all the bonds is at 6%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

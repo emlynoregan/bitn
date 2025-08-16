@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Musical Union has been practising for months and intends to give three concerts annually at intervals of 3-4 months.  The first will aid the Burra Institute, the second the Burra Hospital and the third will help the Union itself to pay for music etc.  The first is announced for 26 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

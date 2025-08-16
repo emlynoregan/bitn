@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. IOR, Rose of Sharon Tent Annual Festival at the Burra Institute 4 March, 7.30 p.m. Repast followed by singing and recitations. MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

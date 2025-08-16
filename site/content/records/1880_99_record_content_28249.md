@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Trees.  Can the hills around Burra be planted with trees?  We are glad to see that Dr Brummitt and Messrs Lewis and T. Drew are preparing to plant clumps of trees in their small paddock on Buttler’s Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

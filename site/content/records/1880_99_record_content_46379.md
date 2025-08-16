@@ -61,4 +61,4 @@ L-C Thomas confirmed the above times, having been roused at 4.35 a.m.  Noticed t
 
 The verdict was that there was no evidence to show how the fire started.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

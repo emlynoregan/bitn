@@ -37,4 +37,4 @@ Edward Statton, husband: - Was married 5 June and went to Adelaide, returning on
 
 Dr Sangster: - On my first visit I found the deceased suffering from a nervous headache, but did not think the case serious. When I visited with Dr Nesbitt we did not see anything to indicate danger. The post mortem disclosed a large clot in the brain. Dr Nesbitt: - Could not attribute the clot to anything but violent emotion. Verdict was death by apoplexy caused by a sudden shock received on the night of 9 June from stones thrown on the roof by a person or persons unknown. A verdict of manslaughter is recorded against such unknown person or persons.  [Born Ann Ellery 25 July 1857 District of Burra: died 16 June 1879 Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

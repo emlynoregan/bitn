@@ -45,4 +45,4 @@ The resolution was then lost.
 The second amendment above was then put as a motion. 
 Amendment: The Jamestown line be extended to Yarcowie, there to meet the broad gauge line extended from Hallett. Amendment lost and motion carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

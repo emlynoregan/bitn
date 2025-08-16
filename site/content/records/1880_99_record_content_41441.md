@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. W.H. Evans, from Victoria, lectured on ‘Courtship and Marriage’ to a fair gathering at the Bible Christian Church on Wednesday evening.  It was a very amusing lecture from start to finish.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

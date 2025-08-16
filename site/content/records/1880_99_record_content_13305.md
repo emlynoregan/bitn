@@ -29,4 +29,4 @@ There are now 305 members with 300 good on the books.
 
 Income for the quarter was £216-13-3 and disbursements £203-2-7 of which sick pay was £103-19-8.  Total worth of the lodge fund is £5,857-12-3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

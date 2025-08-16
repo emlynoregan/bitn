@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 'A Bushman' writes at some length on the appalling conditions of the working classes in the bush. He discusses the filth and squalor of the accommodation, the lack of utensils, clean water, sanitary arrangements and decent food.  The flour is full of weevils, the sugar contaminated by sugar mite and the tea more twig than leaf.  Payment is poor and when in the form of cheques not readily negotiable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

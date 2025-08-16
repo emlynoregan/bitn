@@ -29,4 +29,4 @@ Burra Amateur Dramatic Society
 
 Mr Charles St Clair is likely to leave Burra soon and so has resigned the management, to be replaced by Mr J. Gibson of the Model School.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  John Sampson will auction under a warrant of execution of the Local Redruth Court on Friday 30 October on the premises known as Sing & Fat in Market Square, Groceries, Tinware, Glassware, Drapery etc., etc.  Without reserve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

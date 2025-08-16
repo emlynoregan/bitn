@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Miss Edith Lane, 4th daughter of P. Lane JP died at the age of 22 at her parents’ home on 17 June.  [Born 24 November 1872.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Murder/suicide.  Last week in Ballarat a man named Johnson strangled his four children and shot his wife before taking poison.  His wife has now died.  She was the sister of Mr R.M. Harvey of the Bank of Australasia in Kooringa.  Mr Harvey is presently in Ballarat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

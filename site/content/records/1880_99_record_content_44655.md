@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Accident.  The Broken Hill express ran into a cow as it headed north at the Bon Accord crossing on Wednesday night, killing it instantly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

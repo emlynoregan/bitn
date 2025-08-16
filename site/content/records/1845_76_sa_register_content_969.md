@@ -29,4 +29,4 @@ Notice to Carters of Ore
 
 Carriers are requested to meet at the Greyhound hotel in King William Street on 5 November at 7 p.m. to fix the price for the cartage of ore and those unable to attend are asked to send a line that they will abide by the decision of the meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

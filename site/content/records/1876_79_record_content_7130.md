@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Musical Union Concert at the Institute on Wednesday in aid of Institute funds had a very large audience and was a great success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

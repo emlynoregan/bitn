@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Show.  Arrangements for the Governor’s visit on 21 September: on arrival of the train the Governor will be met by the representatives of the Show Society, the District Council and the Corporation.  He will then go to the showground for lunch with the usual toasts and speeches.  At 2 p.m. an address will be offered at the showground to which the Governor will respond.  There will be a concert in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

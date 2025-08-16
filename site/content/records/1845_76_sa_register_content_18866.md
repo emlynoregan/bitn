@@ -30,4 +30,4 @@ The annual ploughing match is being arranged.
 Two amateur bushrangers were in the area last week.  They robbed a shepherd of a horse.  Police were in pursuit.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

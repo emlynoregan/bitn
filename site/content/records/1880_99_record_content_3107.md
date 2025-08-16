@@ -37,4 +37,4 @@ Mark Gay was fined 40/- for injuring the shutters of Mr J.T. Walker’s shop.
 
 Others were also charged with malicious damage to the property of SAMA.  George Parks, Morris Rabbich and William Lawn were charged with upsetting six closets at the brick row opposite Gebhardt’s shop.  They got off on a technicality that the owner or agent should have been a party to the prosecution if damage was being alleged.  The editor felt that the case should have been adjourned for the owners to have joined the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

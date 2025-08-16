@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Whittick has been forced to leave the town on account of the dullness of trade.  He had long been employed by Sara & Dunstan and was a local Wesleyan preacher as well as President of the Burra Literary Soc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

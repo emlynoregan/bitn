@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Poison.  There has been an apparent case of someone poisoning five pigs in a sty at Hampton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

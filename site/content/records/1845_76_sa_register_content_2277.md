@@ -43,4 +43,4 @@ He suggests that a solution would be for the Association to pay wages in a mixtu
 
 The danger to the Association, he suggests, is that the present system could induce the miners to go to other mines as such develop in the colony, rather than stay in Burra where ‘a portion at least of their laboriously earned gains is jeopardized by the existence of an increasingly dangerous currency which they are often compelled to make use of, in order to melt their own good Burras’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

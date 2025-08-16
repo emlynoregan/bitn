@@ -53,4 +53,4 @@ In contrast the prompt actions of the guard George Gitsham are much to be commen
 
 We do not know what further steps may be taken, but the matter ought not to be allowed to rest where it is.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

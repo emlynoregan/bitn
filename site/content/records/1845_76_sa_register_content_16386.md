@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 I see from your advertising columns that Opie Brothers intend again to run between here and Kapunda. In view of the performance of Mr Rounsevell’s employees recently in conducting the mail contract, this development will be hailed with pleasure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

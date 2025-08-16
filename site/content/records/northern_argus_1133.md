@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 BCS.  Twenty-six parents and teachers attended a meeting at the school on 18 April to discuss with Bob Baker of the Isolated Children’s and Parents’ Association and a representative of the Minister of Education’s Working Party, the boarding options for country children.  The working party was convened after BCS made a submission for a boarding facility on the Burra campus.  The consensus was that the proposal did not raise too many difficulties.  The working party will report to the Minister by the end of May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

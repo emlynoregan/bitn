@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Rosslyn Helbig, daughter of John & Rhoda Helbig, will marry
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

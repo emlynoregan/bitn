@@ -35,4 +35,4 @@ Mr R.Y. Wilkinson of Kooringa has promised to send a fine collection of Burra sp
 
 Mr Ayers said he had received five cases of specimens from the Burra Mines and had addressed circulars to all those likely to have specimens, requesting them to forward them during the month, for transmission to England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

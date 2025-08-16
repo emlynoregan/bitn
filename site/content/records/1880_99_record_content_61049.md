@@ -40,4 +40,4 @@ Mr G. Burt left Burra on Tuesday for Bunbury.
 
 It is rumoured that Mr Holder’s family is preparing to go to London at the start of next year and he is to become the next Agent-General.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Advt.  Broken Hill Proprietary Co. Ltd. Wants competent Miners at Broken Hill.  
 
 Wages 10/- per 8-hour shift.  Cost of living in Broken Hill is £1 a week.  John Howell, General Manager.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

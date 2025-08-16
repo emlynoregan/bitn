@@ -42,4 +42,4 @@ There was great excitement in Burra on Monday when it became known that two resi
 
 At the rear of the Commercial Hotel a gallows was raised and here the death sentence was passed and the two figures were hanged for about five minutes, after which death was declared.  After that a young lady set fire to the kerosene-soaked figures and they were burnt to ashes.  The crowd made their way home about 10.30 p.m. having witnessed the most peculiar and amusing affair every held in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

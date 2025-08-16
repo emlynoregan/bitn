@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Burra Amateur Dramatic Society entertainment in aid of the Burra Hospital was a great success last night. There was a large house. [Performers included Misses Fuss, E. Fuss & Mr Fuss. This was probably Bertha and Elvine, though the latter would have been just under 12 years old. His later activities suggest the Mr Fuss was probably Charles August.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

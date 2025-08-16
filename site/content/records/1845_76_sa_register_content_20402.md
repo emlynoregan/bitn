@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Directors had sold only one of the properties they had permission to dispose of and the terms were not such as to justify selling any more.  Mr Tomkinson hoped that the remaining running expenses might be met from the proceeds of the halvins.  He also thought it a pity the mine had been carried on for two years when the ore was simply being given away.  He felt new discoveries might well prove to be cheaper to mine and so see the operation at a profit within a moderate period.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Burra Burra £5 shares sales from £200 to £202 cash with last sale at £201.
 
 Princess Royal £50 shares paid to £41 have sellers at £18.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

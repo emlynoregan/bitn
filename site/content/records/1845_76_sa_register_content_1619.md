@@ -30,4 +30,4 @@ Mineral Discoveries on Yorke’s Peninsula
 
 Messrs Weaver and Hart have found an area of grazing land beyond the dense scrub and have skirted the coast with their stock.  They have bought land and found copper ore nearby, abutting the coast.  10 or 12 men are believed to be employed at the new mine.  Water is a likely problem with only a small lagoon of fresh water and all underground supplies too saline for use.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

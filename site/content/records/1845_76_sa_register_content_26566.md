@@ -28,4 +28,4 @@ publication_slug: sa-register
   
   Mr Rees is attempting a step in the right direction with his suggested canal to the sea.  This would save an appreciable amount on the cartage of wheat from the district.  The roads are in a sorry plight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -69,4 +69,4 @@ Has been training very hard, and is equally confident of success.  ‘since his 
 
 ‘Consistent’	Daniel James O’Leary	retiring from West Ward
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

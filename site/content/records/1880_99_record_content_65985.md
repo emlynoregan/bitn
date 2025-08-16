@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra D.C. was working on the road 100 yards north and 100 yards south of the Tin Chapel.  [This is a rare reference to this building which I think refers to the Baldina Church.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

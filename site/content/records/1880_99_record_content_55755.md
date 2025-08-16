@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Ourselves.  We again repudiate false statements ‘by the man Hardy’ that we drew cheques from the Corporation for £38 for printing in 1894, a figure he later raised to £39-7-0.  Of this total £12-8-0 was for work done in 1893 and the amount drawn in 1894 was £25-5-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -55,4 +55,4 @@ The retiring Directors Messrs Thomas Graves, Arthur Blyth, George Strickland Kin
 
 The fee for Directors attendance at a meeting was reduced for one guinea to half a guinea.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

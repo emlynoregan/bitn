@@ -26,4 +26,4 @@ Country Public Houses.  A letter to the editor says that while there are many go
 
 All too often the only interest of the licensee is in the bar trade and accommodation for travellers and the travellers themselves are only seen as nuisances.  There is often an absence of cleanliness in bedrooms, sitting rooms and table appointments.  One does not penetrate the kitchens and it would be unwise to do so.  The horses fare as badly, with dirty stables and poor provender.  The ostler is too often merely a hanger-on from the bar, or a loafer picked up on the cheap.  Closets are generally simply disease traps.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

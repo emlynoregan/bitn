@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Entertainment Hayes & Benhamo's circus on Monday & Tuesday 1& 2 April, was well patronised both nights. The acts were good and the performance of Benhamo the clown "kept the audience in a continual state of risibility."
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

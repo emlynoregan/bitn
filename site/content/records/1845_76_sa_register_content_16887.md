@@ -36,4 +36,4 @@ I have seen some fine specimens from the Adelaide Mine, mixed with gossan and co
 
 A horse being put into harness in the new spring van of Messrs Drew & Co. bolted on Tuesday morning.  It sped down the hill, across the street and over into the creek where the bank is over twelve feet high.  Luckily little damage was done beyond a bent axle and some spoiling of the ginger-bread work on top.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -35,4 +35,4 @@ A three storey mill of a calibre not seen out of Adelaide appeared.  Even in the
 
 [Continued 5 October.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

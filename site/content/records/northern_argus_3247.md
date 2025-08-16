@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Lions President John Maidment presented a cheque for $250 to Ray Jennison, Chairman of the Aged Persons Hostel Committee, last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

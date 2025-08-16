@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Hallett Sports on 9 November.  The threatening weather gave the day a poor start, but only a little rain fell to settle the dust and dust and wind came later.  By about 4 o’clock the weather was unbearable.  Terowie easily beat Hallett at cricket.  In the evening there was a grand entertainment in the Institute, followed by dancing at 10.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

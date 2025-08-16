@@ -34,4 +34,4 @@ Majority for Kingston, 37.
 
 The resulting changes to the Legislature are not as great as was thought likely at one time.  Most of the old representatives have been returned.  Two (of 16) chose to retire.  One old member has lost the election and one has been replaced because he went back to England, making the new blood just 25% of elected members.  It is, however, understood that none of the old nominee members will return.  Two of them – Messrs Stephens and Grainger – are out of the colony.  Mr Gwynne has indicated he would not again accept the position.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

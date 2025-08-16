@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  British & Foreign Bible Society Annual Services will be held 9 & 10 September with the annual meeting on 10 September at Kooringa Wesleyan Lecture Hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

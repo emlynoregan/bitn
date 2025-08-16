@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Anglican Church Music.  A list of the music sung at St Peter’s Cathedral in 1878-79 is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

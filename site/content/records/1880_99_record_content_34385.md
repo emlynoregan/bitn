@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on Dairy Farms, suggesting that more could be established and in favour of dairying factories because then butter and cheese would be of more uniform quality.  Locally we have a market at Broken Hill, which is likely to be permanent.  Poultry and bacon could be a useful adjunct and a useful way of escaping from the old wheat farming style.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

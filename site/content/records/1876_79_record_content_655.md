@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Robbery.  Last Saturday at about 8 o’clock a rascal stole about 16 lb of beef hanging on Dr Cave’s verandah and also the hook upon which it was hanging.  He thoughtfully left behind a turkey and a piece of veal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

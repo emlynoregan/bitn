@@ -35,4 +35,4 @@ Mt Bryan East - voters to use Hallett, six miles away
 
 Franklyn - insufficient numbers - fewer than 10 voted in the Legislative Council elections.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

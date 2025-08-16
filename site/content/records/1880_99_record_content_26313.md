@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Bicycle Club has organised a procession for tomorrow at 3 p.m. at Aberdeen.  The cyclists intend a run as far as Sod Hut to leave from the Royal Exchange Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

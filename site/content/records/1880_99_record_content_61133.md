@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Monday Holiday passed quietly in Burra with picnics to Princess Royal and the Lagoon the main activity.  Redruth Wesleyan Sunday School picnic was held in one of the Koonoona paddocks.  Burra cricketers were successful at Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

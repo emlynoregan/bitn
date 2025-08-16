@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The prize list for the Burra Show to be held on 26 September. The top money went to the best draught horse (£5-5-0) and the best Merino ram (£5-5-0).  The prize for best non-Merino was (£3-3-0) as was that for best bull. Many prizes in the stock sections were for £2-2-0 or £1-1-0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

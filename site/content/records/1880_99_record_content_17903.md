@@ -31,4 +31,4 @@ Letter from ‘Disgusted Ratepayer’ condemning the new footway that he conside
 
 [Presumably a reference to Cr West, who lived in the old mine site.]  Other roads in West Ward are a disgrace.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

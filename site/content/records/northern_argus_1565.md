@@ -34,4 +34,4 @@ Sylvia Gisi formerly if Burra will marry Gary Williams formerly a teacher at Bur
 
 Ann & Bryan Rees from the National Bank were farewelled last week.  Bryan will take up an appointment in the metropolitan area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

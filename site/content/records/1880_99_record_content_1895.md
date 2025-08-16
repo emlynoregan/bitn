@@ -30,4 +30,4 @@ Kooringa Primitive Methodist Church, Anniversary 3 October.  Rev. J.G. Wright pr
 
 [The report is not very interesting, given the topic, and suggests a vague and waffly discourse which may have been lightened by some personal anecdotes which were not reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Carter’s lecture in the Institute on Monday was poorly attended due to extreme heat and other attractions.  ‘Clairvoyance’ he said was ‘clear seeing’ which referred to the views he exhibited using excellent lenses and an oxy-calcium light.  His slides were excellent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

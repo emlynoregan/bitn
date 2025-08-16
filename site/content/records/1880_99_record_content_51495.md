@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘One of the People’ writes doubting the utility of strikes and citing evidence from the shearing and coal mining industries to suggest they are often counter-productive for the workers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

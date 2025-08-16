@@ -26,4 +26,4 @@ Burra Burra Mines
 
 The present pitch ends 23 December for the Christmas holidays.  Meanwhile cartage of the ore continues and great heaps are at the mine, so there is no danger of drays standing still.  Carters if they wish may work through the holidays.  An immense load of purest malachite has just been struck and the prospects of the mine are more brilliant than ever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

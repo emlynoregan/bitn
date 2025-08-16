@@ -28,4 +28,4 @@ Witness Richard Moore saw the fracas – saw Bradley hit Gully and heard Gully u
 
 Agnes Gully was also charged with using abusive language.  The language was written down and handed to Gully who admitted ‘without a blush’ to having used it.  The document was handed to the Bench.  The constable demanded a gaol sentence rather than a fine.  Defendant said the others had used equally bad language.  The Bench replied that that did not make her case any better.  Fined £2-10-0.  Gully (aged 18) was given a week to pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

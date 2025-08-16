@@ -44,4 +44,4 @@ Don’t forget to carry the Adelaide papers.
 
 Apply to W.G. Nicholls, Temperance Hotel, Hindley-street West.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

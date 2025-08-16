@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Burnett’s Crusade is under way and from last Sunday he is holding daily prayer meetings at 6.30 a.m. and at 12 noon, with an outdoor service at 7 p.m. followed by an indoor one at 7.30 p.m.  Rain prevented the outdoor services on Monday and Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

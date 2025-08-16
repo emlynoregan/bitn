@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 An interesting letter from a ratepayer on the dispute between the Town and District Councils. Apparently the Corporation inspector looked at a slaughterhouse in the DC area and then complained to the DC to take action. The editor thought that co-operation in such a matter was sensible, but the writer had a different view.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

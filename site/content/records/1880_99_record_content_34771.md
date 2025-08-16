@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Frederick Bock, William Ker and James A. Henderson were charged with wilful and malicious breaking of a window valued at 1/-.  They claimed it was accidental, but the bench clearly thought otherwise and fined them 10/- each with damages of 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

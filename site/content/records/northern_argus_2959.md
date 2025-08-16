@@ -20,4 +20,4 @@ publication_slug: northern-argus
 
 [Major expenditures are then listed along with grants received to date.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Accident/Obituary.  A fatal accident at the Burra Mine has resulted in the death of a miner named William James.  A large stone fell from the bucket while landing and fell to the bottom of the shaft.  It struck James, killing him instantly.  [This death does not appear in the SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

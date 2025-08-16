@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Linkson Bros are about to dissolve their partnership and are determined to sell their entire stock of drapery, grocery, crockery, tinware etc. at less than cost.  Near the Court House Hotel, Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

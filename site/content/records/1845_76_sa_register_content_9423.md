@@ -33,4 +33,4 @@ A numerously attended meeting of Mr Mildred’s supporters held at the Miner’s
 
 ‘That Mr Mildred’s reply be considered a full; fair, just, and true repudiation to the MEAN and UNMANLY address which Mr Kingston, in his gentlemanlike way thought proper to offer.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

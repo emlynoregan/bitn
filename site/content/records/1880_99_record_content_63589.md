@@ -31,4 +31,4 @@ Mrs Nellie Saunders will in future carry the mail between Redruth, Aberdeen and 
 
 [This was undoubtedly my great-grandmother, Mrs Ellen Sanders who was postmistress at Copperhouse in this period.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

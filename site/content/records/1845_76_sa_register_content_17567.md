@@ -41,4 +41,4 @@ Why is this important industry so neglected by the Government?  Roads have a Boa
 What is needed is completely free right to search for minerals and then the untrammelled occupation of small or large areas according to the means of the occupants.  This would result in a healthy increase in imports, larger consumption of local products and an immense additional export of copper.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

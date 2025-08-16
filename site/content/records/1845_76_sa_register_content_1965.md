@@ -28,4 +28,4 @@ Advertisement.  Next Saturday at 10 o’clock the Reformer stage-cart departs fo
 
 Wanted; four good coach horses, not less than 16 hands high nor under four years of age.  To sell; three useful horses now working in the Reformer, but one is too heavy and two are too small.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

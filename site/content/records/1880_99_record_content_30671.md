@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Sampson James, a well-known and respected resident employed by Drew & Co., died on Saturday after ten days of illness.  He was a local Wesleyan preacher and member of the Rechabites.  They attended the funeral in large numbers on Sunday.  He leaves a widow and two children.  He was the son-in-law of W. Pearce Sen. who only a few months ago lost a son and two daughters by the same disease: pneumonia.  Pneumonia is very prevalent at present.  [Died 8 December, aged 39.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

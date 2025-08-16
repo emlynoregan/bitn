@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 There followed a series of heated exchanges over the capricious way the Mayor accepted or rejected motions and ignored by-laws when it suited him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

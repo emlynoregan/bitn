@@ -31,4 +31,4 @@ Editorial on SAMA: a Gag to Progress.
 
 Almost out of town are two or three allotments comprising less than two acres with nothing on them.  They would not be required as far as anyone can tell even if the mine restarted.  The area has been sought for fruit and vegetable production.  The enquirer wished to fence and erect an engine to pump water.  The authorities sought an annual rental of £15.  This is too absurd to require comment.  At present it yields perhaps 2/6 a year in rent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

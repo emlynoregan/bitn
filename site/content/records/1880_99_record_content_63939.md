@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. W.O. North is expected to arrive shortly to replace Rev. T.M. Flood.  He was a splendid footballer in the past.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

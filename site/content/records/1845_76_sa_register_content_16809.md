@@ -37,4 +37,4 @@ Obituary.  A man named Macarthy [sic] was killing a kid on Mannanarie Station wh
 
 [John McCarthy died 27 September 1863 Kooringa, residence Winnininnie aged 26.  Is this the John McCarthy who married Ann Burk/Burke 4 October 1857 at St Joseph’s Church, Kooringa and who had a daughter born at Millerton in 1858 and a son at Mannanarie in 1863?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

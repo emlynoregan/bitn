@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rifle Matches.  Private Cooksley has presented a single barrel breech-loading shotgun to be won with the top three in this round to go through to the final.  They were Privates Cooksley and Rabbich and Lieut. Butterworth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

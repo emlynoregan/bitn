@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Baldina Plains School.  The appeal for a teacher to reopen the school has so far been unsuccessful.  When it closed there were only 4-5 attending, but now there are 15 of age, but they cannot get to a school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

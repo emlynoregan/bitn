@@ -66,4 +66,4 @@ J.D. Cave wanted excursion tickets for third class as well as second class.
 
 Motions supporting all the above views were carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -34,4 +34,4 @@ Mr C. Fuss moved that it is desirable in the interests of the community of SA th
 
 Mr Rabbich moved an amendment to the effect that it would be unwise and injurious to raise this tax.  2nd Mr Hardy.  After lively discussion the amendment was defeated 25 to 5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

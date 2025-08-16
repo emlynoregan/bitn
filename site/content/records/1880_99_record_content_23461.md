@@ -21,4 +21,4 @@ publication_slug: record-1880-99
 
 Weather.  Much dust on Monday 20 September then a thunderstorm and over 1” of rain by 7 a.m. the next morning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

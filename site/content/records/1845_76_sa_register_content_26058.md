@@ -35,4 +35,4 @@ Locusts have appeared, but they are very small and it is thought that the crops 
 
 Measles are still prevalent and it is common for four or five to be afflicted in the one family.  Fortunately few cases have terminated fatally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

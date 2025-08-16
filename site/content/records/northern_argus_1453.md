@@ -37,4 +37,4 @@ Burra Cycling Classic
 
 The 150 km race began at 10.30 a.m. and headed for Mt Bryan and then returned to Burra before going on to Clare, Sevenhill, Penwortham, Watervale, Auburn, Saddleworth, Manoora, Hanson and thence back to Burra.  It started in winter sunshine, but ended in rain, wind and very cold conditions.  The winner was Simon Gabrynowicz, a male nurse, who won $300.  The fastest time was by Malcolm Clasohm.  There were 30 competitors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

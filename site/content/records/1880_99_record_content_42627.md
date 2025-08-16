@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Humphrey Sandland, jumped from a trolly at the St Mary’s picnic, fell over, and was then run over by the second trolly.  Amazingly he was recovered from under the wheels with nothing more than a broken shoulder and lesser wounds and will recover in a few weeks.  [Aged c.7½]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs J. Hammer has died at Kooringa after a three year illness, aged 32.  She was active in the Bible Christian Church and was the eldest daughter of Mr L. Grow and had married in 1887.  She leaves a husband and three children.  [Born Amelia Grow: died 11 January 1899 aged 31]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

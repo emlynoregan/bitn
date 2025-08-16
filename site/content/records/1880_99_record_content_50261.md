@@ -26,4 +26,4 @@ Advt.  The Land Board.  Burra Institute 26 June, 10 a.m.
 
 To deal with surrender, reduction, transfers etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

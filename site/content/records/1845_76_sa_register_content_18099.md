@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A large picnic is planned for Christmas to come off a few miles from the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

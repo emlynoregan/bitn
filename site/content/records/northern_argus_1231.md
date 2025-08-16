@@ -31,4 +31,4 @@ The Bush Picnic Race Committee met at a special dinner on Friday night to hand o
 
 [Photo of Les Saunders (Secretary), David Kellock (Senior Vice-President), Robert Ryan, John Maidment (President) and Ray Jennison.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

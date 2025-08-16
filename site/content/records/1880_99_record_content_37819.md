@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Model Parliament seems to have died: it has not been possible to get together a meeting for the past three or four weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Public Affairs. A communicated article. This was a complaint that the town was characterised by factional division of an unnecessary nature. The divisions grew from ‘pettifogging assumptions’. The recent hospital dissension is typical and the history of the Town Corporation is another.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

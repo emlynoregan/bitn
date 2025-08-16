@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Agriculture. Harvest is under way. Hay and wheat looking good with no signs of rust as yet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

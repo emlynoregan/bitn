@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Accident.  The cab bringing the Aberdeen footballers back from Kooringa on Saturday narrowly escaped an upset when one of the leaders managed to get slightly mixed up in the tackling and the front wheels mounted the footpath.  Various occupants made hasty escapes as the vehicle teetered, but finally all was set to rights.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

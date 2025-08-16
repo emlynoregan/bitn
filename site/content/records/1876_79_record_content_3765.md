@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Woollen Mill l Tweed Factory. Letter to Ed. suggesting that Burra would be a good place for a woollen mill - in wool country, and needing to take up the unemployed as a result of the Mine closure and the opening of the Hallett Railway. Idea to raise £10,000 with an issue of 2,000 x £5 shares.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

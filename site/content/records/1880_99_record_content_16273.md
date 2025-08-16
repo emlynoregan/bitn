@@ -26,4 +26,4 @@ Editorial on The Council.
 
 The editor hopes the experience of the past two meetings will not be repeated.  The problem is the Council persists in seeing the four Council funds as interchangeable.  They are not.  The cemetery alone is responsible for its debts.  We are glad the question of the water troughs has been settled in a fair and equitable way.  We think the rates struck are correct.  The General Rate is 1/-, Health Rate 2d and Park Lands 2d.  The reduction of the Health Rate by 1d and the new Park Lands rate will increase the rate burden by 1d in the £.  This slight burden will raise £120 p.a. and will address the Recreation Ground debt.  ⅓ of the rates are paid by SAMA and the Hotels, ⅓ by the other businesses, and 1/6 is shared by the poor, or £20 of the extra £120.  The new rate also frees £120 of the General Rate, which can then be used to attract Government subsidy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

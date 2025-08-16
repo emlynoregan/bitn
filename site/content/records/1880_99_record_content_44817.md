@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Theft from fruit trees in Burra has become a problem with gardens entered and fruit trees broken down.  On Friday one lad was caught and the names of others are now known and future infringements will bring action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

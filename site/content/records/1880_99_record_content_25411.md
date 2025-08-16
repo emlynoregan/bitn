@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  There are fears that Victoria, which had escaped the worst of the depression, is heading for trouble.  There is some unemployment and manufacturers have large stocks and no orders for sales.  Victoria could be about to go down while the prospects of a good season in SA hold some hope here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

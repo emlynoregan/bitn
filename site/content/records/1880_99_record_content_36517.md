@@ -49,4 +49,4 @@ Mr Both’s old store next to Mr Austin’s and now used as a school by Mr Young
 
 He suggested the Burra Literary Society be approached for assistance.  A fair amount of interest has been expressed in the formation of an Aberdeen-Redruth Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

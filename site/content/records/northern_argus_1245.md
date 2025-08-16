@@ -35,4 +35,4 @@ Phase three of the Paxton Square redevelopment is under way.  The re-creation of
 
 [*The original manse was demolished in July 1971.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [As with other editorials this year the internal evidence of this long left wing article, which extends for c. 1⅓ columns suggests that W.H. Hardy was writing the editorials and leading articles at this time.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

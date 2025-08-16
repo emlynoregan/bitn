@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  There was a complaint that John Roach did not go through more than a fifth of the program that had been performed at the Burra young Men’s Union show, when he purported to do so after the Penny Readings on Saturday.  [They expected a lot for their penny!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

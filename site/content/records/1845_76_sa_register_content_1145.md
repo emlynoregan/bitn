@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Samuel Stocks Jnr intends going to England in March and has given notice of his resignation as a Director of SA Mining Association and as their Resident Director at Burra Burra Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

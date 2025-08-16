@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 A great many drays are still on the road and as many as fifty can be counted in sight at one time in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

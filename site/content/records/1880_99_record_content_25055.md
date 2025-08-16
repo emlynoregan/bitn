@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  C.C. Williams took the chair with Dr Brummitt & Messrs Anderson, Butterworth, Cave, Holder, Lasscock & Wilkinson.  C.C. Williams was elected President to replace Mr Hosking who has left the town.  G. Butterworth is Vice-President.  T. Edwards joined the committee.  The chrysanthemum show was fixed for the 27 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

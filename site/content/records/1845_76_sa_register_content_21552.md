@@ -55,4 +55,4 @@ In a case of animal cruelty Joseph Williams was sentenced to 30 days in gaol.  M
 
 No time was specified, but eight days was mentioned.  Williams did the journey in four days, but Mr Woollacott said it crippled the bullocks, making them useless for months.  Williams blamed the boy for urging him on, but the lad denied it positively and swore that Williams had charge of the teams.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

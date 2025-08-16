@@ -47,4 +47,4 @@ I was called to see the deceased a little after 6 a.m. this morning and found he
 
 [This death does not appear on SA Deaths CD, but the birth of Sophia Webster is registered on 14 December 1861 at Kooringa to Edwin & Mary Ann Webster nee Symons.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

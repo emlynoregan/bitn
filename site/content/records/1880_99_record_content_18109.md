@@ -50,4 +50,4 @@ Mrs Lines and O’Connor met members of his family in Adelaide and then set up h
 
 Alfred Lines.  This day, 17th of March, 1885.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

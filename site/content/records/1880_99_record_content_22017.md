@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Depression woes.  The air in Adelaide is thick with rumours of financial problems.  A run on the Savings Bank was halted when it was shown to be groundless, but it resulted in the interest it can expect to pay this year dropping from 5% to 4%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

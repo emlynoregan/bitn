@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  There are still c. 20 working on tribute at the mine and we believe they are doing fairly well.  The slagheap enterprise is still underway and the lessee believes when all is in order it will pay a good %.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

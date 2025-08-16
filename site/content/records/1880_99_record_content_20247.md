@@ -53,4 +53,4 @@ The gravest piece of maladministration was the sale of Short St to Cr Tiver and 
 
 Ratepayers though do not deserve much sympathy.  The very matters they queried on Thursday and condemned, were reported by us in full and might at the time have been prevented, but no one cared to intervene.  We have often protested, but have been called harsh and critical and the ratepayers left us to stand alone.  Some people only wake up at election time and ask questions only when it is too late to do anything.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

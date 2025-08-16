@@ -35,4 +35,4 @@ He asked the young man if he was called ‘Young’ and he said yes.  Thought he
 
 Mr Akhurst said the by-law imposed a fine, but the Criminal Law Consolidation Act in Clause 320 imposed only a prison sentence.  The by-law could not over-ride statute law and was therefore invalid.  The court concurred.  The Court declined to allow costs and warned the young men involved that if a charge were laid and proved under the Criminal Law imprisonment was the only mode of dealing with it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

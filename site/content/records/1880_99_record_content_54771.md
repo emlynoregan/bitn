@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club race from Petersburg on Wednesday last was a failure with none of the birds getting home in the time limit.  Mr Crewes’ Britisher was attacked by a hawk on the way and came home on Thursday night with a torn crop, but he seems to be recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

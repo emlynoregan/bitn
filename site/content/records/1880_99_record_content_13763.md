@@ -31,4 +31,4 @@ The Hall Committee reported favourably on the guttering of the roof.
 
 At the half-yearly meeting of subscribers it was said that there are now 2,773 volumes in the library.  Income for the half-year was £201-11-9 and expenditure £202-19-3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

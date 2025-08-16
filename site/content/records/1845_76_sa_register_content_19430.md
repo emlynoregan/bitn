@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mr & Mrs George Case have been entertaining people in Burra this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

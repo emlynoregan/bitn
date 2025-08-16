@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Article on Gary Donaldson, proprietor of ‘Cousin Jack’s’.  It deals particularly with his wood turning and reads more like a paid advertisement.  [Photo of Donaldson at his lathe.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

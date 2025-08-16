@@ -30,4 +30,4 @@ Volume XII Number 1072 on 30 December 1891
 
 In this sequence 1069 is used twice and 1070 is not used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ The Total Abstinence Society had a meeting on Friday.
 
 The waxworks exhibition opened last night in Stanbury’s new store.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

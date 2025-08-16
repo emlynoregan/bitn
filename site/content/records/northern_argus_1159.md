@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 South Australian Housing Trust says it will begin remodelling the McBride cottages in July.  The cost is estimated to be c. $160,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

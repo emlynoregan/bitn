@@ -48,4 +48,4 @@ After half an hour the inspection continued by buggy.  Two or three miles beyond
 Forresters, the nominal terminus of the line, lies nearly a mile away from the actual terminus at Tarlee, where the forerunners of a town – an inn, a blacksmith’s shop and a Methodist Chapel – are already to be seen.  A skeleton of a station has been erected.  The plate-layers will be here within a few days and not many weeks will pass before they continue onto the Burra Extension.  The Commissioner is hopeful of having the line laid to Burra in time for next season’s wheat traffic and for the reopening of the Burra Mine.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

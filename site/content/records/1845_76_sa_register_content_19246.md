@@ -29,4 +29,4 @@ Several people were fined at the Local Court for depasturing cattle on Crown Lan
 
 Mr Bright’s imposition of this penalty under the new Act was appreciated as the Act sets no minimum.  The old Act imposed a minimum £10 fine for a second offence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -72,4 +72,4 @@ Mr Graham said no shareholder held 480 scrips.
 ‘Mr Neales: No, but Governor Graham holds 420.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

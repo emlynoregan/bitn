@@ -41,4 +41,4 @@ The water main is to be extended to about the smelting works property.
 
 The Institute Floor is going bung.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

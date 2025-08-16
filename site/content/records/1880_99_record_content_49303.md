@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  A large chancel window has just arrived from England on order of the family of the late Mr & Mrs A. McCulloch.  It will be dedicated next Saturday morning at 11 o’clock when the Venerable Archdeacon Dove will officiate.  The window features: The Crucifixion, The Blessed Virgin Mary and St John.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

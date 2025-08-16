@@ -26,4 +26,4 @@ publication_slug: sa-register
 Advertisement.  The Royal Mining Co. Extends the time for receiving tenders from miners for working their mine at Karkulto proper, on share or tribute, until 10 May.  Tenders to be addressed to Nathaniel Summers, Secretary.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

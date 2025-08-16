@@ -29,4 +29,4 @@ Township of Redruth, situated north of and adjacent to the Burra Survey and east
 
 The lots to be sold at or near Redruth 29 August at 11 a.m.  B.T. Finniss, Colonial Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

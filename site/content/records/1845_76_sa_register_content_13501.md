@@ -35,4 +35,4 @@ Obituary.   Richard Knuckey, late a fireman at the Burra Mine was found dead thi
 
 [Richard Knuckey died 12 June 1860 Hundred of Kooringa, residence Kooringa aged 37.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

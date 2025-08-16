@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on those who leases fall in 1888 and the Government over the meaning of value of improvements, for which they were due compensation.  The Government argued for the valued of the actual improvement less depreciation, while the lessees argued for the improved value of the land due to the improvements.  This was no small difference as a £500 well might in some places increase the value of the property by £5000.  A Bill based on the Government’s very narrow interpretation was introduced, but in the end a compromise by Mr Rounsevell saved the day.  This does however, only deal with water improvements which does not resolve other issues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

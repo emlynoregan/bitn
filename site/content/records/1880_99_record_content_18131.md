@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  Last Saturday Mrs Cundy, while going along Blyth St towards Ayers St in the dark, fell over the bank 16’ deep into the remains of one of the old creek-bank dwellings.  She was taken to hospital and we are amazed she was not more hurt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

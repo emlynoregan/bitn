@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Self Denial Week.  Last year the target was set at £30 – a rather large sum for a town like Burra and only £25 could be raised.  This year the target was set at £27 and £28-6-0 was collected despite the fact that ten of their best collectors were laid low with influenza.  In Australia £25,500 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

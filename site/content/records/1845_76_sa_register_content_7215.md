@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Unemployed met yesterday at Victoria Square.  Many moving tales were told of their privations.  Donations were collected and distributions made to the neediest.  Bread etc. was distributed and it is to be hoped that the memorial will result in avenues of meaningful employment being opened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

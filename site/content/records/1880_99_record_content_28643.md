@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Bible Christian Sunday School Anniversary next Sunday 20 May with the tea meeting Monday.  Rev. J. Collings will deliver an address.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

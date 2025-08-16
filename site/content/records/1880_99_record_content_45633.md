@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Reported a loss for the period of £54-5-3.  The sick pay of £430-15-0 was the heaviest item for any half year.  Membership was 292.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

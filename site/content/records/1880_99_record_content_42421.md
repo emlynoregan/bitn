@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church Anniversary last Sunday & Monday was very successful with attendance at tea the best for some years.  Mr Holder, as Treasurer, reported the debt had been reduced by £140 in the year to the present £330 with £10 cash in hand.  It was necessary to raise £100 at the anniversary to reduce the debt by the same amount this year.  The chief event reported by the Rev. R.M. Hunter in the year was the gaining of freehold for the church land instead of the previous lease.  £22-4-0 was collected and £68-10-0 promised and since then more promises mean that the £100 target will be reached.  The latter part of the meeting took the form of a farewell for Mr Holder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

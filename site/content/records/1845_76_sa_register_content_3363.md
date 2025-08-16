@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘A Correspondent’ writes from Kooringa to comment on a report that some of the Burra miners have returned to work.  He says that two parties went to the mine agent late at night and asked that they and their respective pairs might be allowed to resume their labour, thinking, no doubt, that by working in two places, they might be allowed to get more wages.  A message was sent to the Secretary and a return came back, but between the office and the blacksmith’s shop the men changed their minds and fearing they would not get more than the new rate of wages, they relinquished the offer and said they were determined not to work without a fair remuneration.  Had they persisted I would have given their names, but as they repented in time, I will refrain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

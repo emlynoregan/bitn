@@ -30,4 +30,4 @@ Obituary.  Mary Cox, formerly of Burra, died recently and has been buried here.
 
 [Born Ethel May Thomas 26 May 1903 Solomontown: buried Burra 24 June 1986.  Married Herbert Vincent Cox 1926.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

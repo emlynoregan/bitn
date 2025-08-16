@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra & District Lions Club gathered on 20 June for their 9th handover dinner.  Apart from preparing a float and otherwise assisting at the Copper festival, their main project for the year had been the installation of seating at the oval.  The new President is John Maidment.  [Donations from them for the year are listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

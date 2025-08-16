@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Roads. We are all aware that the state of our roads is poor and what we need is a system of repair that does not just do a patch job which lasts until it rains, but a durable one. The roads from Paxton Squ. to the Smelts and from the Hospital [referred to as the road to Princes Town] are both so subject to gullying that they are execrable and dangerous and need a deal of money to repair them. [Continued page 3] Trenches are needed to stop water cutting across the road and creating gullies — a stitch in time…
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

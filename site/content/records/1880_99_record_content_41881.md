@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Bairnsfather Family of Scotch vocalists gave a ‘Nicht in auld Scotia’ at the Institute on Monday, but wet weather produced a very poor audience for a commendable performance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

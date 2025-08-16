@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 [The correspondent reports the death of two travellers from heat and lack of water.  The recent rains caused the Kanyaka creek to flow eight feet deep at the crossing and the mail had to wait for it to fall.  The mail was sent on when possible by horse.  The deaths do not seem to have been registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

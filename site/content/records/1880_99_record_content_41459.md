@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Get Up & Bar Th’ Door’ writes complaining of the freezing gale coming in the side door of the Institute during Mr Kennedy’s performance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

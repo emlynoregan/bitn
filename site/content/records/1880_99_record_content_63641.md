@@ -31,4 +31,4 @@ Obituary.  Kate McNamara, daughter of John McNamara of Hanson has died at the ag
 
 [Registered as Catherine Elizabeth MacNamara died 11 February 1898 aged 28]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

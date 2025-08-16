@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Bushman’s Home, Aberdeen.  Mr A. Williams, has given up the above boarding house.  It will be continued at the usual moderate rates with first class accommodation, meals and beds of best quality.	F.E. Bromley, Manager.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

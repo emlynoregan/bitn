@@ -30,4 +30,4 @@ Rumoured Gold Discovery Near Burra Burra
 Information reached us yesterday that gold had been discovered within about two miles of Kooringa and that it had created considerable excitement.  We cannot confirm the rumour.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

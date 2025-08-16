@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Burra Community Library will be one of seven libraries visited by 40 librarians on a trip through the Barossa Valley and Mid North and Yorke Peninsula.  The plan is to give the teacher librarians and teachers a chance to see and hear new ideas.  The visitors will stay overnight in Paxton Square Cottages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

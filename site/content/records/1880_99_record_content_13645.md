@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Daviestown School has just been examined and Miss Snell has to be congratulated.  On the roll there are 26 and of the 18 examined 17 are to be promoted.  The school has been established about 12 months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

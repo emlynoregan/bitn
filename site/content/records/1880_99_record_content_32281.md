@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy, accusing some members of the Council of rushing into making new laws without reasonable consideration.  Specifically he was concerned about the By-law banning the carrying of produce for sale within the Corporation except for butter, bacon, eggs, milk, poultry, wood and hay, unless they have a licence costing 2/6 for a pack and £1 for a vehicle.  The penalty ranges from 10/- to £2, though ratepayers are exempted. [It had been aimed at itinerant hawkers.]  Hardy says it is nonsense for two reasons: 1st if interpreted literally it would apply to a farmer bringing in a load of wheat or chaff or a dairyman bringing in a carcase of pork and 2nd it invites retaliation from other District Councils.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

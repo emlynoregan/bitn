@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Picnic Race Club President John Maidment reported on the past year at the recent AGM.  The amount raised was $6,090 of which $2,500 was given to Burra Aged Persons Hostel and $2,600 to RFDS.  1987 was the club’s second meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

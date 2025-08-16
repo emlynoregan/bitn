@@ -44,4 +44,4 @@ Burra Show Soc. AGM was held at the Institute last Wednesday afternoon.  The Vic
 
 The prize list was gone through.  Captain Killicoat will again be asked for the used of the Smelting Co. Yards for the show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

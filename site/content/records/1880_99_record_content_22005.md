@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on two or three proposals for employment.  The report on the Baldina water conservation scheme has finally appeared and reveals that it must fail because of the unsuitability of the water.  The editor believes that this has failed to take into account the water available in the flush of seasonal floodwaters.  It reports merely on the mineral content of the spring water.  And what about evaluating the possibilities of a scheme based on the creek at World’s End?  Why has the Conservator of Water not investigated there as well?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

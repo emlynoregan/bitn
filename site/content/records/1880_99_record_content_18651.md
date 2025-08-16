@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Accident.  Mr C.F. Faulkner was knocked down by a cab as he crossed the road opposite Mr Snell’s shop.  He lost a front tooth when the pole caught him in the face.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

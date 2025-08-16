@@ -29,4 +29,4 @@ Mounted Police: 1 Sergeant and 3 Constables with 4 horses.
 
 Plus 2 [Foot] Constables.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

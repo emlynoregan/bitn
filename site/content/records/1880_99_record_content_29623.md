@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Rev. Father A. Kriessl died last Wednesday at Seven Hills College.  He had a stroke some three weeks ago.  He was pastor of St Joseph’s in Burra for seven years, during which time he saw the completion of the new St Joseph’s church, the schoolroom and the residence of the Sisters of St Joseph.  He won the respect of other denominations by his genial and courteous manners and the interest he took in good and charitable work.  [Details in the issue of 7 September.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

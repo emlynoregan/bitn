@@ -28,4 +28,4 @@ Hallett Races were held last Thursday.  The attendance was not large and gate ta
 
 Second was J.F. Humphries’ g. g. Nankipoo, carrying 7 st 4 lb and ridden by Humphries.  (£2)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

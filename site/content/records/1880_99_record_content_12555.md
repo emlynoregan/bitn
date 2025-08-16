@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Notice.  W. Coglin thanks all non-Catholic friends for their liberal subscriptions for a testimonial to Rev. Father Kreissl SJ who is removing to another mission.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

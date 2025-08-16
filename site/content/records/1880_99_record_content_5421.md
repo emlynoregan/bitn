@@ -36,4 +36,4 @@ True Blues 60 & 80 for 4 wickets.
 
 [Though it doesn’t seem to accord with these figures, the report says that the True Blues needed 80 to win and did so with 6 wickets to spare.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

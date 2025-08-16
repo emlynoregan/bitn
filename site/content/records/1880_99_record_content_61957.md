@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Cinematographe is described and prices are quoted at 3/- front seats, 2/- second, 1/- back seats.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

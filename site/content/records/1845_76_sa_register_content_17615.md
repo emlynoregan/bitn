@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Everything is dull here with a great want of drays, which at this time of the year used to be here in hundreds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

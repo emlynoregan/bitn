@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Carl Thiele, blacksmith of Point Pass, bought tobacco, scissors and two combs from McDonald, but could not swear they were positively the items in evidence, though they were very similar.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

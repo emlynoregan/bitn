@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Advertisement.  Samson, Wicksteed & Co. will sell by public auction on 8 February 10 acres of land, part of County Section 422 in the Provincial Survey, marked with the letter B, containing on the southwest boundary abutting the Port Road 1,342 links on the northeast boundary adjoining part of the same section owned by Messrs Hamilton & Henderson, 512 links, on the western boundary 449 links, together with the works erected thereon and known as the Yatala Smelting Works with the stock, plant machinery etc. [Which is listed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

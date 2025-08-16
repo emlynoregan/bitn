@@ -28,4 +28,4 @@ Notices
 
 Preliminary notice by Pair & Luxmoore that they have instructions from Messrs F. & C.W. Cowper to sell the valuable property known as Baldina Run, comprising c. 52 square miles, well grassed and watered by permanent surface streams and wells.  There is a stone head station, woolshed, yards and seven out stations.  Plus stock of about 9,000 sheep.  Working stock and store at valuation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

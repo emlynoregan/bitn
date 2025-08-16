@@ -55,4 +55,4 @@ C.C. Williams and Coles & Co.	each £1-1-0
 
 And a few others yet to come in, but even with a£ for £ Govt. subsidy there is barely enough to cover the £262 contract for a well of 300' depth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

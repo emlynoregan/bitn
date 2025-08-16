@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Operations at the Bon Accord Mine have definitely stopped.  They have not been suspended, but as a Cousin Jack would say are ‘nacked’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

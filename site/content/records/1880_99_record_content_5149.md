@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Early Closing.  Shop assistants met at the Institute last Wednesday to support early closing.  They are seeking 6 p.m. closing on Saturdays.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

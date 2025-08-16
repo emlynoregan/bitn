@@ -53,4 +53,4 @@ Storekeepers in Kooringa had scarcely got their cellars in order after the last 
 
 The smelting works is at a standstill for want of fuel and workmen’s wages are considerably reduced at the Mine.  Many of the bridges lately erected by the Smelting Company to facilitate the conveyance of wood from the Murray Scrub are washed away, together with some drays of wood encamped on the road.  It is to be hoped the provision of comfortable and suitable cottages for workmen by the two opulent companies at the Burra will see to it that there will be no repeat of this disaster in the future.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

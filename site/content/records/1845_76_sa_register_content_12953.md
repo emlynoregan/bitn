@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Kooringa Wesleyan Chapel.  The new and beautiful gallery was opened on Sunday 1 January and Monday 2 January.  Sermons were preached by Rev. Ussher of Kapunda and Rev. Colwell of Mintaro.  The congregations were excellent and the collections good.  Rev. Flockart presided over the public meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

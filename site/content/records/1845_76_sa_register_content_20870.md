@@ -44,4 +44,4 @@ The working men are complaining bitterly about the low wages for making the new 
 
 Hopes are still held that a company will be formed to work Princess Royal Mine.  If a little capital were raised 200 men could be employed.  About 40 tons of ore, said to average 20%, are at grass and the fourteen men there now are expected to raise 60 tons this take.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

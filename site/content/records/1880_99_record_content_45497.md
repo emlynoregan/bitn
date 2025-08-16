@@ -29,4 +29,4 @@ Football.  The 1st game for the season on Saturday was played at Burra Oval.
 
 Play started half an hour late with about 13 men for Aberdeen and 16 for Burra.  Others joined later, but the full complement failed to appear.  Despite this it was a good match ending with Burra 5.4 (34) defeating Aberdeen 2.3 (15).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

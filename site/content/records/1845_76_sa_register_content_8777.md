@@ -30,4 +30,4 @@ Kooringa Public Cemetery
 
 The subscribers to the fund for enclosing the Kooringa Cemetery met on Friday last in the Wesleyan Schoolroom with Mr Challoner in the chair.  When the various lists were handed in, it was found that £220 had been either subscribed or promised to meet an anticipated outlay of £300.  A committee of management was elected.  They are to submit the by-laws to a public meeting on the last Friday in November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

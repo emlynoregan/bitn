@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Accident.  A carter named Cummins has been crushed while camping at Saddleworth, when a dray loaded with coals fell on him.  Dr Braddock of Auburn attended him, but the case is viewed as hopeless.  He has a wife and two young children living at Williston.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

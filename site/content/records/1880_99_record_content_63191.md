@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial.  The phenomenally bad season last year was followed by a year of depression which we could only be thankful hasn’t been any worse.  1897 began promisingly with good opening rains which caused wheat heads to begin growing well, but failure of the follow-up rains in October and subsequent hot weather has resulted in heavy losses and in some cases not a grain will be reaped.  We can at least be glad of the activities of the Benevolent Soc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

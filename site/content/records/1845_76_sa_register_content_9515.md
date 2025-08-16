@@ -46,4 +46,4 @@ Gubbins claimed £5 for a bag of flour purchased from the defendant as the best 
 
 Barclay sued Thompson for £1-14-4 for board and lodging and won the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

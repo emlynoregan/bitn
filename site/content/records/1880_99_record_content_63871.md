@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  The wife of William Sleeman died 24 March 1898 at Burra Hospital aged 23.  She was the only daughter of Mrs M. & the late John Edwards & sister of W.J. Edwards.  [Further on page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

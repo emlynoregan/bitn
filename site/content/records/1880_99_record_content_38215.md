@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 British & Foreign Bible Society, Burra Branch, annual services last Sunday.  At the annual meeting on Monday Dr Sangster was elected President for the next year with Rev. R.M. Hunter Vice-President.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

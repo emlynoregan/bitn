@@ -34,4 +34,4 @@ Advt.  T.P. Halls advises that cabs run from the stand as follows:
 
 7.30	to meet the Broken Hill express
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

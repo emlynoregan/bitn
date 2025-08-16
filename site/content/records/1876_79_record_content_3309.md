@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Redruth Bridge. The Midland Road Board ordered a notice be placed on the bridge warning of its need for repair due to rot. Repairs are to be made expeditiously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

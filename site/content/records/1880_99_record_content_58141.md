@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Cricket.  The St Mary’s Cricket Club AGM was held on 11 September at Mr Lewis’s schoolroom.  Of 9 games played in the last season 6 were won and 3 lost.  Best batting was by J.J. Blott with an av. 29.2.  Best bowling was by E.F. Lockyer with 32 wickets at an av. 5.26.  Financially they were a few shillings in debt.  Election: President, J.D. Cave; Captain, A.H. Jennings; Vice-Captain, J.E.H. Winnall; Hon. Sec. & Treasurer, W.B. Page.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

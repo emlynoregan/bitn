@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Anniversary, 9 & 10 November.  Rev. G.E. Rowe preached in the morning to a fair audience.  The service of song in the afternoon was A Child of Jesus.  Rev. J.R. Bradbury preached in the evening to a crowded congregation.  Proceeds c. £24.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

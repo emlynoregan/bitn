@@ -34,4 +34,4 @@ publication_slug: sa-register
 
 An Entertainment was staged at the Court House to raise money for a poor invalid.  Rev. L.W. Stanton as usual gave an inimitable reading and other recitations were given by Messrs Lipsett, J. Burns and Carvosso.  Messrs Musard and Emery sang.  Mr Hodge sang his own composition on the opening of the Burra Railway.  Mrs Smith and her young pupil Miss Coglin played instrumental pieces and in all £8-1-0 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

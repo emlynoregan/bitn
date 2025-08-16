@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Mr H.T. Margetts, the manager of the Kooringa Bank of Australasia has been moved to New Zealand and will be replaced by the manager of the Aberdeen branch, Mr E.A. Jaffrey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

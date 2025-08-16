@@ -36,4 +36,4 @@ Geological Exploratory Expedition in SA November & December 1848 and again until
 
 [The report is lengthy, but also fairly general in nature.  He visited Burra, but could not get permission to go underground and was therefore restricted to the Bon Accord and Princess Royal Mines, where the superintendents were accommodating and accompanied him through all the works of both mines.  He reports indications of copper ore near Mt Bryant [sic: for Mt Bryan] near Dr Brown’s head station and also near the Black Spring.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

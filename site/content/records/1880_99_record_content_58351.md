@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Paddy Curtis met with an unexpected accident on Monday when his horse slipped on the road between St Mary’s and the Mine Bridge.  After a struggle the horse got up, but in the process kicked Paddy in the ankle, breaking it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

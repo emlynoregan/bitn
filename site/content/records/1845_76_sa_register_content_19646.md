@@ -32,4 +32,4 @@ The extension of the Northern Railway has been much discussed here of late among
 
 A railway would also open country around Booborowie, Canowie and Mt Bryan to the agriculturalist.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Editorial on Vermin Problems.
 
 In early winter when the inside country is too cold for feed to grow, but herbage is good in the eastern hundreds and is making rapid progress, the rodent move east.  Now they are returning in multitudes.  A chief source is the unleased Crown Lands.  The editor favoured rabbit-proof fencing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

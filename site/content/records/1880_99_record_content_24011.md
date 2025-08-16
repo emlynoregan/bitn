@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cr Sampson called on the Salvation Army to be prevented from parading the streets on Sundays, especially near places of worship.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

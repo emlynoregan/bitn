@@ -31,4 +31,4 @@ Mr & Mrs Mann and family went to chapel except for Hilda aged 19 and Emma who st
 
 Miss Mann picked up a gun which was loaded and the accident followed.  The lad immediately informed the parents and they returned to the scene and informed the police.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

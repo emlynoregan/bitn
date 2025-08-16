@@ -27,4 +27,4 @@ Kooringa-Port Wakefield
 
 In the last week at Port Wakefield two ships and four barques, two brigs and eight barges were loading or unloading and 2,000 tons of copper ore were on wharves waiting shipment.  Average daily arrival of overland traffic from Burra Burra is 40 drays.  The dredging has allowed in one day the amount of loading and unloading previously taking ten to twelve days.  The creek is now accessible to barges all the time except for about three days per month on the lowest of tides.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

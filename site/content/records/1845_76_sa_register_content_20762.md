@@ -61,4 +61,4 @@ Mr Samuel Sampson proposed that Parliament commence the necessary works without 
 
 Mr Woollacott seconded the motion.  He said 600,000 acres had been sold along the line of the proposed railway and yet not £10,000 from that had been spent by the Government north of Forresters – rather it had been squandered on roads and fine buildings about Adelaide and down south.  Last season 1,000,000 bushels of wheat had been produced north of Forresters and that could more than double if there was a railway.  He predicted more people employed at the mine and in Burra than ever before.  When times were prosperous he himself had paid away £12,000 a year in carriage.  Carriage from Burra to Adelaide by drays would not pay so well as formerly because the land was all fenced and depasturing cattle on Crown Lands was now impossible.  He too complained of the slow progress of the line north from Roseworthy.  The motion was passed unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

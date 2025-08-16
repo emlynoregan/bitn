@@ -32,4 +32,4 @@ My fifth son, aged 15, claimed to be converted at Mr Burnett’s meeting at Mait
 
 The first Sunday night in April 1883 that the Army was in Moonta this lad was one of the penitents.  I said, in view of his record, before joining the Salvation Army, or any church, he should first show piety at home.  To the best of my knowledge he never joined the Army and as he was a child attending school do not think his case deserved mention.  People here will smile at there being only one case of backsliding, but I don’t want to go into this.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

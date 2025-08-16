@@ -54,4 +54,4 @@ On Tuesday 23 July a public meeting at the Burra Hotel was held to consider the 
 
 The road between Kooringa and Adelaide are appalling.  There is a paucity of travellers and this with the holes and quagmires has resulted in the mail cart running only two or three days a week, with the mail carried on horseback on other days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

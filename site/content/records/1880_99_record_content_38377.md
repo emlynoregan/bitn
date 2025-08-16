@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘North Ward’ responds to ‘Kooringa’ about claims to the Mayoralty.  The north can take its place ‘as regards ability and qualifications necessary to fill the Mayor’s chair for the ensuing year’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

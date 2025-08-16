@@ -36,4 +36,4 @@ Numbers of people continue to prepare to depart for Newcastle and tradesmen here
 
 The election so far has not produced a single meeting here or an organisation of any kind.  I have heard that Mr Neales intends to visit the town before nomination day, which is next Thursday.  There is still no sign of any opposition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

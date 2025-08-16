@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ comments on out-of-town coursing (Pt Pirie), athletics (Petersburg & Yongala), and on local coursing and tennis as well as a defence of the fairness of the recent football match when Burra played Broken Hill, denying that Broken Hill played with only ten men, while admitting that on occasions two of them did run off the ground to seek shelter ‘but when the ball came near them they ran out and done [sic] as much work as if they had remained on the spot’.  He also defends the local umpire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

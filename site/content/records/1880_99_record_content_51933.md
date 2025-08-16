@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 20 February.  Cr Parks moved to expunge the Mayor’s report.  The Mayor ruled the motion informal and refused it.  Cr Parks then gave notice for a call of the whole Council on 6 March to expunge the report.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

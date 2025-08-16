@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF has had its annual inspection.  Chiefly through removals the company has reduced from 86 to 61 of whom Gen. Owen inspected 53 on Saturday (including 3 from Terowie).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 All were in favour of the present system of Bible reading in State schools, for the same standard in country and city schools, for Sunday closing, for mining on private property and all opposed the abolition of free [travel] passes to Members of Parliament.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

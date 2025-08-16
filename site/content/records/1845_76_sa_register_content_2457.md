@@ -27,4 +27,4 @@ Notice.  SAMA.  Wanted for the Burra Burra Mines, two carpenters.
 
 Apply to Henry Ayers, Secretary, Adelaide, 7 September 1848.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 The Governor will arrive on Tuesday by the midday train with Miss Mabel Buxton, Mr Harrold Buxton and Captain Guise.  They will be guests of Mr A. McCulloch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Jefferson Stow is the new Special Magistrate for the northern districts.  He comes from Mt Gambier to replace the late A.J. Edmunds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr Short of Aberdeen has furnished further proof that we do not have to send out of Burra for vegetables if we only take the trouble to grow them here.  He has from his garden four radishes 18” long and 4 lb in weight without leaves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

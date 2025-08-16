@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 BYMMIA.  Address by Mr W. H. Hardy: W.E. Gladstone or The Irish and Egyptian Questions.  Messrs Hardy and Geake Sen. said Gladstone had procrastinated and temporised, while Rev. S. Knight and Messrs Mathews and Kitchen defended Gladstone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘Interested’ writes complaining about the uncertainty of the closing time for the Adelaide mail from Kooringa – apparently the postmaster was telling different things to different people and/or granting favours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -38,4 +38,4 @@ Marriage.  Karen Jacka was married recently in Adelaide.
 
 Marriage.  Daphne Sellick recently married Robert Achurch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

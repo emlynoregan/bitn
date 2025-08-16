@@ -37,4 +37,4 @@ Rev. Ibbetson of St Mary’s has preached two sermons in aid of the cemetery fun
 
 The weather has continued fine with only a little rain and some frosty mornings.  The sunshiny days have seen the continued growth of pasture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

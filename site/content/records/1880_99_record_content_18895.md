@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Primitive Methodist Church Anniversary Services, 16 & 19 August.  Dinner 19th at 4 p.m. and a Grand Concert at the Institute at 7.30 p.m. followed by supper in the church.  Dinner 1/6, Concert 2/- & 1/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

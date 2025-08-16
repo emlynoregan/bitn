@@ -25,4 +25,4 @@ Agriculture.   Burra 26 December.  The harvest is proving to be one of the best 
 
 Few farmers are reaping less than 16 bushels per acre and examples of 30-35 and not rare.  All now depends on fair weather for the next fortnight to enable the riches of the land to be secured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

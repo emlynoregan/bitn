@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Ah Lung sued Joe Ford for £21-1-5 for wages, having been paid little for his 40 weeks work which was supposed to be at £1-5-0 per week.  Luke Day translated.  Ah Chin corroborated.  The verdict was for Ah Lung for the full amount.  A counter claim for £70 from Ford as Ah Lung was an unsatisfactory worker was dismissed and he was reprimanded for keeping Ah Lung on if he couldn’t do the work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

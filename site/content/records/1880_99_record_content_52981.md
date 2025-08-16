@@ -27,4 +27,4 @@ Burra Homing Club has its first race today, from Princess Royal.
 
 (After writing this the author heard that three of the would-be racers had been destroyed by hawks.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

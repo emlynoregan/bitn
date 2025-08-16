@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 British and Foreign Bible Society.  Special services are to be held on 21 January: in the morning at Kooringa in the Primitive Methodist Chapel, in the afternoon a united service in the Kooringa Wesleyan Church, and in the evening at the Primitive Methodist Chapel, Redruth.  Office bearers were re-elected except that William Davey Sen. replaces J. Roberts, who has left the district.  The deputation is Rev. W. Davidson of Wallaroo who will give a lecture Bible Triumphs that will be repeated at Redruth Wesleyan Church on Tuesday and Westbury Wesleyan Church on Wednesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

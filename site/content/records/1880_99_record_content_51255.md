@@ -93,4 +93,4 @@ Mr Davey had asked to address the meeting, but the chairman asked him to refrain
 
 A comprehensive vote of thanks followed for the chairman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

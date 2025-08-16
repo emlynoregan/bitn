@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Farrell’s Flat.  People are extolling the government town of Hanson judging from the recent land sale.  Planned, or in course are a flour mill, a machinist’s, blacksmith’s, hotel of 15 rooms and general store.  There is a daily coach to Clare and twice a week one to Booborowie to catch the Blinman mail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

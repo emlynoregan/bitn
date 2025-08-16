@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 [The writer then outlines a possible reticulation scheme with metered water supplies.]  P.S. Messrs McLean, Rigg & Co. say their 12’ windmill will pump water from 150’ to 200’ and so could easily lift it the elevation required.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Accident.  As Rev. J.S. & Mrs Wayland were nearing the mill on their return from Kooringa on Tuesday they were in the act of stopping when their buggy was run into by Mr Kemble’s trap which was following.  The buggy was overturned and Mr & Mrs Wayland precipitated into the street, though fortunately without serious hurt.  The trap did not come off so well with broken shafts and bent ironwork.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

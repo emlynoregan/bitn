@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Cr Harris had received a letter from C. & T. Drew who had spent between £20 and £30 a year assisting Burra’s poor.  In the current circumstances C. Drew wrote saying conditions were so bad in Adelaide that he would have to redirect his charity and withdraw his support from the town.  As far as is known Mr T. Drew’s support will continue.  The £10 mentioned as collected or given by each Councillor should have read £2-10-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

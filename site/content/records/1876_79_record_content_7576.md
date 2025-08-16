@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Wesleyan Bazaar on Wednesday and Thursday last was opened by Rev. J. Bickford. The room was splendidly decked out and a good trade was done. The first day produced £81-6-4 and the second about £50. The remaining items will be sold at reduced prices tonight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

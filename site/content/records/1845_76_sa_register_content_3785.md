@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Burra Hunt had an excellent outing on Monday week, having ridden over 50 miles of country and captured two kangaroos, one said to be over 8 ft in height.  Among the sportsmen were the host and hostess of the Burra Hotel.  The party returned laden with trophies, in the shape of tails, feet etc. and would up the day’s amusement by pledging the health of the originator and his amiable lady, in full bumpers, at the hotel in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

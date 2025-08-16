@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The 7.50 a.m. down train will depart Adelaide at 7.00 a.m. instead of 7.50 a.m. The 8.05 a.m. up train from Burra will now start at 8.00 a.m. [There were also changes on the Kapunda line]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

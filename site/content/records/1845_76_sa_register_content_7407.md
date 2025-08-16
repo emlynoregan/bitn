@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  There is an advertisement for a wrestling match to be played on Monday 10 November at the Brecknock Arms Hotel in King William Street South.  Seats for 2,000 have been arranged.  One round is to be fought in the Cornish Style and one in the Devonshire Style.  In the event of it being one fall each at that point the style of the third round will be decided by the toss of a coin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

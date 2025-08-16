@@ -29,4 +29,4 @@ The Burra Show will be opened on 12 October by John Olsen, Leader of the Opposit
 
 [An article then outlines some of the sections and attractions.]  Burra Rural Youth Club is organising a licensed disco in the Burra Town Hall on Show Night.  The Burra Yacht Club will hold its annual regatta on Burra Creek on Sunday 13 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

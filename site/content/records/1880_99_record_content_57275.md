@@ -63,4 +63,4 @@ A resolution was passed expressing Council’s strong feeling that it was ill-ad
 
 A requisition is being prepared which will ask the Mayor to call a ratepayers’ meeting on the advisability of requesting the Councillors to resign.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

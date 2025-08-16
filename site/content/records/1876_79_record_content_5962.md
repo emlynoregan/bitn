@@ -34,4 +34,4 @@ The deceased was struck on the head by the handle of the windlass and knocked un
 
 [Samuel Baker was born 20 May 1869 Llwchwr: died 18 February 1879 Kooringa, residence Redruth, though the age at death is given as 11 years 6 months.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

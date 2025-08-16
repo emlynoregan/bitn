@@ -34,4 +34,4 @@ The Chairman said that the land purchased by him on account of the Gold Company 
 
 [Neales then went on to list the amount of copper ore sent home from mines other than the Burra Burra and the Kapunda mines and said it totalled 10,000 tones, with a value of £150,000 at £15 per ton.  Also some £15,000 worth of silver-lead had been sent home from the Glen Osmond Mine.  These figures indicated the highly remunerative employment that awaited the skill and enterprise of the Cornish miner.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

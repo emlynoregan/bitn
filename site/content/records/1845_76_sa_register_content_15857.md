@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Accident.  A man named Robinson came in from the bush suffering from a grievous hand wound occasioned by an accident while firing a gun.  Drs Maurau and Morgan found it necessary to amputate the injured limb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

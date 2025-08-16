@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Lynch Family of Bellringers had a lucky escape near Walhalla (Victoria) on Saturday week when one of the leading horses of the mail coach went over the precipice at Little Joe Mountain.  Only swift action by the driver saved the rest of the coach from a 1,000 foot plunge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

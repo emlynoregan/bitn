@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Frank Latter, who attempted to commit suicide at Terowie on 14 August, has been discharged from the Burra Hospital, having been bound over to keep the peace beforehand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

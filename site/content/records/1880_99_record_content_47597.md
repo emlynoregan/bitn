@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Broken Hill Benefit.  The lecture and shearing contest raised £12-12-0 which has been sent to the Broken Hill Defence Committee to benefit wives and children of the imprisoned labour leaders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

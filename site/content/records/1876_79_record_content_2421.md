@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Statton & Henderson: Advt. showed they were in Market Square as suppliers and makers of wagons, spring carts, buggies, ploughs, scarifiers, harrows, etc. and had a steam saw mill. [They were the owners of the land needed to be acquired for the Kooringa Bridge.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

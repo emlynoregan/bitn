@@ -30,4 +30,4 @@ Supreme Court, Adelaide.
 
 Charles Henry Hayes & William Brown got two years hard labour for obtaining £1 by false pretences with intent to defraud Johannes Gottfried Mann of Hanson.  They stated they were going to erect a Barrier Mutual Economic Smelter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

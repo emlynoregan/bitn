@@ -39,4 +39,4 @@ Most of these ores were raised between 1844 and 1850.  We are assured that recko
 
 Nothing approaching exhaustion has resulted from such productiveness.  The Burra Burra is still as rich in its quality of ores and has great productive capabilities.  Kapunda’s ores have averaged 21% and before 1848 eight lodes had been discovered and were all producing.  It is difficult to form an estimate of its future productiveness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

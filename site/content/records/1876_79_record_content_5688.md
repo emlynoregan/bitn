@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 [New] St Mary's. The Wardens' Committee are believed to have given up waiting for Mr McMinn and have given the plans for the New Church [St Mary's] to Mr McLagan, architect for the new Bank of Australasia and work should soon commence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

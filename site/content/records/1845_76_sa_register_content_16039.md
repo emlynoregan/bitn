@@ -48,4 +48,4 @@ With respect to the election, the aforementioned apathy continues.  So far it se
 
 Large quantities of wool continue to pass through the township.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

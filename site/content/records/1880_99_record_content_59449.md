@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Narrow Escape.  While the polo match was in progress on Saturday at Aberdeen a lad named Gully gave some of those assembled an exhibition of jumping and after clearing a ditch or two he tried to jump over a shaft, but ended up 20 feet down it.  A pair of reins was used to haul him up, after which he made a retreat homewards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Mrs Miller, who was injured a few weeks ago when thrown from her trap in a collision with one driven by Mr Opie at Aberdeen, is now nearly recovered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

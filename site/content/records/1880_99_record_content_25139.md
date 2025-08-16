@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the use of the totalizator.  It is outrageous that the totalizator be used at the Onkaparinga Races [Oakbank] last Monday when it is still illegal.  The operators will likely get a small fine and yet make about £300 in profits!  But then the operators here are ‘highly respectable men’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

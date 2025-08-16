@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  17 August at Nelson Town, Thomas Henry Woollacott, aged 1 year 5 months, son of T.H. & C.F.C. Woollacott.  [Born Nelson Town 4 March 1881.  Not to be confused with Thomas Henry Woollacott born to the same parents at Nelson Town 1 October 1882.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

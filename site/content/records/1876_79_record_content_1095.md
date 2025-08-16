@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Commercial Hotel; a new hotel recently erected by W.L.H. Bruse Bar, bedrooms, sample room, billiards, stone stables with ostler always in attendance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

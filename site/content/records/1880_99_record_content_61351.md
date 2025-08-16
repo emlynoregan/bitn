@@ -27,4 +27,4 @@ This time when the jury returned they said they had ‘determined to give the pr
 
 [See XV, 352, 4 Nov. 1896, page 3, for the beginning of this case.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

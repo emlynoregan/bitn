@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Weather continues good with green grass everywhere and prospects now encouraging for a good season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

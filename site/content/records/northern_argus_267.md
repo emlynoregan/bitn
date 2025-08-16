@@ -39,4 +39,4 @@ In the Junior Section (Farrell Flat-Burra) the winners were the Saints Challenge
 
 Eleven teams have so far registered for the 1986 Broken Hill-Burra Barrow Push and eight others have indictaed interest.  [Photo of Burra breathers on the road.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mt Bryan Hotel.  There is a report of a court case involving Mr J.B. Bull, landlord of this hotel and the encashment of certain cheques.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -100,4 +100,4 @@ This is only a little more than half those employed in 1859.  It seems that much
 
 The Directors are anxious to find some way of turning their low grade ores to account.  They are still in correspondence with Mr Henderson on the subject of his patent process for the reduction of low grade ores.  This is a matter which would interest many proprietors of mines across the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

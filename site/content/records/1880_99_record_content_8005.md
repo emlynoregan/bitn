@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Railways.  A meeting at Petersburg on 26 September pushed for the extension of the broad gauge from Terowie to Petersburg.  There was also a move to have the railway extended as broad gauge from Petersburg to the east through the Hundreds of Morgan, Coglin and Cavenagh, then via Waukaringa.  Such a line would pass through better country than one going east from Terowie.  Mr A. Threadgold thought that Petersburg would be ruined if the line started from there, but his amendment to that effect failed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

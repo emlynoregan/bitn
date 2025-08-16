@@ -34,4 +34,4 @@ This extends the usual general good wishes and expresses a feeling that Australi
 
 2nd Leader dealt with the recent robberies.  The police were urged to keep a closer watch on such tramps and to move them along if they had no visible lawful means of support.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

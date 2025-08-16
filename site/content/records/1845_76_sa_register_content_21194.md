@@ -34,4 +34,4 @@ Tothill’s Creek News
 
 With the new Government main road passing through Steelton and Waterloo the Central Road Board has abandoned the care of the old main road from Springfield through Tothill’s Creek and Apoinga to Kooringa.  A public meeting has been called for some repairs on the old road and for a ford on the section between Springfield and Tothill’s Creek to be made free for general traffic; it having for some reason been sold to Mr Ryan.  This latter application has been granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

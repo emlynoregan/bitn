@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on Hon. Thomas Playford’s policy announcement.  Too much of this policy has been plundered from the late Government and was, when introduced by them, opposed by those who now espouse it.  The Government intends to end the free breakfast table and to increase the tax on income, to get 2d a £ from property and 1d in the £ from trade.  All of which we believe will come direct from labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

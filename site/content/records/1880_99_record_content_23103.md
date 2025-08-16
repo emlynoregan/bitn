@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A deputation reported the resolutions of the public meeting on the Inspectorship and other issues.  The Mayor said the issue of the Inspectorship and of lower rates would be considered, but that the latter question was hard to see being enacted considering the overdraft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

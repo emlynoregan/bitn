@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A Surveyor has set out from Burra with the intention of finding a route to the coast for the transport of smelted copper.  His return is awaited with interest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

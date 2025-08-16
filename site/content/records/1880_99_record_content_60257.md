@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Miss Elliott’s living statuary performance drew a much bigger attendance when it was repeated on Friday at the Institute.  The constant applause proving that the exhibition was greatly appreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

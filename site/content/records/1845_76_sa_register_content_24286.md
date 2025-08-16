@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Grasshopper Plague.  A report from the Black Springs area says grasshoppers have been bad there for some weeks and thick clusters of half an acres have been common.  Last Friday and Saturday the army of pests was so dense that everything green was eaten and trees have also been stripped of bark and branches as thick as a man’s little finger.  It was impossible to keep them out of the houses.  They got into the milk and the cupboards and ate innumerable holes in the muslin curtains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

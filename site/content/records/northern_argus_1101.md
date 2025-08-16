@@ -28,4 +28,4 @@ Free Bridge for Burra
 
 The School of Civil Engineering at the SA Institute of Technology has offered a prestressed concrete test bridge free to any interested Council.  It is 11 metres long by 1.6 metres wide and could be used as a footbridge across the Burra Creek.  Burra expressed interest and the bridge was delivered last Friday and will be stored until it is decided where to site it.  A prefabricated pedestrian bridge of similar span would cost about $12,000 excluding siting costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

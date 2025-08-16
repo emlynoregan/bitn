@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Water Supply. The Corporation has repeatedly addressed the Govt. on the subject and yet we make no progress thus far. Some time ago men from the Waterworks Dept. tested the town well and said flow was abundant, but a pump would be needed. Now another party has arrived to again test the well and so we suppose this effort will again exhaust all activity of Govt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

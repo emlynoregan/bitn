@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Redruth had the foundations laid for an Anglican Church, but after 20 years it had got no further.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

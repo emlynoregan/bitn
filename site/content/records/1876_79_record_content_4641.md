@@ -32,4 +32,4 @@ Cricket Club. There were about 12 present. J. Snell proposed and H. Steele 2nd t
 Officers elected: Captain, T. Shortridge; Vice-Captain, J. Snell; Sec. & Treasurer, James 
 Walker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

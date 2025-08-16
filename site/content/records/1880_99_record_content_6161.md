@@ -28,4 +28,4 @@ Advt.  Bible Christian Church, Kooringa, 27 January.
 
 Peter Campbell, the well-known bush missionary will give his celebrated extempore oration on Queen Alcohol: Empress of Death.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

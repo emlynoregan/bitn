@@ -33,4 +33,4 @@ Advt.  Proposed SA Railway Company with Capital of £50,000 in 5,000 shares: dep
 
 Committee included Captain Bagot MLC, Charles Beck, James Bunce, William Peacock and Samuel Stocks Jnr.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

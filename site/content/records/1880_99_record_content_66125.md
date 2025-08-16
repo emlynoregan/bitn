@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 A Vermin Board Meeting.  A meeting called by P.L. Killicoat at the Institute this month will consider the advisability of forming a Vermin Board to fence the land west of the Murkaby Vermin Board, south of Braemar, to the Hundred of King.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

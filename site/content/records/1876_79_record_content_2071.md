@@ -32,4 +32,4 @@ On Tuesday 3 April at 4.20am the second length of the main pumping rod at Morphe
 
 Water at once began accumulating in the mine and all underground working had to be suspended. The pump will be out of action `for some considerable time'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

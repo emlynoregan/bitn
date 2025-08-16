@@ -49,4 +49,4 @@ Temperance Carnival.  Last Thursday (Accession Day) was a public holiday and the
 
 The Rose of Sharon Tent reported 150 members and 70 juveniles while the Lily of the Valley Tent reported 86 members.  Miss Ackermann’s addresses on Thursday, Friday and Saturday are reported in 1 column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

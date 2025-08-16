@@ -32,4 +32,4 @@ Reprint of an article from the Barrier Miner saying inter alia:
 
 ‘[The] mere fact that he was at the last election returned at the head of the poll; far in advance of two of the most generally popular men of the colony, proves unmistakeably the high esteem in which he is held by those who best know him.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

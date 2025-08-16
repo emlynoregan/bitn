@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 St Mary's Church. A meeting of seat-holders learnt that there was a deficiency of about £200 re the new church, but subscriptions already promised and the proceeds of a harvest festival in February are expected to overcome this. It is now proposed to open the new church in the middle of January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

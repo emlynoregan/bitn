@@ -30,4 +30,4 @@ Burra News, 15 October
 
 Mr A. McCulloch was the only nomination for the seat of Burra in the House of Assembly and so was declared elected.  He had been proposed by William Young and Isaac Killicoat and seconded by Thomas Bath and Henry Dawson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

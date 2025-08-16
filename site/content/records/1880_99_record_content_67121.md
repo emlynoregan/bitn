@@ -31,4 +31,4 @@ Waterworks
 
 The engineer reported that the water conservation department was now timbering a portion of the well to make it more secure.  The machinery is working satisfactorily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

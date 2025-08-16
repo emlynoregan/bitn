@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MR.  Lieut. Joseph Blott resigned a few weeks ago and has been replaced by Lieut. F. Field.  Lieut. Field was born in Hamilton, Victoria in 1863 and came to Burra as a young child.  He was among the first to volunteer when the Burra Mounted Rifle Co. was formed and soon rose to L-Cpl and then a month or two later passed his exam to Corporal and then to Sergeant and Sgt-Major and now to Lieutenant.  The annual inspection of the company is due soon.  Capt. J.A. Watt is still very weak and not able yet to fulfil his duties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

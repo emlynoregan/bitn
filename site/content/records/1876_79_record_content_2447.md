@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Roads: J. Broad bogged his buggy on the main road at Mt Bryan Flat & couldn't get it out with 4 draught horses, though he managed next morning with 6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Jubilee Service.  The Wesleyan Jubilee Service is fully reported, including Rev. Burgess’s sermon (pages 2-3).  This was deemed so important that a special edition on better quality paper was printed and made available for 2d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

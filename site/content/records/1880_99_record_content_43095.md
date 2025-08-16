@@ -30,4 +30,4 @@ The existing lease expires on 31 December and negotiations have begun for a rene
 
 An extra boiler and spare set of pumps and driving gear should be at the works.  The waterworks assessment has been reduced, but still presses heavily on some ratepayers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

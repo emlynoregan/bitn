@@ -30,4 +30,4 @@ SA Supreme Court
 [An appeal is reported against the verdict in the Burra v. Beck and others case.  It was based on the inclusion of Mr Kingston in the action, when he was not at the time a Director.  Mr Gwynne put the case for Beck and the others.  His Honour said that Mr Gwynne might have a rule nisi.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Burra Polo he says is not dead - activity goes on any Saturday on the ground near Elders’ Yards, Aberdeen.  Players include: H. Bowman, F. Bowman, C.W. Bowman, F.W. White & A. Gebhardt.  The last game for the season will be on 23 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

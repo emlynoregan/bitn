@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  William Jacka, aged 58, died at Hammond on 15 August.  He was the father of W.J. Jacka of Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

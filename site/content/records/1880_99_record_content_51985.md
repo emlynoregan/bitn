@@ -30,4 +30,4 @@ Local Board of Health.
 
 Effluvium had arisen in the quarry in West Ward.  No complaints about the material deposited there had been made until recently.  Two or three hot days seem to have been the cause.  The requisition asking for action contained Dr Sangster’s name and could not be written off as ‘just a bit of spite by one ratepayer’ as Cr Harris was inclined to do.  Cr West moved no more refuse be placed in the quarry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

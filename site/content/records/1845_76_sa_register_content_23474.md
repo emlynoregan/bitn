@@ -35,4 +35,4 @@ James Collins was found dead 19 February.  He had died from heart disease and wa
 
 Thomas Anderson [of no fixed abode] was found dead [at Kooringa] on 1 May from natural causes.  Dr Dashwood attended.  He was last employed by on Mr Hile’s Station, Wangabbie and had been in the Royal Navy in 1810.  He was 75 years old, with grey hair and beard and a native of Portsmouth, England.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

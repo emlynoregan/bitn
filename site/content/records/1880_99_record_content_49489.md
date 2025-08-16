@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr T. Kitchen is moving to Adelaide and he received hearty thanks at the Kooringa Circuit quarterly meeting for over 16 years of very active service.  He has been a local preacher, class teacher, Sunday school superintendent, teacher and visitor, trustee and circuit steward.  He has also been a leader in the cause of temperance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

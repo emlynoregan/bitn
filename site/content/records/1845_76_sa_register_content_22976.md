@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Six Mile Station (from Pt Wakefield) of 180 acres near the Pt Wakefield railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

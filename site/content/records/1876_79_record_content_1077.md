@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The original road north was frustrated by the Mine and had to go into the hills to Cobb's Farm to reach the Mt Bryan Plain. Later the Mine built a road through sections 9 & 42 but fenced both sides to favour trade in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

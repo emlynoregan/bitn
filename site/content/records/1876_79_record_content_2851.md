@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Midland Road Board. Ed. on them and the unsatisfactory way money was appropriated for the various works to be done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

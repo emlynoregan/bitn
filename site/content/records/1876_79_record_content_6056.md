@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Football. Burra's Football Club is under way with 20 members enrolled. The colours are a red & white guernsey, cap and stocking with blue knickerbockers. They will play Adelaide Association rules and the election of officers is on 10 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -32,4 +32,4 @@ The recent revivals among the three Methodist groups in Burra seem to have influ
 
 Since the visit of Rev. Lyall to Burra there has been an attempt to establish a Presbyterian Church and this may well succeed as there are a number of Presbyterians scattered about Burra and the neighbouring stations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

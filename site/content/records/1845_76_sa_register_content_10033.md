@@ -37,4 +37,4 @@ On turning his attention to the security for the loans needed, he discusses the 
 
 The next item he addresses is the consequent developments in the colony as a result of this investment.  He also discusses how Victoria will have very great rouble and expense in getting a railway to the goldfields because of the terrain to be traversed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

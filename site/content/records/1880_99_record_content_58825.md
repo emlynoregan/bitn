@@ -27,4 +27,4 @@ Editorial on Men and Manners in Parliament.
 
 The writer is concerned about the effect on Parliamentarians when the reporting concentrates on the men rather than the measures being discussed.  Lack of discipline is, however, perhaps the most prominent feature of the SA Parliament and men speak on subjects they are not masters of.  Debates go on far too long.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

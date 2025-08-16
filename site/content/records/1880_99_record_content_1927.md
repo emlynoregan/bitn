@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cricket.  The Aberdeen Club was formed at a meeting at the Exchange Hotel on Monday evening.  15 persons attended with Mr Ridgway in the chair.  M. Moorhouse was appointed secretary pro tem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

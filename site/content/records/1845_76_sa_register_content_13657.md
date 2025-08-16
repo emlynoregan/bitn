@@ -27,4 +27,4 @@ Kooringa News, 29 August
 
 The Kooringa Primitive Methodist Chapel held its annual tea meeting celebrating the opening of the chapel on Monday last. It was well attended despite inclement weather.  Mr Skews presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

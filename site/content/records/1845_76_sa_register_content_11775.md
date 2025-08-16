@@ -34,4 +34,4 @@ Redruth Court, 13 July before J.W. Macdonald SM
 
 James Prangley, James Schofield, J.C. Barclay and Finlay Mackay were charged with breaking window glass in the houses of John S. Gubbins and Mr Corey.  Finlay Mackay admitted breaking Mr Gubbins’s window by accident and was fined £1 plus costs; it not being the first time he had annoyed Mr Gubbins.  Prangley and Schofield were found guilty of the offence at Corey’s and each was fined £1 plus costs.  There was insufficient evidence to connect Barclay with the offences and that case was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

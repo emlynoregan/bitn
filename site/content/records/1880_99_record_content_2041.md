@@ -42,4 +42,4 @@ The Mayor reported that after the last meeting he had been grossly insulted by C
 
 Messrs H. Dawson, W.H. Rosman, T. Nicholls, & Mrs Builder comprised a deputation re the levels of the footpath in Commercial St.  The Council then adjourned till Friday to give themselves time to investigate the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

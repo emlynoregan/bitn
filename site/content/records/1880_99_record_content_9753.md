@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt. Grand Musical & Dramatic Entertainment at the Institute 17 April to raise money for the Institute Funds.  Concludes with the farce ‘The Limerick Boy’. 2/- & 1/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

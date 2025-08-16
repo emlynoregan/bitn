@@ -60,4 +60,4 @@ Dr Nesbitt
 Dr Brummitt 
 The three proprietors who are not on the Hospital Board are connected with the Corporation and would therefore be claimed by the Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

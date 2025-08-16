@@ -42,4 +42,4 @@ The argument that the new site is more central for Redruth is negated by the fac
 
 The post office at present is far from central.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

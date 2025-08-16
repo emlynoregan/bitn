@@ -85,4 +85,4 @@ Character references for Cole were given by Thomas Box (bailiff), George Hiles (
 
 After His Honour had summed up the jury acquitted the prisoners without hesitation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

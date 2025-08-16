@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Accident.  A car rolled over on the Burra to Booborowie road on 9 November and a 25-year-old farm hand was admitted to Burra Hospital with injuries sustained in the accident.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

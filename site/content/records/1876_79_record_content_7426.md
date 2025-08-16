@@ -30,4 +30,4 @@ Hallett Institute.
 
 On Monday 10 November, despite the stormy weather the Hallett Institute was successfully opened. Mr Warwick donated the land in Alfred St. Plans had been prepared by Mr F.W. Holder for a hall 45'x30'x18' high and two offices each 16'xl2' separated by a [word illegible, but it must be passage or foyer] 6'x 16'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ Legislative Council
 
 The residents of Burra Burra, in anticipation of the advantages likely to flow from the forthcoming enlargement of the Legislative Council, have sent a requisition to the Resident Magistrate to call a public meeting ‘to consider what steps should be taken in order to secure an efficient representation of these townships in the new Council’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

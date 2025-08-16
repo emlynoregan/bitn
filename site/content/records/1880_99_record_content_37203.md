@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Advt.  WCTU.  A meeting of the mother’s of the Union is called at the Bible Christian parsonage (Mrs Stayel’s) for 16 July at 2 p.m.  Leftover garments for remaking welcomed.  J.N. Holder, Sec.  [Should this be J.M. Holder? Julia Maria was F.W. Holder’s wife.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

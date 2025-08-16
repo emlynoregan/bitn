@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the controversy over who should pay for the making and maintenance of Ayers St.  The editor felt that at least some input from the other wards was appropriate as half the wear and tear comes from people outside the South Ward and the Council acknowledges this by already contributing £20 from the general fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

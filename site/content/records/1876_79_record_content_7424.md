@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Burra Athletic Club. The fourth club meeting in Duff s paddock at Copperhouse last Monday started with a wet and boisterous morning, but by 11.00 a.m. the weather was improving and despite a strong wind events got under way at noon and in the afternoon there was a good number of spectators of both sexes. Results are printed. Prizes were distributed at the Institute in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

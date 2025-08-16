@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Friendly Societies’ Demonstration on Boxing Day, 26 December with a grand concert and distribution of prizes in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

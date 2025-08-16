@@ -25,4 +25,4 @@ Karkulto Mine
 
 Two men are sinking the new shaft and are at 22 fathoms.  The lode is two to three feet wide, chiefly iron with some good stones of copper.  Driving north from diagonal shaft No. 2 the lode is three feet wide and while not rich is promising.  Nine tributers are at work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

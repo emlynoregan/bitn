@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Waterworks.  No one knows when the water will be back on.  This is an incredible situation in mid-summer.  Though the Government is essentially to blame the inaction of the local Council is deplorable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

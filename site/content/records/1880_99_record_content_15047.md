@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Mary’s Sunday School Picnic was held at Princess Royal woolshed last Wednesday and was well attended.  The only drawback was the disagreeable dust storm that blew for part of the time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

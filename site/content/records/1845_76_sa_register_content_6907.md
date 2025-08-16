@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Advt.  For Sydney Direct.  The fine fast-sailing Prussian frigate-built ship Wilhelmina of 600 tons with accommodation for a considerable number of steerage and a limited number of cabin passengers will sail about the end of June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  Central Road Board.  Tenders are called for the building of a bridge across the Burra Creek between Aberdeen and Redruth and the approaches to it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

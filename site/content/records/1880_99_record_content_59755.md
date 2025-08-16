@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Sandland & Co. will sell the household furniture and effects of Mrs D.S. Packard, who is leaving the district, at the residence at the Smelting Works on 29 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ The Board said that regrettably they had no funds for such purposes and could on
 
 [White’s Forest is not known with any certainty, but Manning in Place names of South Australia, November 2006 says it was probably near Wirrabara.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

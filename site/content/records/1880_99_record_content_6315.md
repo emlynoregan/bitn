@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Aberdeen.  West side of Young St midway between the footpath and the corner of road.  First horse head in line with the side of Morehead St, facing south.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

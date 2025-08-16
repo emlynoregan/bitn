@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Several parties are returning from Wallaroo as many could not get work there, but the families of others are going, so the population here remains about the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

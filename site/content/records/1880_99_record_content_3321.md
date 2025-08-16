@@ -44,4 +44,4 @@ For an improved harbour for Adelaide.
 
 For more members of the Legislative Council and the division of the colony into electoral districts for the Legislative Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

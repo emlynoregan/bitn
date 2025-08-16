@@ -31,4 +31,4 @@ David Rogers of Hampton writes concerning Council tenders.  Tenders were called 
 
 My tender for kerbing was for £1-19-0 per chain and the other was £2-5-0 per chain, which was also accepted.  The difference on these two small jobs was £4-7-0.  This is very unfair between Council and the ratepayers.  I have tendered for work with the Burra Corporation for years and always received fair play until lately and the books will show I have given every satisfaction.  I would ask Councillors to act fair and then no one would complain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

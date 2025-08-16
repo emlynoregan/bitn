@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Vandalism.  Mr Killicoat’s garden on Flagstaff Hill has been attacked and one lemon tree destroyed.  A £10 reward is offered for information leading to a conviction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

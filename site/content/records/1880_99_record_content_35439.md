@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Editorial on the desirability of Burra District competing with Kapunda in the supply of smelting flux for operations at Dry Creek, Port Adelaide, or elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

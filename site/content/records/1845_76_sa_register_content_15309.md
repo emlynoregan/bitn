@@ -25,4 +25,4 @@ Kooringa News, 8 January
 
 The weather since the Christmas break has been very hot.  Today it ranged about 100°F.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 A sub-committee will draft a brief for the operation of the Heritage Advisory Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

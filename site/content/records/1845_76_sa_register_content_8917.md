@@ -31,4 +31,4 @@ The water in the deep levels of the Mine being rapidly ‘forked,’ immediate e
 
 Henry Ayers, Secretary, SA Mining Association, Adelaide, 10 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

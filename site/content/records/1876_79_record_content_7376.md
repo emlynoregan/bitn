@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Editorial in favour of fencing vacant land in Burra along certain designated main streets. Cr Ridgway has given notice, nominating Best Place, Ludgvan St and Morehead St. The editor would add Commercial Street, Kingston St and Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

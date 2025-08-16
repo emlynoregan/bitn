@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Fines for failure to renew licences: - Charles Schutz, omnibus proprietor, £1 Frederick Fuss, water-cart operator, £1
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

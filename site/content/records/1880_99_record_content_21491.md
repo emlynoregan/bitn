@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Typhoid.  There has been an outbreak at Hindmarsh.  [This was one of several for the year: it was a frequent problem at the rather unhygienic sites of mineral exploration as well as in several towns.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

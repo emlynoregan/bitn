@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 In the last six months Friday editions have been increasing in circulation and we believe the change will boost our circulation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

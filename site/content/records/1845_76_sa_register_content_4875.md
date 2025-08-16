@@ -47,4 +47,4 @@ Herbert Lester, the deceased’s brother was dissatisfied with his brother’s b
 
 The jury expressed great dissatisfaction that, under the new Act, 24 tradesmen had to be called from their business to attend this inquest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

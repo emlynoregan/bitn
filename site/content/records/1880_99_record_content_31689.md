@@ -29,4 +29,4 @@ Redruth Court, Wednesday 20 Feb.
 
 Frederick John Carey, chaffcutter of Kooringa, was charged with indecently assaulting Margaret Jane Laughton, married, of Kooringa.  After hearing the evidence the bench decided there was very great doubt about the facts and dismissed the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

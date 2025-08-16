@@ -28,4 +28,4 @@ To the Burra in One Day
 
 We understand Messrs Haimes & Jewell have commenced running a conveyance which leaves Adelaide at 5.00 a.m. and arrives at Kooringa in the evening of the same day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

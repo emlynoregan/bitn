@@ -28,4 +28,4 @@ Brutal Assault at Kooringa
 
 On Saturday night two women were assaulted by two men as they walked past the Miners’ and Mechanic’s Institute, now in the course of construction.  It began with some larking around and overtures from the men, but when these were rejected, one of the women was roughly handled.  In seeking to save herself from falling down, she clutched at the man and scratched his face.  He then picked up a rock and threatened to knock her skull in.  He threw the stone, which broke her arm.  After she fell to the ground she was unmercifully kicked and left to her fate.  To make matters worse the woman was pregnant.  Both men are known and will undoubtedly appear in court when the woman is sufficiently recovered to attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Bicycle Club.  First outing of the season was on Wednesday to Mr Barker’s at Baldina when 22 took part.  In the afternoon a bicycle polo match was played at which W.J. Richard’s side won 13-11.  There was a moonlight ride home by c. 8.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Burra Scouts went abseiling last Friday night with the Venturers in the railway cutting quarry.  [The Aberdeen ballast quarry.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

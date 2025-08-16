@@ -34,4 +34,4 @@ Green & Wadham will offer for sale by auction on 1 April the Greenock Arms Hotel
 
 A brick and stone building situated at the junction of the Burra-Adelaide Road with those leading to Freeling, Angaston and the Murray.  The land comprises c. 2 acres in the town and an adjoining 90 acre paddock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

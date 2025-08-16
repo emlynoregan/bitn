@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Messrs Cowper lost 180 sheep last week when they ate a poisonous plant as they were transferred from one part of the station to another.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

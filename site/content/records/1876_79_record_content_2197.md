@@ -26,4 +26,4 @@ Entertainment: Advt. "Great European Star Combination" at the Institute 28th & 3
 
 "Dutch and Negro Impersonations, Clog Dances, and Burlesque Sketches" Seats 3/-, 2/- & 1/
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

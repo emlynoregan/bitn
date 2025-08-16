@@ -31,4 +31,4 @@ The Forestry Picnic will be in Austin’s Paddock, Aberdeen.  There are many ent
 
 The Register reports that the last harvest was probably the worst ever recorded in the colony.  Average yield was 4 bushels 32 lb an acre, down 2 lb on the previous one.  In the Lower North and the old Southern and South-Eastern areas the yield was 10 to 22½ bushels per acre, which kept up the average.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

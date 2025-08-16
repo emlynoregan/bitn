@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 [The writer recommends looking in the backs of iron lodes and in combinations of quarts and spar.  Shepherds are particularly well placed to discover it.  In streams it is found with black iron-sand, always at the bottom, being heavier.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

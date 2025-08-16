@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Aberdeen, 21 July, Mabel Wallish Gartrell, youngest child of H. & M. Gartrell, aged 2 years 2 months.  [Born Mabel Wallis Gartrell 7 May 1878]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

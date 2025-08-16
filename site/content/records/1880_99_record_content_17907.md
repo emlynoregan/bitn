@@ -40,4 +40,4 @@ The absence of a shed is not surprising as the plan was to erect the engine and 
 
 When the engine was ordered the mains were to be 1¾ miles long - now they are 7½ miles.  The engine and pump ordered will lift 2,400 gallons per hour, but the engine will work two pumps if a second be got from England.  The Hydraulic Engineer agreed to leave the present pump in position as well as the new one until demands are ascertained.  That seemed reasonable to the committee last year - being assured that with the extra pump the engine will raise 4,800 gallons per hour.  What Cr West calls ‘pepper’ will not be likely to improve the relations of the Council with the Waterworks Department.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

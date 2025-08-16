@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Resident’ writes condemning the practice of cabs carrying parcels.  It is surely against the law, as it is for the parcel van to carry passengers.  It is a practice detrimental to the parcel carrier and also to the passengers of the cabs who suffer from the dirt etc. from boxes and parcels and also from the worn and torn cushions they cause in cabs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

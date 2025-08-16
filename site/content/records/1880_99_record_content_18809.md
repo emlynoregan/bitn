@@ -46,4 +46,4 @@ Eliza Williams -  a neighbour, who says: -
 
 [i.e. a daughter of the deceased’s wife and possibly therefore Charles Bertram’s mother]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

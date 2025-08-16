@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Waterworks. A party of men from the Waterworks Dept. are laying a siphon from the well at Gilbert’s Quarry to ascertain whether the volume of water could supply the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

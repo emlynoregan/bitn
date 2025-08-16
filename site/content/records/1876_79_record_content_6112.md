@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kingston St Bridge. Since the last issue the iron arches have been put in place. The staging no longer carries the weight of the bridge so flood damage is no longer a threat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

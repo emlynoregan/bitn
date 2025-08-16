@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Quondong Mail.  A deputation has waited on the Minister of Education urging a weekly mail service by horse or coach to Quondong, c. 110 miles northeast from Burra.  Tenders have previously been considered too high.  At present a bi-weekly mail goes to Thistlebeds and it is thought one of these might be extended to Quondong.  The area is permanently occupied, carries 105,000 sheep and pays £1,100 rent.  Extending the Thistlebeds service would save £100 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

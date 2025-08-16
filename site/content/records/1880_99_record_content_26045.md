@@ -29,4 +29,4 @@ Burra Waterworks.
 
 Messrs Holder and Rounsevell waited on the Commissioner of Public Works on Thursday last to ask that the Railways Dept. take water from the Burra Waterworks at 1/6 per 1,000 gallons instead of maintaining separate works.  He has promised an early reply.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

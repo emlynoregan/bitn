@@ -43,4 +43,4 @@ Crs Watt & O’Leary wanted legal advice first.
 
 Council decided it did not feel justified in placing the town under the Sparrow Act unless the majority of ratepayers express such a desire by a public meeting or petition.  [The move would have involved the expense of appointing an inspector etc.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

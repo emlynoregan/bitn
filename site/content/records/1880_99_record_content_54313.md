@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Hallett & Kooringa Bible Christian Circuit held its quarterly meeting at Petherton House, Mt Bryan on 11 July with Rev. E.J. Kemp presiding.  New ministers, Kemp & Lee were welcomed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

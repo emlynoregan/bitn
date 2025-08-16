@@ -26,4 +26,4 @@ Mintaro News, 4 April
 
 Lots have been surveyed adjacent to the township.  The Government has selected a site for a police station.  The new Wesleyan Chapel in nearing completion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

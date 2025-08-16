@@ -48,4 +48,4 @@ The Government will be asked to erect the fence to be 70-75 miles long.  It woul
 
 [The figure of 160 is clearly an error – could it be 1,600?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

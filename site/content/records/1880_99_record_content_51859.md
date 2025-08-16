@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Pleuropneumonia has broken out some 50 miles east of Burra and on the northeast track 100 miles from Burra.  Losses so far are slight and an inoculation program is under way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

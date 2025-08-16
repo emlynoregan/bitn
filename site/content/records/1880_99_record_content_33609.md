@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Letter from C.H. Wilkes defending the Amalgamated Shearers’ Union against a charge that an employer cannot dismiss a shearer.  All they ask is that a dismissed man be fully paid for the work he has done and that men be allowed to be engaged without involving an agent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

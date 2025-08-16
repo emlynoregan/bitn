@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Burra Mines.  Arrangements for drilling have nearly been completed.  At the site of the old pound yards the old well, sunk 35-38 years ago, is to be opened up, ‘the water forked’ and a search made for a deposit of rich blue carbonate ore said to have been discovered there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

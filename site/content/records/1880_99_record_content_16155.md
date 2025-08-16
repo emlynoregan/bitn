@@ -42,4 +42,4 @@ The lamp in North Ward, at £7 from J. Tobin.
 
 The lamp in Market Square at £10-10-0 from J. Snell.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

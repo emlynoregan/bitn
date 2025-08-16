@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Kooringa News.  St Andrew’s Day was celebrated on 1 December by the Scots with a dinner at the Burra Hotel.  Many visitors were present and the evening passed off with utmost harmony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

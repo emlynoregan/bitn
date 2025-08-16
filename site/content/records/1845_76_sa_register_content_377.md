@@ -40,4 +40,4 @@ The line of natural road is of general remark.
 
 There is nothing new to report from Princess Royal Mines, but a small quantity of ore sent in gives every promise of quality and we understand the existence of copper in great quantity is no longer in doubt, though it is at present less tangible than the treasures of the Burra Burra Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

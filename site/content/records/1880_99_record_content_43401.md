@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary/Accident.  Mrs E.A. Skewes of Hilltown was killed when thrown from her buggy in a capsize on 30 November.  She was a sister to Mrs Wade of Kooringa.  [Registered as Elizabeth Ann Skews died 30 November 1891.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

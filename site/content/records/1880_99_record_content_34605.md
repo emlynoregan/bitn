@@ -34,4 +34,4 @@ Obituary.  The wife of the late John Warwick of Canowie and Holowiliena died at 
 
 Mrs Janet Warwick, was aged 77.  She arrived in Australia on the Fairfield in 1837.  Her late husband was well known at Canowie and Holowiliena, having come to SA from Canabie in Scotland in one of the first ships.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

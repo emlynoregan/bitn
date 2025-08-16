@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  F. Gebhardt Sen. of Thames St died on Tuesday evening last after an illness of over four years.  He was one of the town’s earliest residents and for many years a baker.  [Ferdinand Gebhardt died 2 September 1890 aged 55.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

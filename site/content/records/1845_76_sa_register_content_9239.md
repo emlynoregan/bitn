@@ -26,4 +26,4 @@ Census Returns: The data printed on 3 August is repeated with some extra data as
 
 Census of 31 March 1855: County of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

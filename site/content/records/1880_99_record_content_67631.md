@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Thomas Shaw Allanson, aged 79, employed for many years at Faraway Hill Station, died at Chalker’s Station on his way to Burra Hospital following an apoplectic fit.  He was an old identity of the Eastern Plains.  One son, Thomas, is a storekeeper at Cockburn.  [Died 14 December 1899]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

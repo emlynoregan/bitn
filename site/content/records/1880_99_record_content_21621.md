@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs D. Packard, widow of the late Daniel Packard and mother of the Mayor, died at her son’s home on Tuesday morning.  She had arrived in SA in 1857.  [nee Sarah Devereux?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘The unfortunate lamp at Henderson’s Corner was ordered to be removed and fixed at the southern corner of the troughs.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Goodchild, Duff & Co. offer 22,000 sheep on 5 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

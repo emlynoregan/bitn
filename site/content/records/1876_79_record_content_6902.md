@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Messrs Pearce Sen., Ward & Bruce asked the Council to enlarge the waterway of the bridge in Queen St as the man road bridge upstream has been enlarged. Council thought the whole bridge would soon have to be replaced, but they had no money at present. The deputation offered to lower the bed at their own cost and was allowed to do so under the supervision of the surveyor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

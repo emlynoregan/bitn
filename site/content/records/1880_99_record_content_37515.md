@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Ratepayer’ on the wanton destruction of tree guards in the locality of Harris & Sons’ shop on the corner of Thames St and Market Square, by larrikins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

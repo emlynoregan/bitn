@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Bridge: Footbridge behind the Miners' Arms reported to be unsafe due to lack of handrail and insecure approach on the town side. [It seemed to be just a plank in width from the discussion.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

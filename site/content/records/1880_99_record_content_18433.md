@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  The Bible Christian new manse memorial stone is expected to be laid by the Chief Justice on Tuesday 1 September 1885.  Lunch at 1.00 p.m., stone laying 3.00 p.m., and a tea meeting to follow at 5.00 p.m. and 7.00 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

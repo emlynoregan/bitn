@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Hospital has received a donation of 14/- from the Baldina Wesleyan Chapel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr Rabbich moved a vote of no confidence, but was attacked by Sampson, Rayner and fuss who persuaded him to withdraw.  The Baldina irrigation scheme passed a second reading and went to committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

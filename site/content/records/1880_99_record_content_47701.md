@@ -32,4 +32,4 @@ In aid of St Mary’s Schoolroom.  At the Recreation Ground Today.
 
 To be opened by F.W. Holder at 2.30 p.m.  Dinner 6.30 p.m.  Gates close 10.00 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mary Hogg, aged 40, wife of James Hogg, Manager of the Bank of Australasia, died on 5 December after a short illness.  (Inflammation of the lungs.)  [Mary Selby Hogg]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

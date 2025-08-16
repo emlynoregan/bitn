@@ -33,4 +33,4 @@ A committee was appointed and a meeting is called for 3 March at 7 p.m. when all
 
 Edward Fitzgerald, Hon. Sec. 13 February 1851, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

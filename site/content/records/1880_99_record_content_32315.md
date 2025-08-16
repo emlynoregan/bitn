@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The United Oddfellows’ Picnic, which had been adjourned from the previous week, was completed last Wednesday.  The grounds were declared open as the ‘Burra Oval’ by the Mayor, Mr Holder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

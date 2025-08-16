@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Volunteers attending the review tomorrow must obtain passes and go down either tonight or tomorrow morning.  Parade at Staff Office at 1.30.  Return the same day will be possible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

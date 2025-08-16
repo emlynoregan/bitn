@@ -41,4 +41,4 @@ Obituary.  Richard Andrews who died at his Ayers St residence on Wednesday, aged
 
 St Mary’s.  The Anglican Bishop of Adelaide preached three excellent sermons to very large congregations last Sunday and at the 11 o’clock service confirmed 13 candidates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

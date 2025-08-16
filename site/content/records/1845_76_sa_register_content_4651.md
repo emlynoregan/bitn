@@ -57,4 +57,4 @@ George Chadwick gave Worth a good character reference.
 
 Because it was a first offence the Judge gave him three months’ hard labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

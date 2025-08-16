@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Court Pride of Burra Junior Foresters Lodge celebrated its first anniversary in the Institute on 14 March.  There was a Court Meeting, presentations and refreshments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

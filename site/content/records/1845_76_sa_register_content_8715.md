@@ -47,4 +47,4 @@ The prospective advantages are cheering not only for shareholders, but for all c
 
 Including officers there are 191 persons employed; a force so inadequate that the Directors have declared that the want of labour is most acutely felt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

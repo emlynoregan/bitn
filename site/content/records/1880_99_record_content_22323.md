@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Steam Locomotive.  A new 70-ton Yankee engine at Islington Workshops last Saturday started on its own, travelling backwards and forwards, damaging other engines and the paint shop and causing £1,200 damage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

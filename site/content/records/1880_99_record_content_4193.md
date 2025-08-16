@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Dr Kelynack spoke on ‘The Path of Power in the Pulpit’ rather than on Martin Luther.  The night was damp and uninviting, but the reserved section was full and there was a good sprinkling elsewhere.  The speech was favourably reviewed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

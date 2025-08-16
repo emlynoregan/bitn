@@ -49,4 +49,4 @@ T.W. Pearce offered for South Ward.  He was not for the footpath to Aberdeen, no
 
 Cr Sampson was for the Chapel St Bridge, a loan of £1,000, a footpath to Aberdeen and a town survey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Elder, Smith & Co. are said to be planning new offices on the site between Messrs Drew & Crewes store and that occupied by Messrs Dempsey, Wilkinson & Sandland in Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

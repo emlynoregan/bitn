@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Tarlee.  The village progresses and where two years ago there were no houses there now are 100 inhabitants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

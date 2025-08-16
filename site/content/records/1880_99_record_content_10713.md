@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd leader on the Burra Waterworks.  On Monday ratepayers will have to decide whether to accept the plan whereby the Government builds a water supply scheme and hands the running over to the Council which will pay 3% on the capital cost in the 1st year, 4% in the 2nd year and 5% per annum thereafter.  The editor favours the scheme because it would help the town and be useful in fires and also it is likely to be quite profitable.  The Council has been securing guarantees to take a certain quantity of water.  Some of the guarantors will die, and some may move, but as the premises will be in the best part of town and water will be laid on, they are unlikely to remain empty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

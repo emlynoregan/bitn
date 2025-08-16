@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. H.T. Burgess began a series of ‘popular services’ in the Kooringa Wesleyan Church on Sunday last with a sermon on betting and gambling etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

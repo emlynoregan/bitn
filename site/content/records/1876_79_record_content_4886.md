@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Eastern Road. The two roads to the east are nearing completion. The Redruth one has all bridges, culverts and cuttings complete and the Kooringa-Nankivell’s Gully road is being finished. This will make a pleasant loop drive from Kooringa to Redruth or vice versa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

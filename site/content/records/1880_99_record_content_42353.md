@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Co VF attended a meeting on Thursday evening called by Captain Butterworth to consider the advice of Maj-Gen. Downes that the Company be disbanded due to the very small attendances at drill: many members having transferred to the Mounted Infantry Company.  In view of this Capt. Butterworth suggested the Company be disbanded and this was then moved by Pte W.H. Hardy.  2nd Pte Pederson & carried.  Pte W. Bruse will collect the rifles and other things belonging to the staff office.  Captain Butterworth will dispose of surplus ammunition to the Mounted Company and wind up the books.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Most public houses there have been erected at great expense and the reports which reached the Worshipful Bench that sat on the 14 & 15 March to grant such licences found everything satisfactory.  Several of those gentlemen have travelled in the Far North in the last two years and would have been able to have spoken of each case of complaint on its own merits.  If ‘Sympathizer’ had any complaint he should have written to the proper authorities stating his grievance and naming the locality, so as to prevent this piggish shanty from receiving its licence again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

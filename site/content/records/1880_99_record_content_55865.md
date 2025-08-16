@@ -49,4 +49,4 @@ The rates were declared: General 1/-, Health 3½d (down ½d), Parklands 2½d (do
 
 The Town Clerk is to procure assessment books for the Waterworks and make arrangements for the transfer of the Waterworks property to the incoming engineer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

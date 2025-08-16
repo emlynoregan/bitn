@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church held special end-of-year services at which R.M. Hunter officiated.  On New Year’s Day the Sunday scholars and teachers, numbering about 300, went to the Princess Royal woolshed area for a picnic and games.  In all fully 1,200 persons attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

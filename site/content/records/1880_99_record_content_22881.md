@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Commercial Hotel.  Under distraint for rent, J. Sampson Jun. is instructed to sell the whole of the stock-in-trade, comprising household furniture and effects of the Commercial Hotel, Kooringa, at 11 o’clock 30 & 31 July 1886.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

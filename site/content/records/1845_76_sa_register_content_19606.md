@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 On Wednesday 15 August Rev. W.L. Stanton gave one of his popular readings at the Mechanics’ Institute in aid of the piano fund.  £6 was collected.  Also in the program were songs by the Messrs Moody and Mr Oehlman of Adelaide.  Mrs Oakford presided at the piano.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

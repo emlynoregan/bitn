@@ -31,4 +31,4 @@ Thomas Grant: Clerk of the Local Court, Kooringa.
 
 R. McCullagh, T. Simpson & W. Harward, Mail Guards, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

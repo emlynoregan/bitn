@@ -72,4 +72,4 @@ As a buyer of shares he had been connected with the Burra Mine since 1845.
 
 Mr Dale then tried to speak, but there was much confusion and difficulty in making himself heard over it.  He sought to prove that Mr Kingston had said that 7/- a day was too much for a working man.  He then proposed Mr Neales as a fit and proper candidate.  Mr Kingston was also proposed and when put to the meeting a show of hands favoured Mr Neales.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

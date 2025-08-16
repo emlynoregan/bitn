@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Railways.  When the goods train from Hallett was very late on Tuesday the passenger locomotive from Burra was sent north to find it.  The two met at a curve in the cutting.  The passenger locomotive was thrown into reverse and was not hit very hard, but it ran rapidly through the station before being halted.  No damage of any significance resulted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

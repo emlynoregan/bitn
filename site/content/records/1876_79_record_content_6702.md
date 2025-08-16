@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 He also says that in the early part of March 1878 he had taken the levels with the object of advocating making a reservoir to collect and preserve the water from the spring which is level with the lower corner of the fence around Mr Lipsett's dwelling and conveying it in pipes to inhabitants on the west of the Burra Creek (those to the west having easy access to shallow wells). If the mine restarts the west side of Burra creek will be drained dry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

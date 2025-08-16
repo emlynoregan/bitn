@@ -25,4 +25,4 @@ Editorial on the importance of the elections and on the responsibilities of the 
 
 [In multi-member electorates plumping was the habit of voting for only one candidate rather than for the number to be elected.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

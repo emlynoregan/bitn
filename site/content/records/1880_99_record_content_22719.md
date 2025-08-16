@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Unemployment.  40 from 70 applicants have been chosen to work on Barker’s Dam.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

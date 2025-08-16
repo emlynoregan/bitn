@@ -84,4 +84,4 @@ The interruption to the carriage operations is another aspect of the dilemma.  W
 
 These successive strikes have arisen from dogged mismanagement.  ‘If it is possible that there is anything approaching chicanery in all this; we hope it will be unsparingly exposed and denounced.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  In the 2nd race for 1896 from Tarlee on 13 May the winning birds belonged to S. Edwards.  They covered the 42 miles 500 yards in 40 minutes 45 seconds at 1,826 yards per minute.  [See XV, 260, 27 Jan. 1897, page 3 where it is reported as the best speed in SA for 1896.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

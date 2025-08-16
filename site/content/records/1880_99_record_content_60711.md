@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Club.  Dr Sangster’s talk on Germs on Wednesday was well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

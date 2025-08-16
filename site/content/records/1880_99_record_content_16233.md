@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Editorial, on the Adelaide Court’s overturning of convictions against the Salvation Army for marching and playing in Kapunda despite the new by-law there.  He supports the Army’s right to do so, even though he dislikes the noise and distraction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

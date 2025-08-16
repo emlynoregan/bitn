@@ -25,4 +25,4 @@ The Elections.  District of Burra
 
 In the Burra 234 voted of 429 on the roll and in the whole electorate 592 voted of 978 on the roll.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

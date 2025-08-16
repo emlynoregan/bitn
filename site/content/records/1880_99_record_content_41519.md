@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Rev. W.J. Mayers, from Dr Barnardo’s Homes for Destitute Children will conduct special services.  Redruth Wesleyan at 11 a.m. on 31 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

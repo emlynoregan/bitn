@@ -30,4 +30,4 @@ Obituary.  Mrs T. Parks Sen. died in Chapel St on Sunday: a very old and respect
 
 [Jane Parks died 26 December 1897 aged 71.  She was born Jane Lawn in Cornwall.  See much more detail XV, 299, 5 Jan. 1898, page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

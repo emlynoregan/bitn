@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 James Alfred Glasson sued Nelson for assault.  Both were cab drivers and Nelson (Working for T.P. Halls) tried to take a portmanteau from Glasson and so gain a passenger at the Burra Railway Station, then grabbed him by the neck and threw him down.  Nelson took 14 days jail rather than pay the £2-9-1 fine and costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

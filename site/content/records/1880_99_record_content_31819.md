@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Waukaringa Athletic Sports has forwarded £6-7-6 to the Burra Hospital as a result of their Christmas sports.  (From the miners at the New Alma & Victoria Gold Mine.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Legislative Council Election.  The death of Mr W. Haslam has brought out four candidates: F. Pflaum, J. Lewis, J.C. Haslam & T. Jeffs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

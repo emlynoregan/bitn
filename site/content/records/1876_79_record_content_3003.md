@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 He will also set up his studio at Redruth on the flat near the creek facing Mr Orchard's and Mr Opie's hotels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

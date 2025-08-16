@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. RVF has had four drills and now has 48 names on the roll.  Drill is rapidly being learnt.  The company meets this evening in Mr Edward’s store in Commercial St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

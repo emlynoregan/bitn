@@ -30,4 +30,4 @@ Professor D.M. Bristol’s Great American Cirque and Eques – Curriculum
 
 [A circus of horses, ponies and mules.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

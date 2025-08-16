@@ -32,4 +32,4 @@ Proposed Redruth Church of England
 
 A public meeting of members of the congregation of St Mary’s, Kooringa was held in the church last Wednesday evening to co-operate with the inhabitants of Redruth in their efforts to build a church there.  Mr John Winnall chaired a well-attended meeting.  Rev. Ibbetson opened the meeting with prayer and outlined the need for the building.  The secretary of the committee [Mr Ewbank] read the minutes and letters from sundry gentlemen in Adelaide who had offered to furnish plans for the building.  The meeting then passed a motion of wholehearted support for the project.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

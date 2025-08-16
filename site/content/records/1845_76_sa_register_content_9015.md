@@ -29,4 +29,4 @@ Easter at Kooringa
 Among the Easter amusements at Kooringa on Monday was a race after a little porker with a greasy tail.  About 20 started in the chase, but within five minutes 200 must have been following the poor little animal.  At one stage another small pig distracted about half the hunters, who were most disappointed to find they had run down the wrong animal.  After about 15 minutes the one with the oiled tail was captured; being completely exhausted.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

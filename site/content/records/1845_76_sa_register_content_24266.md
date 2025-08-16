@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 John Baker.  Constable Murphy arrived in Wilcannia 29 November with the prisoner John Baker.  When the irons were being put on the prisoner in Adelaide, he attempted to strike the constable, but was subdued.  They went by rail and then coach to Wilcannia via Wentworth.  Baker had previously stated his intention to escape and but for the vigilance of Constable Murphy would certainly have done so.  Baker was placed before the bench on 30 November and remanded for eight days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ SA Auxiliary Bible Society
 
 The Burra branch held its AGM in the Wesleyan Chapel at Kooringa on 8 October.  There was a large attendance despite wet weather.  Mr MacDermott SM presided as President of the Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

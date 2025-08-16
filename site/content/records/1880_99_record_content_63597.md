@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr W.C. Windschied was given an illuminated address by Cr C. Fuss at Opie’s Hotel on Thursday.  He has been stationed at the Burra Railway Telegraph Office for the last 6 years and has given courteous and obliging service.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

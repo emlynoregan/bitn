@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from Ben. Franklin Longford, the author of a serial in the paper, called City of Big-Big, who is complaining of plagiarism by the author of another series In the Twentieth Century’ said to be by ‘B.F.L.’.  The latter is certainly as unreadable as Longford’s work and in such a similar style that it might be him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

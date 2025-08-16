@@ -41,4 +41,4 @@ An inquest was held the next day before Mr MacDermott SM with Mr Lane as foreman
 
 Haywood did not smoke, smoking was not allowed in the stables and he had seen no one about the place smoking.  William Kimball gave corroborative evidence.  He had seen several boys walking from the brewery to the hotel.  J.G. Lamb landlord of the hotel said he did not believe he had an enemy in Burra.  He spoke to five boys in the stable yard (aged 12-14), reprimanded them and said he thought they had started the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -57,4 +57,4 @@ O. Harvey moved that the action of Sir Henry Ayers and those who voted with him 
 
 C. Lowe proposed the time had arrived for an amendment to the constitution limiting the powers of the Legislative Council and calling for the formation of an Association to be called The Kooringa Legislative Reform Association.  Carried unanimously, after being seconded by Thomas Moody and supported by William Woollacott.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

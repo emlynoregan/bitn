@@ -33,4 +33,4 @@ Coaches to Blinman - Depart Burra Fri. 11 pm - Depart Blinman 4 a.m. Tuesday Coa
 
 - Depart Sliding Rock alternate Mondays Coaches to Burra - Depart Laura 5 am Monday, Wednesday & Friday Coaches returning to Laura - Depart Burra 2 pm the same day
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Obituary.  On 14 July trooper Guy of the Mounted Police arrived in Kooringa from Clare Village with the news that a respectably dressed man had been found dead in the bush about seven miles from Mr Hawker’s Bungaree Station.  A carpet bag was near the body.  Mr Lang was not well enough at the time to travel such a distance to hold an inquest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -35,4 +35,4 @@ On Friday the Lancashire Bellringers gave the first of their entertainments assi
 
 Many of the oldest miners are leaving here at present for Kapunda and Wallaroo, being unable to earn enough to keep them, which owing to the high price of flour is a difficult matter, as there has been no corresponding rise in wages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

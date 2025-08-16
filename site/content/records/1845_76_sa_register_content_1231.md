@@ -33,4 +33,4 @@ Port Adelaide-Swansea Trade
 We have been glad to hear of discussions concerning direct trading between Port Adelaide and Swansea, undertaken by a prominent business person of Swansea.  The main obstacle is obtaining outward cargoes from Swansea.  While Swansea provides only a brief list of exports, the railways now growing in the area must furnish additional manufactures and merchandise.  Such matters should also improve from the floating harbour, which it is intended to construct there in substitution for the tidal one now in use.  Many shippers avoid the port because of the need [of shipping] to lie on the ground.  In any case 40 to 50 vessels of 300-650 tons have been regularly employed in the copper trade from Cuba and Valparaiso and none has sustained damage in the harbour.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

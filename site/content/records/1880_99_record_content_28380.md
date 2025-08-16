@@ -51,4 +51,4 @@ At present in about 50 hundreds totalling some 5,000 square miles the rougher la
 Surely this is a waste of power and industry misapplied.  The few who are doing fairly well are those who have ceased to fight against nature and have given up cultivation for grazing and have restricted crops to a small area that might in a good season provided a bonus.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

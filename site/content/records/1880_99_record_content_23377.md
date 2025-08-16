@@ -39,4 +39,4 @@ Held that in the country from 4-8 of the divisions would be quite large enough i
 
 Thought that more care was needed to group those with a community of interest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

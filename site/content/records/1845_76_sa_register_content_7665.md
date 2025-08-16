@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 SA Goldfields.  Further reports appear of Mr Pollock purchasing some native gold and of some Germans submitting some considerable-sized specimens to Mr Giles for inspection.  Mr Levi has produced two pieces of gold from a panful of earth in the Torrens and a section there has been leased to some men for further prosecution of the search.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Gawler News, 6 January
 
 The Burra Mining Co. continues to send all its copper direct through Gawler to Port Adelaide and the return traffic of their drays is large, subjecting the road to considerable wear and tear.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

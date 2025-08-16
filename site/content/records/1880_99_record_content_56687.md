@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Sunday School had a very successful picnic at Princess Royal on Good Friday.  The Burra Brass band led a procession of vehicles at 9.30.  Games of all sorts were indulged in and at 3.30 there was a public tea followed by the return to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

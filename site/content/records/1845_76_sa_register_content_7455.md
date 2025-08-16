@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mineral Leases.  A Committee and Secretary have been appointed to communicate with other mineral districts and to agitate for the achievement of the desired objectives.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

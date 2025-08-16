@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Warning’ says the Wesleyan Church at Redruth should take heed of the Sunderland disaster.  The Sunday school children were all on a gallery at one end of the church and the entrance door was blocked.  In event of fire many might have died in the panic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

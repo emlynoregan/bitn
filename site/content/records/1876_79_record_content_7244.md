@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Editorial on the Burra Show and the lack of agricultural machinery despite a considerable amount being made in the district. Perhaps making the prize list available earlier would help.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

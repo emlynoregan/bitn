@@ -36,4 +36,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Association held its 14th meeting on Saturday 7 July in the Burra School.  Teachers came from schools at Burra, Baldina Plains, Copperhouse, Davieston [now Hanson], Hacklin’s Corner, Hallett, Hanson [now Farrell’s Flat], Leighton, Mt Bryan, Saddleworth, Spalding, Terowie, and World’s End Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

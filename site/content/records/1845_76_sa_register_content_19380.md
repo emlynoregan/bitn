@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Weather.  The rain received in the south was scanty at Burra and none fell towards the east.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

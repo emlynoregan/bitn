@@ -28,4 +28,4 @@ Bon Accord Crossing
 Efforts to get some sort of protection for the dangerous railway crossing at the Bon Accord have so far not been successful.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

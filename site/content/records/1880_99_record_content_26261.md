@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church held special services on Sunday taken by Rev. Hancock and Rev. H.T. Burgess.  Wednesday dinner and concert in the Institute were very poorly attended, no doubt due to poor weather.  Proceeds £30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

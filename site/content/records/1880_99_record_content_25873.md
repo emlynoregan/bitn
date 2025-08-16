@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Weather.  Rainfall last year was 14.38” and so far this year has been 9.585”
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

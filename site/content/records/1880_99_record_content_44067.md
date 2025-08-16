@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Coursing Club met at the Commercial Hotel on Thursday.  G. Parks was elected secretary and J. Smith, President.  The meet is to be arranged for 4 & 5 May and the Hon. J.J. Duncan will be asked for the use of Gum Creek Estate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Stow, wife of J.P. Stow SM, died on 8 April from the effects of the capsizing of a trap.  [The next issue says a dog rushed out at the trap.] [Jourdiana Maria Stow, born Brodie, died aged 58.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

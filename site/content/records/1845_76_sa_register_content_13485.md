@@ -39,4 +39,4 @@ Burra Burra Mine.  The new lode is realising the most sanguine of expectations. 
 
 The highways and byways in the township have rarely been in a more miserable state due to the continuing wet weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter pointing out that the football match planned for 1 September at Clare clashes with the battalion drill due either at Hamley Bridge or Caltowie.  The writer fears that ‘Quiz’ is a volunteer who fails to practice what he preaches, i.e. that success only comes by regular attendance and practice.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ Informal	26
 
 [There was much discussion in the paper about ‘plumpers’.  These were people who voted for only one candidate, although two were to be elected.  The effect was similar to modern day preference deals.  The battle for second place after Holder could have easily gone either way depending on how many plumpers there were.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

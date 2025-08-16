@@ -41,4 +41,4 @@ Because the year referred to in the relevant clauses is a calendar year, it must
 
 On balance the dissenters, upon payment of the 1/- in the £ should be free of any other payment until the year 1878 and while they could take the matter further they would seem to suffer no disadvantage if they were to accept that the payment runs to 31 Dec. 1877 and if the Corporation does so too, as the parties agreed at the start of this arbitration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Roman Catholic Schools in SA are listed with their enrolments.  Burra has a mixed school run by Sisters and has 56 students.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

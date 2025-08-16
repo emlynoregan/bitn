@@ -35,4 +35,4 @@ To and From Port Adelaide	45/- per ton
 
 James Hamilton, Manager, English and Australian Copper Company, Adelaide 20 August 1855.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

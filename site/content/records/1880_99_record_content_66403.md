@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 At a meeting on Monday at Mr Pascoe’s shop the Hon. John Lewis accepted the position of President.  There is a credit balance of c. £4 and 34 playing members with 12 honorary members. The club owns four good footballs to start the season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

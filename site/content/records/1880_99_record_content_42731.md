@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI will be inspected by Gen. Downes today with fall-in at 3 p.m. in Market Square.  There will be a Military Ball in the Institute tonight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

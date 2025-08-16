@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Institute Committee sends a letter to the Local board of Health expressing the readiness of the committee to erect a urinal on being released from their engagement to join with the Local Board in erecting a public urinal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

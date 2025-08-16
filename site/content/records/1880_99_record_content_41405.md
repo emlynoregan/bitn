@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Boys’ Field Naturalist Soc. went to Iron Mine on Saturday afternoon.  The secretary, Mr Opie, arranged for a bus and Rev. R.J. Daddow pointed out the dip and strike of shale on Flagstaff Hill and the continuous spring on the roadside at the top of the hill.  At Iron Mine samples of manganese and iron were collected from the excavation and surroundings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

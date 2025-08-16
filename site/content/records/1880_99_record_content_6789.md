@@ -58,4 +58,4 @@ The entrance to the Recreation Ground is to be in the centre of the west side an
 
 The Kingston Tce footbridge is to be shifted & a lamp is to be erected in Market Squ.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

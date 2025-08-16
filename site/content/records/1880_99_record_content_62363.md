@@ -32,4 +32,4 @@ Recent Obituaries: J. Hutson at 84, Thomas Rosewall (Senior) at 86 and now A.W. 
 
 [John Hutson died 28 April, Thomas Rosewall died 19 May, Adolph August Wilhelm Lott died 27 May and aged registered as 80 and Mrs Charlotte Henrietta Caroline Kiekebusche, registered as Kickebush was 81.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

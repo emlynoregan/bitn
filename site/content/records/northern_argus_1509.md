@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 The recent wet weather has seen the creeks full of flood waters, but except for cutting a couple of roads no damage has been done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

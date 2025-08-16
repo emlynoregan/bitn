@@ -25,4 +25,4 @@ Editorial on The Land Bill
 
 The Bill was to allow land within Hundreds to be held either on a lease with right of purchase, or a lease in perpetuity with revision of rents every seven years.  The writer thought that Working Men’s Leases, which it was proposed to exempt, should have been included.  The person with a perpetual lease will own all improvements and pay an annual fee of c. 2½% of the market value with no land tax.  A right of purchase lease would attract a heavier rent and land tax and if the land were not purchased at the end of the lease the improvements would be lost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -47,4 +47,4 @@ The eight bags of admirable samples of SA wheat, barley and oats, and the SA Com
 
 ‘England, if properly instructed as to the vast capabilities of these colonies, cannot fail to view them with feelings of pride and exultation as valuable portions of the British Empire.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

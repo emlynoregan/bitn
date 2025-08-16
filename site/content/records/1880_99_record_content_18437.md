@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Burra School Board met on Thursday.  The Inspector-General wished to know if parents at Stony Gap would undertake to provide board for a teacher as unless this were done the small attendance would make the salary too small for any teacher.  Enquiries will be made.  The Minister of Education requires a formal letter in reference to the wants of Copperhouse.  It will be sent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

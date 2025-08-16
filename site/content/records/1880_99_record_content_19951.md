@@ -40,4 +40,4 @@ Cr Tiver said Cr Sampson reminded him of a storm in a teacup, and a dog in a man
 [* The minute authorising the work was belatedly found.  See VII, 495, 24 Nov. 1885, page 2, where it says the work was on the ford to the south ‘end of the new plantation’, which would indicate the ford in St Just St.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

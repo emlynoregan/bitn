@@ -36,4 +36,4 @@ publication_slug: sa-register
 
 The proprietors of the southern half of the Special Survey bought the 640 acres adjacent to their property to include a certain spring of water.  The northern proprietors apparently thought it gentlemanly to allow the southern proprietors a claim to this area.  It is a pity the London Company had not ‘the same delicacy of perception’.  The only effect of the bidding on the northern area on offer was unnecessarily to run up the price to the benefit of the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Rogers of Gum Creek.  Last evening Mr and Mrs Rogers were returning from Baldry when they were thrown from their trap when crossing a creek near their home.  Mr Rogers was killed and Mrs Rogers seriously hurt. [Issue of 6 April says that he was Richard Rogers, aged 70 and that he left six children.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

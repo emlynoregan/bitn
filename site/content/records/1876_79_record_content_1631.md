@@ -86,4 +86,4 @@ b.	A recreation ground
 
 c.	More and better housing in Kooringa
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

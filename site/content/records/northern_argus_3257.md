@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Jan & Murray Tiver attended the graduation dinner of their daughter Jane in Perth last Friday.  She has completed her degree in veterinary science.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

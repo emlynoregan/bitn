@@ -35,4 +35,4 @@ St Joseph’s Catholic Church benefited from a bazaar held at the Institute on M
 
 Mt Bryan East.  The crops are looking well and on Thursday A.W.P. Ward gave a lecture at Razorback Chapel on ‘Teetotalism’ and 18 names were added to the pledge book.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

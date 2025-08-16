@@ -45,4 +45,4 @@ Redruth Ford.  A report was received suggesting deep piles were needed at consid
 
 The mayor argued that Burra had been hard done by with respect to its main road grants compared with many other places.  It was resolved His Worship attend the next meeting of the Road Board and urge upon them the unfairness of the proposed apportionment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

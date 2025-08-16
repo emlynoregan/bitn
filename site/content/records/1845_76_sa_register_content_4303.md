@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Obituary/Inquest.  William Lang, Coroner for the Murray District held an inquest on 13 February on the body of Patrick Riley.  The deceased had been employed by Mr Birrell, brewer, of Kooringa.  About six weeks ago he was reading in bed and fell asleep.  The candle fell onto the bed and he was burned so severely that he ultimately succumbed to his injuries. Dr Bull said the burns were so extensive that he never had great hopes of recovery.  The jury brought in a verdict of ‘Accidental Death’.  [Patrick Riley died 13 February 1850 aged 30.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

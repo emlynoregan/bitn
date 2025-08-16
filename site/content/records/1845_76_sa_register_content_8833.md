@@ -26,4 +26,4 @@ Reward for Gold Discoveries in SA
 
 [An announcement outlines the rules for gaining up to £5,000 for finding a payable gold field in SA.  The reward was payable out of a fund that depended on income from gold licences.  It was only payable if £600 or more was received from licences in a month.  The excess to a maximum of £5,000 was payable to the discoverer.  It was an offer limited to 1854 and 1855.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

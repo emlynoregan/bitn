@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Bible Christians met on Wednesday to farewell Rev. J.H. Ashton who is to visit Great Britain and welcomed Rev. J. Hancock who will take his place during his absence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

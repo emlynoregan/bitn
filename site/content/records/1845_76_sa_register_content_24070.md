@@ -57,4 +57,4 @@ Edward Lansdowne born 21 May 1865 Adelaide: died 9 December 1865 Adelaide.
 
 [Note corrections to this obituary 14 August 1871, page 5.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

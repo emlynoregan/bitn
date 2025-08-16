@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Alexander Hedley Stewart died at the Bon Accord [Hotel], Aberdeen, 14 February, son of Alexander and Harriet Stewart, aged 15 months.  [Born Alexander Headly Stewart 18 October 1880]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

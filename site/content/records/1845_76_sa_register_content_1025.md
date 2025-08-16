@@ -30,4 +30,4 @@ Police Magistrate’s Court Adelaide
 
 William Breynard was charged with uttering forged orders on SA Mining Association.  Witnesses attended, but the accused party did not.  After waiting two hours the information was dismissed.  There was some conversation between the Magistrate and some men from Burra Burra.  The latter said that the orders pass in Kooringa in the way bank notes pass in Adelaide.  His Worship observed that in that case the issuers were to be censured for not taking the elementary precaution of expressing the amounts in figures as well as in words.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

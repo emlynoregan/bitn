@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Redruth Wesleyan Chapel held its Anniversary last Sunday.  Rev. Greer of Auburn officiated.  The collection reduced the debt to £100.  On Tuesday Mr Greer addressed the Wesleyan Mutual Improvement Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

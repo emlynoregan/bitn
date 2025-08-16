@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 There are many shearers passing through on their way to the various stations, some of which have commenced shearing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

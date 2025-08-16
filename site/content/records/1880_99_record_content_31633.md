@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Jubilee Fountain Fund.  Mr Derrington will give a lecture with illustrations on Mesmerism, Clairvoyance and the use of the Divining Rod at the Institute, 19 Feb.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

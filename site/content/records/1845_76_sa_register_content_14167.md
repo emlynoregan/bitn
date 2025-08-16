@@ -29,4 +29,4 @@ Notice.  Princess Royal Mining Co.  A dividend of £3 per share has been declare
 
 For C.H. Bagot, E.M. Bagot, George Tinline & Thomas Magarey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

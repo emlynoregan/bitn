@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 G. Maip sued Ah Looey and the case took some time due to the Chinese having difficulty in making themselves understood.  Apparently the plaintiff claimed he had lent some money and also sold some goods to the defendant amounting in all to c. £13.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

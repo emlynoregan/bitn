@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra water: Surprise at lack of water tanks in the town. At present the only bathing place is the Mine Dam and then only for an hour or two daily.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

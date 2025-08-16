@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  The Black and White Concert last Friday in the Schoolroom was such as are fashionable at present in England and Europe.  Ladies were dressed in white with face and hair powdered.  Gents wore black evening suits with hair and face powdered.  Both with si devant beauty spots from the time of Louis Quinze.  Performers pretended to be Arthur Sullivan, Madame Melba, Madame Patey [sic] [presume Patti], Jenny Lind etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

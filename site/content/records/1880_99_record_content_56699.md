@@ -31,4 +31,4 @@ J.P. Heggie fined £6-10-0 for failure to destroy rabbits.
 
 Fie v. Henderson for £1-17-6, adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

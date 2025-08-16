@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from W.T. Rabbich seeking to justify taking a licensing fee from hawkers coming into the town.  They get benefits like good roads and water for horses so it is fair they contribute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

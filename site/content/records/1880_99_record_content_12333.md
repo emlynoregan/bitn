@@ -30,4 +30,4 @@ John Dunstan Jun. asked for a road to be opened on the east side of the creek fo
 
 [In 1928 there are references to Creek St, which seems otherwise unknown.  Could this be its origin?  The 1928 references would seem to indicate the site of the 2004 cycle and footpath.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rifle Match.  Mrs J.H. Dawe’s prize of £6 was fired for at the Burra Range on Wednesday afternoon and the best score came from Sgt-Major Blott with 76.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

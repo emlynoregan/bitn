@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Migration. In the week ending 11 October 160 arrived in SA and 325 departed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

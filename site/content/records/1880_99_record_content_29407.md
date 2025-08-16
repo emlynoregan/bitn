@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church.  The special effort service etc. on 12 & 13 August was quite successful.  On the Monday the weather was poor, but attendance exceeded expectations.  Mr Coombe from Brompton was unable to take the chair at the public meeting so F. W. Holder stood in for him.  Overall proceeds were c. £40.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ M.J. Hirsey’s conviction for supplying liquor to an Aboriginal named Davis, wa
 
 [See original trial IV, 191, 24 February 1882, page 3 where the name is given as Hirsy]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

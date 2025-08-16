@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Rev. L.W. Stanton has established a day school for the education of poor children.  Subscriptions are being raised to defray the expenditure.  In this connection an entertainment was staged on Tuesday in the Burra Hotel Assembly Rooms.  [Details of the program are printed.]  £5 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

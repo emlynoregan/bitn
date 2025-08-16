@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Electoral Notice.  [William R. Boothby as Returning Officer for the Province gives notice of an election to fill a vacancy for Burra and Clare with nomination day 2 May and the election on Thursday 8 May.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

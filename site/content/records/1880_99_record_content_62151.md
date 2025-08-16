@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Children’s Ministering League presented a very nice ambulance to the Burra Hospital last Wednesday afternoon.  Mrs J.C. Sandland (President) made the presentation.  It was procured from England for c. £9.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

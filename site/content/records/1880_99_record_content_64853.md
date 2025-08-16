@@ -61,4 +61,4 @@ M-C Richard Joseph Jemison gave evidence corroborating the position of the body 
 
 The jury decided that ‘Patrick Hoare committed suicide by hanging himself to a tree on the morning of September 23 during a fir of temporary insanity caused by the effects of drink’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

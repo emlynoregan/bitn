@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Rainfall.  The rainfall figure cited last issue is corrected to 10.485”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

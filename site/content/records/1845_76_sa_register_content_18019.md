@@ -39,4 +39,4 @@ The Full Court was held on Wednesday and Thursday and a man called Matthews was 
 
 Thursday was survey day at the Mine and 14 pitches were refused, many of the miners being off to Wallaroo and Moonta.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

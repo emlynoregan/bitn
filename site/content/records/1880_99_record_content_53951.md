@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Bicycle Race.  A meeting on Saturday 2 June at Aberdeen decided to hold a 20 mile bicycle road race on 20 June to Mt Bryan and back.  To start at Drew & Crewe’s.  16 entrants are expected to compete for a gold medal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

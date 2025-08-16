@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 The Royal Exchange Hotel Social Club presented a cheque to the Burra Hospital for $1,500.  It will be spent on a new drugs trolley and surgical instruments.  Publican Ron Lycett and the Social Club President David Maidment said most of the money came from a recent disco.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

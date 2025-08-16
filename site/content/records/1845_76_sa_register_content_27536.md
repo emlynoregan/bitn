@@ -28,4 +28,4 @@ Harcus’s South Australia
 
 William Harcus writes to inform the public that an edition of the work on South Australia is being published in England with maps and illustrations, and that edition, and not the one printed here, will be circulated in England and at the Philadelphia Exhibition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

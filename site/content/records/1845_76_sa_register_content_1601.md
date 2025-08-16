@@ -30,4 +30,4 @@ The Bon Accord, or Sydney Co.’s Mine as it is usually called, is being explore
 
 Editor.  Since this has been received we have reports of the falling in of several shafts, but fortunately with no loss of life.  But there is no official news.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

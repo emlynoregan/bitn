@@ -42,4 +42,4 @@ The Company now employs 1,125 men and boys, representing a population of at leas
 Mr Archibald Jaffrey was elected a Director in place of Mr Thomas Waterhouse, who has resigned his position.  The four other retiring Directors, Messrs Arthur Blyth, William Peacock (Chairman), Thomas Graves and John Charles Boord, were all re-elected.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

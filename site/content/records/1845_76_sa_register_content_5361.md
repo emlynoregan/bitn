@@ -47,4 +47,4 @@ Edward Hall confirmed Moseby’s purchase at Boord’s store.
 
 Gibson was remanded to the next day for further evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

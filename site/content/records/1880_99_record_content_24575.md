@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Local board of Health has been invited to inspect a new form of earth closet invented by Mr Matthews of this town and patented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

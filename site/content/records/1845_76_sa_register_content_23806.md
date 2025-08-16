@@ -53,4 +53,4 @@ Agriculture.  Reaping continues apace and in places yields in excess of 30 bushe
 
 Captain Paull is making a recovery under Dr Dashwood’s attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

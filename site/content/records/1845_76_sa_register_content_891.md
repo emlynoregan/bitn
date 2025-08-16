@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Brechin Castle will depart Monday with 520 tons of copper ore from the Burra Burra Mines and c. 120 bales of wool.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

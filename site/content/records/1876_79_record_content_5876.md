@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Advt. A complimentary banquet will be held for Thomas Bath on the eve of his departure for Europe at the Institute on Tuesday 18 Feb. Rowland Rees MP will preside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

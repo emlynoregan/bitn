@@ -44,4 +44,4 @@ Over 4,000 persons greeted Captain Tolmer at Mt Alexander when he explained the 
 
 [The article then goes on to talk of changes in the Assay Office and the problems about actually getting cash for the gold delivered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

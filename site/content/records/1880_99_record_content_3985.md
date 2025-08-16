@@ -32,4 +32,4 @@ Burra Railway Station.  The wants of the Burra District were brought to the atte
 
 Mr Rounsevell sought a licence for the refreshment rooms at Riverton and Burra and to compel refreshment rooms to supply decent solid food in the shape of chops and steaks etc.  The bad state of the Burra Station was also raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

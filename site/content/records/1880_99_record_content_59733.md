@@ -45,4 +45,4 @@ Cricket.  Roach Bros Staff 146, Burra Corporation 7 for 113.  The Burra Band att
 
 The concert in the evening drew a good attendance and they saw a good show.  During the interval a dust storm sprang up and filled the hall with dust, but rain fell and immediately cleared the air.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

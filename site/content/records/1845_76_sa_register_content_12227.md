@@ -28,4 +28,4 @@ Kooringa News, 2 March
 
 Rev. Colwell delivered a lecture in the Wesleyan Chapel on Monday night on the Celtic Race.  After the lecture a series of phantasmagorical views were exhibited by the same gentleman in the adjoining schoolroom, for the benefit of the Mission-house at Mintaro.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

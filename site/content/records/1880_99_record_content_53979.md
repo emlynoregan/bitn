@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Ninety-nine out of every hundred would exercise her franchise in precisely the same direction as her husband, and in this case we would only have a larger electors’ roll with the same results.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

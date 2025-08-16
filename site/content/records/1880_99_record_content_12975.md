@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 ‘An Elector’ writes to urge the election of two local men and not W.B. Rounsevell who is in favour of the sale of public land, opposed to payment of MPs, for taxing land, and says nothing in support of local government.  W.B. Rounsevell’s interests in the NT favour nominal rents on long leases and the maintenance of the land monopoly.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

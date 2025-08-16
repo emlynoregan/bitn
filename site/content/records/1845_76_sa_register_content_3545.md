@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Obituary/Inquest.  William Lang Esq. held an inquest on Monday 21 May at Burra Burra, into the death of a child named William Rule aged 2½.  Evidence was tendered that deceased was playing on the floor in front of the fire with his six-year-old brother, when a kettle of almost boiling water fell off the fire and scalded him.  Dr Moore attended, but the extent of the injury was great and the child died the next day.  [Neither the birth nor the death of this child seems to appear in SA. Births or SA Deaths CDs.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

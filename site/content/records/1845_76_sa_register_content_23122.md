@@ -27,4 +27,4 @@ Ulooloo Gold-fields
 
 As yet no payable deposits have been found, but prospectors are sure the prospects are encouraging.  All prospectors have found some gold, albeit not enough to make a living.  Mr Jordan with experience from Victoria intends to make a further trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

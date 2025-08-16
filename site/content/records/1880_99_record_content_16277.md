@@ -71,4 +71,4 @@ Cr Ridgway pointed out that the police constable in Redruth had been away for si
 
 The curator of the cemetery reported that the woodwork of the mortuary chapel needed painting and the wall in places needed pointing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

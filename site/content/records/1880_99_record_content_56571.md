@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Dr Sangster’s reception at the Institute on Friday, when he was presented with an illuminated address is reported in ¾ column.  Dr Brummitt, the Mayor, presided.  Speakers beside Dr Brummitt were: W. West JP, P. Lane JP, Rev. R.S. Casely, and E.C. Lockyer.  The address, which carried about 100 signatures, is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

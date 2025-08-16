@@ -30,4 +30,4 @@ Black Springs – Glendore
 
 On Sunday 3 May the new public schoolroom was opened and a branch of the Burra Baptist Congregational Church was also opened.  Three sermons were preached by Rev. E. Newlyn to attentive and numerous congregations.  On Monday 4 May a public tea meeting was held in the new schoolroom and four sittings were needed.  The children of the day school enjoyed tea and cakes and afterwards scrambled for nuts and lollies.  After tea a public service was held and a collection made.  It was found that this met the expenses in erecting the building and left a balance in hand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

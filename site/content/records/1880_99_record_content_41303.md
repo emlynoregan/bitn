@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  The annual social for the Company was held at the Commercial Hotel on Wednesday last with P.L. Killicoat JP in the chair and Captain Butterworth as Vice-Chair.  The Mayor apologised for his absence and sent £2-2-0 to be shot for.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ The Park Lands income has similarly fallen.
 
 1888	£89-5-9, with a bond of £100 to be redeemed this year making a 2d rate essential.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

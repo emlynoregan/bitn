@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  W.F. Knight, a well-known homing fancier of Victoria visited the various home lofts in Burra last Wednesday.  [There is a ¼ column paragraph about Mr Knight.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

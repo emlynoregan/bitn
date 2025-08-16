@@ -44,4 +44,4 @@ Next Monday evening at the Institute Mr E.L. Grundy will deliver a lecture on Du
 
 The weather has been rough for some time.  As a result more water has come down the creek than for all the winter.  The roads are fearful for passengers by either of the mails.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ SA Mining Association.  Editorial comment on the 3rd annual report:
 
 Success so triumphant, coupled with such a prospect of permanency, is, we believe, without a parallel.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

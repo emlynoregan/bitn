@@ -36,4 +36,4 @@ Obituary/Inquest.  Last Friday an inquest was held on the body of a shepherd, wh
 
 Bremer Mine, Callington.  The successful working of a 60 inch cylinder steam engine is reported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

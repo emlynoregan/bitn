@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Salvation Army ‘T Fight’ on Monday was attended by 1.200 to 1,500 persons from all districts around.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 On Sunday 25 October there was a fearful dust storm here and on Monday the hail and wind were worse than at any time this winter.  These conditions persisted till noon on Tuesday.    Mr Grundy of Gawler was here to conduct a sale of stock, but the weather was so bad that everyone not absolutely compelled to venture out was safely inside.  All stock sales, haymaking and shearing have been brought to a stop.  Tuesday night was frosty and it is reported that shorn sheep are dying at a rate of as many as 30 a night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

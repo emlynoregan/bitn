@@ -45,4 +45,4 @@ On 8 October Mr McCulloch charged Michael Manning of Saddleworth with stealing 2
 
 Rev. Slatyer, deputation for the Bible Society preached on 7 October at the Wesleyan Chapel in the morning and the Primitive Methodist Chapel in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

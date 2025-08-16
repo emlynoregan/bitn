@@ -33,4 +33,4 @@ Kooringa Primitive Methodist Chapel.  The second anniversary of this chapel was 
 
 During the year they had collected £255-1-8, including £100 at the anniversary.  This left a debt of £244-12-7, which was considered very satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Storm.  Last Friday afternoon the gale lifted some of the roofing iron from Rev. R.J. Daddow’s hay shed.  His young daughter climbed up to try to secure the sheets when she fell through a loose sheet and then a piece of loose iron fell on her, cutting her head nastily and briefly knocking her unconscious.  She is recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

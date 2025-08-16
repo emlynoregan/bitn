@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Kooringa Wesleyan Church Anniversary on Sunday was very successful.  Rev. R.M. Hunter was absent due to another death in the family and the Rev. H.W. Teague of Kapunda preached.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

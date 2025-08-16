@@ -63,4 +63,4 @@ The jury returned a verdict of accidental death with no blame attached to the dr
 
 [This death does not appear in SA Death Registrations CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

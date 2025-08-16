@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Mr Wicksteed has sold off the stock of A.V. Solomon over the last two days.  On the drapery only middling prices were received, but full prices were realised on the groceries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

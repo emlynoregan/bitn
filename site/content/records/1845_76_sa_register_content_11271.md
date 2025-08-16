@@ -25,4 +25,4 @@ Omnibus
 
 A large public road vehicle for carrying numerous passengers, running on a fixed route.  The horse-drawn predecessor of the modern motor-bus.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

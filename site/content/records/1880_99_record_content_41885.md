@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 S. Bairnsfather writes thanking Mr Harvey of the Lawn Tennis club for making their stay a financial success, but advising ‘one or two of the so-called aristocrats of Burra, to look to their pedigrees, and not class us as “common show people”’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

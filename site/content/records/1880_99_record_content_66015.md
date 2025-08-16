@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Water scheme.  The surveyor, Graham Stewart, found that the Mt Horrock’s scheme gave a height above the railway station of 160’ which is 60’ above the present storage.  The rainfall is about 2” above that at Kooringa.  The mayor and Mr Lockyer were favourably impressed and the survey continues re the cost and the work needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

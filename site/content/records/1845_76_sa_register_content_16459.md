@@ -59,4 +59,4 @@ A second report by the police was against the character of the applicant and the
 
 Refused.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

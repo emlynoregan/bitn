@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rev. W.G.M. Murphy, the new incumbent at St Mary’s arrives on Friday with his induction service the same evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

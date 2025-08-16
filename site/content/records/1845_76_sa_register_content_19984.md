@@ -29,4 +29,4 @@ Rounsevell’s Coaches
 
 We understand that Mr Rounsevell has made arrangements with Cobb & Co. and a number of Adelaide gentlemen to turn over his Extensive coaching establishment to them, with plant and property throughout the colony to be taken at valuation.  We believe the new company will commence operations about the start of the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

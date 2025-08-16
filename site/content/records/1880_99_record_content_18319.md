@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr J. Dow has returned home after his painful operation and is doing well and hopes soon to be able to resume his duties as Council Inspector.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

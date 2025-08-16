@@ -61,4 +61,4 @@ Johanne Wittber	Lillian Gray
 
 Yesterday the program for next year’s study began.  Children should attend at once who are to take part in the work of the new year.  In the classes as now constituted the numbers are: 5th Class 50, 4th Class 60, 3rd Class 80, 2nd Class 70, 1st Class 90 and Junior Class 50.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

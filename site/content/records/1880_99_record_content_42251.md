@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 T. Warnes writes explaining that he and his sons arranged with Mr Marks of Kooringa to have the Nankivell’s Gully road fenced.  Following several people’s suggestions permission was obtained to locate the fence at the edge of the road as a safety measure, rather than on the property boundary.  Now others have complained of its location and it transpires that Council has not the power to allow its location there.  He calls on those who first sought its construction to call a public meeting to decide whether it be left as is or be moved to its legal position.  He says his sons would much sooner see it placed half a chain inside their boundary, as the land immediately adjacent to the road is useless for grazing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 British and Foreign Bible Society public meeting at the Institute on Monday 1 November with P. Lane in the chair.  There will be the annual report and addresses by the deputation from Adelaide, Rev. A. Stubbs, and others.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

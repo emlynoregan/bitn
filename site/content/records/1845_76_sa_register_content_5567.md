@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Patent Copper Company’s office is in King William Street in Waterhouse’s Buildings.  Open from 9.30 til 4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

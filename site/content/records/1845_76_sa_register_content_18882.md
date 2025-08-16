@@ -29,4 +29,4 @@ The Old North Road
 
 [A further meeting at Templers, at the North Star Inn the previous Saturday on moves to get the Old North Road properly made is reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

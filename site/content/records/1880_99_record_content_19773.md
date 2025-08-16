@@ -46,4 +46,4 @@ The fireman and guard confirmed the driver’s evidence.
 
 Francis Harris was coming along the road from the Cross Roads Hotel.  Saw the train leave the station and the cart approach the line and heard the two whistles.  Was about 40 yards away at the time of the collision.  [Arrived at the scene] horse then nearly dead and cart smashed.  Saw deceased carried to the van and then drove into Burra and got the doctor.  Deceased drove steadily and made no attempt to stop.  The train was visible for 500-600 yards - indeed almost from the station.  Verdict was accidental death.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

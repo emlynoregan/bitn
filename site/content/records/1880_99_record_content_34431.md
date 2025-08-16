@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Burra Waterworks cost the Council 5% p.a.  The Kapunda works do not return 0.25%, so on the face of it the 5% charge for Burra seems somewhat excessive.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

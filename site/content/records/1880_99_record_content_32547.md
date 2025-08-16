@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from Timothy Ward attacking the scientific errors in Mr White’s long letter on meteorology while saying that where he departs from science in his theories the opinions are puerile.  (Especially the idea that dead animals produce gas that then causes rain.)  The refutation runs for almost a column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

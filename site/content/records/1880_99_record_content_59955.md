@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Obituary.  Ann Johnson was found dead in a back bedroom of a tumbledown tenement in Geelong, having evidently received no attention for a week and the bed was a mass of filth.  Many readers will remember her husband, who was a bottle gatherer who plodded about and created periodical farces in Burra some time ago.  He was too drunk to give evidence at the inquest and was lodged in the Geelong watch-house to sober up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

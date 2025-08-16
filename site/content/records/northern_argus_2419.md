@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 The Unicorn Brewery Cellars have been purchased by the Burra Burra DC for $25,000 with a 50% grant from the Department of Tourism.  Minister Barbara Wiese said the cellars and tunnels are important relics of Burra’s heyday as Australia’s major copper producer and will significantly add to the town’s tourism package.  The land on which the entrance is located was owned by Stan Woollacott of Burra.  The cellars were built in 1873 and operated till 1903.  In 1980 they were placed on the state Heritage Register.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

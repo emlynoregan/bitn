@@ -28,4 +28,4 @@ Burra Town Council, 20 July.
 
 The Mayor, Mr Holder, thanked Council for agreeing to move the meetings to Saturday to suit him.  The Council’s financial position was sound.  Though the year had begun in debit £192-16-3 the half -year had them still in credit £125-2-0.  The Waterworks account was not so healthy with receipts of £239-10-1 and expenditure of £299-3-6, but about £200 of rates is yet to come in.  Ralph Bartle has asked for water to be laid on to his leased property near the smelting works.  This request was referred for a report from the Waterworks Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

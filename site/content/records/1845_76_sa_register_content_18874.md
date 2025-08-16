@@ -31,4 +31,4 @@ publication_slug: sa-register
 ‘I sincerely trust that Major Warburton, or some one on his behalf, will exercise such influence  the next licensing day as will prevent out public-houses being turned into houses of bad repute by the granting of licences to unmarried men of immoral character.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

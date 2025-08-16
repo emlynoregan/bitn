@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter to Editor complaining that in the present circumstances men are forced to work in rural districts for wages as low as 12/- and 15/- a week, while their sons are getting more!  Men are being forced to stay at home and mind the baby while boys ‘toil out their young existence at the mercy of the tyrannical sweater’ and ‘the wife goes out washing’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

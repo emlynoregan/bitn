@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Chinese Bill has been changed again and sent to the Legislative Council.  It now agrees with the restrictions agreed to with the other colonies at the conference, plus moving from one colony to another invokes a fine of £5-£20 only.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

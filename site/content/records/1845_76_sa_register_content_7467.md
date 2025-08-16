@@ -33,4 +33,4 @@ W.G. Blackham informs inhabitants that on or about 17 November he intends openin
 
 He is well known in the Burra and trusts he will meet with a share of their support.  His motto is Small Profits and Quick Returns.  Beehive Stores, Burra Burra, near Bath’s.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

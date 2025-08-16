@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Apoinga Copper Mining Co.  All 40,000 shares have been taken up.  J.S. Scott has been appointed manager.  Directors: Hon. W.C. Buik and Messrs E. Cooke JP, E.H. Derrington JP, Captain Killicoat, W.J. Magarey, J.C. Minns and William Rhodes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

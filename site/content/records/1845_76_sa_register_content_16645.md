@@ -35,4 +35,4 @@ The Bible Christian Sunday School celebrated its anniversary on Sunday and Monda
 
 Following the dismissal of our telegraph and postmaster the management of the post office is in rather an unsatisfactory state at present, but I understand that Mr Belcher from the Clare office will soon take command here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

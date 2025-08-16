@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Kangarooing is about to take place and good sport is expected in view of the large number about.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

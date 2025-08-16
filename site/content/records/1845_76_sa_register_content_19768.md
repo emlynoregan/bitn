@@ -38,4 +38,4 @@ Theft.  Four times in three months provisions have been taken from a tent on Mr 
 
 The Burra Auxiliary Destitute Board accepted on 27 September the tender of Messrs Drew & Co. for supplying rations to the destitute poor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

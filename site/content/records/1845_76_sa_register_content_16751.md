@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The elections for the Legislative Council aroused no interest here and in fact only 54 of more than 400 on the roll bothered to vote.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

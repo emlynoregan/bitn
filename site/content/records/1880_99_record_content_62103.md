@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 C.R. Good MP for this district has accepted a position as manager of the Canowie Estate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

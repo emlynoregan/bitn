@@ -33,4 +33,4 @@ There is a detailed breakdown of occupational types of which the most pertinent 
 
 Miners	47	Shepherds	138
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘A Bushman of Ten Years’ writes endorsing the statements of ‘A Bushman’ of 13 December.  He takes up the arguments against subscribing to the Bushman’s Home movement, convinced that it is merely a scheme of the squatters for their own benefit and it is ‘nothing but a sham, and it is all being done to get the bushmen under the thumbs of a certain group of squatters.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

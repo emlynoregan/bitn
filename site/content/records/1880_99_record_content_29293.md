@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 IOR.  The female, Lily of the Valley Tent, is making good progress in Kooringa with 55 members and £56-2-0 in funds on the 30 June.  Since then 12 more have been initiated and 5 proposed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Kooringa Wesleyan Circuit Quarterly Meeting on 27 December reported a small drop
 
 Arrangements were made for the Kooringa & World’s End Sunday Schools’ Anniversaries.  Readjustments of the local circuit will not be pressed on the Conference for 1899 as the immediate reasons for such no longer apply and 1900 will be a better opportunity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

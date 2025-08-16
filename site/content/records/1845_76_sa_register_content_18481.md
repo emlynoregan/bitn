@@ -36,4 +36,4 @@ Rev. Stanton’s income has been lamentably deficient; being not half the amount
 
 A party visited a new mining claim on the Booborowie Run last week.  They reported favourably. I believe it consists of some old workings begun by Dr Browne some considerable time ago and abandoned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

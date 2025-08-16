@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 The Show Society dinner at the Miners' Arms was chaired by W.B. Rounsevell (President) and is reported. Dr Nesbitt said Burra was the largest town out of Adelaide; business was improving and buildings being added more rapidly than for many a year now.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

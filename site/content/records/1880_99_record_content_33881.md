@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Accident.  Fred Snell, son of John Snell of the Burra Labour Office, was taking four shearers to Gum Creek on Tuesday when the pole broke on Shafton and Snell was rendered unconscious.  The shearers escaped injury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

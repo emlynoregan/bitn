@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  Operations are progressing slowly.  The fixing of novel and extensive machinery is taking time.  It is hoped full work will be possible in a few weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

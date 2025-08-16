@@ -32,4 +32,4 @@ Madame Fillis & 95 educated horses and ponies & The Great Feeley Family Troupe.
 
 Also a Herd of Elephants, four Nubian Lions, the Spotted Leopard, the Black Panther, the Royal Bengal Tiger, the Hairless Horse, the Horse with Five Feet and Royal Performing Bears.  4/-, 3/-, 2/- & children half price.  [They failed to appear: see XV, 308, 15 Aug. 1893, page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

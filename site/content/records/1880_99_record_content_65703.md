@@ -43,4 +43,4 @@ Burra Waterworks.  In reply to a letter the Commissioner of Crown Lands was will
 
 Cycling.  The holiday cycling events provided amusement for 175,000 people at an average of 1/3 per head, amounting to £10,937-10-0.  Prizes took £2,150, giving a surplus of £8,787-10-0 or say £7,500 after working expenses, advertising etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

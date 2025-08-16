@@ -39,4 +39,4 @@ G. Alfred Maggs wrote a letter in reply to ‘One of the People’ on the questi
 
 The editor undertakes to investigate the cause of the delay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

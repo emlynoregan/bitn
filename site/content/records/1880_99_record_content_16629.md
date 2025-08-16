@@ -78,4 +78,4 @@ The debt has benefited the town in enabling the expenditure in the town of doubl
 
 We have no doubt about the wisdom of it and in view of the early cutting off of the grant we believe it should continue while the grant lasts.  To pay the debt off now is to lose money, while to pay it off when the grant ceases is to lose nothing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -39,4 +39,4 @@ In Kooringa the best area is around the Brewery and towards the school.
 
 Mr Lockyer’s trees in the Brewery Yard are among the best in town.  We are sorry to see some persons have no better object in view than the breaking down of trees - as in Thames St a few weeks ago and between Redruth and Kooringa last week.  The response was quick and soon £5 was offered to get a black tracker in to find the guilty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Tenders are called before the 24 December next for the erection of the Burra Min
 
 By order of the Committee, Denzil J.H. Ibbetson, Secretary, pro tem.  Kooringa, November 20, 1856.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

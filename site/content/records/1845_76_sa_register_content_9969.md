@@ -46,4 +46,4 @@ He was glad to see so many present and thought the only obstacle was the securin
 
 Mr Genders seconded the motion, which was carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

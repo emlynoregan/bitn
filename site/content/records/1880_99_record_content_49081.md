@@ -49,4 +49,4 @@ The Mayor’s report at this meeting included an attack on Cr Parks which could 
 
 William Bennett, the young man charged with setting fire to Mr Melrose’s grass at Ulooloo has been let off and two Williams brothers are now charged with the offence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

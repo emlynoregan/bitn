@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Once again the ranting in purple prose is like wading through treacle, but the gist of the complaint seems to be that the writer objects to public schooling being strictly secular and abhors the way in which God and his works have been excluded from the curriculum and, consequently of course, all moral values at the same time.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

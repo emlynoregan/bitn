@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  The annual Inspection last Wednesday saw Lieut. Butterworth in command in the absence of Capt. Holder.  Only 26 were present showing the reduction in the population.  Drilling and action had deteriorated over the year.  Maj.-Gen. Downes encouraged the men and regretted the need for Capt. Holder to give up command.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -46,4 +46,4 @@ He then outlined his expenditure plans in some detail.
 Mr Woollacott said he would withdraw as Mr Ridgway had come out. 
 There was a vote of thanks to the retiring Cr G. Sara Jnr proposed by Mr Tiver and 2nd Mr Ridgway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

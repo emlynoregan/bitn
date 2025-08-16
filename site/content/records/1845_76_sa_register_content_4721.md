@@ -28,4 +28,4 @@ Burra Burra £5 shares have buyers at £170 and sellers at £175.
 
 Princess Royal £50 shares have sellers at £31.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

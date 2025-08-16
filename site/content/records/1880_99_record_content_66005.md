@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr J.I. Sangster Sen. is going to Robe in the Southeast for three months for a working holiday and Dr J.I. Sangster jun. will take over here for that period of time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

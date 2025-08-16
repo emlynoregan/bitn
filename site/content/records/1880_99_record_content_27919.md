@@ -37,4 +37,4 @@ The deferred discussion on a stock tax was resumed and after some preliminaries 
 
 Cr Pearce pointed out that a move by the Mount Gambier Corporation to impose a stock tax had failed in the courts with costs against the Corporation.  Eventually after much discussion the votes were even and the Mayor cast his vote in favour of the amendment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

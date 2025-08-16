@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Capsize. Mrs Chivell's milk cart capsized on Sunday morning when the horse bolted near Lihou & Bromley's in The Paddock distributing milk and cream all over the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

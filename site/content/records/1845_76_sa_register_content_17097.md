@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 And also on ‘your valuable plant…a first class miner’s pick without a pole, a really good blunt gad, a fine rope yarn, and a bucket which once had a bottom.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

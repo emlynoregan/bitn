@@ -45,4 +45,4 @@ L-Cpl M. Rabbich to Cpl
 
 The company inspection has been postponed from 18 May to 24 August to allow for agricultural activities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

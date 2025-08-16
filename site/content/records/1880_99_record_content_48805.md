@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter supporting Cr Hardy’s suggestion that only three Councillors are needed to expedite town affairs.  The writer suggests they be Crs Walsh, Parks, Linkson and West – with one of them to be the Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

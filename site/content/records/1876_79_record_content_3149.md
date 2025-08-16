@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. A deputation from Mount Bryan waited on the Commissioner of Public Works about the siting of the Mt Bryan Railway Station. It wanted the station on Sec. 75 and presented a petition of c.80 signatures. The commissioner now proposes to visit the area personally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

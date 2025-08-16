@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 SA Gold.  Mr Williams, who was formerly associated with the discovery of the monster lump of silver-lead at Glen Osmond, showed us a beautiful sample of SA gold yesterday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

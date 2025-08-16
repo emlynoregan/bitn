@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 9th race of the season was from Ucolta on 14 August.  The birds had much trouble with hawks and some were drawn to take refuge in farmhouses and 1 or 2 were caught.  The best times were by J. Edwards’ birds that covered the 51 miles, 570 yds in 87 mins at 1,038 yds per min.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

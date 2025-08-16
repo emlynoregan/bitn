@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Editorial against the posting of a reward of £4,000 for the invention of a machine to combine reaping, threshing, winnowing and screening within itself. Such a machine, he says, would make for slovenly farming and the spread of weeds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

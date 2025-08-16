@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rain on Thursday and Friday amounted to 0.88” and more on Saturday caused the best flow in the Burra Creek for the winter.  So far 2.98” have fallen in October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

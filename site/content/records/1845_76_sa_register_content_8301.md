@@ -29,4 +29,4 @@ Advertisement.  SA Mining Association, Burra Burra Mines, Survey Day
 
 The Directors will offer by public survey at the Mine on Thursday 8 inst. The shallow tribute pitches to expire on 2 January 1853.  [This can’t be right.  Neither the 8 November nor December was on a Thursday.  Presumably Wednesday 8 December.]  Henry Ayers, Secretary, Adelaide, 11 November 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

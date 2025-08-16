@@ -29,4 +29,4 @@ Education in Burra 1881
 
 Burra School is the only one under the control of the Burra School Board of Advice in 1881.  The Board reports no improvements this year, but believes the ground should be planted, the boys’ playground enclosed on the north and northwest sides and a wall be erected in front.  95 cases of non-attendance were heard, 5 persons were summoned (2 withdrawn, 1 adjourned and 2 convicted).  123 children were granted free education for varying lengths of time.  The Hallett Board of Advice also reported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

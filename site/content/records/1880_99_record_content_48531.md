@@ -29,4 +29,4 @@ Redruth Correspondent:
 
 The siding to the ballast quarry has been laid down and an engine has been across for truckloads of metal so drays will no longer have to cart it to the station, but there is a large amount of stuff to be moved and drays will be engaged to do the work.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

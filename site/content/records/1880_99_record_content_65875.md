@@ -41,4 +41,4 @@ SAMA is said to be claiming Royalty on the newly formed syndicate.  The property
 
 A syndicate is about to be formed to work Bunts’s at the Burra Mine and an application has been made to SAMA.  When the mine closed Bunts’s was said to be yielding good ore and it is a shaft free of water.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

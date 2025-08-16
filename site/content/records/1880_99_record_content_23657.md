@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Methodist Jubilee celebrations were well attended last Sunday.  The Revs C.T. Newman and S. Knight were the preachers.  The collection amounted to £28-10-7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

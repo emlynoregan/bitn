@@ -31,4 +31,4 @@ East Ward	for closing	70	against	21	informal	2	Total	93
 
 155
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

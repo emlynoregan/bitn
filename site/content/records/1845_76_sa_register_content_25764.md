@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Mine.  The Clare paper reports that the Burra Mines have recently discharged upwards of 100 men.  60 received their notice last week.  Some have been taken on again at piece-work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 His Excellency the Governor and Lady MacDonnell left Adelaide on Tuesday evening to attend the Clare Agricultural Show to be held 3 December. His Excellency is expected to visit the Burra Burra Mine and inspect the country through which the northern line of railway is intended to pass, before returning to Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

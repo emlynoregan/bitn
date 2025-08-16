@@ -25,4 +25,4 @@ Entertainment.  A phantasmagoria apparatus has arrived at Kooringa and all are a
 
 [This was a form of magic lantern, capable of projecting images onto a screen and creating illusions with rapid changes of size and image.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

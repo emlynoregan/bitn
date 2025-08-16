@@ -62,4 +62,4 @@ I left at daybreak the following morning for Clare.
 
 [The writer then describes his journey to Yorke Peninsula at great length.  He visited Kadina and Wallaroo (but not Moonta) before returning to Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

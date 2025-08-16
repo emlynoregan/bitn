@@ -26,4 +26,4 @@ Cricket at Brewery Flat on Saturday
 
 Burra Seconds 62 & 32 for 3 defeated True Blues 32 & 57
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

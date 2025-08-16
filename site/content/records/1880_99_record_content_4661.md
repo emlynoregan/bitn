@@ -27,4 +27,4 @@ Editorial: - Possible Industries for Burra.
 
 The editor suggests a clothing factory and a soap and candle factory - both making use of the local sheep products. Plenty of local fat was being wasted. Tanning was another possibility and machinery.  The latter was represented in a small way, but could be expanded and could include traps and other vehicles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

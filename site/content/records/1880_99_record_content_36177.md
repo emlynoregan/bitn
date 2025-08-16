@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Accident.  An old man named Neaves was run over by a cab on election day and is in the Burra Hospital seriously ill.  A subscription list has been started for him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

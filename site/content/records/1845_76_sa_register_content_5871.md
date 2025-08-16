@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Money Orders.  We trust that all others will follow the example of Mr Burnett Nathan in ceasing to authorise small money orders previously issued on him by his agents in the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

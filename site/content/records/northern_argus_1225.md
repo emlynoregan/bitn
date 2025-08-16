@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 David Jennings received a gold award for the Duke of Edinburgh’s Award Scheme from the Duke at a ceremony at the Adelaide Festival Centre on 21 May.  David will be running the scheme in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

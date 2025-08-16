@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Federal Council sitting in Hobart that looked forward to Federation and he questions the pros and cons of federation with respect to the advent of free trade between the colonies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

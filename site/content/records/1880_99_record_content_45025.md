@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Paynter has, through the continuing depression of the copper market, decided to sell his plant.  This is a loss both to the town and Mr Paynter.  Several tons of copper have been produced and sold, but present prices did not warrant continuing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

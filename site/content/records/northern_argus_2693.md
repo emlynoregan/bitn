@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Paxton Square.  The three cottages destroyed by fire are being restored to lock-up stage.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -34,4 +34,4 @@ Dr J.I. Sangster Jnr takes his degrees in England.  He was born in Victoria in 1
 
 [Member of Royal College of Surgeons & Licentiate of the Royal College of Physicians.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

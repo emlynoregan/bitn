@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 In another accident a boy was severely gashed on the head when a large screen used in screening ore fell on him.  The wound proved severe, but not dangerous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

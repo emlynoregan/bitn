@@ -56,4 +56,4 @@ Another plan available is for the Government to construct the scheme and then ha
 
 The Council would have a say in the extent of the scheme and the working would be in their own hands.  This is the plan likely to be recommended by Government and a new well and tower could be provided between Kooringa and Aberdeen from which all portions of the town could be served.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

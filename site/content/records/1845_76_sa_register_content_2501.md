@@ -71,4 +71,4 @@ The police are prepared to proceed to any extremity and the miners seem equally 
 
 [The voice of the Register then resumes.  The paper says it is clear the heart of the matter is the palpable discrepancies in the assays and the lack of the usual modes used in the UK to come to settlements.  The whole matter having been aggravated by the discourteous line of conduct by the Board of Management as seen in the total disregard of the tributers’ memorial of the 12 August.  The paper then prints an article from the aggrieved miners and another from an independent eye-witness.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

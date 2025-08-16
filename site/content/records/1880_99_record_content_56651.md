@@ -29,4 +29,4 @@ The Mayor said the matter had been dealt with at their last meeting and notices 
 
 Cr Rabbich then called attention to the press reports as mentioned in the third leader.  The Mayor in reply cited Mr Rabbich’s statements, which deflated the Councillor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

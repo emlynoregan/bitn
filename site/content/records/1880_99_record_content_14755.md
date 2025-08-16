@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Helen Vivian Dramatic Co. is reviewed very favourably.  On Wednesday it gave the French drama The Woman of the People or The Horrors of Drink and yesterday presented East Lynne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

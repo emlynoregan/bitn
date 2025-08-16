@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Golden Wedding.  On Monday night last in the Wesleyan Hall at Kooringa a social was held to celebrate the 50th anniversary of the wedding of Mr & Mrs W. Pearce.  The tables were supervised by their great-nieces and were heavy with all kinds of eatables and beautifully decorated.  There were musical items and an address from the Kooringa Band of Hope, of which Mr Pearce has been the Vice-President for the last ten years.  There was another address from the Kooringa Wesleyan Church.  The Mayor addressed the assemblage of 300-400 people and presented a purse of 22 sovereigns appropriate for a golden wedding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

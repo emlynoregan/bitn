@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 A Leighton Football Club reunion will be held at Burra Sports Complex on Saturday 30 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

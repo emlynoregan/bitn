@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The Burra Mine will soon wear a livelier aspect as it is proposed to begin erecting the engine house at the new [Graves’] shaft immediately.  From such a costly decision we infer that the Mine will soon restart underground operations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

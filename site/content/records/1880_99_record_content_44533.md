@@ -25,4 +25,4 @@ Editorial on Federation.
 
 The recent convention in Sydney found federation most desirable, but found the obstacles too much for the colonies to reach agreement.  As discussion spread beyond the politicians the practical consequences were more widely discussed – consequences of free trade versus protection, of the one man one vote principle and of financial aspects.  In the end the colonial Parliaments have either not acted to further the cause, or have given it half-hearted attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

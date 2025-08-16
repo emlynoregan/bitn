@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Accident. A child named Bryan fell down a 35’ well near the Grammar School. Mr Dobrey slipped down a rope and held him up until assistance was obtained. The child escaped uninjured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

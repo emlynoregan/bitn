@@ -34,4 +34,4 @@ publication_slug: sa-register
 
 The Richardson has arrived from Swansea with 80 souls, all connected with Messrs Schneider & Co.’s establishment.  She left Swansea on 12 June and the arrival affords the colony the means and appliances for converting crude ores of the colony into merchantable metals.  Mr Williams, the gentleman so long expected by Mr Walters at Burra Burra Mine, has arrived by this vessel.  He will superintend the important smelting operations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

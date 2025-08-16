@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  Half-yearly meeting.  The library held 3,038 books with 98 added in the period.  The balance in the bank was £75-3-2.  There were 75 subscribers at the last return and 85 at this one.  The Council Chamber has been renovated at the cost of £9-19-0.  The property is insured for £3,400.  Mr Fuller’s lectures did not meet the support anticipated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

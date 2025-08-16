@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Messrs Snell & Williams applied to know the terms for being allowed to occupy the portion of closed Street near the new Kingston Street Bridge. It will be decided next meeting after a visit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -48,4 +48,4 @@ Cr Hardy favoured immediate legal proceedings.
 
 Cr Rabbich thought to refer it to the Public Works Committee with power to act and this was carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

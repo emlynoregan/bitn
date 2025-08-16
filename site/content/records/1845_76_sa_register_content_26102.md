@@ -39,4 +39,4 @@ The case on 6 November was brought by Fogarty alleging injury due to wrongful ar
 
 The magistrate ordered a nonsuit, with each party to pay his own costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

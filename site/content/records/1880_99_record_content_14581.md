@@ -42,4 +42,4 @@ There is no doubt that 99% of the traffic will be between the Barrier and the po
 
 Via the Petersburg line it is 307 miles, the Terowie line is say 298 miles and via the Burra route 282 miles.  The Government is sticking to the Petersburg option.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

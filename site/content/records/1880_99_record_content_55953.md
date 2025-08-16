@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  A concert in the schoolroom on Wednesday was successful.  It was held to raise funds for the St Mary’s Church Cricket club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  St Mary’s School, Kooringa, in connection with the Church of England.  Applications will be received by the Rev. D.J.H. Ibbetson up to 10 April Next, from persons desirous of filling the posts of Master and Mistress to the above school.  Preference will be given to a married couple.  None but duly qualified teachers need apply.  [In view of the inconsistent internal date check the date of this advertisement.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

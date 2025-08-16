@@ -54,4 +54,4 @@ The men received this news amicably, merely expressing regret at it.
 
 The Directors left for Adelaide with a full team of well-fed horses.  Unfortunately Mr Chambers lost control of the restive animals when the Police Commissioner, who was sitting next to him, incautiously laid hold of the reins.  This occasioned a capsize and all the passengers sustained injuries to varying degrees.  No bones were broken, but Mr Beck, the most seriously hurt, was left behind.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

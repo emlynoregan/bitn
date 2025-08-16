@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Wattle Blossom Fait was a great success.  £70 was raised to meet the instalment of £40 due to the Redruth Wesleyan Trust Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -37,4 +37,4 @@ There was a long report of a case in which Albert Richard Edwards was charged wi
 
 1 March.  In the adjourned case of Agnes Gully the charge was dismissed after P. Lally gave evidence supporting her.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

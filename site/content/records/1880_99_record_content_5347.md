@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Town Council decided on Tuesday to choose a block of seven acres on the rise to the east of the sheep yards for development as a recreation ground.  SAMA is expected to hand it over to be fenced and planted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

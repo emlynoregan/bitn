@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Gale Singh, an Afghan hawker, was found lying in an old house about 3 or 4 miles from Mt Bryan and thought to be dying.  Police were contacted and brought him in to the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

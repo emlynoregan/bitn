@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes expressing astonishment at the thin-skinned Council and its reaction to the letters to the publicans.  The Act gives no discretionary powers to the Council.  A poll has decided that Sunday closing apply.  That the publicans should make an outcry is understandable, that the six Councillors should join in is astounding.  That the police have been negligent in their duties, everybody knows.  A weaker man than the Mayor would have resigned on the spot: that he has not done so every sensible and uninterested ratepayer will be glad.  He may be sure of general public support.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

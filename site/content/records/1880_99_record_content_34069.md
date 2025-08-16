@@ -38,4 +38,4 @@ The Avenue has been cleared of grass.
 
 Council unanimously supported a move to have reinserted in the new Municipal Corporations Bill, the part of clause 275 providing that licence fees for public houses come to the corporations.  This had been struck out by an amendment of Mr Gilbert MP last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

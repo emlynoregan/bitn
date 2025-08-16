@@ -36,4 +36,4 @@ Exempt 	18
 Children now required to attend 	106 
 Attendance is required from 7-13. Fees are small and can be waived in cases of hardship.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

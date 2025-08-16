@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Papal Encyclical.  On the last Sunday in September at St Joseph’s, Kooringa, and all around the world a Solemn Requiem Mass was said in accordance with a Papal Encyclical of Leo XIII, for souls in purgatory.  The Pope is celebrating the golden jubilee of his priesthood and offered this to the Church Suffering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

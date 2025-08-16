@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  The glass in the lamps at Henderson’s Corner and the Kingston St Bridge has been broken several times recently.  On Thursday two men were seen throwing stones at them, but on this occasion they missed.  L-C Thomas is investigating and the Council is offering a £5 reward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 South Ward Election Meeting. 
 J.W. White — Too much is spent on salaries. The health rate is unnecessary & anyway was not well spent. Much rubbish was not removed. He thought the new bridge was in the right place. Thought the hole in Paxton Square should be filled in. The road to the cemetery should not be a cost to South Ward alone. He would like to see a supply of water for teams in Market Square if the Corporation could so arrange with Statton & Henderson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

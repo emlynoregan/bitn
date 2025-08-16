@@ -27,4 +27,4 @@ Cousin Jack’s exhibition ‘Off the Sheep’s Back’ is open seven days a wee
 
 [Photo of Gary Donaldson, proprietor, with a customer and some of his turned wood wares, together with a brief description of the exhibition.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

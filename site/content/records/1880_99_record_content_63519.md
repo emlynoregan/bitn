@@ -30,4 +30,4 @@ Library now of 2,762 volumes.  Subscribers number 70 and arrears owed £9-2-0.
 
 The premises are in fair condition, though the Council Chamber needs renovation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

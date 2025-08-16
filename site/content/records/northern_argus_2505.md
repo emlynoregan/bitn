@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Robyn Page comes originally from Parramatta in NSW and came to SA with her family in 1969.  She gained her B Ed and with her husband came to Burra in 1981.  They have one son.  She has since been involved in many community activities.  She is particularly keen to see the community involved in decision making and seeks a balance between development of tourism and heritage aspects of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

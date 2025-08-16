@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Postal Arrangement.  People at the Karkulto Mine are complaining that their postal delivery is at Apoinga, six miles off.  This could easily be remedied by establishing a post office at the Emu Inn, where the mail conveyance stops to change horses.  The non delivery of newspapers is especially felt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

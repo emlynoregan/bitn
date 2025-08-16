@@ -27,4 +27,4 @@ The serialised novel: Two Men & A Woman, came to a conclusion.
 
 Ada Delroy’s Company drew a larger audience than any other travelling company has for a considerable time at the Institute on Monday evening and the crowd was kept in almost convulsive laughter from start to finish.  The show ran almost to 11 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

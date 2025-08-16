@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Ulooloo Gold.  Many at Ulooloo are in good spirits though few are making wages and water for washing gold is scarce.  Butchers and bakers call regularly.  John Pearce, who visited the area this week says any man who can get two days work a week should not go to Ulooloo at least until rain provides some water to wash dirt.  There is no feed for prospectors’ horses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

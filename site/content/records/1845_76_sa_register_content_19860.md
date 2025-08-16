@@ -66,4 +66,4 @@ Tribute ground in Kingston’s, Roach’s and Stocks’ Shafts is satisfactory.
 
 Extending the 60 fathom level crosscut west from Roach’s towards Graves’ Engine Shaft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

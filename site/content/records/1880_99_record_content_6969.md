@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the need for District Councils in all Hundreds when half the land or more has been sold and maintenance of roads to be a local responsibility.  (Making of main roads to remain with the Government.)  The Road Board system was necessary when over 50% of the land was unsold, but it is not now working.  Large landowners, especially in the S-E are paying nothing towards maintaining roads, which are dependent upon the Road Board grants because they are outside District Council areas.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

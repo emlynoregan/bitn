@@ -49,4 +49,4 @@ A letter expressing these views will be sent to the Central Road Board signed by
 
 The Steelton Hotel is progressing fast and should be finished in a fortnight.  It will be a great accommodation for travellers as present there is no [public] house of the kind between Springfield and Black Springs on this road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

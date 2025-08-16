@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Bible Christian Church anniversary, Kooringa. The form of such celebrations was as follows: Morning, Afternoon, and Evening Services on Sunday. (Perhaps only two of these at small chapels) On Monday a tea in the schoolroom and a public meeting in the church afterwards with a report on the year's activities with speakers, prayers and songs. In this case they reported the library had c.500 volumes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

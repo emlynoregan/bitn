@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 British and Foreign Bible Soc. Annual meeting was held in the Institute 28 Oct.  Rev. S. Gray presided in place of Dr Sangster, the President.  The meeting was addressed by Mr Chester, the deputation, from the Adelaide branch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

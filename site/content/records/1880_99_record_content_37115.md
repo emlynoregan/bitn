@@ -35,4 +35,4 @@ The special train notice showed that the train was running nearly two hours late
 
 [The noise of the tricycle would have drowned the noise of the approaching train as stated in the 2nd leader which also said these vehicles should have rubber tyres.]  The inquest was adjourned to 2 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

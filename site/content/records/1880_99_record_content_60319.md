@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr W.H. Hardy rose with much pleasure to express his respect and said Rabbich had always been ‘a real live councillor’ who had accomplished good work in his term as Mayor.  He wished him well and hoped one day to see him again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Obituary.  Hugh Anderson died on 4 January in Sydney as a result of burns received while extinguishing has bedclothes and curtains on 20 December 1895.  His arms, legs and face were very badly burned.  He leaves a wife and three children.  The deceased, who lived in Burra for many years, left the town some time ago for Sydney.  He was brother to Messrs David, William, George and John Anderson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

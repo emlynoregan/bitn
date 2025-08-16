@@ -27,4 +27,4 @@ The Board of Education.  21 September
 
 George R. Lowe asked that his licence be transferred from Mt Razorback to Redruth at the end of the present quarter.  Approved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

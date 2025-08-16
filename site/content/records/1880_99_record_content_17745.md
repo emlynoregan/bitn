@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 North Ward.  The two reserves either side of the Redruth Bridge have been fenced.  Cr Ridgway has undertaken to spend not less than £5 p.a. on planting and tending the larger reserve on the south side of the bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

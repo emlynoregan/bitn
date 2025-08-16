@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Last Appearance of Jock Watts in the beautiful comedy Written in the Sand and the most laughable farce ever written, Billy Doo.  Front seats: double 2/6, single 1/6, back doubles 1/6 and singles 1/- with children half price.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -50,4 +50,4 @@ There was considerable debate over the free water troughs in Aberdeen.
 
 Mr Launder asked for the candidates’ views on the Salvation Army parading the streets on Sundays with drums and tambourines.  Messrs Coglin, Akhurst and Sampson were opposed while Mr West would stop it by force and W. Pearce entered into a long defence of the Army.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

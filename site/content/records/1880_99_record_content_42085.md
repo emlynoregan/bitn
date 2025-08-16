@@ -39,4 +39,4 @@ The Government has decided to accede to the request to build a bridge at the Bon
 
 May Bros. & Co. report that the boiler of the Waterworks has been repaired and is in a fair condition.  The defect is discussed and they recommend a second boiler as a standby.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

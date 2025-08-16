@@ -36,4 +36,4 @@ There will be no summer water supply unless work starts soon.
 
 (The editor explains that the Council has been pressing the matter, but apparently it all awaits the engineer’s completion of the work he is currently doing at Mt Gambier.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

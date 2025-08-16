@@ -35,4 +35,4 @@ Obituary/Inquest.  Edward Gascoyne died suddenly at Burra.  An inquest was held 
 
 [Edward Gascoigne died 5 August 1870 Kooringa, residence Adelaide aged 52.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

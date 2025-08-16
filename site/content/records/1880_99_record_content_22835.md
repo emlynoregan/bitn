@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Burra Floricultural Society annual meeting was on the 21 July.  T. Drew continues as President with F.W. Holder as Vice-President, Dr Brummitt as Treasurer and W. Davey as Secretary.  W. Lasscock and T.W. Pearce were also on the committee.  The show will be held late in October or in early November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

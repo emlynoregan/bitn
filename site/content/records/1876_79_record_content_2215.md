@@ -28,4 +28,4 @@ Coaches: Kerr Bros. Kooringa has made 2 new mail coaches for E.F. Opie. Believed
 
 Comfortably seat 10. Bodies painted vermilion with carriage part and wheels in yellow. The panels adorned with American arms - stars & stripes surmounted by an eagle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

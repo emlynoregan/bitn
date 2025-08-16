@@ -33,4 +33,4 @@ An Election Meeting at the Institute tomorrow evening will hear Dr Cockburn spea
 
 Burra Institute Committee last Tuesday recommended a ‘Crysanthemun Show [sic] and promenade concert’ to raise money for hall funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

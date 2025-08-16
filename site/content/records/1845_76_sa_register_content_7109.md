@@ -30,4 +30,4 @@ Advertisement.  SA Mining Association
 
 Applicants desiring to purchase ornamental malachite are respectfully referred to Messrs Samson & Wicksteed’s advertisement announcing the sale of the above at the Company’s Offices, Rundle Street, Adelaide, on Tuesday 2 September 1851, at noon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

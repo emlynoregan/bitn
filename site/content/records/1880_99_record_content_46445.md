@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 John Roach will present a Grand Concert in the Institute on 6 September with ladies and gentlemen from Adelaide.  In aid of St Mary’s Sunday School building fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

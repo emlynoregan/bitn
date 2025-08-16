@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Mounted Rifles were complimented by Col. Gordon when he inspected the unit last Wednesday.  There had been a great improvement in their drill.  Captain Watt was particularly congratulated on his work.  The Military Ball held afterwards had about 30 couples dancing from 9 p.m. to 2 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

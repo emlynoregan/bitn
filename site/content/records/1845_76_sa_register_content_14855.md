@@ -33,4 +33,4 @@ The Loyal Aberdeen Lodge MUIOOF was celebrated on Tuesday evening by a public di
 
 [The toasts are reported.  Those mentioned as participating included: Mr Craig, Mr Baker, Mr A. Cole, Mr D. Wills and Mr Corey; the last named being presented with a handsome silver cup in appreciation of his services.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

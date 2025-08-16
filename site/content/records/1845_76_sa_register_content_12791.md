@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Tenders are called for the building of a Telegraph Station at Kooringa.   E.A. Hamilton, Colonial architect.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

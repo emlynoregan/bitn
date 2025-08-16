@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr Thompson, Dentist from Edinburgh, will visit Burra from the evening of 22 March till afternoon of 23 March at Burra Hotel.  Laughing Gas administered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

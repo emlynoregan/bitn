@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes calling for a public meeting before the Council gets involved in costly advice from Mr E.P. Nesbit, solicitor of Adelaide, re the watercourse dammed by Bagot, Shakes & Lewis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

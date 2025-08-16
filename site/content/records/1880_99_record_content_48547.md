@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  A memorial service was held for the late George White at the Salvation Army Barracks on Sunday.  He had been a prominent Army member of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

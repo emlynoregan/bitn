@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr G.B. Howard of the Burra Hotel is leaving after only seven months as host and the hotel is being taken over by Mr McClosky.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

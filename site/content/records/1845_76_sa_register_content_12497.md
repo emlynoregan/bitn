@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mr Philip Levi was recently making a journey from Burra to the station at North-West Bend when he met a woman in dire circumstances, having given birth in the bush and then bee without water for two days.  He immediately arranged aid and had a cart sent from the station, where she and the infant are now reportedly doing well.  She seems to have set out from Burra with another man and a woman, who from some unknown reason or want of common humanity left her to her fate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

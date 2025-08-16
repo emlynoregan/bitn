@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Tonight, 2 May, Wallett’s Great Circus, at the ground at the rear of the Commercial Hotel.  Free Exhibition at 2.30 p.m. Baby Blondin will walk a rope stretched from the ground to the top of the tent pole: a height of 50’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

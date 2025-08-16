@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Capsize. Mr Wright, the White Hart ostler was driving Mr & Mrs John Gerrard between Burra and Prince's Town when the buggy capsized. Mrs Gerrard was badly lacerated on the head, but the two men were only bruised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 A meeting at the school on 19 August will further steps towards the formation of an Old Scholars Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

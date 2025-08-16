@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Iron Mine Band of Hope continues to meet monthly.  Mr John Roach of Adelaide gave three very entertaining recitations.  Other contributions came from Mr J.J. Austin, Mr Smith, Master H. Smith, Miss L. Midwinter, Miss J. Fairchild, Mr J. Scott, Master Fairchild, Mr E. Oates, and Miss F. Fairchild.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

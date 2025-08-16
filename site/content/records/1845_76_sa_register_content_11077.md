@@ -40,4 +40,4 @@ Departure was delayed till 9.15 due to the late arrival of the Port Adelaide tra
 
 Omnibuses took the crowd the mile into the town; their licensed number of passengers being greatly exceeded on this festive occasion, with many clinging to the roofs.  The return journey began at 3.32 p.m. and Salisbury was reached at 4.11 p.m.  Here the afternoon down train was late, which delayed the excursion train by 25 minutes.  Adelaide was reached at 5.15 p.m. and again there were many spectators to see the event.  The maximum speed attained was 33 m.p.h. on the return trip between Smithfield and Salisbury.  The whole event was very well managed and the only accident occurred when a Union Jack on one of the carriages was ignited by a spark on the return journey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

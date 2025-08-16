@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Street Trees.  People are asked to give a bucket of water a week to the young street trees in front of their houses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

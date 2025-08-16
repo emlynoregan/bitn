@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter complaining of the dangerous cutting just past the new Lower Thames St Bridge.  The writer had found a reveller from the Pig and Whistle upside down in the mud, having fallen down the cutting.  It needs fencing or sloping off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

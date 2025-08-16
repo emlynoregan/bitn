@@ -39,4 +39,4 @@ The writer then expresses his fear of the consequences of withdrawing such a lar
 
 He calls on the Governor to intervene so as to prevent ‘that which I am apprehensive will proves a public calamity’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

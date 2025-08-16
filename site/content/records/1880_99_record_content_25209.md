@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  The editor favours the development of flexible leases for farmland where development could be encouraged by low start-up costs, but the Government could get reasonable returns as prosperity of the property increased and with it the value and therefore the charge for the lease.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

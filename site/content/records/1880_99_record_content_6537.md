@@ -28,4 +28,4 @@ Editorial on Government Subsidies to Corporations and district Councils.
 
 The editor was against such subsidies in principle.  They were drawn from taxes, which fell equally on the rich and the poor.  If they were abolished the rates would have to rise greatly and they fell more on the rich who owned land.  He thought that some subsidies were justifiable for a few years to see newly created councils become established, but they should soon be tapered off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

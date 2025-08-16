@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. Met on Friday 3 May in Mrs Reed’s Temperance Hotel and T. Nevin gave a lecturette on ‘The Circulation of the Blood’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -47,4 +47,4 @@ Matthew Adams was lodging at the hotel at the time. About 2.30 a.m. he heard Ann
 Edward Shoard was also in the billiard room and confirmed the above. 
 James Colman, constable, was roused between 2 & 3 a.m. on Tuesday — he thought by John Vivian, and found the cellars strongly on fire. He told them to send for the fire engine and the furniture from the new section was taken into the street. Sergeant Bentley and two other constables arrived about 4.30 am. Shortly after 11 p.m. on Monday I passed the verandah and the bar lights were out and no one was loitering. There were people in the billiard room. The verdict was that there was no evidence to show how the said fire originated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

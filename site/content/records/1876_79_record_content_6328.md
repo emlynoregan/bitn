@@ -31,4 +31,4 @@ Kingston St Bridge. The new bridge at Kooringa by Mr Morris, Road Board Engineer
 
 The bridge cost £2,500 and consists of two 60' spans with a centre pier of two cast iron cylinders which are sunk 12' into the bed of the creek. Mr Purchas has been charge of the erection and Mr Davis of Adelaide was the contractor for the ironwork.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

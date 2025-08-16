@@ -33,4 +33,4 @@ publication_slug: northern-argus
 
 The Pioneer Day Procession in Adelaide had a small group from Burra as part of the show.  Jenny O’Connor pushed a pram with Des Woolley pushing a barrow.  Steve & Gaye Woolley’s two daughters and two sons of Graham and Raelene Waters walked along in period costume.  The procession started at the Parade Ground and ended at Wayville Showgrounds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

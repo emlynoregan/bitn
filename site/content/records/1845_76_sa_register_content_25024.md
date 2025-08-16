@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The SA Harvest 1872-73.  There is a lengthy report on the harvest with paragraphs on the various areas across the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

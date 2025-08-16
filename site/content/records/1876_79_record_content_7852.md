@@ -42,4 +42,4 @@ C. Schmidt	no name on vehicle	5/
 
 C. Schmidt	driving on the wrong side of the road	10/
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

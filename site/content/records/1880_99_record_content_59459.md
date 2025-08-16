@@ -86,4 +86,4 @@ Rescue Race, Single	Cpl Gillett
 
 In the evening the comedy Written in Sand was performed at the Institute, followed by the farce Billy Doo, in which Mr Watt gave a farewell performance in the title role.  The second overture was a composition by Mr Noyes dedicated to Mr Watt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

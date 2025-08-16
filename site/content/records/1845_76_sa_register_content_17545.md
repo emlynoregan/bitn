@@ -47,4 +47,4 @@ Mr Woods had taken two days with 12 bullocks to get 12 bags of corn ten miles.
 Mr Newman: ‘Once was bogged on the Saturday and it took 20 bullocks and the best part of Sunday to get unbogged.  Was once capsized in a Government waterhole with a load of flour and a fine piece of pastry it produced. On another occasion had a load of beer and wine and bottles drowned and in fishing for them half a day caught a cold and a full suit of mud.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

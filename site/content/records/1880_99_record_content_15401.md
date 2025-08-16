@@ -34,4 +34,4 @@ Mr Brown spoke of his term and was thanked.  Cr Tiver ditto.
 
 Mr Ridgway spoke of his past service and wanted the Aberdeen Reserve brought under the Real Property Act.  He believed the water troughs in Aberdeen had to be a source of revenue or be removed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

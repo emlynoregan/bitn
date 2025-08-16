@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Four Advertisements were inserted by Henry Ayers for SA Mining Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

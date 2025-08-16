@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Quinn who died on Sunday 4 February was born at Adare, Co. Limerick, Ireland 24 June 1819, the son of John Quinn, a gardener.  He was educated in the Catholic Parish School.  He married Mary Lynch of Rockhill in 1844 and came to Port Adelaide in 1856 in the Blue Surplice.  He worked first on the Hill River Station and then for himself as a gardener.  In 1873 he came to Burra.  He had been confined to bed since a stroke four years ago.  Rev. Father Marshner SJ officiated at the funeral.  He is survived by 2 sons and 2 daughters and many grandchildren.  [Death registered as John Quin aged 75.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

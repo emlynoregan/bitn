@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Institute half-yearly meeting of subscribers failed to get a quorum.  The library has over 3,000 volumes with orders out for over 100 new books.  There are now 64 subscribers.  The debt at present is £20-17-7 and this will soon vanish when in a few days the Government subsidy of members’ subscriptions brings in £47-9-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

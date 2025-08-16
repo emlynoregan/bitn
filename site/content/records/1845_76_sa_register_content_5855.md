@@ -29,4 +29,4 @@ Our Roads [Editorial]
 
 The want of rain has so reduced the available feed that the SA Mining Association is presently unable to get their ores to port.  Several furnaces at the Patent Copper Company’s work are out of service for want of wood.  We must hope that the dry summer is not followed by a very wet winter that will also prevent traffic.  Is it not clear that railroads are essential for our prosperity?  We are sure the capital could be raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ Burra Aged Persons Hostel
 
 Representatives of the Burra Burra DC, the Hospital Board and Carmel O’Connor met with Neil Andrew MP on Friday to express their concern at Burra’s failure so far to attract funding for an Aged Persons’ Hostel.  Carmel O’Connor has conducted a survey indicating an urgent need for such a hostel – the nearest is at Eudunda, and it is full.  Currently about 25 people in Burra need such accommodation.  Plans for a 25 bed facility were drawn up, then reduced to 20 and then to 15 to try to get funding, but to no avail.  People must leave the district and some are occupying hospital beds because there is nowhere else to go.  The hospital had allocated $100,000 towards the estimated $700,000 cost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

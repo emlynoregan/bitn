@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra High School.  On Wednesday 21 Dec. the ladies of the school will give a concert at the Institute with the proceeds to go towards providing a Christmas dinner for the poor of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

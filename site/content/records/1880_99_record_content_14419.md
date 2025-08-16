@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr P. McM. Glynn’s speech on Land Nationalisation is reported in just under 3 columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Cricket.  The match on Tuesday afternoon last near the brewery between Aberdeen 
 
 Young United scored 24 and Aberdeen won for the loss of 1 wicket.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 [At Westbury; because the chapel at Copperhouse was Primitive Methodist.  Since Westbury completely failed to develop as a settlement and its chapel and a house or two were adjacent to Copperhouse, the Westbury Chapel was often referred to as the Copperhouse Chapel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ Aberdeen	half time 1.3		full time 4.5	(29)
 
 Mt Bryan	half time 0.0		full time 1.0	(6)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. Howitt who has been at St Mary’s for a number of years is about to leave to take charge of Semaphore parish.  He has taken a close interest in the Burra Hospital and Burra Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

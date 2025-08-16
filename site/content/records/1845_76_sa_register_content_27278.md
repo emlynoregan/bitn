@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Henry Williams Jnr writes hoping that the recent accident at Peak’s Crossing will cause the railways and the Government to rethink the whole issue of constructing flimsy embankments.  This he says he has not seen in Great Britain, Europe or America.  A site such as the one at the accident requires iron girders supported on properly cemented stone arches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

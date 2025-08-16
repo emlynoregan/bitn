@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Birth.  To Amanda & Richie Glazbrook, in Adelaide on 29 May, a daughter, Lisa Jayne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

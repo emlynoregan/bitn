@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Porter’s Lagoon was well patronised over Easter, with at least 120 people there on Monday.  Games, picnics, paddling and boating were all enjoyed along with refreshing dips.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

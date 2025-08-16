@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Commissioner of Public Works has deducted £324-1-11 from the Waterworks capital account upon receipt of 115 water meters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

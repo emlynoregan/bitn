@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Birth. To the wife of J.H. Cockrum of Banbury, at Mt Bryan on 30 Dec. 1878, a son.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

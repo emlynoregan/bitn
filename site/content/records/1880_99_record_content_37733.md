@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The area has been surveyed and the water tested, but changes in the Government have seen the matter unresolved for months. The Council has urged the Government to action not only as a relief for unemployment, but to settle families on small blocks that might pay handsomely.  When the Government finally agreed it imposed such conditions that the minimum of eight applicants for blocks could not be found: only seven applying.  We urge the present Government to take up the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

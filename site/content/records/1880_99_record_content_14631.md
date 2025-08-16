@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Barrier Ranges.  Run holders are enclosing water supplies and many of those who have gone to the Barrier are now leaving again due to water shortages.  Though many of the claims have proved of little value the few good mines are so rich that a large population is likely to be settled here in the future and the fortunate owners will be richly rewarded.  There have also been many swindles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

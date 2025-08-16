@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 L-C Thomas was presented with an illuminated address at the Council Chamber on Wednesday night last.  Cr W.T. Rabbich took the chair in the absence of the Mayor.  Other speakers were Cr Parks, W. Davey (Town Clerk), Rev. H.J. Parkinson, J. Lane (Postmaster) & Cr Hardy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

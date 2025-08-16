@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sparrows.  174 towns are included in a list in the Government Gazette last Friday as coming under the Sparrow Destruction Act of 1889 which allows for a 2d in the £ rate for sparrow destruction or up to 6d with ratepayer consent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

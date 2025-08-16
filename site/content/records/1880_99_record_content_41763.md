@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Goss, a resident of c. 36 years and the mother of Rev. J.H. Goss, Wesleyan minister and of I.W. Goss of Burra has died.  [Died 26 June 1891 aged 76: born 26 June 1815 as Maria Wilcoks.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

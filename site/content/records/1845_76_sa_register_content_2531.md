@@ -61,4 +61,4 @@ The reply was that if all the men return to work the Directors would hearken to 
 
 On Thursday Corporal Brooks was sent with a special warrant to apprehend two men.  When he seized one of them a number of fellows said that if he took that man he had to take them also.  He said that as he could not take them all, he would take no one.  When he reported to the Directors, they said they were perfectly satisfied.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

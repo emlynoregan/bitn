@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Obituary.  A 24-year-old male rider of a motorcycle died at Redbanks on Saturday morning when he lost control of his machine and went over a twenty foot cliff into a dry creek bed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

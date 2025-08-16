@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Charles and William Williams were charged with setting fire to Mr Melrose’s paddocks at Ulooloo on 18 January.  Evidence was tendered that they prevailed on [William] Bennett, the main witness, to set fire to a paddock of wheat, but he thought that too tough and set the grass alight.  He was also to poison the stud sheep with strychnine in two water tanks.  The troughs are often used by travellers too as they are near a road.  Bennett did not undertake this.  They were committed to trial and bailed for £100 and two sureties of £100 each.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

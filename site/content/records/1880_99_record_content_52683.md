@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr W. Bentley has resumed his painting class in oils and watercolours.  In a recent exhibition in Adelaide two of his pupils, Edith Thomas and Mary Lane, gained first-class certificates and Mabel A. Killicoat passed very creditably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

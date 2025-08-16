@@ -34,4 +34,4 @@ Trade remains very quiet, with the rain preventing drays from getting on the roa
 
 An Association has been formed to supply butcher’s meat under the management of Mr H. Eddy, an old butcher.  The concern seems to be flourishing.  [The Anti-Butchers Association.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

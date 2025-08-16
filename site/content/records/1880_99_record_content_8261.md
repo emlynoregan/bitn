@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  On 20 November in the Institute Rev Father J. Peters SJ will lecture on Temperance, and the children of St Joseph’s School will give their first Juvenile Concert.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

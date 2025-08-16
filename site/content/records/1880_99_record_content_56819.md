@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Weather.  Splendid rains have now fallen and farming operations are in full swing.  The fall was general and prospects at present are excellent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

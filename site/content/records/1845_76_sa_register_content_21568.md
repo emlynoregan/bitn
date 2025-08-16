@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advt.  To let for a term of years: the Bow & Arrow Inn, lately known as Forrester’s.  It stands on section 210.  Also for sale is ‘Water Paddock’ section 202.  Address tenders to D.B. Forrester ‘Ellabeck’ Mintaro by 3 February.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

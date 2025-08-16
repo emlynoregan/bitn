@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Martindale Jockey Club meeting at Manoora on Wednesday was very successful.  Previous meetings had been on the Martindale Course, but a decision of Parliament forced the change to entitle the club to the totalizator: clubs have to be twenty miles apart.  The Carlsruhe Brass Band was in attendance and locals turned out en masse as well as visitors.  [The whole meeting is reported in detail in 1½ columns.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

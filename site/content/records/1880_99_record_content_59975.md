@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A query re water use at the police station was disallowed and no reduction in the charge will be allowed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

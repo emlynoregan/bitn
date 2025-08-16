@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  At Sod Hut on Thursday Mr Fradd lost 10 tons of hay, 20 bags of wheat, a chaffcutter, harnesses, a stable and a woolshed.  The fire started on top of the haystack from an unknown cause.  The loss amounts to c. £100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Market Square Well. The boring proceeds very slowly and has reached 20-30 feet. It has struck water. Steam power will soon be applied and then progress will be more rapid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

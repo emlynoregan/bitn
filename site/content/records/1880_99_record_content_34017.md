@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Receipts for the last half-year from rents, interest and ore were £1,022-0-4.  Expenditure on wages, charges, rates, taxes and repairs was £611-16-0.  The balance in the profit and loss account is £15,847-4-6.  They declared a dividend of 5/- per share or 5% on the capital of the Association.  Why go into the large expenditure needed for mining when copper prices are low?  The Association is not to blame, but the law that allows it is.  A tax on land values would force the land to be used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

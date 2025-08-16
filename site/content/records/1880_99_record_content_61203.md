@@ -27,4 +27,4 @@ The Waterworks.
 
 These have been carried on satisfactorily through the year and at a lower cost than in recent years: £628 to 2 November compared with £704 to the same time in 1895 and £800 in 1894.  Receipts from rates have fallen off seriously by no less than £84, but this has been offset by the significant sales of water to SAR in the last summer.  Mr Lapidge has maintained the works in good order.  His task has increased by the enlargement of the reservoir and the wilful waste of water by some consumers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

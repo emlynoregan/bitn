@@ -32,4 +32,4 @@ publication_slug: record-1876-79
 
 The Mayor had met with the Town Clerk and Captain Killicoat and Mr Richardson at Llwchwr and arranged for the new road and plans had been prepared, but now it seems Mr Cooke MP will object on behalf of the E & A Copper Co. so it will have to be given up. [Presumably this refers to the Smelts Road.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

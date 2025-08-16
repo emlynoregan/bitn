@@ -34,4 +34,4 @@ A letter to a city gentleman from Burra says several men have gone from there to
 
 [The editor goes on to develop the idea of the desirability of a Government report on the existence and/or the extent of the field because it could save many people from much wasted effort and waste of money.  The route to the area is a difficult one and not without danger.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

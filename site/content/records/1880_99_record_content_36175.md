@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial.  There are again almost two columns against protectionism.  This time sparked by celebrations at Gawler after Martin & Co. completed 50 locomotives for the SAR.  Locomotives which could have been imported much more cheaply.  Protection may help the city, but it ruins the country: ‘it made Melbourne, but it has so far ruined the country’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

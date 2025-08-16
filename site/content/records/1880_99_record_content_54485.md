@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Charles Stewart, the water finder who visited Burra on 4 March, died three weeks ago in the Kapunda Hospital from a cold which settled on his lungs.  [Died 28 July aged 54.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

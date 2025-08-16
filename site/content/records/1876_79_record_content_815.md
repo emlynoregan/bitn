@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Weather.  There has been widespread rain in the [western] agricultural areas from last Saturday to Tuesday.  Burra recorded 1.31 inches for the week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

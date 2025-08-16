@@ -28,4 +28,4 @@ Offence.
 
 Louis Womat was committed for trial in the Supreme Court for stabbing Alfred Schutz in the left side of his chest.  The wound was not serious and a pocketknife wet with blood was found in the prisoner’s pocket.  He claimed Schutz had pinned a paper to his coattail and set it alight, which led to a struggle.  If Schutz was stabbed it must have been accidentally by a knife he had in his hand to cut tobacco.  No other witness saw either a paper or a fire.  [Note in IV, 205, 2 June 1882, Womat is called Werndt.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

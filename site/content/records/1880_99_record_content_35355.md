@@ -30,4 +30,4 @@ In a paddock of Mr P. Oates Senior close to the Iron Mine Chapel.  Good programm
 
 Public Tea in the Chapel at 4 p.m.  In the evening a Public Temperance Meeting in the Chapel with Addresses, Songs, Recitations and Dialogues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

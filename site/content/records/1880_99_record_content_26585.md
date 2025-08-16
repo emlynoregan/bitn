@@ -28,4 +28,4 @@ Municipal Elections are only a month away and so far no candidates have come for
 
 Will Cr Killicoat consent to run for Mayor?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

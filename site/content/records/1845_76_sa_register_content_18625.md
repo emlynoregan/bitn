@@ -26,4 +26,4 @@ Board of Education.  Report for 1864
 
 The number of schools increased by 20 and the number of scholars by 1,190.  The average number of scholars was 11,511.  The average stipend for teachers was £48-7-4.  [To which must be added student fees to obtain their annual incomes.  More details are given, but none relate to specifically Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

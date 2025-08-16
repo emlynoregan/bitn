@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 W. Ker, a resident of Burra for some considerable time left last Friday to start a livery and bait stables in Port Pirie.  He will also run cabs from Pt Pirie Station to Solomon Town. In Burra he has been part of the cricket and football clubs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

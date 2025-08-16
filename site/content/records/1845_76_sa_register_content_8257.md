@@ -72,4 +72,4 @@ Captain Roach responded and praised especially the work of Principal Engineer Mr
 
 There was then a song by Henry Ayers, who then proposed the Patent Copper Company and after a song by Mr Samson, Mr Ewbank responded.  Mr Williams proposed the Directors and Captain Allen.  A song by Mr Gleeson was followed by Captain Allen’s response.  Mr Gleeson proposed Henry Ayers. This was followed by another song from Mr Samson, after which Mr Ayers responded.  Mr Gleeson then proposed Lady Young and the Ladies of South Australia.  Mr Thomas sang and Mr Ewbank returned thanks.  Captain Roach proposed William Paxton, who returned thanks.  Several other toasts were proposed and responded to, including to Rev. Pollitt and Dr Chambers.  The Chairman and Directors withdrew at about 11 p.m., but the remainder of the party enjoyed themselves until the approach of dawn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

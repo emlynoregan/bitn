@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 George F. Herbert writes re the Temperance Party.  He feels that SA is weakened by its multitude of parties that fragment both society and Parliament.  He sees this party as a very small, but loud group of people better referred to as the ‘immoderate party’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

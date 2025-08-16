@@ -33,4 +33,4 @@ Today I examined the bones and agree with the very exact description given by Mr
 
 (Editor: Mr Waterhouse, Curator of the Institute Museum is now at Kooringa to examine the bones.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

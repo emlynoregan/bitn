@@ -33,4 +33,4 @@ A young man from Burra was married on Thursday at Pt Pirie and being afraid of t
 [John Drew (24), son of Thomas Drew, married Catherine Elizabeth Goode (22), daughter of Benjamin Powell Goode at the home of the bride’s father on 29 September 1892.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

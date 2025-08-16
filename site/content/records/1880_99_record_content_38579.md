@@ -36,4 +36,4 @@ On Wednesday afternoon the body of John Dolman, farmer of Baldina, was found in 
 
 At the inquest it was stated that the deceased had not taken the direct road to Burra because it was bad, but had detoured to use the ford so Norman MacLean met the wagon instead of having to overtake him.  The wagon track was 12’ from the edge of the ford.  Deceased was blind in his left eye which would have been nearest the fall.  The verdict was accidental death.  [Registered as dying 29 October aged 69.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

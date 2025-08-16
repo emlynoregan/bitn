@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  The entertainment organised by the committee last Friday was a complete success and attendance was good.  Mr Lane presided.  The program is printed.  The next one will include a lecture on alcohol by Dr Sangster.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

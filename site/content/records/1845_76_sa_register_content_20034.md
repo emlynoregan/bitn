@@ -26,4 +26,4 @@ Kooringa News, 27 December
 
 Christmas Day in Burra was most disagreeable.  It began with a hot northerly wind, which increased in violence towards noon, becoming a gale, raising clouds of blinding dust.  It ceased towards evening, when it became cooler.  The public amusements were meagre, limited chiefly to tea meetings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

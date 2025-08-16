@@ -27,4 +27,4 @@ The Sale of the Township of Aberdeen
 
 The sale of Aberdeen on 15 September attracted a great number of people.  The mineral rights being reserved, the Burra Burra Co. was prevented from trying to monopolise the sale, as they had done at the sale of Redruth on 29 August.  Of the 144 lots on offer, the auctioneer could only induce people to buy about 20.  Intending purchasers seemed to be of the view that the minimum prices set were too high.  ‘There is no doubt that had the prices been moderate, the entire of the township would readily have found purchasers, and have been speedily covered with buildings.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

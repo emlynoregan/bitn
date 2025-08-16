@@ -41,4 +41,4 @@ The stock of one of the retailers here was sold by auction last week.  Mr T. Box
 
 The sheep farmers are somewhat excited by the revaluation of leases.  The sale of Mt Bryan is likely to test how far they will be depreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

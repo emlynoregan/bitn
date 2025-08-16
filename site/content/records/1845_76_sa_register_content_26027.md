@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 [Note that the sense of the above paragraph would seem to require it to read ‘there is no better prospect’ etc. rather than the positive statement actually printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

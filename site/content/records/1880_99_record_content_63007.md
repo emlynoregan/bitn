@@ -32,4 +32,4 @@ Court.
 
 Last Friday a trio of men who had drunk too much were involved in assaulting M-C Jemison and Cpl Noble at the Burra Hotel Sale Yards and on 7 November John Haydon (30) got 6 weeks, Samuel Harrison (27) got 1 month and John Dalton (29) received 2 months.  Haydon got an extra 2 weeks for indecent language.  The men only arrived in the town on Friday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

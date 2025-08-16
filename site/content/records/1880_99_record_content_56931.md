@@ -35,4 +35,4 @@ Cr Hardy was equally wroth at the use of Mr instead of Councillor in reference t
 
 Foolish and perplexing interjections were common.  It is amazing that the Mayor did not unceremoniously adjourn the meeting until the councillors were prepared to conduct the business in a proper manner.  We find that a complaint was received by ‘the skin of its teeth, with the determination that no further notice be taken of it.  Isn’t it a glorious age we live in, and are we not blessed (?) with a queer Council?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

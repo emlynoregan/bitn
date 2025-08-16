@@ -43,4 +43,4 @@ I gave people passage tickets to secure a passage to Newcastle, but they were to
 ‘The Cornish men do not like coal-getting at all, and they are quite disappointed.  They thought getting coal was similar to copper-getting.  Several of them brought by me have absconded already, while others have paid their passage according to their agreement.’
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

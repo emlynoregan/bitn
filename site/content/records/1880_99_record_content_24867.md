@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  A grand Entertainment by the children of St Joseph’s School assisted by Ladies and Gentlemen amateurs with proceeds to the school funds will be staged at the Institute on 17 March.  Comprising a dozen or so songs, with a stump speech and piano solo and concluding with the laughable farce Betsy Baker.  1/- & 6d
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

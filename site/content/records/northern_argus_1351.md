@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Morphett’s Enginehouse work is proceeding.  [Photo of the installation of one of the huge Oregon timbers to support the second storey floor.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

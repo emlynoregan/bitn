@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Morphett’s Enginehouse.  Four massive pieces of Canadian timber that will be used to support the new floors in the building were unloaded at the site last Friday.  They are each 48 feet in length.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

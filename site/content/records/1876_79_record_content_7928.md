@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Harvesting Machines. The contest of machines continued at Gawler on 23 December: this time with four machines. The numbers of observers was reduced from thousands to several hundreds. The general opinion so far is that no machine is worth the prize offered, though some have the potential for development. Since a proportion of the prize money can be awarded, someone may yet be rewarded for their attempts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

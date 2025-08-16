@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Pig and Whistle Fire.  At 2 a.m. last Wednesday a fire broke out at the Pig and Whistle Hotel and in a short time everything was destroyed.  It was an old premises, among the first erected in Burra and at the time considered a triumph of architecture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

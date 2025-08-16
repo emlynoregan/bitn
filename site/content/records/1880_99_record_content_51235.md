@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Wirths Bros. provided ⅓ column of publicity for their impending appearance.  Such publicity articles were a fairly common feature of the paper and were clearly supplied by the more important or at least better organised entertainment companies who were preceded by an agent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

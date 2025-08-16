@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The anniversary of the United Presbyterian Church was held on Sunday with three special services, but due to the inclement weather the attendance was small.  The tea and public meetings on the following day were, I believe, more successful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

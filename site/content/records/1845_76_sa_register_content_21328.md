@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The principal residents went to Adelaide for the celebrations.  Those who remained lit bonfires, fired guns and let off fireworks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

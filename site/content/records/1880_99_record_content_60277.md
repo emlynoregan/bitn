@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr M.E. Purcell, who married Miss Curgenwen, a Burra girl, was killed at Dickenson Shaft, Broken Hill, last week.  In December last he insured his life for £100, which will assist the widow and her three children.  [Marriage records say Michael Purcell married Mary Elizabeth Curgenven and suggest his year of birth was c. 1862.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

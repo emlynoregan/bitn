@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Unity’ in support of the early closing of shops.  Mechanics leave work at 1 p.m. on Saturday, which gives shop assistants all the more cause for complaint.  Where early closing is not employed a half-holiday during the week is common practice elsewhere.  Wednesday afternoon being generally taken.  Early closing would also reduce the opportunity for larrikins to make coarse remarks and reduce the tendency of the girls ‘who now do so, . . . to air their boldness under the glare of the lamps.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Copper Market faces complete collapse imminently.  The share market is depressed, but good reports continue from mining experts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

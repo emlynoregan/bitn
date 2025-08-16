@@ -34,4 +34,4 @@ Obituary & Railway Accident.  Last Sunday night [19 April] at the Grand Junction
 
 [Edward James Sheridan was born 29 September 1871 and William James Campbell McCombe was born 24 September 1871.  W. Thompson was William James Thompson.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

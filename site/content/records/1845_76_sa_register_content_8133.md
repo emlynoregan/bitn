@@ -30,4 +30,4 @@ The Directors will offer to let by public survey at the Mine on Thursday 20 May,
 
 Henry Ayers, Secretary, Adelaide, 4 May 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Local Board of Health
 
 Mr Forder would take all the night soil and prepare trenches and pay 2/6 a load.  The nightmen were allowed the 2/6 to compensate for having to take it the extra distance from Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

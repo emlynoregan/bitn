@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 A Bolt. Mr Bath's horse was attached to a spring cart in front of his shop when a woman driver got a wheel of her vehicle caught with the cart's wheel. She did not immediately stop and Mr Bath's horse then bolted down hill to the square, running into Mr Snell's corner post which was destroyed along with a lamp. The horse then broke from the cart and bounded across the square. There were no injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

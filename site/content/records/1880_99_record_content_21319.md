@@ -51,4 +51,4 @@ He did much to establish the district’s roads and bridges.  On mining matters 
 
 He was a member of the Church of England and a trustee of St Mary’s, Burra.  Thrice married, his third wife survives him.  His eldest son has been dead for some years, but he is survived by two sons, three daughters and 22 grandchildren.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

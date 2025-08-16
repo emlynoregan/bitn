@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF staged a practice alarm drill on Friday, but as Captain Holder had been away on Parliamentary duties the cannon when required was found to be full of mud and water and could not be fired.  Rifle fire was substituted and roused 20 of the 30 members of the company in the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

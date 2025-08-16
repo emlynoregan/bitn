@@ -32,4 +32,4 @@ But note that records of departures are defective.  Recorded figures suggest the
 
 [The lengthy report then goes on to detail the demographic and social characteristics of the immigrants; their origins, literacy, occupations, etc.  Details of the Government migrant ships are given.  Of some interest is the length of the voyages, which ranged from 79 days to 132 days, with an average of 98½.  The costs of getting these people to the colony are also discussed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

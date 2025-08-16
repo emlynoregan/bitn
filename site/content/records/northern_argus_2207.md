@@ -40,4 +40,4 @@ Rodriguez Screen Printing
 
 The exhibit runs from 1031 March.  The exhibition occupies two new exhibition rooms, which retain the flavour of this 1860s premises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

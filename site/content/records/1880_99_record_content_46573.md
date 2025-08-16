@@ -32,4 +32,4 @@ Obituary.  Clara Alice Jackson, daughter of Mortimer Theophilus Jackson, boundar
 
 [Born 24 September 1890, died 28 August 1892.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

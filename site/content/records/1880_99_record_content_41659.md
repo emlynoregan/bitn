@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Obituary.  Eric Adolph Hall died of croup 5 June at the residence of A.W. Fox, Emu Creek, Bendigo aged 2 years four months.  He was the only son of George B. & Minna Hall late of the Bank of Australasia in Kooringa and now of Yarrawonga Victoria.  [Born 1 February 1889.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Agriculture.  It is reported that crops around Kooringa are seriously affected b
 
 The Burra Extension Railway.  The whole of the bottom ballasting of the Burra line has now been laid and when the bridges are finished the permanent way will be completed to the terminus.  Morris & Bond have the contract for laying the line.  The rails have reached Riverton already.  If the sleepers can be supplied in time the line could be open to traffic in December of January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

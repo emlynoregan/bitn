@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Notice.  Applications invited by Burra Corporation for the position of Dayman and Curator of the Cemetery, combined, at 6/6 a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

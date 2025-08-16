@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  The spindle of the injector broke on Saturday.  A replacement could not be got immediately, as Martin & Co. of Gawler were closed till Wednesday.  The old boiler was then put into service.  Water was cut from the town from Sunday midday to Tuesday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

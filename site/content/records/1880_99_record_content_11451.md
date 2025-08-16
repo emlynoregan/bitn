@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 YMCA.  The second quarter was ushered in at a social on Wednesday in the Kooringa Wesleyan Lecture Hall.  About 130 were present.  There were 3 microscopes, several stereoscopes, a graphoscope*, an electric machine, prints, works of art, curiosities and conversation.  There were also songs, musical selections, light refreshments and teetotal drinks.  [* An apparatus with a magnifying lens for viewing engravings and photographs.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

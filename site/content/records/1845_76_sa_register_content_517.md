@@ -28,4 +28,4 @@ Burra Burra Mines
 
 After five months 1,717 tons of ore have been sent to the Port and there is a large accumulation of small ores to be smelted at the spot.  Assays indicate yields of from 26½ to 73% with intermediate values 40-50%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

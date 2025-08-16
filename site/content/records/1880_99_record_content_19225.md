@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 St Mary’s Church.  The fancy fair in connection with the church was opened on Wednesday by the incumbent, Rev. J.S. Wayland.  The whole was very well arranged.  The fair opened with a stock valued at £600-£800, some of which was specially imported from England and Japan by J. Lewis.  On the opening day sales reached over £120.  The second day was also busy and the fair continued today and this evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

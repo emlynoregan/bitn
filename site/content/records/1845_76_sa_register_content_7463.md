@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 ‘H.D.’ writes to the editor on hearing of the gold discovery 180 miles northeast of Burra.  He reminds the reader that Dr Bruhn, who was searching for coal, suggested that gold could be found in the Mt Remarkable, Mt Brown area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -81,4 +81,4 @@ The Jury returned a verdict ‘That the deceased died from congestion of the bra
 
 [William Henry Birbeck died 26 June 1862 at Kooringa aged 36.  SA Births CD suggests that he left a widow, Elizabeth nee Wright and four surviving sons born between 1852 and 1860.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

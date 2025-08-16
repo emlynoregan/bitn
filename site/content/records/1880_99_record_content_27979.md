@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W. Pearce Jun. who has been in partnership with Mr T. Bath and trading as Bath & Pearce has purchased the general storekeeping business and will continue as the sole proprietor.  Mr Bath leaves for England shortly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

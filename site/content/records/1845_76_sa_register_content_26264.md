@@ -26,4 +26,4 @@ Land Selections since 4 March at £1 per acre:
 
 Hundred of Hallett, County Burra
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

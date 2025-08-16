@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rechabites’ half yearly council of Albert District met on 17 September and there was an entertainment in the Institute with songs, etc. and speeches on temperance. [i.e. abstinence]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

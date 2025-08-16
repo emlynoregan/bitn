@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 P.J. Walsh, ‘Woolsheds, April 24, 1867.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

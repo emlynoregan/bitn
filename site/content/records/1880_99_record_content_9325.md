@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Wesleyan Conference.  Rev. J.C. Hill succeeds Rev. W.A. Bainger as Rev. S. Knight’s colleague here.  Mr Bainger goes to Cunningham.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

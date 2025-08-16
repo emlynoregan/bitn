@@ -37,4 +37,4 @@ Many are calling for the breaking up of large pastoral estates now on splendid a
 
 Locally land that could be made available included the TSR from Flagstaff Hill to Booborowie and that from Booborowie to Farrell’s Flat.  These stock routes are of little use to stock owners and bring in little income to the DCs.  They are currently most used as commonage on licence.  At the start of August only a little land was available for perpetual lease or with right of purchase.  There are 1,090 acres in Hd Ayers as workingmen’s blocks.  In the Hd Baldina c. 1,792 acres of ordinary land and in Hd Hanson about 48 acres of pasture.  Hd Mongolata has c. 829 acres in pasture.  The Booborowie workingmen’s blocks remain as they are too small.  (Only those very close to centres of population where work is available can be so small.)  From 80 to 100 acres is small enough in the Booborowie context.  20 acres is of little use to a man who can get work only miles away and spend all his time away from his family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

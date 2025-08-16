@@ -29,4 +29,4 @@ Obituary.  Bob Steele died last week.  He had been very active in the community 
 
 [Robert James Steele born 15 September 1922 Peterborough: died 22 July 1987.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

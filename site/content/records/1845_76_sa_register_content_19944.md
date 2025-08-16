@@ -48,4 +48,4 @@ A three-year-old daughter of John Beckwith, teamster, late of Redruth went missi
 
 Rev. L.W. Stanton entertained with his readings on Tuesday evening and Mr Ullman sang some songs, while the Messrs Moody also sang and Miss Stanton played some music.  £6 was collected for the piano fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

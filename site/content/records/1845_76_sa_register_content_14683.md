@@ -31,4 +31,4 @@ The Redruth Bridge has finally been completed and will be opened next Tuesday.  
 
 There is a petition against the new pound that has been created some four miles from Kooringa, on the grounds that most of the cattle impounded belong to Kooringa people and it is both a nuisance to have to collect them from four miles away and unnecessary, as there was already a pound at Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -46,4 +46,4 @@ The Adelaide Quiz and Southern Cross and Advertiser
 
 Article from the Barrier Miner by J.P. on ‘The Distribution of Money’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

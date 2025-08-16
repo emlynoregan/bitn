@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr William Richards of Moonta and late of Burra, son of John Richards of Burra, died on Monday leaving a wife and three children.  He was a son-in-law of W. Pearce Sen.  [Died 17 December, aged 47.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

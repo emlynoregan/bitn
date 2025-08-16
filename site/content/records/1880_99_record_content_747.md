@@ -37,4 +37,4 @@ At Brewery Flat True Blues 45 & 19 for 1 defeated Young Australians 23 & 40
 
 True Blues also defeated Redruth by 130 runs
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Jubilee Avenue.  Mr C.W. Newman of Water Gully, Houghton, has donated 25 sugar gums for the avenue in recognition of business done in the district this year.  Planting of the avenue will be finished this week when c. 700 trees will have been planted.  (And several hundred elsewhere in the town.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Fire.  At 4 a.m. on 24 January Mr W. Harris, general dealer of Chapel St awoke t
 
 It is thought that a pan of milk taken off the fire and set to cool on a box may have had a cinder on its bottom.  The same premises were burnt down some years ago when occupied by Mr Dunstan.  This shows the importance of the town’s getting a fire reel, which it is still waiting for.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

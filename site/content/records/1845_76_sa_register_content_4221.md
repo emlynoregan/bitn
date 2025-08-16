@@ -41,4 +41,4 @@ Henderson was awarded £6-14-0 plus 28/- costs from Yates, who had burnt down a 
 
 Prout was ordered to pay Kerr £9 for passing a forged note of that value.  Also to pay 24/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

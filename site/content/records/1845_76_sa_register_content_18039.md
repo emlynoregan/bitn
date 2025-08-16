@@ -35,4 +35,4 @@ Sheep are generally run in flocks of 2,000 and weaners often of 3,000.  If the s
 
 Thus the pay for a married couple is 15/4 plus rations worth 6/10 or say £1-2-0 a week, plus the sheep in question.  The squatters argue this is too much.  They thus have cheaper labour than the struggling cockatoo and feed their servants worse.  Wearing apparel costs 60 to 80% more than in Adelaide.  Their children get no education and the family forgoes membership of any religious body and also health, for they are deprived of vegetables.  The only group who may accumulate money are men with three or four lads from 8 to 18 who may have an extra flock or two to herd.  Where better have been made such as a stone building, they are on purchased land with surface water included and located strategically to discourage anyone else from later bidding for the run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

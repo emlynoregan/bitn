@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra Corp set a charge of £1-10-0 for erecting of a tent in Market Square by Mr Thwaites for photographic purposes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

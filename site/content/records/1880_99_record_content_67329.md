@@ -40,4 +40,4 @@ John Bennett		M. Hartney
 
 Robert Wise was fined £5 + £3-19-6 costs for not travelling 5 miles a day with 6,000 sheep in the Hundred of Anne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Rev. J.C. Bagshaw was presented with an appreciative address and a purse of 15 guineas on Tuesday 16 October, as he is about to leave Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

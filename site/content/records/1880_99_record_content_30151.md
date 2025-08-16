@@ -29,4 +29,4 @@ The Season.  To the east the situation is dire.  Hardly any vegetation is to be 
 
 The Chinamen with their two windmills have enough to do to obtain the needed dampness for their gardens.  If the Floricultural Society decides to hold a show it will be a sorry affair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

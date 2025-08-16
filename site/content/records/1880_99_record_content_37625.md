@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  There is a funeral notice for F.J.H. Vivian who was to be buried this day at 2 p.m.  Foresters were asked to assemble at the Court Room at 2 p.m. as the funeral is due to leave his residence at Aberdeen at that time.  [Francis John Hooper Vivian died 14 August 1890 aged 35.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

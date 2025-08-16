@@ -31,4 +31,4 @@ This article concentrates on the use of Chinese labour to crew ocean liners and 
 
 ‘Mr Kirby might have gone still further, and pointed out to an intelligent and enthusiastic audience that the foul subterranean grub that gnaws at the root of that fair tree of “Social Purity” of which he is the leading champion and cherisher, is to an almost incredible extent, the Chinaman.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 The New Congregational Chapel at Kooringa was opened on Sunday 29 September.  It cost nearly £300. Rev. T. Q. Stow of the Congregational Church in Adelaide preached in the morning and evening.  Rev. Mr Lowe, the Kooringa Wesleyan minister preached in the afternoon.  A tea-party and a public meeting were held on Monday evening.  W. Giles, the manager of the SA Company, presided at the latter.  Collections and contributions amounted to £40.  The building can accommodate 200.  The debt on the building is only c. £30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

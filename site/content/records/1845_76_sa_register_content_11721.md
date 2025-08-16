@@ -31,4 +31,4 @@ Obituary/Inquest.  An inquest was held on the body of Joseph Jones aged about 25
 [Despite the above this is almost certainly Joseph James who died 20 May 1858 aged 25 at Kooringa.  The only registration of a Jones dying in May 1858 is of a one-day-old child at Gawler West.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

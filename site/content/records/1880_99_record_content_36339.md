@@ -33,4 +33,4 @@ A letter from SAMA grants land for approaches to the new footbridge over the cre
 
 The majority of Councillors were opposed to accepting a tender for the new bridge and it was decided to defer the matter for three months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

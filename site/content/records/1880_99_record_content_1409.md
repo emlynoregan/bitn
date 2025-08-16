@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt’s paper on Tobacco Smoking is printed.  It outlines the history of the introduction of the habit and in this first part of the paper lists the supposed advantages of smoking.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

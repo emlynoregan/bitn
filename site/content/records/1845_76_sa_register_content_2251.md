@@ -30,4 +30,4 @@ Disease.  There has been a considerable mortality, chiefly amongst children from
 
 The winter brings with it impassable roads and Kooringa people, like the inhabitants of a town besieged, have laid in liberal supplies of flour, sugar etc. in an attempt to avoid the temporary rise in prices and the scarcity of commodities.  Many are also waiting for the completion by the Association of a number of cottages (64 I believe) ‘in order to quit their creeky habitations’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

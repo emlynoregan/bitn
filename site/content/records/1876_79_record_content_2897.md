@@ -30,4 +30,4 @@ Burra Burra Mines Ed. The outlook for the town is `not very promising' There is 
 
 At least the coming harvest is better than first feared as a result of recent rains. Serious as it is the loss of the mine cannot be as severe now as it was when only pastoralism was carried on round about. The Ed. was still hopeful that the closure was temporary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

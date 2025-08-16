@@ -34,4 +34,4 @@ publication_slug: northern-argus
 
 Accident/Obituary.  Two cars collided head on at about 11.30 p.m. on 24 October 23 km south of Burra.  Darren Andrew Ames, a bank officer of Ridgehaven was killed and his passenger, Margaret Coutts was critically injured and was taken by helicopter from Clare Hospital to the RAH.  The occupants of the other car were Phillip Stolte of Mt Bryan and Jamie Pollard of Burra.  Both were admitted to Burra Hospital with leg and facial injuries.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

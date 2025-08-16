@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Silverton Railway.  The railway to the NSW border should be in running order by Christmas.  A rush of visitors to Broken Hill is expected, especially of Adelaide shareholders in the company there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

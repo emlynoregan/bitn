@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Mr Ullman, formerly of Adelaide is the electrical engineer in charge of electric lighting of Queen Victoria St in London where 36 electric standards have replaced 104 gas lamps as of 24 June.  Mr Ullman is a native of Burra and his parents still reside in the district.  He is still only 27 years old.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

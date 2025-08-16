@@ -42,4 +42,4 @@ A burglary occurred in Mr Parks’ shop on the night of the 14 January.  They ap
 
 Mr Leyshon Jones of North Adelaide will build a furnace near the Mine Store to smelt creek ore by his new process.  It will receive a fair trial, though already some say there is no chance of success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

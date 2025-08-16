@@ -52,4 +52,4 @@ J. Tiver fined 10/- for a stray horse.
 Dr Brummitt fined 10/- for riding round the Bank of Australasia corner in Aberdeen at more than walking pace.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

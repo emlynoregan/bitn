@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The weather has been extremely cold lately with sharp frosts at night.  Rain now threatens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

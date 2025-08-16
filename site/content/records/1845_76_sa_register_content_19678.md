@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The railway question is still much discussed and the memorial prepared under authority of last week’s public meeting is being extensively signed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

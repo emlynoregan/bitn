@@ -26,4 +26,4 @@ Letter to the Editor from W.H. Hardy: half a column of invective along the lines
 
 ‘IN RE THE COMING ELECTIONS . . .not allow the snobocratic rule to be reiterated, where blood sucking capitalist can by law grind the life out of you and yours to fill the coffers of themselves and their clique,’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

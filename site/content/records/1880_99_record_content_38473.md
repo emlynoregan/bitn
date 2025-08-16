@@ -33,4 +33,4 @@ Mr Geake’s tender for 23/- for mowing the oval was accepted.
 
 The Waterworks report was unavailable due to the breakage at the works and the pumps not working well.  It was decided to ask for six new pumps to be obtained and added to the capital account.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

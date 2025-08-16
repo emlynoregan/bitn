@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The writer asks: why such bigotry?  We have heard a lot of the ‘thin edge of the wedge’, which we believe to be all nonsense.  Many object to state schools hemmed round with ‘abominable amount of red tapeism’ and the cramming to which children are subjected.  We would rather see the system be compulsory, secular and free, but in the absence of this the move proposed is both the fairest to people and the cheapest to all concerned.  It is not, as many assert playing into the hands of the Church of Rome.  We do object to the tactics of certain sections of the non-conformists making much ado about nothing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

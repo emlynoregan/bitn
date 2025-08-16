@@ -32,4 +32,4 @@ Prices of beef and mutton are down to 1d, 1½d and 2d, instead of 1½d, 2d and 2
 
 [The explanation of this is given in convoluted Victorian prose, but, if I have unravelled that correctly, it would seem that some rich tradesman can afford to sell below cost for a time to drive out honest traders, but the writer fears that once the honest tradesmen have been cut out, the townsfolk will find the advantage to be an illusion.  He encourages them to stick to the skilful and honest tradesmen.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

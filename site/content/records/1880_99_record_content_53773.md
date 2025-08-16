@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Central District WCTU held its 3rd Annual Convention in the Wesleyan Lecture Hall at Kooringa on 8 May.  Its work is reported in some detail over ¾ column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

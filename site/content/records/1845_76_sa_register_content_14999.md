@@ -34,4 +34,4 @@ Kooringa United Presbyterian Church
 
 The first anniversary of this church was celebrated last Sunday and Monday.  The morning service was conducted by the Primitive Methodist minister Rev. J.D. Whittaker, but due to the oppressive heat, boisterous wind and dust there was only a very small attendance.  In the afternoon Mr W.H. Wilkinson Sen. officiated, but the same conditions resulted in an even smaller congregation.  The wind dropped a little in the evening and a somewhat larger congregation attended the service conducted by Rev. W. Davidson.  Monday began in a similar fashion, but the conditions improved from about 1 p.m. and so the tea and public meetings were pretty well attended, all things considered.  Mr James Burnell read the annual report.  The evening’s proceedings were enlivened by items from an amateur choir comprising Messrs B.C. Evans, Herbert, Pearce and Bennett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Ward presented a petition signed by 445 inhabitants of Kooringa and Redruth in favour of social purity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

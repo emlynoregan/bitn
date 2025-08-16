@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Albert Butterworth is leaving Burra.  The choir of St Mary’s and other members of the church thanked him for his services as choirmaster over the last 18 months and some 30 subscribers presented him with a gold albert chain and locket. [The article gives an incorrect date for these events, saying they happened on Sunday 27 Aug. when the paper was the 23 Aug.  In any case the 27th was Saturday.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

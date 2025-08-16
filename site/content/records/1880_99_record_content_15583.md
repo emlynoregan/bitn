@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. James Read of Clare gave a lecture in the Redruth Wesleyan Church on Monday evening to a fair audience on Queer Folks and Where they Live.  The collection aided bazaar funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

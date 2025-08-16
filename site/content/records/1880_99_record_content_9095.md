@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sparrows.  Since October 1881 the Government has paid for 37,875 sparrows’ heads at 6d per dozen and for 210,793 eggs at 2/6 per hundred.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

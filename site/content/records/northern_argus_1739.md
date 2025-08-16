@@ -33,4 +33,4 @@ O’Connor’s Tours won the State Award for Tourist Services at the National To
 The Jailbreakers were in town last weekend for a very enjoyable performance at Redruth Gaol.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

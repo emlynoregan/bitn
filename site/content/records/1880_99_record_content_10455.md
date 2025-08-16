@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mt Bryan.  A deputation from Mt Bryan waited on the Commissioner of Public Works, asking for a goods shed, and on the Minister of Education asking for a school and teacher’s residence.  It was pointed out that the school was presently conducted in the Wesleyan Chapel, which lacked a fireplace and was very draughty.  The minister said 20 children within a radius of two miles were needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

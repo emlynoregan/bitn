@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.R. Ridgway denying it was he who brought Mr Geake’s name before the public.  He merely responded to a letter already published on 5 December and he hopes, like the editor, that the public has better things to do than meddle in this matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

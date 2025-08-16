@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  John Roach’s Ballad Concert and Entertainment in aid of the Children’s Hospital last Monday attracted a full house with some being turned away. The first item was the ‘Ten Little Nigger Boys’: a well-trained troupe of youngsters who later returned to sing ‘Little Brown Jug’ and again after interval.  The night raised over £15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

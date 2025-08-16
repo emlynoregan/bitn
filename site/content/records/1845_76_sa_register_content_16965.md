@@ -28,4 +28,4 @@ Advertisement.  The SA Mining Association calls tenders for the purchase of from
 
 Henry Ayers, Secretary, Adelaide, 4 December 1863.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

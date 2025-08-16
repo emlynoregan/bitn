@@ -46,4 +46,4 @@ Second were the Paringa Pushers, winning $1,000 and third the Pllbarrow Hedland 
 
 1st all female team, Burra Barrow Birds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

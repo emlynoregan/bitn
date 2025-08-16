@@ -27,4 +27,4 @@ Editorial on the Road Board election.
 
 2nd Leader on changes to the way Institutes were subsidised. All income was subsidised in the past, but now income from the hire of the hall or a portion of the building, or donations in consideration of the same, will not be subsidised. In Burra the Institute income is £350 of which £200 will no longer attract a subsidy. To make such a change after many Institutes have entered into commitments on the reasonable expectation of the subsidy continuing is unfair. At least 12 months notice of so large a change should be given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

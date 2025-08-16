@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A man named Hoskin received a slight concussion of the brain when a piece of timber fell on him while he was timbering a shaft at the Burra Mine yesterday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

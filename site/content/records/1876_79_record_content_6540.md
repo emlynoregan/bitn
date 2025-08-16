@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Terowie Railway. The men on the Hallett-Terowie railway are earning 5/- to 6/- a day. Only new immigrants are employed and they complain that they get no money or means to get food till they have worked three days when an order is given them for food at the Hallett store.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

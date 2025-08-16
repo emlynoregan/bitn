@@ -32,4 +32,4 @@ The gross quantity of ore raised in the year to 31 March 1861 was 12,237 tons at
 
 The Directors have declared a dividend of 100% for 4 December next and have an estimated undivided profit of £21,493-16-1 based on the prices of copper ruling in England and India at the last mail.  With increased prices in prospect the next half-yearly report may be expected to be as favourable as any of its predecessors.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

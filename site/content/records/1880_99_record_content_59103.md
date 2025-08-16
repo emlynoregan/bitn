@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 On Boxing Day the usual United Friendly Societies’ Demonstration took place.  Private picnics were held at the Lagoon and Princess Royal.  The Salvation Army held what might be termed an ‘all day feed’ at the Barracks.  In the evening they held an open-air meeting followed by a meeting at the Barracks and a grand finale in the shape of a supper.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

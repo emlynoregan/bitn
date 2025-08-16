@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Kooringa Meeting.  After the meeting held on Wednesday to consider the project of erecting a flour mill, another was formed to consider the action of the SA Mining Association with respect to renewing leases.  As a result the Chairman of the meeting Mr T. Moody and Mr W. West will write to the company asking whether they would sell the freeholds and upon what conditions new tenancies would be created.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

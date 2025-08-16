@@ -37,4 +37,4 @@ The Council resolved to have nothing to do with the arrears.
 
 The Mayor thought it a very cool request.  The Department having allowed the arrears to accumulate then expected the Council to advance the moneys that they might never recover.  There were strong complaints by the Councillors about the destruction of trees by cows and horses, especially in Welsh Place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ From Burra via Terowie is 185 miles: the direct route saves 18 miles.
 
 The direct route suggested runs 7 miles to the east from Burra and then northeast via the main woolsheds: North Dam (60 miles from Burra), Government Dam (67 miles), Anamba Well (107 miles).  We are satisfied a Burra line would be the best, but now it seems only the Terowie line will be surveyed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

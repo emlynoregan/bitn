@@ -30,4 +30,4 @@ Report on the Burra Burra Mine, translated fro the Suedaustralische Zeitung.
 
 [This is a lengthy and detailed article on the geological formation of the Burra Burra Mine.  There are also descriptions of the various minerals found there.  The five copper ores found there are all examined and reported in some detail.  The author was C.A. Zachariah.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

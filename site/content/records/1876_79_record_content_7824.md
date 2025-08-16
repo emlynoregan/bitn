@@ -27,4 +27,4 @@ Midland Road Board 16 December.
 
 The verdict on the Burra road approaches, as discussed in the editorial, is reported in a little more detail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Miners’ & Mechanics’ Institute is progressing and when finished will be a handsome building.  All materials used are of the first quality.  It is to be hoped that when it is opened, all who can, will avail themselves of the many benefits to be derived.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

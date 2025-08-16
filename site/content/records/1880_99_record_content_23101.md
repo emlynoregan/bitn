@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A petition from 67 unemployed men was received, but the Mayor says he has done all he can and suggests it be forwarded to the district’s MPs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

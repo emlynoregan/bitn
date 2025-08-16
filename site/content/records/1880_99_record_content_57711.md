@@ -50,4 +50,4 @@ R. Brummitt (Mayor) writes explaining the load of firewood that Cr Harris sent t
 
 The editor responds to the above by commenting that the explanation does not alter the fact that Cr Harris supplied the wood, rendered an account and expected to be paid and then withdrew it.  There were six other wood merchants in the town, some of them closer to the Waterworks, but they were not appealed to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

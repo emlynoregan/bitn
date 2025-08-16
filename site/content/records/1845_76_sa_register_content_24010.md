@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Mine.  One day last week machinery enabled men to break orey stuff, fill and empty 430 trucks each of 1½ tons capacity; each having been hauled about 6 chains and elevated 130 ft with the assistance of the ‘fire whim’.  The engine could do more work if there were more room for the labourers to break the stuff.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

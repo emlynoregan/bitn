@@ -30,4 +30,4 @@ The lack of clear policy on the part of either Government or Opposition is allow
 
 2nd Leader correcting an error in the previous article on Mr Rounsevell’s tax policies.  His land tax was not, of course, 5% on the value of land, but the assessment would be 5% of the value and the tax would then be levied on that assessment on a sliding scale.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

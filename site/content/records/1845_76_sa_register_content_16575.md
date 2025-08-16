@@ -35,4 +35,4 @@ A communication was received outlining the Surveyor-General’s report on a matt
 
 It appears that the work described in Mr Coles’ motion is now being carried out, but the Board referred the matter to Mr Macaulay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Hallett railway. A tent at the migrant camp caught alight from a camp oven placed about three feet away, but too near a loose flap. George Richard Walker, a boy of 11, and his sister Ellen Louise Walker, 8 months, died.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

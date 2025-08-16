@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Frost on Tuesday morning was the sharpest ever according to old hands.  Taps and pumps froze and the creek froze over.  Boys stood on the ice in the water troughs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -67,4 +67,4 @@ The Bench dismissed the charge of horse stealing, there being insufficient evide
 
 Baker then lodged a complaint of ill treatment.  The Bench undertook to look into the affair [but sounded distinctly doubtful and seemed inclined to consider Baker’s resistance to the law was the reason for any hard handling.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

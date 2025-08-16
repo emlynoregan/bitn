@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. T.M. Flood.  (Bible Christian) preached his farewell sermon last Sunday after being in charge of the Burra-Hallett circuit for the last three years.  Mrs Flood was thanked by the Endeavour Class on Sunday afternoon with an address and present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

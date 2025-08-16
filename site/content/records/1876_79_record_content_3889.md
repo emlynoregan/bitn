@@ -34,4 +34,4 @@ Offences. As usual a number of cases were concerned with animals that were in th
 
 Henry Walker was charged by the Ranger with "breaking up the road near Mr Josiah Thomas's, by taking away sand therefrom, on March 26." It seems he did not think he was doing harm as he had been employed to do so by Sara & Dunstan and he was unaware that the order had been revoked. Fined £2 +£1 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

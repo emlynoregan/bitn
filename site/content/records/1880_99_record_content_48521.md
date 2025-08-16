@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr W.B. Rounsevell has decided not to stand again at the next election.  Mr Duncan will take his place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

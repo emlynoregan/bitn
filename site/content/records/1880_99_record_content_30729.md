@@ -27,4 +27,4 @@ Editorial on Municipal Matters.
 
 The Council’s decision to inflict the full £50 penalty on accepting the Mayor’s resignation is, we believe, without a parallel.  In almost every such case the penalty has been limited to the cost of the election, or remitted altogether.  It was a nonsense to say the fine must first be imposed as the Act gives the Council power to do as it pleases.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

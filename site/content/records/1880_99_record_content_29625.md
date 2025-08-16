@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Court Unity AOF.  The half-yearly meeting was held at the Burra Institute.  CR C.A. Lott presided.  The financial details are printed.  J.C. French was elected CR, A.H. Jennings SCR, W.J. Rule SW, H.C. Lockyer JW and C.A. Barrett SB.  The PCR degree was conferred on C.A. Lott.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The State Advances Bill has been much modified with the removal of clauses referring to the Savings Bank.  We understand the Government will now urge the establishment of a State Bank and thus make use of the remaining portions of the Bill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Skating Rink.  We understand this will be the last week of the rink at the Institute.  There will be an interesting exhibition by Mr Stock the champion fast skater of the colony, tomorrow and the Burra Brass Band will play during the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

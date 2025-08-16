@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Rev. & Mrs Langsford were tendered a valedictory social at the German Schoolroom in Redruth on Monday evening.  Mr & Mrs A.H. Forder were also farewelled.  They anticipate moving from Burra.  Mr Bartholomæus presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 The Salvation Army packed out the Bible Christian Church for a monster meeting last Tuesday.  The object was to raise money for a new Barracks.  Speakers were Major Thurman and his wife from Adelaide, Staff Officer Hendy from Victoria and Staff Officer Jones from Gawler.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

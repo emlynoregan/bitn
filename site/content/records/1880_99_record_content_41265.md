@@ -33,4 +33,4 @@ W.H. Hardy writes commenting on John Lewis’s address to Council, calling it a 
 
 ‘The special magistrate most positively decided that the course in question was the right of the town, and if Mr Lewis thought the plaint of the Council was “much ado about nothing” why did he not remove the obstruction in the first place and not condecend [sic] to make so “much ado about it?”’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -46,4 +46,4 @@ G. Harry moved amotion urging the Government to act to make landowners responsib
 
 There was also unanimous agreement that it was time the area had a District Council and a special meeting will be called on this subject.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

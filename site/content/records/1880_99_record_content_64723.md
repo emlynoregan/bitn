@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 The names of the ministers after Mr Way and their order have not been procured, but Mr Hancock, Mr Trewin, Mr W. Richards, Mr J. Rock, Mr McNeil, Mr Pearce, and Mr Tresise all held the post.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

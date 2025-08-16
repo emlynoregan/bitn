@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Drew & Co. A new shop for Drew & Co. will be erected on the site of the present shop which will be incorporated into the new work and the whole will be of a commodious and elegant character.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

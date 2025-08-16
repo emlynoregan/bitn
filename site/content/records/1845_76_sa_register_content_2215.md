@@ -36,4 +36,4 @@ What will they say in England when publicity is given to two dividends of 200% e
 
 Sales of Burra Burra ores as reported from Swansea for 23 December in the Mining Journal of 1 January 1848 amounted to 344 tons for £7,733-5-6.  The largest parcel of 280 tons averaged £24-2-3 per ton.  The average price obtained for the copper ores of Cornwall in the last quarter of 1847 was £5-10-6 per ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

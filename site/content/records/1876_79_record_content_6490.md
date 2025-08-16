@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Bank of Australasia we believe will be occupied tomorrow. Mr Lipsett's new shop is almost completed Mr Wilkinson's alterations begin on Monday. The construction of St Mary's continues.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

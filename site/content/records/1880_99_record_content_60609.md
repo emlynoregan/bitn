@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Vermin Proof Fence.  H.S. Dunn presided over a meeting at the Commercial Hotel on Friday.  A petition was largely signed calling for a fence between the County of Burra and the East.  Vermin fences now being erected at Paratoo and Winnininnie would throw the vermin into the country in question.  Nine gentlemen were elected to form a deputation to present the petition to the Commissioner of Crown Lands on 18 September.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

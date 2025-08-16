@@ -33,4 +33,4 @@ From the London Daily News of 22 September
 
 Consideration is now being given to the means of establishing communication between SA and the gold districts by means of steam navigation on the Murray, which is declared practicable for nearly 700 miles, the average depth between Goolwa and the junction with the Darling was more than 1½ fathoms in 1850.  The upper Murray runs to within 60 miles of Mount Alexander and Albury is also in a gold region.  Except in extraordinary dry years the Murray would be navigable to Albury by craft with a draft for 4 to 5 ft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

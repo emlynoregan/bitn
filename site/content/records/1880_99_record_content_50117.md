@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 At the Flinders Ranges Stakes he scored 26 & 27, marred in each attempt when one shot failed to reach its mark due to bad powder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -41,4 +41,4 @@ It is a characteristic of Kooringa that all its best buildings are public instit
 There are six large schoolrooms, a similar number of classrooms and a teachers’ room, lavatories and a large play-shed. It now needs only adequate fencing to be complete. The opening was celebrated with a banquet. The first headmaster was Mr James Cater. Other teachers were Miss Snell, Miss A. Snell, & Messrs F. & J. Snell. Council ignored the claims for a Head Mistress, but eventually under pressure appointed Miss Cox and later Mr W.C. Grasby was first assistant. Average attendance for the six months to July 1878 was 293.5. It is a shame to see space wasted and a building for £2,000 to accommodate 600 would have been more than adequate. The cost at present is £1,207 for staff or £1-0-7 per child per quarter which is higher than at even the best of the private schools. 
 [The writer then goes on to condemn payment by results as limiting what is taught and the way it is taught.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘Dr (?) Boyd of Paxton Square’ about 7.30 a.m. Tuesday morning delivered a ‘very trying sermon’ under the old gum tree at the rear of the Burra Hotel on The Abilities of Slavin, Jackson, and all the renowned ‘pugs’; The Broken Hill Strike, and the Effects of the Times.  After singing and praying some time he thanked the trees and returned to his habitation singing ‘Rolling Home.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

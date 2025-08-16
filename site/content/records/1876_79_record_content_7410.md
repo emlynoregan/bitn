@@ -46,4 +46,4 @@ The Govt. has indicated that there will be no payment made on some of the work d
 
 Plans will be sent to SAMA and the Yorke's Peninsula Mining Association showing the reserves sought.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -33,4 +33,4 @@ The news seems to indicate that the discoveries are in a very limited area.  Gre
 
 [The writer goes on to explain why for men in SA in work or who can generally obtain it their best chance of getting gold is by remaining where they are.  He also points out the high cost of living on the goldfields and suggests that even if men went to Sydney they are as likely to do well taking the jobs of those who have left for the goldfields as by going there themselves.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

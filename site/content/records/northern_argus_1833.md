@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 [Photo of four of the eight blade shearers who took to the board simultaneously in the blade shearing competition/demonstration that was won by Andrew McInnes.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

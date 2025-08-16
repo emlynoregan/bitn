@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Entertainment.  Rev. L.W. Stanton organised an entertainment at the Burra Hotel on 7 September to aid the family of the late Thomas Attenborough.  The very stormy weather and muddy roads reduced attendance somewhat, but nevertheless £4-10-0 was raised.  [The program is printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

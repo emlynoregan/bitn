@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 Advt. At the Inst. for one night only on 16 Nov. Reappearing after an absence of almost three years: - Rainer’s great Diorama of the American War. 1/-, 2/- & 3/-. 
 Presents and souvenirs distributes free. Thunder of cannon and the din of battlefield will fall on the ears of the audience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

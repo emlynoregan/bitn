@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Circuit quarterly meeting showed the affairs to be in good order.  Rev. R.J. Daddow received a hearty and unanimous invitation to remain another year and a vote was passed in favour of Methodist Union.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

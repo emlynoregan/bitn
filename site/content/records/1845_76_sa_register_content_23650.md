@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Booborowie correspondent reports that a posse of teams etc. belonging to Mr Rounsevell en route for Mt Margaret for [overland] telegraph work, camped on the plain during the week.  There were 48 bullocks with 12 vehicles (drays or wagons).  Last Thursday there were 14 or 15 working bullocks and yesterday and tonight seven teams of horses besides horsemen for the same work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

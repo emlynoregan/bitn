@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  Someone pipe-tailed a cow on Friday night about 1 a.m. near the Kingston St Bridge.  The frightened cow caused considerable noise at the Kooringa Hotel before adjourning to Cemetery Flat.  Obviously disappointed that not as much disturbance resulted as hoped for, the person then activated the fire whistle at Henderson’s and an army of young men soon assembled.  This is an unfortunate prank as it is likely to reduce the turnout for a genuine fire.  The whistle will in future be locked.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

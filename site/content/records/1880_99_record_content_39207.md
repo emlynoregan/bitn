@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The editor says the responsibility is mainly with the Government who ought to have begun the work months ago, but the Council is to blame for allowing the retimbering part of the work to go ahead at this time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

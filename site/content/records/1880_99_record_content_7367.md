@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  On 4 July, at Bridgewater, John Hill of Kooringa, husband of Elizabeth Hill and son of the late Richard Hill of Kooringa, aged 46.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

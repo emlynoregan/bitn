@@ -69,4 +69,4 @@ Sport.  Out-of-town reports on Victorian football, cricket, coursing, sculling, 
 
 Mice.  The plague of mice has prompted numerous tall stories about mice, one of which is published.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

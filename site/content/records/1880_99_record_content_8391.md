@@ -35,4 +35,4 @@ Mr Lockyer summarised the year’s works.  He hoped the next year would see a wi
 
 Cr Geake favoured a town survey and against the Corporation owning saleyards.  He would support public baths if it could be shown they were ‘reproductive’.  [Presumably he wanted them to make a profit.]  He would support a general water supply if the majority wanted it.  He believed the Recreation Ground would ultimately be of benefit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

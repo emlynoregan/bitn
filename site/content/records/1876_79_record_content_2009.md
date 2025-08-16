@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Copperhouse: Special services at the Primitive Methodist Church at Copperhouse, to aid the manse fund, saw 150 sit down to tea and raised £14
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

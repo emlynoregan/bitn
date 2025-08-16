@@ -38,4 +38,4 @@ Obituary/Inquest.  On 6 November Mr Challoner JP held an inquiry into the death 
 
 [Joseph Thomas died 6 November 1871 Aberdeen, residence Copperhouse, aged 28.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

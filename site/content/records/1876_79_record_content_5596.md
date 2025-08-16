@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Stony Gap anniversary services were held on 22 Dec. with the tea-meeting on Christmas Day. Total proceeds £10-11-3
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

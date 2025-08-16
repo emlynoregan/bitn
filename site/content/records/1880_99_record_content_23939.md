@@ -27,4 +27,4 @@ Teetulpa Goldfield.  Buyers are offering only £3-15-0 for an ounce of Teetulpa 
 
 A correspondent reports some nice bits of gold are being found, but only by a few.  Estimates are that there are 5,000 to 6,000 on the field with more being made by the bakers than by the diggers.  There is less than 2’ of water in the dam and 5,000 gallons a day are being used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

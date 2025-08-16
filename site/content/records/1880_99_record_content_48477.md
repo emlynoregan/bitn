@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Guards Band No. 2 is very favourably reviewed.  They played at different times and places: Killarney, The Grand Review, Chivotte (March), Home Sweet Home, Climbing up the Gospel Stairs, On the Rhyne, Trumpet & Major Lowly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

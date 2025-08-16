@@ -32,4 +32,4 @@ Carson said the bullock belongs to him and he had lost it about three years and 
 
 Collins said he had bought the bullock from Tarr in May 1850.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

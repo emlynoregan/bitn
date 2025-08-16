@@ -31,4 +31,4 @@ Burra Burra DC.  Some members of Council will visit Wakefield Plains Council on 
 
 The Council proposes to petition the Minister of Local Government in October this year to change the rating system from land value [site] to capital value.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

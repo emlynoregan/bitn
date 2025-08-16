@@ -54,4 +54,4 @@ Smelting was toyed with earlier, but now the mines are flourishing what has happ
 
 Princess Royal Mining Co.  A general meeting of the proprietors is being held today.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

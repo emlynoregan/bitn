@@ -24,4 +24,4 @@ Editorial on ‘Who pays the Taxes’.
 
 It discusses the various forms of taxation that will be brought forth in the election campaign and perhaps proposed thereafter.  The writer is against the ‘simple’ solution of a property tax.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

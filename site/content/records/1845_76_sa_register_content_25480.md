@@ -31,4 +31,4 @@ Kooringa.  Many shearers are daily passing through the town at the end of the sh
 
 S. Drew & Co. have accepted tenders for the construction of a large wholesale store near the railway station.  They and others are anticipating changes due to the extension of the railway.  Drew’s store will be capable of holding 3,400 tons of goods.  A public house and various other buildings, it is understood, are also to be erected close to the same place.  The new brewery [in Kooringa] is nearing completion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

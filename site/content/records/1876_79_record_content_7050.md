@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Letter to Editor from `Ratepayer' who notes that the Town Council's funds have been expended, but he wonders whether they have been well spent. In North Ward at least, he says, the answer must be no. A walk down the east side of Broad's Hotel - or as it might be dubbed `Ridgway's Road' would demonstrate the point. The Corporation has spent £70 to divert traffic from the main road (which is maintained by the Road Board) down this to effect a saving in distance cannot exceed 70 yards. In any case it did not have to be done this year as at present the bridge is closed for reconstruction. Incidentally, the exclusion of clay from footpath material would improve them greatly as recent rains have proved!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. Daddow writes on Mr Hogarth’s lecture pointing out that the productive use of the land in terms of generating income is not necessarily a moral use of land.  See the land clearance in Scotland and Ireland.  Rev. Daddow would also suggest the growing of the grape as an example.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

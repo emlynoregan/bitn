@@ -32,4 +32,4 @@ Obituary/Inquest.  Charles Bonney held an inquest at the Cross Keys, Para Plains
 
 [SA Deaths CD records this death as David Bryee (probably a mistaken transcription of the handwriting) died 21 May 1851 aged 46.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

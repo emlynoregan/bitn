@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader endorses the view that the Council should pay for ‘sharps’ i.e. should keep the workmen’s tools sharp.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Travelling Stock Roads.  The select committee recommended their retention, but that control be placed under the Crown Lands Office rather than local government.  Also recommended that 516 acres temporarily withheld from allotment near Booborowie be released and areas for about one mile either side of a Government town be made available in small blocks with a three chain road retained through them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

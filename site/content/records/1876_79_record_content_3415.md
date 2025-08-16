@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Inquest by J.D. Cave J.P. found that Christian Luckee had wilfully set a fire that burned a quantity of growing wheat and stubble on John Hogg's farm at Booborowie on 29 December. He was committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

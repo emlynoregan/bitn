@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from a member of Burra Co. RVF saying that the RVF activity that could clash with the planned football match with Clare was as yet uncertain.  He accused the writer of the complaint about it of wanting to hurt the football club.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

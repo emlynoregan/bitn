@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  SA Chamber of Manufactures.  Exhibition of Art & Industry in March & April 1895 at the Exhibition Buildings, Adelaide – Send for a prize list.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

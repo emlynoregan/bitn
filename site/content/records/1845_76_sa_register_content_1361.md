@@ -31,4 +31,4 @@ The high price of Burra Burra shares has been received with great interest in th
 
 We learn that the mineral block adjoining the Burra Burra on the north was taken on account of capitalists in Aberdeen [Scotland] and that this accounts for the naming of the mine the ‘Bon Accord,’ that being the motto of the town of Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

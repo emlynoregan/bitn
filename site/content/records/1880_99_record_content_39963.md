@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 All the characters in the drama lived near each other at Hampton.  There had been gossip in which Lucy Gully had been accused of taking a staple out of Mrs Hendy’s door and stealing the (or a) carpet.  The verdict was, after a column of evidence, in favour of the Gullys in the sum of £1 plus costs in each case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

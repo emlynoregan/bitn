@@ -56,4 +56,4 @@ Dale then read a letter from Dr Browne denying any payment to Dale for his suppo
 
 Kingston’s response could not be heard in the confusion that followed.  After a period of personal recriminations and so much noise that no coherent understanding of proceedings was possible, Mr Dale moved a want of confidence in Mr Kingston and this was carried.  After cheers for Neales and groans for his opponent the meeting abruptly ended without even a vote of thanks to the chairman for his services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

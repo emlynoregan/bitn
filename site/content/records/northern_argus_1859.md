@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 The Jubilee 150 Music Show will visit Burra.  It will give young people the chance to learn production skills for musical and theatrical performances.  Following the workshop three young people will have the opportunity to get some hand-on experience at the rock and roll show to be held that night.  The project is aimed at Year 11 & 12 students.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

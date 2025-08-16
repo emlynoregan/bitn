@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Mark Deamer became a naturalized Australian on 14 December at a ceremony in the staffroom at BCS conducted by Burra Burra DC Chairman Jack McMahon.  A celebration lunch followed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

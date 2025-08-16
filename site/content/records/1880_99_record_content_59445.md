@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Notice of Removal.  A. Williams, Boot and Shoemaker of Market Square, informs customers he has moved to the shop lately occupies by Messrs Kitchen & Jordan next to Mr John Snell.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Railway Bills - Royal assent was given to the Port Augusta, North West Bend and Jamestown railway bills.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

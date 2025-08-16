@@ -48,4 +48,4 @@ On 16 May P. Murrie became the proprietor and editor.  The style of the editoria
 
 The ‘Sparks’ column reappears with its very brief comments on the local scene.  These comments are often frustratingly cryptic with references to apparently interesting events that are not elsewhere reported, but in too brief or oblique a way to now be interpreted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

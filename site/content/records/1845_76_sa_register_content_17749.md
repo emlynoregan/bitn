@@ -36,4 +36,4 @@ Storekeepers are wondering if the Government will be as liberal in their terms t
 
 In their case the more valuable one makes their property the more one has to pay for it should one desire a renewal of the lease.  On the other hand should it be a losing bargain, the lease is quietly dropped and very seldom is anything more heard of it.  The company’s remedy then is to pull the house down or let it for a low rental.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

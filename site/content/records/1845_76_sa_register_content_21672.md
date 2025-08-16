@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A requisition was presented to J.B. Neales Esq. to stand again for the House of Assembly and he has consented to do so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

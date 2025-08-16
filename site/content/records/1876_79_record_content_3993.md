@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Tweed Factory. There was a favourable report from the deputation to the Lobethal factory and at a meeting on 2 May it was decided to draw up a prospectus to raise £20,000 with shares at £4 each. It was thought that some disused buildings at the Smelts or the Bon Accord Mine might be used.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

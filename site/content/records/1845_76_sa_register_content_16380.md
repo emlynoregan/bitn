@@ -30,4 +30,4 @@ Kooringa News, 17 February
 
 A grammar school is about to be established in Kooringa.  A preliminary meeting has been held to examine the expediency of such a move and the idea has the support of Mr MacDermott SM.  It is proposed to find 30 individuals who will subscribe 12 guineas each per annum and with this guarantee to obtain the services of a first-class master.  A committee has been formed comprising Messrs MacDermott, T.S. Porter, W.H. Challoner and Dr Maurau.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

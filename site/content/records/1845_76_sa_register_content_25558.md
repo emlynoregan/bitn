@@ -35,4 +35,4 @@ The Burra Races were held at Copperhouse in a paddock lent by the SAMA on 1 & 2 
 
 The settling took place at Mr Opie’s Smelter’s Home Hotel, Redruth after the second day’s racing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

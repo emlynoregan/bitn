@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Rev. R.W. Campbell. The Register reports that at the recent church Conference the character of the Rev. R.W. Campbell was subject to examination as his antecedents prior to having come to reside in SA had been challenged. Records show that the remarks complained of were utterly without foundation and much sympathy was expressed with Mr. Campbell. Rev. Campbell is down to go to Gawler and Rev. M. Goldsmith, Conference President, is to come to Kooringa, but both moves are subject to revision.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

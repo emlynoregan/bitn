@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Entertainment: Advt. for Mrs Scott-Siddons to give a grand recital at the Institute. 7 scenes from plays by Shakespeare, Sheridan, Bungay etc. (3/- & 2/-)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

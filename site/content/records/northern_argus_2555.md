@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Library Depots operated at Booborowie, Mt Bryan and Farrell Flat.  The library’s 8th birthday was highlighted with the publication of Relatively Speaking.  The Jubilee 150 year had been a busy one with a number of displays and the completion of the local history room.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

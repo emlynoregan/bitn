@@ -38,4 +38,4 @@ Jones was ordered to pay £2 per calendar month.
 
 In an unusual case Gustav Gebhardt had dismissed a man and his wife because he could not stand, and she would not cease, her constant hymn singing.  The man was a boundary rider and his wife a cook.  The couple sought £38-17-7 damages for unfair termination of contract.  The bench ordered they be paid 30/- that was owed them in wages, but dismissed the claim for damages on the grounds that her annoying practice was ‘a sufficient excuse for discharging a servant.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

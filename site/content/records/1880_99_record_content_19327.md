@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Races.  Program printed for the meeting on the public holiday on 9 November.  The main event is the Town Plate over 2 miles with £10-10-0 in prizes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

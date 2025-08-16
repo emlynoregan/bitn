@@ -45,4 +45,4 @@ The Redruth Primitive Methodist Chapel has undergone extensive and necessary rep
 
 The Branch Bible Society held a meeting in the Bible Christian Chapel recently.  Attendance was small and Rev. B. Backhouse was the deputation.  Collections for the year totalled about £60 and [book] repository sales had been £12-4-6.  £40 was awarded as a donation to the Parent Society.  Mr Porter was elected Chairman and P.W. Dyer as Secretary for the year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

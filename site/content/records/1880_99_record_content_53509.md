@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church held its 23rd Anniversary on 15 April.  The church was packed.  The public meeting on Monday had a gloom cast over it by the death of Miss Fairchild in the Burra Hospital that morning.  Miss Fuller played the organ.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

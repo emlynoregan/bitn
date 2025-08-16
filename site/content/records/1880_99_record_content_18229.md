@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Notice. Mrs McLagan will open a school in Kooringa on 6 July in the schoolroom lately occupied by Mrs Mathews.  She teaches the Kinder Garten system.  9.30-12.30 at 1 guinea per quarter per child.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

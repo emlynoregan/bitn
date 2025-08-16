@@ -42,4 +42,4 @@ A large yard of about two acres for the timber store, along with copper from the
 
 At the time only about 150 men were at work, but men were arriving almost daily from Victoria.  The surrounding area looked bare and desolate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -35,4 +35,4 @@ This subject is receiving as much attention in SA as here.  Mr R.V. Rodda of the
 
 It has also been affirmed by a competent authority that the brick material at Wallaroo is equal to any found in England or elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cr Sampson objected to any cost of the culvert in Chapel Street being charged to East Ward as the boundary was the centre of the road - the debate was adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

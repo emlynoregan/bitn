@@ -31,4 +31,4 @@ The Mayor said the Hydraulic Engineer ‘was labouring under an hallucination’
 
 Cr Sampson thought it a waste of time to continue the correspondence.  The engineer had insulted the Council by saying they were incompetent to run the works.  He moved a deputation go to the Commissioner of Public works to interview him in the presence of the Hydraulic Engineer and that the letter be referred to the Waterworks Committee.  Cr Tiver 2nd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

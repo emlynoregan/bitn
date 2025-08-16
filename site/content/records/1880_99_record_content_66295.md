@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Paynter tried with the most complete set of machinery that it was possible to get and the process was successful, but the price of copper then made further progress impossible.  Now copper has risen by £15 to £17 a ton and looks set to rise to at least £85 or £90 a ton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

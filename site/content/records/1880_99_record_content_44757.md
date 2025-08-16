@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Notice.  Working men desirous of obtaining Working Men’s Blocks are invited to sign the memorial at the Town Clerk’s Office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

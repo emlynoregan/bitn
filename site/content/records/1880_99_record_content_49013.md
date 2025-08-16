@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Aberdeen Ballast Quarry.  Work was suddenly suspended last Thursday, probably till next July.  Money has been voted to upgrade the line to Terowie and it was not all yet done.  A deputation to Mr Holder asked him to seek the continuation of work approved by his Government and now stopped by the Downer Government.  Holder said he would take it up with the Commissioner.  The move throws c. 100 out of work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

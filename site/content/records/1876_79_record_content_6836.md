@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Advt. Burra Institute lecture on 4 August by Rev. S. Green on `Uguesagen', with glees, duets and choruses by the Burra Musical Union.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

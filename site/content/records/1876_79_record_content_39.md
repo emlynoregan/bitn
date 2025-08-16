@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Richardson’s Yards First Friday in the Month
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

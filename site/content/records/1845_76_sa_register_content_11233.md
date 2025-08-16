@@ -46,4 +46,4 @@ Make use of W.R.’s cabs from the stand, free of charge, when coming to the yar
 
 Rounsevell’s, Pirie, Grenfell & Hindley Streets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

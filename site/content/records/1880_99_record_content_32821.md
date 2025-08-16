@@ -32,4 +32,4 @@ Burra hospital deeds have not been found and Messrs Ayers & Ayers, solicitors of
 
 The General Account is in credit £98 after collection of over £800 in rates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

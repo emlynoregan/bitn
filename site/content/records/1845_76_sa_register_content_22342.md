@@ -30,4 +30,4 @@ The talk here has been of nothing except the complete cessation of all work at t
 
 The effect of this complete stoppage will be disastrous for the working and business classes.  Already men are leaving daily for Wallaroo and once they have found homes their families will follow.  When the new works commence a complete change of population will have taken place.  About 300 men and boys are now employed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

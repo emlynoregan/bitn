@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 W.H. Pearce	Tinsmith & Ironmonger, Commercial St Kooringa
 
-Source: [1880-99 Record .doc](/downloads/markdown/1880-99 Record .doc)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Primitive Methodist Sunday school, Kooringa, held its anniversary last week and 
 
 The proceeds of the anniversary were about £26.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

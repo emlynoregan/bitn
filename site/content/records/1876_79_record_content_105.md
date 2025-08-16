@@ -34,4 +34,4 @@ It has often been a matter of surprise that a local paper has never been started
 
 We think that a town with its own Council ought to support a newspaper.  Indeed a respectably conducted newspaper ought to add as much to the status of a town as a Council does.  Our intention is not to trumpet Burra’s fame to the world.  In fact the most brilliant period of Burra’s history is a thing of the past, but there are today indications of steady improvement, giving hopes of a brighter future than seemed possible a few years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

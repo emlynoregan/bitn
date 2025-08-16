@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Joseph Sleep died on Wednesday 13 Feb., aged 65.  He arrived in Burra in its earliest days and worked in the mine and later, till the abolition of Road boards, worked on main roads in the district.  He was an earnest member of the Wesleyan Church.  He leaves a wife, two sons and two daughters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

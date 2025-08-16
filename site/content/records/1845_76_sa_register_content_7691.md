@@ -35,4 +35,4 @@ Some Germans are vigorously prosecuting the search for gold near the Victoria Mi
 
 We understand that more than 100 miners have arrived in Adelaide from Kooringa and that of them 26 are Germans.  Of the total number 45 came by omnibus.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

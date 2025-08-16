@@ -29,4 +29,4 @@ Burra Town Council, Special Meeting Friday 21 December.
 
 This was a private special meeting as before the meeting began Cr Hardy moved the Council go into committee to which Cr Sampson strongly objected.  The meeting reappointed Mr Gray as Inspector at £60 p.a., as elsewhere reported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

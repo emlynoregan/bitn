@@ -28,4 +28,4 @@ Obituary.  Mrs Lilian Jeffery died on 4 August.
 
 [Born Lilian Mabel Bishop 24 July 1902 Farrell’s Flat.  Married Leonard Mark Jeffery 1921.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

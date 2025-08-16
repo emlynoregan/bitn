@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Rain in the last week has revived the season’s prospects by over 50%.  Dams are now full.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

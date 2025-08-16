@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Hon. F.W. Holder has replied to queries on the delay in releasing Burra Working Men’s Blocks.  He says the area can only be purchased after a resolution in Parliament and so nothing could be done during the recess.  The Commissioner of Crown Lands considers the offers so far sent in are too high for blockers to live on and pay the rent.  He will try to meet the wishes of the memorialists.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

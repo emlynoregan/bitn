@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  Captain De Burgh drilled the company last Saturday & examined Captain Holder & Lieut. Butterworth.  Both passed their examinations for Captaincy.  Privates Mayger & Jennings have been promoted to Corporal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

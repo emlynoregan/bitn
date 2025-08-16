@@ -29,4 +29,4 @@ Grasshoppers are becoming numerous again in the eastern hundreds.
 
 Shearers met in the Institute last Saturday to review how the shearing rules worked this season.  Some points on prices and employment of cooks will be considered before the next shearing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

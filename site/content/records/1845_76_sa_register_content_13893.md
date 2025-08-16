@@ -35,4 +35,4 @@ Kapunda to Clare		£0-5-0
 
 Kapunda to Mt Remarkable	£1-5-0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

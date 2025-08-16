@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 If ‘Inhabitant’ turned out to be a medical man residing not a hundred miles away from Mt Pleasant, West would thank him to be f rank and open enough to sign the name his  fat her or mother bestowed on him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

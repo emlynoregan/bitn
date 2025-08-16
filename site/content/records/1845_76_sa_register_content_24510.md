@@ -26,4 +26,4 @@ The Annual Report of the Board of Education is the subject of an article.
 
 The number of schools has increased from 300 to 307.  The growth has occurred almost entirely in the outlying Hundreds.  The total number of children instructed in public schools in 1871 was 20,355.  The number of children on monthly rolls was 15,791 compared with 15,108 last year.  Average attendance was 12,535 compared with 11,967 in 1871.  This represents an average attendance of 79.3%.  There are 298 licensed teachers, of whom 126 hold the Board’s certificate of competency.  30 have certificates from other authority, 12 are probationers and 130 are non-certificated.  Hope is expressed that before next year the model school will be in operation in Adelaide.  ‘The general impression conveyed by the statistics is that although some progress has been made, there is no substantial ground for congratulating the colony on the present condition of public education within it.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

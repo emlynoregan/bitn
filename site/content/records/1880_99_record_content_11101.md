@@ -50,4 +50,4 @@ With respect to his garden the judges said:
 
 ‘The first prize covers a large area and is well stocked, the others much smaller, although well attended had no chance in competition.’]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

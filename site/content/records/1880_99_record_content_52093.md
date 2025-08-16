@@ -37,4 +37,4 @@ There was further unpleasantness in reference to a letter that W.H. Hardy had pu
 
 If the Inspector is guilty of the alleged offence he deserves to be asked to resign, but if Hardy is guilty of misrepresentation then he needs to be so dealt with as to induce him to keep strictly to the truth in the future.  The trouble is over the recent court case of Thomas Builder.  Cr Parks resented the Record describing the Town Clerk as the keystone of the Council.  No meeting was held on Monday night so the matter will lapse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

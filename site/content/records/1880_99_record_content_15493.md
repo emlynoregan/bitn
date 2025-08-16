@@ -28,4 +28,4 @@ Redruth Court.
 
 Edward Williams was charged with deserting his wife four years ago in Port Augusta.  He then had nothing, but since had prospered and now earned £4 a week and was quite willing to support her.  He was ordered to pay 25/- a week and his railway fare from Pt Augusta. [sic]  [Perhaps her fare?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

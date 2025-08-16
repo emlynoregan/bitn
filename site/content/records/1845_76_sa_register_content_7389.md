@@ -44,4 +44,4 @@ The newspaper continues:
 
 It is clear that the atmosphere in Melbourne is clearing and business returning more to normal.  The Ballarat Diggings, if not exhausted are at least abundantly preoccupied and either the mass of men now converging on Melbourne must find new fields or occupy themselves with ordinary industrial pursuits.  In that case Melbourne will soon be as oversupplied with labour as Sydney is now.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

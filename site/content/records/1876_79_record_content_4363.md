@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 ‘Progress’ writes that railways need to be located to open up the country, they need to be pushed into the heart of the country & to the Barrier. Branches to be added later. The writer felt that the N-E was able to grow wheat and therefore needed the railway though squatters would oppose it as resumption of leases would follow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

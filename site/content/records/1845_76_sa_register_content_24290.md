@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Weather & Grasshoppers.  A report from the Manoora area says rust has appeared and the wet weather has been injurious to haystacks.  Grasshoppers have also appeared today and yesterday in a stream heading to the south.  They are like a fall of snow.  Not much damage has been done so far.  Reaping is due to start in about ten days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

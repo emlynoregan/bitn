@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Sara & Dunstan.  This was a famous old Burra firm which built many of the town’s most impressive buildings, and was very nearly responsible for building all of Terowie, Yarcowie and Yongala.  For example at Yongala they built two hotels, the public school, the Institute and the railway goods shed.  At the time Sara & Dunstan employed over 200 men and for a number of years it was over 150.  They built the Gladstone Gaol, which cost £22,000 and at that time work to the value of £50,000 was in hand.  For five years the business did work of £50,000 p.a.  Through the depreciation of property and other factors the firm decayed and the numbers employed fell to 3 or 4 and a few weeks ago the whole stock in trade was sold by public auction.  Mr Dunstan has gone to Broken Hill and Mr Sara left Burra on Monday to visit WA.  He goes with best wishes for future success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

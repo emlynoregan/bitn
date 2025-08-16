@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Show Society.  Meeting estimated that the society would be better off by between £20 and £25 as the result of this year’s show.  Next year’s show to be 21 September, subject to confirmation at next meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

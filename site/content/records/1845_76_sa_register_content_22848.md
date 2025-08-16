@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mr Yates, a commercial traveller narrowly escaped a serious accident when one of his horses fell on the slippery mud used on the road near Sod Hut.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

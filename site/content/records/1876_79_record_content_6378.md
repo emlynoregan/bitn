@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Redruth Primitive Methodist anniversary 4 & 5 May: Rev. W. Jenkin & S. Olley preached to fair congregations. Collections amounting to £21-12-0 were considered satisfactory considering the town's depressed state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

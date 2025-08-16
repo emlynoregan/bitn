@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Primitive Methodist Church.  Rev. J.G. Wright goes from Burra to Adelaide and Rev. J.J. Salmon comes to Burra.  Mr J. Burrows, an old worker in the district, goes to Dawson and Rev. A.J. Birt to Strathalbyn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

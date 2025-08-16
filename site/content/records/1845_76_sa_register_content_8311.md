@@ -34,4 +34,4 @@ The company will also be interested in making arrangements with parties desirous
 
 Notice.  The Patent Copper Company proposes to relight the Burra Copper Works on Monday 29 November and will then be able to give employment to mechanics and labourers at good wages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

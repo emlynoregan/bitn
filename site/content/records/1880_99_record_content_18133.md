@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Burra Glee Club’s first appearance was under very unfavourable circumstances on Wednesday evening.  The weather was wet and cold and the house was very small and even some members of the committee were absent.  The concert was quite worthy of a bigger audience and was one of the best a local company have produced.  The Burra Brass Band played outside the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

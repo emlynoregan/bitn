@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  The attention of the authorities is drawn to the conduct of certain parties, especially on Sunday evenings when young men sit on kerbs, doorsteps etc. in such a way as to obstruct the passage for any respectable lady even when attended by a gentleman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

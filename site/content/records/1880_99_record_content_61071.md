@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Christian Endeavour Soc. held its half-yearly business meeting and social at the Wesleyan Lecture Hall on 30 October.  About 40 attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

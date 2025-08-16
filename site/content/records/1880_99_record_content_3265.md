@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Daviestown Wesleyan Church held special services 13 & 14 Feb.  Rev. James Bickford preached in the afternoon & F.W. Holder in the evening.  Services were crowded.  (Part of the Hanson Wesleyan Circuit)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

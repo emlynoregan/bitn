@@ -35,4 +35,4 @@ Income from lodges and other bodies is large and increasing.
 
 Membership is now 135 compared with 55 six months ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Princess Royal Mining Company will be dissolved in accordance with a decision taken at a meeting of shareholders in Messrs Bagot & Labatt’s office on Tuesday 26 July.  It was also resolved that the resolution to dissolve be not an act of insolvency.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

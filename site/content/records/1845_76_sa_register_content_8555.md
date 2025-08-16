@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Notice.  A report has been industriously circulated, no doubt by those interested in maintaining the Mine Medical Monopoly, that Dr Bull is contemplating leaving the Burra.  He begs to inform his friends and the public that this is not so and he intends to continue his professional duties here despite that the miners are still deprived of their sick pay when they dare to employ him or any other independent medical gentleman.  Kooringa 14 September 1853.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -36,4 +36,4 @@ The deceased died from alcoholic poisoning.  He had been staying at Worby’s Ho
 
 The jury concluded that the deceased died of alcoholic poisoning and that Arthur Worby ‘is quite unfit to hold a licence and should be most severely censured for his conduct in permitting deceased to spend all his money and also for sending him to the hospital in the neglected state in which he was.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

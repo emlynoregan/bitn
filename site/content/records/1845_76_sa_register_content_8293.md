@@ -31,4 +31,4 @@ The crossing place of the Light at Kapunda is all but impassable.  Loaded drays 
 
 A wheelwright is badly needed in Kapunda and a schoolmaster at Kapunda North.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Editorial on the National Scripture Education League.
 
 The ideas were set forth in the lecture by Rev. Joseph Nicholson last Monday night.  They want the Bible read in State Schools, using the Irish National Scripture Lessons Books as in NSW, because the means at present of providing elementary religious education are totally inadequate.  For the sake of the nation and the children themselves.  The editor approves of the aims.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

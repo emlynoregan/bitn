@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Mrs Chamber's Ladies' School on Church Hill, Kooringa. The next quarter commences 1 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

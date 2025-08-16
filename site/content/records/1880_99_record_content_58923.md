@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Racing Club held a meeting at the Burra Institute on Saturday and it was stated that the old club had £40 in the bank.  It was decided to have a race meeting with £100 in prize money for a seven race meeting on 18 March 1896.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

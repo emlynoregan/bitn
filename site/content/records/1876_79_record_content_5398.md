@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Stony Gap. There will be two sermons on 22 Dec. & a tea-meeting on 25 Dec. in aid of [the schoolhouse; though this is illegible.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr John Land, post and telegraph master of Kooringa, has been appointed Returning Officer for the District of Burra to replace Mr A.H. Forder who has resigned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

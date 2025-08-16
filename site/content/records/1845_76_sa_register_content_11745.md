@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Karkulto Mine is advancing rapidly and the engine is ready to start.  Nine men are engaged in sinking the shaft night and day.  The horse whim is keeping the water in fork, but when it can no longer manage the engine will be started.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

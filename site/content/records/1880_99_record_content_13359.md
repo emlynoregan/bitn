@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 SA Parliament: 1st Session of the 11th Parliament was opened by the Governor on 5 June.  The House of Assembly now has 52 members, which it is hoped will produce greater stability.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

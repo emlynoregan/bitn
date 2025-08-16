@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Advertisement.  Burra Annual Races will take place on 31 December 1863 and 1 January 1864.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

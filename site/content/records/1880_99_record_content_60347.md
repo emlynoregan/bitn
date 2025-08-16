@@ -30,4 +30,4 @@ Redruth Court, Wednesday last.
 
 Mr Blackwell defended himself against a charge of theft.  He at time completely baffled the prosecutor and produced bills for each article except one vest and also other documents to his innocence.  The Bench nevertheless committed him for trial at the Adelaide Criminal Sittings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

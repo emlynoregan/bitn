@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 A survey party taking levels for a contemplated branch line to the River Murray passed through Redruth on Monday 26 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

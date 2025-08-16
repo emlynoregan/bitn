@@ -46,4 +46,4 @@ Police Trooper Williams from Redruth arrived at the scene about 2.45 p.m.  Found
 
 Verdict - death by hanging himself and no evidence to indicate his state of mind at the time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

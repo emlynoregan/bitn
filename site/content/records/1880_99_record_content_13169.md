@@ -30,4 +30,4 @@ Football.  The match on Saturday at the oval was between 11 Colours under E. Loc
 
 The ball was started for the season by Mr P. Lane standing in for the Mayor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

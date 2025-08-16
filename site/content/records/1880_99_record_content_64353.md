@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 H. Scott moved that any holder of grazing, cultivation, miscellaneous or educational lease if prepared at his own expense, or with Government assistance, to vermin-proof his land, be granted perpetuity of lease in lieu of his present leases.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -49,4 +49,4 @@ The liberal support promised to the infant institution by the great companies of
 
 This follows the example set in the mining districts of England.  ‘There the wealthy mining proprietors have long been eminent as the foremost in promoting and endowing all local institutions designed to ameliorate the physical condition or assist the mental advancement of the people from whose labour, in combination with their own capital, skill, and experience, they derive their wealth.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

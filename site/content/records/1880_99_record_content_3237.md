@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  The annual report says nothing very startling, but it would appear that some of the old hotel’s rooms had not yet been converted to hospital use and the Govt had promised to place on the next year’s estimates a sum for their fitting out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

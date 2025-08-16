@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Accident.  A young boy named Linkson was kicked by a horse on Saturday.  His injuries were severe and his life was despaired of, but he has since improved under medical attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

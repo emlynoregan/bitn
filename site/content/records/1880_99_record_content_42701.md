@@ -32,4 +32,4 @@ Crushing at the Smelting Works started last week.  Since the old smelters stoppe
 
 Mr Paynter visited the smelts about five years ago and having tested the slag decided to go to work.  An offer to the directors of the mine was accepted.  Machinery was ordered, but there was some delay.  Now the most modern crushing machinery is in place.  It is estimated that the heap contains 120,000 tons and will take five or six years to run through.  The engine is a Key’s 16 horsepower beam engine weighing 3 tons 15 cwt and operating at 80 strokes a minute.  It is embedded in 40 tons of masonry and used 1½ tons of wood in 8 hours operation at 32 lb pressure.  It uses a Cornish boiler with two Galloway tubes; 18 feet long and 5½ tons weight.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

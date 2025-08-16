@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Mr Bath has resigned from the School board of Advice and Dr Sangster has been appointed in his place. Mr P. Lane has been re-appointed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

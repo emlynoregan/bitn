@@ -35,4 +35,4 @@ Premises occupied by Forder Bros [At Nelson] are also in need of improvement.  4
 
 Most piggeries and slaughterhouses were clean and well kept though at the slaughterhouse of Richard Austin the blood pit had been left full of offensive liquid.  The premises of Matthew Symons, butcher, need to be cleaned of bones and other garbage and tainted fat removed at least twice a week in summer.  Similar improvements are needed around Rabbich & Sons premises.  [Both these places had a piggery.]  The position of the latter slaughterhouse is low-lying and poorly drained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

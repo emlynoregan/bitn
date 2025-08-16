@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Morphett’s Enginehouse is now floodlit and looks very impressive when approaching Burra at night from Mt Bryan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

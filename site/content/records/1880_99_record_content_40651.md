@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Fire.  Another fire broke out in the brewery paddock last Monday afternoon.  Foul play is again suspected.  This fire was soon extinguished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

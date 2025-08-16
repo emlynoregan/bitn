@@ -30,4 +30,4 @@ Advertisement.  The Miners of the Burra Burra Mines, 1 November 1848 to the Edit
 
 We regret to see the continued advertisements in your contemporaries of the specified rates of pay for the future working of these mines.  We hereby inform the Directors that we feel we cannot entertain the thought of again retaking out pitches or bargains unless the Directors shall see fit to grant us our former wages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

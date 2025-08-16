@@ -25,4 +25,4 @@ Editorial expressing surprise at finding that the funds raised by the Public Sch
 
 None of the schools are furnished adequately to meet the requirements of teachers who are compelled to buy various essential articles.  Children have to buy every book etc. required for schoolwork and to this we do not object, but it is not fair when money raised for their own benefit is expended on school furniture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ Stones were showered on the roof.  Eggs were hurled through open windows and the
 
 [The editor adds: ‘The perpetrators of the outrage should be severely punished.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

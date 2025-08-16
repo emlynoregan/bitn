@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  William Treleaven has purchased the interests of the late T.B. Terrell in the business of Treleaven & Terrell and having taken into partnership C.W. Brown, formerly agent for the Carrying Co. at Burra, has formed Treleaven & Brown Railway & General Carriers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

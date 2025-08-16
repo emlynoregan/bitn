@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Races at Copperhouse last Sat. for £10 a side at Copperhouse. Mr Graham's Ivanhoe soundly beat Mr Robertson's Gulnare. Several scratch races were then held.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

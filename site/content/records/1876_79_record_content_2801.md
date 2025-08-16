@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Burra Mines. Captain Sanders reports Morphett's Shaft has sunk a further 2 fathoms 2 feet and should reach 100 fathoms this month. The 85 north has been extended on Kingston's lode and has been productive, but Sander's Lode has not been of sufficient value to justify driving. Open cut work continues as usual and all machinery is working well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

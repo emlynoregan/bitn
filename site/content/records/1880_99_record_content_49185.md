@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Lewis Oppermann, son of C. Oppermann of Redruth, has committed suicide at South Broken Hill by shooting himself in the head.  [Born Carl August Ludwig Oppermann 26 November 1865.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

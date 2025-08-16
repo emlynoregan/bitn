@@ -22,4 +22,4 @@ publication_slug: northern-argus
 
 Collinsville Open Day is reported in c. 1½ columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

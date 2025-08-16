@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Robin Baker has been named in the State Team to swim in Alice Springs in January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

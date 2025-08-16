@@ -39,4 +39,4 @@ Yesterday Kooringa was graced with the appearance of Rounseville’s [sic: for R
 The reports of gold around about are numerous, but nothing has yet been confirmed that would induce a rush and the inhabitants are not disposed to believe all they hear.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

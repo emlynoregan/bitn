@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wages.  The Government proposes that all civil servants getting over £150 p.a. will get a 20% cut in pay for 15 months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

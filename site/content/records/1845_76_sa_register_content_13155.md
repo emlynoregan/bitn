@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  Wanted: a candle maker at the Burra Burra Mines.  Constant employment would be given.  Apply to Mr W.H. Challoner, accountant there or at the office of the SA Mining Association in Rundle Street, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

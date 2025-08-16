@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Editorial on the blunders of the present Government. Of the many the latest is stopping migration. There is also the lack of regulations with the Education Act, despite the passage of four months. There is also the deficit to consider.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

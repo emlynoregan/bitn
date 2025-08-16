@@ -42,4 +42,4 @@ Like Broadbent moved a resolution condemning any attempt to restrict discussion 
 
 The third resolution put to the meeting by Mr Bryan called for all who valued a free press to come forward in defence of one who has ‘unflinchingly asserted [the rights of the productive classes] against the combined machinations of a property class’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

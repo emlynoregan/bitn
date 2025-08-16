@@ -79,4 +79,4 @@ P. Jane seconded, W. Pearce supported and the motion was carried unanimously.
 
 Mr Rees MP had come from Adelaide at some inconvenience to attend the meeting, but on hearing that it was a local affair, he refrained from attending.  At the end of the meeting Joseph Roberts moved a vote of thanks to Mr Rees for making the trip.  J.D. Cave moved an amendment that no such vote be recorded as Mr Rees should not have come without an invitation and the idea of the meeting was not to be influenced by what their Parliamentary representative might say, but rather to influence their representative.  James Waters seconded the amendment.  After animated discussion in which several speakers regretted anything like disrespect being shown to Mr Rees, the motion was heartily carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

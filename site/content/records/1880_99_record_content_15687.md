@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the apathy of people towards the great issues of the day and their inability to remain focussed on any single issue for more than a few weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

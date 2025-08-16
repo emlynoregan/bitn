@@ -31,4 +31,4 @@ On the other hand a company of 6 that had worked hard got only 17/6 worth of gol
 
 There is general dissatisfaction at having to get a 30/- licence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 The poll on the loan. There has been some comment in town on the use of an open poll rather than a secret ballot, but this is so provided for in the Act of 1861.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

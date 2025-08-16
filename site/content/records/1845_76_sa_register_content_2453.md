@@ -28,4 +28,4 @@ Notice.  Princess Royal Mining Co.  Notice is hereby given that at a meeting of 
 
 By order of the Board, George Morphett, Chairman of the Directors, 7 September 1848.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

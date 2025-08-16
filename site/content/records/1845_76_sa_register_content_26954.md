@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 A letter on 22 December from Thomas Edwards seeks to defend him from any improper behaviour.  He says the evidence at the inquest proved the deceased was sober when he left the bar and he was not responsible for what happened thereafter.  Also, had he been informed that the deceased had been left on his doorstep he would have got up and seen to him, even though he was suffering from asthma and it would have been at some danger to his own health.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Guards Band No. 2 left Burra on Wednesday for Terowie after playing in Market Square about 10 a.m.  Collection taken up there for the Burra Hospital raised £2-3-0.  They played outside Mr Vivian’s Commercial Hotel before going on to the Hospital to play for the patients.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

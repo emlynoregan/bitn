@@ -29,4 +29,4 @@ Letter from J.B. on the same topic from Adelaide.  He defends Gordon and denies 
 
 ‘But if Gordon did oppose the Government he would have done nothing but was justifiable’.  He was sent as the expert to do a task and when he tells the Government the best way to do it, they say they know better and issue other orders.  He obeys and while executing them Gordon is abandoned in his hour of peril.  He then quotes Gordon’s despatch in which Gordon justifies his action in remaining at Khartoum against instructions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

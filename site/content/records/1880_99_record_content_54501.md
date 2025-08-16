@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Reluctant Horses.  After a ball at Booborowie last Wednesday one unfortunate party returning in a bitterly cold morning found their horses halted at every hill and they had to get out and help push the vehicle up each slope to their vast annoyance.  The last effort being at the Bon Accord crossing from where it was fortunately downhill.  To be sure they will choose different horses next outing!  The ball followed a concert which featured several vocalists from Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

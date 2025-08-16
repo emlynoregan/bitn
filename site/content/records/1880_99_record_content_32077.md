@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Literary Society.  In response to several notices a meeting was held at Mrs Reed’s Temperance Hotel on Thursday evening to form the society.  They have worked well in Adelaide and the suburbs and there are two in Broken Hill.  W.H. Morton is secretary pro tem and the rules and regulations and the election of officers will be decided on the 5 April.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

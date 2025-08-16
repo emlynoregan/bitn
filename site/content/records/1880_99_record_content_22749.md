@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Larrikinism.  A writer holds that both the Burra Young Men’s Union and the Salvation Army are a public nuisance and a disgrace to the town after their meetings on Wednesday night last.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

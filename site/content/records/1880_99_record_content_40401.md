@@ -46,4 +46,4 @@ Cr Sampson then turned to Bagot, Shakes & Lewis’s failure to remove the obstru
 
 He moved then that the Mayor interview Mr Lewis as soon as possible with reference to the matter.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

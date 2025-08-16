@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Railways.  There is a complaint that no matter what the weather the ladies waiting room at the Burra station is only open while the train is at the station!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Governor’s Speech to the opening of the 1st session of the 12th Parliament of SA is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

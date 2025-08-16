@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Last Sunday Rev. J.G. Wright of Mt Barker preached three excellent sermons at the Primitive Methodist Chapel in celebration of its anniversary.  The chapel was crowded to excess.  Over 300 attended the tea on Monday and the following public meeting was largely attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

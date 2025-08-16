@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 World’s End Church Anniversary last Sunday & Wednesday.  There were good congregations.  March’s cab was chartered for Wednesday and several young people went out from Kooringa.  There was excellent attendance at the tea meeting.  The tea was the gift of Mesdames McWaters, & Bown and the young men of the church, aided by Misses McWaters, Broad, Phillips, Lawn, Birt and Küchenmeister.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

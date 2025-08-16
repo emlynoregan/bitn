@@ -51,4 +51,4 @@ S. Pearce (Leighton)	1/- + 15/-
 
 The editor thinks Council needs to place men on the land to clear the weeds and then charge the landowners the cost of the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

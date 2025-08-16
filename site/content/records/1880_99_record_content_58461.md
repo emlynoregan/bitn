@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 2nd race for young birds was flown from Stockport on 23 October.  First back were J. Drew’s birds, covering the 46 miles 171 yds in 57½ minutes at 1,437 yds per minute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

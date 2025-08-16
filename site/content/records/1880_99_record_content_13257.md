@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Football Club Sports on the Oval, Monday 26 May.  There will be a program of contests ending with a football match between Colours and Allcomers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -45,4 +45,4 @@ On faith in the railway line being constructed some large portions of land betwe
 
 Great disappointment is expressed that Miss Aitken should leave the colony without visiting the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from Matthew Datson deploring the problems associated with alcohol abuse and urging the cause be looked at.  He felt the need for more secular amusements and activities.  While a Christian himself, he thought the church had failed in this area and secular forces needed to be encouraged.  Poverty and desperation were contributing causes of the problem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

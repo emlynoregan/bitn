@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Springbank Primitive Methodist Chapel conducted its anniversary services last Sunday.  In the afternoon Rev. J.D. Whittaker preached in the open air as the chapel was far too small to accommodate the congregation.  In the evening there was a full attendance when Mr J. Paull preached.  The following day’s tea meeting was also well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

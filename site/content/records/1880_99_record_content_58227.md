@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 E.W. Crewes lost a mare valued at over £20 by snake bite at Baldina last week and a very young foal of four weeks is left orphaned.  An attempt is being made to rear it by hand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

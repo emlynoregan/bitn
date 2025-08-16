@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Ulooloo Goldfield.  Letter from W.H. Hardy against the waste of money in the present system and advocating instead payment to the men for a systematic prospecting of the colony to find payable deposits of minerals throughout SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

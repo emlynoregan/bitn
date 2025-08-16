@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘In Evening a social was given by the committee to the gentleman [sic] who had so kindly assisted on the 28th and that day,’ at Mr J. Vivian’s Opie’s Hotel Aberdeen.  £20 was raised and will go towards a major sports meeting in one year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

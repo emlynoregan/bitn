@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Bagot, Shakes & Lewis were busy in Burra last Friday.  They offered 12,480 sheep and 60 cattle and the lease of 2629 acres in the Hundred of Hallett besides sheep and farm stock from the estate of Collins and Ullmann.  Also on offer were properties in Burra and Terowie in the assigned estate of Sara & Dunstan, but all those were passed in except for one house and a piece of land in Terowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

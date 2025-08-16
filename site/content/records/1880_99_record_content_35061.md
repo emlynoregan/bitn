@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  Goodchild, Duff & Co. announce that on 21 December 1889 they sold their business to Elder, Smith & Co. Ltd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

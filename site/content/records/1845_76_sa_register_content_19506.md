@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 On Monday 25 June it was a Mine holiday and three tea meetings were held at the three principal chapels in Kooringa.  The weather was so wet that all three failed to find sufficient customers to cover costs.  Mr Dunn spoke to the Wesleyans and Mr Jenkins addressed the Primitive Methodists, but the Bible Christians had no stranger to preach.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

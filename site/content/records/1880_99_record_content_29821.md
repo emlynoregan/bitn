@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from W.R. Ridgway supporting the line of the previous editorial on the reopening of the mine, pointing out how much cheaper both timber and transport costs are now.  He urges the Council to take the matter up with SAMA.  It is time to try again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

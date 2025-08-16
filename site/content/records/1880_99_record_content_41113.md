@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church celebrated its anniversary on 19 & 20 April with Rev. R.J. Daddow.  Attendance on Sunday was only fair due to rain, but the tea meeting was well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

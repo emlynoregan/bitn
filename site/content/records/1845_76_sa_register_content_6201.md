@@ -32,4 +32,4 @@ Another report:
 
 ‘This afternoon I have witnessed such a flood as I little expected to see here.  All the garden fence was washed away, and a heavy dray was not only washed from the garden, but carried down to Boord’s stores.  Several of the stores are full of water.  Mr Boord, I fear, will be a heavy loser.  His cellar was five or six feet deep in water, and some 30 to 40 pigs are gone.  Thomson and Kekwick are also among the unfortunates, and the creek huts are all being driven down the stream.  If it had happened in the night, many lives would have been lost.  Some steps should now be taken to prevent people from living in the creek. We – I mean our own houses – have happily escaped without any serious damage.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

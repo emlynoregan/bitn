@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Primitive Methodist Sunday School treats for children on Christmas Day at 3 p.m. with public tea at 4.30 p.m. and a meeting at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

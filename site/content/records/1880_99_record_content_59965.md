@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Agricultural Bureau has decided to set up a question box at the office of Mr John Lewis.  The best authority will answer questions deposited.  The bureau has been in existence several years, but has been little heard of.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

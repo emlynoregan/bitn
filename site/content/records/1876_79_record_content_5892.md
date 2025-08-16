@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra School. When are the new Public School Regulations coming out? Something new is wanted for the Model School is but 1/3 full while private schools are increasing and new ones appearing in various parts of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

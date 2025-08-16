@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  Susan Rowling Sampson, wife of John Sampson jun. died 31 July aged 48, a colonist of 34 years.  [nee Sanders]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Benjamin Watt’s case is to be dealt with in the House of Assembly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

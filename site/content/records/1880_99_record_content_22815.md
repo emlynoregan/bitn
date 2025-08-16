@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cornish Pasty.  There is a considerable debate over what truly constitutes a Cornish pasty.  [Which shows the long history of this dispute, which is still being debated.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

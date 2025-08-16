@@ -36,4 +36,4 @@ Third class passengers will be conveyed between Gawler and Burra by Goods Trains
 
 29 August 1872, page 4
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

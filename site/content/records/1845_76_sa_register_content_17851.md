@@ -62,4 +62,4 @@ Storekeeper	1	Total for Karkulto Mine	16
 
 Adelaide Officers	4	Gross Total	538
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Theft.  On Sunday 4 May painting and repair tools to the value of $2,800 were stolen from Jennison’s Tyre Service.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

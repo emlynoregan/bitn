@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 A Hotel Manage was forcibly removed from licensed premises on 4 April and arrested and charged with assaulting police and resisting arrest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

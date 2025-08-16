@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from Morris Rayner explaining that a few gentlemen have been trying for some eight months off and on to get the fire-brick business going and have secured a lease on the clay and are negotiating for premises on which to conduct the new business.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

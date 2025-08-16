@@ -70,4 +70,4 @@ Neither is reported as outlining any policies.
 
 W.H. Hardy said he would stand.  He had two years previous experience and did not approve of either the need of the work at the brewery or its nature.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

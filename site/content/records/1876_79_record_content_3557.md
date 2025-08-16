@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 A procession formed in front of the Institute comprising the Official Guests, the Mayor and Councillors, influential citizens and members of the various friendly societies in full regalia, together with the Burra Brass Band. They marched through Market Square, across the ford and up to the school. The official party was accommodated on a dais in front of the school. The band played The Song of Australia and the usual speeches followed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

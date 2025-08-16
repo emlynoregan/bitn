@@ -26,4 +26,4 @@ publication_slug: northern-argus
 Theft.  A car was stolen from outside its owner’s address in Kingston Street and later found completely wrecked on the Barrier Highway north of Manoora.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

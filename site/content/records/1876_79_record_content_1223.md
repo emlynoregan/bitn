@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 A typical evening involved four addresses by ministers etc. up to a dozen songs which were a mixture of solos, duets and ensemble works, two or three recitations and prayer. There was also ‘a capital tea'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

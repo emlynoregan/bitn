@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cr E.W. Crewes is in bad health and has decided on a holiday trip to England to recruit his health.  He expects to be away for at least eight months.  We wish him a pleasant trip and a safe return.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

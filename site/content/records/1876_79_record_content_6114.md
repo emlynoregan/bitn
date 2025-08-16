@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Football. On Tuesday the football club elected Mr Brady as captain and Mr Lasscock as vice-captain. W.B. Rounsevell MP has agreed to become patron.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

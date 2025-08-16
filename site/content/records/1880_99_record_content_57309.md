@@ -31,4 +31,4 @@ After the closed session of Council last week the Councillors have said: ‘Oh w
 
 They are unfit to represent ratepayers.  ‘The Council was never in a worse position than now, and a change is absolutely necessary.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

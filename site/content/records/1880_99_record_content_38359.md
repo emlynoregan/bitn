@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr A. McCulloch Sen. of Princess Royal Estate, died yesterday at his residence in Glenelg.  An advertisement advises that his body will arrive by the midday train on Saturday for burial at the Kooringa cemetery.  [Alexander McCulloch died 16 October 1890 aged 80.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

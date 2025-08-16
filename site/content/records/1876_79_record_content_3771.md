@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Entertainment. Review of the Georgia Minstrels from the 5 & 6 March. A crowded house on the 5th, but fewer on the 6th due to threatening weather. A good performance and well received - the review proceeds item by item.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

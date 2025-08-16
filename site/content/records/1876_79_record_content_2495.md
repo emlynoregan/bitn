@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 "Within the last few years agriculture has to a large extent superseded pasture in the immediate vicinity of the town, and new hundreds are now in course of selection. Others will shortly be thrown open, and in a short time agriculture will undoubtably become the leading industry in the district."
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

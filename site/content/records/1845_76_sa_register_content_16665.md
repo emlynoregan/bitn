@@ -44,4 +44,4 @@ The half-yearly meeting of the Wesleyan Mutual Improvement Association was held 
 
 Mr Parish brought around his models of naval vessels and exhibited them for two or three evenings, but finding this unprofitable, he got up a grand raffle and disposed of his entire fleet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Redruth Bridge. (Or Aberdeen Bridge) Report from surveyor to the Midland Road Board that some timbers are thoroughly rotten and it needs attention, `though safe enough for a time'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

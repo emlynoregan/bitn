@@ -27,4 +27,4 @@ Burra News, 1 April
 
 Rev. W.S. Worth preached his farewell sermon on Sunday evening last.  On Monday a tea meeting and valedictory service was held in the chapel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

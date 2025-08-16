@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The inhabitants of the North are much pleased to see that the long neglect of the road through the Sod Hut Ranges has received the attention of the Rt Hon. H. Ayers.  They hope other Hon. Members will follow up this matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

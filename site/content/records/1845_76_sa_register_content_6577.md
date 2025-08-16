@@ -28,4 +28,4 @@ SA Elections.  Canvassing at Kooringa
 
 [A wordy paragraph describes canvassers for one of the candidates being strenuously verbally attacked by a woman at one of the houses in the Mine and then, when attempting to speak to mine workers, being ordered off the property by Captain Dick.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

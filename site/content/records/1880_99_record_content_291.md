@@ -30,4 +30,4 @@ Redruth Court 26 January
 
 Henry Garrett was sent for trial at the Supreme Court on a charge of raping his daughter, Elizabeth, aged 15, on three occasions in December and January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

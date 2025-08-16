@@ -49,4 +49,4 @@ Tweed trousers, moleskin trousers
 
 Serge shirts and white and coloured shirts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

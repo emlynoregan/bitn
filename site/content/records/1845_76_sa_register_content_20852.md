@@ -53,4 +53,4 @@ At about 10 o’clock the coach left Kapunda for Burra.  The road, though being 
 
 Because of the bad roads beyond we had to start at 5 a.m.  ‘Tom Colley’ was on the box and we set off.  We stopped for breakfast at Mt Bryan Inn for 15 minutes.  The Cobb & Co. vehicle was comfortable and travelled easily – a great improvement on the square box with heavy springs formerly in use.  We made it to the end of the stage at a gallop.  Not twenty yards beyond the changeover we were buried to the axletree in mud and only with great difficulty extracted.  Once on firm land again we travelled at ten miles per hour to Gottlieb’s Wells, Mr A. McCulloch’s Station, right on the boundary of the rainy and dry country.  There was half an hour to change horses.  The country was becoming generally poorer, with less feed and more bare patches showing themselves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

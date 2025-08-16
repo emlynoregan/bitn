@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Track laying has begun in earnest with a locomotive now introduced to the new line. Permanent way expected to be 2 miles from the Bon Accord crossing by Saturday. There are plenty of jobs on offer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

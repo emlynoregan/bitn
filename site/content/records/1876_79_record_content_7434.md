@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Court Case. Three columns are devoted to the case in which Mrs Catherine Banks, the widow of the late owner of the Unicorn Brewery sued Mr Rosman, the manager of the National Bank, who had been authorised to wind up the estate and sell the brewery assets. It was a case in the Equity Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Ernest Giles: A meeting was held to plan a public reception for the explorer expected back by coach from Beltana Wed. 20 Sep., but a telegram said he was detained till the 27th.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Obituary. J.A. [John Aver] Mitchell, the founder of Terowie.  [Died 19 May 1879 Terowie aged 46.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

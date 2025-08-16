@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Prayer meetings have continued throughout the week, with united meetings for devotional exercises daily at the Primitive Methodist Church.  There was a special gathering at St Mary’s on Friday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

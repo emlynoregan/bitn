@@ -34,4 +34,4 @@ Two new schoolmasters have been obtained to replace our recent losses.
 
 I recently inspected the splendid tomb at Penwortham Cemetery, erected to the memory of the late Dr Sokolowsky.  It is erected in Mintaro slate and beautifully cut in relief.  The doctor was greatly respected and died 22 December 1862 aged 44.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

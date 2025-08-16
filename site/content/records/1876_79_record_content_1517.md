@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Town appearance: Editorial on the desolate look of Burra with no trees and no recreation ground. Though land has been set aside in Redruth it is not available. At present the cemetery is the ‘place of public resort' - most unsuitable. How about planting some gum trees!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

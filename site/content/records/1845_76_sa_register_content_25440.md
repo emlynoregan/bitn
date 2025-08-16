@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Bishop of Adelaide preached at St Mary’s on Sunday to large congregations.  Collections were made to aid the Parsonage Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advt.  Tenders are called by the English & Australian Copper Co. for deepening the approaches to their new wharf including the discharging and disposing of about 50,000 tons of silt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

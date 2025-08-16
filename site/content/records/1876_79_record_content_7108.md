@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Letter asking where Iron Town is as it is said to be a better place for a school that Copperhouse, but he has been all around the Leighton and Iron Mine area and can see no `Iron Town'.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

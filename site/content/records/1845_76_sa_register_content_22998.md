@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 At Kapunda on 21 December about 110 mules with harness, wagons etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

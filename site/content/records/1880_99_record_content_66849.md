@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mutual Improvement Society.  Next Friday Rev. W.A. Potts will lecture on An Evening with a Scotch Novelist.  [This is later reported to have been on J.M. Burrie, which is presumably meant to be J.M. Barrie.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

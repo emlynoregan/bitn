@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Timber licenses. The mine closure saw only 20 licenses granted in Nov. & Dec. 1877, compared with 88 in the same period the previous year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

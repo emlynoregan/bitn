@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on New Taxes and Government Subsidies, especially a 1d duty on all cheques and land tax on areas beyond District Councils.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

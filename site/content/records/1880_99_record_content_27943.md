@@ -32,4 +32,4 @@ Redruth Court.
 
 Caroline Gay, Andrew Gay and Elizabeth Agincourt Gay, children of Henry and Margaret Gay were charged with being neglected children and committed to the Industrial School till the age of 16.  Their father has been four years without work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

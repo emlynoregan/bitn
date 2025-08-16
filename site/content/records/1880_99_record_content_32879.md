@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Her lecture on Saturday evening in the Wesleyan Lecture Hall was on ‘Alaska, Land of the Midnight Sun’.  It concerned mission work in that territory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

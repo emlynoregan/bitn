@@ -33,4 +33,4 @@ To correspond with a Young Lady with a view to Matrimony. Must be good looking. 
 
 Money no object. Address C.D.E., Post Office, Leighton, Baldry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

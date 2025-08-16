@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Section 2206 between Springbank & Nankervis of 80 acres about 1 mile from Burra railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

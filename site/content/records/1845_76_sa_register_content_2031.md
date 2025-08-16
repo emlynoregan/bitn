@@ -30,4 +30,4 @@ I, William Hodges, weighing 12 stone 12 lbs, challenge any man in SA to wrestle 
 
 For further particulars, apply to Mr Oatey, “Boar’s Head.” Rundle Street.  8 February 1848.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

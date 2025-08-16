@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Bicycling. A rider recently rode from Adelaide to Strathalbyn, a distance of 36 miles, in 41/2 hours. He returned in 3'/2 hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

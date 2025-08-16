@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cricket.  In a scratch game to start the season A. Lott’s side 45 was defeated by W.H. Hardy’s side 76.  A concert in the Institute tonight aims to raise money to repair the Victoria Park pitch.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

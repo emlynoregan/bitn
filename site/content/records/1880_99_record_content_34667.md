@@ -56,4 +56,4 @@ David Mackay had a shop in Commercial St opposite Queen St next door to the late
 
 There were no state schools, but at St Mary’s there was a school, which was not popular.  Mr Strike had a school at the back of the Wesleyan Church [1856] and he was followed [1857-72] by Ricardo Stephens. (Now Dr. Stephens)  He did more to educate Burra than anyone else and was one of the best local preachers.  Leading local preachers (Wesleyan) were then Joseph Sleep, ‘Daddy’ Goss, & Dr Wilkinson, the father of T.W. Wilkinson the chemist.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Henry Burgess charged with `furious riding at Redruth' and fined £2 or 14 days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

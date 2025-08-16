@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Band.  A concert was held last Friday night to aid the Burra Band.  Attendance was good, but could have been better.  An excellent program was put together by W.S. Harvey of Salisbury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

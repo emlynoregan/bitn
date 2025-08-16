@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Entertainment: The Burra Amateur Christie Minstrels is to perform on 11 July with the usual dances and songs plus the farce "The Mischievous Mummy" The proceeds will go to charity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

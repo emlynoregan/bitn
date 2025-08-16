@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Obituary/Accident. A lad, Michael Killmartin, was killed when a cart was upset on Saturday five miles from the Ketchowla head station while taking rations. Dr Nesbitt left about 7 p.m. to enquire into the death, but at Mongolata it was too dangerous to proceed and the coroner and a policeman stayed there till dawn. The death was found to be accidental.  [Death seems not to be registered, neither is any birth by this name.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

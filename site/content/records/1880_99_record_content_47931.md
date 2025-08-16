@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Storm.  The recent storm has cut yields by an estimated one bushel per acre in an area within 35 miles of Burra.  In places the damage is much greater.  At Gum Creek Mr T. Bailey is believed to have lost 4-5 bushels per acre.  It was the steinwedel variety and had promised 25-30 bushels per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

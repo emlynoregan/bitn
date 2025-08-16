@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Club was well attended on Wednesday at the Wesleyan Lecture Hall.  There were musical items and recitations as well as an address by Rev. J.Y. Simpson.  Mr Winnall has consented to take charge of a gymnastic class on Tuesday evenings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

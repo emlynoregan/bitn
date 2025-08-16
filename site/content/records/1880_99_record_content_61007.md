@@ -29,4 +29,4 @@ Local Board of Health.
 
 It was resolved to make a trough in the bed of the creek near the footbridge leading to Mitchell Flat and also opposite St Joseph’s to drain away smelly stagnant water.  The Mayor was given power to act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ No applications for shares will be received after 14 November.
 
 A.H. Forder, Secretary, Redruth.  17 October 1860.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

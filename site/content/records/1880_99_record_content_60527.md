@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 British & Foreign Bible Soc. services were held last Sunday.  The deputation, Mr A.H. Bryson, preached at Redruth Wesleyan Church in the morning and at Kooringa Wesleyan in the evening.  A united Sunday school service was held in the Bible Christian Church in the afternoon.  The annual meeting on Monday was in the Kooringa Primitive Methodist Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

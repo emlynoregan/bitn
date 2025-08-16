@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Turner, formerly a farmer of Davieston [Hanson], moved to Broken Hill about 9 months ago and died there suddenly last Thursday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

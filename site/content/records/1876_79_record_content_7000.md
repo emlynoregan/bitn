@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Bible Christian Church. Special services were held last Sunday with a tea-meeting Monday. There were good congregations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

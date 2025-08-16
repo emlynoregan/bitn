@@ -38,4 +38,4 @@ Mrs Gebhardt said he had not given her any food for a fortnight and she had been
 
 Ellen Moore, wife of Ezra Anthony Moore gave evidence of Mrs Gebhardt’s coming to her faint from want of food.  She had fed her and the children too.  She was a witness to the husband’s actions on 11 October.  The bench finally ordered Gebhardt to pay his wife £1 a week if she remained away and if she returned, as she agreed to do if protected, ordered him to keep the peace for six months on a bond of £50 with two sureties of £25 each.  Gebhardt had a heated exchange with the bench during this, which very nearly had Mr Ridgway imposing a gaol sentence of 14 days for contempt of court.  Charles Woodruff and John Parker entered into the necessary bonds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

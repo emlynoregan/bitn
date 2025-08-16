@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  A letter from the Conservator of Water asked if it was feasible to supply the Redruth Gaol with water and the length of main required to do so.  The Council decided that laying the main is feasible, but on the condition that its cost not be added to the capital account.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

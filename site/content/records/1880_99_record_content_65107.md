@@ -29,4 +29,4 @@ Redruth Court, 15 November
 
 James Quinn was required to show cause why he did not contribute to the care of his aged mother.  Mary Quinn, his mother, said she was a widow in destitute circumstances and could live on 2/6 a week.  James Quinn said he had an orphan boy and wife to support and was often out of work and at present was doing nothing.  If he had it in his power he would willingly assist his mother.  The case was adjourned for one month to enable the defendant to get work.  The Destitute Officer is to be communicated with to relieve Mrs Quinn for four weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

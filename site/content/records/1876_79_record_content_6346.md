@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 A late application for Govt. subsidy this quarter means it will not be paid. Applications for position of Town Clerk are called at £120 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

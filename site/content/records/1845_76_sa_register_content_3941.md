@@ -36,4 +36,4 @@ Brash said McPherson had left her husband in England to come to SA with him.  Wh
 
 The Magistrate considered the complaint proved, fined Brash 20/- and ordered him to pay 28/- for damage to the furniture and 22/- costs and to be bound over to keep the peace for three months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

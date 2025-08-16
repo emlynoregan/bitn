@@ -40,4 +40,4 @@ I was not able to examine the celebrated Mine, as, on requesting to be allowed t
 
 Tuesday 31 May: Burra to Mt Bryan & Wandillah Creek.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

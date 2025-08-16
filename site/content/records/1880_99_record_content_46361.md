@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘One of the People’ writes on the prospects of making the idea of conciliation work in industrial disputes and doubts that it can be effective.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

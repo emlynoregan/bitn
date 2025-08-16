@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘A pleasant drive of an hour and a half or less through hilly scenery scarcely inferior to that of the Mt Barker district, near Adelaide, would land them alongside a sheet of salt water five miles long and two miles wide, which in many parts is 20 to 30 feet deep, teeming with wild fowl of all descriptions, the cool almost sea breeze from which would be a welcome relief after our summer heat, and in whose waters they can lave and enjoy a “dip in the briny”.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

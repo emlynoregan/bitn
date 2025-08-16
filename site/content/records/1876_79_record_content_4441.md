@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Roads are poor in the district to the north and the Hallett-Jamestown mail has experienced difficulties. The Northern Stage Co. coach suffered a broken axle approaching Hallett on Saturday, due to the flooding of Tommy’s Gap, but it limped into Hallett without breaking down.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 [Mr W.J. Peterswald’s report is printed also.  This essentially confirms the above, with a little more detail, but seems to make no recommendations about the likelihood of there being a payable field there.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

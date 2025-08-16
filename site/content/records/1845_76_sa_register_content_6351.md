@@ -28,4 +28,4 @@ Mr Stocks at Kooringa
 
 Mr Stocks again addressed electors at the Burra Hotel.  He said this was the last occasion he would address them, as he intended to return to Adelaide in the morning and much would then depend on the exertions of his friends.  He was repeatedly applauded in his hour-long speech.  He retired amongst great cheering and applause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

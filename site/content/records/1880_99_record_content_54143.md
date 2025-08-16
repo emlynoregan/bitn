@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Advt.  Entertainment at the Institute 11 July.  Program includes Romberg’s Toy Symphony and that most popular of all farces Box and Cox.  1/- & 6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

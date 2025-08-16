@@ -104,4 +104,4 @@ Cargo of the Richardson
 
 48,100 fire bricks, 40 tons fire clay, 300 furnace slabs, 200 furnace doors, 120 furnace bearers, 10 tons sand, 45 tons castings, 12 tons wrought iron in bars, 1 ton of shovels and other tools, 1½ tons of pig and sheet lead, 30 barrows, 4 dozen brooms, 6 cases of laboratory apparatus, 1 case of scale beams, 1 cask of crucibles, ironmongery and other implements and a copying machine,
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

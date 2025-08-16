@@ -30,4 +30,4 @@ In the Kooringa polling station there were 522 male & 441 female voters.
 
 There were 762 males and 671 females on the roll.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

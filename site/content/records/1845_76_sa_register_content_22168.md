@@ -38,4 +38,4 @@ On Monday evening Rev. L.W. Stanton presented one of his usual entertainments.  
 
 The new enginehouse [at Graves’ Shaft] is progressing favourably and will probably be completed in about seven or eight weeks.  The shaft is now down to more than 40 fathoms and has a little water, but not enough to retard operations significantly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

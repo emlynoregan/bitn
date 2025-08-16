@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Helen Anderson, infant daughter of David and Jane Anderson died at Gladstone on 15 December 1879, aged 7 hours.  [Born same day.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

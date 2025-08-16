@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 There is no easy answer as to what to do now, but the editor is against placing the entire blame on the Government.  It was badgered into opening up land it thought to be of doubtful agricultural value.  The selectors went into the land prepared to reap the profits or to run the risk.  The Government will have to do something, but they are not entirely to blame.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

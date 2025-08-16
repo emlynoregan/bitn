@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Accident.  When a gun was fired close to a horse carrying Mr J.H. Dawe’s two children from Stony Gap School to their home at Princess Royal, they were flung to the ground.  The horse ran home and has since refused to be ridden.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

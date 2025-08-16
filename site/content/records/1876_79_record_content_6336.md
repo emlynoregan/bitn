@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Mr Holder has been appointed Town Clerk pro tem to replace Mr Fogg, who has resigned. The approach to the new bridge needs enclosing and the overseer recommends a 3' high wall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

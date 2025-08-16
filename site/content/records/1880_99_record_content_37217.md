@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Davis Case.  In Parliament on Tuesday the Commissioner of Public Works said the compensation to be paid to the widow of the late William Davis was under consideration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

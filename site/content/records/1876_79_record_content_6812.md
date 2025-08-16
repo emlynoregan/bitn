@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Lecture at the Burra Institute by Rev. S. Green on 'Uguesagen' in aid of the Institute on 4 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

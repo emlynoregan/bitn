@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Editorial on the endorsement by other councils of the Burra Corporation’s view re funding for main roads within Corporation borders.  Burra has 5⅓ miles on main road carrying heavy traffic from north, south, east and west, from Mt Bryan, Booborowie, Robertstown, Black Springs and Baldina to the railway station.  Many ratepayers do not own either a horse or cart and use only footways.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

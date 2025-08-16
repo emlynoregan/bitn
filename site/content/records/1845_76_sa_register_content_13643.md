@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The opening of the railway to Kapunda has seen our mails arrive two hours earlier.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

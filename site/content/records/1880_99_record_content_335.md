@@ -74,4 +74,4 @@ Harvest Festival at the new St Mary’s on 5 February.  Communion was at 8 a.m. 
 
 Unfortunately the piano was badly out of tune.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

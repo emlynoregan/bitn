@@ -46,4 +46,4 @@ For some time it has been known that the health of this old colonist has been fa
 
 [John Bentham Neales died 31 July 1873, Glenelg aged 67.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

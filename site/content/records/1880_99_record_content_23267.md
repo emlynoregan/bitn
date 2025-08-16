@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Ulooloo Goldfields.  W.H. Hardy writes re the Government Geologist’s report, which he says, is grossly misleading with respect to the actual yields obtained by specific parties.  While some nice individual finds were made, Hardy contends that no one found enough gold to keep him for six months without other work. [or support]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

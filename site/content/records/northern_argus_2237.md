@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 The Pool Disco planned for last Saturday was cancelled due to the cool weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

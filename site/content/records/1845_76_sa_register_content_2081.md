@@ -31,4 +31,4 @@ Gentlemen, having lately come here, and being disappointed in my expectations, I
 
 How long is this melancholy state of things to continue, by which the industrious and legitimate settler is deprived of his rights?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

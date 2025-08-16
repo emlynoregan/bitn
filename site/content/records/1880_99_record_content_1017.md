@@ -27,4 +27,4 @@ Editorial on ‘Our Education System’.
 
 Very large sums are being spent on buildings and the exams are so difficult that only be extreme cramming can the standards be met.  The old system supported schools at each end of town and at Copperhouse; now there is one and the Copperhouse school with 30 pupils can get no aid.  Nothing has been done to help the Baldina area.  The quality of education is so poor that the number of private schools is increasing.  Red tape is rampant and too much teaching is done by the pupil teachers, who are little more than pupils themselves.  Reform is urgently needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

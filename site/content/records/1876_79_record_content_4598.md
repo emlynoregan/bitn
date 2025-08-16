@@ -29,4 +29,4 @@ Advt. Special services at Kooringa Wesleyan Church by Rev. H.T. Burgess of Kapun
 Sunday 25 Aug. and on Monday Mrs W.L.H. Bruse will lay the foundation stone of the new 
 Sunday School at 4.00 pm followed by a tea-meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

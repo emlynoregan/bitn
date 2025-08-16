@@ -55,4 +55,4 @@ Edward Evans and David Williams were charged with feloniously assaulting Andrew 
 
 W. Birt, G. Oliver and Mr Skewes corroborated the evidence in most material points and the defendants were committed for trial at the Court of Full Jurisdiction.  Bail was afterwards taken for their appearance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

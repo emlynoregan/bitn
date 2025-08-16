@@ -34,4 +34,4 @@ Work remains to be done on the $30,000 Bon Accord Project.
 
 $80,000 has been set aside for the Morphett’s Enginehouse along with $25,000 from the Department of Mines and Energy for the same site.  The building will be re-roofed, stonework repaired and re-pointed, the floors replaced and displays installed.  A partial re-timbering of the shaft is also contemplated.  The $210,000 earmarked for the Copper Interpretation Centre has been re-allocated by the Jubilee 150 Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Thomas Nevin, of Copperhouse, writes with further details of the diprotodon remains found on the Eastern Plains by Mr W. Davies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

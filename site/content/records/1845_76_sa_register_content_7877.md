@@ -27,4 +27,4 @@ publication_slug: sa-register
 Burra Mine.  The monster cylinder belonging to the new engine for the Burra Burra Mine arrived at the Mine last Thursday without any casualty or accident, although the creeks were high and the road in many places was boggy after the recent heavy rains.  The number of bullocks employed was 60-70 during the entire distance and the weight they had to draw was not less than 27 tons.  All the bridges were strongly supported and Mr Freeman spread sand ballast on their roadways to prevent vibration.  All survived without damage.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

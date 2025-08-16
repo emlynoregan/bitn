@@ -33,4 +33,4 @@ Cr Richardson [licensee of the Burra Hotel] thought ‘it would be far better fo
 
 Cr Ridgway called for the Council to print posters and insert advertisements to get the message out.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

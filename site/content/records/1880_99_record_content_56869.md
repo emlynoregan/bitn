@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Captain West & Lieut. Whitton will be farewelled at the Barracks next Sunday.  ‘Our Girls’ have proved very earnest in their work and won the respect of friends and supporters of the Army.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Flagging has been delivered for Sara & Dunstan to be placed in front of Mr Lipsett's & Mr Wilkinson's new shops in Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

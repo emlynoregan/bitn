@@ -42,4 +42,4 @@ John Thomas gave corroborative evidence and agreed with the assessment about the
 The jury returned a verdict of Accidental Death.  The coroner, George bull, then fined Mr William Hill 10/- for failure to attend as a juror when summoned.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

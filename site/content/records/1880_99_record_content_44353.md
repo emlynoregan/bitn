@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 C.A. Uhrlaub, headmaster of Mt Bryan School writes re the aspersion cast on him by the coward that enquires under a nom de plume of his handling of the Fife and Drum Band money.  All the information ‘Musicus’ may require is available if he comes and asks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

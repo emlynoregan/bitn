@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Institute, AGM on 14 January.  There are 3,153 books in the library, though there are a number of worn books to be removed.  Elected: President, R.M. Harvey; Vice-President, Mr Jennings; Treasurer, Dr Brummitt; & Hon. Sec., J.F. Moore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

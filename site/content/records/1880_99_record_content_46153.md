@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Shearing has begun with c. 30 shearers leaving for Farina, for Mount North-West and for Wichdeane Stations.  Thomas Warnes of Koomooloo began shearing on Thursday.  It seems all will go smoothly this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

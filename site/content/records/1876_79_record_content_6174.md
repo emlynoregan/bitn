@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Burra town Council, Special Meeting 24 March. This was called because when the masons at the new bridge got to work on Saturday morning they were denied access by Messrs Statton & Henderson. The Town Clerk said that Statton & Henderson had signed an agreement, but had been advised by their solicitors not to admit anyone to the land. A telegram has since arrived that the agreements have been exchanged and the money paid over, so no further action was needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

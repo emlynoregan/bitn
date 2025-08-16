@@ -41,4 +41,4 @@ On Saturday I visited the new copper discovery taken out by Mr Murphy.  All the 
 
 The elections passed very quietly with few taking any interest.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ Crimes. Last Saturday night or Sunday morning it seems a boy was lowered down a 
 
 On Monday morning it was discovered that Mr Colin’s office had been burgled and £4-£5 taken. Mr Coglin is offering £50 reward for information leading to a conviction.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

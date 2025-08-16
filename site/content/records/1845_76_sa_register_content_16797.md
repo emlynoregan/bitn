@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Mr Box will hold a cattle sale at the Hotel Yards every Wednesday.  Last week cows fetched about £4, but this week less was offered and bids failed to reach the reserve.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

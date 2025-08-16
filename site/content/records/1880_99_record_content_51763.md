@@ -48,4 +48,4 @@ Lamps in West Ward cost £5-5-0.  In view of the costs this last should presumab
 
 1,000 trees have been planted in the town.  No. 2 Reserve in North Ward was planted at the expense of the Councillors for the ward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

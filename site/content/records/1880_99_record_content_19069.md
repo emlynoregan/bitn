@@ -30,4 +30,4 @@ The Mayor tried in Adelaide last week to bring the affairs between the Council a
 
 The Commissioner of Public works promised details of the cost would be supplied.  They must be in the Engineer’s office.  Land ample for the purposes has been acquired.  There is now no hope of reducing the sum of £960 for the old works, as that is what the Hydraulic Engineer’s Department actually paid the Railways Department.  As to charges for pipes, the question is whether those used actually came from old expensive stock or from new cheaper stock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

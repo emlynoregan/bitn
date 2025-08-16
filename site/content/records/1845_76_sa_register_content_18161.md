@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Peter McIntyre and Alfred Hack were fined respectively £2 & £5 with costs for travelling with sheep without giving notice according to the Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Public Notice: Ex-Councillor John Sampson will please understand that drunkenness will be no further excuse against my prosecuting him for any continued vile slander towards myself.  W.H. Hardy, Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

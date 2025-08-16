@@ -27,4 +27,4 @@ B.G. writes from Kooringa 16 October.
 
 Let me call the attention of the Governor to the numerous robberies occurring here night after night, in consequence of there being no foot police to prevent such occurrences.  It is ridiculous to think that two mounted police could prevent such occurrences.  Are officials aware that there are now more than 4,000 souls in the township?  I am convinced that unless we have at least six more police  to protect the inhabitants, some serious burglaries will be perpetrated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

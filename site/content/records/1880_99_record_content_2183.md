@@ -35,4 +35,4 @@ Gray v. Oliver of Copperhouse.
 
 Mrs Oliver was charged with driving on the wrong side of the road near Sara & Dunstan’s in Aberdeen.  The defendant admitted being there, but said she was calling at Sara & Dunstan’s and pulled off for that purpose.  A witness corroborated her evidence and the case was dismissed.  [Probably Johanna Oliver, widow of William Oliver.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

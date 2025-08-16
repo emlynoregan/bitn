@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Birth. To wife of Thomas Richardson of the Miners’ Arms, on 15 Aug. a son.  [Actually a daughter: Mary Ann.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

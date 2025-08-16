@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 A Temperance Meeting was held in the Wesleyan Schoolroom on Tuesday last.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

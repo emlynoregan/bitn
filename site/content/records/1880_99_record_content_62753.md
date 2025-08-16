@@ -34,4 +34,4 @@ When the loaf was broken apart the ‘robbing’ may have accounted for the diff
 
 The defendant said he had weighed the other bread at the shop and found none underweight and that they always allowed 4 oz over when weighing the dough.  As only one loaf was weighed and found wanting the second of the arguments above saw the case dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

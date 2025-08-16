@@ -31,4 +31,4 @@ The SA Mining Association will hold its half-yearly meeting of shareholders at t
 
 Secretary, Henry Ayers, 3 October 1865.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

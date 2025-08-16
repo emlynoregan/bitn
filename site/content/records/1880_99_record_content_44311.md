@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bible Christian Concert in aid of the manse was held at the Institute on Friday evening, chaired by Dr Sangster.  Attendance was very small, but the concert was one of the best given for some time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -38,4 +38,4 @@ An effort is being made to establish a Mechanics’ Institute, but with what suc
 
 There is some talk of placing a bridge across Commercial Street, which in wet weather is almost impassable and very dangerous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

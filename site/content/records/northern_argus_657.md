@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 [Photo of Ian Kleinig, Mr Neil Andrew MHR (who made the presentations) & Mrs Florence Scroop.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

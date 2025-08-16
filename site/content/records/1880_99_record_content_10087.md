@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Cynic’ slings some mud back at ‘Citizen’ and in the process identifies the latter as one who teaches German for 1/- a week.  [Could this be Mr Leibing?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

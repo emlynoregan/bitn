@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 Editorial on Farming in SA. 
 About the ease with which it is taken up by the inexperienced and the lack of a permanent tenant class. More intensive settlement is desirable. There is a need to develop a crop rotation, but as yet there is no systematic scientific study of how to keep land productive or to maximise yields and sustain them. We have come to the end of space — of new land - and therefore must look to these changes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

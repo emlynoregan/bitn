@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  The Skating Rink.  Mr H. Cowan is compelled by ill health to resign his management of the Provincial Elite Skating Rink.  There will be a farewell benefit Grand Fancy & Evening Dress Carnival, including a Frog Race, Boys’ Race, Beginners’ Race etc.  Davey’s Brass Band will attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

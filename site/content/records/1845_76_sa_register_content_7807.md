@@ -30,4 +30,4 @@ The Burra Burra Mine
 
 The Directors returned from their visit to the Mine last Saturday.  One hundred and twenty miners had taken pitches and the prospects of the mine are most favourable.  Cartage on the roads is greater than we have seen for a long period.  The operations of the Patent Copper Company are progressing most satisfactorily.  No apprehension exists as to the leaving of the men and with plenty of fuel on hand no check to smelting is anticipated.  At Dry Creek the Directors passed the cylinder for the great engine, which had left Port Adelaide on Friday.  Mr Freeman is, as on previous occasions, managing the conveyance of the equipment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

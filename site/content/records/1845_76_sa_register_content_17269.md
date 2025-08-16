@@ -33,4 +33,4 @@ It is a Spanish word, corrupted from the Latin ‘merinas’ or Majorinus’ imp
 
 [Further details of this sheep migration are given with a suggestion that transhumance might improve the wool of sheep in Australia as well.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

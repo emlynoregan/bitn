@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Max O’Rell appeared at the Institute on Thursday and gave a lecture on American humour: ‘Jonathan and Yankeedom’.  The attendance was smaller than expected, but those present were highly delighted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

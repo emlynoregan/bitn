@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Harvesting Machines.  The recent trial resulted in no winners for the Government bonus, but G. Marshall was given £120 and James Martin & Co. £80 for their efforts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

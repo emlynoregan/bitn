@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Brummitt stood in for the Mayor, W. West, who could not be present.  Dr Brummitt had known Mr Holder for 14 or 15 years and felt the loss of a close friend and valuable townsman.  When he had been asked to become Mayor he had first spoken to Mr Holder and asked if he would stay on as Town Clerk for without his presence in that role he could not have fulfilled that honourable position.  Mr Holder had been at the forefront of the Flower Show.  He continued to be elected to committees when it was known that he could not attend meetings because members knew he would do more work than those on the committee.  Though there were those who spoke disparagingly of The Avenue when it was formed, it has since become an object of gratitude.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

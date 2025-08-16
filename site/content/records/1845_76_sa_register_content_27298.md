@@ -65,4 +65,4 @@ The jury returned a verdict of accidental death through starvation and exposure.
 
 [Emma Gordon died 2 February 1876 Eastern Plains aged 33 and Alice Gertrude Gordon died 2 February 1876 Eastern Plains aged 5.  The child does not appear in SA Births CD and the marriage does not appear in SA Marriages CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

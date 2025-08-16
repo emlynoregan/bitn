@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Wallaroo Mines are to cease operation due to the depressed state of the copper market; throwing nearly 500 men out of work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

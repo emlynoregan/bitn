@@ -34,4 +34,4 @@ Influenza.  The epidemic is weakening.  Several fatalities have occurred in the 
 
 Reports from around the Mid-North suggest influenza was bad at Mt Bryan and Petersburg, but with few cases at Manoora and only a few colds at Hallett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

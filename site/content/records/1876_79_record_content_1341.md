@@ -32,4 +32,4 @@ publication_slug: record-1876-79
 
 Lodges: Manchester Unity Lodge anniversary dinner held at the Aberdeen Hotel [Royal Exchange] P. Lane (Mayor) in chair, also present, W. Sara, Captain Sanders, W. West, Hillary Boucaut, and Dr. Cave. Reported in SA in 1875 200,000 people of whom 10,000 were Oddfellows. £8350 paid in sick pay & £5400 in funeral benefits. Income £29,700. Widows and orphans fund also helped many. In the toasts Sanders said that the mine was `not very flourishing'. [He was a guest not a member] Burra had 142 members and had been going 18 years. The Burra Brass Band played between toasts etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

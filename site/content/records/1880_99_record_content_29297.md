@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  W.H.T. Pearce died on Tuesday evening and Miss Annie Pearce is still critical.  The results of a post mortem are awaited.  [William Henry Thomas Pearce, born 9 March 1854; died 31 July, aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

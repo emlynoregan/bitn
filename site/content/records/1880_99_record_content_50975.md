@@ -40,4 +40,4 @@ Sparks: What people are asking
 
 ‘Why No. 2 Reserve was not inspected by the Parklands Committee according to the resolution passed at the meeting of the Council held on August 21?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

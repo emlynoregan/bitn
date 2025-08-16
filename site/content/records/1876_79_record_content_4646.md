@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Accident. Last Thursday week Mr George Lock slipped off his van, the wheels of which passed over his left ankle, fortunately resulting in only severe bruising.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

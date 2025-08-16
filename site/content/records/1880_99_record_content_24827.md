@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Co. VF.  Report of the annual meeting from Captain Holder.  The year 1886 began with c. 66. (The previous year had 61 efficient.)  In the year 27 were enrolled, 9 resigned and 81 were efficient.  Since the end of 1886 12 have resigned and 5 enrolled for a present strength of 77.  Attendance has been very good by some, fair by many, and bad by about 20.  Class firing was not good.  We regret the loss of Col. Sergeant Hinde through ill health.  New regulations make the capitation grant much harder to get.  (Details given.) Credit balance £10-12-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

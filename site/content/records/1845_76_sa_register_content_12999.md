@@ -47,4 +47,4 @@ in NSW or Tasmania		9/- for 10 words	6d each additional word
 
 [Prices are given for intermediate towns in SA & Victoria.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

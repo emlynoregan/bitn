@@ -49,4 +49,4 @@ Captain Rodda says prospects at Crinnis’s Mine are good and a good amount of m
 
 Wheal Ellen silver-lead mine has been only operating a year, but prospects are good.  More than 1,500 tons of ore have been raised and it has yielded 90,000 oz of silver and 600 tons of lead.  About 100 men have been employed for some months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

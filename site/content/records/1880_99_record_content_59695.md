@@ -33,4 +33,4 @@ Election Notice.  Mr Holder will address electors at Burra Institute on Tuesday 
 
 On Wednesday other candidates are invited to the platform as well when the speakers will be Messrs Carter, Goode, Holder, Pascoe & Rabbich.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

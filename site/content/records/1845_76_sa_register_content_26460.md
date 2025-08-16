@@ -46,4 +46,4 @@ A complimentary dinner was given at the Aberdeen Hotel to H.J. Hood by young men
 
 [Apart from affirming that Hood was a jolly good fellow, the report does not reveal what he did in the town, or where he is going.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

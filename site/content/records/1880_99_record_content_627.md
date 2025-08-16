@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Henry Pether, late of Kooringa, aged 37, died 15 March, at the residence of his father-in-law, G. Hall, of Edward St, Norwood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

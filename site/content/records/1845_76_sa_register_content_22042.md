@@ -27,4 +27,4 @@ Burra News, 10 June
 
 Rev. Stanton gave an entertainment at the Mechanics’ Institute last Monday evening.  A great deal of land has been ploughed this season.  Farmers are apparently beginning to appreciate this area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

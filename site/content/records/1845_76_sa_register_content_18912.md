@@ -44,4 +44,4 @@ The business employs 200 horses and the stables have room for nearly 50 horses. 
 
 Mr Rounsevell employs some 250 people.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

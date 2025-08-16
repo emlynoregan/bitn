@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Christies gave a performance on Friday night in the Assembly Room in aid of the Institute.  It passed off well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

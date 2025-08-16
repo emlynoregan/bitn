@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Loutit, manager of the National Bank will move to Mt Gambier.  He has been active on the Hospital Board, in the Institute and the Floricultural Society.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

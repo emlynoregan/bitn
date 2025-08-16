@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Oddly enough it was those who claim not to use town water that complained first of its absence.  One problem is the lack of a firm decision by the Government on the future of the plant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

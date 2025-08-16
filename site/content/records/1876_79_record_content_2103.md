@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Crime: A horse was stolen from the Miners' Arms; the thief also breaking into the stables to get the blanket, saddle etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘Oxide’, Mining Notes.  The Burra Fire-brick & Clay Co. seems very slow at getting to work.  I have it on good authority that the clay has been tested at Broken Hill and pronounced second to none in quality.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

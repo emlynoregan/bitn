@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Years 8 & 9 students will be at Barmera and Years 10, 11 & 12 students are doing work experience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

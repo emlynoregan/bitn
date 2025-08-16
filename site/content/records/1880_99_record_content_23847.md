@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  George Maip is selling his market garden in Aberdeen comprising 70 fruit trees, 72 grape vines, 2 wells, a windmill, house, cart and young horse, for £300 as he is leaving the colony.  [This is probably the garden on allotments 105 & 106 referred to in the rate assessment book as a ‘Chinaman’s garden without naming the owner or occupier.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

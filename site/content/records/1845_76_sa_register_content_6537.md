@@ -33,4 +33,4 @@ The NSW gold fever will undoubtedly affect us here.  Prices of provisions will r
 
 The traveller will find prices for provisions have risen hugely.  If disappointed, he will find himself in a colony where wages are half that in SA and employment is always scarcer.  With a £1 per month tax for a licence to work, no slight success will be necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

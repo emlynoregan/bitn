@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Drs Nesbitt & Brummitt visit Hallett every Friday and may make a second visit each week shortly if it should appear necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

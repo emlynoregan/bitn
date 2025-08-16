@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Mayor claimed the Council had been vilified in the press.  We deny this.  The criticism has been plain and open ‘without in any way overdrawing the facts.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

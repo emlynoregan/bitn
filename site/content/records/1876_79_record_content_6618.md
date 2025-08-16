@@ -30,4 +30,4 @@ Obituary. 12 June. George, son of George and Maria Webber, aged 4 years 5 months
 
 [Born 26 January 1875 Kooringa: died at Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

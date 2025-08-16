@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Cornish dialect: A long humorous ‘letter' from Bill Davey - the back page always carried humorous stories and often a chapter of a novel. This one was a Methodist view of the Catholic practice of confession and absolution.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

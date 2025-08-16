@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 R.S. Casely writes saying he had written to Sir Henry Ayers drawing attention to the wretchedly small earnings of tributers working on tailings in the Burra Creek and in some exposed places in the mine.  They were getting £1 a week, from which 5/- was deducted by the company.  Sir Henry has said he will ask the directors to consider ‘whether the tribute can be slightly increased’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

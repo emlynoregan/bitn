@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘His rôle is distinctly politics.  He was a comparative failure as a State School teacher, and as a newspaper man he failed to seize the idea of a far West contemporary that the journalist’s mission is ‘to raise hell and sell newspapers’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

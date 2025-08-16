@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 Burra Scouts’ Jamboree Jig drew a good crowd.  The three-course meal was followed by dancing, games and later a bonfire and sing-a-long.  Five scouts and their leader Rob Letcher will leave for the Jamboree on 28 December.  (Jason Taylor, Ben Letcher, Michael Day, Scott Gardner & Justin Fidock.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

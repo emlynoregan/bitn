@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Thow still objects to using Corporation water at the railways, claiming that firstly it was unsuitable for the engines and secondly they already employed an engine cleaner who attended to the pumping without extra cost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

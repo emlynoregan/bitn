@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Advertisement.  J.S. Barnett advises that in the next week he will open the establishments recently occupied by Mr Taylor, which he has considerably enlarged.  Having purchased the stock-in-trade at half cost price, he will be able to sell the same at such low prices never yet known at the Burra.  He will also continue business at Truro House until his large store adjoining the above premises is finished.  The stock of Truro House is the largest choice of drapery, men’s and boys’ clothing, groceries, ironmongery, crockery, glassware etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

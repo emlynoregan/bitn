@@ -28,4 +28,4 @@ Gold in SA
 
 Some beautiful specimens of gold rock have been found on a section adjoining the Victoria Mine, the property of J.B. Neales Esq.  The gold is in fine laminæ mixed with quartz and sandstone.  Two sets of miners have entered into arrangements with Mr Neales to work the lode for the next twelve months, paying him a handsome royalty and a rental for the land as well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

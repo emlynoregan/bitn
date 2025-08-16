@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Notice.  The New Burra Copper Mining Co. Ltd will hold its first half-yearly general meeting on 21 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Railway Parcel Delivery.  There has been no official resolution of the problem.  Mr Geake has decided to have nothing more to do with such risky speculation.  T.P. Halls is ‘keeping the kettle boiling until some other arrangements are made’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

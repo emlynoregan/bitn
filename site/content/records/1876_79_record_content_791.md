@@ -78,4 +78,4 @@ Redruth Primitive Methodist Church had special services on 6 & 7 August in aid o
 
 A second tea meeting was held on Tuesday.  Proceeds of about £30 bring the total raised for house enlargements for the past three months to £130.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

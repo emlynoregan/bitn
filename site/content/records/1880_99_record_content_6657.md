@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Bon Accord Mine.  We understand the allotments belonging to the Yorke’s Peninsula Mining Co. and the mine property have been valued with a view to their sale to an English company.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 [Warcowie is a Hundred in the Flinders Ranges.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

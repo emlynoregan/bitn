@@ -26,4 +26,4 @@ Wheal Motley Copper Mining Syndicate.
 
 The directors paid the mine a visit on 28 December and are pleased with prospects.  Cockrum’s Shaft is at 91’.  At Green’s Shaft tributers have sunk 20’ and driven 10’ on the course of lode, finding a well-defined lode about 4’ wide carrying good stones of ore.  Another shaft has been sunk 17’, showing the footwall well defined, though the width of the lode was not ascertained, as the hanging wall had not been cut.  This shaft will be continued to 60’.  At Fred’s Shaft about one ton of ore has been raised.  Directors are confident that with sufficient capital the mine can be very remunerative to shareholders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

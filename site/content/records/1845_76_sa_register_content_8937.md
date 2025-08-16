@@ -27,4 +27,4 @@ The Burra Burra Mine
 
 The pumping operations by the great engine have been successful and a message dated 21 January 1855, 6 p.m. says that the water is ‘forked’ and the Mine is secure throughout.  We hope and believe that this auspicious recommencement of operations will soon be followed by a thorough revival of that stupendous activity, which formerly affected so beneficially every commercial and industrial interest in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

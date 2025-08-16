@@ -65,4 +65,4 @@ Flat race over 1 mile	J.A. Watt’s Darkey ridden by Builder
 
 * An accident marred this race when a boy about 9 years old, A. Bowen, was knocked down by a horse and suffered a compound fracture of the thigh.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

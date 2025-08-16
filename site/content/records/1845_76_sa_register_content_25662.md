@@ -54,4 +54,4 @@ Crs Killicoat and McCulloch are to retire by rotation.
 
 The well near Mr Hutson’s is to be filled in by daymen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

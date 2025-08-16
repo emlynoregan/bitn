@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 In the latter part of the year the burlesque ‘The City of Big-Big’ was a lengthy serial piece, which had entertaining moments, but in general it was overly verbose and can have been appreciated by very few subscribers.  Perhaps the ability of readers at the time to identify the objects of the satirical comment sustained interest more than I can imagine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

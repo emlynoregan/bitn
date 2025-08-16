@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 The Harvesting Machine Competition has attracted 22 competitors to try for the £4,000 prize.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

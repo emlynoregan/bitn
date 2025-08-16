@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Terowie Enterprise, a new paper just published by Messrs O’Loughlin & Dawson, is a vast improvement on its predecessor and Mr Dawson’s many Burra friends will wish it every success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

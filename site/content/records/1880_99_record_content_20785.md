@@ -82,4 +82,4 @@ The Mayor thought they would be better to pay one man to do all the inside work 
 
 Cr Ridgway said Cr Sampson’s move was impractical and moved it be left to the Finance Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

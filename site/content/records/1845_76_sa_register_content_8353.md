@@ -39,4 +39,4 @@ Apply to C. Cleve & Co. Currie Street or J.F .Duff, King William Street and Port
 
 [For the loss of this vessel see 27 July 1853, page 2.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

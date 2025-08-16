@@ -31,4 +31,4 @@ Mules and Their Drivers
 
 On Tuesday afternoon between 200 and 300 mules were gathered near Thebarton Bridge.  They belong to the English & Australian Copper Co. and are usually employed carrying copper and coal between Port Wakefield and the Burra Smelting Works.  They were brought from Willaston that morning (26 miles) and were depastured for the night.  They were there to take north some new wagons just arrived from England and which will be loaded with coal for the smelters.  Each mule carried his light harness wound about his body.  The fine dark figures of their Chilean drivers were even more striking.  Some were in traditional dress and wore the large spurs used in South America, with rowels as large as the palms of their hands.  Several paid a visit to Adelaide in the evening, which attracted considerable attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

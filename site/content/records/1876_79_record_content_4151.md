@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Queen's Accession Holiday. The only public entertainment was a cricket match in which 11 from the True Blue team played 11 from the Model School and 11 from F.R. White's Commercial School. The True Blues won by 25 runs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

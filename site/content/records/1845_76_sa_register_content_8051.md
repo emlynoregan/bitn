@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisements.  The shipping news carries notices for some 20 vessels bound for Geelong and Melbourne, many of which are aimed at carrying people to the gold diggings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

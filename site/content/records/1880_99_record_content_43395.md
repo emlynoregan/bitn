@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Sale: household furniture and stock-in-trade of the late W.L. H. Bruse of Commercial St Kooringa will be offered for sale privately beginning 7 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

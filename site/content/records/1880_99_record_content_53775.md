@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  The first match for the season between Burra Juniors and Aberdeen Juniors was held last Wednesday and Aberdeen 5 defeated Burra 1.  [This disagrees with the previous week’s report.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

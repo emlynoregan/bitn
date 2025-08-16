@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Iron Mine Annual Sports Meeting was held on 10 February.  About 500 attended a very successful event.  In addition to the usual flat races and hurdles there was tilting, a three-legged race, an egg-and-spoon race, pole leaping (7’3”), a sack race, and other events for boys and girls.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -39,4 +39,4 @@ Messrs Samuel Drew & Co. have had a grain store erected at Aberdeen measuring 70
 
 Alexander Stewart has had a large hotel completed at Aberdeen in the past few months.  It is called the Bon Accord.  The basement offers large cellarage and has space for an underground tank.  The other storeys contain the bar and a large number of bedrooms and sitting rooms.  W. Beattie was the architect and the contractors were G. & W. Sara.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Football.  On Saturday last 11 Colours played about 13 Non-Colours, but soon the Non-Colours split and the match had to be abandoned.  A game then took place between a side chosen by the Captain and one chosen by the Vice-Captain.  Lott’s Side 1.3 defeated Symon’s Side 0.1.  Sides were not yet following the new rules.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

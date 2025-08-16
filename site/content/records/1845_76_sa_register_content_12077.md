@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Business is flat and dull and some of the larger stores are selling at Adelaide prices or less.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

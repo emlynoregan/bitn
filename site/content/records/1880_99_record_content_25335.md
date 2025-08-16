@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The Government advises that as the subsidy to councils was being withdrawn they would no longer have to pay the police moiety.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

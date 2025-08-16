@@ -32,4 +32,4 @@ The associated purchasers of the two blocks of land immediately north and south 
 
 Shares in the Burra Burra Mine continue to increase in value.  J.B. Neales was recently commissioned to sell ten £5 shares and found a ready buyer at £290 or £29 per share.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

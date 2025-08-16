@@ -55,4 +55,4 @@ Mr Stuart then briefly replied somewhat as follows:
 
 Cheers were given and the bus moved off and the assembly dispersed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

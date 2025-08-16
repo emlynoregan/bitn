@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 M-C Jemison is said to have laid an information against two small girls for minor misbehaviour on a recent Sunday.  If this case proceeds something must be done to put a stop to these petty and trivial cases which are now and again dragged into court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

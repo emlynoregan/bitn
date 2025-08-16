@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 St Joseph’s.  Report on the confirmation visit by the Rt Rev. C.A. Reynolds, Bishop of Adelaide and the blessing of the [new] residence.  Mass was celebrated by Rev. Donald Mackillop SJ coram episcopo.  [In the presence of the Bishop]  Over £20 was collected.  The evening sermon was preached by the bishop who spoke for an hour on ‘The Place of Mary etc.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

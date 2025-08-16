@@ -61,4 +61,4 @@ C.R. Goode.
 
 He had worked in Burra in his youth.  He had been largely connected to the Pastoral and Central Land Boards.  He felt it was good for the Government to sell the outside country and use the money to buy up arable land and settle people upon it.  He did not favour the present secular education.  He wished children to be brought up with a knowledge of the Bible in denominational schools.  He was for capitation grants and against referendums.  He favoured absolute Sunday closing and was for payment of Members of Parliament, but would reduce the level.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

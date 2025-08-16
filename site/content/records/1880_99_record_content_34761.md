@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on Christmas: extolling the importance of Christ’s teachings regardless of one’s belief in his divinity, but deploring the way in which the life of Christ is being used to cloak all sorts of wrong.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

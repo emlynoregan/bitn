@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Notice.  Mr Francis Pascoe is taken into partnership with F.W. Holder at the Terowie office and will assume the editorship of the North-Eastern Times and Terowie News.  This change will not affect the Burra business.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

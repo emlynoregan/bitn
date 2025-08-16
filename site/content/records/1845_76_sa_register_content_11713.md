@@ -31,4 +31,4 @@ A Dangerous Waterhole
 One of Mr Rounsevell’s men was driving a horse in a gig from Adelaide to Kooringa when he turned aside to let the horse drink at a waterhole near the road in the neighbourhood of the Dirty Light.  After stepping in about a yard the horse slipped forward and disappeared with the gig, leaving the driver to swim for his life.  Several similar accidents are reported from the same place.  People told the driver it was useless to try to extricate the gig.  Mr John Rounsevell has decided to try his had at recovering it nevertheless.  So far we have no news of the outcome.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

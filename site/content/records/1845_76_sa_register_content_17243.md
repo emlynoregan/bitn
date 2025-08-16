@@ -28,4 +28,4 @@ The SA Mining Association: 53rd Dividend.
 
 Notice is given that a dividend of 100% on the capital stock of the company, being £5 per share, has been declared by the Directors and will be payable on 2 March next.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

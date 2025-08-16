@@ -46,4 +46,4 @@ Cr Parks agreed, saying Bartle’s account is correct and the Council should pay
 
 [It is hard to follow this given that the Mayor had not accepted the motion, which in any case would seem to require that an earlier motion be rescinded.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

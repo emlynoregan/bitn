@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Holiday Monday this week saw many parties go to Princess Royal or the Lagoon for picnics.  The Redruth Wesleyan Sunday School went to Sod Hut for their picnic.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

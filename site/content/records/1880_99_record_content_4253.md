@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The contractor almost completed levelling the embankment and the job now just needs the roadway to be made good with another coat.  Mr Pearse refuses to do this as he regards it as maintenance and not part of the contract.  The overseer has refused to pass the work.  The matter has been left in the overseer’s hands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

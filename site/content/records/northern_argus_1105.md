@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Sharing & Caring Group will hear Geoff Camp, director of nursing at the Burra Hospital at their next meeting when he speaks on: Life after 60 in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

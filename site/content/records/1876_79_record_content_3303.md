@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Masonic Lodge celebrated Festival of St John with a banquet in the Institute with 30 members present. W.M. Alex. Stewart in the chair & Vice Chair S.W. F.R. White.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  On Saturday night a lamp was dropped in John Hunter’s Boot Palace when a lad was taking it down.  It burst into flames, but they were fortunately extinguished before much damage was done.  The town still possesses no fire fighting equipment!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

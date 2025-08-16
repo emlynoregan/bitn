@@ -28,4 +28,4 @@ Redruth Court, 9 Jan.
 
 Ralph Bartle was charged by Mrs Knevitt for assaulting her son aged 9-10.  Case dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

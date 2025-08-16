@@ -41,4 +41,4 @@ The assessment has dropped by one-third and total income has almost halved.
 
 The large public works expenditure of 1886 increased the overdraft by over £350.  The Council was then bound to be extremely economical, but this makes the job of Councillor barren with little chance of a Councillor leaving any memorial work behind him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

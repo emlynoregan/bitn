@@ -32,4 +32,4 @@ Portion of Allotment 81, Kooringa, together with all the buildings and erections
 
 [Note that this allotment is the corner of Mt Pleasant Road and Market Street; the later site for the National Bank.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

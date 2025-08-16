@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The sanitary aspect was always poor and SAMA took little interest in it till the temporary closure of the mine. As lease rent could not then be paid at the Mine Office a rent collector was appointed and it was he who began to see that improvements were made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

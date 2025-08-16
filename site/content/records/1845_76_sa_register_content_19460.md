@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Wednesday 20 June was observed as a general holiday by tradespeople, but no public amusements were arranged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

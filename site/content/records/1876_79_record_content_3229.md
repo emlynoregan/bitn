@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Some rumours however, suggest that there are potential buyers who would seek to prove the ground in all directions to determine future prospects and find the best portions to work. Indeed speculators seem unlikely to find it attractive in the present depressed state of the copper market as long as the directors are not prepared to sell at an unreasonably low price. The presence of a rich lode at present undiscovered is a much disputed question.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

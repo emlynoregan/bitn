@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Miners are keeping a careful watch on the strike at Wallaroo.  Many have been there and returned unable to obtain wages sufficient to compensate them for the annoyance they had to suffer from the captain who a short time ago was one of themselves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

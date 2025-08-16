@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Redruth Bridge.  Six tenders were received ranging from £1,715-6-5 to £1,904-4-4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

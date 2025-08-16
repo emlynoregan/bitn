@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 There was some confusion over marks.  The required distance had been changed to 5 yards, but now it has been reduced again to 2 yards.  Quiz preferred the 5-yard version.  The remarks imply that the game ran from 3 p.m. to dusk and the first half of it was played without an umpire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

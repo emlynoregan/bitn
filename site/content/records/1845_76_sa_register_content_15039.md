@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Two or three parties left for Wallaroo this week and others are preparing to depart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

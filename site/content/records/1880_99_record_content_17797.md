@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Railways.  The lowest tender for the railway from Petersburg to the border was for £153,569-10-5 by J.McGuire & Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

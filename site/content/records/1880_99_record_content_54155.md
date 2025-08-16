@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Luke Day has closed his doors and says he anticipates a trip to China or somewhere and the Burra Chinese in general have renounced the law courts after their recent costly experiences.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

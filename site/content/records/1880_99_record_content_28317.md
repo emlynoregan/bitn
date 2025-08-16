@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Institute Committee Meeting.  There was a Public Library notice seeking support for the nomination of F.W. Holder as Governor of the Public Library.  There was also a letter from Pt Adelaide Institute advising that F.W. Holder was supported for a seat on the Board of Governors of the Public Library.  It was resolved that the Chrysanthemum Show be on 24 April and entrance be 6d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

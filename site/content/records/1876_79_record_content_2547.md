@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Hospital - received a letter from SAMA asking for £583/10/8, being the purchase money for the hospital and interest. The deeds to be handed over on payment. Resolved that it be paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Editorial on the uselessness now of the School Boards of Advice which no longer render any service to the Department. e.g. Pt Adelaide board asks why schools in their area were closed without any consultation or advice. Even on deciding on who gets a free education the boards don’t decide only recommend; the decision is taken in Adelaide. At present all they seem capable of doing is to protect teachers from frivolous complaints’. This centralisation of power is not sensible.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

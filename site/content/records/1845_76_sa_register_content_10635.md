@@ -71,4 +71,4 @@ A line to Kapunda would capture the Burra traffic and this in turn would mean th
 [Estimates of traffic on the line are then printed and the total is estimated at 20,000 tons.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

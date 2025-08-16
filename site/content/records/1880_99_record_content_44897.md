@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Mr Thomas Edwards and his wife depart on 6 April for England, unfortunately on account of poor health.  Mr Edwards came to Burra some years ago and began a business as a draper.  He has been most interested in the Burra Institute where he has been at times auditor, committeeman, honorary secretary, and president.  He has also been Chairman of the hospital Board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Note the change in volume number: Vol. XIV started on 14 Sep. 1892 and ran only to 30 Nov. 1892]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

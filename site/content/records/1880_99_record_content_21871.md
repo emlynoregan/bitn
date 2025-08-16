@@ -34,4 +34,4 @@ Burra Football Club.  The general meeting last Monday night at the Commercial Ho
 
 There are at present 48 members.  There is a challenge from Hotham Club (in Adelaide) for 24 May, to be played in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

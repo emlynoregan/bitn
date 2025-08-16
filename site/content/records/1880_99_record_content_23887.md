@@ -33,4 +33,4 @@ Few care to attend a lecture or a debate, or even an election meeting.  Places o
 
 ‘A Wanderer’ finds that if Rounsevell was a good servant earlier, of late he has been found severely wanting and self-serving - ‘of late he has been seeking to employ the public force in the service of his individual ideas and desires.’  He disapproves of the banquet proposal and considers it is ‘the destiny of such great men to be merely a burden and a useless wonder to mankind.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

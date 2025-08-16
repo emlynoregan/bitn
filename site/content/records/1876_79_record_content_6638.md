@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 South Ward Election. Last Monday at noon no candidate had come forward. There were three ratepayers from the ward present and Mr T. Drew was proposed 2"d and elected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

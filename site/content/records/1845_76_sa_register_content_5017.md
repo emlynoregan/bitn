@@ -28,4 +28,4 @@ John P. Winchcombe charged Joseph Jones with taking away a bridle.
 
 The evidence reveals a rather trivial matter and Jones was fined 5/- with 27/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

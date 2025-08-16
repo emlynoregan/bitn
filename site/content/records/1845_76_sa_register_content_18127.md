@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 There were some races at Mt Bryan Flat Hotel that attracted a few Burra people.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

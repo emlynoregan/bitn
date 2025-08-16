@@ -38,4 +38,4 @@ St Mary’s Jubilee.  The old church was originally built on Limestone Hill and 
 
 [According to St Mary’s Church Burra: The First 150 Years, by John Devenport (1997) Rev. Bagshaw was the first resident priest, arriving in 1847.  A slab building was erected for a schoolroom and also served for services on Sunday.  He was invited to Penwortham in 1850.  Old St Mary’s was not built till Rev. James Pollitt’s time.  He was appointed on 3 April 1850.  Money was being collected for a church building and by 1849 over £700 had been raised.  The SA Church Society donated £150.  Old St Mary’s would seem to date from 1852.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

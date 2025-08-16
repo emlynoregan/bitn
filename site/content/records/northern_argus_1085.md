@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Burra Community Library held its AGM last Wednesday.  Elected: Chairman, Mrs Sue Warnes; Vice-Chairman, Mrs Helen Stockman; Secretary, Mrs Betty Thamm and Treasurer, Mrs Tess Hopkins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

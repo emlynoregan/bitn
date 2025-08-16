@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr E.F. Brady is off work for a few days following an accident on Tuesday.  He was repairing a bisulphite tin at his Commercial St Shop when it exploded, burning his neck and right side of his face.  Luckily his right eye escaped serious injury.  Dr Sangster attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

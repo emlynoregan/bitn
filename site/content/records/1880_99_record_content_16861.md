@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Professor Gilbert’s lecture was given last Tuesday at the Institute on The Physiognomy of Intemperance and Crime.  His view was that ‘no use of alcohol was anything but abuse.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 A total of $15,957 went to Burra National Trust to help with its heritage work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

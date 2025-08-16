@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Juvenile Missionary Society met on 30 April at the Wesleyan Schoolroom.  The collection raised £2-3-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

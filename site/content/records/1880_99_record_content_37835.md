@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church tea meeting on Wednesday last was well attended despite the bad weather.  The Burra Brass Band played selections and the total result of the effort was over £30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

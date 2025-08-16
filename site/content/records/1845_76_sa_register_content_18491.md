@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  Tenders will be received to 1 June for fencing section 748 Hundred of Hanson of 159 acres near Gum Creek Head Station with a top rail and 4 wires.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

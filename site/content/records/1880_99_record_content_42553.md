@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Two young men called Sugars were kangarooing at Baldina last week when one was thrown from his horse and he has remained unconscious for five days.  Since Wednesday his condition has been critical.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -80,4 +80,4 @@ The diggers are mostly housed very poorly in gunyahs, which offer little protect
 
 There are recent reports of 85 teams and over 200 men camped at Mary’s Lane en route for Ophir.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

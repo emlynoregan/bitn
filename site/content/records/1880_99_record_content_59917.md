@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Football.  A general meeting of the Burra Football Assoc. on 30 April at the Commercial Hotel elected: President, P.L. Killicoat; Chairman, George Parks; Captain, A. Wade and Secretary, H.L. Austin.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

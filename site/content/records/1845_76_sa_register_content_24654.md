@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Cattle Drive.  Last Week two mobs of cattle, 500 in each, passed east of Burra, bound for the Northern Territory.  They were in charge of the owners Messrs Gilbert and Bagot.  Both mobs will join at the Barrier Ranges before going on to Strangways Springs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

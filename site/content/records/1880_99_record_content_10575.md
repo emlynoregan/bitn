@@ -29,4 +29,4 @@ G.H. Catchlove & Co. call tenders to undertake work at Opie’s Hotel.
 
 2.	For stuccoing the two front walls of the house and repairing the same inside.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary & Inquest.  An inquest was held on the body of Dick Spencer, aged 10, son of John Spencer, farmer near Booborowie.  The lad drowned in a dam on the property.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

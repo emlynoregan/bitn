@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Leighton (late Baldry): A correspondent reports that the change of name was forced by the post office for unknown reasons when they would only open a post office if Baldry went. A school has also been opened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

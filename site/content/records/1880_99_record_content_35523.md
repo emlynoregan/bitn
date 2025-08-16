@@ -57,4 +57,4 @@ The article provides some lovely quotes of which the following give just a taste
 
 ‘The principal products of SA are horsemen, larrikins, land agents, and silver rafflers.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wednesday 19 October, lecture by Rev. Fr O’Dowling SJ of Norwood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

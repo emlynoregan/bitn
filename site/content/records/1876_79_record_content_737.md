@@ -53,4 +53,4 @@ Income from the extension of the railway to Hallett will also be ceasing by then
 
 The lack of early road connections still hinders development.  Trade with the Hundred of Bright would be easier with a road along the creek through Princess Royal property.  The alternative route over Breakneck Hill is difficult and discourages trade from Bright.  Parliament has the power in the Land Clauses Consolidation Act to obtain the more direct and flatter route; otherwise the Bright farmers will travel south to Farrell’s Flat at a loss to Burra’s trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

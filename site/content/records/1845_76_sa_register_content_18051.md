@@ -52,4 +52,4 @@ Booborowie run is two thirds burnt and the head station saved only with great ex
 
 There are as yet unconfirmed reports of several people lost and shepherds burnt.  Mr Armstrong of Booborowie sent for help to Mr H. Dawson in Kooringa and 20 to 30 men went out to assist.  They would have achieved little had not the wind changed at 7 o’clock.  At one time the front was over 20 miles wide.  It would have spread even further had not the burnt ground from previous fire prevented it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

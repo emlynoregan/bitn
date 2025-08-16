@@ -27,4 +27,4 @@ Mintaro News, 7 March
 
 The harvest is now in and much hay was cut this year for Burra, but the stoppage at the Mine has cast a gloom over the area.  At present prices hay will not pay for more distant transport.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

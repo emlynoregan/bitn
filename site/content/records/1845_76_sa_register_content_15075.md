@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Primitive Methodists this week held their annual conference meetings here.  There were special services and a camp meeting.  On Sunday morning a large number of people paraded the streets and stopped at street corners for prayers and exhortatory addresses.  They then proceeded to the Paddock; a vacant piece of land north of the township, where the rest of the morning was devoted to devotional exercises.  In the afternoon a large gathering was held there for the same purposes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

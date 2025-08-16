@@ -32,4 +32,4 @@ Notice: Kooringa & Blinman Royal Mail Coach
 
 McDonald & Hoskins inform the public proceeding to the Northern Territory that they have taken the mail contract from Kooringa to Blinman via Melrose and Kanyaka, departing Kooringa at 5 p.m. Friday and arriving at Blinman 3 p.m. Sunday.  The coach departs Blinman 11 a.m. Monday and arrives Kooringa 4 a.m. Wednesday.  (No connection with Cobb & Co.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Burra Hospital.  It would scarcely seem necessary to explain the advantages of h
 
 A person’s home often lacks the skilful nursing that is required by the victim of an accident, or those suffering a lingering disease.  ‘This is largely excepted to, but that a sick nurse requires special training is now accepted in England as a self-evident truth.’  Even that rare bird, the born nurse, would be none the worse for proper training.  Invalid cookery is an art in itself.  Private homes also often lack necessary space and good ventilation.  There is in Burra a need for a properly furnished hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

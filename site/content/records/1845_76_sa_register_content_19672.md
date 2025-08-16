@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Kooringa Primitive Methodist Chapel Anniversary Services were held last Sunday, Monday and Tuesday.  Rev. Read of Norwood preached twice on Sunday to large congregations.  On Monday 300-400 sat down to the usual tea and the public meeting followed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

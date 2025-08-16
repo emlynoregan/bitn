@@ -42,4 +42,4 @@ Accident.  On Monday a little son of Mr J. Edwards, butcher, was thrown or fell 
 
 Accident.  Today Mr Whitford, a hawker, has been brought in by Mr Edwards, the butcher, with a very badly broken shin bone.  Apparently he was driving his cart on the road towards Crossroads when the reins slipped from his hand and the horse bolted.  He jumped down in an attempt to catch the horses’ heads, but fell and fractured the bone just above the ankle.  The bone punctured the skin and made an awful wound.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

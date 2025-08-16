@@ -49,4 +49,4 @@ Other speakers were Jos. Wood, and Mr Challoner who in proposing a toast to the 
 
 [The report of other toasts indicates the presence of J. Pearce, Mr Barker, Mr T. Burgess, Mr H. Fry, Mr Sampson, Mr T. Bath, Mr Bryant, Mr W. Woollacott, Mr J. Wood and Mr Henry Miller.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Methodist Union.  Papers were distributed at the Methodist churches last Sunday to let members say whether Methodist Union will be adopted in Burra or not.  Results will take some time to collect.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

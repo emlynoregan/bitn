@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The late Mrs Edlin was for several years a resident of Burra and ran a young ladies' school. Her friends and old pupils will regret her passing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

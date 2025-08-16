@@ -34,4 +34,4 @@ There is a report in Langford’s ornate style of the visit to the town of the s
 
 [This item doesn’t say when, but a letter to the editor places it on the previous Monday night.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Football.  A Burra 13 played a Riverton 15 at Riverton 7 May
 
 A draw in Riverton’s favour.  Riverton 0.6 to Burra 0.3
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

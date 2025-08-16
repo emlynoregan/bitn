@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  The Hallett Institute Anniversary Athletics Sports and Entertainment ending with the farce ‘More Free Than Welcome’ will be held on 9 November.  MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

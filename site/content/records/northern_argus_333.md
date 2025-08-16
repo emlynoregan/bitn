@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Burra DC at a special meeting on 15 October decided to lodge an appeal against the recent decision of the Industrial Court in favour of reinstating Ronald A. Moreland.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

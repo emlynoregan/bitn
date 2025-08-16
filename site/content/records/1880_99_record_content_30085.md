@@ -33,4 +33,4 @@ Every practical Burra miner seems to firmly believe the mine is far from exhaust
 
 Rapidly advancing science could also make viable the ¼ million tons of waste heap estimated to average 4% copper.  It is time, with copper at its present price, for something to be done.  Presently tributers are earning fair wages and even their crude and laborious methods suggest what might be done with proper methods.  Disposal of the property to another entity would boost the value of the company’s assets in the town.  Raising capital may be made difficult by recent failures of speculations, but here the ore body is proved.  Remember that the original capital invested was a mere £12,300 and the dividends were £800,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

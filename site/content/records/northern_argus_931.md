@@ -38,4 +38,4 @@ A yearly statement is presented at the annual public meeting attended by very fe
 
 ‘Stop grumbling and uttering false statements among the people of our community.  I am available at most times to answer queries in a sensible manner.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Elections.  Mr Ridgway has complained of not being reported in the Record.  We say he has only spoken once and that at an outside meeting in Market Square.  Had he addressed a meeting like the other candidates we would have reported him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

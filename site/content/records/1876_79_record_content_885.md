@@ -35,4 +35,4 @@ J. Rookwood of Kooringa expresses his disgust at the state of the cemetery at Ko
 
 He says the cemetery ‘as a disgrace to a Christian community cannot be equalled in the whole of Australia.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

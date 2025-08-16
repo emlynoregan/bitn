@@ -31,4 +31,4 @@ Over 200 yards Col. Sgt Watt 29 from Pte Hardy 28 and Lieut. Butterworth 25.
 
 Over 300 yards Watt 28 from Hardy 23 and Butterworth 15.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

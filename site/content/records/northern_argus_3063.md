@@ -29,4 +29,4 @@ Obituary.  Ernie Zanker died at Burra Hospital recently.  When younger, Ernie di
 
 [Born John Ernst Zanker 10 August 1902 Pekina: died 10 September 1987.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

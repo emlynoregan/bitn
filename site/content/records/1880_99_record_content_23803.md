@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Tenders are invited by the Wardens, John I. Sangster and George B. Hill, for the purchase of seats, fittings etc. at the Church Building on Limestone Hill.  [Old St Mary’s.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Joseph’s held a solemn requiem mass last Wednesday for the Very Rev. Father Beckx [sic] 1795-1887, General of the Society of Jesus who had died in Rome.  [He gets a column of detail.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

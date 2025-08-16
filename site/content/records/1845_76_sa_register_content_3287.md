@@ -65,4 +65,4 @@ A £5 a-side match followed between John Fortune (black Jack) and Tom Kelly (Sno
 
 It is rare and remarkable that neither pugilist drew blood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

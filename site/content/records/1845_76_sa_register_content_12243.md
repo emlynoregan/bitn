@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Mr Du Pre has been exhibiting his fire-eating and sleight-of-hand tricks at the Miners’ Arms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

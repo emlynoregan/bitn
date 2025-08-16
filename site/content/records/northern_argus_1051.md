@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 [William Alfred Field born 21 December 1919, Kooringa: died 2 April 1986.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

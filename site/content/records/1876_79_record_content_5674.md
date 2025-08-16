@@ -33,4 +33,4 @@ The cost of coal makes it impossible as an alternative except perhaps at some se
 
 Editor re the Health Rate Meeting
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

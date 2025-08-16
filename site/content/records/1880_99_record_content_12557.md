@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Obituary.  James Watt, aged 25, died at Comesty, Forgue Aberdeenshire, Scotland on 13 January.  He was the son of James and Margaret and brother of J.A. Watt of Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

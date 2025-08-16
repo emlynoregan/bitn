@@ -49,4 +49,4 @@ At the Bon Accord Mine Mr Brown of the firm of English & Brown is bringing the b
 
 There are accounts from the north of the cattle sent up to the new country.  One is of a mob of 200 at the Lake from 700 that started out.  Messrs Humphreys and Barker are at Termination Hill. [Just west of Lyndhurst.]  They are waiting with their mob for rain to get over the remaining 80 miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

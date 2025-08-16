@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Ambulance.  Burra has received a van from Adelaide to serve as the Burra Ambulance Van.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

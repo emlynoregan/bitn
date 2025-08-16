@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Hallett Institute. There is a 1⅓ column report on the establishment of an Institute at Hallett. The meeting raised £43 to start it off.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Warnes produced evidence of traffic flows for the week ending Feb. 19 showing: 121 loaded drays used the World's End Road & 26 loaded drays used the Baldina Road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

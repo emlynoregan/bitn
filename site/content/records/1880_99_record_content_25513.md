@@ -51,4 +51,4 @@ The Women’s Queen Victoria Jubilee Fund seeks signatures from women on an addr
 
 J. Stuart Wayland, the Anglican incumbent, writes a letter expressing disappointment that the Institute is being used by Miss O’Gorman ‘whose mission is calculated to introduce religious discord and to fan the embers of religious hatred in this town’.  The committee has a by-law, which does not allow the hall to be used for religious purposes.  This has been enforced so why not in this case.  Is it a case of needing money, if so, ‘the depression has brought us very low indeed’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 A disgraceful ‘tinkettling’ case on the occasion of a recent wedding has given rise to a court case.  One of the pranksters has been charged with creating a disturbance and breaking the peace.  The case has been remanded to the Full Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

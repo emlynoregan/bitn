@@ -40,4 +40,4 @@ J.W. Macdonald SM, the Returning Officer for the District of Burra and Clare, at
 
 St Mary’s Sunday School held its annual tea-feast, at which some 70-80 children assembled for tea and cake.  Rev. Ibbetson distributed suitable prizes in the evening.  He put a great decrease in the number of scholars down to the lack of teachers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

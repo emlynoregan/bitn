@@ -77,4 +77,4 @@ Margaret O’Brien.  Servant to Mr Stanbury.  The door of my bedroom goes into t
 
 The verdict was of accidental fire with no evidence as to its origin.  Besides the insurance on the stock, the buildings were insured in the South Australian for £550, but £100 of that was for the dwelling house so the loss to the office will be £450.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

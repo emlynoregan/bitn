@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  James Diamond was expected to run at the Foresters’ Sports on Boxing Day in the Sheffield Handicap, but failed to appear.  In fact, he committed suicide on 30 December.  Deceased had been barman of the Stanley Hotel in Clare.  [Died 30 December 1889 aged 27.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

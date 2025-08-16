@@ -38,4 +38,4 @@ At first the idea was to ban all Sunday trade, but for travellers over 10 miles.
 Rev. W. Richards moved that: ‘A Sunday Closing Act conduces to morality’. 2nd Mr Sleep and carried unanimously. 
 Mr Holder moved ‘That this meeting pledges itself to support those candidates for the Upper House who are favourable for a Sunday Closing Act’. The Bill repealing Nock’s Act had passed stages 1 & 2 in the Lower House with big majorities and the Upper House was the only hope of stopping it. Mr W. Pearce 2nd Rev. Jenkins moved and amendment that the meeting pledge themselves to vote for those candidates who were in favour of the Nock’s Act provided they believed them to be as good in all other respects as other candidates. Mr Burrows Carried — but the majority in the hall were not in favour of either the amendment of the motion. [Presumably this suggests many abstentions on this issue.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

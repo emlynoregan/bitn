@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Art Union with 200 tickets at 5/- each.  65 prizes from £5-10-0 down now exhibited at the Institute.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

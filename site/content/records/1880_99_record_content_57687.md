@@ -26,4 +26,4 @@ Burra Town Council.  How We Got the News.
 
 ‘We have invented a machine by which we can now get reports from headquarters without the slightest difficulty, and we intend to further explore the little games which are being carried on.  Extreme uneasiness has prevailed on account of us merely mentioning the fact that an account for wood had been introduced but rejected, etc, consequently there are razors flying in the air.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

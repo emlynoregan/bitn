@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 2nd Leader Fire & Water.  When a water scheme was installed in Burra it was said it would greatly aid in fire control, but such has not been the case.  Why has Burra not a fire brigade, or even a hose and hydrant?  Not once since the Waterworks was built has the water been applied in fighting a fire.  Who should pay?  We say it is the businessmen, as all their premises can be reached from the main pipe.  The insurance companies and the Corporation should also contribute.  A hose and hydrant would be a good start - kept at the police station in Kooringa.  The fire at Mr Watt’s shop on Thursday upholds our point.  All that could be applied was water from a tap delivering 80 gallons per hour.  Another thing needed is for the Council to clear all the fireplugs - some have not been seen since they were laid down.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

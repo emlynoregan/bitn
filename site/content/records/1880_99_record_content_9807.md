@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Schutz and Morrison were each fined 10/- + 10/- costs for employing an unlicensed person to drive a cab on Easter Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

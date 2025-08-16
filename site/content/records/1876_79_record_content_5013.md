@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Crops from Burra to Riverton this year are very patchy — some promising a heavy yield and others less than a bag per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

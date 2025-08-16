@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 J. Jude quoted for a basement of Melbourne bluestone and a superstructure in Sydney brown freestone at £91,283-14-10 plus £45,092-3-6 for the portico and tower.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

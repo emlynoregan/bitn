@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  Another advertisement of W.W.G. Nicholls advises the departure of the Reformer to Burra Burra via Bagot’s Mine next Monday.  [This advertisement is in the form of a piece of doggerel running for 28 lines.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

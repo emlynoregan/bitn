@@ -85,4 +85,4 @@ Cr Walsh moved the resignation be received and the fine be not imposed.
 
 It was resolved that nominations for a replacement Councillor be received on 1 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

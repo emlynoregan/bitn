@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Earthquake of 10th May was followed by 11 tremors that shook Kingston (SE) on Thursday 13th.  In Robe cracks several chains in length opened and in one part of the town land has subsided a metre or more.  The fissures have filled with water in some places.  [A comment on page 3 says over 100 aftershocks were registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

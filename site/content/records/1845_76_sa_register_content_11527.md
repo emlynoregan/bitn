@@ -58,4 +58,4 @@ The coal discovery recently reported from near Kapunda has been found to be a ho
 
 We do not believe there is a coal field at Port Lincoln, though specimens have been sent from there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

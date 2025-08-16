@@ -34,4 +34,4 @@ Near Drowning.  Yesterday afternoon at quarter to five a son of Mr Charles Fuss,
 
 [This would seem to have been Robert Lawrence Fuss as his elder brother Raymond Lloyd, apparently went to Copperhouse School until June 1896.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

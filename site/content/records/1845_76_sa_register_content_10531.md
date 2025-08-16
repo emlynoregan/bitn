@@ -39,4 +39,4 @@ The Under-Secretary has replied that, while the establishment of such a Commissi
 
 [The editor said he believes that it will doubtless be one item to engage the early attention of the new Parliament.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

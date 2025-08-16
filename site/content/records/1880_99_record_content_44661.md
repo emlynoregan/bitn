@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Salvation Army marched through Hallett with a Brass band on Wednesday 2 March and held a successful tea meeting later.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

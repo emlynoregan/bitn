@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Juvenile Missionary Society meeting was held at the Kooringa Wesleyan Lecture Hall last Thursday with Rev. R.M. Hunter presiding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

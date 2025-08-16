@@ -26,4 +26,4 @@ The profit and loss statement for the six months ending 30 September 1853 shows 
 
 The quantity of ore on hand at the surface is 2,126 tons and the quantity of metallic copper yet to be realised is 328 tons.  There is a balance of £27,753-11-7 available for dividends.  Some time must elapse before the proceeds of copper and copper ore can be matured, so it is not proposed to pay another dividend before 3 March 1855.  After that time, with the return of labour, there is every expectation that quarterly dividends can be resumed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

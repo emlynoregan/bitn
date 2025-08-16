@@ -34,4 +34,4 @@ publication_slug: sa-register
 
 Obituary.  Mr Joseph Peacock was the eldest son of the Hon. W. Peacock and arrived in SA with his parents on the Glenalvon on 28 December 1838.  He has been associated with his father in the well-known firm of W. Peacock & Son, tanners and merchants of Grenfell Street.  In the second Parliament under representative government Mr Peacock was returned for the Sturt District along with John Hallett.  He was a director of the National Bank and a Trustee of the Burra Mining Co.  He was twice married; first to Miss Gooch who died soon after the marriage and secondly to Miss Haughton.  He had one child by his first wife, which died in infancy and three daughters by the present Mrs Peacock, the eldest of whom is 8.  He fell ill soon after the opening of Parliament on 5 July and died on 25 July in his 43rd year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

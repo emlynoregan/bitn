@@ -33,4 +33,4 @@ Redruth Court.
 
 Thomas Builder, in the employ of Messrs Bagot, Shakes & Lewis was charged by the Inspector, J.R. Gray with driving loose horses through Commercial St on 18 October between the hours of 10 and 11 o’clock.  As Gray did not see them he relied on W.H. Hardy’s witnessing the event and he had laid the information.  In the witness box Hardy denied having said Commercial St – it had been Market Square.  The case was consequently dismissed with 15/- costs to the Council.  Why didn’t Hardy get the summons amended?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

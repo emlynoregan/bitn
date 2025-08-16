@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Victorian Railways.  Among new proposals is a line from Dimboola to our border (63 miles) to join the SA line now being built.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

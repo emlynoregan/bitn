@@ -41,4 +41,4 @@ The Main North Road
 
 On the branch to Clare a little over £12,000 was spent in 1855.  The new bridge and approaches over the Light at the Burra Company’s crossing are complete also the new bridge and approaches over the Gilbert near Forrester’s.  A new line of road has been opened near Forrester’s, another between Baker’s public house and Auburn and a third between Leasingham and Watervale.  A bridge has been built over Jacob’s Creek by the District Council of Clare, by means of a grant from the Board.  Nevertheless, only a trifling distance along this road has been metalled.  Fencing along this route will also render parts impassable in winter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

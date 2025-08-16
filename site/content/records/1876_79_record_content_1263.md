@@ -34,4 +34,4 @@ Obituary.
 
 Messrs Lunn & Fuller drowned in Porter's Lagoon when their boat overturned [Coroner later blamed wind, waves and weed.  William Henry Lunn died 3 October 1876 Porter’s Lagoon, residence Clare and Charles Henry Fuller born 7 May 1856 Adelaide: died Charles Henry Harwood Fuller 3 October 1876 Porter’s Lagoon, residence Adelaide & Clare.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

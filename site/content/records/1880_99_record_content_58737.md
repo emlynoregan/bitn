@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Assault.  Mr R. Cox of Redruth was unharnessing the horses from a trap in Messrs Elder, Smith & Co.’s yard in Kooringa on Monday night when he was brutally assaulted by a man named T. burns who lives in Paxton Square.  The matter is in the hands of a solicitor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

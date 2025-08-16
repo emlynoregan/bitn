@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Oddfellows Lodge MU reports 307 members and has £4,870 lent on mortgages of total funds of £5,094.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Midland Road Board.  The Government has agreed to advance £2,000 so the Board can spread road metal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Another cryptic reference says ‘The Burra correspondent of the Jamestown paper says that some of our high flown nabobs have been living in the black slums of immoral life and now he finds them paying the penalty, walking sticks being the order of the day.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

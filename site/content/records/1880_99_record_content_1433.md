@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Literary Society met on Friday and discussed Dr Brummitt’s paper on Tobacco and Smoking.  Dr Brummitt and Mr Holder supported the paper and Dr Sangster and Mr Cater opposed it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -55,4 +55,4 @@ As far as housing ‘the township could boast of nothing better in appearance th
 
 Herein is a peculiarity, the likes of which is never met with elsewhere; and stranger still, the inhabitants have become so familiar to the poverty of exterior by old association of memory, that like labourers when taking possession of recently-ruined castles, they think themselves very grand, and expect strangers to imbibe the like notions, which would certainly be another peculiarity if adopted.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

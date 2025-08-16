@@ -33,4 +33,4 @@ The principal residents went to Adelaide for the celebrations.  Those who remain
 
 Residents are endeavouring to form a District Council to be called the District of Stanley.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

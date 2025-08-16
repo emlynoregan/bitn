@@ -31,4 +31,4 @@ Notice.  Rev. D. O’Donnell of Clare will give a lecture at the Burra Institute
 
 On Monday 7 August he will lecture at the Burra Institute on ‘Tom Hood, his Life, Character and Works.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -46,4 +46,4 @@ Those most acquainted with the mines concluded that if the calculations were bor
 
 [The Editor expressed the view that the prospects of success were even more favourable that the Doctor and his associates had ventured to suggest.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

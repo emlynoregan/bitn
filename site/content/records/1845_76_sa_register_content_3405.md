@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Accident.  Fears are held for the safety of Mr S. Marks, of the Hindley Street firm of M. & S. Marks.  The horse he lately rode to Kooringa, and one he led, arrived there without him, with spots of blood clearly on the saddle.  His brother left the city last night for Kooringa to ascertain his fate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

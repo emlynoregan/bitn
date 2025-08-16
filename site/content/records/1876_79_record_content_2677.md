@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Kangaroo Hunt. Meeting to organise same called at Miners' Arm on 10 Aug. but the men watched the billiards so nothing was resolved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

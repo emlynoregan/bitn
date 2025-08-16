@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 McBride Cottages in Chapel Street have been given by the McBride Cottage Trust (along with money accrued from rents) to the Burra Burra DC.  The Council and the SA Housing Trust will now re-develop the row to become one-bedroom units with new kitchens, bathrooms and laundries.  With the money accrued the Council has purchased a block of land [diagonally] opposite the Kooringa Hotel and the SA Housing Trust intends to construct a group of aged person’s cottages there and on the block alongside the old Salvation Army Citadel.  Plans are being drawn up to blend in with the type of architecture in the area.  The balance of the funds in the McBride Trust will be used to landscape the vicinity of the Chapel Street row.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

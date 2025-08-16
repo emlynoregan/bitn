@@ -71,4 +71,4 @@ Cr Rabbich moved the by-law be printed.
 
 Cr Sampson gave notice he would move at the next Council for a call of Council to rescind the minute of 17 December 1894, which gave all printing for 1895 to the News office.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

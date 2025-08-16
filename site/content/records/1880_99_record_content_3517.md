@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 John Sampson Jun., who had bought the Spalding mail run from Opie said that the price included four horses of which only two had been delivered in a reasonable time and when they were ultimately offered they were in such a bad condition that he would not take delivery of them.  Verdict for plaintiff £10 + costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

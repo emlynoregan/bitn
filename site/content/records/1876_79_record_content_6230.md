@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Rifle Club. All rifles lent to the various Rifle clubs must at once be returned or paid for - see the secretary of the Burra club. It is a pity a Rifle Company cannot be enrolled here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

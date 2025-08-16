@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Bible Christian Mutual Improvement Association held an inaugural meeting in the schoolroom last week.  Rev. Thomas Allen was chairman.  A pleasant evening was spent and £6 was collected.  It will go to the library fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

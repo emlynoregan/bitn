@@ -27,4 +27,4 @@ Burra Waterworks.
 
 As wished for by ratepayers the Council resumed control of the Waterworks in March with a three-year lease.  Council has to pay interest at 5% amounting to £425-6-0 p.a.  Costs to the Corporation including sums owing to the Government in March being £663-7-10.  Rates to date are £521-6-8 with more to come and it is expected the year will conclude with a small credit balance after meeting the old debit of £69.  115 spare meters were returned to the Government and earned £324 credit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

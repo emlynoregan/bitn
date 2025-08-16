@@ -29,4 +29,4 @@ publication_slug: northern-argus
 Grasshoppers are approaching Burra from the east despite extensive spraying in the Thistlebeds, Glenora, Poonunda and Caroona areas.  There are band of them just east of the hills.  So far there has been no crop damage, though some pastures have been affected.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

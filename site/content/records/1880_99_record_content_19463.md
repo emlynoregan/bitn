@@ -28,4 +28,4 @@ Ah Hing v. George Craddock for assault.
 
 Ah Hing said that on entering a hotel in Kooringa the defendant abused and later assaulted him.  Craddock fined £2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

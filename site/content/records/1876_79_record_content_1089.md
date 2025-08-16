@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Pig and Whistle Hotel; Samuel Davis Prop.; enlarged with assembly room, stockyards, stables and secure paddock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

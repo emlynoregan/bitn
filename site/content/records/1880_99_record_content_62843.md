@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cricket.  Last season St Mary’s Parish Cricket Club played 5 games and lost none.  Best batting was J.E.H. Winnall with an av. Of 68.5 and best bowler was M. Gurry who took 7 wickets for 28 for an av. of 4.  But G. Herbert took 21 for 101 to av. 4.81.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Railway. The track is laid as far as Quorn and should be opened to there in a few weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

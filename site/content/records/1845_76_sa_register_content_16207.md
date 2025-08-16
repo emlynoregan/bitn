@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 On Tuesday the second anniversary of the Wesleyan Mutual Improvement Society was celebrated.  A public tea meeting was held in the Wesleyan Schoolroom.  A large number attended and Rev. T. Lloyd, President of the Society, presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ Temperance in Kooringa.  No meetings are reported of the original Total Abstinen
 
 Two Bands of Hope are operating.  That of the Wesleyan Church has held nine meetings, obtained 25 signatures and numbers 137 members, with an average attendance of 80.  The Bible Christian Band of Hope has held 23 meetings and during the year obtained 97 signatures, being the present number of the Band and three intemperate persons have been reclaimed.  There is also an active Band of Hope at Copperhouse as well as one at Glendore (Black Springs).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

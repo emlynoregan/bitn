@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 A Special Steam Train passed through Burra on the Queen’s Birthday long weekend en route to Peterborough and returned at night.  This may be the last steam train going to Peterborough as AN has announced plans to remove the track north of Hallett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

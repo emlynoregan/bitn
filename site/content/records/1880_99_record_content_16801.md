@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘SMITH’ once again at length on Sudan.  He raises many points, which are supported with quotes and evidence to bolster his opinions, but the editor comments that he fails to question the moral responsibility of the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

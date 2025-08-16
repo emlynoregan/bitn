@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Captain Hart addressed the crowd.  [He began with a conventional lot of platitudes before any policy statements.]  He favoured a tramway to unlock the mineral wealth of the Far North.  He wanted a more liberal Land Act to reflect the depressed economy of the times.  He was against changes to the Real Property Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

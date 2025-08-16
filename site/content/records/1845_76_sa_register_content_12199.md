@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 Weather.  There was a dreadful dust storm at the end of last week, after which the weather has been cool and pleasant.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ Runaway Sailors
 
 [This article reveals that captains are having troubles with sailors deserting their vessels.  This not only leads to costly delays, but may lead to the ship sailing with unknown and incompetent crew in place of sailors who had been hand-picked for the job.  It then goes on to consider the state of the law on the matter.  One possible solution suggested is a sort of pass or passport.  Several masters had sent a Memorial to the Lieutenant Governor H.E. Frederick Holt Robe Esq. concerning the inefficacy of the present law.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

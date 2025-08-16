@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Executions of the rapists in Sydney was carried out on Friday at Darlinghurst Gaol.  Two were reprieved and four hanged with about 120 witnesses, but it was reported to have been a botched job.  [There was a detailed report of the executions on page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

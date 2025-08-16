@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Jenny O’Connor is 46 and a mother of five.  She is Burra’s Tourist Officer and is descended from a family with Burra connections over 6 generations.  She has had a ten year connection with Burra Scouting and five years as leader of the Cubs.  She has an interest in improving facilities for the young of the district.  She also has a long connection with Senior Citizens (Her mother Mrs Ryan was President of the Pensioners’ Group for 17 years before the Senior Citizens was established).  She has been a member of the National Trust for 18 years and a school bus driver for 13.  She is committed to the town’s heritage and sees tourism as Burra’s industry of the future.  She believes in open communication.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

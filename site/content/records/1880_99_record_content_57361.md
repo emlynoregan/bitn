@@ -27,4 +27,4 @@ Burra District Council, 8 June.
 
 A committee that was appointed to wait on the Corporation of Burra about the fencing of the west side of the stock road reported and it was agreed to have the boundary between the two Councils defined, after which a decision would be made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

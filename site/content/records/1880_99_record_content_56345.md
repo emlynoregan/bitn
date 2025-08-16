@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra School.  Miss Georgina Temperley Harrison has been appointed pupil teacher in place of Miss Clode who resigned.  Miss Gertrude Jordan is a paid monitor from 1 March 1895.  Master Gilbert Lewis has passed his examination for the agricultural scholarship and will go to Roseworthy College.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. With the change in ministry a new deputation went to the Commissioner of Public works urging an undercrossing near the Bon Accord Hotel to the mill - 6.5 chains north of the level crossing. Still claiming the crossing with awkward angles and 1:12 grade is unsafe. Messrs W.R. Ridgway, B. Butterworth, J. Tiver, A. Bartholomæus, G. Hill & J.J. Osborne.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

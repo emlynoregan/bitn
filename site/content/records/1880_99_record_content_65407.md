@@ -51,4 +51,4 @@ The results are printed, but the report is held over.
 
 F.C. Fuss was 2nd in the 1 mile bicycle handicap, 1st in the 3 mile bicycle handicap and 1st in the 2 mile bicycle handicap.  Presumably this was Frederick Charles Fuss born 1 April 1878, the son of Frederick William Fuss then of Redruth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

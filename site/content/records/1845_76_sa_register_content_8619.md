@@ -39,4 +39,4 @@ During 1853 about 20,000 arrived in the colony and about 11,000 departed.  The e
 
 Another sign of progress has been the passage of the District Councils Act and 20 District Councils have been called into operation during the year.  There is a large amount of wealth lying in the coffers of the Banks this can be used for private and public works when labour can be procured.  The deposits represent about £20 per head of the entire population, a state of affairs scarcely to be found in the world beyond the limits of the Australian colonies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

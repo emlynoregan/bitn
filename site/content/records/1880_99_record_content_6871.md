@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Railways.  The railway link between Port Augusta and Terowie will be opened 17 May.  [The new section completing the link was Orroroo-Quorn.] It is estimated the travel time Port Augusta to Adelaide will be c. 18 hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

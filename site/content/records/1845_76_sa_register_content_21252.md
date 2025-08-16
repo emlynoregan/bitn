@@ -27,4 +27,4 @@ At the last meeting of the central Road Board Mr Everard drew attention once aga
 
 Such a Bill was passed in 1865 by the House, but thrown out by the Upper House.  It was intended to prevent carters from carrying more than 8 cwt for every inch of tire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

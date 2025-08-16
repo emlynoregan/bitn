@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Their problems include the acceptance of a tender for a lime and sand stone wall when a dry stone wall was in the specifications.  Another is the acceptance of a higher tender for kerbing.  Reform at the next election is absolutely necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

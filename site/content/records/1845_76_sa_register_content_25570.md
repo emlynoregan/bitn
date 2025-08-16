@@ -37,4 +37,4 @@ Obituary.  Mr William Peacock arrived in the colony in the ship Glenalvon 28 Dec
 
 [Not mentioned here is that he was a major shareholder in the SA Mining Association.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

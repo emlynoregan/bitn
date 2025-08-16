@@ -30,4 +30,4 @@ Obituary.  Florrie Pryzbilla [sic: for Przibilla] formerly of Burra North died i
 
 [Born Florence Grace Bass 14 May 1899 Mt Bryan: died 10 October 1985.  Married Albert Edward Przibilla 1930.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

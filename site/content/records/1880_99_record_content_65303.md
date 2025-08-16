@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 In the Waterworks poll the Council will have to continue to control the scheme: the vote was in favour 74 and against 34.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Kooringa News, 5 September
 
 On 4 September Rev. Mr Manthorpe preached a sermon in the Bible Christian Chapel on behalf of the Kooringa branch of the British & Foreign Bible Society.  There will be a public meeting in St Mary’s tonight for the same cause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

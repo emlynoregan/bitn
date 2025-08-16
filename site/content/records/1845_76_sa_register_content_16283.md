@@ -40,4 +40,4 @@ The weather yesterday was dominated by a hot wind and much dust, though a cool b
 Today the annual races take place at Copperhouse and at Springbank and the Wesleyans, Primitive Methodists and Bible Christians will hold tea meetings.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

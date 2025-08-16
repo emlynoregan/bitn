@@ -32,4 +32,4 @@ Sixty-three appeals were sent in and eight were withdrawn at the last moment.  I
 
 A better plan would have been for Council to have made a reduction all round and to have saved £25.  ‘It was monstrous and unworthy of the position of councillor to make himself officious in getting ratepayers to appeal.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

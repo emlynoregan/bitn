@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 J.D. Cave pointed out that a small reserve in the N-W corner of Middle Ward had been enclosed by private persons and was producing no revenue.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

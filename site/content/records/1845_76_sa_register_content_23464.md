@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Redruth Court.  A case of the theft and slaughter of a bullock is reported.  William Mosey and Ernest Kotz were charged with the offence, committed at Mt Mary.  [Extensive detail is given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

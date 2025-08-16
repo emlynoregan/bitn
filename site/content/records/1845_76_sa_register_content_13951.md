@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 It is desirable to amalgamate the office of Postmaster with the Telegraph Office.  The rent and a portion of the Postmaster’s salary would be saved.  The Telegraph Office is centrally located for the surrounding townships and is convenient for miners, the majority of whom pass it going to and from work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

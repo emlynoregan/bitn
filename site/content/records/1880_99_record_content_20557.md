@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Sampson Sen., aged 78, died on 5 December at Kooringa.  He was born at Goldzithany near Marazion in Cornwall.  A colonist of 39 years.  Mr Sampson had been ailing for some time.  Like most old colonists here, he had worked in the Burra Mine.  He had long been a member of the Bible Christian Church.  His wife, who survives him, has been an invalid for many years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

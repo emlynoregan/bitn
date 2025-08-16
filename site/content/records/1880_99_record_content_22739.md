@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  By-law No. 14.  ‘Any person who shall cause any disturbance, stand, or loiter in the vicinity of any place of worship within the said town during Divine Service, or annoy any congregation during Divine Service, shall forfeit the sum of not less than ten shillings and not exceeding ten pounds.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

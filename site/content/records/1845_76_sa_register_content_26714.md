@@ -34,4 +34,4 @@ The latest half-yearly report shows that in the six months to 30 September 922 t
 
 Captain Sanders said he has introduced some improved dressing machinery, by means of which he has been able to dress ores to a much higher percentage than usual.  The machinery is reported in good order and the establishment is 274 men and boys.  Operations are proceeding to prove the mine at greater depth and the Directors are hopeful that this will lead to valuable discoveries of ore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

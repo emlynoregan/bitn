@@ -32,4 +32,4 @@ The Copper Market.  Fluctuations this year have been unpredictable.  In May the 
 
 The experts seem baffled by the movements.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -44,4 +44,4 @@ Trains in both directions allowed 10 minutes for a refreshment stop at Riverton.
 
 Trains in both directions connected with trains between Dry Creek and Port Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

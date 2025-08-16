@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. G.E. Rowe supported both schemes [Baldina & Ulooloo] and hoped that the present troubles would not be socially divisive, setting the poor against the rich.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

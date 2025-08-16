@@ -28,4 +28,4 @@ Accident/Obituary.  A 16-month-old child of Mr Richard Reed, sheep farmer of Wan
 
 [Emma Reed born 6 February 1867 at Wandillah: died 2 May 1868 at Wandillah.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

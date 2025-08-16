@@ -31,4 +31,4 @@ Shareholders resolved on Friday to issue shares and bring the concern under the 
 
 Joseph Harrison was appointed Secretary.  We understand the mine is on the Booborowie Run west of Burra.  Several tons of high grade ore have been raised and sent to Pt Adelaide to be smelted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

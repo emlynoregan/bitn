@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  A day of prayer has been called for 18 April for the current crisis facing the colony: a ‘day of humiliation and prayer’.  Despite his religious beliefs the editor is not very sympathetic, seeing the real problem as a mal-distribution of wealth in a society in which the rich were assisted by a gross inequality of taxation demands which let them off far too lightly.  The real solution was not in prayer, but in remedial action.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

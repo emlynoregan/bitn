@@ -87,4 +87,4 @@ The Mayor said: -
 
 Mr Holder said he thought the Council deserved thanks for their efforts to come to best terms with the Hydraulic Engineer’s Department and he desired to help them as far as possible, but he was very much disappointed with the memorial as read.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

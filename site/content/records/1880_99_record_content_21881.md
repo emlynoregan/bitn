@@ -36,4 +36,4 @@ Michael Kelly, boundary rider of Paratoo, described how Martin and a black boy n
 
 There is other evidence of events the same day that seem to have no effect on the death and the jury found death by colliding with one Michael Kelly whilst on horseback at Paratoo which was purely accidental and not otherwise.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

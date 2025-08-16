@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the local option poll on 20 December.  Of the c. 300 on the roll 157 voted.  112 voted to close hotels on Sunday and 39 only voted to retain the present 2 hours of opening in the middle of the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

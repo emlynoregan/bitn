@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Railway Accident.  There has been a bad crash near Woolshed Flat.  A 21-truck sheep train was detached from its locomotives that were being watered.  The trucks then rolled back down the incline and smashed into a materials train.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

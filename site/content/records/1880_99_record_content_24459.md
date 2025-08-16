@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Broken Hill Railway.  A petition has been presented to the Commissioner of Public Works by E. Ward MP protesting the plans to operate trains through to Broken Hill.  The real problem was the tariffs at the border, which would allow NSW goods from Sydney to travel under bond through SA and back into NSW while SA goods on the same train would be subject to tariffs.  The Commissioner did not believe that the move would be to the detriment of the whole of SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

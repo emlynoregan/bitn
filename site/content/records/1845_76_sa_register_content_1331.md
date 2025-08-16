@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 GPO Adelaide.  Tenders are called for the mails to Burra Burra from Gawler via Kapunda and the ‘Gilbert Arms’ and with a branch from the latter to Bungaree via Slater’s Station and Penwortham.  Carriage may be by cart or horseback.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church Anniversary last Sunday.  The financial report showed a debt of only about £50 on the entire church property including the Lecture Hall and parsonages.  Christian Endeavour membership (junior and senior) numbered 45.  Membership in the circuit had risen by 12.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

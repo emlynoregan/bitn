@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Railways.  The proposal to extend the broad gauge from Terowie to Petersburg has been costed at £39,000 plus £35,000 for altering the Petersburg yard and other outlays - £75,000 in all. [!]  There would be a savings of £3,400 p.a. and there seems every probability of the work being done.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

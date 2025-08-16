@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 English Postage from 1 January will be 4d for letters and 2d for postcards if mailed via Plymouth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

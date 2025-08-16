@@ -36,4 +36,4 @@ publication_slug: record-1880-99
 
 Letter concerned with the prevalence of large landed estates.  The following persons together own (outside of County Adelaide) one ninth of the area and one seventh of the value of all land: Hawker, Bowman, Dr Browne & Son, Riddock, Angas, Robertson, Sanders, James & Co., J. Maslin, McCulloch, Dutton & J. Clark.  [Figures are given.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ The Mainstay of the Province
 
 [A correspondent takes issue with an article in the paper recently, which asserted that agriculture was the mainstay of SA.  The writer cites the following statistics to support his objections.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

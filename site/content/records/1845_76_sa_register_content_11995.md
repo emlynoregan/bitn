@@ -47,4 +47,4 @@ Captain Roach reported that a great deal of new ore ground has been opened in th
 
 Although promising, the mines at Karkulto, near Black Springs and at Pompurne near Clare, are not yet producing much ore.  The company is employing 1,064 people: 1,026 at Burra, 26 at Karkulto and at Pompurne and Adelaide, 12.  At the last half-yearly meeting we noted that J.B. Graham, who was visiting the colony from Frankfurt, had been made a Director.  On leaving for Europe he resigned that position and at an extraordinary general meeting of shareholders Mr J. Hector was elected in his place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

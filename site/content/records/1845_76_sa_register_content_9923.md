@@ -40,4 +40,4 @@ Kooringa & Port Wakefield	£1,500
 
 Burra Road north of Light	£500
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

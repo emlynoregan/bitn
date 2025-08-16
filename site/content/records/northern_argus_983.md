@@ -28,4 +28,4 @@ Obituary.  Milton Williams died last week.
 
 [Thomas John Milton Williams born 9 June 1906 Belalie East: Died 22 March 1986 Burra.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

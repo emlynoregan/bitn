@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church.  The 20th Annual District Meeting was held at Burra on 4 February.  The meeting resolved that since the Bible Christian Church has accepted the basis of Methodist Union offered by the General Wesleyan Conference of 1894, the Bible Christian Conference should take no further action until the SA Wesleyan Conference has declared its intentions and definitely pledged itself to the principle of union.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

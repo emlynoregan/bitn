@@ -36,4 +36,4 @@ Wool Buyers and Scourers, Railway Station, Dawson Road LANCELOT.
 
 [This needs some research, as I cannot find that Lancelot had a station (or even a railway line).  The nearest station seems to be Ucolta, which would have a Dawson Road, and may be where the business was located.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

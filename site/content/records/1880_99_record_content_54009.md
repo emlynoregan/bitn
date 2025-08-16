@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Coursing Club.  Last Wednesday the meeting was brought to a finish when the required number of courses could not be run and the money was divided.  D. McMichael’s Firefly, C.A. Gray’s Maori and D. Crosby’s Kaiser each earned £12-5-0.  D. Brown’s Mortlake and A. Bosisto’s Robina each got £6-12-6, and other dogs earned lesser amounts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

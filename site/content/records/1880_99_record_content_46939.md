@@ -82,4 +82,4 @@ Carried with only Linkson opposed.
 Cr Linkson asked the Mayor if he was aware that Mr Queale was engaging single men from elsewhere when local men with families were unemployed.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

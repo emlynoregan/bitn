@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 This considered the obstruction placed in the creek near the ballast quarries.  The original correspondence from the Council showed that they had approved the construction of the line on condition that everything was made safe and kept in proper order.  It was resolved that the Commissioners be instructed to remove immediately the obstruction placed in the Burra Creek at Aberdeen by their servants to the satisfaction of Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

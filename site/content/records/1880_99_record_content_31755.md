@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 F. Treloar writes to correct reports on what was said at the Hanson meeting on Tuesday concerning travelling stock roads.  It was Mr Bailey and not Mr Goodridge who said Mr Cooksley knew more about a wagon than travelling stock.  Treloar then expands on an omission in the report of Mr Scott’s speech: essentially saying that the TSRs were alone responsible for being able to get low paying stock to market.  If railways had to be used when stock prices were very low (as in bad droughts for instance) the charges would mean the stock would have to be left to die.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

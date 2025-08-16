@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Accident.  A child recently fell down a new well at Redruth and broke both its legs, one of them in two places.  It also bruised its head.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

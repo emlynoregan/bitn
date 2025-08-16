@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Davieston [modern Hanson].  There are efforts to get a hotel and a chapel here.  A school is also needed as there are at least a dozen residents with large families.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

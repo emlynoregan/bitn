@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘I must say it is a pity he was paid out in such a manner, but it is only for a time, as the ratepayers who have the interests of the town at heart cannot for long forget such services rendered by him.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

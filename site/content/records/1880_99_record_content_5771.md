@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  On 14 December at Kooringa, Caroline Davey, Wife of Richard Jenkin Davey, and daughter of the late Samuel Moon Shipton of Mallett, Somersetshire, England, aged 58.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

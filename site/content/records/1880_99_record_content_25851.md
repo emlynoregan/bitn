@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Jubilee Exhibition.  The opening of the Exhibition, which was designed to simultaneously celebrate the 50th anniversary of SA and of the Queen’s reign, is reported in over two columns.  About 4,000 visitors a day have been attending.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

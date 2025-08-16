@@ -30,4 +30,4 @@ Units for the Aged
 
 Two double units, each with two bedrooms are currently being built as accommodation for the aged.  They are on the corner of Kingston Street and Smelts Road [Welsh Place].  Their design has taken into account the surrounding buildings on the State Heritage Register.  They will have sandstone-coloured ashlar block for the front walls with the rest plastered in a matching colour.  Roofs will be corrugated Colorbond iron and each unit will have a front verandah.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

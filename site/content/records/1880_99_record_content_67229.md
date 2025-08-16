@@ -45,4 +45,4 @@ Hon. J. Lewis MLC said Forder had filled the clerkship for 40 years, was returni
 
 Others to speak were P. Lane JP, W. West JP, E.C. Lockyer JP, T.W. Wilkinson JP, A. Harris JP, Thomas Sandland JP, J.M. McBride JP, D.J. O’Leary JP, and J.E.H. Winnall JP.  Mr Forder replied and related several funny incidents from his career.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

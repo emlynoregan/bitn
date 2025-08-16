@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from J.A. Watt asking why the Council have not called a public meeting to report back on the proposal they took to Government.  Is the Council to let the matter rest and if so, it is a shame.  If a meeting is not called soon I will get up a requisition for one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

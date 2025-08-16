@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Linkson: young.  A great advocate of temperance.  A great debater yet courteous to his opponents.  Universally popular, very active and keen to pursue abuse of ratepayers’ money.  Like young port wine, fiery with little body, yet in a few years may prove mellow and palatable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

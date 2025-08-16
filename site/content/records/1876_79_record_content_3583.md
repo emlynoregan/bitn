@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Footbridge near the Miners' Arms gets another paragraph. Its dangerous state is even more significant now that the school is open.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

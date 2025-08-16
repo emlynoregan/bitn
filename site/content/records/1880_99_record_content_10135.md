@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘South Australian’ writes regretting the lack of any football so far despite a well-attended meeting earlier in the season.  Also drawing attention to the need to change the rules which allow such tackling that recently a young man was killed through dislocation of the spine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

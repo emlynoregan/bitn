@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Entertainment: Mayor and Crs Roberts and Sanders inspected area NE of Paxton Square as a possible recreation ground. Mayor thought they needed 10-12 acres. Town clerk to write to SAMA directors through Mr West
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

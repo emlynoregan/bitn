@@ -37,4 +37,4 @@ Bridget McSweeney, admitted 21 Feb. from Adelaide, died 11 Mar. from typhoid.
 
 There are 13 typhoid cases at present in the hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

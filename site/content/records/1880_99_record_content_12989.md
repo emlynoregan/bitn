@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 Football.  The Burra Football Club met last Friday at Barnett’s Commercial Hotel.  J. Drew was asked to accept the position of Patron and Dr Brummitt that of President.  E.C. Lockyer was elected Hon. Sec.  The Captain & Vice-Captain to be elected later.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

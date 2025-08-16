@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Industry, Thrift’ writes arguing that contrary to a recent assertion a man might keep a wife and six children on £2-2-0 a week and in fact he knows of a case where it is done on 17/6.  It is the bottle and tobacco and the extravagant dress of wife and daughters, music lessons etc. ‘that does not become their class - that keeps them in such poverty-stricken circumstances’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

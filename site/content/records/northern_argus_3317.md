@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Farrell Flat Post Office will be closed on 31 December, having served the town for since 1870.  Reg & Pauline Rattley will finish their time at the Post Office after seventeen years’ service.  In the future the mail will be sorted at the hotel and be distributed in private boxes installed at the hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

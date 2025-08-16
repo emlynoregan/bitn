@@ -41,4 +41,4 @@ Sale.  The former Smelters’ Home Hotel, also known as Opie’s Flats, will be 
 
 2This is nearly true, but there are a couple of double hung sash windows.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

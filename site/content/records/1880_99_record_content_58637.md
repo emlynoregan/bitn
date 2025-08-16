@@ -34,4 +34,4 @@ Mr Snell asked if present and intending councillors favoured conducting Council 
 
 The Mayor, Cr Sampson, Mr Winnall & T.P. Halls said yes.  Cr Hardy said at times no.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

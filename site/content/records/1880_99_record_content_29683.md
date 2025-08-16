@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Smelting Flux.  It has been suggested that the stone on the west side of the Burra Creek could be used as a flux at Broken Hill.  300 tons a week are required and the company intends getting it from the Kapunda Marble Quarries.  Burra could use the £37-10-0 a week that could be earned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

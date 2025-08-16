@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Copper Price.  Telegrams from London of 1 August quote copper at £108 per ton.  Mr E. Cooke of E. & A. Copper Co. had a telegram citing £106 on 31 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  There has still been no reply from the Government.  The urgency of a reply is apparent as the Council period ends on 1 December.  The reply to the telegram sent to the Government was that it would be considered by the Cabinet on 24 October, but there has been no news since then.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

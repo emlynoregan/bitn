@@ -29,4 +29,4 @@ Obituary.  Mr James Pearce died in 26 September after an illness of three weeks.
 
 [Died at Kooringa aged 56 and had been born at Leighton Buzzard in Bedfordshire.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

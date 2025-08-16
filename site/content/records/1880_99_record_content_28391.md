@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  J.R. Stephens, a candidate for the Legislative Council, will address electors at Burra on Monday 23 April at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

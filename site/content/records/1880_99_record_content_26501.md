@@ -38,4 +38,4 @@ Total	31.5 degrees	Total	45 degrees
 
 These waters are not harmful to boilers, but will form hard scale, which can be partly avoided by adding small amounts of carbonate of soda.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

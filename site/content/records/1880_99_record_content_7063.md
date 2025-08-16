@@ -37,4 +37,4 @@ The discussion above was an offer to lease for 21 years for a 5% royalty and rig
 
 The impression is growing that the mine will never be worked again by the present company and it is disappointing to see the company make no endeavour to meet would-be purchasers on a fair basis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

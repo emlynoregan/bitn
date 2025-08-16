@@ -31,4 +31,4 @@ He was approached at the football by one who saw it as a waste of precious time.
 
 We don’t want them to grow up ‘only fit to lean agen lamp posts, and grone at the inikivity ov the world, - week, sickly, and narrow-minded, & c., & c., an when they begin to battle with the world, there dishartend before they have well started.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

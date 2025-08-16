@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. H.T. Burgess of Kooringa has been elected President of the Wesleyan Conference after 31 years of uninterrupted service to the Wesleyan Church in SA. He thanked them for their confidence: it being ten years since they did him the honour of making him President.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

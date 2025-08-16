@@ -30,4 +30,4 @@ Advt. Rev. Charles Clark at the Inst. for 1 night only. The great lecturer and e
 3/- & 2/- 
 The advt. Says Tuesday 20th, but the editor thinks it will be Thursday 22.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

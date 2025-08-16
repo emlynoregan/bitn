@@ -27,4 +27,4 @@ Notice.  The Directors of the Royal Mining Co. give notice that the requisition 
 
 Frederic Wicksteed, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

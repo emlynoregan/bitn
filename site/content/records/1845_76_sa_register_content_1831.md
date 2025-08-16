@@ -28,4 +28,4 @@ Advertisement
 
 The ‘Reformer’ stage cart will leave for Burra Burra next Monday at 8 o’clock.  Fare £1 and baggage allowance 14 lb.  Apply to Nicholls & Ross, Temperance Hotel, Hindley Street, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

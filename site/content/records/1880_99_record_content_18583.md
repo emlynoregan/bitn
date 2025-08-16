@@ -48,4 +48,4 @@ He believed that overall the Hydraulic Engineer had charged 75% on actual cost. 
 
 They had been charged £94 interest for six months too, instead of £88-10-0, which was another blunder.  Cr Sampson 2nd.  Carried
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

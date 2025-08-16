@@ -28,4 +28,4 @@ Burra residents are anxious to participate in the celebrations surrounding the r
 
 The railway now looks like a certainty and all are of the opinion that it will repay the outlay.  Vigorous efforts will be made to have the work commence at either end and at various other places.  Miners will work for less when near their homes and families and this should favour work starting at Burra and be a real boon for the labouring population.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

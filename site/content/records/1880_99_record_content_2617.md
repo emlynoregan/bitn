@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Of the literary supplements only two are preserved on the 1880 microfilm: one dated 8 October and one undated, but placed after the issue for 31 December.  The microfilm for 1881 has more than a year’s supplements, but most are undated.  Extrapolating backwards from known issues in 1881 approximately fills in the gap, but not exactly.  See table of supplements for 1881 at the end of that year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 John McCulloch alias John Munro employed at Princess Royal some months ago was charged with forging a cheque in the name of S. Kidman for £38.  The case was finally heard at Silverton last Wednesday.  A verdict of guilty of uttering without knowing was returned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

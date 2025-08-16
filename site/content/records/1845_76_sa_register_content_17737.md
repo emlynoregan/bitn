@@ -28,4 +28,4 @@ W. Prince writes re Northern Roads:
 
 During 15 years residence I have been through a few boggy roads, but I have never experienced such difficulty on account of the state of the roads as between Kapunda and Kooringa.  Few vehicles escape unscathed.  Horsemen are delayed and the mail is occasionally breaking down.  It is time attention was devoted to the formation of a road from Kapunda to Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

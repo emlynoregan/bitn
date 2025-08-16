@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Church will hold a picnic at Princess Royal next Monday.  Cabs will run to and from for 6d and tea will be 9d for a total of 1/3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

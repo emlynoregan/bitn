@@ -51,4 +51,4 @@ Police Trooper Hunter lived at the police barracks opposite the scene of the fir
 
 The jury decided the fired occurred accidentally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

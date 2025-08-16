@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 I am surprised that in all the discussion about railways in the colony, no one seems to advocate the extension of the Northern Line to Burra.  Adelaide merchants must recall the splendid trade done in Burra in her palmy days.  I am convinced as much or more might be done if we had rail communications.  There is much ore left in the ground and plenty of men to raise it.  It stays there because of the enormous expense of carriage to and from the Mine.  Under more favourable circumstances low grade ore could be extracted and either sent to Pt Adelaide or smelted here.  In addition coal or firewood or both would be required here for both the Mine and inhabitants for domestic purposes and the population would grow.  In addition agriculture is expanding between Burra and Kapunda and there is large traffic in wool from the north and with railways traffic in sheep would also come, either live or in the carcase.  (Kooringa 23 August.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

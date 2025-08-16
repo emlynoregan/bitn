@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Inquest/Obituary.  A shepherd named John Wardmann died suddenly on World’s End Run last Monday.  Mr Warland the manager said the shepherd had been unwell for about a month.  He was worse on Monday and Mr Warland went to seek Dr Dashwood’s services, but Wardmann died before the doctor arrived.  A verdict of death from natural causes was retuned at the inquest held at the Miners’ Arms, Kooringa, the next day, before Mr MacDermott SM.  Disease of the heart was the immediate cause, accelerated by exposure to cold and penurious living.  It is believed the deceased had saved a considerable sum of money and was about to return to his native Switzerland to retire.  [Died 28 September 1868 World’s End Run aged 53.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

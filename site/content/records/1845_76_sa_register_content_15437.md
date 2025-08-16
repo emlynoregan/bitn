@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Primitive Methodists here have fallen out with their minister Rev. J. Standrin and I am informed that he is about to leave them very soon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

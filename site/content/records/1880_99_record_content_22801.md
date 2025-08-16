@@ -28,4 +28,4 @@ Obituary.  Walter Thomas Hunt, aged 19 days, died 16 July of convulsions.  Son o
 
 [Born 27 July 1886]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

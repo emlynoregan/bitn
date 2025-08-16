@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. The fifth anniversary of St Joseph's Church will be celebrated on 9 November. Rev. Fr Peters SJ will preach.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Accident.  Last Monday evening an accident occurred about two miles north of Gawler.  The Clare mail-cart ran against a stump and capsized, throwing all its passengers onto the road.  The Burra Burra coach was following and in the cloud of dust could not avoid colliding with the overturned cart.  Several of the carts passengers were injured.  Mr Bleechmore was severely hurt and is not expected to live.  Mrs Greenslade received leg injuries and Mt Witton, the musician, injured his shoulder.  Another young woman was also hurt.  Gawler doctors attended and the injured were taken into Gawler on litters.  Mr Bleechmore was on the way to Adelaide to give evidence in a felony case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

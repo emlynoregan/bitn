@@ -28,4 +28,4 @@ Kooringa Nuisances
 
 The residents of Kooringa have good reason to thank Sergeant Major McCulloch, whose actions have seen the end to several long standing nuisances.  In one instance not more than 200 yards from the courthouse a butcher was keeping 20 pigs in a cellar, wallowing in the most abominably filthy litter imaginable, arising from the pigs being fed with offal of every description in this nest of pestilence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

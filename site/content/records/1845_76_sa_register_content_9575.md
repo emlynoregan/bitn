@@ -42,4 +42,4 @@ Horse races were held at the Mr Nankervis’s Cross Roads Inn.
 
 [* A jingling match: a game in which one player keeps ringing a bell while the others, all blindfolded, try to catch him or her.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

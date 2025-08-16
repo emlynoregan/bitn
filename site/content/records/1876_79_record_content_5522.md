@@ -31,4 +31,4 @@ to 25’/2”.
 On Sunday week last the handrail of the footbridge behind the Miners’ Arms was vandalised. 
 An effort to raise the £400 loan authorised by ratepayers will be made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

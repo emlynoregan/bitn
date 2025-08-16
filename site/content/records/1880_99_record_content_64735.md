@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Rifle Club, which has been in existence foe c. 12 months, has at last obtained a promise from the Hon. Treasurer for a supply of rifles to be available after the coming matches.  Thanks to the assistance of Hons F.W. Holder & J. Lewis who urged the club’s claims.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

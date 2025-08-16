@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Numbers of miners are still leaving for Port Curtis, despite disastrous accounts from there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

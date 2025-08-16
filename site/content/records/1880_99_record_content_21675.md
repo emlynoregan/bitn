@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 21675→Midland Road Board.  Mr H. Richardson of Saddleworth was elected to Captain Killicoat’s vacancy, outscoring P. Lane by 17 votes to 11.  The Burra end of the district was then without a representative on the board.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

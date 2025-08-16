@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  To Let: Redruth Timber Yard, shop, shed, sawpit, etc. with or without stock.  A fine opening for a person with a little capital.  Well situated within a half a mile of the Bon Accord Mine and the only timber yard in this rising township.  Apply to William Dale 10 Robe Terrace, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

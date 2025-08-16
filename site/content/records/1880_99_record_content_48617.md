@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 An adjourned meeting at the Royal Exchange Hotel last Friday resolved to hold a fancy dress bicycle race at the Burra Oval to raise funds for the big race, due to be run on Easter Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

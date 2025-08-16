@@ -31,4 +31,4 @@ Burra News, 21 September
 
 Last week the country was beginning to be very dry and fears were held that there would be no more rain this season and crops would fail.  Sheep farmers were also afraid of another season of drought.  On Sunday morning soft gentle rain fell and then in the afternoon there was a thunderstorm.  The Burra Creek rose quickly and washed Mrs Foy and family out of their home in Swansea Vale.  It also threatened to enter the White Hart Hotel and the Aberdeen Hotel, but the Mine authorities breached the banks of sand across the creek and averted this flooding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Rev. Ibbetson delivered the second part of his lecture on engineering, at the Institute on Wednesday evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

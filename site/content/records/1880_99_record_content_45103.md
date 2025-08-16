@@ -36,4 +36,4 @@ Rabbit Hunt.  There is a more detailed report of the rabbit hunt from a house le
 
 The total number shot came to 433 with Mr Wittwer of Robertstown getting most at 38 and earning the £1 prize.  Messrs D. Irlam and Kielow got 36 each, earning 15/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

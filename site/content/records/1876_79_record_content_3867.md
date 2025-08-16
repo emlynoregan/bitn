@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 J. Humphris' departure from the district was marked by a dinner at the Miners' Arms on 1 April, chaired by Mr T. Warnes J.P. Mr Humphris was thanked for his work for the hospital and the Agricultural Society, and as Chairman of the Hanson District Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

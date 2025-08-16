@@ -31,4 +31,4 @@ Midland Road Board.
 
 Mr Killicoat brought the Board’s attention to breaches of the Width of Tires Act.  The almost daily habit of despatching overweight wagons from Burra to Silverton was destroying the roads.  Some weighed from 10-12 tons and left indentations in macadamised roads.  The surveyor was instructed to see that the stationmen put a stop to the practice.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

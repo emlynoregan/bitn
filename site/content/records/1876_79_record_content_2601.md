@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Double ploughs, 7/6 entrance with 1st prize £6, 2nd £3 and 3rd £l/10/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Weather.  It remains very dry.  Farmers and stockowners are beginning to feel uneasy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

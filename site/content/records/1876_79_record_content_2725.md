@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 St Mary's to hold a festival in Institute next Thursday with tea at 5.30 and then an evening lecture: `Reminiscences of a Trip to England' with readings and music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Burra Mine.  Work proceeds with vigour under Mr Challoner and machinery superintended by Mr Swansborough.  It is expected preparations will soon be made to treat the creek sands with machinery due soon from England.  The company has begun to sell ore again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

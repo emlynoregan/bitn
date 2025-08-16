@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  Charles Simmons writes from Ulooloo.  Mr Simmons disputes the report of the Burra correspondent about where action is occurring at Ulooloo.  The latter says there has been sinking at Cousins’ Gully.  Simmons says it was at Gainer’s Rush, about a quarter of a mile away and where gold was first discovered.  Mr Mutton does indeed have tow windlasses at work, but at Gainer’s Rush, not Cousins’ Gully says Mt Simmons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

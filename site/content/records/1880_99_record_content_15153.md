@@ -27,4 +27,4 @@ Advt.  Drawing Room Entertainment at Burra Institute 21 November.
 
 In aid of Institute and Hospital Funds, by Lady and Gentleman Amateurs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

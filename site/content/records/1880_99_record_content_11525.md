@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Mohawk Minstrels appeared for the first time at the Burra Institute last night and were enthusiastically received by a good audience.  Sentimental and comic songs were interspersed with jokes.  Step-dancing by Messrs O’Neill, Gault & Gordon was the highlight.  They appear again tonight in a different program, which will be followed by a ball.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

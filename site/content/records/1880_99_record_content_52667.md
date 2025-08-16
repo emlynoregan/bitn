@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 The problem inspection of meat killed in the District Council area was discussed.  Cr Killicoat, who is also on the DC expected the DC would co-operate readily with any practical scheme.  Four butchers slaughter just outside the Corporation boundary: Messrs Austin, Rabbich, Ford, and Sampson & Carpenter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

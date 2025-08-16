@@ -35,4 +35,4 @@ All parcels carefully attended to.
 
 Steady and civil drivers, good horses and harness, well-appointed traps and fares the same as the Royal Mail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

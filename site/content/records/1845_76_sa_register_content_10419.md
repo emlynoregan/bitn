@@ -31,4 +31,4 @@ Currier wanted immediately at the Burra.  Regular employment and good wages.
 
 Wanted at the Burra Burra Mines: a mining smith.  Apply to Captain Roach at the Mine or at the SA Mining Association Office, Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -33,4 +33,4 @@ At the Institute.  Chaired by the Mayor, Mr D.S. Packard.  Chairs 3d, Forms 2d a
 
 Organised by A. Wittber & J. Roach.  [These were subsequently referred to as The Penny Readings Series.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

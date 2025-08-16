@@ -65,4 +65,4 @@ A proposal that each station on the line should have a goods shed was carried.
 
 A deputation was elected to wait on the Commissioner of Public Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

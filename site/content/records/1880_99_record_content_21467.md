@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter.  A second letter finds W.H. Hardy rather fatuous.  The police were unable to find the culprits for good reasons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 H. Collins, farmer of Ironmine, suggested there was no real channel when he first knew it 44 or 45 years ago.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

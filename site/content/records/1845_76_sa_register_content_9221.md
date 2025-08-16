@@ -30,4 +30,4 @@ Central Road Board
 
 A report was received and approved regarding alterations to the road at Forrester’s on the Gilbert.  Thomas Laycock requested an extension of time for completing the ford at Templer’s.  Refused.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -37,4 +37,4 @@ Birth.  To Cheryl & Richard Nankivell, a daughter.  A first granddaughter for Au
 
 Birth.  To Penny & Peter Bartlett, a son, Banjamin [sic] Luke.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

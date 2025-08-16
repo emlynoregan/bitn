@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The poor woman whose leg was amputated last week was confined the third day after of a stillborn child, and despite all this is reported to be doing well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -36,4 +36,4 @@ Editorial on The Barrier Traffic.
 
 The argument was about improving access from the Barrier to a port in SA to counter any move to have the Barrier traffic directed towards Sydney.  The writer thought public feeling favoured a broad gauge railway from Eudunda, Morgan or Burra. He was also in favour of a sliding scale of charges against distance to mitigate the impediment of the change of gauge - accepting the Railway Commissioners claims that the present line could handle three times the present traffic.  Still, a uniform gauge line to Broken Hill was an ultimate necessity, but its route should be based on national rather than the local advantage of Pt Adelaide, Pt Pirie, Kapunda, Terowie or Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

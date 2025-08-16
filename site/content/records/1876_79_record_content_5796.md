@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. Dr Sangster commences business in this town on 8 Feb. 1879.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

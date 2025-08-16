@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mrs Knorr, who is supposed to have visited Burra in April 1892, has been found guilty in Melbourne on Thursday of the wilful murder of two girls.  [At least I think that is the gist of a somewhat unclear report.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  On Thursday evening a man named Fitzgerald, suffering inflammation of the lungs, became delirious.  He tried to drag another patient, the victim of a severe gun accident, from his bed.  [See probable reference VI, 388, 11 Nov. 1884, page 2.]  He was restrained by another patient and when a nurse assisted he tried to strangle her and her hair had to be cut from his grasp to release her.  He was eventually restrained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

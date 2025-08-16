@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Iron Mine Primitive Methodist Church Anniversary on 25 September.  Rev. W.O. North conducted services and the Monday tea meeting.  Both were well attended and financially up to the mark.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

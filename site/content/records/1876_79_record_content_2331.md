@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Speaking at the Redruth Wesleyan anniversary Dr. Brummitt, a newcomer from England, pointed out that anniversaries in UK were once a year, but in SA some congregations managed to have them up to four times a year and this one fell 2 years 8 months after foundation! He was concerned about the lack of young men in the church compared with the situation in UK.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

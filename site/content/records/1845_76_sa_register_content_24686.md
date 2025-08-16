@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Moonta Mine.  There is a report of the state of the Moonta Mine along with a table of its dividends over the past ten years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ Town Clerk, Collector of Rates, Registrar of Dogs & Secretary of the Board of He
 
 Inspector under the Board of Health & of Weights and Measures and Ranger.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

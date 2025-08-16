@@ -60,4 +60,4 @@ Mr Ward also presented a petition from a meeting held at Johnburg in the north.
 
 The Commissioner said the Government intended to grant concessions in the next sitting and agreed to put the selectors in Baldina and Bright with those in the north.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

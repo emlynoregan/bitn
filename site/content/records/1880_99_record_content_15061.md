@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 George Mayger Sen., mason, was charged by William West with maliciously setting fire to a house, the property of SAMA, on 25 October last.  It not being established whether the fire was deliberately lit, the case was dismissed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

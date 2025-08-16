@@ -50,4 +50,4 @@ He went on to consider land reform where he favoured allocation of land by lot a
 
 He also expanded his comments in favour of free trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Ulooloo Goldfield.  Some of the Government men are getting a little gold now.  The Government has agreed to supply a horse and cart and several water casks, which will help much.  Other prospectors are however, doing much better.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

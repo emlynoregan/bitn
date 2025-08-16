@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Japanese Sale.  The sale of Japanese goods has been changed by Dempsey, Wilkinson and Sandland from 16 to 15 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

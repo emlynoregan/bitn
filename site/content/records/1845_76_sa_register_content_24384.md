@@ -31,4 +31,4 @@ publication_slug: sa-register
 
 Floods.  On Tuesday afternoon the Burra Creek was higher than in living memory.  It was a roaring turbid current from bank to bank.  At Aberdeen the water was three to four feet deep through the White Hart Hotel and flooded several other cottages.  It was unable to escape beneath the Redruth Bridge and spilled out around the macadamised roads past Mr Tiver’s and Mr Ridgway’s stores and flooded Mr Coull’s Aberdeen Hotel.  In Kooringa there were only trifling losses, but the Company’s Bridge is greatly injured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 New Bridges. The Commercial St Bridge is finished and riveters are at work on the Kingston St one. It is a tedious job.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

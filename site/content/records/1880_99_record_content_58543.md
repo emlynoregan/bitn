@@ -27,4 +27,4 @@ Appeal Court.  Another aspect of the Appeal came to light when the Overseer put 
 
 ‘Who gave Cr Hardy the authority to make a “weapon” of the overseer, and also would the latter have attended the Court of Appeal if he had thought or knew that he would lose half a day?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

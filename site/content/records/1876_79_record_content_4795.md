@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Obituary. William Henry Banks, on 16 September, aged 33 [Figure unclear in death notice, but confirmed below]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

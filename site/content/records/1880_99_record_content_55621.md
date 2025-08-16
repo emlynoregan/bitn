@@ -25,4 +25,4 @@ Page 3
 
 Largely local news and reports from correspondents from surrounding districts.  Occasional pieces from further afield and a few items of humour.  The ‘Sparks’ column continues to be somewhat enigmatic at times.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

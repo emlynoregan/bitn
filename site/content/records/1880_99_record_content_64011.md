@@ -28,4 +28,4 @@ Burra Hospital: Board Meeting 14 April.
 
 The Chief Justice asked why expenses had been so much higher than usual.  The report showed average number of patients in 1896 was 29.25 and for 1897 was 36.33.  On several occasions in February there were 50 and the average for the month was 48.  This increased the costs and bedding etc. had to be purchased for at least 10 patients.  The new isolation ward recently erected had to be furnished.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

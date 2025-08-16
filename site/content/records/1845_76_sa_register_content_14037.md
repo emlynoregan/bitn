@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Redruth Bridge.  Mr Macaulay said that when he estimated the cost of the bridge there was a rush to the Snowy River diggings, but this had not affected the labour market as much as anticipated and consequently he had got the contracts taken at a considerable saving.  The [Central Road] Board directed that the savings be applied to the approaches to the bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

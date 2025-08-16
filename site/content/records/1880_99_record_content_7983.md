@@ -27,4 +27,4 @@ Editorial on the Market Square Pump.
 
 Last summer, though the pump was fixed late in the season, it was a great boon to householders, teamsters and gardens.  The pump has been worked hard and threw a good stream at first, but now the leathers are worn and it needs refitting and improving before summer.  What is needed is a windmill and four 400 gallon tanks set at a height of c.12’.  This would cost c. £70 and would be most remunerative for the Council.  This supply could be automatically kept full and would also be useful in case of fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

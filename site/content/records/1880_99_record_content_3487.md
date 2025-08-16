@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘I am a Working Man’ claiming that as one of the millers is about to reduce his men’s wages and is trying to get others to do the same, it is time the men also got united.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

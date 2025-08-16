@@ -31,4 +31,4 @@ They found that the deaths were caused by the train falling into a chasm caused 
 
 The coroner also thanked Corporal Provis on behalf of the jury for the excellent way in which he had conducted proceedings and examined the witnesses.  The jury also expressed their commendations to the guard George Gitsham for his conduct during the accident.  His quickness of mind and prompt action not only saved his own life, but also a quantity of valuable merchandise.  His following adherence to the rules of the railways was deserving of very great praise.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

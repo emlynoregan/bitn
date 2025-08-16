@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 The Railway Report has confirmed our opinion that to continue further north than 1411 would be a waste of public money.  No doubt it would be possible to engineer a route from Kapunda to Forrester’s and thence up the Gilbert to Burra, but it would be much more economic sense to branch out from Gawler and take the Gilbert to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

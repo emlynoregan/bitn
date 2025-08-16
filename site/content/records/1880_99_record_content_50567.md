@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Dead Fish!  The Inspector failed to find the dead fish at the Bridge St Bridge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ Obituary.  James Symes, aged 18 years 6 months, died 24 February at North Broken
 
 [Born 2 August 1876.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

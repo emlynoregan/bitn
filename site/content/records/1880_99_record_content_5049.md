@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Duffy then reiterated his claims of the Council’s promise and their need to do more to fulfil it.  The matter was stood over.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

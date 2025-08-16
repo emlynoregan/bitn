@@ -26,4 +26,4 @@ Apoinga News, 30 July
 
 Things here are very quiet.  No one is coming along this way due to the bad road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

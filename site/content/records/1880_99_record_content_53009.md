@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Public School has made good progress in the last twelve months under Mr J.A. Kennedy and staff despite the disruptions of a measles and an influenza epidemic.  164 new scholars were enrolled and the average attendance for the year was 286 (not counting the epidemic months.)  The annual examination for results was postponed and eventually abandoned on account of the epidemic, though exams for the Compulsory Certificate and promotion were held.  196 out of 239 were promoted and 20 Compulsory Certificates awarded.  Arbor Day was a success.  ⅓ of a column is devoted to examples of mental arithmetic used in exams at different levels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

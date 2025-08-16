@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Post Master General has terminated the employment of the telegraph operator at the Burra Railway Station, Mr M. Dow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

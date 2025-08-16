@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Rod Payze Assistant Commissioner (Planning) and John Steele (Regional Engineer) with the Highways Department visited at the last meeting to address Council on the proposed Ludgvan Street deviation.  A plan was shown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

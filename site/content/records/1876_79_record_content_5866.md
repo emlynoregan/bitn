@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Cemetery. The curator reports that the walls need repairing. More seats are needed. Mr West advises that the enlargement of the cemetery can go ahead as soon as desired. The transfer of the property has been drawn up and only awaits the signatures of the SAMA directors, some of whom are out of the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

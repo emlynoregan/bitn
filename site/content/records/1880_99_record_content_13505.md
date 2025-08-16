@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Trees have been planted in the town’s streets: 400 in tree guards and more are to go into the reserves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

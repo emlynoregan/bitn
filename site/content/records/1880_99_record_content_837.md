@@ -62,4 +62,4 @@ Both tenders for the widening of the bridge in Queen St were considered too high
 
 Father Kriesll’s and Mr Ullmann’s offers of trees were accepted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

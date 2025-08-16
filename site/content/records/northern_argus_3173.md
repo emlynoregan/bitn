@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 An AIDS information night was held at the school last Thursday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Note in our for sale columns that Sandland & Co. will offer for sale under instructions from the trustees in the assigned estate of Sara & Dunstan the whole of their well assorted stock-in-trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

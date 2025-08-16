@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Treglohan, aged 68, died 17 August in Adelaide.  He was for many years a Burra resident, arriving in SA in 1854 and working as a carpenter at the Burra Mines.  He became a member of the Burra Lodge MUIOOF on 2 April 1856 and was a member for 43 years and a colonist of 45 years.  He was a member of the Wesleyan Church and leaves a widow and family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

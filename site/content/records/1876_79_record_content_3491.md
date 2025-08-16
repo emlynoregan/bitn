@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Institute annual meeting chaired by F.W. Holder. There are 1822 volumes, an increase of 337. Income was £338-8-4 and expenditure was £280-1-6, leaving a debt at the end of the year of £627-10-9. Elections: President, F.W. Holder; Vice-President, Dr Nesbitt; Sec. R.C. Cornish; Treasurer, H.S. Margetts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

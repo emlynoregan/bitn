@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Burra DC has recently purchased a second-hand Toyota Landcruiser personnel carrier to seat up to 8 for the Burra SES.  It is currently undergoing necessary fitting out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

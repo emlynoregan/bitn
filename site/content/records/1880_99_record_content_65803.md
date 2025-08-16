@@ -45,4 +45,4 @@ publication_slug: record-1880-99
 
 Industrial School for the Blind Continental at Dr Brummitt’s was a success.  The garden was lit by some 150 coloured lanterns suspended from the trees.  They showed clearly from surrounding hills which aroused comment.  The entertainment comprised an overture on the piano, a song by Miss Pearce, a duet by the Misses Pearce, two choruses from the Burra High School children, two choruses from Burra School children, songs by Messrs Winnall and Page, a duet by Messrs Winnall and Hawkes, stump speech by Mr Trotter, pole exercise by Burra School children, piano selection by Mrs Blundell & Miss Builder.  Gymnastic capers were performed by Messrs Elliott Brummitt, Robert D. Brummitt, Robert Wilkinson, Cecil Sangster and Essington Lewis.  The lads, especially Elliott Brummitt, acquitted themselves very well.  The Burra Band came out of an extended recess for the occasion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Notice.  SA Mining Association calls tenders for copper in quantities of not less than five nor more than one hundred tons.  Tenders close 11 a.m. 23 June.  Henry Ayers, Secretary, Adelaide, 15 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

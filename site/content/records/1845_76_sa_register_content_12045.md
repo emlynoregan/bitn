@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 We have had the Rarey of the North among us this week, giving lessons in horse-taming.  Several people were instructed by Mr Watson, who had operated on a colt belonging to a person in the neighbourhood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

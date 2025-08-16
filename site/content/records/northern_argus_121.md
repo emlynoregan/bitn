@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Caring & Sharing Group begins again on 24 September when a counsellor from Marriage Guidance will speak.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

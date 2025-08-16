@@ -30,4 +30,4 @@ We favour the extension of better Government schools in SA and the institution o
 
 ‘We hope it is not necessary to say anything to convince parents of the importance of giving their children a good education.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

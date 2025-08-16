@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Black Springs.  First and final dividends are being prepared for the Assigned Estate of Arthur Worby, Licensed Victualler of Black Springs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

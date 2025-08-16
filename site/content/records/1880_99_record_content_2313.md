@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr Lipsett’s Departure.  The presentation to Mr Lipsett was kept very quiet and the paper was not invited to be represented.  If, as is reported, the address was signed ‘on behalf of the inhabitants’ by the Mayor, it was wrongly done as the Mayor has no authority to pledge ‘the inhabitants’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

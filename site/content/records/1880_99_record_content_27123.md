@@ -38,4 +38,4 @@ Adelaide to Sydney & return:
 
 Cheaper excursion fares were available from Melbourne to Adelaide and return for December 2 & 9, returning by 5 Jan. 1888.  These were to encourage Victorian visitors to the Adelaide Jubilee Exhibition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

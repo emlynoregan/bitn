@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Letter to Editor re Federation and Centralisation saying that the latter is incompatible with true democracy – and don’t trust the lawyers who are advocating acceptance of the bill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

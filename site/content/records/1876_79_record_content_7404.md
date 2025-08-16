@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Editorial on a Floricultural Society. A meeting on Friday of the Burra Agricultural Society (the Show Society) considered a flower show, but thought the Society was not strong enough to support a second show. This we think was a mistake. It is now a question of taking up the issue independently of the Ag. Society. If a show is to be held this year steps must be taken at once. The Institute would be a good place to hold such a show.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

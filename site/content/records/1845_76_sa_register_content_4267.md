@@ -35,4 +35,4 @@ Obituary.  Samuel Stocks Jnr died at his residence in Hindley Street West last S
 
 Samuel Stocks Sen. died 8 March 1863 aged 76 at Prospect Village.  Both arrived in SA in 1843.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

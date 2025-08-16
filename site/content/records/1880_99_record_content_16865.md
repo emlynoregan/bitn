@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offence.  Thomas Watkins, vegetable and fruit hawker of Hampton, was charged with assaulting a ten-year-old boy, Alfred Cullen, whom he lived next door to.  He was fined £1 plus £2-1-0 costs and being unable to pay got 14 days in gaol. [But see VI, 424, 20 March 1885 Page 2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

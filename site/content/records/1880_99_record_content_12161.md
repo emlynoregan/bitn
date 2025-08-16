@@ -31,4 +31,4 @@ Editorial on the appointment of a Medical Officer for Burra.
 
 The duties are rather nominal unless an outbreak of diseases occurs.  The work is elsewhere paid anything from £25 p.a. at Moonta and Port Augusta down to being gratis at Hindmarsh.  In Burra only Dr Sangster is qualified. (Dr Brummitt being disqualified because he is Mayor.)  The present rate yields at best only £30-£40 beyond the sum needed for the scavenger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

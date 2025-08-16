@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 North Central Battalion Volunteer Militia Reserve Force will hold a military encampment at Gladstone over Easter at the volunteers’ own expense.  As costs are considerable the assistance of the public is sought.  It is expected 20 from Burra will go.  Donations of chaff, flour, bran, potatoes, jams, milk etc. are welcomed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

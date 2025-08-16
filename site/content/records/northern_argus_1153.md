@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Gerry Baulderstone’s new Burra Radio & Electrical Store opened in the premises rebuilt after Jennison’s fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

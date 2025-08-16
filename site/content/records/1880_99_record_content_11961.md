@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 New Year’s Day.  The main event was the Kooringa Wesleyan Sunday School picnic.  The Burra Brass Band and a large number of wagons, traps etc. headed out to the woolshed and shearers’ kitchen, which had been kindly, lent by Mr McCulloch.  Caring for the needs of pupils was a somewhat arduous task.  Families picnicked along the creek for a long distance, many bringing their own provisions.  Various sports were arranged and a well-contested bicycle race was won by Mr John Anderson with Mr Reiss 2nd.  The return was c. 6p.m.  Unfortunately Mr Anderson injured his arm when thrown from his bicycle on the way home.  Three children slipped into the creek and one child cut its head running into a plate carried by another.  On getting out of the trap back in Kooringa, Mrs Holder was thrown to the ground with a child in her arms, when the horse suddenly moved, and she was knocked unconscious.  The child was not injured and Mrs Holder is recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

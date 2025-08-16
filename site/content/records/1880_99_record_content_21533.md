@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Offence.  Michael Collins was charged with being drunk in a public place and resisting police when he was arrested in Market Square on Friday afternoon.  When being led off by Constable Murray he assaulted him, knocking him into the gutter.  He was restrained by passers-by, including Mr McDonald, the keeper of the Redruth Gaol.  Fined £5-5-0
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ St Mary’s, 1 April.
 
 The McCulloch memorial window was dedicated at St Mary’s by the Ven. Archdeacon Dove of Walkerville, assisted by the incumbent, Rev. A.G. King.  Dove had been associated with the McCulloch family 20 years earlier when he had been elected Archdeacon of Flinders and had visited Gottlieb Wells Station where he was always welcomed by the late Mr & Mrs McCulloch.  The window is 13’6” high.  The central pane is of the Crucifixion and to the west is the Blessed Virgin Mary and to the east St John the Divine.  The window is in loving memory of Margaret McEwen, Beloved wife of Alexander McCulloch who departed this life on 2 April 1881, aged 67 and Alexander McCulloch, who died 16 October 1890, aged 80.  It was erected by their sons and daughters and manufactured by Messrs Jones & Willis of London and erected by J.S. Jarvis of Walkerville.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

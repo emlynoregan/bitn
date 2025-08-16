@@ -29,4 +29,4 @@ Masonic Lodge.  Kooringa Lodge No. 6 [Which had gone into recess in December 188
 
 [This attempt presumably failed because the lodge remained closed till August 1899.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

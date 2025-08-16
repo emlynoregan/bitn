@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Firewood.  92 persons this month have been issued licences to gather wood, indicating the demand there is from the Mine, two flour mills and the increasing population.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

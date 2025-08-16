@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Excursion Tickets to Adelaide will be available after 13 June at the cost of a single fare on account of the Jubilee Exhibition there.  [The exhibition was held in a then new building on North Terrace, just east of where Bonython Hall is today, and in adjacent structures.  A railway line was run to it from Adelaide Station, under King William St, passing along the south side of the Parade Ground and across the present University grounds.  The exhibition celebrated the joint jubilees of Queen Victoria’s reign and the founding of SA and Adelaide.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

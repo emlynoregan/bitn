@@ -28,4 +28,4 @@ Mr Basedow:
 
 Came to the colony in 1848 and represented the District of Barossa 14 years in the House of Assembly.  The cause of the current depression is world wide low commodity prices and also the loss of banks in adjacent colonies and our own extravagance.  The Government had paid too much for improvements on land now lying idle.  Discord with labour was a problem.  He was against increased land tax.  Retrenchment in the public service was needed and the cost of ministers, judges and the Government also needed cutting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

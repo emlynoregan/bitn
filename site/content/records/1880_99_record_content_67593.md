@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  Burra Cricket Club met at R.D. Pascoe’s on 11 December.  They will play the Mongalata’s [sic] on 16 December at Victoria Park at 2.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

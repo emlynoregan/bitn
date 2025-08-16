@@ -28,4 +28,4 @@ Henry Marshall writes to the editor expressing his concern that if gold is not f
 
 15 January 1852, page 3
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

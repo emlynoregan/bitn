@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Cricket. A meeting at the Commercial Hotel on Saturday night resolved that the next match will be versus Clare at the Aberdeen ground tomorrow at 10.30 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

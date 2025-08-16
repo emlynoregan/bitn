@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial.  The editor supports Cr Sampson’s wish to dispense with the position of inspector for six months.  The position was ‘Ranger, Inspector of Weighs etc., Collector of Rates, Overseer of Works under the Town Council and Inspector under the Board of Health.’  The salary was £110 p.a.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

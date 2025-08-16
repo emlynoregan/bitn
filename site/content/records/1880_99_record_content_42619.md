@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Magpies have become a danger to people now that street trees have provided nesting places.  Some are saying that magpies should be limited to farms and not towns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

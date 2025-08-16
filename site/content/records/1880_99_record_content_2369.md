@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Coaches.  Due to the very easterly position of the northern railway the coaches from Hallett to Jamestown will continue to run and another from Jamestown to Yarcowie may be started.  This is only about 15 miles whereas the trip by train via Petersburg is about 40 miles.  The two lines should have met between Ulooloo and Yarcowie.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

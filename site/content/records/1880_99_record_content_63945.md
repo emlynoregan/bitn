@@ -33,4 +33,4 @@ Obituary.  C. Dunemann of Terowie died aged 41, at Terowie.  He was born in Burr
 
 [Charles Augustus William Dunemann died 7 April 1898 aged 41, but birth apparently not registered.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

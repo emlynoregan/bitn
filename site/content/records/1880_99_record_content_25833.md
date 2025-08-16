@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Steps to remove the goats in the town will be taken.  Where owners can be identified they will be prosecuted and all other goats will be killed.  This is a necessary step to preserve the trees now planted around the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Marriage.  In New Zealand Darryl Woolley, son of Des & Gloria Woolley of Burra has married Marjorie Deeson.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

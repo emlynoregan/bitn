@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Advertisement.  Wanted immediately 100 to 130 drays to proceed immediately to the Wheal Blinman and the Yadanamutana Mines to cart up provisions, stores, mining equipment etc. from either Adelaide or Port Augusta and to return with copper ore.  Apply at the stores of Martin Gaedechens & Co.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

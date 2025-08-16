@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on a further case when local JPs had their decision overturned.  The writer accuses them of failing to give sufficient thought to the matter, which resulted in the accused then suing for malicious prosecution and wrongful imprisonment. [With some success, though he got only £30 of the £400 sought.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

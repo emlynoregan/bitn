@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advertisement.  Tenders will be received from undertakers for the interment of deceased destitute persons of the Burra and neighbourhood.  M. MacDermott, SM.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

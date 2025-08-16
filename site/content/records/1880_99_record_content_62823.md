@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Rifle Club will submit names to the Government shortly.  It is a national calamity not to be able to procure enough rifles to meet the requirements.  The old rifles are unfit.  Practices in the meantime will use all kinds of weapons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

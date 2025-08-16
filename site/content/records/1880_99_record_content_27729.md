@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Entertainment.  There was a full house on Wednesday last for the Payne Family concert.  An encore was demanded after each item.  So successful were they that they put on an extra farewell concert on Thursday night, which was also well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

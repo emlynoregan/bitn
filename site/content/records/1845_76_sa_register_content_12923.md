@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Races.  The annual races took place at the racecourse on 2, 3 & 4 January 1860.  On the first day there was a large attendance.  On the third day a ladies’ race was arranged.  Three started and the winner was Miss Woollacott.  Several other private races were also got up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

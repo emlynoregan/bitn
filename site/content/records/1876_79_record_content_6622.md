@@ -36,4 +36,4 @@ Mr Rounsevell has left the colony and we assumed he left his resignation behind 
 
 The Post Office. Postal services are not good enough. There is one delivery a day in Kooringa, but none in Redruth. The mail cart goes to the railway four times a day, but only takes mail to Redruth twice. Redruth should get mail to and fro whenever the mail cart goes to the station. Redruth and Aberdeen should have a delivery every afternoon and Kooringa a second delivery at c.9.00 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

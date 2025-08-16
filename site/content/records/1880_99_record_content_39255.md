@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Then Crs Watt and Parks moved to do away with any permanent overseer or dayman and have all the work tendered for.  If this is not directed against the present overseer it ‘savours very much of sheer incapacity as local legislators of the Councillors moving in the matter.  To engage a fresh man every other week be mere nonsense.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

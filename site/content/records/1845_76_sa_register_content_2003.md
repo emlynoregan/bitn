@@ -27,4 +27,4 @@ Advertisement.  The stage-cart Reformer leaves for Burra Burra Mines tomorrow (T
 
 The driver still collects debts at 5%, carries cash on guaranteed security at 2½%, changes gold for paper at the same rate and discounts any respectable gentleman’s orders at 5%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

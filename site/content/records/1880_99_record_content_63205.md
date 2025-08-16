@@ -30,4 +30,4 @@ Burra Town Council, 20 December.
 
 The Mayor reported he had interviewed W. West Sen. with reference to the Council using the old Baptist Church in Thames St as a storeroom and he reported favourably, but advised writing to the Baptist Association as the property was officially granted them for religious services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

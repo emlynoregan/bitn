@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Train activity has been busy this past fortnight carting wheat from the Hallett and Burra silos.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

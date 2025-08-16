@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  Aberdeen played Petersburg-Terowie Combined: not Northern Areas as previously advised.  The pitch was soft and sticky and altogether the worst ever played upon and an asphalt pitch is urgently needed.  There were about 70 spectators.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

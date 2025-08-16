@@ -29,4 +29,4 @@ Isaac Killicoat writes from Abberton Park, 19 September
 
 [He writes to confirm that the Copper Company transferred its traffic to the Kapunda line solely because it provided a better facility for transporting its product.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

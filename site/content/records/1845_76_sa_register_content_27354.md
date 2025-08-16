@@ -32,4 +32,4 @@ In the evening there was a concert at the Institute Hall.
 
 The proceeds will aid the Burra Hospital Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

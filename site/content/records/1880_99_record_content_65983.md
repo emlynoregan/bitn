@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Hanson D.C. Clerk reported that no accommodation could be provided for the teacher at Leighton School as it was only a provisional school and residents needed to take means to have it declared a proper school.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

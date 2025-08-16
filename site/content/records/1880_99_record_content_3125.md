@@ -31,4 +31,4 @@ Obituary & Inquest.  Death of Susan Wilks, [nee Stewart] wife of Thomas Wilks, f
 
 Mrs Wilks fell ill 21 Jan and her husband gave her a little brandy and a little castor oil and she seemed to be better by evening.  At 2 a.m. 22 Jan. she had severe pains and took some more brandy.  The husband sent for his mother, but the deceased had died before she arrived.  Dr Brummitt said that death had resulted from a miscarriage, the decease having been three months pregnant.  There had been surprisingly little haemorrhage, which is usually the cause of death in such cases.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

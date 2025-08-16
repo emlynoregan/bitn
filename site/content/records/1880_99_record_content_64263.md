@@ -48,4 +48,4 @@ Mr Haslam was pro-federation and favoured agricultural settlement ‘within the 
 
 Mr Jeffs wanted a close watch kept on finances and opposed a property tax.  He believed in fewer MPs.  He favoured the current mix of land and income taxes and supported a railway to the Queensland border, the Bundaleer and Barossa Reservoirs and more liberal mining and pastoral laws.  He was opposed to the redistribution of seats according to population as this would favour centralisation.  He favoured a division of the Legislative Council Districts.  He opposed the present police moiety and alien races.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

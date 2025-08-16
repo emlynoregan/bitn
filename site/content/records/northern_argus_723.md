@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 [Photo of the church with scaffolding in place and of Fr Morris with the old stained glass window.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

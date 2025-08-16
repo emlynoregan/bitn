@@ -55,4 +55,4 @@ Daniel Leyson, 14, apprentice at Sara & Dunstan’s:
 
 Saw smoke through the top of windows of grocery store - saw a bag on fire but no flame, but while I was looking a flame appeared.  Told Mr Austin & Mr Killicoat and Mrs Harvey.  The door was closed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

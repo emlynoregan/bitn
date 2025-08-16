@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 On Monday news was received that a shepherd on Mr Chewings’ station had committed suicide by taking poison.  The police have gone out and an inquest will be held.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

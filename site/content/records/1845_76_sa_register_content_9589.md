@@ -39,4 +39,4 @@ Wanted: Men to drive horse carts and to make themselves generally useful.  Apply
 
 Wanted: Furnace labourers or helpers.  Apply the Copper Smelting Works, Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

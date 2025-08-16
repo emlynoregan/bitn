@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Amateur Athletics Club met at the Commercial Hotel on Wednesday for its second half yearly meeting. A successful year was reported. President Lipsett was glad to see interest in outdoor activities as there had been none when he came to Burra. The grand total of receipts for the sports day from all sources was £76-8-8. Expenditure had been £57-11-10 which left a balance of £18-16-10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

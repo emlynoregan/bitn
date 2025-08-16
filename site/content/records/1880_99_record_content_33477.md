@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Grace Everett has been charged with the theft of a large basket of washing from the home of Charles Schutz.  The basket and clothes were found in her house.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

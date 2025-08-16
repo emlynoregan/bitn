@@ -34,4 +34,4 @@ The Princess Royal Mine has recently been inspected by Captain Matthew Bryant.  
 
 A disturbance occurred recently between some men employed in building a stone wall around a portion of Dr Browne’s Booborowie Run. There was a fight between a party of Irishmen and a party of Cornishmen, in which the Cornishmen were worsted.  It is likely to end up before the Local Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

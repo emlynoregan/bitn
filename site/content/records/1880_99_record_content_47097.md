@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Hallett Sports - Annual Picnic, Sports, Entertainment and Institute Anniversary on grounds lent by H. Bowman, Wednesday 9 November.  Entertainment and Ball in the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

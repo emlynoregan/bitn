@@ -33,4 +33,4 @@ W. Peel Nesbitt writes denying he is likely to remove from Burra as Mr Pearce is
 
 `One of the Public' writes accusing Watson of allowing Corey to win in the champion race at the recent sports. In the 220 yds handicap Corey had a six yard start and Watson beat him easily. The public, he warns, will not long subscribe to meetings if such behaviour is allowed to pass unchallenged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

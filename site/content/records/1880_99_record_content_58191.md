@@ -46,4 +46,4 @@ He spoke against the State Advances Bill.
 
 On a free trade treaty with New Zealand he said it would not be to our advantage and would be detrimental to the interests of other Australian colonies and thus an impediment to federation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

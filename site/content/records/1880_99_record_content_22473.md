@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Petition to the House of Assembly has been signed by 12,042 persons desiring that the public houses be open from 8-10 p.m. on Sundays.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  The Aberdeen Cricket Club met at the Exchange Hotel on 29 August.  N. Opie presided over a moderate attendance.  The season will open next Saturday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

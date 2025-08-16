@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Worrell & Gardiner’s Troupe has arrived and promises excellent entertainment on Thursday, Friday and Saturday evenings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

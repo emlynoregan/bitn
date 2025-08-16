@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  Last Saturday two sides were chosen from those that turned out.  W. Phillips’ side 7.0 defeated G. Herbert’s side 1.0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -51,4 +51,4 @@ The jury returned a verdict of death from natural causes.
 
 [Donald Ross died 4 November 1861 at Gum Creek Sheep Run aged 45.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

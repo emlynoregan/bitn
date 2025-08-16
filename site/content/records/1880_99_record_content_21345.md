@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.R. Ridgway is a candidate for the late Captain Isaac Killicoat’s position on the Midland Road Board.  Council has to nominate the candidate and the road Board will then vote on candidates nominated by various councils.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

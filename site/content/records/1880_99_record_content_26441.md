@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council met on Saturday and again on Monday 10 Oct. and revised the assessment.  Reductions have been made varying from 10 to 30%.  Due notice will of course be given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Captain Melksham’s farewell social is tonight.  He leaves after 7 months’ work here.  Mrs Melksham has been ill for about 12 weeks and will not accompany her husband for at least a week or until she recovers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Offences: Foolhardy youths were running in front of horses and touching the animal's head before leaving in time to escape being run over. Dangerous to both the youth and the driver of the vehicle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

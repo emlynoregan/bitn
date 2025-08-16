@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Pony Club Horse Show last weekend was held successfully in excellent weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

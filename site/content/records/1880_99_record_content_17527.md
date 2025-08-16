@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  We have arranged to receive all Reuter’s Agency telegrams sent to the colony.  For £1 p.a. we will deliver Record Extraordinaries as the telegrams arrive, to all subscribers who will thus get news as soon as it is known in the city.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -56,4 +56,4 @@ The bank returned the cheque unpaid and he notified the police.  Corporal Shaw f
 
 Richard Couch said he has paid the cheque to a man named James Linch on 18 May for lamb minding – it was drawn for £4-14-3.  James Williams gave evidence that he saw Linch and the defendant in the Pig & Whistle and saw Linch give the prisoner a cheque and saw the prisoner write something on it.  He also heard the prisoner say he would go with the cheque to Drew’s and later saw him coming from Drew’s with a bundle.  The prisoner was committed for trial in the Supreme Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: northern-argus
 
 Obituary.  Mrs Marj. Jeffery, wife of former Council Chairman Roy Jeffery, died last week.  She taught at Burra School for many years.  [Born Marjorie Olive Tiver 27 May 1903: died 26 June 1987 Burra.  Married Roy Joseph Jeffery 1928.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

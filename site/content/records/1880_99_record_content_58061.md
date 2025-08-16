@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church held their annual effort on 1 & 2 September.  Rev. Hugh Beggs of Dunedin preached twice.  The service of song in the afternoon was The River Singers.  Financial results were c. £30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

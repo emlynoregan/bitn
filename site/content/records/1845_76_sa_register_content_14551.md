@@ -60,4 +60,4 @@ Dr Webb explained the reasons for the withdrawal of Mr Clark.
 
 Mr W. Dale then proposed Mr Neales and a show of hand showed in his favour by a considerable majority.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Wesleyan Foreign Mission Services were held last Sunday and Monday in Kooringa.  Mr Jarrett the Primitive Methodist minister delivered the sermons.  About £13 was collected in Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

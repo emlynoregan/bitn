@@ -56,4 +56,4 @@ J. Snell appointed Inspector.
 
 J. Lapidge appointed Waterworks Engineer. (Chosen from 12 applicants, including Mr Littlejohn.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

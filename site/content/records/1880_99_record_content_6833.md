@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The development of the grounds will come from the bonds, which brought in £465.  The wall will cost more than £400.  Additional funds will be needed to cut the high part and fill the lower.  The football and cricket clubs should raise money by a series of concerts and £20 will also be needed to get water from a reservoir formed by an old quarry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

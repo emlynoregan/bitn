@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ reports that the cricket Club lecture was a financial failure.  He says the Friendly Societies are preparing for a sports day to include bicycle contests as a special feature as well as the Sheffield Handicap.  He comments that bicycling continues to grow in favour with ladies around the world, Mr Grundy notwithstanding.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

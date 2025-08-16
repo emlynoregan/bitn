@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Hartley Memorial Fund.  The newly formed Teachers’ Union will co-operate with the committee of the Hartley Memorial Fund to raise £1,500 or more to establish scholarships for public school children or some other suitable scheme to perpetuate the memory of the late Inspector General.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

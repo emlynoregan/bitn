@@ -43,4 +43,4 @@ Excess of Immigration	1391
 
 [The average retail prices for clothing and provisions are printed and so are some average wages.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

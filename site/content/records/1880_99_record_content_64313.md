@@ -55,4 +55,4 @@ Though perhaps not relevant to this case Mounted Constable Richard Joseph Jemiso
 
 One might also suspect that this whole thing is a reaction of Jemison to the results of the Agnes Gully case.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 Commercial St has been remetalled this week and loads of earth have been carted in to blind 
 it. All the time the water table was full of suitable matter that would best be removed from where it merely retards the run-off and makes it hard to cross the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Accident.  On Saturday the Catholic Priest had a fall when mounting his horse near the chapel in Kooringa and, though not badly hurt, had to be taken home to Clare in a cart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 SA Election.  A public meeting was held at the Burra Hotel on Thursday evening to hear Mr Mildred deliver his political views.  About 300 persons attended and Mr Mortlock took the chair.  The proposition that Mr Mildred was the man to represent this district in the New Council was greeted with tremendous applause.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

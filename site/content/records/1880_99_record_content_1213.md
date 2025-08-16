@@ -35,4 +35,4 @@ Redruth Band of Hope.  This was first organised about 20 years ago and ran c. 10
 
 Miss O’Brien played.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

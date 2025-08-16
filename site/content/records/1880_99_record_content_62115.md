@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Kelly has been committed for trial on the second charge of embezzlement at Broken Hill.  Other charges were then dropped.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Town Council.  The Mayor, Mr Holder, reported that attention had been drawn to the fact that the circus which had been in town for a day or two had carried their things through the streets in wagons to the railway station on Sunday, and he had asked the constable to take action in the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

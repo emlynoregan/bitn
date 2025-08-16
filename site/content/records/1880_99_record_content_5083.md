@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Owners of cottages are not prepared to look after street trees.  The Council will have them watered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

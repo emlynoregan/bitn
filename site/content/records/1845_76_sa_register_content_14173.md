@@ -48,4 +48,4 @@ Yesterday the anniversary of the Burra Burra Lodge MUIOOF was celebrated with a 
 
 The mail remains unsatisfactory.  On Monday it broke down on the road about 25 miles from Kooringa and the mail had to be brought in on horseback.  Today the mail-driver was fined for working horses with sore shoulders.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

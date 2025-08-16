@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Grasshoppers invaded the town in their millions on Friday, but they soon headed off south.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

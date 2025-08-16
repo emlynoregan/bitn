@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The forthcoming election promises to arouse more interest than the last one.  One of the candidates was rejected last year and the whole thing is a more local affair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

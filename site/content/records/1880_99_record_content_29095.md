@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Payment for MPs.  W.H. Hardy submits a one-column essay from Mr Black of NSW strongly supporting the payment of Members of Parliament.  It is argued with far less hyperbole than is usual for Hardy’s own writings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

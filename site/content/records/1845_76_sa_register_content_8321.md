@@ -31,4 +31,4 @@ Central Road Board
 
 A letter was read from Mr Henry Ayers, Secretary to the SA Mining Association relating to the road beyond Gawler and especially to the crossings of the Light and Gilbert.  Resolved that Mr Ayers be informed that the Board had already taken steps to repair the worst places on the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

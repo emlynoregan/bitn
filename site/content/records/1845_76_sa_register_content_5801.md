@@ -48,4 +48,4 @@ A show of hands indicated a large majority in favour of Mr Lang.
 
 A committee has been established among the tradesmen of the township to secure the return of Mr Lang free of expense.  He has said he will not canvass a single voter or spend a shilling on his election.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

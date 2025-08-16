@@ -27,4 +27,4 @@ Local Court, 19 April
 
 T.P. Halls was ordered to pay 5/- a week to T. Williams until a claim for £2-15-9 is satisfied.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

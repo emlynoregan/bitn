@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Booborowie.  The creek crossing a few miles east of the sheep-station was repaired by the Government two years ago, but has been washed out by the recent floods and is impassable by four-horse coach.  The mail is being diverted a considerable distance and thus delayed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

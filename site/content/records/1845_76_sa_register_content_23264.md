@@ -33,4 +33,4 @@ Captain Hart addressed the crowd.  [He began with a conventional lot of platitud
 
 He thought the present system of education was subsidising the wrong students.  He also addressed the question of port facilities and the need for taxation reform.  [The speech is reported at length.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

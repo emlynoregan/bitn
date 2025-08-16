@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Kingston St Bridge. No real action, though the iron work for it has been 4 ordered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

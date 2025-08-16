@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  St Joseph’s Hall, Kooringa, 9 January.  Drawing of the Prizes for the Art Union to clear the debt of St Joseph’s Residence, 2 p.m.  Public Tea at 3.30 p.m. and a Ball in the evening at 7.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

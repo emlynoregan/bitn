@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The dog poisoner is about again.  On Monday morning 16 dogs were found poisoned in the town from baits laid in the streets.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

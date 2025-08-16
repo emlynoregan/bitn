@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Paul O’Bryan’s Band
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

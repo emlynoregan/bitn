@@ -38,4 +38,4 @@ On Wednesday a wire was received by the police asking if Mr Nankervis of the Bur
 
 Some of the goods were sold to an Asyrian [sic] named Ahmed, at Narridy.  He bought £5 worth on being assured the inscription on one item was their name; he being unable to read English.  He was too much afraid to object as the men sought in exchange three pairs of boots, and when he queried this he was threatened with violence.  When Ahmed got to Narridy he asked a storekeeper there what the inscription said and it read H. Nankervis.  The police were informed and two men whom the Assyrian identified were arrested.  One gave his name as Furgusson, alias Pennycruick, the other as Finn.  They were charged at Snowtown.  Mr Nankervis identified the article and will go to Snowtown to complete the case.  Mr Nankervis recognised one of the men as having been in Burra recently.  The time since the robbery will make recovery of the other pieces difficult.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Now when the Govt. has taken it upon itself to vote £820 to supply Aberdeen wit
 
 The Mayor was of the opinion that a trough at the Railway Station gate would satisfy all. The meeting however, felt that this would deprive Aberdeen of their rights with the pipe already laid to the near the National Bank with a standpipe and trough erected. The meeting then resolved unanimously "This meeting disapproves of the action of the Burra Corporation in interfering with the water supply of this Ward, thereby damaging the best interests of the ratepayers and the public generally.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

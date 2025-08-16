@@ -33,4 +33,4 @@ Astonishing Traffic on the North Road
 
 At Mr Templar’s new tavern, one stage beyond Gawler, the following was seen about noon three weeks ago: 11 drays laden with wool, 2 saddle horses, 2 horse vehicles and 18 drays with copper bound for Port Adelaide.  A few Sundays ago over 50 drays going or coming from the Burra Burra Mines were halted at Uphill’s unfinished tavern between the Light and the Black Springs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

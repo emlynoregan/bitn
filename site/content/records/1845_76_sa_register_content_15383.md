@@ -30,4 +30,4 @@ Last Friday evening the Rev. J. Standrin delivered a lecture entitled Today and 
 
 A public meeting was to have been held at the Court House Hotel on Monday to discuss the Central Road Board’s proposals to change the route of the North Road, but so few people attended that the meeting was postponed to next Monday.  In the meantime a committee was appointed to examine the matter and Mr A. Motley, as secretary, was to write to the Board requesting tracings of the local surveys.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

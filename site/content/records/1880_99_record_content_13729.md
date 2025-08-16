@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 28 ratepayers presented a memorial desiring that the Salvation Army be prevented from parading the streets on the Sabbath with a brass band ‘in desecration thereof’, ‘utterly subveraive [sic] of the decorum which should characterise a day set apart for rest and devotion.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

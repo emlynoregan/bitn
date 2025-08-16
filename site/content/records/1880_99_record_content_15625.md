@@ -28,4 +28,4 @@ In connection with the Rose of Sharon Tent IOR.
 
 Main event is the Rechabite Handicap over three distances: 150, 220 & 350 yds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

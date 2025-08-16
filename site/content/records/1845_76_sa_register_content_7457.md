@@ -31,4 +31,4 @@ Discovery of Gold
 
 It is reported that gold has been discovered near the Black Rock about 180 miles northeast of Burra by a person called Smith and that Mr McKinley, a stockholder on the Darling has taken a sample to Adelaide and has returned confirming it is gold.  A party from Burra has already set out to ascertain the facts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

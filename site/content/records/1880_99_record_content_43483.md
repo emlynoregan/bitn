@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes to propose a picnic for the town’s children for Christmas, on the Recreation Ground.  It could be organised for a few pounds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

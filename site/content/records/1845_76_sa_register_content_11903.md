@@ -52,4 +52,4 @@ He favoured the extension of education.
 
 A motion declaring him a fit and proper person to be elected was carried without dissent and the quietest election meeting ever held in Burra was all over in about 20 minutes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

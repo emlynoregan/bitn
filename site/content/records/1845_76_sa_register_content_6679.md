@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 The Burra Mine has not suffered in such a serious way.  Some of the shafts and pits have acquired extra water, which will cause some delays in operations.  Given the distress of those who have been forced from their creek huts, it is hoped that the Burra Mine Directors will take swift action to erect cottages to rehouse them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

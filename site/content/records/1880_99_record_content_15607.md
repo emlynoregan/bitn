@@ -47,4 +47,4 @@ Esther Jane Laity	fined 10/-	for not sending son to school as required
 
 James Nelson	fined 20/-	for hindering P-C Radford who was attempting to remove John Armstrong (who was the worse for drink) from a Salvation Army meeting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

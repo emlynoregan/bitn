@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The North Burra Mine is to be worked initially by a party of four.  A rough sample assayed at 20% copper and a washed sample gave 45%.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

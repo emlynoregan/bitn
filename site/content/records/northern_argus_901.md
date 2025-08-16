@@ -29,4 +29,4 @@ Restoration of the lock-up (at one time threatened with demolition).
 
 From the key hire system $7,835 had been generated and commission from National Trust Tours added $3,322.  O’Connor Tours brought in $4,800 and other fund raising contributed $3,000.  Grants of over $74,000 had passed through the books in 1985.  He estimated operating expenses for 1985 at $20,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

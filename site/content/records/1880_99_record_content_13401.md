@@ -47,4 +47,4 @@ Notices re walking around corner to be fixed at Henderson’s and removed from F
 
 Tenders called for a nightman’s licence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

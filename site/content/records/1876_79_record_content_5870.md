@@ -24,4 +24,4 @@ Letter to the Editor. Another letter on the inspector's dispute.
 
 `While being across the line might prevent the Inspector from taking proceedings himself it should not prevent him from asking the proper persons to do so.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

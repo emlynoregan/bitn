@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Burra Record. By the next issue The Record will have moved to the store next to Drew & Co. in Market Squ. Known as Stansbury’s and with new machinery etc. hope to give better service for any class of general or ornamental printing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

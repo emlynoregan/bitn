@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 On 3 June the series leaps to No. 341 and then runs to 354 on 2 December.  In this sequence the number in round brackets indicates the number of times it was used in Volume XV to the 2 December 1896.  (The numbers 332 to 340 are not used.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

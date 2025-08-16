@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Denomination is to celebrate its SA Jubilee and begins fundraising for it with a celebration this year.  The first church was founded in SA on 11 May 1837.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

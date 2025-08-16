@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Schoolroom Piano Fund benefited from a Toy & Fancy Fair held on Thursday 24 May.  The fair was opened at 3 p.m. and offered a substantial tea at 6 p.m. after which there was a musical evening ‘in which the nigger element was very much in evidence.’  The proceeds were more than enough to complete the purchase of the piano.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Joker Claim.   There is over a column of a humorous response to the geologist’s report on The Joker, and ½ column in a letter from W. H. Hardy on the same topic in a typically harsher vein where he must again come close to slander.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

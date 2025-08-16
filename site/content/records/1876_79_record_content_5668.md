@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Miss L.E. Goss will open a school for young ladies on 20 Jan. in the German Chapel, Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

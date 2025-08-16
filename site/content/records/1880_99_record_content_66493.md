@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Captain Melksham will be farewelled in the next week or so as he has been transferred to the city.  He has been a most successful officer in Burra, giving excellent counsel: amiable, yet firm.  Mrs Melksham has spent eight weeks in the Burra Hospital, but is now recovering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

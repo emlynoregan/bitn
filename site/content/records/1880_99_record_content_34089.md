@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Local Journal.  We have received the first issue of the Burra Literary Star, which we believe is to be published quarterly.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

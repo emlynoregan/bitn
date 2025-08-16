@@ -40,4 +40,4 @@ In reference to the frontage line of Dr Brummitt’s new building, he was told t
 
 The Creek path to Mitchell’s Flat is to be attended to.  Mr Dobbie will be asked to supply specifications for the Market Square work in connection with fitting a windmill and tanks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

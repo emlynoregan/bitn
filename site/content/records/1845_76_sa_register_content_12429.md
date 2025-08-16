@@ -33,4 +33,4 @@ Having had occasion to travel lately, I must call attention to the abominable st
 
 The mule teams, with a return load of hay, timber, barley, etc. passed through on Saturday evening en route to the Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

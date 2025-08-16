@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  The much-publicised game between Burra & Manoora on Saturday at Burra Oval failed to take place when the Manoora team was unable to come.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

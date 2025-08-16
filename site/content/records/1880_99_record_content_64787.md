@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute has received a circular from Mr Burgoyne, Chairman of the Parliamentary Committee for Institutes and Mr F.E. Meleng, Hon. Sec., notifying of a proposal for forming an Association of Institutes of SA, to protect their financial interests and for a more systematic representation of such in Parliament.  It was resolved that application be made for joining.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

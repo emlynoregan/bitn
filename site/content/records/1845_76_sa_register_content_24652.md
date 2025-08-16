@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  On 11 July the Warden Mr Peterswald and a well equipped party set out to prospect the vicinity of Scrubber’s Camp Mine northeast of the present diggings.  At present about 60 persons are at the field, of whom 40 are diggers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

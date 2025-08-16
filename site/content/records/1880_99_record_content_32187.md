@@ -35,4 +35,4 @@ Obituary.  Miss Symons, daughter of M. Symons, died on Tuesday morning from typh
 
 [Louisa Jane Mutton Symons born 4 May 1864; died 9 April, aged 24, of typhoid fever.  Her father was M. Symons, butcher of Kooringa.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

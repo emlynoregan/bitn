@@ -50,4 +50,4 @@ Council will accept and erect it at a cost of not more than £5.
 
 Council is to consider a new By-law to require hawkers to be licensed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Advt.  Baldina Races 24 May (Queen’s Birthday Holiday) in Mr Midwinter’s Pad
 
 4 races: Maidens, District Plate, Hurdle, Hurry Skurry.  To be followed by a ball in Midwinter’s Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

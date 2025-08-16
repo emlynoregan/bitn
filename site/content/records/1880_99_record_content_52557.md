@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on The New Year.  There are hopes for more action from the Government and more harmonious working of the local Council.  At the start of 1893 there were prospects for the restarting of the mine, but that is now as far off as ever.  The paper is well supported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

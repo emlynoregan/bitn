@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Lill Sellers, a lad of 13 was charged with throwing stones at a railway train whilst it was in motion near Aberdeen on 28 June 1880.  He was released upon his father’s undertaking to give him ‘a severe flogging’ and paying the witnesses expenses of 14/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Sir Henry Ayers was presented with an illuminated address in Adelaide on Wednesday at the Mayor’s Reception Room by the Hon. F.W. Holder.  Sir Henry retired last year from active politics.  The address was prepared by A. Walmsley of Norwood and is beautifully illuminated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

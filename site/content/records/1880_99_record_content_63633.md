@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Lynch Family Bellringers, Instrumentalists and Vocalists will visit Burra on 21 February.  3/-, 2/- & 1/-.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

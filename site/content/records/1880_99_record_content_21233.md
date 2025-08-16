@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket.  On Brewery Flat last Saturday, Young Australians 79 & 9 defeated Tradesmen 20 & 66.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

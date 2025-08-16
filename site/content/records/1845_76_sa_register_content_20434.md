@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Great expectations are raised concerning the successful opening of the Princess Royal running sett.  Beautiful specimens have been seen and further experiments will determine if it is a paying proposition.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

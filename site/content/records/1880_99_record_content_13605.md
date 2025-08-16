@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Obituary.  At Terowie a butcher called Martin fell while working on a shed and broke his spine.  He died last week leaving a wife and four children.  [John Frederick Martin, died 15 June, aged 34.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Letter to Editor from 'Qui Vive' also protesting about tin-kettling and about the inaction of police who stood by while some larrikin lads stood at Ford's corner and tied a rope across the new bridge to stop certain persons from crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

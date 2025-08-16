@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Jane Woods 15 years 9 months was subsequently charged, on the information of L-C Thomas, with being a neglected child.  Persons were called and gave evidence that the house kept by Mary Woods had a reputation as a brothel.  The girl was sent to the Industrial school till 18.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

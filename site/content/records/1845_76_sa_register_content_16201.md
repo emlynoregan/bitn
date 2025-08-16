@@ -28,4 +28,4 @@ Obituary/Inquest.  On Monday an inquest was held at Lowe’s Inn on the body of 
 
 [This death does not seem to have been registered and does not appear on SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

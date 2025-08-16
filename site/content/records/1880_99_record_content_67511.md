@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Karculta Mine.  The venturers could not get access to the land as the mining rights were held by SAMA which demanded £100 for a 20 acre site and 5% of the gross value of all metals obtained.  This was discussed in Parliament as an unreasonable demand.  Moves were made in Parliament to allow prospecting on privately owned land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

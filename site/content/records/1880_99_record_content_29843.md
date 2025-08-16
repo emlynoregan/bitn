@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from Samuel Gray urging a public meeting be convened with the district MPs and Mayor present to discuss ways to get the mine going again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

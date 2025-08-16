@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The Chinamen at the railway station are in the habit of trapping magpies and last week a tame one managed to get entangled.  Its wings were cut short and it had one leg broken, yet it managed to travel half a mile over difficult obstacles and returned home for food.  [It is likely this refers to the Chinese gardeners on the flat by the creek west of the station.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

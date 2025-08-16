@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Friendly Societies’ Parade service next Sunday at St Mary’s at 3 p.m.  Offertory to the Samaritan Fund of the Burra Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

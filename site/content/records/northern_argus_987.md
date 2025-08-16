@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Doug Ransom, Council’s architect, his wife Helga Linnert and their son Oliver will leave Burra shortly for Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

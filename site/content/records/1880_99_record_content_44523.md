@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Councillor G. Parks said through Councillor Sampson not being successful at the late elections the town was suffering very much.  Pretty rough for some one
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

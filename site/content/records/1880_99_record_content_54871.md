@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Shearing progresses satisfactorily in this district.  T. Warnes at Koomooloo started on 16 August under the 1894 agreement and finished on 20 September.  10 shearers were needed and over 30 applied.  Several made excellent wages and of the ten, six cut over 100 on 5 October.  The leading shearer cut 995 sheep in 9 days – cutting 110½ per day at 18/- per 100.  So non-unionists are reaping the rewards while unionists are depriving themselves.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

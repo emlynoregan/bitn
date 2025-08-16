@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice.  SA Mining Association.  Tenders are called for persons desirous of erecting a hotel, stabling and stockyards on 10 acres of land at the Burra Burra Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

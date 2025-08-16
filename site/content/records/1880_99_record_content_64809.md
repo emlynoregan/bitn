@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Public Buildings Dept. proposes to lay water on to the Reformatory from the main and seek permission to open the necessary ground in Tregony St.  Permission granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

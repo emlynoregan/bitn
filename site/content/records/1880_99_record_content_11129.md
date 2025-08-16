@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Tallant Bee died at his residence in South Clare on Wednesday last from heart disease.  He was Clerk of the Clare Local Court and of the Midland Licensing Bench: the former for over ten years.  Aged 73.  [Registered as 31 October 1883 aged 74.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

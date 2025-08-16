@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra United Friendly Societies Demonstration on Monday passed off very satisfactorily despite the very hot weather.  There was a procession of the Friendly Societies to the grounds.  Results of the sports are printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

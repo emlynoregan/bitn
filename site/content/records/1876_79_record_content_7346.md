@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Market Square Well. The bore has reached 196', but is delayed by a broken piece of tube at the bottom of the well. Just recently this has successfully been pushed aside and boring resumed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -38,4 +38,4 @@ It is surprising that the body was not noticed sooner, but the ledge slopes inwa
 
 Dr B. Poulton gave evidence of the injuries and state of decomposition.  The injuries included a fracture of the skull, which must have produced instant unconsciousness if not death.  The appearance of the body was consistent with death on the night of the 24 June.  The fall was 31” 6”.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

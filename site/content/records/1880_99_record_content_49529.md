@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  A meeting will be held at the Exchange Hotel on Wednesday 12 April for the purpose of reforming the Aberdeen Football Club.  A.W. Dow, secretary pro tem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

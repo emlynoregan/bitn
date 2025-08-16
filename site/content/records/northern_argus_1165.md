@@ -27,4 +27,4 @@ The BCS Jubilee 150 Project is a book to be called Relatively Speaking, Mementoe
 
 Over 450 entries have been submitted by students and about 40 adults are contributing to the effort as well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

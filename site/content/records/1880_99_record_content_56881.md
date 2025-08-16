@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Sheep per head	7d	7½d	8¾d	8½d
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

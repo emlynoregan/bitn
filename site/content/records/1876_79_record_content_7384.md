@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Market Square Well. In passing the obstruction the well was got out of plumb and it has proved impossible to straighten. Then the boring cable broke and 60' of rope fell down the well. Attempts are being made to recover it. It has however, been decided to abandon the borehole and start again with a 5½" bore instead of the 4½" one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

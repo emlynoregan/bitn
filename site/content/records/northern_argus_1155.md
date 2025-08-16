@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Steve Woolley has moved his video and photographic service into the shop vacated by Burra Radio and Electrical.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

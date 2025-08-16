@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 L-C Thomas, who has been in charge of Kooringa Police Station, was presented with an illuminated address today, prior to his departure from the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

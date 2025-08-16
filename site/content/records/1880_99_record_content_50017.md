@@ -33,4 +33,4 @@ Henry Hamilton Douglas was suspected of stealing the collection box from the Bur
 He was shot in the hip by Mr Belcher at Georgetown, in the act of robbing the latter’s shop, and has subsequently died in the Port Pirie Hospital.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

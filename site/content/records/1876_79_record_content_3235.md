@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. Almost nothing happening. The earthwork is done and materials for plate-laying are to hand, so why the delay? A daily paper says that it is to start in earnest in the New Year with completion about May. A bit of effort could see the line open to Mt Bryan for this season's grain.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

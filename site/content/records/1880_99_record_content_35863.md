@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Races will be held in Burra on 16 April.  Prize money will be £25 for the Handicap, £10 for the Handicap Hurdles, and £10 for the Flying Handicap.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

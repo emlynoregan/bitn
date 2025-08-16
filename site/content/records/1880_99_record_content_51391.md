@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Kapunda Herald writer speculated that as it had been for F.W. Holder, the paper might be a springboard for W. Davey into SA politics.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

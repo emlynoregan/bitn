@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 On Saturday a seaman from the Storm Cloud was brought to Kooringa charged with having deserted his wife three years ago, but upon arrival the woman found he was not her husband.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

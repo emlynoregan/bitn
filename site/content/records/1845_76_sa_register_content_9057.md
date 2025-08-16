@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Notice.  Brompton.  William Paxton Esq., being about to return to England, if any persons entitled to conveyances of land in this township have not yet obtained them, such individuals are requested to apply immediately to Messrs Gwynne and Lawrence or to Nathaniel Hailes, King William Street.  30 April 1855.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

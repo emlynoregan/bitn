@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Sara, wife of G. Sara, of Sara & Dunstan at Terowie died last Sunday.  [Mary Ann Sara died 4 May 1890 aged 50.  She was born Mary Ann Norman.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

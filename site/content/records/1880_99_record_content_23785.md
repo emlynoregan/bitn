@@ -35,4 +35,4 @@ Schools.  The roll numbers at the largest schools in SA at 30 June 1886 were:
 
 Pt Adelaide 1212, Norwood 1187, North Adelaide 1157, Sturt St1038, Hindmarsh 1037, Flinders St 1008, Moonta Mines 776, Moonta 558, Burra 533.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

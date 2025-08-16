@@ -30,4 +30,4 @@ publication_slug: northern-argus
 
 BCS. The student production of Man of Steel was well received by an appreciative audience.  Director/Producer John Keal was well pleased with the performances.  Justin Hall did well as the ‘Man of Steel’ and so did Helen Moorhouse as the female lead.  Other notable performances came from George Gebhardt and David Baulderstone, while Stacy Hirschausen gave the show some extra oomph as ‘Volga Olga.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

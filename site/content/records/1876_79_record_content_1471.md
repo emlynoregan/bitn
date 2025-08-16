@@ -33,4 +33,4 @@ Town never got going and was now in decline with 2 chapels and a schoolroom.
 
 Hallett railway: Burra Corp. takes up question of the railway underpass near the White Hart. Formation of Deputation to the Commissioner of Public Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

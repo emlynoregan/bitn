@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Jubilee Fountain is at last being erected, having been at the Burra Station since November 1887.  Council gave permission for its erection in line with the row of trees nearest the road, but stupidly it is being erected in the middle of the avenue blocking the way.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

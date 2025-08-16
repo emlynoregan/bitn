@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Medical Officer must be appointed as required by the Central Board of Health.  The job will be thankless, as anyone reported or investigated will feel aggrieved.  A £20 fee could be squeezed from the present rate, but more would require an increased rate.  We cannot allow the Central Board to step in and make a costly appointment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

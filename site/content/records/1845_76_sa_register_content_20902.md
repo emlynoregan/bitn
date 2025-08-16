@@ -71,4 +71,4 @@ Mr Pearce seconded the motion and said the Government was liberal with the contr
 
 Mr Pollard supported the resolution, which passed unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

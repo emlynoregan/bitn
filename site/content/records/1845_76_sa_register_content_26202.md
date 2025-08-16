@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 No portion of the settled areas is as poorly served with mail services as here.  A daily post to Jamestown from Burra would greatly benefit Jamestown, Deep Creek and Belalie Plain.  In the meantime we must all pay a labourer three shillings per annum to fetch letters from Kooringa.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

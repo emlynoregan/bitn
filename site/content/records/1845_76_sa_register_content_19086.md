@@ -47,4 +47,4 @@ If the owners of these works can by amalgamating their interests with the Englis
 
 ‘Out of the enormous dividends the mine has returned, common prudence would have made a reserve fund sufficient to carry the concern over a loss such as the Directors show, even if it were repeated for a few years in succession.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

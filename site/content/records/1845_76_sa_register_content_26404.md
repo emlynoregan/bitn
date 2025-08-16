@@ -35,4 +35,4 @@ From Baldry Post Office to Gum Creek Paddock horses could propel a load better i
 
 Wool in the drier parts of SA will be ‘breachy’ this year.  Rain following locusts and a dry period will result in a weak section in the middle, which will break in manufacture.  Wool in this area is excellent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

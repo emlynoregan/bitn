@@ -29,4 +29,4 @@ Redruth.  The announcement of the intended sale of allotments in the new Townshi
 
 Auctioneer Anslow’s bell drew a large attendance on 21 July, when fair prices were obtained for a large number of lots.  [The location of this sale is not revealed in this brief report.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

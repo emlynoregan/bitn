@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 He also claims that the sale of alcoholic liquor to children under 12 is common in Kooringa and that children 6-12 are often sent to the hotel with bottles and jugs at all hours of the day and night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

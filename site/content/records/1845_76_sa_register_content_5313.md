@@ -56,4 +56,4 @@ The township of Kooringa, being the centre of large mining operations, is the re
 
 To enable such of these men who are able and willing to pay for hospital treatment as well as to afford help to those unable to do so, the committee is soliciting contributions to erect a building to be called the Kooringa Infirmary.  Subscription may be left at the Union Bank, the Bank of South Australia or with Henry Ayers Esq., Secretary of the SA Mining Association or Messrs Boord Brothers of Hindley Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

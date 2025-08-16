@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Adam Day came fourth in the U16 heptathlon at the recent National Championships in Sydney.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

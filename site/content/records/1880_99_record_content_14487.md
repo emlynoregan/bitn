@@ -41,4 +41,4 @@ The Recreation Ground is almost equidistant from both ends and all parties shoul
 
 The YMPA has sold its Aberdeen properties by auction in Adelaide yesterday to the English, Scottish and Australian Chartered Bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

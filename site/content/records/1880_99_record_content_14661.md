@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Editorial on the annexation race for territories in Africa and Asia being undertaken by France, Germany and Russia, while Great Britain seemed to be asleep.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

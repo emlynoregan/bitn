@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Disaster in WA.  A pearling fleet off the NW coast has been struck by a cyclone and it is feared over 550 lives have been lost.  [The Macquarie Book of Events, 1983, says this event occurred on 22 April 1887, when 22 vessels sank and 140 people were drowned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

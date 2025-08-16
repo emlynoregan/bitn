@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [Note that this doesn’t seem to fit with the information printed in VI, 442, 22 May 1885, which gives Burra a Captain and a Lieutenant]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

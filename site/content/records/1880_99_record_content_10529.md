@@ -28,4 +28,4 @@ Bible Reading
 
 There is a long letter from R.W. Mathews on Bible reading in state schools.  In it he adopts a rather extreme position; not only predicting dire consequences from allowing secularism to spread, but actually suggesting: - ‘I am not sure that such conduct [i.e. eliminating the Bible from schools] on the part of our nominally christian [sic] Government may not be regarded “constructively”, as treason against the throne’, since ‘one of the most important offices of the Crown is to uphold the christian [sic] religion in these realms.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

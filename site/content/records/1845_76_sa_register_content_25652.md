@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Professor Askull gave an entertainment on the 8th inst. At the Windygoleeche Hotel [sic].  He was fairly patronised and the performance of his dogs gave great amusement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Notice.  Sandland & Co. (R. Cooper Sandland & Thomas Sandland) have purchased the goodwill, properties, plant etc. of Dempsey, Wilkinson & Sandland Ltd as a going concern and will carry on as Stock Salesmen, Auctioneers & Commission Agents.  Jamestown, Burra & Orroroo.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

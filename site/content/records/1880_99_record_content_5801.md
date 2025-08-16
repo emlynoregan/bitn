@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from C.P.J. of Aberdeen re Sabbath breaking - some man ‘or something resembling one’, is repairing the fences where his cattle are kept, on a Sunday!  ‘such a state of things ought not to be allowed to exist in Burra.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

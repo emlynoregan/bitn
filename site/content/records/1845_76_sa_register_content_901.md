@@ -62,4 +62,4 @@ There is no reason to doubt the mine is to go on yielding in astonishing profusi
 
 The Directors who (except for the Chairman Mr Charles Beck) are not named in the report are: Messrs Charles Beck (Chairman), Stocks (Resident Director), Bunce, Graham, Featherstone, Peacock, Paxton, W. Allen and Waterhouse.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ Obituary.  On 16 August, at Aberdeen, Samuel Goss, aged 75.
 
 Samuel Goss was long and well known in Burra and Moonta and was the father of I. Goss of Aberdeen and the Rev. John Goss.  He was an active Wesleyan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

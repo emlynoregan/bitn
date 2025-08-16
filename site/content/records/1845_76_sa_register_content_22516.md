@@ -27,4 +27,4 @@ From W.F. Coglin, Kooringa 30 November
 
 Kooringa District – About 2,000 acres more than last year were sown.  There is no shrivelled wheat and only a trifling amount of red rust.  Some small patches of smut.  The average yield should be 15 bushels and up to 25 in places.  There are only a few acres of barley and none of oats.  About 10,000 acres are under fallow.  The hay is all gathered in good order.  Reaping will commence in ten days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

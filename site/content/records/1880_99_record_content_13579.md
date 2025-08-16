@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Silverton Railway.  Carrieton and Pt Augusta are now angling for a route to Silverton.  Pt Pirie and Pt Germein both want the route with Pt Pirie favouring a route via Petersburg and Pt Germein one via Carrieton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

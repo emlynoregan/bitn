@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Floods. Heavy rain from violent thunderstorms has produced extensive flooding in the north of the colony.  Reports from Kooringa say the weather has been fearful to the north and the Burra Creek was running higher than it is remembered to have done.  It was still rising rapidly and houses in Aberdeen had been flooded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

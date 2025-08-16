@@ -34,4 +34,4 @@ Middleton & Drew, Drapers, Grocers, Ironmongers, etc.
 
 The above have just opened their new store with the finest and most complete assortment of goods yet offered for sale in Burra Burra.  The new shop is between Boord Bros and M. & S. Marks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

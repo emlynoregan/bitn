@@ -43,4 +43,4 @@ N.B. Thursdays are reserved for ladies only.
 
 Mr Snell has been getting excellent results in his large garden in The ‘Paddock’, Kooringa, by means of irrigation with upwards of 300 fruit trees and he also cultivates vegetables, raising water with a windmill.  He saw that the irrigation water would be no less valuable if it were first passed through a bath and he has consequently built one 15’ deep by 42’ by 3 to 6’ deep.  Fresh water runs in constantly with the overflow used for irrigation.   The baths are roofed and have two dressing rooms.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

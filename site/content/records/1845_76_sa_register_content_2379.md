@@ -27,4 +27,4 @@ The Burra Hunting Club
 
 This club is composed mainly of tradesmen and shopmen.  A number of the members started out from the township last Sunday morning with the hounds, under drenching rain, which continued all day.  After a few fruitless runs, in which the game escaped into the scrub, they returned in a sad plight, trophyless, some with sore heads and others with sore bones from falls.  One returned without his steed, which is yet to be repossessed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

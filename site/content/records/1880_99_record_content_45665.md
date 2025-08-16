@@ -27,4 +27,4 @@ Burra Town Council.
 
 The licensing officer was instructed to issue a driver’s licence to T.P. Halls.  The request for a continuation of S. Hill’s licence was not acceded to.  (Due to the disrespectful tone of the requisition presented to the Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

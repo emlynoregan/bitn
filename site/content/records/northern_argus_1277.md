@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Birth.  To Marie  & Jack Richards in Perth, a daughter.  A grandchild for Margaret Lehmann.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

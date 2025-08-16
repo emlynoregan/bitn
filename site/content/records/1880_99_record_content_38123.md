@@ -26,4 +26,4 @@ Editorial on the Parliament’s talk, talk, talk about rabbits.  The Rabbit Bill
 
 The Bill most unfairly, says the editor, provides for the Government to supply wire netting to occupiers whose holdings abut unoccupied Crown Land for the purpose of fencing their lands.  The cost to be repaid in 10 yearly instalments without interest.  The nonsense is that the perpetrators of the problem get off scot-free.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

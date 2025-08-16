@@ -30,4 +30,4 @@ English & Australian Copper Co.
 
 The Directors have received advice from Adelaide dated 16 February that the works were going satisfactorily; seven furnaces and two refineries were making very good work with over 300 tons of copper being delivered to the Burra Burra Co. in the previous month.  Cartage was on the increase and in the next two or three months a large quantity of ore and coal was expected to be carted from and to the works.  Labour was abundant and the men employed were said to be well behaved, quiet and contented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

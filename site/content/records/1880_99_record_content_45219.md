@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Tennis.  On 16 April on the courts opposite the hospital Burra 83 games defeated Clare 74 games.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

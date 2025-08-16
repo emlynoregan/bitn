@@ -33,4 +33,4 @@ Charles Miller (21) was charged with stealing £9-12-0 from the pocketbook of Ge
 
 Richard Berry (22) pleaded guilty to stealing from Frederick’s Lodging House in Kooringa.  He had several previous convictions.  Sentenced to 6 years hard labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

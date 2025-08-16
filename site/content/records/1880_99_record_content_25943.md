@@ -48,4 +48,4 @@ Thomas Woollacott	1 cow	5/-
 
 Charles Löwe	1 horse	5/-
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

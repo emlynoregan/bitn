@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Statton & Henderson	Makers of Wagons, Drays, Spring Carts, Buggies, Ploughs, Scarifiers, Harrows & Horse Scoops, Market Square
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

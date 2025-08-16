@@ -37,4 +37,4 @@ Burra Burra £5 shares at £207-10-0
 
 Princess Royal £50 shares paid to £37 at £42
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

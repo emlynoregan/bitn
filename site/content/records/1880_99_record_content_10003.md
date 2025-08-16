@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Hon. G.G. Hawker has resigned his seat in the District of Victoria and several local gentlemen are in the field to replace him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

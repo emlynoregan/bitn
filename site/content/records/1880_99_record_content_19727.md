@@ -31,4 +31,4 @@ Midland Road Board visit to Burra
 
 Main concern was the Bon Accord Bridge request.  Great traffic uses the road here due to Silverton and the wool cartage from the N-E Plains, but the extension of the railway to Silverton will change this and so for now an upgrading of the ford is decided on, with the bridge to be reconsidered later.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

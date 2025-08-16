@@ -30,4 +30,4 @@ Thomas Queale, District Foreman:
 
 The train was pushing 22 empty trucks.  Noticed man and woman on the trestle bridge.  They were 11 chains away when spotted and the train could not be stopped quickly due to the gradient.  The speed was about 3-4 m.p.h. at the time of impact.  The place it occurred was railway property and the Foys were trespassing.  A northeast wind was blowing to lessen the sound of a whistle.  The site is provided with warning signs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ Repayment of the 1882 loan £250 (Annual instalment £200 plus £50 interest.)
 
 The assessment in 1883 stood at £14,450 and in 1893 was £9,578
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

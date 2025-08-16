@@ -32,4 +32,4 @@ Weather.  The heat on Friday, Saturday and Sunday was intolerable with the therm
 
 On Wednesday the telegraph station was opened here in rooms of the Mechanics’ Institute, lent by the Committee.  Messages were sent to the furthest station at Mt Gambier and to every other station along the line and answered in a very short time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [In column 5 it says a meeting of the Temperance Society was in progress as the paper was going to press on 9 June, so probably next Wed. was actually 10 June.  This was the Society advocated by Dr Sangster in the issue of 3 June.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

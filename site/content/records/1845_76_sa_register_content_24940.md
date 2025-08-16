@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Dog Attack.  On Tuesday evening an adopted son of Mr Cheval, who lives near the cemetery, was teasing a ferocious dog when it attacked him.  The little fellow was frightfully mutilated before the dog could be secured.  He is under the care of Dr Dashwood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

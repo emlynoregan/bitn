@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Totalizator.  Ebenezer Ward MP is campaigning for the re-establishment of the legality of the totalizator to boost prosperity.  [A gambling led recovery!]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

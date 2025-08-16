@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Church held their 21st Anniversary last Sunday & Monday when the preacher was Rev. W.A. Langsford of Mintaro.  There was a service of song in the afternoon.  This year there was no tea, but a public meeting was largely attended.  The treasurer reported that the debt on the building was being gradually liquidated.  Rev. R.S. Casely gave a lecture on three American poets: Lowell, Whittier and Holmes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

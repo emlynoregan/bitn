@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [The evidence is rather hard to follow and the following family tree deduced from the evidence may assist a researcher.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

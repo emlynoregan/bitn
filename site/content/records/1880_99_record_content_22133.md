@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Others are flocking to the area from Orroroo, Saddleworth and Yongala etc.  Grocers, butchers and bakers visit daily from Hallett.  It has been very cold at night.  Religious services are conducted on Sunday by Rev. Isaacs of Hallett.  The rain so far has not done much here.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

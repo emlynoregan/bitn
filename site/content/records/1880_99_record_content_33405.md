@@ -47,4 +47,4 @@ The Commissioner of Public Works to be urged to commence at once on the Baldina 
 
 Cr Hardy moved that the new road through the workingmen’s blocks at Redruth be opened and the approach at the east end made good.  Carried. [This would seem to refer to the road running east-west to Hampton, just north of the jail.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

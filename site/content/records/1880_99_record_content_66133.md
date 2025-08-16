@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. W.G. Clarke was welcomed at a social in the Kooringa Wesleyan Lecture Hall on Monday evening.  The meeting also welcomed home Mr E.W. Crewes from his trip to England.  Dr Brummitt presided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

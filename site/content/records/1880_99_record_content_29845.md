@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy praising Mr Ridgway’s letter and condemning SAMA’s dog-in-the-manger attitudes.  He considers that those who will not work minerals on their land should be compelled to allow others to do so.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Public Holiday 14 November, produced no organised sport in Burra, but a good many private picnics went to the beauty spots around the town.  Redruth Wesleyan Sunday School had its annual picnic which went off very well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

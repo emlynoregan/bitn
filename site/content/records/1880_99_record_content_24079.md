@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Entertainment.  Miss Carry Nelson, famous Actress and Vocalist and a Comic Co. will appear in three musical comedies at the Institute, 17 December: Married Bliss, Cinderella, and The Soldier’s Daughter and also the famous Tam O’Shanter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

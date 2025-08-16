@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 [Perhaps the problem with ‘Economist’s letter was the indeterminate tone which made it hard initially to deduce his exact position, though the subsequent correspondence suggests both sides were overly serious.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

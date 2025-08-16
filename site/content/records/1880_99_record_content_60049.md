@@ -32,4 +32,4 @@ Burra Contingent in Adelaide.
 
 Miss Margaret Walsh was given a farewell in St Joseph’s Schoolroom last night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

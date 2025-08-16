@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  AMP Society’s Mr Derrington will lecture at the Institute on 20 July on Life Insurance, Rhabdomancy and Hypnotism.  [Rhabdomancy is the use of a divining rod.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

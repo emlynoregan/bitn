@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Shooting Match.  Lieut. J.A. Watt won the gold medal for firing presented by W.H. Linkson.  He won from scratch by 10 points.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

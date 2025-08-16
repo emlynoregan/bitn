@@ -32,4 +32,4 @@ publication_slug: northern-argus
 
 Scouting.  From 29 September to 3 October Burra venturers and the Kleinig, Gardner, Letcher, Jacka and Jennings families travelled to Rawnsley Park at Wilpena Pound for hiking and rock climbing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

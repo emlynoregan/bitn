@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Apex Club has installed a pop-up watering system at Burra Kindergarten at a cost of c. $800.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra School Entertainment was an unqualified success last Friday at the Institute.  Mr T. Nevin, who has completed his four-year course as a pupil teacher was presented with three handsome volumes from the boys of his class.  He goes to Training College.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

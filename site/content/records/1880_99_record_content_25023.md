@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  The Douglas Primitive Methodist Sunday School will hold its anniversary on 3 & 6 April.  The preacher will be F.W. Holder and the public tea will feature recitations, singing and addresses.  MOONLIGHT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

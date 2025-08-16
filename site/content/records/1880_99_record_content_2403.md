@@ -48,4 +48,4 @@ The drive was very uncomfortable, being both hot and dusty.  The writer then des
 
 At Jamestown the Governor was greeted by the Mayor, Dr Cockburn and he again responded.  Speeches were then made by The Chairman of the District Council, Mr James Neale, a representative of the Belalie Branch of the Farmers’ Association, the Rev. J. McNeil  (Presbyterian) on behalf of Joseph Nicholson (Wesleyan), Nicholas Roger (Baptist), P.R.P. Dodd MA (Anglican) and J. Pallhuber SJ (Catholic).  To each of which the Governor responded.  The Commissioner of Public Works then spoke, after which the Governor finally declared the line formally open.  They official party then departed for the Globe Hotel for a banquet and to the Institute for further speeches and toasts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

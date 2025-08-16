@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 [Probably ‘the Chinamen’ referred to were Sing & Fat with a garden in The Paddock between Kingston and Quarry Streets.  See article XI, 912, 13 Dec. 1889, p.2]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 2nd Leader on bad eyesight and poorly lit schools and suggesting also the testing of the hearing of children who appear backward in schools.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

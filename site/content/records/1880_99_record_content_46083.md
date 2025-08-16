@@ -27,4 +27,4 @@ Burra Hospital Board, 14 July
 
 It was decided to apply to the Government for the erection of a cottage for the porter’s residence and to fit up the rooms vacated in the hospital – one as a nurse’s room and the other as a ward for contagious diseases and for new windows in the men’s ward.  Cost estimated at £350.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

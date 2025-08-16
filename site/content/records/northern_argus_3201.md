@@ -28,4 +28,4 @@ Obituary.  Albert Bruce died last week.
 [Albert James Bruce born 9 May 1894 World’s End: died 23 October 1987.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

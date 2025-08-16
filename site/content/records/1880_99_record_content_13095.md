@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.R. Ridgway writes congratulating the Town Council on the Waterworks and hoping the work needed will employ some of those out of work.  With ten dealers in fruit and vegetables in the town he feels there must be an opportunity for up to 20 men to supply them with produce now that water will be available.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

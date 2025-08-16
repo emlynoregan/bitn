@@ -34,4 +34,4 @@ W.B. Rounsevell spoke as Leader of the Opposition.  The hall was full and the re
 
 W.H. Hardy writes advocating the reading of the Bible in schools, but the editor contends that what Hardy really wants is religious teaching which a secular Government education cannot provide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

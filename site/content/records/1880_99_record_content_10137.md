@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Cynic’ writes that a temperance society is needed in Burra and notes no effort to form an Anti-Shouting Society, such as has been established in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

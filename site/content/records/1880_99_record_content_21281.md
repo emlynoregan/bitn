@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 If a caveat is not lodged the Council is just giving away the £70-£80 it cost to fence it.  Mr Pinch thought they were throwing good money after bad and opposed the move.  Cr Tiver said his experience of going to the Supreme Court over land he had bought from the same proprietors suggested there was no sufficient title to any of their land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

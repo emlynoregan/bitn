@@ -34,4 +34,4 @@ A letter was received from the Town Council re the rubbish heap.
 The pound at Copperhouse to be opened. 
 Ranger to find who owns the land at Copperhouse on which a dangerous well is located.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -49,4 +49,4 @@ Gebhardt claimed £5-1-3 from Coombs for meat supplied.  Coombs said he had a cr
 
 Henry Skewes claimed £6 for the use of a road through his paddock and the value of a tarpaulin sold to the defendants, Robert Bull & Mr Martin.  Judgement was for the plaintiff for the sum of £1-10-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

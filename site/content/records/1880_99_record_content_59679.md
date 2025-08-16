@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Races were held last Wednesday.  The course was in splendid condition.  The attendance was less than expected, but those who attended got a good day’s sport.  The Totalizator was very poorly patronised with only about £116 passing through it.  The Burra Band attended.  There were six races of which the main race was the Burra Handicap over 1½ miles.  It was won by H. Gillett’s Coorie.  First prize was £25 and 2nd was £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

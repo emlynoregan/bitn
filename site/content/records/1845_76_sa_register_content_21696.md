@@ -33,4 +33,4 @@ Notice
 
 SA Mining Association will hold its Annual General Meeting of shareholders in its office in Adelaide on Wednesday 15 April to receive the Directors’ Report and examine the Auditors’ Report and accounts.  And to elect seven Directors in place of Messrs Arthur Blyth & Thomas Greaves Waterhouse who have resigned and Messrs George Strickland Kingston, William Peacock, Archibald Jaffrey, John Beck and Thomas Graves, who retire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

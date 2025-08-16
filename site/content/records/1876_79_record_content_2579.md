@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Show Society. Now over 100 members but has yet to obtain any land for a show. W.B. Rounsevell MP has been asked to become President and Capt. Killicoat & J. Humphris to be Vice Presidents. It was resolved to ask Captain Killicoat for the use of the Smelting Works Yards and Stables for the show in September. A ploughing match was planned for August. Killicoat agreed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

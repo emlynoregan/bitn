@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 4th Leader wonders about the wisdom of limiting the hours of work to 8 a day - many people work 10 or even more: professional men, merchants, tradesmen, farmers and agricultural labourers among others.  The writer seems to favour a 10-hour working day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

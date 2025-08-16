@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from H.R. Harley complimenting Davey’s Burra Band on their recent performances and calling for performances in summer at the oval where acoustics are better than in Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

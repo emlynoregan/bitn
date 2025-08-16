@@ -33,4 +33,4 @@ A correspondent disagrees with proposals to make the RVF more professional and i
 
 He supports the idea of work locally for the unemployed as would flow from a reservoir at Baldina for irrigation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

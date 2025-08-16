@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 He was further farewelled when a group of 30-40 gentlemen assembled at the Courthouse Hotel on Thursday evening last.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

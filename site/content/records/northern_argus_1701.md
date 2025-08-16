@@ -31,4 +31,4 @@ Paxton Square was gazetted a Historic Reserve in 1969.
 Twenty-two of the thirty-three cottages have now been restored and adapted to low cost holiday accommodation.  They feature whitewashed walls, open fireplaces, Berber carpets, slate floors and pine furnishings.  The renovations were possible following a $150,000 J150 grant, money from a Federal Government job creation scheme and funds from the Lewis Board of Management.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Advertisement.  W.W.G. Nicholls submits a lengthy and awful poem condemning the Directors of SAMA in their stand against labour and for their suits against the editor of the Register.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

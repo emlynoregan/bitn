@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Travelling Stock Roads.  Cutting up these roads for workingmen’s blocks is a bad move.  Such blocks may be very well in their place, but we have not seen any good result e.g. on the reserve between Booborowie and Farrell’s Flat which was cut up only one or two are doing much and adjacent farmers have acquired most – a point to think of when the Baldina reserve is considered.  Our copper mine is idle and wheat at a very low price.  Burra is however, the largest stock market except for one in the world with three sales monthly bringing in many people who also shop in the town.  Friday’s main street is ample proof of the importance and cutting up the stock roads threatens the quantity of stock that will arrive for market.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

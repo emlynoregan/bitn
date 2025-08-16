@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Northern Mails.  Our Kooringa correspondent says that the Mount Remarkable mail arrived this evening in good time and as this is its first trip, it is gratifying to see it come early.  The Adelaide mail arrived this evening at 5.10 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Cr Coglin considered the report unsatisfactory, as typhoid was prevalent.  Piggeries were complained of, but no action was taken.  A place in Queen St was unfit for habitation.  He wanted the report referred back and corrected.  Cr Sampson said it was satisfactory and moved it be agreed to.  He accused Cr Coglin of an unfair attack on Inspector Dow.  The report was adopted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

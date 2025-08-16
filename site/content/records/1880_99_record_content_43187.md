@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra Races.  There seems a lack of interest this year despite last year’s success.  Last year it was decided to hold regular meetings on New Year’s Day, but there has been no action to date.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

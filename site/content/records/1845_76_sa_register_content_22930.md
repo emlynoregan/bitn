@@ -33,4 +33,4 @@ A Benefit Concert was held at the Mechanics’ Institute to raise fund for the w
 
 [Performers listed were: Mrs Smith (pianist), Miss Perry (vocalist), Mr Moody (vocalist), the Misses Belcher & Ring (duets), Miss Coglin (musician), Mr Lipsett (recitation).]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

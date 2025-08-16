@@ -49,4 +49,4 @@ M.S. told him he could not, as he had done no wrong.  M.S. then went to complain
 
 ‘A Mother’ writes re the case of Alfred Jacka who was sent to the reformatory for 1 year 7 months for picking up a cucumber which was not even attached to a growing plant.  Why not punish the other boy as well?  The mother relies upon her two boys for support and he has work to go to.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

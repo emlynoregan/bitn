@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 1848 Burra Flood.  Some doggerel on this flood by an old Burraite is printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

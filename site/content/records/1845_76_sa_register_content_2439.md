@@ -30,4 +30,4 @@ The Patent Copper Co.
 
 There has been a delay in the sailing of the Richardson from Swansea, due to repairs.  She is expected to get away by 1 June at the latest.  She will carry the first expedition of materials, men and staff for the company.  Engagement of the staff has been completed.  Including women and children, the party will comprise at least 70.  They will be accompanied by a surgeon.  Supplies of coal have been arranged to arrive gradually.  On arrival such a large party may have accommodation difficulties and so arrangements have been made with Captain Coleman of the Sibella, now lying in our harbour, to receive the whole company temporarily, where they will be accommodated with the captain’s usual kindness and attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

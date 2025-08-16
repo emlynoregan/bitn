@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Sturt Pea plants sent to Mr Lockyer from Broken Hill were held at the border (Cockburn) by Customs pending examination by Curator Holtz of the Adelaide Botanical Garden.  Mr Lockyer decided to leave them there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

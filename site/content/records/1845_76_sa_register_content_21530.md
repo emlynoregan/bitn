@@ -32,4 +32,4 @@ Goldsmith’s from Mr R. Rogers
 
 The yield is estimated at 25 bushels per acre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

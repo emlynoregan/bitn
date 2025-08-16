@@ -43,4 +43,4 @@ Last Sunday the Wesleyans opened their new chapel at Westbury, a rising township
 
 The harvest has now commenced in earnest and large quantities are passing through the town.  Wool carting has not yet finished, with several loads here at present in transit for Kapunda and Adelaide.  Business remains slow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

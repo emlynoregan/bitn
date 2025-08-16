@@ -45,4 +45,4 @@ His injuries are described as a fractured skull, two broken collarbones, a dislo
 [Patrick Joyce died 30 January 1852 aged 50.  His residence was described as near Kapunda.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

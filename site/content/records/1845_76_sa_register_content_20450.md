@@ -42,4 +42,4 @@ publication_slug: sa-register
 
 A Farewell Banquet was given at the Burra Hotel on 2 May to the chief officers of the Burra Mine: Captain Roach; Mr W.H. Challoner JP, accountant; Mr W.K. Elphick, assayer; on the occasion of their ceasing to hold the situations they had so long filled.  Hon. G.S. Kingston took the chair.  Among the 60 or so diners were Mr E.B. Gleeson SM of Clare, Messrs Porter JP, J. Chewings JP, A. McCulloch MP, Drs Mayne, Davies (of Clare), & Dashwood, Mr Arthur King JP of Watervale, Captain Killicoat and Mr E. Hampton.  [Toasts are reported.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

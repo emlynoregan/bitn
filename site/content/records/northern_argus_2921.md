@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Theft.  On 21 July a 19-year-old carpenter and a 16 year-old youth were reported for having broken into the Burra Community & Sports Club and stealing liquor on 10 July.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -29,4 +29,4 @@ Advt.  Annual meeting of the British and Foreign Bible Society
 
 Institute, Monday evening 2 November.  Rev. B. Wilfred Robinson, late Vicar of Tullow will address the meeting and dissolving views of the society’s work will be shown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

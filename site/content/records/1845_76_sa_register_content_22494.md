@@ -32,4 +32,4 @@ The Burra Railway Terminus
 
 A government survey party visited the neighbourhood on Tuesday, apparently to define the position of the railway station.  Speculation was naturally rife.  First it was asserted that the half dozen allotments owned by the Government on which the Court House and Police station are situated was the chosen site.  Then another Government owned allotment in Redruth halfway between the Mine and the Smelting Works was named.  But all speculation was futile; the decision awaits the arrival of the Chief Engineer late this week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

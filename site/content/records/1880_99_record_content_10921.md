@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Charity.  The Foresters’ Demonstration money has now been distributed and was divided among 15 deserving cases.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

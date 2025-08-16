@@ -45,4 +45,4 @@ Cr Ridgway said the total cost was £5 or £2-10-0 more.
 [*The work is not clearly identified, but given Cr Ridgway’s involvement and his comment that: ‘The works around his premises had cost very little.’  It seems likely that the ford in dispute was the one across the Burra Creek in St Just Street. This was confirmed when the missing minute was eventually found see: VII, 495, 24 Nov. 1885, page 3 & VII, 496, 27 Nov. 1885 page2.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

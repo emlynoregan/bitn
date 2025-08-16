@@ -39,4 +39,4 @@ The Princess Royal Mine is now at work and yielding excellent returns to a small
 
 The wells of the Burra Hotel and neighbourhood have lost their water as the mine has been deepened, indicating the lie of the land.  Cost saving could be effected by the use of machinery in ore dressing – the machinery at the mine being very meagre.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

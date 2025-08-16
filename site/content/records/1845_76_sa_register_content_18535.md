@@ -42,4 +42,4 @@ Mr Winnall briefly responded.
 
 Mr Challoner added his words of appreciation of Mr Winnall’s contribution to the parish.  A vote of thanks was passed to Dr Maurau for choosing the plate and one to Mr T. Bath for his efforts on collecting the subscription.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

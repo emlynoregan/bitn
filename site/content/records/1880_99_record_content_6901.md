@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 St Mary’s vestry meeting empowered the churchwardens to dispose of the fittings of the old church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

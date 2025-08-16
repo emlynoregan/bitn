@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Fire at Kooringa.  Mr T. Clark’s chaff-house was found to be alight at about 2.15 a.m. on 13 January.  The roof was well alight before any assistance was to hand and so the premises were burnt to the ground.  Five tons of hay was destroyed and a large chaff-cutter was damaged.  The fire-engine from the Burra Mine was quickly on the spot and rendered valuable assistance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -39,4 +39,4 @@ It makes the cost of building dearer and is thus a prime cause of the scarcity o
 
 J. Cooksley also writes on this subject to say the eight hours system is a failure and only drains the colony of money by having us import things that should be made here.  Mr  Hardy says the lack of industry is due to want of capital and inability to pay for the productive power.  This is nonsense.  It is due to the high cost of labour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

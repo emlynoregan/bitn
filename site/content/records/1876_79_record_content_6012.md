@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Cricket. A match will be played tomorrow at Aberdeen near Roach's Mill, between teams from Burra & Kapunda.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

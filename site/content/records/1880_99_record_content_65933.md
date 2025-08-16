@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Market Square Lamp has been stolen. Mr W. Geake usually gives it enough kerosene to last till after midnight when it extinguishes itself and no one noticed it was gone until evening was falling on Saturday.  No trace of it has been found.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

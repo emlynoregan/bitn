@@ -55,4 +55,4 @@ His Worship asked if they had intended to imply that he had said anything to imp
 
 Richard Webb was charged with assaulting PC Taylor at the Burra Hotel on Saturday night.  After considerable evidence, Webb was fined 5/- plus 23/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

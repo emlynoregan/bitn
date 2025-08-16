@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 A Rifle Match is to be fired today for a £6 prize presented by Mrs Dawes.  (Men must be in uniform.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

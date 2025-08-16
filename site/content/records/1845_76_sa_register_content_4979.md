@@ -45,4 +45,4 @@ The Mining Gazette of 31 August confirms my views, though the writer there has n
 
 [Burslem also dismisses the likelihood that artesian wells will supply the needed water along the route.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Neil Andrew Federal Member for Wakefield presented the Burra Girl Guides with an Australian Flag on 23 October.  The Group was celebrating its 7th birthday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

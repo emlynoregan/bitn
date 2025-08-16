@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 Ray Ball & her husband Michael and Mercedita Kirk were naturalised as Australian citizens at a ceremony at the last meeting of the Burra Burra DC.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -36,4 +36,4 @@ Burra High School speech day on Wednesday last was held in the Institute with a 
 
 [The surnames indicate students from the more affluent part of the community: McBride, Roach, Sangster, Packard, Brummitt, Watt, Lewis.  May Dawson was dux of the School.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

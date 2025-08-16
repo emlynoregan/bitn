@@ -35,4 +35,4 @@ Obituary.  News came in last week that the remains of a man were found on Mr You
 
 [SA Deaths CD offers no help in this matter.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

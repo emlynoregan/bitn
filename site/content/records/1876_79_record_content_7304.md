@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Kooringa Wesleyan Church anniversary on 19 October at which Revs J. & E.S. Bickford preached. The tea-meeting on 20 October saw c.300 sit down to tea. The Kooringa congregation has contributed £317-4-0 towards the new schoolroom and the circuit has raised £1,169-19-4. The church property as now constituted has cost £6,101 and the debt stands at £1,660. During the year £100 has been paid off. The financial result of the anniversary is expected to be c. £100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

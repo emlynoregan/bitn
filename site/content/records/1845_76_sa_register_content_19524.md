@@ -38,4 +38,4 @@ Just before they arrived news had been received that more than 100 men were to b
 
 As for the Kooringa-Redruth Road, the surveyor would look at it in the morning and the subject would be considered at the next meeting of the Board in Adelaide.  He was sorry to learn so many were out of work, but believed several road contractors were looking for workers. He added that the Government would only give piecework.  He urged the propriety of forming District Councils and he thought it was a scandal that the northern areas had not taken advantage of this method of making roads.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

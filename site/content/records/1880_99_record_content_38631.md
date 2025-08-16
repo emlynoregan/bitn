@@ -82,4 +82,4 @@ Piltimitiappa.  Mr Louis Dare reports that a fire broke out the day before yeste
 
 [Note: This year there was no mention in the paper of any celebration of Guy Fawkes’ Night.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

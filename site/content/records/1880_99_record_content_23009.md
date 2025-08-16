@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter in a pseudo uneducated ‘dialect’ on the Penny Readings.  It is generally favourable, but ultimately tedious, and the writer prefers Mr Roach ‘without the cork’.  [A reference to his black-face appearances in the Christy Minstrel elements of the last concert.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

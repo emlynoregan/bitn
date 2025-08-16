@@ -31,4 +31,4 @@ C.H. Badley will shortly leave the colony for England and has instructed us to s
 
 We will then offer the 21-year lease of two half acres, on which there is erected a commodious stone residence, stables, butcher’s shop, stockyards, slaughter-house, blacksmith’s shop and residence, and all the conveniences of a first rate establishment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

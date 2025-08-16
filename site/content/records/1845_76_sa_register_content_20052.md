@@ -27,4 +27,4 @@ Mintaro News, 2 January
 
 A memorial is being prepared calling for telegraphic communication with Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

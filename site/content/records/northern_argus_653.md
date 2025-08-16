@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Member of the Hospital Sewing Circle since 1931 and currently its convenor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

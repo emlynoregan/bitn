@@ -27,4 +27,4 @@ Wesleyan Christmas Festival at the Institute on Friday.
 
 E.W. Crewes opened the festivity at 2 p.m. and attendance increased in the afternoon and evening.  There were stalls of needlework, sunshine work, flowers and pot plants, sweets, farm and dairy produce, cakes, cool drinks, toys, refreshments, post office, strawberries & cream and in the evening a variety program.  Nett proceeds were £58-11-2.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Burra Mines
 
 Acting on the authority of the Directors, the shareholders in England have sent out Mr Darlington to visit the property of the company and devise a scheme for its future working.  He has large experience of mining in Europe and his opinion will carry great weight.  He will be in Burra for two or three days.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -51,4 +51,4 @@ This would give the company £37,520 plus an estimated £15,000 profit from unso
 
 This proposal was approved at a general meeting of shareholders.  No profits are therefore presently declared, but the work of exploration will proceed according to the new scheme.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 29 December.  I went to church in the morning and evening.  At present it is in a temporary place, the future schoolroom.  The Wesleyans are the strongest body.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

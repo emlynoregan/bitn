@@ -43,4 +43,4 @@ Buchanan essentially confirmed the above as did evidence from J.H. Riggs.
 
 The case was dismissed as was the further charge against George Buchanan of using indecent language.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

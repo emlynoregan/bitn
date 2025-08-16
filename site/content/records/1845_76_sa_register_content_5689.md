@@ -26,4 +26,4 @@ Advertisement: Opening of the Kooringa Baptist Chapel
 
 Services connected with the dedication of this chapel will take place on 2 February at 10.30 a.m. and 6 p.m. and on Monday 3 February
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

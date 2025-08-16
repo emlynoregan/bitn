@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 A deputation met the SA Treasurer, Mr Holder, while he was in the town on Friday and sought work for the unemployed.  They were hoping for work at the Ballast Quarry to be resumed.  He said that anticipating the request he had seen the Railways Engineer-in-Chief before coming and was told there was little likelihood of work there being soon resumed.  He undertook to do what he could.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

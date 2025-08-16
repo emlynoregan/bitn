@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Adelaide Chrysanthemum Show.  J.D. Cave did very well again.  Only the exhibits from the Botanic Gardens and Mr E.T. Smith were superior.  Despite Mr Cave’s blooms being shown first in Burra and them travelling 100 miles, he won 5 firsts and 1 second prize.  He has decided to give slips to anyone seriously interested in improving the plants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

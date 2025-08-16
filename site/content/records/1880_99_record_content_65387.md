@@ -35,4 +35,4 @@ Other routine matters followed, but the main concern was the Waterworks.
 
 Wilful waste of water is a problem with some consumers having their taps running continuously.  Unpaid rates amount to £157.  It was resolved to cut off water to consumers in arrears after 31 December.  The Government has not responded to the request re purchasing the Waterworks, except to say a valuation is being obtained and in the meantime a rate of 4% will be charged; the current lease conditions being continued.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

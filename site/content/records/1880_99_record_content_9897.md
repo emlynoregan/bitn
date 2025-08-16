@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Recreation Ground was visited by the Council on Monday and they decided to spend £25 ploughing, sowing, rolling etc. to form a green turf.  It will not be available for use till next year.  The trees are growing well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

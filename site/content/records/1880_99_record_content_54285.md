@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  F.W. Holder will preach at Kooringa Wesleyan Church at 11 a.m. on 29 July and at the Redruth Wesleyan church at 6.30 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

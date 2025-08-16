@@ -40,4 +40,4 @@ St Mary’s.  The laying of the foundation stone of St Mary’s schoolroom by Mr
 
 Rev. King acknowledged this and the gift of Allan Cooper Sandland, youngest son of Mr Thomas Sandland, who had departed but was a former scholar of the school.  Under the stone were laid the Parish Magazine, current number of the Church Review, Burra Record & SA Register and a list of all those associated with the building.  A collection was taken while all sang Onward Christian Soldiers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

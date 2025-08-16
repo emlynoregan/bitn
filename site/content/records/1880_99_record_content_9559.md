@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Sara is retiring from the firm of G. & W. Sara & Dunstan.  On 24 Feb. he received a gold keyless hunting watch at the Burra Hotel on the occasion of his leaving the district.  P. Lane was chairman.  Various leading townsmen spoke and toasts were offered.  There was also a framed and glazed address from employees.  The firm will now be known as Sara & Dunstan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Horse Race at Princess Royal yesterday when Lally rode F. Jones’s horse against Gaffey on H. Vivian’s horse for £1 a side.  Jones’s horse won, but was then beaten by a grey mare of R. Austin’s over the same distance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

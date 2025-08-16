@@ -32,4 +32,4 @@ One 80 acre section was sold for £10,500-1-0 [to Henry Ayers] acting on behalf 
 
 It is said that section 2179, purchased [by Robert Hawkes] for £352-2-0is likely to turn out equal to others, which have cost thousands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

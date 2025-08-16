@@ -55,4 +55,4 @@ The Waterworks Committee is to visit and take over the Waterworks on Wednesday a
 
 The new By-law re hawkers’ licences was amended to cover only fish, fresh fruit and vegetables and then referred to a committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Railways.  Some time ago a railway worker at Hallett named Minahane died, leaving a wife and four small children totally unprovided for.  The district foreman at Burra, Mr Queale and the stationmaster at Hallett, Mr H.H. George, organised a subscription over the Great Northern Line and the Midland System and have raised over £75 which has been banked and will be advanced to the widow in instalments as necessary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

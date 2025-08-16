@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Farewells at Redruth Wesleyan Schoolroom were held for a number of people who were leaving the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

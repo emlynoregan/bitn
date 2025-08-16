@@ -31,4 +31,4 @@ Hallett railway: Aberdeen Mill Underpass. 20 people attended a meeting at the In
 
 The problems with a level crossing were thought great, but the site of the one proposed was on a steep incline and was made worse because the traffic here would be mainly heavy vehicles from the goods station and in addition to the slope there was a sharp turn. They wanted an underpass like the one at Bowden. Deputation was chosen to see the Commissioner of Public Works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

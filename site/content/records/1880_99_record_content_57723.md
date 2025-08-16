@@ -32,4 +32,4 @@ Council accepted the tender of A. Bartholomæus (£25) over that of R. Snell (£
 
 Pearce, Launder & Co.’s tender for the erection of a shed at the oval was accepted for £91.  (O. Bartholomæus’s tender had been £97-10-6.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

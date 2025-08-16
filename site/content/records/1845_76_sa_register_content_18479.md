@@ -21,4 +21,4 @@ publication_slug: sa-register
 
 12 May 1865, page ?  NOT FOUND ON ORDER LIST
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

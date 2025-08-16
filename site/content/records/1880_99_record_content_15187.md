@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A donations of £12-15-0 has been received from Outalpa Station and one of £13-13-0 from Oulinna Station thanks to station managers and hands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

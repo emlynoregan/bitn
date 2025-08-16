@@ -30,4 +30,4 @@ The house of Rev. Lowe, a Methodist minister at Kooringa was broken into while h
 
 The population of Kooringa is nearly 4,000.  New buildings are continually rearing their heads.  It is said at least 200 are in the course of construction or about to be started.  Allotments of land are continually being sought.  Our neighbours, we hear, are in possession of two lodges of Oddfellows and are contemplating the erection of a third.  A printing office is talked of, as well as a public, library, a theatre, two or three eating houses and coffee-rooms and other token of improvement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

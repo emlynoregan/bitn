@@ -35,4 +35,4 @@ Burra District Council. Mr Sanders, Copperhouse pound keeper, applied for an inc
 
 On Wednesday a deputation waited on Mr T. Warnes JP, Chairman of the DC to ask that the worst places on Nankivell's Gully Road be attended to before it becomes impassable. Dr Nesbitt (Mayor) said teams would soon have to travel via Redruth. Mr Batchelor said teamsters preferred the route via Kooringa because the one to Redruth was a long heavy drag. Warnes said he would get something done, but having been in six years he would probably not be in Council when it met next as a new Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

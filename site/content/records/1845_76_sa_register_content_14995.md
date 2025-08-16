@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The striking ore-dressers at Burra Mine have mostly returned to their work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra cemetery: Ed. on a Burra peculiarity: the cemetery was locked at 4.00 p.m.  Sunday to keep out goats and larrikins. He implied that in a treeless town without a recreation area this was the only place for pleasant walks under trees!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

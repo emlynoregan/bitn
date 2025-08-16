@@ -41,4 +41,4 @@ The discovery of a workable gold field in SA is very desirable at the moment, be
 We fear the risks of abuse of the Land Fund cannot be much diminished, but we fear that a suspension of emigrant ships we fear would be an even more serious evil.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

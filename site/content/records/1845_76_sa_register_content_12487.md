@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 There is talk of forming a Rifle Corps here, with a meeting on the subject to be held at the hotel on Saturday.  There are several old soldiers about who could doubtless ‘lick them into shape’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

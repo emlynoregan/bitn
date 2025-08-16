@@ -34,4 +34,4 @@ Obituary.  Sir George Kingston died on the steamer between King George Sound and
 
 [Born England 1808, died at sea 26 November 1880 (though G.E. Loyau in The Representative Men of South Australia says 1881!)]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

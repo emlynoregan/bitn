@@ -27,4 +27,4 @@ Letters to editor.
 
 A long prose contribution for a whole column on the Irish question from R.W. Mathews and a shorter, ¼ column of dreadful poetry from P. Murphy on the same theme.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

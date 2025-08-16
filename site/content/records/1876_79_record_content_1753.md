@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra Institute Annual Meeting showed membership at 170 - up from 40 Library at 1485 volumes - up by 105
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

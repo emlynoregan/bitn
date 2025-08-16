@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football.  The Aberdeen-Manoora match gets a 1 column report and the Burra-Clare match ½ column.  At Clare the Burra team had 18 to Clare’s 20 players.  The heavy rain had made the Clare ground very poor.  The trip home took 6 hours!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

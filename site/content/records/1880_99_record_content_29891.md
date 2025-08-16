@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy re the Burra Mine and the Penny Wise Pound Foolish Directors.  He quotes the mining reporter in the Advertiser who expressed surprise that with copper prices so high nothing has been done to reopen the Burra Mine.  Ore is known to be there in large quantities and no great expense is involved in starting work.  Costs of transport are now cheaper than when it was operating.  There is a lack of enterprise on the part of SAMA directors.  There were recent rumours of a sale, but they asked too high a price.  They would make a handsome profit if they gave it away, owning so much of the town’s property, which would immediately increase in value.  At present a few tributers are allowed to work on the basis of 25% of gross proceeds and make a fair living.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

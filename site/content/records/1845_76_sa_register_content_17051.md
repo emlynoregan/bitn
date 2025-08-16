@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The smelting works have stopped here for a time.  Seven smelters have moved to Adelaide.  On Tuesday last the refining furnace burst with about 9 tons of molten copper and nearly set fire to the whole building, but through great effort no damage was sustained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

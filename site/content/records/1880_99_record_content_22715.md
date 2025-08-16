@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Union.  About 60 youths have banded together to offer a counter attraction to the Salvation Army, or to those reacting to it.  They met last Friday in the square before the Army arrived and continued through the Army meeting and after wards.  Recitations, stump speeches and songs etc. were given and 17.6 raised for the Burra Hospital.  Absence from Salvation Army meetings is a requirement of membership.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

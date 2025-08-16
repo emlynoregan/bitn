@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 St Mary’s.  A fine altar rail was presented to St Mary’s by Mrs John Lewis last week.  It was designed and made by Mr J.L. Scott of Mannum.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

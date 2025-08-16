@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Mine Management Committee has published a book on the recently reconstructed Morphett’s Enginehouse and the Cornish Beam Engine.  It was compiled by Greg Drew, a committee member and officer of the Department of Mines and Energy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

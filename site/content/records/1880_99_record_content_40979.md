@@ -96,4 +96,4 @@ The mayor was appointed returning officer for the extraordinary vacancy in North
 
 [The editor refers the writer to the report on the Council in this issue.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

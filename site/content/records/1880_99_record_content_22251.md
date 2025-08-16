@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Silver.  It is said that Dunstan and party intend soon to float a company to develop the Black Hills Silver Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ Accident/Obituary.  An inquest was held at the White Hart Hotel, Aberdeen by Mr 
 
 [Robert James Brown born 3 February 1862 near Templers to Robert & Jane nee Ross: died near Buttamuc (sic), residence Iron Mine.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

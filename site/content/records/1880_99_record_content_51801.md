@@ -44,4 +44,4 @@ Dianthus	2nd	3 Dianthus	2nd
 
 1 Bouquet of native flowers	1st	1 Bridal Bouquet	1st & 2nd]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 ‘JW’ writes to suggest removing the very scruffy trees in front of the new Post Office so that the Sunday-school children will be better able to see the royal procession from their platform.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

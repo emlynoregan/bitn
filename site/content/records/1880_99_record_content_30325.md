@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Redruth Wesleyan Sunday School Picnic on 9 November was held in dull and boisterous weather at the start, but it soon cleared.  The weather probably caused the reduced numbers.  The party started for home before 6 p.m.  Total receipts for this year’s anniversary were £28-11-10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

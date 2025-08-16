@@ -33,4 +33,4 @@ Temperance Meeting at Burra Burra
 
 A meeting was held in the Wesleyan Schoolroom on 29 July to establish a Total Abstinence Society.  Rev. J. Harcourt took the chair.  He addressed the meeting on the benefits of abstinence.  He had experienced the benefit of abstaining from the customary practice in England of taking a glass of wine in the vestry after service, especially on the Monday following.  To moderate drinkers he would say ‘all things are lawful, but all things are not expedient’.  He approved of moderation in all things except drinking.  He read out the rules of the Society and stressed the one calling on them all ‘to suppress any unchristian or uncharitable discussion of the subject.  He was supported by speeches from Mr Boots, Mr Roscoe and Mr Sleep.  Rev. Harcourt then read the form of pledge and 48 of those present signed up.  Not more than 80 attended, of whom about 18 belonged to similar societies elsewhere.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

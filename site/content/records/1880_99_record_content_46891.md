@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. R.C. Yeomans has been invited to stay in the Burra-Hallett Bible Christian Circuit for another year and he is likely to accept.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

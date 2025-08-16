@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Morgan to Kooringa.  There is a report of a walk between these two centres.  Morgan is described and then the walk to Government Well and on to Bundey Post Office (on the wrong track).  The writer then tells tales of German settlers until he reaches Baldina and from there on he came in Mr Nankivell’s wagon to Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

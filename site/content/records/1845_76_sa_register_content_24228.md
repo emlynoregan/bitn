@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Farrell’s Flat is growing.  There have been additions to Mr J.H. Bleechmore’s hotel.  Large quantities of wool are arriving at the station daily and the coming wheat harvest will sustain activity there.  Several new buildings have been erected in the last few weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

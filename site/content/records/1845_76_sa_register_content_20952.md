@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Those men returning from work on the Roseworthy railway all express deep bitterness against the contractor who pays so little despite receiving a fair price for his tender.  Most have barely enough to pay their own expenses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

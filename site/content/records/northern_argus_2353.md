@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 BCS Sports Day was held recently and Jennison House was victorious for the 4th year in succession.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

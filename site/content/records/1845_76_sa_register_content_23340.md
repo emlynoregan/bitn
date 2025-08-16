@@ -39,4 +39,4 @@ Northern Mail Routes.  A meeting at the Aberdeen Hotel on Monday discussed the c
 
 Mr O. Harvey said the proposed new route had a very poor road; he had recently been in its vicinity a week earlier when it appeared more like a canal and the mail would have been best carried by a flat-bottomed boat than by coach.  The Government would have to spend thousands of pounds to make the proposed route serviceable.  Finally the meeting passed a resolution moved by R.A.J. Müller ‘That this meeting pledges itself to use all constitutional means to carry out the resolutions carried by the Kooringa meeting on Wednesday, the 18th instant.’  Mr W. West seconded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

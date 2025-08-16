@@ -29,4 +29,4 @@ Gulf Road Medallion
 
 A competition is being held to design a medallion to commemorate the bullockies and muleteers who carted ore, coal and other materials on the Gulf Road between Burra and Port Wakefield.  It closes on 20 November.  The design must be for both sides of the medallion and must measure 200 mm in diameter.  (The final medallion will be 50 mm in diameter.)  Contact David Bannear for further information.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 New Doctor. Dr Sangster from Strathalbyn may be coming to Burra. We would have thought that two doctors were enough. A third seems due more to party feeling than any necessity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

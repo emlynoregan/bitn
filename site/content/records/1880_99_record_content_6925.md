@@ -36,4 +36,4 @@ Roach Bros’ when levered to the east side was accurate, when levered to the we
 
 Thomas Richardson’s showed no movement in weighing 5 cwt when ½ cwt was added or removed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

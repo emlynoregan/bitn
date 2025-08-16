@@ -51,4 +51,4 @@ He goes on to suggest some errors in the management of the Burra Burra.  The poo
 
 The engine at the Burra Burra Mine, of which so much has been made, is only of some 80 horse-power.  This will be quite insufficient as the mine goes deeper.  Many engines at abandoned mines in Cornwall are of 150-250 horse-power and could have been obtained for £500-£1,000 each.  For instance the engine at the Hallenbeagle had a 70 inch cylinder and 200 horse-power and was for sale in 1848 for £600.  It was in good condition and cost £2,200 when new.  ‘The local board seem bent upon pursuing a narrow-minded, grudging economy in the payment of their servants, and exhibit a determination to be regular grasp-alls of every mineral acre worth working…than to conduct a great public undertaking in a manner worthy of the age and the land we live in.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Burra Youth’s Athletic Club’s second sports meeting was marred by inclement 
 
 Burra Musical Union Concert on Monday last was also a victim of the weather with a small audience.  The concert was the best ever given by them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

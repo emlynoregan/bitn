@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Letter complaining of the state of the footpaths ‘in and to the Paddock’ especially the footpath from Ullmann’s bakery to the old schoolhouse.  [This would seem likely to be from the corner of Bridge Terrace and Kingston St to the corner of the Kooringa Hotel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

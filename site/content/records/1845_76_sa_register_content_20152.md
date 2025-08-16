@@ -62,4 +62,4 @@ Mr Parks’ shop was again entered on Sunday night and watch was set.  About 3 a
 
 Identification of many items was difficult in court and so Watts was charged on three accounts of entering and stealing from Mr Richards, James Waters and Thomas Parks’ shops and one charge of stealing from the Wesleyan Chapel.  The prisoner came originally from Swan River and had conducted himself well around Burra for the last three years.  His conduct in the court was most insolent and it was clear he was not unacquainted with such proceedings.  He was committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

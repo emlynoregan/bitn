@@ -33,4 +33,4 @@ He also reports that the Town Council debt increased through the year from £201
 
 The appearance of the town has been much improved over the last few years due to the formation of streets and footpaths and the planting of trees.  The benefit of trees is only now beginning to be felt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

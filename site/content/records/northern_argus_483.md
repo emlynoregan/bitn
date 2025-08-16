@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra Barrow Birds find that due to unforeseen circumstances they need a replacement runner and a reserve.  Anyone interested should contact Di. Day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

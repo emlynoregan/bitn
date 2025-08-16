@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 At times the condition of his vehicles has prompted someone else to place rival vehicles that are more commodious and comfortable on the route.  On such occasions Mr Rounsevell has promptly cut his fares or schemed in such a way that his rival has been removed.  He then resumes his reign of terror ‘with rickety traps, cushionless seats, and often uncivil drivers’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

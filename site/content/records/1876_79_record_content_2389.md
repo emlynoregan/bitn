@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Corp. Settlement of the assessment debacle with delegates agreeing to pay the rate to count for the calendar year 1877.Calls for the planting of trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

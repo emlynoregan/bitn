@@ -32,4 +32,4 @@ Jeffrey Pearce said that6-7 tons of hay had been burnt.  It was not insured.  He
 
 The jury found that the fire was accidentally caused by William O’Connor whilst trying to light his pipe behind the haystack unknown to his sister.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

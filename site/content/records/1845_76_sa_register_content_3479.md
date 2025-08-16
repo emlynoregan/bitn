@@ -43,4 +43,4 @@ Meanwhile most miners have been restored to employment under fair promises and d
 
 I ask that the Gentlemen of the Press give publicity to this letter in your journals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

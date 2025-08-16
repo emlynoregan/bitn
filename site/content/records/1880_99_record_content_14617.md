@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra-The Barrier Railway.  The report by J. Randall Mann runs to c. 1¼ columns.  He suggests that a slightly different line from that proposed by local advocates would be best.  Details of the route are given, but the ultimate recommendation is that it is a less favourable route than that from Petersburg.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

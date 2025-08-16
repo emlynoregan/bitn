@@ -51,4 +51,4 @@ Industrial Exhibition.  The trip to the exhibition by school children saw about 
 
 Burra Literary Soc. met on Friday at Aberdeen.  About 40 attended a debate on local option.  Speakers for were: Messrs W.T. Rabbich, C. Fuss and Moss, while those opposed were: Messrs Neville, Maggs and T. Davis.  The affirmative side won by 5 votes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr Matthew Burnett will hold a Grand Temperance Demonstration in the Redruth Wesleyan Church 10 December.  A Procession of Rechabites and other Temperance Workers with the Redruth Band of Hope, will be led by the Aberdeen Brass Band.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

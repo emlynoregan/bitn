@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The Champion Club Race was flown on 25 September from Mannahill, but was spoiled by rain so that only 6 of the 24 birds homed within the time limit.  The winning birds of J.A. Pearce covered the 105 miles 1,445 yds in 254¾ minutes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

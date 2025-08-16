@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Fitzgerald Bros. Mammoth Circus, 7 January on the vacant block opposite Rabbich’s butcher’s shop Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

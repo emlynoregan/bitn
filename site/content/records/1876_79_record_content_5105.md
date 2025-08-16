@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 Land Act. There was a public meeting at Mr Midwinter’s at Baldina on Saturday afternoon 26 Oct. to get the Govt. to extend the time for the payment of the 21 instalment of their interest on selections. Nearly 40 selectors were present and they face an almost complete failure of crops due to a combination of rabbits and dryness. A memorial for forwarding to Govt. was approved. They also asked for a road to be opened through section 15, H. of Baldina into the timber reserve. Rowland Rees replied that there has not been time for a reply from Commissioner Playford, but he has given an assurance that it will be looked on favourably in the event of a crop failure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

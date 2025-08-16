@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra D.C. 12 December.  The Main Roads Bill has passed the Lower House without change so the battle for the Douglas Road must go on in the Legislative Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

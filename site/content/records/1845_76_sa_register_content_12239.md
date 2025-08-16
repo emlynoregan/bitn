@@ -40,4 +40,4 @@ A strong muster of Oddfellows was held at the Burra Hotel at 2 p.m. today to cel
 
 [The names mentioned in the article are: J.W. Macdonald, Rev. Whittaker, Rev. Thomas, Dr Meredith, Mr Morris Marks, and Messrs Victorsen, Fenton & Stacey from Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Comment later in the paper: with over £200 in the building fund why is the Institute afraid of altering the present disgraceful state of the performance accommodation?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

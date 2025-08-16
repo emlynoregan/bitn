@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Fire at the Bon Accord Hotel.  A fire was discovered in one of the upper bedrooms at about 7 a.m. on Sunday 30 April.  When Mr Wilson reached the room he found the bed a mass of flames.  He threw the burning articles out of the window.  There was plenty of water to hand and with assistance the fire was extinguished.  Some of the floor and skirting boards were burnt.  The cause is not known, but it is thought that a guest who left early might have forgotten to extinguish a candle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

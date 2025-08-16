@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Lindsay Woodman will be 90 next week.  [Lindsay George Woodman died 6 May 1990.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

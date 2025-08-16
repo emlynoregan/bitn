@@ -42,4 +42,4 @@ Many street trees are doing well, especially the road from Kingston St corner to
 
 Some attention is needed to replanting and staking, but overall we have no reason to regret the expenditure.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

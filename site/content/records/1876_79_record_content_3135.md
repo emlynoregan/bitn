@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Booborowie.  Several deaths of cattle have occurred due to traces of the poison plant in fields.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

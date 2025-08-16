@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 The Burning of Effigies.  On the night in question one old lady was distressed to learn as she thought that two men were to be hung and then burnt and she went to find the police.  When she discovered the truth and found out the name of the man concerned she said: ‘Oh I’m sorry it isn’t true.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

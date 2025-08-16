@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Bishop Short preached at St Mary’s last evening and confirmed about a dozen young persons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

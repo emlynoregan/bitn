@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 New Wesleyan Chapel at Mt Bryan Flat was opened on Sunday 29 October.  Rev. S. Worth, formerly of the Kooringa circuit preached three sermons.  On Monday W.R. Ridgway presided at a public meeting after a tea.  The Kooringa Wesleyan Choir attended.  The congregations would not fit into the 20 ft x 30 ft x 14 ft high building, which cost £220.  A day school will soon be opened in the building.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

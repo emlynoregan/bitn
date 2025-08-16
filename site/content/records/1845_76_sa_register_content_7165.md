@@ -29,4 +29,4 @@ Gold in Victoria & NSW
 
 Regular licences for gold-diggers are being issued in Victoria, but to date success does not seem to have been brilliant in many instances.  In Sydney it is reported that £10,000 worth of gold has reached Sydney from the goldfields.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

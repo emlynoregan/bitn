@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 [W.R. Ridgway owned lot 23 in Aberdeen, which is the whole block surrounded by Best Place, Morehead St and Helen Terrace.  Among other developments was the site of the Aberdeen Hotel and later its replacement Royal Exchange Hotel.  A ratepayer’s meeting in November 1885 had censured him for getting work done to benefit his own property.  He had tendered his resignation, but was persuaded to withdraw it.  See VII. 493. 17 Nov. 1885, page 3; VII. 494 20 Nov. 1885, page 3 and VII. 496. 27 Nov. 1885, page 2.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Aberdeen’ re the cow and goat menace.  People are taking advantage of the inspector’s need to take a day of rest on the Sabbath.  Horses, cows and goats prowl about the streets all Sunday, but are all out of sight on Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

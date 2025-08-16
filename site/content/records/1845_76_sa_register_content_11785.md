@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Smelting Works at Kooringa is partially stopped for want of fuel; there being few drays on the road at present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

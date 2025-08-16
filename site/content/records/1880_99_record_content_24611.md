@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  A letter from a patient complains that there are no visits there from preachers or Samaritans: even the Salvos didn’t go and play there!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

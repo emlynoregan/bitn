@@ -31,4 +31,4 @@ It was represented that the house was in bad condition and not absolutely necess
 
 Stood over, with leave to apply next quarter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

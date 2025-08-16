@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Federation.  Delegates representing the five colonies have returned to their homes and an election must now decide whether or not the colonies will federate.  We have received a copy of the Commonwealth Bill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

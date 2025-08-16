@@ -30,4 +30,4 @@ Burra Town Council.
 
 The Mayor has spoken to the district MPs re the retimbering of the waterworks well, but there is no decision yet.  He thought the water could be extended to the Public School at no loss to the town.  The Board of Advice will guarantee the sum of £3-3-0 p.a. which is the interest on the sum to be expended.  A letter has been sent to the police drawing attention to the larrikins destroying tree guards in Market Square.  Another letter has been sent to the local MPs regarding the unsafe Aberdeen level crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

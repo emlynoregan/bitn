@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Mr James Ah Hong Wah, Chinese Herbalist, Consultations free at the Kooringa Hotel, 10.00 a.m. to 1.00 p.m. daily.  Private Residence, Thames St, Kooringa, opposite the Primitive Methodist Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

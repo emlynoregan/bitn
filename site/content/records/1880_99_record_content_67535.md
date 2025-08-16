@@ -44,4 +44,4 @@ The chairman said he did not intend to put the motion so no amendment was necess
 
 Cr Hardy spoke in support of returning the waterworks to the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

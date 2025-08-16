@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Mortgagee Sale at Hampton: Lot 12 150’ x 300’ with three substantial stone cottages and also allotments 32, 33, 34, 37, 38, 39 each of 32 perches, fenced and containing a stone quarry.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

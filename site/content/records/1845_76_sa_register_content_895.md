@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Advt.  Another advertisement for Nicholl’s stage cart to the Burra Burra Mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Record is now in new premises.  John Pearce had the contract for the roofs and the ceilings (in small fluted iron), floors etc.  O. Bartholomæus had the erection of the front and the verandah.  J. Launder built the large room for printing and the composing room.  Jones & Bowen did the painting.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

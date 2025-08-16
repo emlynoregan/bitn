@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Editorial on harvest prospects which so far are very good with local yield estimated at over 12 bushels per acre. Heavy rains late in the season damaged the hay, but helped the wheat. Rabbits are few this year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -35,4 +35,4 @@ A recent communication from your Kooringa correspondent contains the following e
 
 May I ask on what authority he asserts ‘the more sober-minded and thinking portion of the community’ regards the results with regret and sees the evil of sending men into Parliament who possess the qualification acknowledged by your correspondent?  The paragraph I have quoted is an insult to the electors of Kooringa in inferring that three-fourths of them are not sober-minded or thinking men.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

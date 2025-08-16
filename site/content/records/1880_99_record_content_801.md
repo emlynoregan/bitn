@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Football.  Last Saturday at a scratch match 20 Club Members defeated Allcomers, but no scores are reported.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

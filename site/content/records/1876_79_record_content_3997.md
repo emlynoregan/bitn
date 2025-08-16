@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Hallett Railway will be opened today, not on the 15th as previously announced. This upsets plans already made and so does the wet weather. The Commissioner of Public Works will arrive by special train and will leave for Hallett at 11 a.m. In the future the morning train from Adelaide will continue to Hallett and the return train will depart there at 3.45 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Advt.  Tenders are called by Arthur F. Akhurst in the estate of John Calloway deceased of the Pig and Whistle Hotel, Kooringa, for the unexpired lease (c.3 years 6 months) and the goodwill of the Pig and Whistle Hotel.  The weekly rental is £3.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ The mystery of the disappearance of the maniac Fry has been solved by the discov
 
 [Strangely the SA Deaths CD records no adult Fry deaths before 1860.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 There is a report in Langford’s ornate style of the visit to the town of the son of the Army’s founder.  Unable to find a building to use the Army marched through the town and settled at the Market Square pump for their meeting.  The writer suggests there were some 1,200 present at the peak and still 1,000 by 9 p.m.  Staff-Officer Hendy, who accompanied Col. Booth was by far the better speaker.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

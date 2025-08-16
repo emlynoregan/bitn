@@ -33,4 +33,4 @@ publication_slug: sa-register
 
 Samuel Stocks Jnr’s funeral took place yesterday.  It was the most remarkable funeral seen in Adelaide since that of Colonel Light.  The cavalcade left the residence of the deceased at 10 a.m., preceded by four mutes with wands and scarfs, a private carriage containing the Rev. J. Woodcock and three other gentlemen; the hearse containing the body in a coffin covered with rich black velvet, with gilt furniture, followed by forty carriages containing about 150 personal friends and attendants, in black silk scarfs and bands.  The procession travelled via Hindley Street to King William Street and thence along North Terrace to the Cathedral Church.  [Holy Trinity]  The service was read by Rev. Dean Farrell, after which the procession proceeded to the West Terrace Cemetery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

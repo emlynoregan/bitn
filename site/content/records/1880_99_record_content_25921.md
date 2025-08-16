@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Shearers’ Union held a meeting at the Burra Hotel last Friday, but only four joined when an old shearer Mr Schnelzkopf argued it was city-based and would be detrimental to country-based shearers as the city hands would get first chance of jobs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

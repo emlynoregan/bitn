@@ -34,4 +34,4 @@ Cr Coglin asked whether there was any promise from SAMA to fix guttering.
 
 Cr West then became very disturbed and offended as a representative of SAMA and thought SAMA had been singled out.  Eventually notice was given of the matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

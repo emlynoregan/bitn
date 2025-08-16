@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Dr Sangster Sen. Will be given a social tonight at the Institute.  On Sunday scholars of St Mary’s gave him a silver-mounted walking stick and pair of pince-nez mounted in gold.  On Friday evening he will receive an illuminated address from the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

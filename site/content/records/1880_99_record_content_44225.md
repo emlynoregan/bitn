@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  James Dew, husband of Fanny Dew, died on 3 February at Springbank, aged 61.  He arrived in the Merrion in 1851.  [Page 3 adds that he was a farmer at Springbank for many years and was well and favourably known.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

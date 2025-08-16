@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Farrell’s Flat Races on Thursday were a success in Mr S. Tour’s [Torr’s] paddock, ¼ mile from the town.  As well as the horse racing there were pedestrian events and the result are printed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 [Although Ridgway takes an inordinate number of words to say so, I agree with him that ‘Bourgeois’ (or Boar-jaw, as Ridgway calls him) is rather obscure.  Most of Ridgway’s letter is however, a lot of words about very little.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

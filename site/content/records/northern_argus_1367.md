@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra Scouting will hold a family barbecue at the Burra Showgrounds next Friday night.  The District Commissioner Bob Beare will attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

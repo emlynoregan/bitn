@@ -37,4 +37,4 @@ Dr Sangster spoke of the good work of the Army and of the need for the young to 
 
 Ensign Verity devoted his address to the social programs of the Army.  Rev. Simpson moved a vote of thanks which was seconded by A. Harris Sen.  As a result of the meeting the local corps has been able to send £13 to headquarters.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

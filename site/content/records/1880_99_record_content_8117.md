@@ -31,4 +31,4 @@ Cummings v. Hall[s] and Hall[s] v. Cummings
 
 These were cross informations for assault, both men being cab drivers and the problem being a dispute over passengers outside the Bon Accord Hotel on 18 October.  Each were fined 10/- and to pay their own costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

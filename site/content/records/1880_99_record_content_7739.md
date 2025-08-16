@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘New Arrival’ condemning the low wages paid by many for labour.  12/- a week plus board equal to c. £1 is common and £1 a week is ridiculous for a man to live on and keep a family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

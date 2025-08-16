@@ -40,4 +40,4 @@ Cigar and Umbrella Race	[No winner stated, despite being ‘the best and most am
 
 Obstacle Race	J.A.S. Bagg & O. Abbott
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

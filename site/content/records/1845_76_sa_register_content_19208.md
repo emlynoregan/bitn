@@ -30,4 +30,4 @@ Obituary.  A miner named S. Noel has lately been working at Moonta and was injur
 
 [Stephen Noel died 16 March 1866 aged 33 at Kooringa.  BISA item suggests he was sometimes known as Knowle.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Onyx’ who considers that winter entertainments should be got up and the proceeds go towards levelling the oval.  Burra should create a lake from the Burra Creek and should plant more trees.  It is time the football matches for the season were arranged and high time the cricket clubs worked out their finances and distributed their prizes for the last season.  Why has the Burra Athletic Club died out?  Well it all fell to too few organisers, but mainly because of unfair running of some competitors at the meeting in Duff’s paddock.  The public lost confidence and refused to give any more.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 The most notable work in Middle Ward is the road through the Smelting Works from Kooringa to Redruth.  Mt Pleasant St has been made and Market Square kerbing completed and the Square raised.  In South Ward the work included new bridges and raising the road in Queen St.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: record-1876-79
 
 Humour. There is a short story told in German-English clearly poking fun at the German settlers, although the German in the story is the victor in the incident.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

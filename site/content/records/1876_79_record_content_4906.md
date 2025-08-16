@@ -26,4 +26,4 @@ Masthead. This is the first issue with the new masthead.
 Previously the paper was The Record. A Paper for Burra and the North-East. 
 Now it became: The Burra Record. A Paper for the North and North-East.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

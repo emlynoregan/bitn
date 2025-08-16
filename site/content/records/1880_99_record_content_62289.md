@@ -30,4 +30,4 @@ Haslam:
 
 Did not think they were taxed heavily enough.  He was for strict economy and the development of mining and agriculture.  Economy and retrenchment should precede any increase in taxation.  If times grew harder taxes should rise, but only for those in a position to pay and whether they should be on land, income or death duties he couldn’t say.  He favoured a reduction in the qualifications for the LC franchise.  For the fair representation of labour, pastoral, commercial and agricultural interests in Parliament.  But it would not be in SA’s interests if labour achieved a majority.  He generally favoured federation – if SA interests were protected.  He had supported the State Bank’s foundation, but now regretted it.  He thought something had to be done soon about the NT.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

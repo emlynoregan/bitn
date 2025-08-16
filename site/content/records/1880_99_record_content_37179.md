@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The SA Government was threatened this week by the resignation of the Hon. J.H. Howe, Commissioner of Lands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Sale of I. Chivell’s farm containing about 507 acres, one mile from Kooringa on the Burra Creek together with 20 head of cattle, 20 farm horses, tools, equipment and improvements etc. associated with a dairy.  Also a milk run.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

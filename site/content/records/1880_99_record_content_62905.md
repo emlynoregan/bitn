@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Record, having been in existence for 17 years without its own premises, is about to acquire a well-appointed printing office.  The old shop known as Geake’s has been demolished and premises for the paper will be built there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

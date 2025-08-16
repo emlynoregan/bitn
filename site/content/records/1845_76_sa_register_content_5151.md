@@ -77,4 +77,4 @@ At present he reports:
 His report is eloquent in describing the richness of the mine.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

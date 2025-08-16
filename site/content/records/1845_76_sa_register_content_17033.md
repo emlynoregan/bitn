@@ -37,4 +37,4 @@ Destitute scholars have increased from 913 to 1042.
 
 Irregular attendance remains a problem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

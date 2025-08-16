@@ -37,4 +37,4 @@ The Mayor reported he had visited the road through the Police Paddock to Hampton
 
 Messrs Lasscock, Butterworth & Shortridge waited on Council to ask if it would put two men on for a week to prepare a cycle and running track at the Recreation Ground if the Lodge would put on two men for the same time.  The coming Oddfellows picnic is to be held there.  The Council decided, after deliberation, to agree.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

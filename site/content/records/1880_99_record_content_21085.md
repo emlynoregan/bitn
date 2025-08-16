@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Advt.  IOOF, Friendship & Truth; the Loyal Kooringa Lodge No. 34 will shortly be opened.  Information from Alf Allen, J. Howes, T. Mellett, J. Both Sen., D. Williams and J. Both Jun.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

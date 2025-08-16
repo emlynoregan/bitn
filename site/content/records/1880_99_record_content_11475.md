@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  To Let: a new and beautifully appointed shop in the best business position in the Town of Redruth, also a five-roomed cottage.  Apply to Thomas Bath.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

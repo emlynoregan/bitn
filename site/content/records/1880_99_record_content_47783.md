@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial: What shall we do with our votes? [i.e. at the coming general election.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

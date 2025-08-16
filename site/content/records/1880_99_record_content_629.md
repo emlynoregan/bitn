@@ -34,4 +34,4 @@ If this is correct then with running costs of c. £250 p.a. plus 5% on the initi
 
 If only those properties adjacent to the main were rated they would pay 3/6 in the £.  This would not suit either those with adequate well and/or tank supplies, or many businessmen in the town.  Residents of Kooringa will not tolerate this.  We support the extension asked for on the basis that users only pay.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

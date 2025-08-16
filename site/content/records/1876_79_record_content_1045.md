@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Kerr Bros. - Advt. `WANTED, a Smart BOY for the Smith's Shop.' Editorial - re the defence of the colony
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

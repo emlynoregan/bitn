@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 William Davey & John Darby Cave elected as auditors for the Town of Burra for 1880.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

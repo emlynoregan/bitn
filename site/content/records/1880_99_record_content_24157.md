@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Migration.  The tide has turned again and last week at Pt Adelaide 171 more departed than arrived.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -29,4 +29,4 @@ Obituary of Mrs Coglin, wife of Mr W.F. Coglin, the Crown Lands Ranger.
 
 [Ann Compton Coglin, born Turnbull, died at Kooringa on 14 March 1877 aged 50.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

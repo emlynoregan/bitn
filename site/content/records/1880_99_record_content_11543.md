@@ -33,4 +33,4 @@ On Boxing Day at Princess Royal, adjacent to the Rechabite Picnic Adelaide, 130 
 
 On Christmas Day Aberdeen, 78 & 86 (164) defeated Saddleworth, 96 & 49 (145), at Saddleworth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

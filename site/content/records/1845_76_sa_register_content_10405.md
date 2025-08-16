@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Copper Men wanted at the Burra Copper Works, Kooringa.  The wages will be 25% higher than at any other Copper Works in the colony.  Constant employment.  Apply at the Works.  Arthur Motley, Superintendent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

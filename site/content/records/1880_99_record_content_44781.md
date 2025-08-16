@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Co. MI will assemble on 30 March for final instructions for the camp and it is expected over 25 will go from Burra - more than from anywhere else in the north.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

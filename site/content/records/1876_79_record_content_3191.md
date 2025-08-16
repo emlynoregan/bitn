@@ -33,4 +33,4 @@ W. Woollacott asked for a cheque for £50 in payment for the White Hart Ford foo
 
 Cr. Roberts said the springs in The Paddock were nearly choked and the dayman should attend to them considering the current water shortages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

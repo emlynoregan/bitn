@@ -48,4 +48,4 @@ John Ryan	5/-	Trotting his water cart
 
 Andrew Przibella	£1 + 10/-	Dog without name on collar etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

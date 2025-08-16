@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Louisa Elizabeth Wilkins, daughter of Henry Wilkins, died at Mt Bryan East aged 18 yr 3 months.  [Born 1 January 1876: died 24 March 1894.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

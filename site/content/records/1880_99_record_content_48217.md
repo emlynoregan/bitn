@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 A Watchnight Service was held in Redruth Primitive Methodist Church on 31 December conducted by Revs J. Hopkins & R.J. Daddow.  Rev. R.M. Hunter held a similar service in the Kooringa Wesleyan Church.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

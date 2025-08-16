@@ -46,4 +46,4 @@ Messrs Stobie & Morrison were fined for trespassing on Gum Creek Run with their 
 
 The same firm has been busy removing and selling the stock of W.H. Stanbury, of which they were the successful tenderers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

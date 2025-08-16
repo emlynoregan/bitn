@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Wheal Sarah proprietors met on Monday to transact business and to examine some very good specimens from the bottom of the shaft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

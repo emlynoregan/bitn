@@ -65,4 +65,4 @@ Officers	5
 
 The directors have decided to extend the operations for the development of the mine and ascertaining its ore producing capabilities.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

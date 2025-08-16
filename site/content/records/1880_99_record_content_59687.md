@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 ‘Pro Bono Publico’ writes that the coming election campaign should see attention directed to the state of the stock roads.  Within the Hundreds they have been much mutilated by the creation of working men’s blocks and further reduced by the letting of commonage by Councils.  The width of the roads allowed in Counties outside of Hundreds is only 10 chains and this is insufficient in saltbush country.  See for example the road between Thistlebeds and Duffer gate in the Hundred of Rees.  The completion of fencing here will see the road quite bare of feed after the passage of the first flock of the season.  The pegged line will be still worse.  40 chains is the width needed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

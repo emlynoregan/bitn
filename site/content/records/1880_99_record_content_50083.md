@@ -28,4 +28,4 @@ Hold a registered lease of £20 with three years to run, or with right of purcha
 
 Occupy a dwelling house of clear annual value of £25
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

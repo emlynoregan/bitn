@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 We then visited one of the holes in the creek and found it very neat and clean and in one part an attempt at finery.  It was very cool, but I was informed, very close at night, there being no ventilation.  They are whitewashed inside and sometimes outside and most have paling verandahs, lean-tos etc.  The chimneys are mere holes opening from the footpath above, with a tub or two and a few clods put round.  As you pass you always know what is being cooked and there are many tales of fish or fowl disappearing up a chimney, having been hooked by a practical joker.  The secret of selecting such a place is that it is rent free.  Sickness prevails much and it is no wonder; the refuse is cast before the door.  Pigs and children were numerous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

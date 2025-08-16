@@ -29,4 +29,4 @@ Payments to wards Passages
 
 For persons not eligible for passage in one of the Commissioners’ ships, passages can be arranged from Plymouth at £15-£21 for intermediate cabins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

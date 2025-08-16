@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Institute Committee met and appointed sub-committees.  (F.W. Holder was on the Hall Sub-committee and the Sub-committee to prepare a form of rules and by-laws for the Institute.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

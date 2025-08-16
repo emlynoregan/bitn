@@ -27,4 +27,4 @@ Cricket.  9 November at Clare.  Clare 122 & 25 for 1 wicket
 
 defeated Burra 65 & 80 (145)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

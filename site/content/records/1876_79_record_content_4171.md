@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The District Council is to be informed that no rubbish is being dumped by order of the Town Council in any improper place.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Anti-Chinese Feeling. B. Judkins, committeeman assisting the Sydney Seamen's strike, urges the necessity of a meeting to protest against the introduction of Chinese.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

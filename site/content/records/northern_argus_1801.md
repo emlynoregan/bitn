@@ -56,4 +56,4 @@ In the afternoon the crowd enjoyed bands, buskers, clowns, food stalls etc.
 
 The National Trust sites were open and large crowds visited the newly opened Morphett’s Enginehouse and business was brisk at the Bon Accord Mine Museum, where the mine model and the illuminated shaft attracted favourable comment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

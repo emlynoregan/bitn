@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  The Northern Argus reports that with a very few exceptions the people have all left Ulooloo for the shearing season.  There are two stores and a public house and there are at present 12 diggers.  The Government prospecting party has yet to find any payable gold.  Shearing is in full swing at Mt Bryan Station.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

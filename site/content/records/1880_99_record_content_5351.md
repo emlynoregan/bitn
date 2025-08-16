@@ -38,4 +38,4 @@ Fines of 5/- each were imposed for stray cattle on: J. Burrows, J. Tiver, F. Bro
 
 Dixon sued Brame alias Brown for assault at a rabbit camp at Baldina.  Brame/Brown pleaded guilty and chose 7 days instead of paying a fine of £1 + £1-18-6 costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

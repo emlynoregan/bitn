@@ -35,4 +35,4 @@ Many sheep farmers are removing their flocks from the north.
 
 Sheep from Arkaba are to come to Booborowie and from Pandappa they are going to the South East.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

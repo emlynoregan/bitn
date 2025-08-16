@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Town Council has of late been taking up old wooden crossings and putting down stone ones to improve the town’s footpaths.  No doubt the Diamond Jubilee Celebrations have something to do with the alterations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

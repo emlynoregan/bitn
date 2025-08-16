@@ -55,4 +55,4 @@ They trust you may long live to enjoy the laurels which you have so nobly won, w
 
 27 December 1862, page 1
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

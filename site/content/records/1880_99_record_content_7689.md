@@ -29,4 +29,4 @@ Notice.  1 September 1882, the partnership between F.W. Holder and Francis Pasco
 
 Mr Francis Pascoe is now the sole proprietor of the N-E Times & Terowie News.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

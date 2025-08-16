@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Literary Soc. began a new season on Friday with a meeting at the German Chapel.  Mr C. Fuss was elected President with W.T. Rabbich and T. Queale as Vice-Presidents.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

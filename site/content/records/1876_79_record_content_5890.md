@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 At Aberdeen things are very different. There is a trough at the railway gate and another has just been fixed opposite Messrs Ridgway & Co.'s store, so teamsters are readily supplied. Surely a little pressure on the Govt. could force it to erect one or two standpipes and water troughs in Kooringa and if that were done it would supply our most urgent needs. The cost for this would not be great. No pumping would be needed as the water in the well is about 20' above the level of Market Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

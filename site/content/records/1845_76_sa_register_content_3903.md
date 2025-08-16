@@ -30,4 +30,4 @@ The sale of Redruth on 29 August was quite extraordinary, as already reported.  
 
 The 1,040 town acres originally laid out as Adelaide and at the Port realised only £3,991-16-0 (reckoning 12/- per acre from the preliminary holders of 437 and the full average for the reserved acres), and yet that sale was considered a mighty achievement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ The Burra Burra Mine
 
 Everything progresses favourably.  There are already about 300 men on the ground and it is hoped that within a fortnight they will be working the deep levels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

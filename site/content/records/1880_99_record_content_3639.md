@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Nankivell’s Gully Road.  The junction of this road with the Eastern Road is to be improved, but other work is needed.  It is a needlessly crooked road and too narrow to allow two wagons to pass.  Corners also need filling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

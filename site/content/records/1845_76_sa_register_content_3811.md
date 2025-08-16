@@ -39,4 +39,4 @@ On the New Road from the Burra to the New Shipping Place at the Head of St Vince
 
 The proprietor is disposed to sell portions of this fine survey, and has instructed Mr Jacob to make the necessary surveys.  Mr Jacob will mark out what may be required by the various purchasers at the proprietor’s expense.  Apply to Mr Young or Mr Oakden on the survey, Mr John Saunders at the Burra, Mr Jacob at Moorooroo, or, in Adelaide, to H. Gilbert, Solicitor, or, G.F. Andrews, Land Agent.  A township will be laid out in the most commanding and eligible situation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

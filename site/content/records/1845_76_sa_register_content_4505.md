@@ -36,4 +36,4 @@ Advertisement.  Township of Wakefield.  Near Port Wakefield at the head of St Vi
 
 Lots number from 1 to 127.  Sections 16 to 146 (except 30, 62, 79, 97 & 114) each section is 2 roods, at the price per lot of £5.  Ten lots of water frontages of about 420 ft, each of 1 acre are offered at the upset price of £10 for a 14 year lease and subject to a peppercorn rent.  (Lots 1, 2 & 3 are c. 1 acre and the others are 1 acre less the breadth of a road.)  Charles Sturt, Colonial Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

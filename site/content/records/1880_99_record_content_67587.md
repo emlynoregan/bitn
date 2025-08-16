@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Races.  The SAJC has allotted 31 January as the day for the Burra Races.  Total prize money will be c. £100 and the totalizator will be arranged.  This timing will allow horses to run at Clare on 17th, Martindale on 24th, Burra on 31st, Peterborough on 14 February and then go on to Broken Hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

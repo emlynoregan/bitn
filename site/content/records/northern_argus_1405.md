@@ -30,4 +30,4 @@ Kingston Street Cottages for the Elderly
 
 Representatives of the Council and the Housing Trust of SA met on 18 July to discuss their joint venture to erect cottages for the aged in Kingston Street alongside the old Salvation Army Citadel.  The proposal is to build two double units with each unit to have two bedrooms, a kitchen, separate dining room and lounge.  The design will have bull-nosed verandahs.  The Housing Trust will also soon start work on the renovation of the McBride Cottages in Chapel Street, where the heritage Branch has been involved as they are on the State heritage List.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

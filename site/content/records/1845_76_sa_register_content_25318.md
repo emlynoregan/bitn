@@ -42,4 +42,4 @@ Best pair of Horses	Mr Bell
 
 A dinner was held in the evening at the Emu Hotel.  Over 40 settlers sat down and dancing continued till an early hour.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Not to be got at with Clay’ also responding to the release of a firebrick company prospectus.  The writer considers the venture silly.  They are leasing the chalk bed for £2 p.a. and some land near the railway station for £14 p.a.  They are sending the clay to Adelaide.  Had the directors called for 100 shares at £2 each and built a brick-kiln it would look more like the genuine article.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

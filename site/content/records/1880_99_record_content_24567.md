@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wesleyan Ministers for the coming year in Burra will be H.T. Burgess and J.H. Hadley.  [Notwithstanding the announcement on VIII. 614, 25 Jan. 1887, page 2.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

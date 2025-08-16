@@ -27,4 +27,4 @@ Stanley District
 
 There is a report on a deputation to the Government seeking to divide the Stanley District into wards, and of a counter-memorial arguing against that step.  There was also a deputation to the Commissioner of Public Works seeking money to be expended on the road from Mintaro Station to the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

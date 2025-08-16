@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The streets here have been busy with the number of drays engaged in carting firewood to the Smelting Works and those conveying stocks of stores to the sheep stations.  Roads are in a passable state due to the recent fine weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

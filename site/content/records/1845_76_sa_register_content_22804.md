@@ -31,4 +31,4 @@ Down Trains will depart Roseworthy 8.50 a.m. and arrive Tarlee 11 a.m.
 
 Up Trains will depart Tarlee 3 p.m. and arrive Roseworthy 5.10 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

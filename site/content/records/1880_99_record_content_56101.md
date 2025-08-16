@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Everyone must feel pleased with our local defenders.  When the Burra Contingent was being formed great advantages and encouragements were being held out.  Each recruit must supply his own horse and inconvenience himself in various ways.  A year or two ago when the Government grant was higher this was not objected to, but now it is so low it is impossible for several to continue.  Other advantages have been removed to that the defence forces of SA are not encouraged as much as they should be.  We are proud that despite this the Burra Mounted Rifles keep together.  Sgt-Major De Passey complimented the men for the standard of their work on Wednesday.  Arrangements for a team of eight from the Lancers and Gawler Mounted Rifles to come, fell through when the railways objected to making concessions for transport.  They deserved better.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

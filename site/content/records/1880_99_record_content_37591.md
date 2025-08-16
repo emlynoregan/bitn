@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Aberdeen Crossing.  A man, rather drunk, was almost hit by the late train to Terowie at the crossing on Friday night.  Something must be done about this crossing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

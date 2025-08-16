@@ -32,4 +32,4 @@ Several people were fined for stray horses and cattle.
 
 Margaret Freckleton was charged with the theft of 14 yards of black surah silk valued at £4.  Fined £4 or 2 months.  The fine was paid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

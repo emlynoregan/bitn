@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  Kooringa Wesleyan Church Special Services 6 June in aid of funds for the new parsonage.  On Wednesday the memorial stone will be laid by Mrs John Drew, followed by a public tea.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

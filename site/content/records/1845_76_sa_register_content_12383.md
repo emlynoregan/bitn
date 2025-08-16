@@ -44,4 +44,4 @@ The inhabitants of Redruth and Aberdeen are getting up a petition for a bridge o
 
 The mail continues to run very late; it did not arrive till 10.30 p.m. today.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

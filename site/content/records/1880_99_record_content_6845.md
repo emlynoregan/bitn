@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. A.J. Birt was given a farewell tea on Wednesday.  He has had charge of the Kooringa Primitive Methodist Church for 12 months.  A valedictory meeting in the evening was held in the Wesleyan Church because it was larger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Burra’s Australia Day Champagne Breakfast will be held in the Unicorn Brewery Cellars.  The Burra auxiliary of the Crippled Children’s Association and Burra Apex Club are combining for the occasion.  It is planned to sell 120 tickets at $10 per head.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

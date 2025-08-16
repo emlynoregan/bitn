@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 An altercation.  Mrs ____________ accused Mrs ____________ of stealing her parcel of tea in Henderson’s Yard on Friday.  An investigation found no evidence of the tea and the woman accused grew very angry and an unpleasant altercation followed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

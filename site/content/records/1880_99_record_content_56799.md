@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the Apoinga Council’s failure at Redruth Court in a number of rabbit cases, on a technicality.  The new Act is complex and the editor is not in favour of its operation, however commendable its intention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

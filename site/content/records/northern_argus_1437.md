@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Trevor Willmott is the new manager of Dalgety Bennetts Fisher in Burra.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

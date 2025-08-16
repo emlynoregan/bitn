@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  Rev. E. J. Kemp (Bible Christian) conducted a magic lantern service at the Barracks on Friday night in aid of the self-denial fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

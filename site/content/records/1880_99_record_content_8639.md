@@ -39,4 +39,4 @@ Boys’ Primary Classes	£1-1-0
 
 The lower rates not available for children 9 years or upwards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

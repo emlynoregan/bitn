@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church’s 35th anniversary last Sunday.  Rev. Thomas Allen of Bowden preached twice.  The service of song in the afternoon was Babes in the Basket.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

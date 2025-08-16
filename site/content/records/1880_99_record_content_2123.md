@@ -30,4 +30,4 @@ At the company stables, the whole of the plant, draught horses and rolling stock
 
 34 draught horses, 5 wagons, 6 trollies, 1 spring van, 1 heavy dray, 2 timber carriages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

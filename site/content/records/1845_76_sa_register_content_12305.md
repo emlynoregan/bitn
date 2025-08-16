@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 A meeting of the creditors of Mr A. Motley was held at the Burra Hotel on 18 April to hear a statement of his affairs.  It is feared the estate will realize little, if anything.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

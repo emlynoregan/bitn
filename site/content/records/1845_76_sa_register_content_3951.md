@@ -40,4 +40,4 @@ Defendants (through an interpreter, because they were Welsh) said Mr Williams ha
 
 The Magistrate said that if they had complaints against Mr Williams, he would be quite willing to hear them, but the agreement stood and they had broken it.  On their agreeing to return to work, His Worship ordered their wages be abated 30/- and they pay costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -38,4 +38,4 @@ The Chairman then read Mr Mildred’s reply, which he said conformed to the laws
 
 The resolutions printed in the paper of 6 October were then passed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

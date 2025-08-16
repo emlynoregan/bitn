@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Tonight at the Institute the third in the series of Popular Entertainments will feature 100 of the Model School children.  6d. [Further down the page it says over 300 tickets had already been sold.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

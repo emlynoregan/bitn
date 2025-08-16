@@ -40,4 +40,4 @@ There was at the end an overall credit balance of £11,780-18-11.
 
 Sara & Dunstan have extended their premises by erecting a steam sawmill and installing a steam planing machine at a cost of £1, 000. The stack is 40' high. The saw bench of cast iron was manufactured by James Martin of Gawler and the 12 horsepower horizontal engine features an 8'9" flywheel. I much more detail is given]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

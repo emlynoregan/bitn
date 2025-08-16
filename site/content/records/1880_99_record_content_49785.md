@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Junior Foresters 2nd Anniversary Social, Court Pride of Burra No. 24 was held at the Institute.  30 adult and juvenile members attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

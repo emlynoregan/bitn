@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Betsy Harvey died at her son’s residence at Aberdeen on 22 July, aged 80.  She was mother of Thomas Harvey and relict of the late William Harvey.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

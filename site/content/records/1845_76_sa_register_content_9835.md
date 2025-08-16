@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Burra Primitive Methodists held a public tea-meeting on Tuesday 29 April when about 250 sat down to eat, but so limited is the accommodation in their chapel that places had to be set and cleared five times to satisfy the crowd.  For the public meeting that followed there were so many standing outside that the gathering adjourned to the Bible Christian Chapel.  Addresses were given by Rev. Mr Wright and Mr Hillman.  The addresses were mainly aimed at their object in doubling the size of their chapel.  Total profits from the meeting were £14-3-6.  Subscription lists have been open and to date more than £200 has been promised.  Mr Wright may safely expect to be soon able to accommodate his congregation, which is daily increasing.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

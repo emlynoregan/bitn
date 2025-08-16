@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Aberdeen Waterworks has shown a loss again for the last year.  The amount was £58-13-3 and Mr Mestayer, the hydraulic Engineer, endorses previous recommendations that local authorities should pay for water supplied to free troughs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

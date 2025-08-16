@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Children’s Jubilee Demonstration Excursion to Adelaide Exhibition on Friday Oct. 14.  Kooringa children assemble in Market Square at 5.30 a.m. to be conveyed to the station.  Aberdeen and Redruth children meet at the station.  Special train leaves at 6 a.m. and leaves Adelaide to return 5 p.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

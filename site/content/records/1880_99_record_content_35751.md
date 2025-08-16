@@ -34,4 +34,4 @@ The ban was in fact enforced for a considerable time until eventually a laxity o
 
 As for an insidious attempt to strike a blow at the liberties of the licensed victuallers: this is all nonsense.  The Mayor could not override the law and there is nothing to show he tried to do so.  We are sorry to see the Lantern rail at an event it evidently knows nothing about.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

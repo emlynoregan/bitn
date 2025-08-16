@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The Colonial Directors of the Bon Accord Mine visited their property this week and inspected the various workings.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

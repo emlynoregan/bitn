@@ -34,4 +34,4 @@ Editorial on Sunday Closing of Hotels.
 
 At the last Council meeting two petitions were received, one from East Ward and one from West Ward, in accordance with the Licensed Victuallers’ Act of 1880 the petitioners demanded a poll to decide whether Sunday closing be compulsory.  A few years ago a poll was taken in the then North, South and Middle Wards which resulted in favour of the local option principle.  We believe justice demands that the poll should be by town rather than by ward.  It would be unfair if one ward’s hotels were closed while another’s were allowed to open.  This aspect of the Act should be changed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

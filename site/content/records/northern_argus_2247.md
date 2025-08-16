@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Mrs Fay Jones of Burra North has won the 1st prize in the latest Reader’s Digest cash give away - $45,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

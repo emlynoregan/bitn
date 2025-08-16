@@ -33,4 +33,4 @@ Notice.  William Templar of ‘North Star Inn’ advises that, having had his li
 
 Also a notice to draymen on the Great North Road.  William Templar will continue to water all working bullocks as usual.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

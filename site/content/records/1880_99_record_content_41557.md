@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Mounted Infantry.  The adjourned meeting to consider forming a Burra Corps was resumed at the Commercial Hotel on Friday.  About 25 were present and nearly all were prepared to join if the government gave its approval.  Lieut. Downes of the Militia Artillery took the chair.  Lieut. Watt of the Burra Infantry Co. was unanimously nominated as the commanding officer.  The Commandant was asked to allow Lieut. Downes to be attached to the Company during his residence in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

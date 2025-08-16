@@ -43,4 +43,4 @@ Mr Cave was not so successful as in the past but obtained
 
 R.M. Harvey was the most successful amateur exhibitor, winning 3 firsts from 5 exhibits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

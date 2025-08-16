@@ -31,4 +31,4 @@ Advertisement.  N. Denmead Manufacturer of Double-block Tinwares, opposite the W
 Having just returned from the Mount Alexander Diggings, N. Denmead will have great pleasure in giving any information respecting them and can manufacture and supply the articles in use for procuring gold by simple, yet effectual means: gold-washing sieves, washing dishes, dippers, water-pails, cooking kettles, pannicans [sic] etc.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

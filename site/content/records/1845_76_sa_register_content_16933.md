@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The weather has been hot and dusty until yesterday when there was a severe thunderstorm.  A woman was struck by lightning and killed at Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

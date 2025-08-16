@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Rev. Father O’Dowling SJ is leaving after a stay of 13 years.  He has won the respect and esteem not only of his own flock, but also of all with whom he came in contact.  He goes to Norwood and will be succeeded by Rev. Father Deikel.  [Actually Dietel.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

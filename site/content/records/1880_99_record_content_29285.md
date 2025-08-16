@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Land Tax.  There is a report from the Register on taxing land values following a meeting on the matter in the Adelaide Town Hall last Thursday evening at which the two main motions were moved by Mr P. Glynn and F.W. Holder.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

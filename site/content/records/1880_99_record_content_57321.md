@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s Hospital Sunday last weekend was not largely attended due to the weather.  Still, a satisfactory amount was collected.  Rev. A.G. King officiated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

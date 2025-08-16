@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Elections.  On Wednesday 19 Feb. a large meeting of electors at the Institute in Jamestown heard Messrs Lake and Haslam speak as candidates for election.  The report extends for 1 column.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

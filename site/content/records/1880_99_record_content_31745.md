@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  I. Chivell’s farm is for sale at a bargain price of £450.  Situated one mile south of Kooringa on the Burra Creek.  [Details follow.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

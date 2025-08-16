@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  Rather belatedly the results of the Good Friday match are printed.  Burra 128 defeated Medindie 94.  Play was to have resumed for the second innings on Saturday, but the paper says Medindie had had enough and went home, though it is not clear if this is a reference to the weather, their performance, or something else.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

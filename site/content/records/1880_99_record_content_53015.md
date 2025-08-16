@@ -27,4 +27,4 @@ Local Board of Health
 
 The board decided it could not proceed with appointing the Inspector, J.R. Gray, to inspect meat in the DC area as agreed to at a recent meeting with them.  Gray was then asked to take on the job without pay and declined.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

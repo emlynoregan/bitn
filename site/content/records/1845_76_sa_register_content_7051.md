@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 ‘I say the gold mines are a complete failure.  And once more may I say, ‘Warn every man you know not to be gulled by false reports.’ June 23, 1851.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

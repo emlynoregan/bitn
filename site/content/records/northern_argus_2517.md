@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 Tourists are coming to Burra such that accommodation was fully booked over Easter.  Paxton square is fully booked until after the Anzac weekend.  Redruth Camping Centre had a capacity crowd for Easter with c. 90 from Frome Presbytery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

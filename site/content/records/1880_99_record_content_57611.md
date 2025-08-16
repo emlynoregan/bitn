@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 A Bolt.  Mr H.S. Dunn tied his horses to a post in front of the Kooringa Post Office on Wednesday.  For some reason the horses, which were attached to a buggy, took exception to staying there and bolted along the road to the north and after negotiating several nasty corners were found by their owner at the railway yard.  Only one strap was broken.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

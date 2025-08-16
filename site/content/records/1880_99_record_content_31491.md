@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes ¾ column on the report of the local Institute which showed that novels were issued 2,137 times, history 16, biography 18 and science but 7 times.  There is too much reading of novels he concludes.  In the modern world all is rush with no time for reflection.  Authority is becoming the same as journalism.  Art is prostituted to a balance sheet.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

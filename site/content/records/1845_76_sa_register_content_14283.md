@@ -42,4 +42,4 @@ Will support the leasing of Crown Lands for mineral purposes.  Will support clai
 
 On emigration: SA with only 120,000 people needs more population.  The last scheme has run its course, but Parliament no doubt has the wit to find means of stimulating migration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

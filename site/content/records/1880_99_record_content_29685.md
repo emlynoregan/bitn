@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Season.  Agricultural prospects in the Burra area seem better than for much of SA, but to the east of the town the sight is of ‘Egyptian deserts’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Accident.  The Mail Cart horse shied at some children playing on the Mine Bridge on Saturday afternoon and broke through into the plantation, where it fell over.  Messrs Carey Sen. and G. Dow got out unharmed and righted the horse which was not seriously hurt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

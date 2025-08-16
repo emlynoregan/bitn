@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 John Baker.  Baker was taken before the Bench at Wilcannia on Monday last prior to being committed to Bourke.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

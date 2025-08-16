@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Water Supply. The hot weather has seen water supplies give out and many are now dependent upon the water carts. When will the long talked of Govt. scheme be advanced another step? `Possibly about the year 1979.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

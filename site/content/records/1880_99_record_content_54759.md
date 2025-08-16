@@ -32,4 +32,4 @@ Editorial on the Wonderful Reports of Gold Finds in WA.
 
 It is wonderful how depressions so often lead to mineral discoveries: Burra, Moonta, and Broken Hill.  Such discoveries must give a wonderful impetus to WA which has languished for so long.  But it is found in a very inhospitable country and for every one person who makes a great find probably one hundred will suffer terrible loss.  While we will not benefit directly as we did in the case of Broken Hill, yet we may see a growing market for hay, chaff, preserved meat and other products as well as an opportunity for surplus employment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

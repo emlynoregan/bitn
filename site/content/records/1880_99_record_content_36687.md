@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Misner, who was said to have been turned out of the Jamestown Hospital the same day he was brought to the Burra Hospital, died suddenly yesterday.  Unless there is a satisfactory reply from Jamestown authorities we can expect an inquest here.  [Registered as William Mysner, died 19 May 1890 aged 39.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

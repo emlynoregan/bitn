@@ -49,4 +49,4 @@ Examined the body.  There were no marks on the body except a simple bruise on th
 
 That was also the conclusion of the jury.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

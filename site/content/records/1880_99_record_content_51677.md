@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rifle Match.  The Allcomers’ Sweepstake of 2/6 to be fired last Wednesday resulted in a win for Mr T. Bentley with 91, ahead of Capt. Watt 84, Lieut. Blott 83 and Pte Gemmell 80.  Another match saw a team of 6 mounted rifles with 426 defeat 6 Civilians 336.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

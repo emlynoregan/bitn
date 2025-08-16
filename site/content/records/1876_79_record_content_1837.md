@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Burra Mine: Captain Sanders reports 12 men employed in sinking Morphett's Shaft to the 100 fathom level to seek new lode. 9 men working at sinking Grave's shaft from the 50 to the 60. Open work continues apace.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

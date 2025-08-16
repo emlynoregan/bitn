@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Howorth’s Hibernica and Comedy Co. appeared at Lamb’s Assembly Rooms [Burra Hotel] on Tuesday evening before a large crowd.  The scenery was admired and the performers were applauded.  [Hibernica seems to suggest an Irish flavour for the entertainment.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

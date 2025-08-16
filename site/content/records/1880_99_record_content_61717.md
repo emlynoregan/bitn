@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  John Fogarty, an inmate of the Burra Hospital for the last three years, died on Sunday and his remains have been sent to Terowie.  [See details papers of 27 January & 3 February.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

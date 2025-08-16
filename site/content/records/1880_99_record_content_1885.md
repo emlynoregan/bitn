@@ -28,4 +28,4 @@ Redruth Court 5 October
 
 Thomas McNaulty, 1 month for stealing a flask of brandy valued at 2/- and a towel valued at 1/- from the bar of the new hotel in Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

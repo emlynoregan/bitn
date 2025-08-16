@@ -33,4 +33,4 @@ District of Stanley
 
 [The petition from ratepayers in the Hundreds of Stanley and Clare calling for the creation of a District Council of Stanley is printed.  The memorialists ask that those appointed as the first members of Council should be Messrs Alexander Melville, Henry Jolly, Peter Brady, Thomas Miller and Joseph Williams.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the SA Farmers’ Mutual Association.  The editor argues that its narrow interest in improving the terms under which farmers hold land under the Crown leaves room for an organisation to improve agriculture in the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

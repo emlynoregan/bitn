@@ -38,4 +38,4 @@ Elder’s first Burra office were modest facilities at the rear of Drew & Crewes
 
 In 1906 one of the first pieces of high-tech equipment was introduced to the office – a typewriter.  In 1904 the office took delivery of its first motor vehicle, but horses and buggies were retained till 1917.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

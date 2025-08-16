@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 Burra Teachers’ Association held its 5th meeting.  The schools represented were Baldina, Burra, Daviestown [Hanson], Hallett, Hanson [Farrell Flat], Leighton, Mintaro Station [Merilden], Riverton, Saddleworth and Stony Gap.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

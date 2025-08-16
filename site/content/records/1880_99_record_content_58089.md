@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Vermin Proof District Meeting.  There is a further report on the meeting covered in the 2nd leader.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ But this is not the only pecuniary penalty to which we are to be subjected.  Not
 
 To the inadvertent publication of an objectionable phrase in the letter of a correspondent, though we know not why they should suppose for a moment that it was intended to apply to them, we have offered an ample apology elsewhere.  Without any demand for an apology or explanation, and even after an apology has been known to have been offered, nine actions have been commenced against us, one at the suit of each Director.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

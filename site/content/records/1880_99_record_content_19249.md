@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 High Officers from England will be received by the Ministers of the town and Members of the IOR, Burra on Tuesday 6 October, and luncheon will be held at the Burra Institute with a grand public meeting in the evening with speeches and music.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

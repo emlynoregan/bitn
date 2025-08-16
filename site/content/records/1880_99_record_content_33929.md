@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Mayoralty.  J.A. Watt has been asked to stand for Mayor by a large deputation and he has undertaken to consider the proposal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

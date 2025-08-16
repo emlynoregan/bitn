@@ -28,4 +28,4 @@ publication_slug: record-1876-79
 
 Hallett railway: The embankment to the railway was now obstructing ingress and egress at Butterworth's Mill. Butterworth thought that an underpass was feasible as the bank was 12' high and that would be better than the proposed crossing by the Bon Accord which was on a hill.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

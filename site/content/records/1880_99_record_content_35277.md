@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on ‘Czarism’: not so much the Russian variety, but the contempt for public opinion which leads authorities like the Railway Commissioner to ignore public advice etc.  It is about the abuse of power.  The Railway commissioner is determined to continue to use kerosene to light railway carriages.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

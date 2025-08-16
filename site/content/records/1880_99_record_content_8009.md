@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  Saturday, South End of Town 168 defeated North End of Town 31 & 49 (80)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

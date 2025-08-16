@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Accident.  A toilet block at the Burra Showgrounds was substantially demolished when a driverless car ran away from a house on the perimeter of the showgrounds and crashed into it on Saturday.  [Photo.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

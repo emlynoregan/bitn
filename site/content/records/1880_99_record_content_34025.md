@@ -29,4 +29,4 @@ As reported above in the 2nd leader, 82 tons of copper was disposed of, having b
 
 Legal proceedings have commenced in the Chancery Division of the High Court in England against the purchasers of the mine for specific performance of the contract.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

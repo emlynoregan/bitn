@@ -47,4 +47,4 @@ His Worship said Prout had been lucky to escape conviction at the criminal sessi
 
 John Healey was fined 5/- with 11/- costs for calling Owen Donahough ‘a bloody old fool’ and using other abusive language while at work the previous day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

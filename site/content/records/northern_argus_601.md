@@ -28,4 +28,4 @@ publication_slug: northern-argus
 
 The Courthouse Hotel is being renovated.  A major part of the renovation is the restoration of stone walling on the western side, replacing the steel sliding doors, dating from the building’s use as a garage.  The Burra Uniting Church is making the old hotel into a self-sufficient camp site to cater for c. 30 people.  It will be able to accommodate small groups or could be used in conjunction with Redruth Camping Centre, which caters for c. 50.  All the work is being done in keeping with the style of the 1858 building.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

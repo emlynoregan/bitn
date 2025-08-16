@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Tenders called for fencing, erecting pump, stage etc. to the reservoir on the Travelling Stock Reserve opposite section 11 in the Hundred of King.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

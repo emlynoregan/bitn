@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Defence.  There was a review of the local military forces in Adelaide on the Queen’s Birthday.  Present were a large body of the VMF who would receive pay for attendance, and a strong force of the RVF, including 65 of Burra Co., who would not.  The cheapness of the RVF means it would not be surprising if it becomes the defence force of the future.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

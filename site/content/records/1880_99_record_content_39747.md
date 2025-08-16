@@ -32,4 +32,4 @@ That Water Course Again.
 
 Though the Council has won the court case against Bagot, Shakes & Lewis over the obstruction of the creek at their sale yards, nothing has been done to get the obstruction removed and now further demands are being made.  The Council ought to do its duty and not be domineered over by one particular ratepayer, especially when their rights have been proved in a court of law.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cr Hardy moved Council secure the carrying out of the agreement between Mr Ridgway and Council re the Aberdeen Reserve in which he was bound to spend £5 a year on it. Motion lost.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

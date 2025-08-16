@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Some comments make independent sense, some do so in the light of other articles, but some are destined to remain enigmas.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

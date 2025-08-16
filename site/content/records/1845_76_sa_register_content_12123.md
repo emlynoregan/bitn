@@ -36,4 +36,4 @@ Mr Murray, surveyor, has been examining the route for a railway to be carried no
 
 Several Royal Mining Co. Directors visited their property last week.  They are employing more men, so evidently they think the prospects are good.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

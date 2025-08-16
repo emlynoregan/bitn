@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Editorial on the Intercolonial Conference in Sydney next week to discuss the annexation of New Guinea (& if possible the New Hebrides) and also Federation.  The New Hebrides question was largely the fear of being ‘overrun by French criminals of the very worst type’ because France was proposing to send convicts to its Pacific possessions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

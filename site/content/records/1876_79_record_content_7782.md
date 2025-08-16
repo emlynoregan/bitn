@@ -42,4 +42,4 @@ The Council will write to SAMA thanking them for this offer, but explaining that
 
 The Commissioner of Crown Lands has informed Council that the Reserves in Redruth would be placed under Council control.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

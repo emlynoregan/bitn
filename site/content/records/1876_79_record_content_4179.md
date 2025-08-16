@@ -76,4 +76,4 @@ O’Leary 	Butchers, Kooringa
 A.A.F. Muller 	(Est. 23 March 1878) Baker & Confectioner. Market Squ. 
 W. Lasscock 	(Late H. Dawson) Saddler & Harness Maker. Commercial St
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

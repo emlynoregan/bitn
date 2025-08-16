@@ -35,4 +35,4 @@ He was born at Newcastle-on-Tyne and was educated for the Independent Ministry a
 
 [William Harcus died 10 August 1976 Hackney SA aged 53.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

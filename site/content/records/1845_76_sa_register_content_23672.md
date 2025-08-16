@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Floods in the North.  On Tuesday night the northern mail had to negotiate 20 miles of flood waters.  It was very bad between Canowie and Booborowie.  At Booborowie the eating house barely escaped flooding.  The road from there to Kooringa was also very bad and it was a wonder it was negotiated, as the moon had set.  There is also a very bad stretch of road at Mt Bryan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ Railroads. (Editorial)
 
 [Another long article pushed the desirability of borrowing money to construct the railway to Port Adelaide and to Gawler, with the latter extended in due course to the Burra Burra Mines.  Considerable details and costs are gone into.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ Burra Burra Mines.  Statistics for 1852 compared with 1851.
 
 Perhaps the flood that washed the huts in the creek away has been a blessing to the community at large.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘A Working Man’ who wonders why both at Clare and Burra flour is £10 per ton, but if bought by the bag it is £1-7-0 at Burra and £1-0-0 at Clare, making it the equivalent in Burra of £13-10-0 per ton!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

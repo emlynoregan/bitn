@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. D.S. Wylie was returning from Leighton on Sunday when he saw a child of 2 or 3 coming towards him.  He saw it go close to the water of a dam and soon afterwards on looking back could see only its hands above the water.  He rescued the child, which was then taken home.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

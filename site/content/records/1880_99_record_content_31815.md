@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Bible Christian Church.  The Rev. J.H. Ashton will take up the position at Wirrabara and Rev. O. Lake will follow him here and also work the Hallett Circuit.  Rev. Collings goes to Kadina and Rev. James Pearce to Riverton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

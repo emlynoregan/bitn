@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  For sale on account Mr Winnall, lot 29, Kooringa with 65’ frontage to Church St and 97’ to Queen St.  7 roomed house with 2 cellars, pantry etc.  Presently occupied by J. M. McBride.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Six gentlemen went out to a shooting party on Princess Royal as guests of Mr A. McCulloch.  After a substantial repast they set out for about five miles and returned by another route.  By about 5 p.m. they had accounted for 238 rabbits.  In the past few months Mr McCulloch has been doing extensive work with phosphorised pollard and ploughing up burrows.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

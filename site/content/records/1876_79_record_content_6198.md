@@ -32,4 +32,4 @@ Burra Races. The third annual race meeting since the revival of the Burra Jockey
 
 The main race was the Burra Handicap over two miles for 100 sovereigns. It was won by J. Crozier’s b. or b.g. Thave, aged 5 years and carrying 6 st. 81b. Ridden by Hutchins.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Council has decided to enforce the fencing of vacant land in Best Place, and in Ludgvan & Morehead Sts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

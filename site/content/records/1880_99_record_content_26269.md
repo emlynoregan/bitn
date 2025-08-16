@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Adelaide Exhibition.  The plan for taking the children to the Adelaide Exhibition is progressing.  The 7 October is to be the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

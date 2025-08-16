@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr A.H. Forder has returned from a four month leave of absence which was his first holiday in forty years as Clerk of the Redruth Court and Registrar of Births and Deaths.  He has been in Government service for forty-three years – three as a licensed teacher.  He has also bee a returning officer for 30 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

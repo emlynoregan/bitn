@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Accident. The up train from Hallett ran over a cow beyond the My Bryan hotel. Some carriages were lifted a foot off the rail and another engine had to be sent from Riverton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -34,4 +34,4 @@ After retiring for 20 minutes Mr Lang returned and said the Bench had decided th
 
 From the known good characters of the prisoners this case excited much interest at Kooringa; and we understand that Mr Fitzgerald has received instructions to commence an action against Mr Stace forthwith.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

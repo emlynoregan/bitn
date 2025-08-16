@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 2nd Leader on capital punishment.  The editor has always been against it and regards it as ‘a relic of barbarism’.  He argues his case for 1¼ columns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

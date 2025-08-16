@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Entertainment.  On Easter Monday there was a fair attendance for the Entertainment at the Institute in aid of St Joseph’s Mission House Fund.  The Burra Brass Band played outside and c. £11 was raised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

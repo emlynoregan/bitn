@@ -28,4 +28,4 @@ Burra Town Council, 21 March.
 
 The lamp on Henderson’s Bridge [Kingston St] is to be shifted to the middle between the girders and raised 2-3’ as required.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

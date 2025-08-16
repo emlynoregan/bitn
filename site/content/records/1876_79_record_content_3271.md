@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Advt. Kooringa Wesleyan Sunday School picnic at Princess Royal with sports and refreshments 13an. Coaches will run all day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

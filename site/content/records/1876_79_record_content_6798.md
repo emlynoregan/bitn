@@ -28,4 +28,4 @@ Excitement at Copperhouse.
 
 A mad cow attacked Mr John Pearce and his spring cart at Copperhouse when he was on his way to Gum Creek on 17 July. The cow charged the cart and was then shot, but continued to attack until an Enfield rifle was obtained and four bullets were lodged in the brute before she was killed. The whole incident was drawn out over 2-3 hours.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

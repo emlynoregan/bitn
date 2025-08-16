@@ -47,4 +47,4 @@ Mr Selwyn is expected to pass through on his way north.  He may find some gold, 
 
 Clare people appear to think they will have the selecting of our three members again at the next election, but they are mistaken; no nominee of Clare will go down at the Burra after the late exhibitions.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

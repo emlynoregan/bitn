@@ -29,4 +29,4 @@ publication_slug: record-1876-79
 
 Obituary. The daughter of T. Reed, aged 1 year 9 months died on Monday from shock after falling into a pan of boiling milk on Saturday. . [Registered as born Ellen Reed, father Richard Reed, 29 December 1876: died Eleanor Reed, father Richard Reed, 7 October 1878.  Both events at Wandillah.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

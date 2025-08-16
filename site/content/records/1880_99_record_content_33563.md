@@ -26,4 +26,4 @@ Editorial on The Town Assessment.
 
 It has been decided to revise the assessment rather than make a new one and the writer agrees with this as a new one may be necessitated when the new Municipal Corporations Act, now before Parliament, is passed allowing for rates to be based on unimproved land values - a system which the writer saw as much fairer.  They have also decided to add to tax paying properties those of the private residences of Government employees - a move endorsed by the writer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Kooringa, 9 June.
 
 Heavy rain for several days has caused waters to rise and flood several parts of the road to Mt Bryan.  Market Square is very dirty especially near the Miners’ Arms Hotel and Statton & Henderson’s.  There are miniature lagoons in front of the former establishment.  Some of the back streets are in a disgraceful state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

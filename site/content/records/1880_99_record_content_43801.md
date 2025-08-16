@@ -70,4 +70,4 @@ E.A. Moore	Agent for A.W. Dobbie & Co., Machinists, Brass & Iron Founders, Elect
 
 W.L. Evans	Aberdeen Cash Store next to R. Austin’s [General Store]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

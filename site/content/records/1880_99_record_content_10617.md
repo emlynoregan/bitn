@@ -35,4 +35,4 @@ Thomas Harvey sought to eject Ann Williams from allotment 45, Aberdeen.  William
 
 There is a fairly detailed report of a breach of promise suit of Elizabeth Geach v. Frederick Jones.  The court awarded Geach £150.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

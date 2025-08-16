@@ -25,4 +25,4 @@ publication_slug: sa-register
 Mineral Lands.  We understand several members of the South Australian Mining Association have recently applied for mineral lands around the Kapunda Copper Mine, to the extent of £6,000 to £7,000.  They are yet to be surveyed.
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

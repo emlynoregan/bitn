@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 George Mitchell, Keeper of the Redruth Gaol said he received Creighton at 1 o’clock on 23 Oct. for one month hard labour, he having been sentenced for having no legal visible means of support.  He was handed over to a warder for a wash and at 9.20 p.m. deceased said he felt bad and asked for water which he took.  At 5.55 on the 24 Oct. formed the opinion he was dying and sent for the doctor.  He was dead when Mitchell returned to the cell.  The doctor arrived about 6.30.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 At the last meeting on Wednesday afternoon all went smoothly until Cr Harris moved that the engineer, Mr Littlejohn receive notice ‘that his services would not be required after the expiration of one month’.  There was a heated discussion before the motion was carried.  Crs Harris, Sampson, West and Parks voting for and Walsh and Linkson opposed.  The circumstances surrounding the case of the unfortunate engineer are very strange and until there is a public investigation the facts will not be known.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

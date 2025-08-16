@@ -77,4 +77,4 @@ Josiah Dennis, one of the Lodge auditors, explained some matters in connection w
 
 The Coroner is summing up remarked that there was no direct evidence  that poison had been taken by the deceased and if the jury were of that opinion they would return a verdict of ‘Died by the visitation of God’.  It was up to them to decide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

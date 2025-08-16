@@ -36,4 +36,4 @@ Gawler Station.  The local paper is concerned that with the opening of the Burra
 
 Northern Mails.  The new railway means that mail comes to Kooringa by train and the coaches for the north can leave some hours earlier than previously, getting over a considerable portion of bad road before dark.  26 August was the last day a coach ran between Kapunda and Kooringa.  The last coach was an occasion of some éclat.  The driver, Palmer, one of the most experienced whips was in charge of six in hand and a large number of residents saw them off.  Mr Barnes the guard blew some unusually lively noted on his bugle.  The road was in such a fearful state that the first-class team struggled to get through the mud.  Now it has been replaced by the easy and speedy locomotion by rail.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

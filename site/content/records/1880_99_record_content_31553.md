@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Entertainment.  In Hosking’s old shoe store there has been as exhibit known as ‘Ariel’: an optical illusion.  It is well got up and the deception is well arranged.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

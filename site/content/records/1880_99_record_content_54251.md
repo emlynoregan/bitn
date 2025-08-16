@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Good Rain over the last few days has boosted chances of a good harvest with 2.79” recorded.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

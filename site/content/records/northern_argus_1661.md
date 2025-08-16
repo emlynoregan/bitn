@@ -34,4 +34,4 @@ Joe Burke of Wyoming USA bought one ram from East Bungaree and 12 Collinsville r
 
 [Photo of three Collinsville rams that sold for $66,000, $102,000 and $44,000.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

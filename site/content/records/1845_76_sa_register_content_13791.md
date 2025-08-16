@@ -35,4 +35,4 @@ The Institute subscribers met on Monday evening to revise the rules.  On change 
 
 A cricket match between Burra and Hamilton on Friday last resulted in the utter defeat of the Hamiltonians in one innings.  Apart from the fielding of the Hamiltonians the standard of play was good on both sides.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

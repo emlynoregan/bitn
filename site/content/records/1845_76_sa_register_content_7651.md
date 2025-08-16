@@ -39,4 +39,4 @@ Mr Morris of the Lunatic Asylum has drawn attention to specimens from the vicini
 
 An offer was recently made to Messrs Matthew Smith and Phillip Levi by parties wishing to work for gold in sections on the Torrens formerly known as the Riversedge Mine, for 10% of the amount produced.  The offer was declined.  And Messrs Smith and Levi now have a party working there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

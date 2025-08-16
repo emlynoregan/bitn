@@ -55,4 +55,4 @@ The minute adopting the new by-law was rescinded.
 
 Names of 24 men requiring work on the main roads were received and arrangements were made for putting on 16 for four days each at 6/- a day.  The remaining 8 to be put on in turn.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

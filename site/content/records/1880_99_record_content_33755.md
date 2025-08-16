@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rev. H.T. Burgess entertained a well-filled Wesleyan Lecture Hall on Wednesday last with a question box lecture.  Some 70 questions were posed on a wide range of subjects.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 H.E. Bright: was in favour of all suitable agricultural land being leased with right of purchase.  Favoured workingmen’s blocks.  Opposed using borrowed money except for productive work.  Was against the transcontinental railway.  For strict economy.  If more taxation were needed he favoured a progressive income tax.  Against a single tax.  For C.C. Kingston’s Bill for the settlement of disputes between Labour and Capital.  For a fair protective duty between the colonies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

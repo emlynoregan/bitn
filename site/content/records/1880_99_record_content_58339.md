@@ -29,4 +29,4 @@ Cr Hardy is spreading lies about the assessment.  He has rushed into print and s
 
 ‘Nevertheless it is a scandalous thing for him to use his “inability” to hoodwink the ratepayers.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

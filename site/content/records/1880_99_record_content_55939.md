@@ -29,4 +29,4 @@ Editorial on ‘The Fiendish Swagman’
 
 A swagman named Jones set fire to grass in the Hundred of Apoinga several days ago.  He was taken prisoner by W.G. Hawkes of Koonoona.  He started three fires in a short distance of each other and but for timely assistance all Koonoona Estate could have been consumed.  Jones is a young man who seems not to care whether he is in jail or on the tramp.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

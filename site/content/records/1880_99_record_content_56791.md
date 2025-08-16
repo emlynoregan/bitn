@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Miss Amy Wylie’s production of the two cantatas, An Hour in Fairyland and Mildred & Patty, made for a very pleasant evening at the Institute on Friday and was a brilliant success.  Both were carried out by children.  Proceeds aid the Redruth Wesleyan Church deficiency and were satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

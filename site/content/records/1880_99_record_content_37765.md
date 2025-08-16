@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Liberal’ that at the recent Foresters’ social there was a suggestion that a United Friendly Societies’ Demonstration should be held annually.  He strongly supports this concept and says it would be far better than each society having its own picnic.  It will also help to sweep away petty jealousies.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

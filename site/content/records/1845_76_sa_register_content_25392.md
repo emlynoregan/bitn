@@ -33,4 +33,4 @@ James Willshire of Hindley Street, Adelaide, writes re the Tiptaft inquest.  He 
 
 ‘The deceased had passed through all the privations and exposures of the Crimean War, having been connected with one of the earliest detachments that were sent out and one of the latest that arrived home.  Subsequently he occupied a respectable position in the London City and Metropolitan Police Force, and has since been an officer at the Yatala Labour Prison.  Neither of these appointments was conducive to good health, and it is quite certain a man of intemperate habits could not for any length of time have occupied such positions.  During his lifetime also he received marks of honour from the British and Turkish Governments.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

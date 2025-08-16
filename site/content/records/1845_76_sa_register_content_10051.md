@@ -30,4 +30,4 @@ Land for the Railway
 
 [Editorial] Some weeks ago we suggested that a railway would add so much value to properties along its route that owners should be willing to donate the land for its construction.  Many thought we were foolish to believe that any owners would do so.  But it seems many are so inclined and a memorial to the Governor signed by upwards of 100 landowners urges the construction of a line northwards from Gawler through the Gilbert Valley and thence to North-West Bend, with the undertaking to donate land for its construction.  We have no doubt that landowners in other districts will follow the lead of these Saddleworth memorialists.  For such landowners the gift of land is a move of commonsense and sound policy.  ‘They are entitled to praise, not because they sacrifice their own interest, but because they are wise enough to see that in promoting a great public undertaking they are promoting their own individual advantage.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

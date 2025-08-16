@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advt.  The Reformer Stage-cart left the Burra Burra Mines at 11 a.m. Sunday and arrived at the Windmill North Adelaide at 6 p.m. Tuesday.  The cart may be chartered for £10, stopping if required three days at the Mine.  W.W.G. Nicholls.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: northern-argus
 BCS students have done well in the Australian Mathematics Competition – Cory Heneker, William Piggott & Kirsty Warnes received distinctions.  In the Australian Schools scientific Competition seven students received Certificates of Achievement.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

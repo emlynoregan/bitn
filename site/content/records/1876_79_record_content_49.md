@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 George Mayger	Fruiterer, Greengrocer, Fishmonger, Fresh Oysters, Market Square
 
-Source: [1876-79 Record .doc](/downloads/markdown/1876-79 Record .doc)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Railways. A saloon carriage is now attached to the goods train from Hallett to meet the first up train from Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -47,4 +47,4 @@ The verdict was death by a wagon passing over his body and was accidental and no
 
 [* I have not found this name used for the hotel anywhere else and it is not designated thus in Hoad.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

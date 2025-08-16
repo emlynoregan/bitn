@@ -31,4 +31,4 @@ A train will leave Adelaide at 7 a.m. on Monday 29 August carrying First and Sec
 
 On and after Tuesday 30 August a passenger train will run each way daily (Sundays excepted), leaving Adelaide at 7 a.m. and Burra at 8.15 a.m.  First and Second Passengers only will be conveyed between Gawler and Burra.  Third Class Passenger beyond Gawler will be conveyed by goods trains leaving Gawler at 1 p.m. and Burra at 5 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

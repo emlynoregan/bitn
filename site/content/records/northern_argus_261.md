@@ -28,4 +28,4 @@ Obituary.  Miss Dorothy Hogan.
 
 [Probably Dorothea Josephine Hogan born 19 January 1911, Redruth: died 4 October 1985 RAH.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

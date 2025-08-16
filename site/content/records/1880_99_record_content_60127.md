@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 SAR.  The Broken Hill express on Monday was over 6½ hours late when a ballast train dropped a number of truckloads of ballast at once.  This blocked the line and broke the plough attached to the following brake-van.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

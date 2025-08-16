@@ -31,4 +31,4 @@ Also last week one of the two horses attached to a vehicle gave a display of hig
 
 On Saturday horses attached to a buggy at the railway goods-shed bolted along the line and cleared the ash-pit.  There the vehicle stayed while the horses continued to the fence.  The only damage was to the swingle-tree and to the harness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

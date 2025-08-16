@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 [Theresa Day was born 28 October 1871 Lindsay Creek, River Murray to Jacob Day and Catherine Ryan, and died 22 January 1872 at Redruth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

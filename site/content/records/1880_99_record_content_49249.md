@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Rev. R. Daddow writes suggesting that the claims of candidates Pascoe and Duncan to be independent are doubtful: each of them having admitted to Daddow that he would withdraw in favour of the other if desired to do so by the National Defence League.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

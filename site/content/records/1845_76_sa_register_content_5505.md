@@ -31,4 +31,4 @@ Cornwall & Devon Society
 
 A public meeting was held on 23 December 1850 at the Exchange with John Bentham Neales in the chair.  Its object was the formation of the Cornwall and Devon Society, the aims of which would be to promote direct emigration from those two Counties and to watch out for the interests of colonists who have come from those Counties.  A committee was formed of about 40 and almost half of them were Mine Captains.  [They are named and those from Burra were: Captain Boundy, Captain Samuel Osborne and Captain Roach.  Donations and subscriptions amounted to c. £50 to further the society’s aims.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

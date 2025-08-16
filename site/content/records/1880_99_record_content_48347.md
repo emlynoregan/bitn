@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Kitchen then said the engineer should carry out all his duties.  He knew what was involved when he signed the contract and he should pay the extra man for outside work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

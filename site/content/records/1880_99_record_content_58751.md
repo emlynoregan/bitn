@@ -30,4 +30,4 @@ The editor applauds the election of new councillors, which will break up the cli
 
 The books clearly refute the statement made recently at Redruth by Cr Rabbich, which appears to have been merely aimed at influencing the election, and to prejudice Mr Cave’s chances of election.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -85,4 +85,4 @@ Illness forced the party to be split into two at this point and two members with
 
 [The party then returned to Adelaide by way of Tothill’s Creek, Hamilton, Kapunda, Sheoak Log, Gawler, Little Para, Dry Creek and Nailsworth.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

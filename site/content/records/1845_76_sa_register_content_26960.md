@@ -48,4 +48,4 @@ John Roach has built a spacious wheat store next to his mill.
 
 Hacket Coulthurst, the Negro elocutionist, gave two entertainments in the Institute Hall on Friday and Saturday evenings.  Audiences were scanty, but he gave zealous performances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -32,4 +32,4 @@ Tristram Bath, superintendent of the Princess Royal Mines alleged that William B
 
 Robert Nettle said he had seen the accused load at least half a load on the company’s land on 8 July.  The load was brought into Burra.  The defendant, having nothing to say in his defence was ordered to pay 10/-, being the value of the wood and also fined 20/- with 27/- costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

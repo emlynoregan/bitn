@@ -52,4 +52,4 @@ Mr Patterson said he had just returned from a 300 mile journey to the north and 
 
 The men thanked him for his kindness.  About 60 men were present.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

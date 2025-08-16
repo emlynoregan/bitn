@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 6 elephants, Arabian & Bactrian Camels, a hippopotamus, sea lions, Asiatic, African and American lions. Bare-back riding. Seats 5/- and 3/
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

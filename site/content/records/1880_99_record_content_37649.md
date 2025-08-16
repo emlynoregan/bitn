@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Annual Foresters’ Social at the Burra Hotel last Wednesday saw 40 members and friends sit down to an A1 bill of fare.  Toasts and songs followed.  At present there are 156 members paid up on the roll with over £700 in accumulated funds.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

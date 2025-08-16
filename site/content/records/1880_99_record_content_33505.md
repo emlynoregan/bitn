@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 WCTU met at the Bible Christian Church on Friday with Mrs Burgess, President, in the chair.  Mrs Lake gave an address on the work of the Union in the USA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Dr Stephenson from London gave a lecture in the Institute on Monday on Save the Children.  At the close donations and promises of five year subscriptions to support the Homes for Orphans and Street Arab Children in England amounted to £657.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

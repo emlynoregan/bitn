@@ -35,4 +35,4 @@ publication_slug: record-1880-99
 
 A deputation led by P. Lane with a requisition signed by 122 people waited on the Council asking for the re-appointment of Mr J. Jenkins as overseer.  There were apologies from Dr Brummitt, W. West Sen. and W. Geake.  Spoken support was given by Messrs Rabbich, Launder, O’Leary, T.W. Pearce, J. Pearce and W. Pearce Sen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

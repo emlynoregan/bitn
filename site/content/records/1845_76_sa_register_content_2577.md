@@ -29,4 +29,4 @@ The news from Burra by yesterday’s mail is calculated to remove any grounds fo
 
 The dispute between the Directors and Mr Burra is not likely to be so soon settled.  Mr Burra has not only resigned under protest, but has engaged leading counsel, and means to sue the Directors for the full salary to which his services would have entitled him, had he remained Superintendent of the Mines for the stipulated period.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

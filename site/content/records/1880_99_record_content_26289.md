@@ -33,4 +33,4 @@ publication_slug: record-1880-99
 
 An inquest was held on 6 Sep. into a fire, which destroyed the Duke of Cornwall Hotel in Broken Hill, killing Thomas Francis Herrara and John Dawson.  Thomas Herrara, 31 and unmarried, was born in Burra.  He was a blacksmith, though not employed as such.  He left SA some 8 years ago.  Dawson was a navvy from the Silverton Railway Works, aged 45.  His wife and 4 or 5 children live at or near Tarlee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

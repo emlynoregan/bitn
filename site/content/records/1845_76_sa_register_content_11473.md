@@ -38,4 +38,4 @@ Good stone and limestone on the land.  The value of the position of this town mu
 
 H. Miller, Grenfell Street, near the Sturt Hotel.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

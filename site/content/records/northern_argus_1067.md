@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 The Northern Regional Cultural Trust visited Burra on 8 April for a Board meeting and to inform local councillors, teachers, artists, gallery proprietors and others how the Trust works.  They explained how funds can be made available for architectural assistance with a dollar for dollar subsidy on minor upgrading works.  They can assist also for such things as sound and lighting and publicity for events.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra United Friendly Societies Demonstration Committee met on Friday to close the affairs of the 1896 sports meeting.  The balance from 1895 was £7-12-6, the 1896 gate was £57-19-1, and the concert brought in £14-14-6 to total £80-6-9 which with other receipts came to £117-13-3.  Expenses were £103-17-5 to leave £13-15-10 carried forward for the next demonstration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

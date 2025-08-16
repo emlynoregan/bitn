@@ -63,4 +63,4 @@ The late Mrs Thyer was a sister to Mrs J. Ellery and to Mr C. Collins of Gum Cre
 
 The funeral took place at Dawson.  There were five coffins with the two boys put in two and two.  Mrs Thyer and the children were buried in one grave 7’ x 7’ and Mr Thyer was buried apart.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 First passenger train from Hoyleton arrived at Port Wakefield 13 July 1876.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

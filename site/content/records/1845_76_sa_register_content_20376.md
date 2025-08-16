@@ -33,4 +33,4 @@ I was surprised at the Mine stoppage, having always thought of the Directors as 
 
 It is also very hard that as well as losing their jobs the miners should lose all the investment they have made in building homes, which are the company’s asset.  It is a serious thing for the colony to throw hundreds of men out of work, to destroy their years of savings and make property valueless that was worth thousands.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

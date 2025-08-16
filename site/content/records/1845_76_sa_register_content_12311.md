@@ -36,4 +36,4 @@ Advertisement.  Tenders are called for the Redruth Church: 50 loads of best qual
 [This refers to the proposed Redruth Church of England that was never completed.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 SA Mining Association.  Messrs G.S. Kingston & F. Beck, Directors of the association, accompanied by Mr H. Ayers, Secretary and Mr Macdonald, Cashier, started yesterday on the usual visit to the Burra Burra and other mines.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

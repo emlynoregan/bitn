@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Adelaide Exhibition.  The committee overseeing the children’s excursion has changed the date to 14 Oct.  Those issuing tickets will close their lists on 3 Oct.  All sales and all donations are to be finalised by 3 Oct.  At least 500 children and caretakers will go.  Donations are over £30, which includes £10-10-0 each from Mr J. Lewis JP and Mr J.M. McBride JP.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

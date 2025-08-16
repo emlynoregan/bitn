@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Rabbits are becoming a serious pest to the east and at Paratoo and Nackara.  Should they increase they will do much damage when the wheat ripens.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

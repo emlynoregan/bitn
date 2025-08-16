@@ -26,4 +26,4 @@ publication_slug: northern-argus
 Mt Bryan Red Cross held a ‘Jubilee Affair’ at Belcunda last Wednesday.  Luncheon was followed by a parade of jubilee gowns.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

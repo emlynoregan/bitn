@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Letter from W.T. Rabbich dissenting from the editor’s view on the legal possibilities of the Mayor’s penalty, but agreeing with him on the extraordinary action of the (old) Council in relation to the appeals for reductions in assessments.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from W.H. Hardy on Temperance Reform, agreeing with the moderation and gradualism of Dr Sangster’s approach as being the most effective path.  He deplores the evil of drink and believes the answer lies in moderation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

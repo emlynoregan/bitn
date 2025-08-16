@@ -30,4 +30,4 @@ Drivers of light vehicles on roads near Adelaide are continually in danger from 
 
 Editor: Why do you not lay an information with the police?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

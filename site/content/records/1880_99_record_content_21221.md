@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Advt.  Wesleyan Foreign Missions present a public meeting at the Kooringa church on Thursday.  Rev. J. Leggoe, a missionary in Fiji, will speak.  A Fijian, Ratu Bua, will be present.  The meeting will be repeated Friday at Redruth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Mine.  There is another article from The Advertiser, but it is a general argument about modern mining developments and has little directly to say about Burra.  There is some speculation about developments for treating low-grade ores, which would be of relevance, but it is not very specific.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -44,4 +44,4 @@ W.B. Rounsevell was greeted with both cheers and disapprobation.  He said he sup
 
 A vote declaring Mr Rees a fit representative was carried by a large majority. Votes for and against Mr Rounsevell were about equal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

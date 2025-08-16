@@ -28,4 +28,4 @@ Successful but not as well attended as it might have been. Violin solo dropped. 
 
 Reviewer thought it was good but a couple of the opera pieces might better have been replaced by 'well-selected songs and duets'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

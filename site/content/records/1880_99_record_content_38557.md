@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Gilbert wants ½ hour of Bible reading and religious instruction per day.  We must oppose this.  Religious instruction is all very well in school where all in attendance are of one belief or creed, but not otherwise.  Also to have the Bible read in the manner suggested would lead to irreverence, neither could it be explained without bias.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

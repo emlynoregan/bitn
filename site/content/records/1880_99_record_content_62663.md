@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  Changes are to be made to improve the operating room and give better ventilation in the men’s wards at a cost of c. £20.  Rev. King invites the Hospital Board to the Hospital service at St Mary’s on 19 September.  Accepted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

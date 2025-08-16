@@ -47,4 +47,4 @@ Before Chris cut the ribbon to open the room, Roger Henderson, past Principal of
 
 The opening of the room coincided with the ninth birthday of the Burra Community Library.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

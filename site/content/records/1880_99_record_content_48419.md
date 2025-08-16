@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Guard’s Band No. 2.  This popular band arrived in Burra from the south, by train, at midday on Tuesday.  They played selections in Kooringa after marching there, had lunch at the Barracks, played in the open air at night and held a ‘musical magara’ [?] in the packed barracks later.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

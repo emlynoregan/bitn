@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Missing Man.  Otto Oppermann, who was to have been married on Tuesday, is missing.  He is c. 22 years old and in the afternoon visited the minister, filled in the forms and paid the fee.  It is feared he has been carried away by the creek, which was then in flood.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

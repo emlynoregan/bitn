@@ -32,4 +32,4 @@ publication_slug: northern-argus
 
 Chairman of the Burra Burra DC Mr Jack McMahon gave a brief history of the project.  He paid tribute to the work of Ian Auhl for his research and the documentation of Burra’s History.  He thanked the various members of the working party and the contractors and architects and also Adelaide & Wallaroo Fertilizers for help with site works and fencing and Burra Apexians for more than 800 hours of volunteer work.  Kym Bonython spoke as Chairman of the J150 Board.  Keith Johns said his great grandfather was Thomas Roberts, Burra’s first mine captain.  Just as he was about to declare the project open, a severe rainstorm burst over Burra, scattering the assembled people, but later the weather improved and buses ran a shuttle service to allow people to visit the three sites of the project.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

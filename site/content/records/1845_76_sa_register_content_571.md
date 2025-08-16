@@ -34,4 +34,4 @@ Directors of the SA Mining Association, who had decided on the name Truro for th
 
 Mr Crawford of the Hindmarsh Brewery has contracted to erect a hotel at the Burra Burra Mines and it is said he will attach a brewery to the new establishment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

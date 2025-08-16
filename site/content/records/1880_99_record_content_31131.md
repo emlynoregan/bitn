@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Charles Hamblet, stepfather of W.H. Hardy of Burra and of John Hardy of Sheffield England, died at Sheffield on 19 September 1888, aged 73.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

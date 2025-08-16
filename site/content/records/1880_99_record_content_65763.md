@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 C. Hawkins writes thanking all who supported his collecting for the Adult Deaf & Dumb Mission, especially Mr Vivian at the Commercial Hotel for five days free board and lodging.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra marble has proved to have too much silica content to be of use as a flux, which will now be obtained from Kapunda.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

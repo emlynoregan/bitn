@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 W.H. Hardy writes a letter suggesting it is amazing that the once scarce item ‘butter’ has, since the recent invention of ‘butterine’ suddenly become common.  He hopes all the storekeepers are being honest and selling the same by its correct name!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

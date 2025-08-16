@@ -47,4 +47,4 @@ The second Gold Escort arrived safely in Adelaide yesterday with 1,620 lb weight
 
 The Governor addressed the Escort within the grounds of Government House.  The procession then escorted Mr Chambers home.  [But the Register’s reported did not accompany them.  He had noticed a lurking devil under Jemmy Chamber’s cap and also his revolver, conspicuously displayed in his belt, and fearing that it might somehow go off, he stayed away; ‘nobody knows who may be shot in a crowd, even though he should happen to be a Special Reporter.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

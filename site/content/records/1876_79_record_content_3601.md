@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 The railway has created a sharp turn in the road at Hallett's Woolsheds where there is danger from flapping iron on the railway construction huts which may cause horses to bolt, particularly at night when the road is already dangerous enough.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

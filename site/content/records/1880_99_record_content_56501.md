@@ -48,4 +48,4 @@ James Gully fined another 7/6 when his cows strayed again.
 
 ‘Fang Sang feedee horsee too muchee and allowed it to run round the corner too fastee.  Fined 5s and 5s costs.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

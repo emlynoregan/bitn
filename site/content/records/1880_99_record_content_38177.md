@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Weather.  Last Friday was a regular brickfielder: hot with a strong wind and blinding dust.  A few showers fell over night and on Saturday.  Crops so far look all right.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: northern-argus
 
 Obituary.  Mrs Beryl Kellock died suddenly last week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

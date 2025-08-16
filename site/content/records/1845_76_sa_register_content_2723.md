@@ -37,4 +37,4 @@ The public generally know little of the merits of the recent events here, nor of
 
 Princess Royal shares remain unchanged in value at £42.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

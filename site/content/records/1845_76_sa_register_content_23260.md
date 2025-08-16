@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 J.P. Boucaut, J.G. Daly, J. Hart, C. Mann, J.B. Neales, H.C. Palmer & J.M. Solomon.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

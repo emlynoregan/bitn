@@ -25,4 +25,4 @@ publication_slug: northern-argus
 Hallett Red Cross Flower Show.  After 40 years the organisers felt interest was waning last year and so this year held a Frolic & Family Night.  The branch was well satisfied with the result.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

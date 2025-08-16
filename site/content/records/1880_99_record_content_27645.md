@@ -33,4 +33,4 @@ John Alexander Watt was fined 10/- for a stray goat (the minimum fine)
 
 Charles Woodruffe was fined 5/- for each of two charges of allowing his pigs to stray.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -23,4 +23,4 @@ publication_slug: record-1876-79
 
 Plans in hand for a race meeting on 17-18 March 1877.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

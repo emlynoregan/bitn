@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Frances MacLagan, who came to Burra 15 years ago with her husband, has died.  He carried on his profession as an architect and she was principal of Burra High School, which we understand will continue.  She was a staunch member of St Mary’s and was involved in most of the town’s philanthropic movements.  [Frances Anna Kirk McLagan died 10 March 1898 aged 54.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

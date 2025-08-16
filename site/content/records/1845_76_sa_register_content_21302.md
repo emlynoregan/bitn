@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Accident.  John Walsh, butcher of Kooringa, was returning from Black Springs on 17 October when he was thrown from his horse, breaking his collarbone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

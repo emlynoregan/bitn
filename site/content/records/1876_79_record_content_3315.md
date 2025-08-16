@@ -73,4 +73,4 @@ W.H. Pearce has made a good light travelling box. (Promotion of local industry)
 
 Christmas_ again A. McCulloch of Princess Royal has delivered charitable gifts to the poor. Each family got 1/4 sheep, a 4 lb loaf, 8 lb of potatoes, 3 16 sugar, 1/2 lb tea, 2(b raisins, 2 lb currants, 121b flour, 1 bottle of ale. All this doubled for large families. A total of 3,166 lb was distributed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

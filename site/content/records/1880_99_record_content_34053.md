@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Editorial on 1889, a year of good prospects with marvellous returns from wool, mining improving in most places, hay returns promising to be a record, wheat prospects looking excellent with a little sign of rust in places.  Some rabbit difficulties in the northeast.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

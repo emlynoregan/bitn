@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Riverton.  The Government refreshment room at the Riverton Station has now been completed and awaits only a tenant.  The building is handsome with bow windows and will doubtless be a great convenience.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

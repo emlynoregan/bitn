@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Accident.  Last Friday John Thomas was working in the Mine when the ground gave way and he fell nearly twenty feet to a lower level, injuring his back.  Permanent injury is feared.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

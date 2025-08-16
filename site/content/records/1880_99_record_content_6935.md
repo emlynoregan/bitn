@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 SAMA to be asked to grant a path from the Bible Christian Church to Mitchell’s Flat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

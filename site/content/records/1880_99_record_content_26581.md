@@ -29,4 +29,4 @@ Advt.  Grand Bazaar in aid of the Residence Building Fund of St Joseph’s, Koor
 
 Thursday 3 Nov. to Monday 7 Nov. at the Burra Institute, to be opened by His Grace the Archbishop of Adelaide the most Reverend C.A. Reynolds.  1/- returnable in goods.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

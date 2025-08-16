@@ -56,4 +56,4 @@ The Traffic.  The best enquiries I have made suggest an annual 100,000 tons of t
 
 [He then goes into calculations to show that SA flour could be delivered to Bendigo at a delivery cost of £7-10-0 per ton.  This he calculates would price SA flour in Bendigo at £25 per ton, which could not be matched by other sources.  He goes on to calculate how much traffic this would be likely to generate.  He passes lightly over the other traffic on the line from a variety of sources along the way and concludes it is a great investment and in his view well worth the risk involved in the massive borrowings to finance it.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

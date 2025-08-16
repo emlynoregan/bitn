@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Record.  From 1 October we shall publish every Friday a 2-page supplement containing each week a portion of a good serial tale and other tales and sketches, household receipts, wit, humour etc.  This supplement will be issued gratis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

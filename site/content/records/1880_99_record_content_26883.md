@@ -33,4 +33,4 @@ The Mayor thanked Councillors, and the Town Clerk, Mr J.D. Cave.
 
 Cr Sampson, in moving the adoption of the Mayor’s report had a few minor reservations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

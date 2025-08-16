@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Public School.  The Redruth correspondent considered the number of private schools in Burra could be accounted for because in the Public School ‘there were too many “hobble-dehoy” teachers with their fickle minds who at the least little thing lose their temper, and send the children up to the head master for chastisement thus creating a dislike for their teacher.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

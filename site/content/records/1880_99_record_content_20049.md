@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Ridgway.  We understand a memorial is being largely signed in North Ward urging Cr Ridgway to continue for the rest of his term and expressing confidence in him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

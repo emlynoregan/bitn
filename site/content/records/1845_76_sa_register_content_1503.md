@@ -36,4 +36,4 @@ The success here has encouraged the Bon Accord owners (otherwise known as the Sy
 
 A shepherd has also found surface specimens of promise on Mr Johnson’s property.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

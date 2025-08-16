@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Cr Parks moved Mr W. Davey be reappointed Town Clerk, Collector of Rates, Issuer of Licences, Registrar of Dogs, Secretary of the Burra Waterworks, Collector of Water Rates and Secretary of the Local Board of Health.  Salary: £55 as Town Clerk, £35 for Waterworks jobs and £10 for Local Board of Health, for total £100.  He then thought the Waterworks positions significant trouble worth an extra £5.  Carried unanimously.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

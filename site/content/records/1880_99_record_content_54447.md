@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Ethel May Bruse, born 4 October 1877, daughter of H.M. Bruce, carpenter, has been praised in Adelaide for her singing at a concert there: ‘a thoroughly rich, pure contralto, with ample range, splendid quality, and it was utilized with artistic taste hardly to be expected from one so inexperienced.’ (Register)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

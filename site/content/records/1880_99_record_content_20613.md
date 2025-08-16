@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Editorial on the Government’s demand for the repayment of £144 alleged by them to have been wrongly paid as subsidy.  The editor objects strongly to this.  There is nothing to show that the work done was not paid for out of rates.  It was clear that money subscribed could not be subsidised, but if it were used to pay salaries etc. the rates were then freed to be used on public works, which attracted the subsidy.  This was done and the Council has not claimed one penny more than it was entitled to.  If in the end it has to be repaid it is important that it be deducted from the grant-in-aid.  If it comes from rates then the Council not only loses the £144, but also the subsidy on it as well.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

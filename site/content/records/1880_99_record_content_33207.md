@@ -44,4 +44,4 @@ Symon’s Slaughterhouse, Baldina Road.  Changes ordered in receptacle for blood
 
 Rabbich’s Slaughterhouse, near the railway west of Kooringa.  Floor to be taken up and re-laid and properly drained.  Putrid bones and manure to be cleared away and no paunches to be emptied there in future.  Blind creek nearby with bones, slime and putrid bones to be filled in.  Piggery to be cleared of old bones etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ Certificates will require to be left at the office two clear days to be examined
 
 Henry Ayers, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

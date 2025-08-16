@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Gawler to Kapunda is being constructed with completion expected in a few months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

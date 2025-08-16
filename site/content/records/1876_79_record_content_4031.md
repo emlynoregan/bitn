@@ -33,4 +33,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. Receives a full three column report. It was opened by the Commissioner of Public Works, G.C. Hawker. The mayor, Mr Lipsett and other councillors were there and among other notables the names of Capt. Sanders, Capt. Killicoat and Mr Holder stand out. The Burra Brass Band greeted the train at the Burra Station and the Burra contingent joined in extra carriages for the trip to Hallett. Lunch was taken at Mann's Hotel Hallett with the usual long list of toasts and speeches.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

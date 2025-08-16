@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Rev. Lloyd gave a lecture at Westbury [Wesleyan Church] on Tuesday evening last following a bazaar held there.  The proceeds of £20 go towards reducing the debt on the harmonium.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

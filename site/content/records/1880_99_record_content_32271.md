@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Since the last meeting the Association’s agents in London entered into an agreement to sell the mine for £70,000 along with the mineral rights in the Burra Survey and a further 1,783 acres elsewhere, but the purchasers are now declining to fulfil the contract.  The directors are seeking to compel the completion of the purchase.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

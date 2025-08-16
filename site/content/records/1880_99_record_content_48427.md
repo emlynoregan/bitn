@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra School.  J.A. Kennedy, Headmaster at Wallaroo Mines, leaves for Burra today says a report in the Wallaroo paper.  He was known there for his use of models, drawings etc.  Mr Wittber, after seven years of diligent work has been promoted to Rose Park School in Adelaide and left on Saturday.  He has had a great influence in bringing about the practical tendency in our public schools.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

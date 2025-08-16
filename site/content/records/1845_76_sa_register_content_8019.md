@@ -56,4 +56,4 @@ Water there was scarce and drying up and their tent by a good water hole was abo
 
 Provisions were excessively dear, except for meat.  Feed for horses was also dear and hay not to be had.  Even the sheet of paper he was writing on had cost him 3d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

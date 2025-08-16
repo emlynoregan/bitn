@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Waterworks.  Mr Jenkins, the Commissioner of Public Works, said in Parliament this week that preparations were being made to deepen the well to increase Burra’s water supply.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

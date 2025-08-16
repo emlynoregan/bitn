@@ -31,4 +31,4 @@ Kooringa, 14 March.
 
 An instrumental and vocal entertainment was given at the Institute on Friday evening by the Misses Hutton, F.W. & C. Holder and Misses Rankine and Belcher.  Attendance was moderate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Grasshoppers & Rabbits have caused the loss of several acres of crop to Mr Tuckfield of Baldina, but residents nearer the range hope they will escape a severe attack as the wheat is becoming so matured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

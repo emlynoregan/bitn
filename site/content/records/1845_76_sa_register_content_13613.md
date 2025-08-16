@@ -39,4 +39,4 @@ Day Return Kapunda to Adelaide 1st Class 24/- & 2nd Class 16/-.
 
 All station will operate on Adelaide GPO time.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

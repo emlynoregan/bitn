@@ -34,4 +34,4 @@ Burra Young Men's United Assoc. met on Friday as usual with Rev. R.W. Campbell i
 
 The next meeting would feature anonymous letters on `The Future Government of the Australian Colonies.'
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

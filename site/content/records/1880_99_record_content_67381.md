@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Ratepayer’ writes urging the Waterworks Committee to find a way of retaining the services of Mr Lapidge, who has done such excellent work over the last five years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

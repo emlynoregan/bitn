@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 3rd Leader urging the reasonableness of the Government aiding mining industry in Sa - specifically aid for the finding of an adequate water supply for the Alma and Victoria Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

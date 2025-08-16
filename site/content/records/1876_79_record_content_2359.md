@@ -27,4 +27,4 @@ The Commissioner of Public Works' surveyor recommends that the new
 
 Kooringa bridge be erected as near as possible in line with Commercial Street.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mrs Everett claimed support from her father John Calloway of the Pig and Whistle Hotel as she had a child to support and her husband had deserted her four months since.  An order was made for 5/- a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

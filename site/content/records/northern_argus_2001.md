@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 Burra Aged Persons Hostel had its application for funding rejected for the second year in succession.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

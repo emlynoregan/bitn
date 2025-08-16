@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr C. Fuss spoke in eulogistic terms, as a ratepayer of North Ward, for the work done by Cr Rabbich on ratepayers’ behalf and thanked him for past services.  He expressed hopes for a pleasant voyage and success in WA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

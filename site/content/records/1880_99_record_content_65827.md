@@ -41,4 +41,4 @@ Rates were declared at: General 9d, Health 5d and Parklands ½d in the £.
 
 Burra Waterworks.  From 22 to 25 January the water level fell 9”.  The breakage already noted was reported.  This resulted in the stoppage to 29 January.  On 3 February the other set of pumps gave out which required installing another length of pipe and then pumping was continued day and night.  Since 25 January water has fallen another foot and continues to fall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

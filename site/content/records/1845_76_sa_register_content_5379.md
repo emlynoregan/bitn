@@ -39,4 +39,4 @@ Esther Sophia Mosbey [sic: husband was Mosebey the previous day.] corroborated h
 
 The prisoner was cautioned and he refused to make any defence.  He was committed for trial in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ English & Australian Copper Co.  Mr Ebenezer Cooke has been formally appointed t
 
 [Was the late manager James Hamilton, who died at Woodville 30 July 1871 aged 58?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

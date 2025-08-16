@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Church of England.  A bazaar was held recently at the Grammar Schoolroom to aid the Parsonage Repair and Church Endowment Fund.  Singing and music added to the enjoyment and over two days the attendance was numerous in fine weather.  [Stall holders are listed.]  Total receipts were over £200.  This is a great sum considering the depopulated and dreary state of the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

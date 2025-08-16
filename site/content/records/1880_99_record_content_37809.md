@@ -37,4 +37,4 @@ Mr Holder then spoke.  The policy of the Progressive Land Tax had been unanimous
 
 On the second motion he took exception to the vigorous attacks made on Mr Copley and believed him to be a man of principle.  He agreed that the Commissioner of Crown Lands should come from the Lower House, but also believed Mr Copley would endeavour to mete out justice to all.  Mr W.T. Rabbich moved ‘That this meeting approves of a committee being appointed to confer with other committees in other centres of population for the purpose of memorialising the Governor to dissolve the House of Assembly.  Seconded by Mr Harry and carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

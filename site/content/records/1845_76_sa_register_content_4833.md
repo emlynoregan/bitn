@@ -29,4 +29,4 @@ James Trebilcock alleged that Owen Donahoo [sic] had abused him the previous Sun
 
 Defendant pleaded guilty and promised to give up intoxicating drink for 12 months if His Worship would allow the charge to be withdrawn.  Allowed, upon the payment of costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

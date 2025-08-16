@@ -30,4 +30,4 @@ Ulooloo Diggings.  Mr Bull of Mt Bryan reports the field has a new lead near the
 
 Water for washing will be plentiful in winter.  There are said to be good prospects at a claim in a place half a mile from Saw Mill Gully.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 It was resolved that the district members be asked to move in Parliament for a return in detail of the cost of the Burra Waterworks to be laid on the table in the event of the deputation being unsuccessful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

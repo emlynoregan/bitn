@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 New Year’s Day saw the Wesleyan Picnic and Sports on the oval.  The heat of the day curtailed the amount of sporting activity.  The tea in the schoolroom was followed by an exhibition of Central African Scenery by Rev. H.T. Burgess in the church.  [Presumably by means of a magic lantern, though not so stated.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

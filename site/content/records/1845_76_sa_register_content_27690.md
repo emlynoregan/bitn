@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Bible Christian Sunday School Anniversary Services were preached on Whit-Sunday by Rev. J.A. Burns and Mr R. Dale.  The congregations exceeded the capacity of the chapel.  Monday was a holiday and the children marched around the town, headed by the band and then had tea and cake.  The public meeting was well attended and the effort raised £50-11-8.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

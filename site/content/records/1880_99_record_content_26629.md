@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘Wanderer’ calls for a careful approach to the Mayoralty.  Voters should get to know the candidates and perhaps propose another and realise that the future will be difficult with, among other problems, the white elephant of the Waterworks to contend with.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

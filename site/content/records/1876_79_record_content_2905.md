@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Hallett Railway. The Bon Accord level crossing is almost completed as is the bridge over the Burra Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

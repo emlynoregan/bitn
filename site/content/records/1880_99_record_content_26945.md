@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd leader on the naval defence of the colony, clearly setting out the alternatives of supporting an Australian Fleet as worked out at the recent Imperial Conference in London, or of maintaining the Protector and a torpedo boat.  The writer favours the latter option, but the house of Assembly favours the former and the matter is now with the Legislative Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

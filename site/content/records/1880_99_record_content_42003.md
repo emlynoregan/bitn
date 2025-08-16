@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 In reference to the [Waterworks] boiler he had seen Messrs May Bros. and they would be able to complete repairs and send it on during the week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

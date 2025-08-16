@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Church.  There was a special Hospital Service on New Year’s Day, conducted by Rev. R.S. Casely.  On Friday after that Miss Cave and members of the Christian Endeavour Society provided an entertainment and tea for patients and invited friends at the Hospital.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

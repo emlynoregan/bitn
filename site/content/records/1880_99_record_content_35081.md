@@ -41,4 +41,4 @@ The first year saw a good profit and on 1 January the name was changed to The Bu
 
 The whole enterprise was then taken over by a committee of local gentlemen of which the present proprietor, F.W. Holder, was one.  On 5 July 1878 the paper was rechristened and made its appearance under its present title of the Burra Record.  [Actually it appeared for a short time simply as The Record.]  After fourteen months Holder took over as sole proprietor on 3 September 1880.  For two years and four months great strides were made and despite the closure of the mine the paper prospered, securing a large circulation beyond the town and good business was also done in the jobbing department.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

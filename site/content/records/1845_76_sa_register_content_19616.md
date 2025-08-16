@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 ‘H.B.’ writes to complain of the desecration of the Sabbath by carters who are regularly travelling on Sundays between Kapunda and Clare.  Half a dozen may be seen almost every Sunday.  Another instance is the running of the mail cart between Clare and Mount Remarkable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

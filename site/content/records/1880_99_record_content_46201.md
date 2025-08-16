@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Thomas Warnes has sent in the first wool of the season from Koomooloo.  The early start to the shearing is due to the scarcity of feed and water.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

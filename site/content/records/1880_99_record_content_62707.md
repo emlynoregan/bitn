@@ -27,4 +27,4 @@ Court.
 
 On Charles Gebhardt’s information Ambrose Edwards was charged with stealing three sheepskins to the value of 6/-.  The two have neighbouring properties and with many sheep dying they were skinned and the skins hung over the boundary fence by Edwards.  If either Gebhardt’s sheep had died in Edward’s property, or Gebhardt’s sheep had died in his own property and their skins dried on the boundary fence they might have been included in Edward’s bundle of skins without his noticing – according to Edwards.  The case was dismissed on the grounds that if the skins had been taken there had been no intent to steal.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

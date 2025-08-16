@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Obituary.  An infant son of Mr Thomas Perry of the Gaol died on 1 May.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

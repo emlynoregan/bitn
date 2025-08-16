@@ -46,4 +46,4 @@ David Smith and James Hinch confirmed this and said no disturbance occurred in t
 
 His Worship declined to give a judgement at this time on the case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

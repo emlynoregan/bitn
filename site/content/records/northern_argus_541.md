@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Broken Hill-Burra Barrow Push is on in five weeks’ time and sixteen teams have nominated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

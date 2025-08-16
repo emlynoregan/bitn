@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  The shop next to Mr Bruse’s in Commercial St, now occupied by Mrs Bock, is to let from 13 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

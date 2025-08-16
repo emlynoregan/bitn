@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Other main events were the 220 yards handicap hurdles (1st £2-2-0) and the mile handicap (1st £2-10-0).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

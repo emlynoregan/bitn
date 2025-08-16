@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Operations at the Smelting Works at Kooringa have recently been suspended due to a misunderstanding between the Overseer and the workmen.  Our latest advice is that the men are gradually returning to work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

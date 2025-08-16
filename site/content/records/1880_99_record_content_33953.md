@@ -37,4 +37,4 @@ On 18 Oct. the paper reports a special meeting on 15 Oct. where it appears that 
 
 On 22 Oct. the paper reports that at the meeting on 19 Oct. the resignation of the Public Works Committee was accepted and the Council resolved to do without one for the rest of the year.  The Overseer of Works was to receive instruction from the Town Clerk as representing the whole Council.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

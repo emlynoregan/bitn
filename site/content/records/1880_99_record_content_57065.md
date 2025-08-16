@@ -28,4 +28,4 @@ Last year one of the North Ward Councillors tried to introduce a new by-law, but
 
 [The editorial uses a clumsy extended metaphor about launching boats to deal with the by-law.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

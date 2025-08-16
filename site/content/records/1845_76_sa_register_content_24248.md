@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Weather.  Good rains have refreshed crops.  Last Monday about 150 points fell in 24 hours.  This has boosted grain prospects and so far there have been no reports of red rust in wheat or of pleuro-pneumonia in cattle.  The wool clip has been one of the best and the benefit of the railway has been much appreciated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

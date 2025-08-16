@@ -34,4 +34,4 @@ A public divine service in connection with the United Presbyterian Church was he
 
 The new Kooringa Bible Christian Chapel will be opened next Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

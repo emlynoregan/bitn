@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 The Town Clerk wrote another letter denying that his last letter had manipulated the data for his own purposes and showing that the writer of objections is himself ignorant of the meaning of the figures in the Government Gazette.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

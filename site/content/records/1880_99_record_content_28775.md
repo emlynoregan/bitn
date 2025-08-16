@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from W.T. Rabbich favouring a new railway to the Barrier Ranges across the Eastern Country.  [Presumably he had in mind Burra as a starting point, though Morgan was another possible place.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

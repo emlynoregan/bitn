@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Burton’s Circus made a flying visit and played one night to a tolerable house.  The next day was too stormy and the wind blew down their tent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

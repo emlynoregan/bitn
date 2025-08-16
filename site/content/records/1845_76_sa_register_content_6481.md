@@ -50,4 +50,4 @@ Robert Melville, shoemaker identified several pairs of boots and shoes he had gi
 
 Fitzgerald asked that they be handed over to Mr Melville.  Lang refused and he committed Aldene to Adelaide for trial.  He said he would hear any other evidence that might come to hand before Aldene’s removal to the city.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

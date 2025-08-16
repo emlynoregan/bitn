@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Independent Order of Rechabites Albert District has opened a new tent; the Tent of the Rising Star of Glendore, at Glendore near Black Springs on 19 May.  [Further details are printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

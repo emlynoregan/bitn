@@ -32,4 +32,4 @@ The butchers of the town who use the slaughterhouse did not incline towards bind
 
 It was resolved to redeem £100 bond this year and the other £100 bond to be renewed for a year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

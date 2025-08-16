@@ -28,4 +28,4 @@ W.B. Rounsevell:
 
 The colony was in a bad way.  Labour and capital needed to go hand in hand.  He favoured land and income tax, but was against a progressive land tax and against a single tax.  He was for retrenchment from the top.  The Education Department alone could lose £140,000.  It was not fair that those whose taxes paid for public schools should also pay for private schools.  He would cut wages to Members of the House of Assembly and abolish payment for Members of the Legislative Council.  He would not pay for improvements on leases.  He supported local industries, free trade and federation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

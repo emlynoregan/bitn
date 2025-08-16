@@ -39,4 +39,4 @@ When Cr Hardy persisted the Mayor told him firmly to take his seat and then expl
 
 Cr Hardy displayed vexation and told the Mayor that he would not be snuffed out by him or anyone else and went on dealing with irrelevant matter, to which the Mayor calmly listened till the speaker completely ran down.  Then His Worship quietly dressed Cr Hardy down and told him bluntly that if he (Hardy) meant what he said in reference to the snuffing out, it was a falsehood; he (the Mayor) claimed to be an impartial chairman.  This remark brought forth hear, hear, from all the councillors, who were of the opinion the castigation was richly deserved.  The Mayor continued to give Cr Hardy words of advice and a lecturette on etiquette and truthfulness, and the meeting adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

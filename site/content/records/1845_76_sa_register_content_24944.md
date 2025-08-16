@@ -31,4 +31,4 @@ Notice.  The prospectus for the Broughton River Mining Co. Ltd is printed.
 
 [This copper mine was on the Bundaleer Run and reports by Captain John Dunstan of Kooringa and Captain Matthew Bryant of Adelaide are attached.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

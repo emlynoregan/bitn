@@ -36,4 +36,4 @@ Cr Sampson asked when the making of the ford between East and North Wards was or
 
 The Mayor could not say: he recalled the order, but would have to have the minute looked for.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

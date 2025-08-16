@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 An inquest was held at the Bon Accord Hotel on John McKeown who had been run over by the ballast train a mile north of Manoora on Wednesday.  W.R. Ridgway JP was coroner and the verdict was that the death was purely accidental.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

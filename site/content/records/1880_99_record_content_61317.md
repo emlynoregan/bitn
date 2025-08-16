@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Note: the sequence in 1893 is orderly to 259 which is then used twice then there is no 260 then matters proceed in order to 272 which is used twice 273 is not used then in order to 276 which ends the year]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

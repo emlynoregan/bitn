@@ -38,4 +38,4 @@ Nothing has yet been done to repair roads in the town and as a consequence of th
 
 Business here continues very dull.  Men are continually leaving for the Wallaroo Mine and the Northern Mines.  Only the pastoral interests are looking up.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

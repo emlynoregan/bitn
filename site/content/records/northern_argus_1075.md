@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Birth.  To Nerida & John Brak on 6 April, a son, Tristan Leigh.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

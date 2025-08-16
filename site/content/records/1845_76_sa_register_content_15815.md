@@ -48,4 +48,4 @@ This morning as the same conveyance was leaving for Kapunda with two or three pa
 
 Some wags are talking of setting up a regatta on Lake Winnall in the centre of Commercial Street with a pair of mud boots as the prize; to be competed for before the Road Board drains the lake when repairing the road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

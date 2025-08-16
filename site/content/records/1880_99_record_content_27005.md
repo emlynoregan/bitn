@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 ‘Tribune’ writes condemning the waste of money by the Council in litigation in the Bartle case when there was no evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

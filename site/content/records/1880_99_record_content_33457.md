@@ -32,4 +32,4 @@ Obituary. W.H. Batchelor [William Henry] has died aged 59.  We understand he lef
 
 [He dealt in a wide range of articles: fancy goods, musical instruments, toys, dolls, books, stationery, brushware, paints, varnishes and paperhangings.]  He was an active member of the Masonic and Oddfellows Lodges and was for a time a Town Councillor.  He leaves a widow, two sons, one married daughter and two single daughters.  [Died 25 August, aged 59.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

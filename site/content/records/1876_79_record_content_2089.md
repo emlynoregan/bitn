@@ -32,4 +32,4 @@ Hallett railway: Ed. again on the drainage problems.
 
 With a new Kooringa bridge estimated to cost £1,500-£2,000 the Ed. was of the opinion that the Council should not hurry to a commitment. It was too much for local rates and needed a public meeting for discussion before any decision, which in any case should not proceed on the NW Bend road. (Eastern Road.)  If the old road were taken the bridge would be on a main road and the Midland Road Board would be responsible, but if the new line via Redruth and Diprose Creek were taken it would not!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Letter from Patrick Murphy, late sexton of Burra Cemetery in which he expresses his amusement at the way his exit from the job was handled in Council.  He had, he says, given a week’s notice on 9 May and all that followed was therefore sham.  He had worked the cemetery satisfactorily for three years and to the satisfaction of all except once or twice when the graves had been rather small.  He had got the cemetery in a filthy state and left it in a fit state.  He claims his dismissal was really because the cemetery management wanted to place paths over some existing graves and put dummy graves where the former paths had been, until he objected to such sacrilege.  After letters of complaint had been received the Council tried to cover itself by passing a resolution against the plan.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

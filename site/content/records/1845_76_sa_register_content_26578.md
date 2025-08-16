@@ -28,4 +28,4 @@ publication_slug: sa-register
   
   Mr Philip Phillips drew a crowd of 500-600 to the Wesleyan Church on Thursday for his Service of Sacred Song.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

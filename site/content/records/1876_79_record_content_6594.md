@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The Corporation resolved to set land aside in Market Square for a well to be authorised on the understanding that public subscription meets half the cost and the well be handed over to the Corporation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

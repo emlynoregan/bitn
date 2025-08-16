@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Council will express concern to the Valuer General over the embarrassment caused by the unrealistic valuations within the Council area.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

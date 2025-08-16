@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cr Hardy moved a motion on notice that the Council impose a licence fee of £10 p.a. on all owners of premises used for the sale by public auction of horses and cattle within the municipality and that sale of such other than in licensed premises be unlawful.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

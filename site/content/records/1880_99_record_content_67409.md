@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Local Board of Health in Burra is in credit to £118-1-8 so there should be a reduction in the health rate this and in the parklands rate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

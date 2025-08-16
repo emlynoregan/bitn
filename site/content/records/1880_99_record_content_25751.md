@@ -26,4 +26,4 @@ F.W. Holder. The Register says of Holder:
 
 ‘A fluent, fast speaker, though prone to use involved sentences and prolonged parenthesis, but withal decidedly increasing the oratorical strength of the House and especially good for his clearness of enunciation.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

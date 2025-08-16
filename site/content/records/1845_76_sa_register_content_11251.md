@@ -24,4 +24,4 @@ Dog cart
 
 A two-wheeled open carriage with two cross-seats back to back, the rear one orig. made to shut up so as to form a box for sportsmen's dogs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

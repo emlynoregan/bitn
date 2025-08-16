@@ -33,4 +33,4 @@ The half-yearly meeting of shareholders was held with the Hon. G.S. Kingston pre
 
 The meeting was attended by 40 shareholders who represented nearly 2,000 shares. Two propositions were put to the shareholders for consideration.  The Directors put forward one and some gentlemen in London had a proposal to organise a new company, admitting old shareholders not desirous of retiring from the Association, on terms laid before the meeting.  The decision was to proceed with the further development of the Mine and to communicate with the promoters in England with a view to obtaining an increase in the amount of purchase money offered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

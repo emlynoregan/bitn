@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Burra Show Soc. Met at Burra Institute under President, P.L. Killicoat on Thursday.  They resolved to hold the local show on 18 September.  The secretary reported they had no liabilities and had £137-12-5 in the bank.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

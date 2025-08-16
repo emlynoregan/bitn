@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The editor suggests it may be due to clause 36 of the Crown Lands Amendment Act 1889 which gives preference to those who would personally reside on the land for at least six months in every year.  If it is not the reason the correspondent has a remedy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

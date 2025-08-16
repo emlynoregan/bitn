@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the Girls’ Reformatory.  For some time the authorities have been considering transferring inmates to the care of the Salvation Army: it would be cheaper.  ‘The Reformatory is a failure – a misnomer, a deception.’  Girls emerge from it with less hope, more callous and more wretched.  Some are there for quite trivial offences and some sent by parents for being beyond their control.  It is inappropriate.  The Army says it could keep a girl for half the 18/4 a week the Government expends.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

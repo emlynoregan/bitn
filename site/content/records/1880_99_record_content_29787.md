@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Church Anniversary was celebrated on 16 & 19 September with two sermons by Rev. S. Gray.  Congregations were large and there was a large attendance at the tea.  Proceeds were £10, which will be spent on improvements, as there is no debt on the property.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 W.G. Torr, who resided in Burra for a considerable time has recently arrived from the UK to take charge of Way College.  At the Bible Christian School at Kooringa he passed through all classes and then became a teacher etc.  His first school as head was Ulooloo and then he went to Adelaide and later to Moonta where there were 1,000 children.  In 1886 he went to England at his own expense to take degrees in preparation for his headmastership of Way College.  At Oxford he got his BA and BCL and at Cambridge his LLB and at Dublin his LLD.  At Oxford he took his honours in Theology and Hebrew.  He is renowned for his piety, commonsense, genial spirit, loyalty to his church and his evangelism.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

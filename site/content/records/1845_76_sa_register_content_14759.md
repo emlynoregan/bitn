@@ -29,4 +29,4 @@ John Chewings writes from Woorkoongoree 11 July querying the right of bullock dr
 
 He also complains that woodcutters are felling a lot of timber, but then selecting only the best for carting; thus perpetrating a great waste of timber.  He feels that within another season all useful timber for 40 miles north of Burra will have been felled.  He feels that hose who get the timber should also remove the rubbish.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

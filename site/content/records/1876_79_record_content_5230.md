@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 The Season. The eastern crops are a complete failure except for an area of Mongolata which has yielded about 20 b/acre. In H. of Baldina the plains are a failure and only close to the hills are crops reasonable. Rabbits and kangaroos are very troublesome.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

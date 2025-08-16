@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 The next census returns, if not too long delayed, will place Kooringa in the rank of non-progressive towns.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

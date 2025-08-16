@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Mr Gill, the artist, has sent for our inspection, twelve portraits; the first in a series of ‘Heads of the People’.  They are executed in a first rate style, and for the most part unmistakable likenesses.  They are the best of the kind produced so far in the colony and well worth the money.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

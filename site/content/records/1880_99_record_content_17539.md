@@ -27,4 +27,4 @@ War Preparations.  A few years ago the Russian scare saw the start of the SA Vol
 
 Rifle companies are being formed everywhere except Burra!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

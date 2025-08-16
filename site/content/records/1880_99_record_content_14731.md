@@ -30,4 +30,4 @@ Presents Queen’s Evidence - the Sensational, Emotional & Humorous Drama
 
 And on Saturday Lady Audley’s Secret with the comedy Checkmate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

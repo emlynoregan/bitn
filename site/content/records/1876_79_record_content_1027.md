@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Burra Parl. Club - discussed N.T. Immigration (proposal to bring in thousands of Mennonites) and the Land Bill
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Advt. The Wheeler Family will appear at the Inst. 29 & 30 November. Free presents will be distributed each evening. New songs, acts and sketches. Unrivalled comedy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

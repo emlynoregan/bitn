@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 [From a comment in ‘Sparks’ column it would seem this was under instructions from Mr W. Killicoat.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

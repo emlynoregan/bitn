@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Barclay sued Thompson for £1-14-4 for board and lodging and won the same.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

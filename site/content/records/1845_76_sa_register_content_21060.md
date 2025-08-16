@@ -36,4 +36,4 @@ Entrance fee 6d.  Subscription 1d per week.
 
 J. Jones, Secretary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

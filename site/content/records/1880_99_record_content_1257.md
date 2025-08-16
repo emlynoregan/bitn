@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Coles & Goodchild, Auctioneers, has changed its name on Mr Coles’ withdrawal.  He joined the firm in January 1877 and now, 3½ years later, retires.  The firm will continue as Goodchild, Austin & Co.  Five years ago Burra had one monthly sale and that was small.  Now it has two a month and both are ‘generally very heavy’.  [That issue Liston, Shakes & Co. offered 8,600 sheep, 238 cattle and 72 horses]  On 7 July Goodchild, Austin & Co. will offer 6,000 sheep, 150 cattle and 30 horses.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

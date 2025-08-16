@@ -27,4 +27,4 @@ Tramway Meeting at Mintaro
 
 [There is a lengthy report on a meeting to discuss the desirability of a tramway from Port Wakefield to Mintaro.  About 100 persons attended.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

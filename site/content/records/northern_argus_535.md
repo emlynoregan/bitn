@@ -36,4 +36,4 @@ Gary & Jan Donaldson have opened a gallery in Burra named Cousin Jack’s.  It f
 
 [The former Scout Hall and Buffalo Lodge in Market Street.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

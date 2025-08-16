@@ -42,4 +42,4 @@ No much has been done in elocution yet, but I hope to see something started.  Th
 
 Our current overdraft is £171-14-3 and I hope within the present half year to see this reduced to c. £100.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

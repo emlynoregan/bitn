@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Cr Sampson would run against Hardy in the East Ward.  He favoured pitch-paving and keeping roads in repair, but thought tree planting overdone.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

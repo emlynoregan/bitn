@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Institute AGM 8 January, 2,369 volumes in the library and 126 subscribers (down 13).  The Chess club continues with an average of 4 attending.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

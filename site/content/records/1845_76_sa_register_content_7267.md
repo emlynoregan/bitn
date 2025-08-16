@@ -37,4 +37,4 @@ Mr Gordon, I and another person from Adelaide bought a lot of tools from a perso
 
 I am told there are places within 30 miles where gold is to be found in great quantities, but the immense influx of water makes it impossible to work there during the winter season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

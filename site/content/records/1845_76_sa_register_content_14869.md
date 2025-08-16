@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 The Mechanics’ Institute has begun another series of lectures.  On Monday the first in the series was delivered by Mr J. Burnell on James Ferguson; the shepherd boy and the philosopher.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

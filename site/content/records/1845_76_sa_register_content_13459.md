@@ -39,4 +39,4 @@ Klaer Brothers continued to draw large audiences in their week’s stay here.
 
 Weather.  Winter arrived late.  Yesterday we had a sharp hail shower and all week there has been rain at intervals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

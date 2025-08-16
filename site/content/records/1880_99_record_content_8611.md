@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Duffy said he had plans of all the main roads in Burra, which he would happily place at the disposal of the Council for copying.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

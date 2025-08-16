@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Mt Bryan Correspondent wonders if the Burra-Mt Bryan road is well placed in being at the bottom of the valley.  He says he has been told that 100 tons of stone were placed in a small section of it near the Mt Bryan Hotel without stopping that part being a creek after rain.  It may be better when the railway reduces road traffic.  He also complains that the wholesale immigration going on is depressing wages.  They have fallen from about £1 a week to 15/- when the former will scarcely support a wife and family in these times of high prices.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Obituary.  Elizabeth Bown, eldest daughter of Mr John Bown, died on 12 August, aged 29 years 6 months.  [Born 31 January 1864.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

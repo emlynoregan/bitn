@@ -27,4 +27,4 @@ Burra Town Council, 1 October.
 
 SAMA has agreed to pay £25 p.a. for water.  The total guaranteed is now £330 and as this is almost the sum required for the first year and consumption would increase after that the Council seems to be safe in accepting the offer.  A ratepayers’ meeting to discuss it is called for 8 October.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

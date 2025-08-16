@@ -46,4 +46,4 @@ A new bridge in line with Paxton Tce was discussed.
 
 A tender from C. & A. Fuss to repair the footbridge at the White Hart ford for £23-19-6 was considered much too high and the work will be done by the overseer of works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -36,4 +36,4 @@ Obituary/Inquest.  On Wednesday 18 June W. Lang, coroner, conducted an inquest o
 
 [James Thompson died 17 June 1851 aged 52.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -21,4 +21,4 @@ publication_slug: record-1880-99
 
 Weather.  Last Friday there were very high winds, which did damage to outbuilding, fences etc.  There has been 2.175” recoded in the present month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

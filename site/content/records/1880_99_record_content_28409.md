@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Black Hills Pty Silver Mine held a meeting at the company’s office in the Institute on 18 April.  Chairman was W.R. Ridgway and other directors: J. Dunstan Sen., J. Dunstan Jun., J. Pole & W.A. Rabbich.  They report the shaft at 80’ and proceeding satisfactorily.  A second shaft is to be sunk.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

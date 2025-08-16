@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church.  Last Sunday evening Rev. R.J. Daddow gave an address to an attentive and large audience on Rags, Swags and Waterbags – a sympathetic appraisal of the plight of swagmen and sundowners who searched for work in these times of difficulty.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

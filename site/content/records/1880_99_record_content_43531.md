@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Cr Watt tried to overturn the Finance Committee being appointed also as the Waterworks Committee, but the voting was sustained as before on the casting vote from the chair.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

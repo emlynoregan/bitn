@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Thanks to Mr A. Fuss for the return of my pocket book and contents which had been lost and ‘to state that although a reward was advertised he refused to take same.  F.J.S. Wilkins.’  [The pocket book contained £6-3-6 and the reward offered was £2.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

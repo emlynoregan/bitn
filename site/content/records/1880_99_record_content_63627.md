@@ -29,4 +29,4 @@ Obituary.  M-C Benham’s wife died in Adelaide last Friday.
 
 [Edith Benham born Edith Gordon died 4 February 1898 aged 33.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

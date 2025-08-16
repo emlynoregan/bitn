@@ -27,4 +27,4 @@ publication_slug: northern-argus
 
 The Bush Picnic Race Meeting Committee presented cheques on Friday at a dinner at the Burra Hotel.  Chairman John Maidment presented a cheque for $2,500 to the Chairman of the Aged Persons Hostel Committee, Ray Jennison.  Les Saunders presented a cheque for $2,600 to the RFDS.  A 1988 meeting is already being planned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

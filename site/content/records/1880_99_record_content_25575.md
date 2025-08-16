@@ -42,4 +42,4 @@ George Purdy gave evidence of seeing the deceased in Riverton about 8 p.m. and t
 
 M-C Henry Bushell said he had known the deceased to be drunk on other occasions and that he believed the deceased had fallen out of the vehicle and broken his neck.  The jury agreed with him and gave their fees to the widow who is left with five children in poor circumstances.  A subscription list has been started in Riverton.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

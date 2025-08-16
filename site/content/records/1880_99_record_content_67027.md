@@ -28,4 +28,4 @@ Court, 4 October.
 
 Frederick Camp of Hampton was fined 5/- + 15/- costs for assaulting his wife.  He was further charged on the information of his wife with being a habitual user of alcohol and she asked for an order forbidding anyone from supplying him with alcohol for 12 months.  The order was made under the Inebriate Act.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

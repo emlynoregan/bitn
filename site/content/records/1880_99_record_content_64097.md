@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 C.R. Goode MP made a short speech on the subject and moved a vote of thanks which was 2nd by Cr Winnall and carried by acclamation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

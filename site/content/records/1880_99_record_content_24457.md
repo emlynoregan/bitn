@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Water Supply.  The railways get their water at Burra for 1/6 per 1,000 gallons.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

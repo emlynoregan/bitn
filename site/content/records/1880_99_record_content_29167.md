@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wheal Motley Copper Mine.  The mine is to commence operations with the capital as presently subscribed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

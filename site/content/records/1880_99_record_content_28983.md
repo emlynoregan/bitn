@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Davieston School was inspected on 22 June and 6 of the 10 children presented for examination were promoted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

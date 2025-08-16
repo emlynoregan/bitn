@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Kooringa Primitive Methodist Church improvements are nearing completion and the building is due to be reopened in about three weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

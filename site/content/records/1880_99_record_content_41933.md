@@ -36,4 +36,4 @@ The excavation in connection with the drain near the brewery had been finished a
 
 Cr Sampson moved that the Mining Association be written to and asked to dedicate a block of land on the south side of the cemetery 350’ by 100’ for extension of the same.  Carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

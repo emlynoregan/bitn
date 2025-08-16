@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Cr Sampson objected that cabs were ignoring designated stands and were parked in front of hotels and that the drivers frequently left them.  The Inspector was instructed to enforce the by-laws.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

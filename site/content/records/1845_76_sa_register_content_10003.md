@@ -28,4 +28,4 @@ Kooringa News
 
 The new Burra mail conveyance arrived for the first time last Tuesday evening, in first rate style.  It had departed Gawler at 6 a.m. and reached Kooringa at 6.30 p.m.  The vehicle, at first glance, looks rather light, but it is clearly strong and well built or else it would not have survived the present state of the roads without damage.  It is scarcely designed for passenger comfort or safety.  It carries nine passengers comfortably.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

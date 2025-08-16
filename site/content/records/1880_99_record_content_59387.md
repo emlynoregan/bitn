@@ -30,4 +30,4 @@ Burra District Council, 8 February.
 
 A letter from SAMA said the proposed road to Princess Royal would be agreed to; a plan of it is to be submitted for approval.  Council has decided to ask executors of the late A. McCulloch if they would consent to picnics being held there as heretofore in the event that the road was gazetted a public road.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

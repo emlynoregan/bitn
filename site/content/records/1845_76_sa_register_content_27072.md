@@ -39,4 +39,4 @@ On Monday & Tuesday  [27 & 28 December] the weather prevented any outdoor amusem
 
 On Monday [3 January] there was a holiday instead of on Saturday and the annual Wesleyan Sunday school picnic took place at Princess Royal.  The weather was ideal and a large gathering set out bent on enjoyment.  Over 1,000 persons including children visited the grounds during the day.  Eight wagons of the SA Carrying Co. took the children.  Some of the visitors played cricket, while others did a service to Mr McCulloch by killing rabbits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -37,4 +37,4 @@ Fry, the maniac murderer, was seen on Thursday in the scrub near his own station
 
 [* Ian Auhl has, on his copy of this article, a hand-written amendment saying ‘James Humphrey’.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

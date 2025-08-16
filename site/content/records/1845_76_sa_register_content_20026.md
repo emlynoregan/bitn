@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Fire.  A bushfire occurred at Mt Bryan last Saturday 15 December; probably starting from a teamster’s fire.  An area about 5 miles by 1½ miles was burnt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

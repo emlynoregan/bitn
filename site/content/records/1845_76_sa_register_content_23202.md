@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Ranger.  Locals at Burra welcome the decision of the Government to leave the Ranger here rather than remove him to Mount Remarkable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

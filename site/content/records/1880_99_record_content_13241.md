@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Advt.  Burra Institute, Wednesday 21 May, Grand Entertainment in Aid of the Catholic School.  Program printed: ends with the farce The Quarrelsome Servants.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

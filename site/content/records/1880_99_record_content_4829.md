@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Deputation to the Govt.  A deputation has waited on the Govt. re the railway tariff for cereals.  The Commissioner said he already had the information laid before him and intended shortly to announce reduced charges for long distances.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

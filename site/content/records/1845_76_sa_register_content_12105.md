@@ -53,4 +53,4 @@ W. Pearce moved a vote of thanks to those who had operated the Board and also en
 
 Rev. W. Flockart seconded and hoped that in the next year they would have £100 to distribute instead of the £47, [which he clearly saw as inadequate.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

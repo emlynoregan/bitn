@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Stray Stock.  Where is the Ranger?  Swarms of cattle and horses are eating the trees in the town in the absence of grass.  It is necessary to keep an eye on them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

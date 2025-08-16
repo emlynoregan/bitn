@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Hallett correspondent reports a heavy fall of snow on Friday night, which was still evident Saturday morning, giving a glorious view in the morning sun looking west towards Tommy’s Gap Ranges with dense black clouds behind them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Messrs J. Sampson jnr, J. Williams & J. Snell formed a deputation to Council seeking a remedy for the bad state of Market Square. About 30 loads of stone would be needed and drainage would be easy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

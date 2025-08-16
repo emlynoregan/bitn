@@ -57,4 +57,4 @@ Suing in a bondsman’s key.”’
 
 [He concludes by stating that his truthfulness has pierced them to the core and if the Directors should by some necromancy emerge triumphant he will pursue their name so that it live on in infamy and the very absurdity of their action shall save their names from oblivion.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Broken Hill Town Council has been having meetings reminiscent of the worst days of the Burra Town Council not so long ago with two Aldermen almost coming to blows.  One of them was Alderman John Dunstan, an old Burraite.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  E. Solomon & Co. have been instructed by the proprietor (who is leaving for England) to auction ten Burra Burra Shares at 12 o’clock on Wednesday 4 December.  To enable men of moderate means to buy one or more of these shares the proprietor is prepared to sell at 20% cash, 20% in one month, 20% in two months, 20% in three months and 20% in four months; leaving the two dividends to accumulate for the benefit of the purchasers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

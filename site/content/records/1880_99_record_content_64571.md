@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Percival Charles Treloar was given a smoke social on Saturday evening at the Commercial Hotel.  Cr Pederson was in the chair and 25 gathered to wish him well in going to WA after eight years with Drew & Crewes.  He was presented with an illuminated address and a handsome travelling bag.  He was then thanked for his contributions in cricket, Football and other sports as well as in his business work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

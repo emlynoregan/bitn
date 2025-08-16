@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Kooringa Primitive Methodist Church.  A contract worth c. £400 has been let to Sara & Dunstan to completely remodel the building.  The whole front will be new.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

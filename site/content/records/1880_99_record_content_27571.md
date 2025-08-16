@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Note that the 28 December was the adult meeting with a day for children on 11 January.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

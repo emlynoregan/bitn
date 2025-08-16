@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A Bolt.  Luke Day’s horse bolted from his fruit shop on Tuesday morning.  It explored Market Square.  Then in a fain [sic: vain?] attempt to negotiate Mt Pleasant it upset the cart and contents spoiling some fruit and vegetables and bending the axle.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

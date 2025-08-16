@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Notice.  A public meeting is called in response to the requisition to the Mayor re the defeat of the Cockburn Government.  At the Institute Friday 22 August.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

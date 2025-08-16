@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Burra Burra Mine Shares.  A report on various shares shows the Burra Burra Mine £5 shares were then valued at £27 and the last dividend had been paid in December 1864.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

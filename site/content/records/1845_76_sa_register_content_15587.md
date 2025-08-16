@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Electoral Notice.  [John W. Tyler issues a notice advising his acceptance of the call to stand as the representative of Burra and Clare.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

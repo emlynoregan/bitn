@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 This was arranged to allow connections with the Wallaroo line trains, but the earlier afternoon train, by 40 minutes is awkward for the Burra sales.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

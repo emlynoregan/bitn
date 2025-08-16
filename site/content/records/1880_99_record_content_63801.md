@@ -38,4 +38,4 @@ publication_slug: record-1880-99
 
 Obituary.  Alfred West who died on 8 March had arrived in Burra on the previous Thursday from Broken Hill to seek medical aid.  He was born in Kensington, Surrey on 25 July 1841 and migrated to Australia when 16 in 1857 with his brother in the ship Orient, arriving on 23 September.  After a few years in Burra he worked in the pastoral industry in the north and northwest and with J.F. Duff opened up the stock route from Mt Margaret to the Queensland border.  In 1886 he left the north for NSW tin fields and was interested in several of the Eurcowie tin mines and also silver mines in the Barrier district.  He explored much of the NW of the colony and his loss at a relatively early age will be much regretted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

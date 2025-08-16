@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Election Notice.  John W. Tyler advises that when no one else had come forward to represent the electors of Burra and Clare he felt it his duty to offer himself, but as others have now offered themselves, he feels relieved of that duty and consequently withdraws from the list of candidates.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

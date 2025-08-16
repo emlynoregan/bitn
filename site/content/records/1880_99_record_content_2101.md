@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Terowie Railway.  The labourers are on strike seeking an extra 6d a day.  When the Government refused the men went off seeking harvest work.  Ballasting has therefore stopped and the opening of the line has been delayed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

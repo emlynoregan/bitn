@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Cricket.  On Saturday on the German Chapel flat the Redruth Schoolboys 68 defeated the Kooringa Schoolboys 21.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

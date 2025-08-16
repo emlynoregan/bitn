@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Salvation Army.  The usual Salvation Army meeting at Redruth Sunday evening saw a large crowd and some strong remarks addressed to backsliders.  A well-known Kooringa resident took up the challenge and began to criticise the conduct of some Army leaders.  An attempt was made to sing the objector down when the heavy rain penetrated the old roof and a form broke to add to the confusion, which soon subsided and quiet returned.  [It would be interesting to know which building is referred to here - the German Chapel is the most obvious possibility.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 R. Snell’s report of his home mission work on the Great Northern Railway points to the need for education facilities along the route.  At least travelling teachers should be appointed to visit each place for two days a week.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

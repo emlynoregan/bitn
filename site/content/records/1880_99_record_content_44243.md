@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Chrysanthemum Show.  A meeting of a committee was held on Monday to try to organise a show this year.  The last one was about 1888 and the following year the weather was unsuitable for flowers and the movement was dropped.  We are hopeful that it will be revived.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

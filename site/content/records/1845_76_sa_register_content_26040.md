@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Burra Institute.  The alterations and extensions have begun.  Mr Rowland Rees MP drew  up the plans and the contract has been won by Messrs Pearce.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

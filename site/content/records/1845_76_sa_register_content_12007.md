@@ -29,4 +29,4 @@ publication_slug: sa-register
 
 Kooringa Wesleyan Chapel held the second Anniversary Services of the new chapel on 17 & 18 October.  In the morning and evening on Sunday the sermons were delivered by the President of the Conference, Rev. William Butters.  In the afternoon Rev. C. Colwell preached.  At the evening service 600 crowded the building, with several hundred turned away.  During the evening service an Aboriginal convert called William was baptised by Rev. Butters.  The collection for the day amounted to £25-1-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

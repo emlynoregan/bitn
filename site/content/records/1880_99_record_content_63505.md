@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Record may experience difficulties in production in the next couple of weeks as we move into our new premises.  We hope to effect the change without missing an issue as the move is only about eight yards from the old spot.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

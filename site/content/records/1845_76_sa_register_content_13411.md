@@ -33,4 +33,4 @@ Business of every sort is at a very low ebb.
 
 A general meeting of the Mechanics’ Institute was held to elect two members of the committee and other business.  Messrs Lee & Carey were elected to the committee in the place of A. Thomas and J.A. Bruce who have resigned.  Mr A. Thomas was asked to favour the Institute with a lecture on ‘Chemistry’ and has agreed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

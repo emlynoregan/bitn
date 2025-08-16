@@ -27,4 +27,4 @@ Kooringa News, 18 April
 
 Fire.  On Saturday 14 April a fire occurred in the Burra Mine, but was fortunately soon extinguished.  The mine is so full of dry timber that should a fire get beyond control it would be disastrous.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

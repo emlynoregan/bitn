@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Adelaide. The Ayers/Colton ministry resigned on Tuesday and Boucaut has been asked to form a government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -36,4 +36,4 @@ The Burra election has again passed off without…
 
 [This item ends in mid sentence in the paper.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

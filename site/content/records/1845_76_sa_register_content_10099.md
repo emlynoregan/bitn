@@ -45,4 +45,4 @@ Mrs Freeman was charged by her daughter Mrs Braithwaite with an assault and Mrs 
 
 [Susan Freeman aged 17 had married John Braithwaite aged 27, in Adelaide, 25 November 1852.  Her daughter, Susan, was born in Adelaide 5 September 1853.  She grew up and married Ephraim George Dorling 15 November 1877.  John Braithwaite died 1 December 1872 at Blinman aged 48.  His wife does not appear in SA Births, Marriages & Deaths records after the birth of Susan.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

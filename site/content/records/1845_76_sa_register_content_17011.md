@@ -38,4 +38,4 @@ Last week a mob of sheep belonging to Messrs Rochfort & Fisher, in endeavouring 
 
 A cart containing Mr Bruse, Mr H. Bruse, three children and Mr A. Thomas toppled over last week when the horse plunged after a wild Irishman drove the shafts of his cart into it.  Luckily no bones were broken and the extent of the damage was a few bruises.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

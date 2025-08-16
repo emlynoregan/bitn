@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Diamond Jubilee Celebrations.  The Hon. Sec. Mr R.M. Harvey says receipts to date are £69-7-1 and the cost of the treat for the 667 children and prizes for the races came to only £36-11-3.  The balance will be handed to the Jubilee Benevolent Society.  Donations amounting to £4-4-0 have yet to be collected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

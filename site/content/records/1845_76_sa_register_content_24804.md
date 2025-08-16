@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Weekly half-holiday.  The half-holiday on each Wednesday granted to their assistants upon request by the tradespeople of Burra and surrounding townships was long ago granted at Moonta.  This concession has been much appreciated by both the employers and employed, especially in the hot weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

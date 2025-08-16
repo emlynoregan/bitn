@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 A Horse Sale was held at Mr Wren’s stockyards [Burra Burra Hotel] on Sunday 13 August.  A good many sales were effected at fair prices.  The public should beware of men bringing horses for sale and obtaining advances on those sales.  Mr Sutton here, in the employ of Mr Middleton, advances £2-10-0 to one such person, who later rode towards Adelaide without repaying the advance, also taking with him a bridle belonging to Mr Hill the butcher.  Tapley from the Springs arrived here last night and had been a victim of the same parties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

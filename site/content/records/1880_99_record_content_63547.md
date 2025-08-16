@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Mr W. Geake’s tender of £13 for tending the two lamps at the south end was accepted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

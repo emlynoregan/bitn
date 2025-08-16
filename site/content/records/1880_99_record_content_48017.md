@@ -31,4 +31,4 @@ Hardwicke College.
 
 The closing demonstration of this school was held on 22 December in the Wesleyan Lecture Hall.  Rev. R.M. Hunter officiated and distributed prizes and a concert was presented.  The chairman expressed the regret of parents that the school was closing, but the circumstances leading to its demise could not have been foreseen.  He thanked the Misses Evans and Newman for their work and hoped they would find useful work elsewhere.  A vote of thanks had earlier been accorded Miss Tilly, who had to leave by the afternoon train.  The academic results for the year were very good and the best ever secured.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ Advt. Mann’s Willogoleech Hotel, Hallett.
 Hallett Hotel 1888-1932 
 In the early days sometimes known as Willogoleech Hotel — see J.L. Hoad Hotels and Publicans in South Australia, Adelaide 1988. Australian Hotels Assoc. & Gold Books.] [William Oliver was proprietor of the 1st Commercial Hotel 1862 probably until it closed in 1863. Also of the Court House Hotel, 1861 and the Redruth Arms 1856-57.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

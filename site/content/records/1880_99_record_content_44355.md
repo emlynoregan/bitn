@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 ‘A Visitor’ writes complaining of the Burra cabbies, saying that they are fighting each other for customers’ bags and their vehicles are badly lit.  He saw six boys riding on the step at one time, some smoking and ‘using very choice language’.  Even the drivers smoke while ladies are in their cabs.  [See XIII, 1084, 23 March, page 3.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

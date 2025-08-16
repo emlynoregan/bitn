@@ -36,4 +36,4 @@ A committee was set up to gather signatures and staff-office support was obtaine
 
 A meeting was then called on 30 May to swear in members.  A lack of numbers on the day was soon made up and drills commenced.  The compulsory drills number 12 for efficiency and the Government pays 2/6 per drill for up to 16.  The annual encampment brings in £3-4-0 per man.  The 21 October inspection was a credit to all.  The company has 41 or 42 men rated as efficient.  Class firing is an area where improvement is needed and is being encouraged by prizes offered by W.H. Linkson and J. Sampson Jun.  Trips to Princess Royal, Baldina and ‘Monavea’ have also encouraged the company.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

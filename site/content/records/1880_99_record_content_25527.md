@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 The Women’s Queen Victoria Jubilee Fund seeks signatures from women on an address, which will be presented to the Queen.  Also they will be raising money, the object of which funds is yet to be decided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

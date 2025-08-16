@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The new Bible Christian Chapel, which is being built to accommodate the large numbers who crowd the old chapel, is progressing rapidly under the supervision of Mr Burgoyne, the contractor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

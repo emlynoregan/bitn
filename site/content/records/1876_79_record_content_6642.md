@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Wesleyan Home Mission & Contingent Fund Society annual sermon was preached by Rev. James Bickford at Kooringa last Sunday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

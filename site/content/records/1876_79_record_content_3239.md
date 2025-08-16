@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The mayor and councillors visited the site for the proposed undercrossing near the Bon Accord Hotel on the 13 Dec. The Commissioner of Public Work's visit is scheduled for Sat. 15 Dec.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

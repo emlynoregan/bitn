@@ -40,4 +40,4 @@ increase in succession and legacy duties and increased taxes on high incomes and
 
 Income tax has been increased 50% on incomes between £200 and £1,000 and 100% on incomes over £10,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

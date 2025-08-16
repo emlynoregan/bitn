@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  A meeting was held last Saturday evening at the Stanley Hotel to form a club in Clare.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

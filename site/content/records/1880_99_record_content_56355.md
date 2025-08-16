@@ -29,4 +29,4 @@ Obituary.  Mrs Bown, an old resident of Baldina, died on Monday at Kooringa.
 
 [Martha Bown died 17 March aged 60.  Born Martha Bosence.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

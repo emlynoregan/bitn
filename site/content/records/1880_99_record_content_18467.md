@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 H. Richards was given 6 volumes of Tracts for Our Times by elder scholars of the Kooringa Wesleyan Sunday-school on Friday evening at a tea and on Saturday the employees of Messrs Drew & Co. gave him a gold pin as a memento of his long connection with them.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

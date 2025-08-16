@@ -36,4 +36,4 @@ On Thursday 16 August Baker was acquitted in the Supreme Court on two charges of
 
 [John Baker subsequently achieved notoriety as a bushranger: see 20 October 1871, page 5 and later episodes of his story.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

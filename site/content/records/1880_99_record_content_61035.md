@@ -29,4 +29,4 @@ Advt.  Elder, Smith & Co. will sell on account of G.G. Klemm, the whole of his E
 
 Miscellaneous Lease 5515 of 30 square miles & Pastoral Lease 273 of 19 square miles: to be sold as one block.  Also pastoral lease 102, Hideaway, of 102 square miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

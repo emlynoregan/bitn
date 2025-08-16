@@ -23,4 +23,4 @@ publication_slug: sa-register
 
 Mrs Watts, who was charged with receiving stolen goods when her husband was arrested, has been discharged for want of evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

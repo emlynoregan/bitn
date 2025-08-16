@@ -25,4 +25,4 @@ Kooringa News, 24 July
 
 The meeting concerning the claim taken out by James Putt decided on a mine divided into 41 shares; 20 reserved to the discoverers and 21 offered to the public at £10 each.  The tools were bought Saturday and the men start today.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

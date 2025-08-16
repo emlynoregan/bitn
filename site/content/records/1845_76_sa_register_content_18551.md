@@ -31,4 +31,4 @@ Dr Peel attended and the victim recovered, though it was several hours before he
 
 No other members of the family who were with him were injured, though the children were frightened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

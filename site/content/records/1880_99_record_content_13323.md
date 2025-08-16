@@ -41,4 +41,4 @@ Salvation Army big ‘T Fight’ on the Queen’s Birthday last Monday drew memb
 
 In the afternoon there was an open-air meeting on Brewery Flat before all adjourned to the Institute for the tea meeting.  The tables were nicely laid and there was adequate for all.  In the evening the hall was crowded to hear Miss Comerford, the Converted Nun and Bob Judd the burglar, give an account of their past lives.  Several others also made confessions of past depravities now deeply deplored and followed by a determined turning to Christ.  Major Thurman presented the colours to the Burra Corps and Captain Bonnell and Lieut. Stratham received them.  A well-patronised supper followed.  It is estimated that over 1,000 attended during the day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

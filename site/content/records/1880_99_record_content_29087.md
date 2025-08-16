@@ -27,4 +27,4 @@ Burra Institute.  The half-yearly meeting was adjourned for lack of a quorum las
 
 The building fund stands at £52-2-7.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

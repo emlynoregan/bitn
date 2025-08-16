@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cr Rabbich moved ‘That at the end of each year water-rate payers be allowed as against water used at the rate chargeable, the full amount of the year’s rates as paid by them to the secretary of the Waterworks.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

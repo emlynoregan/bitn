@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Entertainment. The church concert by Mr Plaisted was fairly well attended at the Institute and his playing was admired. The organ was a parlour Standard Organ which, though of a sweet tone, was not equal to the size of the hall.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

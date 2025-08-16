@@ -36,4 +36,4 @@ Those who drink only when thirsty.
 
 This last category was much debated and a move is afoot to delete it as destructive of the whole movement.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

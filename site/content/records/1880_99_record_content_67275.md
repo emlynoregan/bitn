@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Muriel Pearce in Adelaide has gained 1st honours in the recent piano competition for girls over 14, playing ‘The Coronation March’.  Miss F. Queale gained 1st prize for the piano selection for girls under 14.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

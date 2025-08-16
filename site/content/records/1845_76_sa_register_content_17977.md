@@ -25,4 +25,4 @@ Notice
 
 SA Mining Association.  Notice is given that a dividend (the 55th) of 100% on the Capital Stock of the company (being £5 per share) will be paid on Saturday 3 December next.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

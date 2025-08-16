@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 Burra Chrysanthemum Show & Schools Exhibition is reported.  The chief exhibitors were J.D. Cave and J. Lewis.  Mr Cave’s exhibit of a ‘Thunberg’ measured 8½” in diameter.  Other notable exhibitors were Dr Brummitt, T. Drew, W. Davey, C. Oppermann and Messrs Pearce and Rawling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 She was well-known in Burra 35 years ago when she lived here with her parents.  Her husband carried on a blacksmithing business in the early days.  Several years ago they moved to Mt Bryan and then to Hallett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

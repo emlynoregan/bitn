@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Accident/Obituary.  Frederick Gurney was driving a coach into Kooringa from the racecourse when he fell and was killed.  He was the oldest mail-driver in the colony.  He came to the colony with the 96th Regiment, in which he was a corporal, in about 1840.  On his discharge from the army he took to mail-driving, and served under nearly all the different contractors on the northern roads for over 20 years.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

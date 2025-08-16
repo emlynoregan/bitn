@@ -33,4 +33,4 @@ The preacher [Rev. H. Howitt] condemned the overcrowding which prevails in the w
 
 It was this lack of action that had prompted his use of the pulpit.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

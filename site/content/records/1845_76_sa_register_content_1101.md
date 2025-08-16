@@ -80,4 +80,4 @@ At Gawler Town we found the first annual races had commenced.  Attendance, thoug
 
 Since our return we have spoken to a man who says Mt Remarkable copper exhibits abundance and all that can be desired for quality and the riches at Emu Springs are described as almost indescribable.  Mt Barker and the eastern districts are said to have undoubted riches too.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Obituary. Rev. George Lee, a former Burra minister, has died [8 April 1879 Alberton, residence Clarendon aged 49.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

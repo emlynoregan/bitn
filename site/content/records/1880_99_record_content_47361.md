@@ -56,4 +56,4 @@ Kooringa cemetery has been extended and enclosed in a stone wall at a cost of £
 
 At the Waterworks the acquisition of a new Cornish boiler should see that last year’s inconvenience is not repeated.  The capital account there now sits at £7,842.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

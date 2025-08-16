@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The literary page, which was mostly a serial, but sometimes, had a short story, poem etc.  There were also patent medicine advertisements and a very large self-advertisement for the paper and printery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

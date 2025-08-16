@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 T. Warnes writes saying how little has been done to honour Sir Henry Ayers for his fifty years of service to the colony.  He proposes an address from the people of Burra and encloses £1-1-0 to start the ball rolling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

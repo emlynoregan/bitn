@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Notice.  Thomas Halls advises that Henry Seaford, better known as ‘Knowler’, has been discharged from his employ and is not authorised to receive or collect any money on Halls’ account.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Inspection of Schools in the district has so far found them to be satisfactory.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

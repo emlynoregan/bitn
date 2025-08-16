@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Giving greater powers to these boards, especially with respect to more control over the expenditure of money would cut Government red tape.  At present a minor job of repairs or painting involves different stages of examination and humbug that increase costs and breed delays and involve ‘individuals who care for nothing so long as they receive their pay’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

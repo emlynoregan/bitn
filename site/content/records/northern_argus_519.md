@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Burra’s Festival of Carols will be held in the Hospital grounds on Sunday 15 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

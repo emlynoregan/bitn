@@ -34,4 +34,4 @@ The work is incomplete and the bridge not really safe for traffic until the wing
 
 The surveyor in charge opened the bridge to traffic without informing Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

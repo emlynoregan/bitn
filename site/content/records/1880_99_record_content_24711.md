@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra Young Men’s Union.   As it settles into a more permanent existence after almost twelve months it has drafted a new code of rules and a slight increase in membership.  The Union owns a piano (nearly). An entertainment on Friday of songs, recitations and farces went well - performed by D. Herbert, F. Wilson, W.H. Hardy, & G. Herbert with Mrs Hocking at the piano.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

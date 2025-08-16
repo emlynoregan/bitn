@@ -28,4 +28,4 @@ publication_slug: sa-register
 A young man, who has been in the neighbourhood for some time, without visible means of support, passing himself off as a nephew of Captain Ellis, was brought up on Monday on a charge of forging and uttering.  The case was adjourned for a week.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

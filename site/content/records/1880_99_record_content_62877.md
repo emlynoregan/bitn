@@ -30,4 +30,4 @@ Court.
 
 Thomas Philip Halls was charged on the information of Charles Grow with assaulting the latter and beating him on 4 October.  He pleaded guilty under provocation.  Grow had overheard him offer to take some shearers to Hillside for 2/- each and undercut him by 6d a head.  Fined 5/- + costs to a total of £2-3-0.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Institute.  We regret that a duly advertised meeting of the subscribers of the Burra Institute has fallen through due to the lack of a quorum.  Are we self-satisfied or too busy?  If a group of gentlemen puts burnt cork on their faces the crowd is great, but of 71 members not even 11 can be got together for ordinary business.  Of the 3686 volumes issued no less than 2582 were for fiction and only 6 were of scientific works.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

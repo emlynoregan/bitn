@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Terowie.  The local correspondent reports cancellation of one of the coach lines to Silverton.  The other is said to come in with no consideration of time or appearance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

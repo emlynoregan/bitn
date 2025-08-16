@@ -31,4 +31,4 @@ Obituary & Inquest.  Robert Gurney, through an incautious use of a firearm shot 
 
 Thomas Hall, father of the deceased, said he had tried the gun himself and found that both barrels would go off at half cock.  He believed the shooting to be accidental.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

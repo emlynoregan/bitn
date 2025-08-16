@@ -49,4 +49,4 @@ During the first half-year to 30 April 1846 2,959 tons of ore was raised at a co
 
 After 23 years of operation 220,173 tons of ore have been raised, averaging 22% equal to 49,310 tons of copper.  During the period copper averaged £92 per ton.  Allowing for freight and other losses the actual value to the company is probably about £4,000,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

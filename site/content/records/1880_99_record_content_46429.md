@@ -40,4 +40,4 @@ Local JPs should deal with cases rather than a Board that knows nothing of the m
 
 Details of the decisions of the sitting at the Burra Institute last Wednesday are printed elsewhere on the page.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

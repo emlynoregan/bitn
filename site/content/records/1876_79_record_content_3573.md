@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Inquest at the Miners' Arms into the death of Margaret Roberts who died as a result of haemorrhage after childbirth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  New Burra Road Hotel and land for sale.  A substantial stone house built expressly for a public house and situate on the intended main line to the Burra, about 22 miles north of Kapunda, with 80 acres of first-rate land and water in abundance.  Apply to Wright Bros. Land Agents.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

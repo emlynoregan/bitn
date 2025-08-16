@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Cricket on Boxing Day near the Model School saw Burra 66 & 18 for 7 defeat East Adelaide 36 & 110.  [A win decided on the 1st innings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

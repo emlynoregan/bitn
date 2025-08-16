@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 John Olsen, Leader of the Opposition, visited BCS earlier in the month.  He came to familiarise himself with the school’s aspirations to have a student boarding hostel built on campus.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

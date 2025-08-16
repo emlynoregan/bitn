@@ -44,4 +44,4 @@ Fears are expressed that there will be a great number of deaths when winter sets
 
 [The article discusses other aspects of the impact of gold on Melbourne and describes the robbery of the Nelson, in which thieves took some £25,000 worth of gold.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

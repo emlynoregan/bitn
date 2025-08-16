@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 F. Treloar, the manager of Gum Creek, controlled the beat and Messrs Watt, Sandland, Crewes & Drew controlled the public.  Mr McDonald was judge.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

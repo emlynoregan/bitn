@@ -34,4 +34,4 @@ Letters were read from Dr Mayne and Dr Maurau speaking very highly of Mr Forder,
 
 It was resolved to grant his licence from the 1 April on the understanding he would expend a portion of the stipend on purchasing desks and other school requisites.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

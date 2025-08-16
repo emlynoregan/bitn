@@ -34,4 +34,4 @@ The year began with a debit of £2-3-4 and South Ward was heavily in debt to Mid
 
 During the year various waterworks proposals were considered.  Ultimately the scheme decided on was the proposal of the Government to construct a waterworks and a system of mains etc. and to hand the scheme over to the Council with the latter to pay 3% on capital costs in the 1st year, 4% in the 2nd year and 5% per annum thereafter.  The Council would control the scheme and retain any profits over this annual rental and running costs.  A number of people have guaranteed to take a specified amount of water.  It is believed water could be temporarily laid on from the present works pending completion of the new reservoir.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

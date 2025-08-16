@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The mail is to be carried in a cart, which will be permitted to carry passengers and parcels.  The branch run may be operated either by cart or on horseback.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

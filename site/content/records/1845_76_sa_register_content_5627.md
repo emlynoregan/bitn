@@ -28,4 +28,4 @@ Accident at Burra Burra Mine
 
 A miner named Richard Jones had his back broken when a quantity of earth fell on him where he was working underground on Tuesday last.  When our informant left Kooringa, Jones was languishing in a hopeless state.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

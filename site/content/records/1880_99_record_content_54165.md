@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club ran a squeakers’ race last Wednesday from Farrell’s Flat, but only two got home within the time allowed.  First was A. Josling’s b. c. c. Blair Athol at 893½ yds/min. and his b. c. c. Sir William III came 2nd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

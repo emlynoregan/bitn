@@ -27,4 +27,4 @@ Applications were invited for a Ranger/Inspector at £50 p.a. and for an Enginee
 
 The Scavenger was appointed at £7 per month, the Working Overseer at 6/6 a day and the Cemetery Curator at 6/6 a day.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

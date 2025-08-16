@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Notice.  John Sampson and Matthew Symons, Councillors for East Ward call a public meeting at the Council Chamber on Wednesday 1 July at 7.30 p.m. to consider the issue of the footpath on the east side of the road from Kooringa to Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

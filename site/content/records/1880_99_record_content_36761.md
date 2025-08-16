@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 He writer is concerned about why young women prefer to work in shops and factories and how they are displacing men there and in places like the telegraphic service.  He concludes: ‘we would like to see each sex occupy its own sphere in life, which at present it is far from doing.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

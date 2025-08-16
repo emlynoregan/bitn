@@ -40,4 +40,4 @@ Railway surveyors are looking at the possible routes north from Clare and Burra.
 
 A post office has been established at Baldry.  Settlers at Andrews and Reynolds are as badly off as ever.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

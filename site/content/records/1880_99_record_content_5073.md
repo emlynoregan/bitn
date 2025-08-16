@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Gold.  It is reported that Mr Murphy of Kooringa and two others have found specks of gold at Ulooloo and have secured five claims on a line of reef.  We congratulate them on this happy portent.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

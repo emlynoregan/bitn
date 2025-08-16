@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Lynch's Bell Ringers were favourably reviewed and though poorly attended the 1st night were crowded the 2nd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

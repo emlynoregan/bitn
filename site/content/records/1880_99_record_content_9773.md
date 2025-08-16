@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr Holder moved that the House of Assembly be immediately dissolved.  The coming election must be held within nine or ten months and would be on new district boundaries with six more members.  The coming legislation affected the north which was currently unrepresented.  The new House should improve such representation.  P. Lane moved that a dissolution was not desirable.  Amendment lost and motion carried.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 We hear that a number of miners are preparing to leave for Wallaroo as soon as things get going there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

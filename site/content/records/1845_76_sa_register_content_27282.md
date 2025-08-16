@@ -26,4 +26,4 @@ The Railway Accident
 
 Due to the diligence of the workers at the scene the line was restored by Monday and on Tuesday the goods and passenger traffic was able to carry on as usual.  At the large gap where the accident occurred the line is carried on a temporary wooden bridge of heavy timbers supported by substantial struts.  An iron bridge will eventually relace this.  The other breaches in the embankment have been repaired with the use of heavy timber and filling with earth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

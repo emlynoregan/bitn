@@ -35,4 +35,4 @@ Resident Magistrate’s Court, Kooringa, 17 October.
 
 John Prout was charged by William Isaac Kerr with altering an order on the Patent Copper Co. from £1 to £9.  Kerr is a hawker and he alleged that Prout came to his cart outside the Miner’s Arms on 13 October and purchased £1 worth of goods, offering the £9 order produced in court, as payment.  Kerr gave the change and then went to the Patent Copper Co. to get a new order, as it was very worn.  He was told it was an order for £1.Thomas H. Williams, Superintendent of the Patent Copper Co., confirmed this evidence.  Charles James Ware gave evidence of seeing Prout make the transaction described above and was corroborated by James Sanderson.  Prout denied having any transaction of any sort with Kerr.  Azariah Goldsworthy and John Farley both swore that Prout was in the Miners’ Arms from 4 to twilight and so could not have had a transaction with Kerr.  Prout was committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

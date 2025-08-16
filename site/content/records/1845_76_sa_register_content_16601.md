@@ -47,4 +47,4 @@ The road-making continues apace, but there are a number of objections arising as
 
 The sheep farmers are much in want of rain and if it does not come soon the lambing season will be an unprofitable one.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

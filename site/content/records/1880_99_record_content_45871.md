@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Town Council decided on Monday that all goats found trespassing on Corporation property will be destroyed.  This is absolutely necessary to protect the town’s trees.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  The partnership between Eliza Malt Soward and William Neville, carrying on business in Redruth as publicans, is dissolved from 6 June 1883.  William Neville will carry on the business alone.  [The Courthouse Hotel]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

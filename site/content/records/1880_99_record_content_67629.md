@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 W.K. Shortridge, eldest son of T.T. Shortridge has left Adelaide to take an engagement with A.E. Builder of Cue, WA.  He was previously with Messrs Charlick Bros of Rundle St, from whom he received excellent testimonials.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

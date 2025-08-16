@@ -28,4 +28,4 @@ SAR Main North Line Trains
 
 ‘Convenience and Economy’ of Riverton complains of the inconvenient timetable on the line.  The writer suggests a timetable that would give convenient two trains a day each way without accommodation costs and suggests also that they be mixed trains as on the Kapunda line, which would do away with the goods train.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

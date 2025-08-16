@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Thomas Edmonds will sing at the Uniting Church Dinner next Friday night 27 March.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

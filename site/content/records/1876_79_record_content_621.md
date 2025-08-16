@@ -26,4 +26,4 @@ The Serial: Lady Isabel’s Crime, Chapter 1
 
 By the author of Sir Edgar’s Will and Baffled by Fate etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

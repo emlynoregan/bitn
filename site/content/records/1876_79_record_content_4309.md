@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Burra School. W.C. Grasby has been appointed first assistant, but no steps taken yet to make attendance compulsory and the large building is only ⅓ full.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

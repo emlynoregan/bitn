@@ -27,4 +27,4 @@ THE BURRA MINE ACCIDENT
 
 Pumping was able to be resumed at 5.30pm on Tuesday. [A little over a week after the accident] Some underground work is now possible, but not all workers are yet back as water had risen to the 40 fathom level. At 1,700 gallons per minute a week or two will clear the main shaft and perhaps 3-4 weeks to totally clear the lower levels.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

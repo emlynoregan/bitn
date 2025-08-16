@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 On Wednesday at Redruth Court a man was fined £1 plus costs for removing timber from Crown Lands without a licence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

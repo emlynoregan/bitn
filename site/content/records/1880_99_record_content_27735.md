@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra Joker Claim.  There is a report on the claim.  After the initial discovery 60 Burra gentlemen subscribed 10/- each.  Two men then worked for six weeks and the results were encouraging enough for another call and now two men will be despatched to open the claim further.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

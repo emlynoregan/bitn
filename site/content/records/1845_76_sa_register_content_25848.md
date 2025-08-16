@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Trees are being planted in the newly fenced Court-house reserve at Redruth. It is late in the season and they will have but a poor chance of survival.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -31,4 +31,4 @@ There has been a further decline in the price of Burra Burra Shares.  The last s
 The price of the shares this evening is £50 per share below that of two months ago.  The company, it is said, has as much ore on the ground as would pay two years’ dividends.  But the state of the European markets makes it questionable whether it is wise to raise ore in increasing quantities.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

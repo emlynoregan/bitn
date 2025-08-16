@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Notice.  The partnership of William Liston, James Shakes & John Lewis, trading as Liston, Shakes and Co., Auctioneers, General Commission Agents and Stock Salesmen, is dissolved.  The business will continue as Shakes & Lewis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 St Mary’s. Rev. J. Stuart Wayland has begun a series of Trinitytide lectures after the usual service on Sundays.  The first: The Miracles in Relation to Modern Scripture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

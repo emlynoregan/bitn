@@ -33,4 +33,4 @@ Notice.  Shipping Intelligence.
 
 Arrived at Port Wakefield on Monday 18 July from Montevideo after a passage of 70 days, the barque Malacca, with a cargo of mules, imported by the Patent Copper Company.  Passengers Mr E.K. Horne, Mrs Killicoat & family, Mrs Skews & family.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

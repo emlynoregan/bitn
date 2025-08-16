@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Redruth Wesleyan Sunday School celebrated its 21st anniversary on 4 November with a sports day on Friday 9 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

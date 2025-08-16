@@ -38,4 +38,4 @@ publication_slug: sa-register
   
   [While giving further detail the Government essentially confirmed that it entered into the above arrangement, and that when Mr Morris, the Superintending Surveyor for the District assessed the cost of repairs at £600, the Government was not prepared to spend more than was matched by the settlers, hence the telegram asking for a guarantee of a further £100.  Since then the Government has been asked for £200 provisionally upon the settlers themselves doing the work for £400.  To this proposal the Government has agreed, though the Government is still prepared to spend £300 if the settlers will match that sum.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Copper has reached £71-12-6 a ton for Chile bars and Burra copper is reckoned to be £5 a ton more valuable.  No less than five mines on Yorke’s Peninsula are to be reopened.  Now is the time surely for SAMA to at least make some preliminary moves towards reopening the Burra Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -33,4 +33,4 @@ After promising some protection for the past 18 months the Commissioners are now
 
 The Bon Accord crossing has heavy traffic.  On the western side it is hidden by a large cutting and if there were something on the line it would be hard for a train to pull up.  Trains coming from the station are hidden by sheds and heaps of coal.  It is very dangerously situated.  The Commissioner says that on market days a porter is sent to the crossing before a train passes and no other precaution is necessary.  This is nonsense.  There was another very close escape on Saturday afternoon by a man in a buggy.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

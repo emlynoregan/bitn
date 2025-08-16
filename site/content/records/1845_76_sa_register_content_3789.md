@@ -37,4 +37,4 @@ As well as that; some time ago parties with bullocks and drays entered into cont
 
 [The Editor said he published this complaint to allow the Overseer an opportunity of making any explanation the circumstances may require.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

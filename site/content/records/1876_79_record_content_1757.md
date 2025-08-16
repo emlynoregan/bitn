@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Chess Club on Mondays (average attendance 4.)  Reading Room average 30 people per day and Amusements Room average 15 people per day
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

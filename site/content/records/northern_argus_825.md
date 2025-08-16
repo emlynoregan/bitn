@@ -26,4 +26,4 @@ publication_slug: northern-argus
 MFS.  The annual assessment competition for members of the Burra MFS was held last Sunday morning in Market Square.  A simulated dangerous chemical spill was dealt with.  [2 photos.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

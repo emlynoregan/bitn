@@ -30,4 +30,4 @@ Railways [Editorial]
 
 [The writer begins with a discussion about whether it is appropriate for the central Road Board to be supervising the construction of the railway to Gawler.  This choice for the first railway into rural area is obvious because it is nearly flat, gives access to rich agricultural country and is on the way to the copper mines of Burra Burra, an extension to which is of such obvious utility when money and labour become available.  The opening up of navigation on the Murray provides another reason for the railway to Gawler and for its eventual extension perhaps to Moorundee.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Editorial on the Railway Department and its inadequacies, both in rolling stock, locomotives and administration, to cope with the coming harvest season.  The inconvenient passenger timetables are also attacked, especially where poor connecting services are provided.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

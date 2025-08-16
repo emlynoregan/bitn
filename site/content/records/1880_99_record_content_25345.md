@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 There was a meeting of the club at the Commercial Hotel on Friday to set the program for the year.  A. Lott, Capt. in the chair.  There was an invitation to play Sevenhills in Burra on 14 May and a challenge to Terowie to play Burra in Burra on 7 May.  Clare asked for a match in Burra on the queen’s Birthday.  The club adopted the new rules of the Adelaide Football Assoc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

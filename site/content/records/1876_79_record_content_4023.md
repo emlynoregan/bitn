@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Burra Corp. A letter to the Ed. says that the Overseer of Works [Mr F.W. Holder] says that the work in Lower Thames St is done, but we say it is worse than ever, especially in front of the Pig and Whistle. At Ohlmeyer's Corner a person crossing Lower Thames St has to go down a dry stone wall from 2'6" to 3' high!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra DC.  The tender of Mr Baker for office furniture was accepted for £13.  The assessment was received and examined.  The land was considered to be valued too high in relation to house property and so was reduced by 10%.  A few other changes were made.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

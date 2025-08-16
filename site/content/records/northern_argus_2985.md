@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Kingston Street Bridge was slightly damaged when the car of a 26-year-old male driver collided with it on 13 August.  The driver was not hurt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

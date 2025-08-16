@@ -39,4 +39,4 @@ Thomas Bentley, the managing stableman at Burra Mine, said he had missed the art
 
 Police-trooper Frederick Julius Dechert stationed at Kooringa gave corroborating evidence and Henry Dawson gave evidence as to the value of the items, which he said totalled £4-17-6.  The prisoner was committed for trial in the Supreme Court.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

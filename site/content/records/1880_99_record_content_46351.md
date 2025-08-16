@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 World’s End Wesleyan Church was visited by the Kooringa Wesleyan Choir on 10 August and supper followed the concert.  The attendance should have been much larger.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

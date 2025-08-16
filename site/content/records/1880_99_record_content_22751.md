@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Football.  (by ‘Quiz’)  Interest seems to be fading, especially in the practice matches on Saturday.  Last time only 9 Colours turned out against 14 Allcomers.  Allcomers 1.3 defeated Colours 0.4.  Allcomers had a strong wind at their back all afternoon and several who should have played colours were on the other side.  F.A. Bruse was a most satisfactory umpire.  Colours have lost a most worthy vice-captain as C.A. Lott has gone to Terowie.  [Why didn’t they change ends during the game?]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

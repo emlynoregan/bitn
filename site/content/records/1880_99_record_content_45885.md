@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Sparrows are a pest and we hope the District Council and Town Council will supply poisoned wheat as is being done in southern districts.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

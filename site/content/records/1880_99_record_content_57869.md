@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Thomas Hastie’s King William.  (£1-10-0 with allowance for more than one mare.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

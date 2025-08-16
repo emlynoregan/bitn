@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Barnard & Chambers held a sale of draught horses at Richardson’s Yards on Tuesday afternoon.  It was well attended and prices ranged from £35 to £50.Mr F. Weston, of wizard oil fame, lectured at the Burra Hotel last night.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

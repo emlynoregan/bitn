@@ -30,4 +30,4 @@ Advertisement.  The English & Australian Copper Company will pay 40/- per ton fo
 
 T.H. Williams & George Ewbank, Managers, Port Adelaide, 23 June 1854.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

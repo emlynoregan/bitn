@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Football & Cricket have both sustained a loss with the transferral of Mr Whitby of the Bank of Australasia to Mt Barker.  He was secretary of the Cricket Club last season and also played a good game of tennis.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

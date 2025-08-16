@@ -30,4 +30,4 @@ Redruth Court, last Wednesday.
 
 George Highet of Kooringa aged 10 was charged with entering the dwelling of C. Grow and stealing £3-6-0.  When caught the lad had £1-14-0 and acknowledged spending 2/6 in sweets.  Found guilty and sentenced to 6 strokes by the police.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

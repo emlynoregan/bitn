@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Jeffrey Pearce, an old resident and road contractor, has died from inflammation of the lungs.  [Died 12 June 1886 aged 56, registered as Jeffery]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

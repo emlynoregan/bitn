@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Trains of late rarely run to time so why not add ‘say an hour or so [to the present timetables] . . .and give them a chance to arrive at the specified time at least once a week or so?’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

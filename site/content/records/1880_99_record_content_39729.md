@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Most readers are farmers who as a rule get their mail once or twice a week and so often receive both issues of the paper together.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Advertisement.  Christian Gander inserts an advertisement on behalf of those of his countrymen who were recently flooded out when the Burra Creek rose, thanking Mr & Mrs Barker of the Smelters’ Home [Hotel] for all the kindness, civility and hospitality they offered on the occasion.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

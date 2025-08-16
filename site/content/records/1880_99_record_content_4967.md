@@ -29,4 +29,4 @@ From ‘Wun Hu Knows’ in response to E. Diplock and the Burra Mine (In Cornish
 
 ‘I am glad old Aiphraim esent a Coarnishman for ef a Coarnishman was goin to make a story he wud try to make en somefin like the trueth.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

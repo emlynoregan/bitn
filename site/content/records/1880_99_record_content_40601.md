@@ -42,4 +42,4 @@ Cr Watt’s motion re an explanation from me is ridiculous and I will appeal to 
 
 After I left there was still 400 yds to be divided so why, if equality was the call, was this not awarded 100 yards to each of the equal remaining tenderers instead of, as was done, 200 to each of two favoured parties.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

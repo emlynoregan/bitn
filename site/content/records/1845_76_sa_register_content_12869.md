@@ -30,4 +30,4 @@ Obituary.  Henry D. Jenkin, who was hurt by a fall of earth a few weeks ago at t
 
 [Henry Jenkin died 18 December 1859 at Kooringa aged 33.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

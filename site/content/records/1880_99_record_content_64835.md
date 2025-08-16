@@ -31,4 +31,4 @@ Kooringa Wesleyan Church quarterly meeting on 20 September was conducted by the 
 
 It was resolved to request the 1899 Conference to carry out forthwith the permanent union of the various Burra circuits according to the plan agreed to last year, with some minor variations.  In accordance with this plan the Rev. W.G. Clarke was invited to become Superintendent of the circuit next year.  The meeting expressed its sympathy with the idea of a Century Thanksgiving Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

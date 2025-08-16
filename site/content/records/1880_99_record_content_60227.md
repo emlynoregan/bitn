@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Obituary.  Henry Howard West, youngest son of William and the late Frances West of Burra Burra Mines, died at Jamestown on 1 July of typhoid fever.  [More details next page.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

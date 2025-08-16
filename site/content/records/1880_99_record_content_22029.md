@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Another letter questions the appropriateness of the Council paying £8 a week to the overseer of works.  [Though this is what the paper says, the figure is absurdly high and must be an error, unless the writer is being sarcastic.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

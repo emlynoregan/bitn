@@ -29,4 +29,4 @@ Burra Literary Soc.  The 1st Entertainment of the Society drew a fair attendance
 
 [Personal interest: The Alarm, a recitation by Mr Fuss, was rather monotonous from the absence of life and action necessary in good reciting.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

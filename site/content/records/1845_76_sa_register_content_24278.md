@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Light Bridge Hotel at Linwood.  There is a lengthy report of the inquest on the destruction by fire of this hotel in the early hours of 3 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. J.R. Bradbury gave a lecture in the Redruth Wesleyan Church on 11 November on Reminiscences of a Voyage to the Antipodes.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

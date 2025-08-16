@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The SAR has lost its appeal against the £250 damages awarded Price for a broken kneecap and will have to pay costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

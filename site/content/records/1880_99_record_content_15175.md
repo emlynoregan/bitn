@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 3rd Leader on The Silverton Railway Bill, which almost came to grief in the Legislative Council, but was finally passed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

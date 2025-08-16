@@ -41,4 +41,4 @@ publication_slug: record-1880-99
 
 There is a one column report of Bagg’s run in more detail.  He left Broken Hill at 4 a.m. Tuesday morning and travelled via Burta Station (11 a.m.) – Mutooroo Station – Cockrum’s Hut – Alabama Station – Braemar (near which sand forced the bike to be pushed for 10 miles) – King’s Well – Douglas Chapel (near which he had a fall, but was not hurt) – Burra (7.30 a.m.).  Here he stopped at the Court House Hotel for a good meal, an hour break and a rub down.  He then took the [old] road to Kapunda [via Black Springs and Marrabel] which is described as good.  At Kapunda there was another hour break, leaving for Gawler at 12.30 p.m. and travelling via Gawler and Salisbury to reach Adelaide GPO at 4.32 p.m.  In all he stopped along the way for 6 hours, so the actual riding time was 30½ hours.  The cycle was a Beeson Humber 24 lb with Dunlop tyres which went the whole distance without a puncture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

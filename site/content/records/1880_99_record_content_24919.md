@@ -32,4 +32,4 @@ Dr Cockburn spoke first in favour of payment of members and a property tax.  The
 
 Rounsevell was against a property tax.  He favoured free trade in principle, but thought it unwise to alter the tariff at the present time.  Property tax would be extremely complex and costly and tend to discourage improvement and industry.  He was not in favour of payment of members personally, but would support it in Parliament if his electors so indicated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

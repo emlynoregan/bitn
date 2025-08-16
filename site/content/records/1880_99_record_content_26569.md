@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Birth: to the wife of James Kelly at Pleasant Valley, Watervale on 25 October, a daughter.  [Mary Ella Kelly]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

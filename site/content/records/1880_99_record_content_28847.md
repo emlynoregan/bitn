@@ -27,4 +27,4 @@ Local Board of Health.
 
 The Central Board of Health wrote to say the Local Board has power to enforce covers for boiling down works.  Rabbich & Sons are to be advised to comply or face the loss of their licence when it comes up for renewal for the year beginning 1 June.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

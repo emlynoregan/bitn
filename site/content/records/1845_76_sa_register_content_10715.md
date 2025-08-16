@@ -28,4 +28,4 @@ Total value of exports from 1838-1856.
 
 [More details are given for the period 1852-56 and a list of the first year for the export of various items is also printed.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -71,4 +71,4 @@ A deputation was selected to wait on the Commissioner.
 
 W.H. Hardy is seeking 10 persons to take £5 shares in a Central Australian Gold Mining Syndicate to open up and work a gold mine in the MacDonnell Ranges.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

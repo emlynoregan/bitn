@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The election is eliciting little attention here.  A requisition signed by many leading persons has urged Captain Killicoat to stand, but he has declined.  He would have been well qualified and is known as a thoroughly upright man.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

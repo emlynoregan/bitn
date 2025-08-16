@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 Recreation ground: Council voted to apply to the Bon Accord Mine for fee simple over allotments 1-8 & 13 for use as a recreation ground.  [West of Jenkin St, near the railway station.] Deputation was to meet SAMA directors over the recreation ground in Kooringa, but Mr West, the mine accountant wrote saying SAMA could not agree to transfer the land near Paxton Square.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

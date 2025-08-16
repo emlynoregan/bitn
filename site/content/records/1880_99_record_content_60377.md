@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 James Gaffey, who was charged with stealing six horses in NSW, appeared at Cobar last week and committed for trial.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

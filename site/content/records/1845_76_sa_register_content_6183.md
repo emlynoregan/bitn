@@ -31,4 +31,4 @@ Mr Thomas Bath has, in the past three weeks, been robbed in a similar manner of 
 
 It is apparent from these and other offences that an organised gang is operating in the neighbourhood.  While the diligence of Sergeant-Major McCulloch cannot be doubted, the want of sufficient police at Burra is deplorable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

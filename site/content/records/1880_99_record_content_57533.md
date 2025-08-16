@@ -32,4 +32,4 @@ Editorial on the Railway Commissionership.
 
 There has been a change from three to one commissioner for the railways and the passing over of the senior Commissioner J.H. Smith in favour of the previous Traffic Manager A.G. Pendleton has caused comment.  The Government was criticised for giving Mr Smith short notice, but Sir John Downer has now said in Parliament that Mr Smith made it known that he would not accept the position at £1,500 p.a. (His previous salary was £2,500 p.a.)  He thus had knowledge of his fate from at least December last when the act was passed.  Mr Pendleton has long experience and undoubted ability and integrity.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

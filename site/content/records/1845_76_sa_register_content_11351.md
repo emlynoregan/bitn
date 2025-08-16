@@ -30,4 +30,4 @@ publication_slug: sa-register
 
 Advertisement.  On and after 1 Clare 1858 the mail to Clare will start from the Globe Inn at Gawler and proceed to Ayliffe’s River Gilbert, Riverton, Auburn, Watervale and then Clare.  William Square, Contractor.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

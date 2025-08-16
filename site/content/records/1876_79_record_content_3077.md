@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Indian Famine Relief. P. Lane reports that Burra subscriptions have totalled almost £140 and should reach £150.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

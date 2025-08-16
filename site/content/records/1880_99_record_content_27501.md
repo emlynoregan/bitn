@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Wesleyan Sunday School Anniversary was held on Sunday & Monday last.  The children’s treat and sports was held on Monday, but the public tea was very poorly attended in the oppressive heat.  In the evening there was a magic lantern show in the church of views of the Holy Land.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

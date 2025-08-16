@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Four deliberately lit fires have been reported in Mr T. Warnes’ paddock in the last few days.  On 3 January about 70 acres of grass were burnt.  On Monday the inquest learned that a number of tandstickor matches were found in the paddock and it is likely they were the cause of all the fires.  It is good to know the cause, but it would be better to know who dropped them.  Mr McCulloch is fortunate the fires did not escape into his paddocks.  We endorse Mr Sandland’s call for tandstickor matches to be banned from SA.  [Cheap Swedish matches easily ignited by friction, unlike safety matches.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

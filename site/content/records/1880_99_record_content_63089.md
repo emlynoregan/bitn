@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Drew & Crewes announce they have started an oil-powered chaff mill at their bulk store in Aberdeen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

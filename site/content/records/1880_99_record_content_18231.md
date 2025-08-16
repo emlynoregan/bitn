@@ -29,4 +29,4 @@ On the same day Mr Roach and troupe will give a performance for children at 4.30
 
 6d & 3d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

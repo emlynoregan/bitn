@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 Notice.  The Royal Mining Co.  The trustees appointed under the Winding Up have this day declared a second and final dividend of two shillings and two pence per share, payable from 4 March until 17 June, when they intend to pay any unclaimed balance into the Supreme Court of SA, in the terms of the Winding Up Act.  Frederic Wicksteed, Clerk to the Trustees.  Adelaide 24 February, 1863.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

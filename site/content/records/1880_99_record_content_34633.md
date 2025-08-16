@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wheat.  One farmer at Baldina, where perhaps the land yields one year in ten, has this season sown 3½ bags of wheat on 15 acres and reaped 160 bags of the best sample going.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

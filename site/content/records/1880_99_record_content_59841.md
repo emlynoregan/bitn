@@ -32,4 +32,4 @@ J. Lewis sued a lad named Opitz £1 for leaving his employment without notice.  
 
 C. Woodruff claimed £2-1-10 for milk sold and delivered to W.H. Hardy.  After evidence was taken a verdict for 5/- was given the plaintiff.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Elders.  Elders Wool & Produce Co. has merged with Elder Smith & Co. Ltd.  Mr Bagot who managed Elders Wool & Produce in Burra moves to take charge in Broken Hill & Mr McLaren, once of McLaren, White & Co. takes over in Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

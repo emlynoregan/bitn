@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 World’s End Wesleyan Sunday School Anniversary on 7 & 10 April.  Mr Burns of Kooringa preached to good congregations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

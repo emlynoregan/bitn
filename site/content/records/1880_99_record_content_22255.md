@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Wesleyan Church.  On Tuesday evening Rev. C.P. Hard, a missionary from India, lectured on mission work.  A fascinating lecture, but poorly attended on account of poor weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

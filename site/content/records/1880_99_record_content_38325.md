@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 2nd Leader on bad roads.  We are glad the Burra District Council has taken into consideration the bad state of the crossing over Spring Bank Creek between Burra and Copperhouse, where a number of serious accidents have occurred in bad weather.  Not long ago a lady was nearly drowned.  The road needs a bridge and is the chief outlet to the west from the town.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

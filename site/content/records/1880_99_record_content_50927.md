@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 The editor apologises for the report of the Council, but the readers deserve to know what happened.  At the previous meeting Cr Hardy moved the room be cleared.  This time Cr Parks moved the motion to reject ‘that awful recorder’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

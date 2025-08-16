@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Burra School Board of Advice.  Miss O’Grady has been appointed to the Thistlebeds School.  A petition from parents asking that the Leighton School open at 9.30 instead of 9 a.m. was granted.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

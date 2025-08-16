@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Locusts are increasingly troublesome in the northeast and large swarms have even appeared in the town.  Much damage to crops is expected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

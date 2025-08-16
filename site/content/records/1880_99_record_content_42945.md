@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Marriage.  24 October.  Herbert Percival Tuckfield, 2nd son of J. Tuckfield of Baldina to Sarah Elizabeth (Bessie) Nicholls, 4th daughter of Mr Thomas Nicholls of Kooringa and granddaughter of the late Rev. John Kelsey of Burnside SA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

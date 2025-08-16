@@ -37,4 +37,4 @@ Pearce		31
 
 Having won both the ordinary and extraordinary election for Middle Ward, Mr Geake resigned the extraordinary vacancy for which there will now be a supplementary election.  Nominations for this close on 10 December, with the election, if required, on 17 December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

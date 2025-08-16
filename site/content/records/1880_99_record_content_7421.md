@@ -35,4 +35,4 @@ There was a call for £30,000 in 60,000 shares of 10/- each.  The aim of the com
 
 A report from Thomas Anthony of Kurilla Mine is attached and also one from Thomas Cowling of Hamley Mine, Yorke’s Peninsula.  Both are very favourable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

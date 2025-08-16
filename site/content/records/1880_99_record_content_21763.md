@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  J.R. Roach announces a Grand Complimentary Benefit to mark his own farewell from the Burra Stage in the Institute on 2 April 1886.  It will be an elocution recital.  Chairs 1/- and Forms 6d.  Proceeds to go to ‘a few needy folks whose names will not be made public.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

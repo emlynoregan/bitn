@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Smelting Works.  After all the enterprise entered into by Mr R. Bartle extracting copper from the slag has proved a failure.  Hardly enough copper has been gleaned to pay the carriage to Pt Adelaide.  We regret this as he entered into the project so confidently.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

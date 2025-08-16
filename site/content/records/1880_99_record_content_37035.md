@@ -30,4 +30,4 @@ Editorial on the Volunteer Forces.
 
 The editor is in favour of the force, especially given the uncertain policies pursued by France and Russia.  Gen. Downes, the Commander-in-Chief in SA is known not to favour them and the country units have become very dilapidated.  Last Friday’s review revealed the ‘incomplete and miserable scurvyness [sic] of the defence force in general’.  It revealed ‘incapacity in drill, want of physical education, and ancient arms, with a large proportion of uniforms which looked as if they had been at use at the battle of Waterloo’.  The VF should either be taken under the Government wing properly ‘or disbanded altogether by compulsion, for the present state of things is a mere farce’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

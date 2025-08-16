@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 Good Friday was a general holiday and the town was almost deserted as people headed off duck-shooting, cray-fishing etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

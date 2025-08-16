@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Clare & Burra Mail Service will be upgraded from 1 July.  Mail despatched from both centres currently closes at 4.15 p.m. and from 1 July will close at 5 p.m. Monday to Friday.  The same delivery standards will be maintained.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

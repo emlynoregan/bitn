@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Wesleyan Chapel celebrated its Anniversary last Sunday and Monday.  Rev. Mr Lloyd from Gawler preached three impressive sermons.  The usual tea and public meetings followed on Monday and £75 was raised from the Anniversary.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

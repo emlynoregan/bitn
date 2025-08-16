@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Springbank Primitive Methodist Chapel reopened 22 & 23 April after renovations costing £40. New iron roof & walls & ceiling repaired and whitewashed. The cost was raised in the last 6 months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

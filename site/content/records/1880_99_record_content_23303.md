@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 ‘We fear that the mental fibre of the coming generation will be seriously weakened if this goes on.’  The immediate cause of this outburst of concern was the call for technical education to be part of general education.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

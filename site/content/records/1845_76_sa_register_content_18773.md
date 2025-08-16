@@ -39,4 +39,4 @@ A memorial from 70 inhabitants of Black Springs, the Wakefield and Farrell’s F
 
 Mr McEwin wanted the matter adjourned in the absence of Mr Kelly, but the Chairman said the Government was waiting for a decision and all works on the toad were stopped pending that decision.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

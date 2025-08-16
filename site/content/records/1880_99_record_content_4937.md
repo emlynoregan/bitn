@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Cricket.  A Muff Cricket Club has been formed in Burra this week and a large number are expected to join.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

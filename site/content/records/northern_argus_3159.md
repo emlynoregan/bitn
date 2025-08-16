@@ -30,4 +30,4 @@ Burra Mine
 
 The CEP workers at the mine discovered an interesting archaeological relic last week.  It appears to be a driving mechanism for the crushers adjacent to the ore dressing tower.  Archaeologist David Bannear says it is one of the few pieces if engine to remain intact and to have escaped the scrapping process of the early twentieth century.  It will be transferred to the Bon Accord Mine Museum.  The CEP scheme will run for 28 weeks and cost a total of $135,000.  [Photo of Mark Charles and the piece of machinery.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

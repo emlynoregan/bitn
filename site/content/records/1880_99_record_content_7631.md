@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  For Sale on 13 September, at Iron Mine, an allotment of land, blacksmith’s shop and dwelling, furniture etc.  On account of Mr A.J. Filmer who is leaving the colony.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

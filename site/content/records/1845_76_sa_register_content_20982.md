@@ -40,4 +40,4 @@ The Trustees in the Estate of Philip Levi & Co. ‘Gum Creek’
 
 W.J. & J.H. Browne, Booborowie, Arkaba and Nilpena Runs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

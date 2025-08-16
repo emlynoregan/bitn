@@ -40,4 +40,4 @@ This morning Mr Giles Jnr came in from Ketchowla to report the sudden death of a
 
 The German Lutheran Church here is now completed and will shortly be opened as a place of worship.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

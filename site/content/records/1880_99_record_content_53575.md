@@ -28,4 +28,4 @@ Mr Martin:
 
 Was a colonist of 47 years and he had helped the farmer when possible.  Labour troubles were largely responsible for the present crisis.  Unions were a major cause and other aspects of it involved extravagance.  He favoured protection.  The demonetisation of silver was another problem.  He opposed progressive land tax and was for federation.  He was not in favour of easing the requirements for voting in Legislative council elections or of shortening the length of Legislative Councillors’ terms.  He was for water conservation.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

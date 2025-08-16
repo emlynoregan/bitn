@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 The Wesleyan Conference has finally appointed Rev. S. Knight and Rev. G.E. Rowe to the Kooringa Circuit.  Rev. R.W. Campbell goes to WA.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

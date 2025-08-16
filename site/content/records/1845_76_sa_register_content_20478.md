@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The railway to Burra is the cause of much agitation again.  A preliminary meeting was held on Tuesday 3 May and a public meeting was arranged for the next week.  When it is considered there are many thousands of tons of ore lying useless at the Mine, which would pay handsomely if cartage were cheaper, all must admit the force of Burra’s claim for a railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

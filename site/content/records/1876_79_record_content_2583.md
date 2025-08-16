@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 At a special meeting on 24 July the council held that the £500 from the Midland Road Board for the Eastern Road into Kooringa was insufficient, but they will stop any further opposition if the Board will build the Kooringa Road to the foot of the Kooringa Bridge. [The road then would become a District Council responsibility to maintain.  (See p.222)]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

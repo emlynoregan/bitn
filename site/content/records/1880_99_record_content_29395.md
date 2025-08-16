@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Local Board of Health has visited various places.  It found nothing too shocking, but the Burra Hotel’s old closet should be done away with and the yards cleaned more often.  The Commercial Hotel disused pit contained liquid manure for which disposal is into the creek.  There is a mud hole with putrid water to be filled in.  Opie’s Hotel had a dirty pigsty, a filthy closet and outside manure was putrid.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Unemployment.  Last Wednesday the unemployed single men met at the Exchange Hotel with Mr P.L. Killicoat.  They resolved that if Burra’s married unemployed do not fill the Gumbowie quota then Burra’s single men get next priority and that single men get priority at the Ballast Quarry if married men get the full quota of Gumbowie jobs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

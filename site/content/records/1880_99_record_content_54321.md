@@ -38,4 +38,4 @@ Faulding & Co. will supply their poisoned wheat for 17/6 a bushel – this price
 
 Public Works Committee will inspect the kerbing work redone by Mr D. Rogers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

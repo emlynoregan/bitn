@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Last Thursday was observed as a public holiday among the tradespeople, but work at the Mine continued as usual.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

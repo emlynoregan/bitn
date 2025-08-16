@@ -53,4 +53,4 @@ William Henry Richards was fined £10 plus £1-16-0 costs for selling less than 
 
 Two mule drivers were fined 5/- each plus £1 costs for riding on their mule wagons without having some person on foot to guide the mules.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The tender of I.W. Goss for building the Mortuary Chapel in the cemetery was accepted for £79.  All the tenders for a footbridge across the creek near the Institute were deemed to be too high.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

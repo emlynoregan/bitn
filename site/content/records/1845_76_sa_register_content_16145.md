@@ -50,4 +50,4 @@ On one of Mr Tyler’s northern stations recently a flood swept away the huts an
 
 Shearing is now over and wool carting is rapidly proceeding.  I believe the clip has been a tolerable one in this district.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

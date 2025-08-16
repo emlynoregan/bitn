@@ -30,4 +30,4 @@ Detailed rainfall figures are given for the last nine years.  Totals were:
 
 11.84	27.86	26.13	13.34	19.61	21.63	23.01	15.67	12.77
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

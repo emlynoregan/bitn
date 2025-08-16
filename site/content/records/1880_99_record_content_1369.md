@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Not a Grave Digger’ who is not anti-Catholic, but opposes a Catholic section at the cemetery.  If such is allowed, he asks, how long before we need a separate section for Episcopalians, Bible Christians, Wesleyans, Primitive Methodists, etc.?
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

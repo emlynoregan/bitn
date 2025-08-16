@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Five allotments in Kooringa have been sold, amounting to rather more than an acre, for £295 and some lease renewals have been granted for fair rentals.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

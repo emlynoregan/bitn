@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Silver Mines in the Burra District are showing signs of revival.  A party is offering to buy Bevan & Sons property 15 miles from Burra.  It is well worth a visit as shafts and costeen pits have been put down costing £1,250.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

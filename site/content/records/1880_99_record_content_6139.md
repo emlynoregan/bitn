@@ -30,4 +30,4 @@ The payments to Government and the cost of improvements have swallowed all the c
 
 Year after year farmers have barely reaped the grain sown.  To leave now means to leave everything and begin elsewhere as farm labourers.  They are asking for the cultivation clause to be relaxed so that cultivation would be optional and for the remission of all interest and other payments for three years.  Though easily applied this ‘solution’ can at best only delay matters for three years unless a change we have no reason to expect comes over the area of the East and North-East Plains.  We would not deny them their request, but trust the sale of such lands will cease and they will be left for more appropriate use instead of agriculture.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

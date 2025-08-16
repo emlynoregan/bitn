@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 With the switch to a weekly paper we will publish a weekly supplement containing 14 columns of literature and 8 to 10 columns in the paper itself.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

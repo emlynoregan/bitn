@@ -44,4 +44,4 @@ Resolved that the Aberdeen water trough be opened.
 
 Council will seek support of other councils to get the law changed to allow councils where hawkers operate to charge licence fees.  (At present the council where the hawker lives grants a licence for the whole colony and so the city area gets most money.)
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

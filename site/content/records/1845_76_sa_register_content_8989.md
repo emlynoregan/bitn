@@ -31,4 +31,4 @@ Kooringa Flood
 
 On 22 & 23 March we had exceedingly heavy rains accompanied by a great deal of thunder and lightning.  On Friday (23rd) the main street was so flooded that the waters stretched from one side to the other.  A boy was swept away by floodwaters for about 100 yards and was lucky to escape alive.  A man was also swept away trying to cross the street in front of Truro House and, losing his footing was swept about 50 yards nearly to the police station.  At time he was partially able to regain his footing and the next moment completely under water.  At last he was swept near the edge of the stream and two men helped him to escape.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

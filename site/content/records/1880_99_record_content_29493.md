@@ -32,4 +32,4 @@ Letter from W.H. Hardy, taking issue with W.R. Ridgway over the Waterworks.  Whe
 
 [Following this Ridgway threatened a libel case.  While no doubt the law was on Ridgway’s side in not paying the water account because there was no individual meter for the reserve concerned, the facts were essentially as Hardy stated and were public knowledge, having been previously reported in the paper.  The aspersion on Ridgway’s honesty is, of course, another matter and no doubt would have been the crux of any case brought.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

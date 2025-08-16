@@ -32,4 +32,4 @@ publication_slug: record-1876-79
 
 Burra Amateur Athletics Club. A meeting on 19 Feb. at the Commercial Hotel decided to form the Burra Athletics Club. It was decided to ask W.B. Rounsevell to be the Patron, E. Lipsett to be the President, and W.F. Coglin to be Vice President. H. Pearce is Treasurer and T.T. Shortridge is Secretary. The meeting was resumed on 11 March when the three invitations above were accepted. It is intended to have the 1st athletics meeting on Easter Monday in Austin's Paddock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

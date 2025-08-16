@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Cricket.  Few cricketers are responding to calls to practise.  Apparently the town will be one of the few not to support a cricket club this season.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

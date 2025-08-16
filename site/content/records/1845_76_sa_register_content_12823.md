@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 At the Bon Accord Mine Mr Brown of the firm of English & Brown is bringing the building there to completion.  The offices are being covered in.  The engine-house is ready to receive the engine and the 60 ft chimney has reached the height of 36 ft.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -33,4 +33,4 @@ The Head Master hopes shortly to be able to receive a limited number of boarders
 
 [*TCD = Trinity College Dublin.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

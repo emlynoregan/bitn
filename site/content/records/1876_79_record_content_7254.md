@@ -39,4 +39,4 @@ Cr Drew moved the Town Clerk take advice as necessary for the sale of vacant lan
 
 It was resolved that Captain Killicoat be charged £3 per acre plus expenses for the piece of closed road to be sold to him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

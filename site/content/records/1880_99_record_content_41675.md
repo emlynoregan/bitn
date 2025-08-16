@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Burra School.  The elder scholars will go to the Industrial Exhibition on Friday.  It is expected scholars from Copperhouse, World’s End, Leighton and probably Baldina will join them.  From the North Terrace Station they will walk to the Zoo and thence to the Exhibition.  Tea will be provided at 3 p.m. and a return at 4.25 p.m.  The total cost per child will be 2/6.  About 100 are expected to take part.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ Obituary.  Helena Kellaway, wife of Stan Kellaway, died during the last week.
 
 [Identity of the deceased is not easy to trace, but she appears likely to have been born as Ada Lena Frahm 14 February 1915 at Bower.  If so she married Clarence Victor Siostrom in 1934 under the name Helean Ida Frahm and was widowed in 1954.  She subsequently became Stanley Kellaway’s second wife.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

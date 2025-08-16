@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Show.  Various protests about the acceptance of entries and awarding of prizes were heard.  Two were upheld and one referred for more evidence.  One was dismissed as no prize was involved.  W. Fuss’s protest re there not being 24 varieties in the cut flower class was dismissed: the judges decision being declared final.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

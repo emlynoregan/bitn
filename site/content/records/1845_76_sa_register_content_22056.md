@@ -29,4 +29,4 @@ The sale of the new township on land belonging to Mr Siekmann took place last We
 
 The second row of ⅜ acre blocks average £15.  The sale realised more than £700 in all.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

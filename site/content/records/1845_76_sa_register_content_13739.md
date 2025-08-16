@@ -40,4 +40,4 @@ The Captain’s reports of the Mine continue to be very favourable both with res
 
 The number of persons employed by the company is 953, being a reduction of 125.  Doubtless this is due to the large demand for miners in other parts of the colony rather than a decline in the demand at the Burra Burra Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

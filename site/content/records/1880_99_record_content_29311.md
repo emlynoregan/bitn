@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Rifle Match.  On Saturday, Terowie 415 defeated Burra 381.  Each team fired on their home range.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

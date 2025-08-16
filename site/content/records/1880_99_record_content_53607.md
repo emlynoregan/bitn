@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Burra Show Society.  The committee met on Friday at the Commercial Hotel.  The secretary, Mr West, reported that support has been promised from a number of gentlemen.  He has had to resign as secretary due to ill health and has been replaced by J. McLaren.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

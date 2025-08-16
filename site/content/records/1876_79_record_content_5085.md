@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Water Supply. The Govt. is taking further steps towards providing a water supply for Burra and it seems likely to take the form of free public fountains paid for by the Corporation by means of a rate.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

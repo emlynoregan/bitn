@@ -27,4 +27,4 @@ publication_slug: sa-register
 Advertisement for J. Bentham Neales who was selling tea, sugar, spices, port wine and gunnies [jute sacks] at the stores of Messrs Bunce and Thomson.
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

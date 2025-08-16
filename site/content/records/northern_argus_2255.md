@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 The Pool Disco moved to the Scout Hall due to the wet and windy weather.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

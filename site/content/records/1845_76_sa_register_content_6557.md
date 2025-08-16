@@ -32,4 +32,4 @@ On 2 June the supporters of Mr Mildred invited that gentleman to a dinner at the
 
 Mr Mildred thanked his hosts and reiterated his political views.  Several songs enlivened the evening.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

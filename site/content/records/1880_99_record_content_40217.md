@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Late papers.  The editor complains of receiving the Broken Hill papers by the last Adelaide train at night.  He speculates that they go to Port Pirie and thence by steamer to Adelaide - unless the mail sorters on the trains have too much work to do in which case they need an extra hand.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

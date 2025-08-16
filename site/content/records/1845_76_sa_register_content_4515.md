@@ -31,4 +31,4 @@ SA Mining Association held its half-yearly general meeting yesterday.  The Direc
 
 Two hundred additional miners might most profitably be employed at the Burra Burra Mine.  This fact may account for the rumour that the SA Mining Association would postpone any developments at their newly acquired property at Emu Plains.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

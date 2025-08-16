@@ -39,4 +39,4 @@ Last week a woman residing at the smelting works tried to commit suicide by mean
 
 Sheep farmers on the North Eastern Plains are complaining of want of rain and some stations report they are destroying large numbers of lambs in anticipation of the want of feed in the coming summer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

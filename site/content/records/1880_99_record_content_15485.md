@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Burra MUIOOF Lodge.  Finance meeting on Wednesday.  Receipts for the quarter were £215-5-5 and expenditure £194-2-3.  The loan account was £5,620 and funds were worth £5,985-8-3.  There were 306 members.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

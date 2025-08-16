@@ -38,4 +38,4 @@ The annual celebrations of the Redruth Primitive Methodist Sunday School were he
 The anniversary of the Loyal Aberdeen Lodge MUIOOF was held yesterday with the usual procession and dinner.  The procession went to the Primitive Methodist Chapel where a sermon was preached by Rev. Whittaker.  About 150 attended the sumptuous dinner at Lamb’s Aberdeen Hotel.  [The toasts are reported.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

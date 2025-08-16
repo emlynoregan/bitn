@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Bible Christian anniversary services last Sunday were well attended, as was the tea meeting on Monday and the proceeds were very good.  Rev. J. Pearce has been re-appointed for another year.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

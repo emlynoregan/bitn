@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The debate surrounding the resolution allowing the work on the road in Ayers Street is printed.  It includes reference to work done by a Councillor in North Ward that was not authorised by Council.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

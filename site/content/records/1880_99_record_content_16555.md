@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  The partnership of James White, John Finlay Duff & Bessie Goodchild, trading as Goodchild, Duff & Co. (Auctioneers etc.) is dissolved from 16 February 1885.  The business will continue with James White and Bessie Goodchild.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

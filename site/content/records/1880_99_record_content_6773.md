@@ -28,4 +28,4 @@ Editorial on the sanitary condition of the town.
 
 The editor comments on the unusual decision of the Hospital Board not to comply with a Local Board of Health instruction and an extraordinary letter from Dr Sangster who asks to be allowed to continue to place manure where it will be a nuisance.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

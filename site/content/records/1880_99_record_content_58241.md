@@ -50,4 +50,4 @@ Kooringa Primitive Methodist Church had a visit from Rev. J. Nairn on Friday.  H
 
 The anniversary services were held on Sunday 6 October and Rev. H. Wilkinson of Terowie officiated.  The afternoon service of song was The Christian Voyage.  The public tea on Monday was only moderately patronised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

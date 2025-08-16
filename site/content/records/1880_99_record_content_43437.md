@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Advt.  Friday 18 December in Chapel St Kooringa, J.T. Tregilgas will auction the household furniture and effects in the insolvent estate of Peter Murrie Jun., late of Kooringa, insolvent, by order of the Official Receiver.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

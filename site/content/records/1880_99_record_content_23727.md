@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Teetulpa Goldfield.  The excitement is slowly abating, though it is widely thought that more gold has been got than has been revealed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

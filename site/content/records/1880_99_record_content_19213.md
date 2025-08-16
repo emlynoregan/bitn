@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 ‘City of Big-Big’.  Part VI, wherein the author turns to the social scene and where, one assumes, readers of the day could identify particular individuals from the way their businesses are described.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

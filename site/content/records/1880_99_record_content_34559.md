@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Burra Hospital.  The Shearers’ Union has made a donation of £4-8-4.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

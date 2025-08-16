@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Letter from ‘Cash’ complaining of the prevalent custom in Burra, but not in the city, of paying workmen monthly instead of weekly.  It makes the paying of cash for household goods virtually impossible and leads to undesirable indebtedness.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

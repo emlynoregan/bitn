@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 J.G. Terry & Co.'s line of coaches now leave Hallett every Friday and depart from Bimbowrie Monday morning to connect with the Tuesday afternoon train for Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

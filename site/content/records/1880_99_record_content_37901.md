@@ -35,4 +35,4 @@ W. Geake & Son £24 and A. Bartholomæus £30
 
 Cr Sampson asked for a secret ballot which was tied and on the casting vote of the Mayor the tender went to A. Bartholomæus.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

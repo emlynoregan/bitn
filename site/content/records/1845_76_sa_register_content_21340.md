@@ -35,4 +35,4 @@ William Nottle: was employed mowing wheat for Cobb & Co. and saw a man leaving t
 
 James McEwen gardener at Mr Hallett’s corroborated the above and so did other witnesses, though only Nottle had seen a man in the area.  The jury concluded the fire had been maliciously lit by a person or persons unknown.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

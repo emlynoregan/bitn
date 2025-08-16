@@ -52,4 +52,4 @@ Mr Powell moved an amendment that the fee simple price by £3 per acre.  This wa
 
 [One of the speakers had suggested that upwards of two thousand signatures could be expected, if the people had not all left for the Diggings.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

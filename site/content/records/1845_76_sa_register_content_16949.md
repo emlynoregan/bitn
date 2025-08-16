@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 [The editorial urges people to vote in municipal elections being held that day.  The editor expressed some concern that certain provisions enacted by Parliament to enable the improvement of sanitary conditions in towns like Kapunda and Kooringa that lie outside municipalities, are now proclaimed across the whole colony.  This could cause inconvenience where the provisions differ from those already enacted as by-laws by municipalities.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

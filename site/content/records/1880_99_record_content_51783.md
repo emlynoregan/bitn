@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Cemetery.  Work needed to maintain it has increased due to the increase in size last year.  Grass and weeds have not been kept down as much as desired because the year started with a debit balance and the curator has been put to outside work to save funds in this account.  The account is now in credit £3-7-10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

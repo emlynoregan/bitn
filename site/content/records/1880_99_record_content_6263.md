@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Notice.  Due to the effects of a recent accident F.R. White is forced to cease his teaching, which he has done for 20 years in Kooringa.  8 February 1882.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

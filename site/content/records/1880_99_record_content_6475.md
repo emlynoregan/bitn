@@ -29,4 +29,4 @@ Ulooloo.  On Monday we visited Ulooloo where gold has been obtained for many yea
 
 [Costeen: a trench cut across a conjectured line of outcrop.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

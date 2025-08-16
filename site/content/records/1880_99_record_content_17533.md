@@ -33,4 +33,4 @@ G. Webber, J.W. O’Brien and Thomas Young were each fined 10/- for having stray
 
 Henry Peak was fined 10/- for driving faster than 7 m.p.h.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

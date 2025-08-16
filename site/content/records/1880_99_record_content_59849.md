@@ -32,4 +32,4 @@ All direct from Imported Stock and Winners of First Special Prizes at Leading Sh
 
 From the Copperhouse Poultry Yards.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

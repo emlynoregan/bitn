@@ -41,4 +41,4 @@ The overpowering influence of the mining proprietary, backed by Paxton, has retu
 One banner read ‘We fear not, We care not.’  Mildred and freedom is our wish and we defy the oppression of our employers.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Sunday School Anniversary will be held on 21 May with the tea meeting on Wednesday 24 May.  Mr Wood MP will conduct three services.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

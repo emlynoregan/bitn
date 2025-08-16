@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 ‘Whip’ reports on out-of-town coursing, football, boxing, sculling, cycling and polo.  He also reports that arrangements have been made for a football game next Saturday between Aberdeen and Burra.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

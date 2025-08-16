@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Kooringa Bible Christian Church special services on Sunday 3 September had Rev. T. Piper from Auburn preach.  In the afternoon the service of song Little Dot was performed.  The Thursday and Sunday services netted c. £34.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

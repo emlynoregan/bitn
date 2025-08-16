@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 The Black Springs Wesleyan Chapel celebrated its anniversary with special services last Sunday and there was a tea and public meeting on Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

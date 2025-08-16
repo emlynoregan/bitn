@@ -27,4 +27,4 @@ Redruth Court
 
 In the absence of James Quinn his case, which had been adjourned for a month to enable him to get work to support his aged mother, was resolved by ordering him to pay 2/6 a week to her.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

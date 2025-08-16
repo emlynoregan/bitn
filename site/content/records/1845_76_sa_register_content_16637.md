@@ -30,4 +30,4 @@ Notice.  To James William MacDonald Esq. SM, Commissioner of Insolvency.
 
 [Then follows a very long list of townspeople including many of the most prominent shopkeepers, doctors, mine officers etc.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

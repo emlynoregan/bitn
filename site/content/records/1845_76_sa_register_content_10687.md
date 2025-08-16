@@ -52,4 +52,4 @@ The verdict was accidental death caused by a fall from a horse.
 
 [This death does not appear on SA Deaths CD.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

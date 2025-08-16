@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Bagot, Shakes & Lewis on Monday 31 august 1891 will auction the whole household effects of F.W. Holder at Kangaroo St.  Also a trolly load of literature in suitable bundles to be sold by the Institute Committee.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

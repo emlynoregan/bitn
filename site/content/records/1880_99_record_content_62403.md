@@ -28,4 +28,4 @@ Advt.  Mrs Noble offers to teach typewriting:
 
 Payable in advance for a quarter of 12 weeks.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Weather.  It has rained every day since Saturday, with little intermission.  Already the hills have turned green.  The creeks are swollen and the streets of Kooringa are covered in a vast accumulation of mud; no one being able to move about on foot as a result.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

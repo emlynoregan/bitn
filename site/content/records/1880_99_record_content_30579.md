@@ -43,4 +43,4 @@ Burra Corporation sitting as a Court of Appeal.  Reductions in assessments for r
 
 W.H. Hardy writes recalling that last year Burra was allowed £50 for the maintenance of 66 chains of main road, when there are about 5 miles of main road in the Corporation.  Unley was allowed £500 for their 9 miles of main road.  He urges Council to bestir themselves lest they find the Government again using incorrect figures of the length of main roads in their calculations.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

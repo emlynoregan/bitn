@@ -32,4 +32,4 @@ Redruth Primitive Methodist Chapel
 
 The foundation stone for this chapel was laid on Thursday 28 January by Rev. Hillman, who afterwards delivered a short and appropriate address.  This was followed by an address from Rev. Wright.  The building is to be 30 ft by 30 ft in the clear and 20 ft from floor to ceiling.  It is to be in the Gothic style with a slate roof.  After the ceremony the company retired to the Court-house, which had been kindly lent, for tea.  After tea Rev. Wright chaired a public meeting.  Addresses were given by Revs Mr Hillman and Mr Thomas and Mr Simmonds.  More than £50 was collected.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

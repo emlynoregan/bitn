@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 On the following Thursday there was a severe dust storm from the west.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -43,4 +43,4 @@ Mr Bald said the Government circular was an insult when Crown Lands were infeste
 
 The meeting called for the Government to take a fair share of the destruction of vermin on land adjoining those to whom notice had been given.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

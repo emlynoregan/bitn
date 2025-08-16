@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Ulooloo Diggings.  The Northern Argus reports a new find three miles from Ulooloo Creek that has caused a rush to the spot.  There are about 150 diggers at work.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

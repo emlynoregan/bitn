@@ -20,4 +20,4 @@ publication_slug: sa-register
 
 31 December 1875, page 6
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mrs Charlotte A.L. Pearse, wife of T.H. Pearse, the manager of ‘The Gums’, died at a friend’s house in Kooringa on Saturday last.  She was 34 and had been ailing for a long time.  She was the youngest daughter of George Hiles of ‘Petherton House’ Hallett.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

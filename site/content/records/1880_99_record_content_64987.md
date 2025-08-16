@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Rev. Fr O’Dowling, an old and respected past pastor of St Joseph’s gave a lecture here last Wednesday on Dublin: Old and New.  He was assisted by concert items.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

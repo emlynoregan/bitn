@@ -30,4 +30,4 @@ Burra Town Council.
 
 A deputation from Council waited upon F.W. Holder MP at the Corporation Office on Monday morning in reference to the Bon Accord Bridge.  There has been no official reply from the Treasurer, but Mr Holder was able to report the situation as outlined in the editorial.  He will wait on the Treasurer again and forward his reply.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Advt.  SAMA: Drays are wanted to convey goods to the Burra Burra Mine and to return with ore.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

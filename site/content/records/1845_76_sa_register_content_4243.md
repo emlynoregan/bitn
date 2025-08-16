@@ -39,4 +39,4 @@ Thomas Harris alias Swankey Tom was fined 0/- with 16/- costs [presumably the 0/
 
 Lewis Sims was fined 5/- plus 11/- costs for assaulting David Hughes on 22 November.  He pleaded guilty, but argued extreme provocation, as Hughes had used the most abusive language towards him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

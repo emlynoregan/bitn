@@ -45,4 +45,4 @@ Mr Rees moved that in view of the unemployment levels all the lands currently in
 
 The Chief Secretary, Hon. A. Blyth said there was never a time in the history of the colony when there were so few unemployed.  The survey would be illegal as the lands were not included in the Bill.  He hoped the hon. Members would support the Government in abolishing the line of rainfall.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

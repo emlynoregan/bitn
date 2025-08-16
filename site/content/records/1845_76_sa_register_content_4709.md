@@ -33,4 +33,4 @@ The barque Lady Denison with Hammond, master, left Port Adelaide 17 April bound 
 
 [This ship carried Gottlieb Keirnall who had been convicted for the manslaughter of John Smith at Kooringa 25 December 1849.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

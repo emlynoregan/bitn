@@ -25,4 +25,4 @@ Kooringa News, 15 December
 
 Mr Barlow and his troupe have been entertaining the younger portion of the town’s population with performances of his monkeys and dogs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

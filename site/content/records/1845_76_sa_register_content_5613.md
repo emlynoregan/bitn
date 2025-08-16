@@ -28,4 +28,4 @@ All the houses are built of substantial stone, but irregularly disposed, somethi
 
 The general currency is orders from the two great companies.  Also the Aberdeen Hotel issues and Hutchings and a host of grocers.  This is certainly a bad system and the only excuse is the scarcity of cash.  A branch bank is most desirable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

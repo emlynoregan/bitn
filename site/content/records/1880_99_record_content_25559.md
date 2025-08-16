@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Burra Institute replies to Rev. Stuart Wayland’s letter re the ‘Escaped Nun’ at the hall.  The committee points out that its rules do not prohibit churches from using the Institute and indeed various churches, including Rev. Wayland’s, make use of it for bazaars, concerts etc.  What is banned is the letting of the hall to any denomination for services on a Sunday, except in the event of a disaster.  Miss O’Gorman’s lecture could not be termed a religious service.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

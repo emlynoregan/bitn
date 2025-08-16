@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Burra Homing Club.  The 6th race for the season was from Oodlawirra on 3 July.  20 birds were released and first home were J.A. Pearce’s, covering the 56 miles 125 yds in 84¼ mins at 1,171 yds per min.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

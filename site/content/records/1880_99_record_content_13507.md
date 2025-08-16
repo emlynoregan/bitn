@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 M.H. Leworthy of Middleton writes suggesting that the policies desired by the pastoralists re the dog nuisance would be more suitable if the animal concerned were a lion or a tiger.  No wonder no Aboriginal woman or child is to be trusted with one!  Registration cost is to rise from 5/- to £1-1-0 and the dog to be chained, muzzled or confined from sunrise to sunset.  The whole thing is absurd.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

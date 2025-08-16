@@ -27,4 +27,4 @@ Letter on the Progressive Land Tax.
 
 Letter from J. Cooksley of Farrell’s Flat agreeing with the recent editorial.  The Government should buy back the large estates one at a time and then subdivide and sell in small farms of 200 to 600 acres.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -30,4 +30,4 @@ A Letter also queries why O’Leary Bros [butchers] are allowed to keep pigs in 
 
 The editor’s advice was that he should complain to the inspector and noted that the by-law did not allow pigs to be kept within 50’ of a street or dwelling.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Obituary.  Mr Schmucker, a well-known farmer near Eudunda, died when crushed by a horse in the stableyard in 12 April.  [Friedrich Wilhelm Schmucker died 13 April 1898 aged 64]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -40,4 +40,4 @@ The district has been free from bush fires this season.
 
 Valedictory Services were held at the Bible Christian Chapel on Sunday to farewell Rev. T. Hillman on the eve of his departure for Auburn.  After tea on Monday Mr W. Davey Jnr was given a purse containing 10 guineas, as a mark of respect for his valuable services in playing the harmonium and in other ways helping to sustain the efficiency of his father’s singing class.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

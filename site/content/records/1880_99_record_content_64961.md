@@ -41,4 +41,4 @@ Jemison gave evidence that he had seen the three riding three rams at Victoria P
 
 Mr Packard did his best over technicalities, but in the end Jacka was fined 10/- and the other two 5/- each with 5/- costs between the three. [1/8 each.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

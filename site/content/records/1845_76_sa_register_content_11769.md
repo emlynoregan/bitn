@@ -29,4 +29,4 @@ Arrival of the Austral
 
 The ship Austral of 506 tons with John Martin, master, arrived from Gravesend, having left there on 17 April.  A portion of her cargo is a large beam-engine and boiler for the Burra Mine, similar to the one already in use there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

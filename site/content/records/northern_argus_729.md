@@ -65,4 +65,4 @@ Has sought publicity through supporting activities like the Barrow Push
 
 Tourism meant employment.  In 1982 14,000 visited the Burra Tourist Office and in 1985 there were 30,000 visitors. Jenny O’Connor Burra’s Tourist Officer also addressed the meeting, during which she paid tribute to the work of historian Ian Auhl.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

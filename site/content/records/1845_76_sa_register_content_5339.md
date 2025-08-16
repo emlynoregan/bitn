@@ -32,4 +32,4 @@ On 1 January there will be three races: The Miners’ Plate over 1½ miles, a Hu
 
 On 2 January there will be two races: the Smelters’ Cup over 1 mile and a distance, the Burra Burra Town Plate over 2 miles.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

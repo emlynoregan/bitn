@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 G. Nobes was also charged with not carrying scales and weights, as were R.L. Goldsworthy and F. Gebhardt and all were fined.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Mr J. Ford’s smoke-shop was broken into last Wednesday night and a 25 lb side of bacon was stolen.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

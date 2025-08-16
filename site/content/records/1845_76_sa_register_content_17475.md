@@ -40,4 +40,4 @@ E.H. Grafe has been obliged to call his creditors together – business being fl
 
 Messrs Jaffrey, Kingston and the Chief Secretary with Messrs Tomkinson and Cameron arrived last night on a visit to the mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

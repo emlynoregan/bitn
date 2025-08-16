@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Federation.  The Australasian Federation League of SA passed a resolution in it inaugural meeting in the Adelaide Town Hall on Thursday declaring the time was ripe for federation and pledging to do all it could to promote it.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

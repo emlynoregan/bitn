@@ -27,4 +27,4 @@ Editorial on the New Land Bill.
 
 Selectors will pay 10% on purchase, which will be reckoned as the interest for the first three years paid in advance.  At the end of the three years and to the end of the 8th year the payment will be 4% of the purchase price [per annum presumably].  At the end of the 9th year 25% of the purchase price.  For the next 20 years 5% of the balance will be paid annually as interest.  At the end of the 20th year the balance of the capital will fall due.  Other details are spelled out.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

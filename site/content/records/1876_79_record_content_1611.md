@@ -35,4 +35,4 @@ The allowance per family was 1/4 sheep, 3lbs sugar, 21b currants, 21b raisins, l
 
 J. Roach jnr. almost drowned while swimming his horse at the back of his father's mill - rescued by Mr Minchin who was nearby in a boat.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

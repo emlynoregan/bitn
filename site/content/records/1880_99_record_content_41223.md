@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Advt.  Tenders are called for covering with 26-gauge galvanised iron the house now occupied by Mr Needham opposite Mr Cave’s. P.L. Killicoat for the E. & A. Copper Co.  [House at Snake Gully.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

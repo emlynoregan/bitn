@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 A bird’s eye view of the town would show ‘a sort of resuscitated Herculaneum; a washed, and dried and cleansed Pompeii; the preponderance of ramshackle, inartistic houses and walls are [sic] so great.  But in the midst lurks snug retreats with foliage and “verdure clad” often behind high and uncouth walls.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

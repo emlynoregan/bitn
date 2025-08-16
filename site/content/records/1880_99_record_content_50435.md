@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Mr Kuchenmeister, World’s End farmer, was thrown from his wagon into a creek on Saturday evening on his way home from Burra.  He was discovered semi-conscious on Sunday morning, but though shaken and scratched was put on the way home again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

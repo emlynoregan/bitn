@@ -24,4 +24,4 @@ publication_slug: northern-argus
 
 $10,000 for SES plant and equipment
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

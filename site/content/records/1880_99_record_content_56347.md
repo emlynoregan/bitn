@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Fire.  On Wednesday last at 8.20 a.m. a fire burnt about 400 acres of grass on Booborowie Station.  Stock and fences were saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Pam Marlow was in Burra for last weekend to work on her model of the Burra Mine.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -31,4 +31,4 @@ publication_slug: record-1876-79
 
 Coaches now run to Menindie, Mingarie, via Umberumberka, Thakeringa & Mt Gipps. [Mingarie = Mingary, about 26 km before the NSW border on the highway/railway line, Thakaringa, about 14 km over the border on the road to Broken Hill, Umberumberka is just north of Silverton in NSW and Mt Gipps is N-E of Silverton in the Barrier Ranges. If it really is via these places to Menindie which lies to the SE of Broken Hill, it was a very roundabout journey.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

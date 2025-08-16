@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 The Serialised Novel: Two Men and a Woman by ‘Wirrildah’, author of Picturesque Desolation and A Tragic Misunderstanding’ etc. began.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 Fire. The Miners’ Arms Hotel was substantially burnt down last Tuesday morning between 2 & 3 am. The newer part that was formerly the Assembly Room was saved.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

@@ -30,4 +30,4 @@ The furnace on the New Cornwall Mine is capable of reducing 30 tons of ore per w
 [This article outlines the process.]
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

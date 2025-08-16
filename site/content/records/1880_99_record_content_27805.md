@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Trees.  The street trees in Burra are doing quite well with relatively few dying and the Jubilee Avenue is making good progress due to regular watering.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

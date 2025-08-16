@@ -28,4 +28,4 @@ Editorial on The Rabbit Nuisance.
 
 The DC Burra took five landowners to court on Wednesday and fines ranged from £5-17-6 to £8-4-0.  Negligent owners cannot be condemned too strongly for the unjust ways they have deceived the DCs.  The only way we can see for the DC to overcome this difficulty is to put men on to do the work at the expense of the landholder.  Fines are useless.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

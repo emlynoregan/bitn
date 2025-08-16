@@ -44,4 +44,4 @@ Parliament is often influenced by public meetings and outside discussion and Cou
 
 Surely not half a dozen ratepayers in East Ward would agree with the work, so it is useless to speak of the wishes of the majority of the ratepayers when it is East Ward that is to bear the cost.  No one knows better than the Mayor how the other councillors have exulted over the two East Ward representatives in this matter.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

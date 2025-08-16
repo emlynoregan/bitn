@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the Queen’s Jubilee & complaints about the train timetable for the Jubilee Exhibition expresses.  The excursion fares were half the normal price, but applied only to the period 13 June to 20 July.  ‘This period will be extended if this arrangement proves to be a public convenience’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

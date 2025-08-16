@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Douglas Primitive Methodist Sunday School celebrated its anniversary last Sunday and Monday.  Dr J.R. Stephens preached.  The tea meeting was largely attended.  Proceeds were £11.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

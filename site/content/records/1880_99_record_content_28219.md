@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the South-Eastern Land Board and the nature of contracts between the state and private persons: asking the question is the state expected to make concessions that in other contracts would not be tolerated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

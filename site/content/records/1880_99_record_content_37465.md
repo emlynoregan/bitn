@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Mr T. Drew was given a farewell in the Wesleyan Lecture Hall last Tuesday with the Rev. R.M. Hunter presiding.  Various people addressed the gathering and an illuminated and bound address was presented from the Wesleyan Church and Sunday School.  T. Drew has been connected with the Sunday school for 25 years: 20 as a superintendent.  He was also a church trustee and circuit steward.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

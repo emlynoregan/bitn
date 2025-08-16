@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Typhoid.  Five people from one house in Kooringa are in hospital with typhoid, which is prevalent now, and not just in Burra. There have been over 2,000 cases in Melbourne since December.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Duldig’s Creamery had been forced to close due to lack of supplies because of the poor season.  The early rains in 1899 saw plentiful milk and consequently the creamery is operating again.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

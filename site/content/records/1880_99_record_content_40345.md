@@ -32,4 +32,4 @@ Concerned with C.C. Kingston’s ‘Bill for an Act to Encourage the formation o
 
 The Record replies to an attack in the Mt Barker Courier on the former’s article condemning Professor Huxley’s views on General Booth.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

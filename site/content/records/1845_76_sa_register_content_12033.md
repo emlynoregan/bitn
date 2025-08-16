@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Messrs Bath & Bosance have obtained liberty to begin operations on their lease from Mr Fisher, who could have delayed them for six months.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

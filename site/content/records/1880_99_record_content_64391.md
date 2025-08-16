@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 The Graziers Deputation to the Commissioner of Crown Lands was received on Tuesday.  He could not undertake a general reduction in rents, but would deal with each particular piece of land according to its merits.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 The Season.  This year has been excellent, but we wonder that more farmers do not produce hay.  Much of it is required and last season it had to be imported into the district, even from Kapunda and at prices as high as in Adelaide.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

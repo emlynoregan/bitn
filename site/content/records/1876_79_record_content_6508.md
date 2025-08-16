@@ -33,4 +33,4 @@ This was a case of cross actions for assault between two women living in tents a
 
 Lynch. Gully was fined 10/- + cost to a total of 44/-. The counter charge was dismissed for lack of evidence.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

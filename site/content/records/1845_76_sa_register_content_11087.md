@@ -43,4 +43,4 @@ Four poor men, who have been only a few days in the colony, and who are disabled
 
 Total relief granted for the month was £14.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

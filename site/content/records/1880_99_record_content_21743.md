@@ -32,4 +32,4 @@ Two young girls just coming from the Post Office saw something on an old well, w
 
 By now a small crowd had been roused and several young men headed off in pursuit in the direction of Redruth.  Though they could not find the offender or offenders, they did find another innocent party whom they chased and managed to bail up one or two more before getting home about 2 a.m.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

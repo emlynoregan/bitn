@@ -35,4 +35,4 @@ The Mayor reported waiting on the Treasurer re the Bon Accord crossing.  The lat
 
 Thomas Turner waited on Council and asked that a cab licence be granted to T.P. Halls who was prepared to abstain from alcohol and go into partnership with Mr Stodart.  This was granted. [Perhaps Stoddart.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

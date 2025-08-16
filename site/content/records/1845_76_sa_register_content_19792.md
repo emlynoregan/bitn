@@ -26,4 +26,4 @@ Conveyances Advertisement
 
 W. Rounsevell begs to inform that from 1 January 1867 fares will be reduced to defy the opposition and passengers are assured that neither comfort nor safety will be neglected despite the low prices.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

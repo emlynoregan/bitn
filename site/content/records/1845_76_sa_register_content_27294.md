@@ -27,4 +27,4 @@ publication_slug: sa-register
 
 SAR.  We understand that Mr Puddy, the Inspector of Permanent Way at the southern end of the Northern Railways, has been suspended.  As the case is under investigation, we refrain from giving any particulars at present.  We also learn that Mr Branford, the other Inspector of Permanent Way, has not been dismissed from the service, but only from the position he formerly held.  He is employed as a ganger on the Northern Railway.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

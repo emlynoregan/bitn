@@ -55,4 +55,4 @@ Some parties have dug nine holes without any luck.
 
 To my late companions: ‘My sincere advice to them and all others who find themselves comfortable at home, is to remain there, as gold-hunting, to 19 out of 20, is not such a mode of making a future as many suppose.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

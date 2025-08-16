@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Birth.  On 8 April, at East End Market, to the wife of William Ware, a daughter.  [Ettie May]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

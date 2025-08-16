@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 Obituary – Notice.  W.H. Hardy thanks staff of Burra Hospital and Dr Sangster on behalf of James Mann of Hallett for the care given to his late wife, who died on Sunday evening from cancer.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

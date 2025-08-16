@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Whit Monday in Kooringa was kept at a holiday in Kooringa, it being the Queen’s birthday and also a traditional holiday amongst the miners.  The Bible Christian Sunday School held its Anniversary. Sermons were preached by Rev. Keen in the morning and evening and by Rev. J.G. Wright in the afternoon.  On Monday 24th Rev. Hillman and the teachers led a procession of 158 pupils around the principal streets, attended by a band.  Afterwards they enjoyed tea, cake, fruit etc.  There was also a public tea for about 400, though half as many again would have been glad to gain admittance.  A public meeting followed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

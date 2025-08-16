@@ -36,4 +36,4 @@ Obituary & Inquest.  William Martin died at the Burra Hospital 25 March [aged 21
 
 Dr Brummitt said he saw no indication of external injury and deceased appeared to be suffering from concussion of the brain.  He had no information about the cause of the accident.  He was reported to have been unconscious for 16-17 hours.  Adjourned.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 St Mary’s Sunday School Festival was held at the Police Paddock on 9 November. A tent was lent by the Wesleyans.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

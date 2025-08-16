@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 William Dale, a rabbiter, fell off the train near Cockburn and was brought to Burra Hospital suffering compression of the brain.  An operation of trepanning was performed, but little hope is held for his recovery.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Weather.  On Friday there was lightning and a severe dust storm with gale force winds.  Roofs were torn from several outhouses and some paling fences flattened.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

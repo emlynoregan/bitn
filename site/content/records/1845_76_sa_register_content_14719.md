@@ -34,4 +34,4 @@ Despite the number of drays laden with hay and firewood in the town, the hard wo
 
 The weather has been cold, wet and disagreeable, but scarcely any rain has fallen to the east.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Douglas: This township of in the H. of Baldina has been surveyed and named and sale of allotments will take place at the Lands Office in Adelaide on 28 June 1877.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

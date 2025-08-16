@@ -26,4 +26,4 @@ publication_slug: northern-argus
 
 Advt.  Elders Pastoral will auction 24 Queen Street, Burra, on 8 May at 2 p.m. under instructions from SA Teacher Housing Authority.  Allotment 4 of the subdivision of allotment 32, on which is erected an asbestos and timber framed three bedroom house with lounge, kitchen, bathroom etc.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

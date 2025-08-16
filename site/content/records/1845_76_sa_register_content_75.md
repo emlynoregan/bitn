@@ -29,4 +29,4 @@ Discovery of Cooper Ore in the North
 Mineral riches showing on the surface for an extent of several miles are reported and have excited the minds of sober-minded citizens.  The location of this discovery is said to be north of Adelaide between the South land of the Murray and Mt Bryant [sic: for Mt Bryan.]  This mass of mineral will doubtless attract the attention and capital of our countrymen and increase our population and also the value of this settlement.  An increase in exports would ensure more frequent shipping arrivals, as no ship would have to fear delays in obtaining a cargo.  Such an increase in population and inflow of capital is greatly to be desired.  The mine workers would need feeding, clothing and lodgings, to say nothing of luxuries.
 
 
-Source: [1845-76 SA Register.doc](/downloads/markdown/1845-76 SA Register.doc)
+Source publication: [The South Australian Register](/publications/sa-register/)

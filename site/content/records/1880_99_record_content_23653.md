@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Entertainment.  The Hallett Institute Sports meeting has been postponed from 1 November due to the gold rush.  It will now be held in the Christmas holiday period.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 There are several cases of typhoid in Kooringa at present.  The disease appeared about six weeks ago and there have been two deaths.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 A motion asking the Commissioners of Railways to reduce the charges was passed.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

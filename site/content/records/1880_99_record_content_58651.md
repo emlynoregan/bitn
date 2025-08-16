@@ -44,4 +44,4 @@ Cr Harris was subjected to cries of ‘That Wood’ from the floor: indeed he is
 
 Cr Sampson had a minor altercation with one questioner, but escaped uninjured and the meeting dispersed about 9 o’clock.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 With reference to the Bon Accord railway crossing he could get no definite reply as the Chairman of Commissioners was not in.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

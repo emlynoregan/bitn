@@ -30,4 +30,4 @@ publication_slug: record-1880-99
 
 A Bolt.  Mrs Quinn of World’s End was visiting friends on Limestone Hill on Saturday when her horse bolted.  It ran down the hill and up Queen St where it was captured by Mr J. O’Leary and Mr Prowse.  On Mrs Queen getting into the cart to drive off again the horse reared and she was thrown between the shafts and the cart.  Fortunately the horse broke the shafts and got free, releasing the lady.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

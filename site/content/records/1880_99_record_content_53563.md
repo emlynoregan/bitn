@@ -27,4 +27,4 @@ Mr Patrick:
 
 In 1883 the population was 304,000 and now it was 340,000 and should have been 370, 000 but for out migration.  In the same time the area under cultivation had fallen from 2.7 million acres to 2.6 million.  Mineral production has also been falling and debt per capita has risen.  He was a free trader and in favour of retrenchment, starting at the top.  He opposed a wealth tax or a property tax and favoured a state bank.  He was against progressive land tax and for reduced customs duties.  He opposed land grant railways.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

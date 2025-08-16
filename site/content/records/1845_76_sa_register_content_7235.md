@@ -29,4 +29,4 @@ A petition has been presented to the Legislative Council from the Burra Burra Di
 
 [The text of the petition appears on the same page in the report on proceedings in the Legislative Council.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

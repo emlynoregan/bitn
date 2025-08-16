@@ -29,4 +29,4 @@ Advertisement.  Burra Burra Mines.  Wanted one or two good engineers and engine 
 
 Henry Ayers, Secretary, Adelaide, 9 March 1852.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

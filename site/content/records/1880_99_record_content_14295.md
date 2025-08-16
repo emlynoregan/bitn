@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the New Industries worthy of attention in SA, urging the importance of a diversification in the sources of national income.  Manufacturers are needed and in the mean time at least bacon, pork, eggs, butter, and cheese as well as mutton and beef could be added or increased.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Advt.  World’s End Wesleyan Church.  The Memorial Stone is to be laid by Mrs T. Drew at 4 p.m. on Wednesday 10 April with tea to follow.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

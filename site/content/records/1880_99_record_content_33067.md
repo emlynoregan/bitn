@@ -29,4 +29,4 @@ publication_slug: record-1880-99
 
 Miss Birkett, formerly matron of the Burra Hospital, some time ago went to the Northern Territory and has now been written of in the Northern Territory Times when Ah Lie, who was attacked by an alligator [sic] and required hospital treatment for some months, thanks her and Dr Wood for their attention.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1876-79
 
 Letter to Editor complaining of the high meat prices in Burra. He includes advertisements from Adelaide with their prices to prove his point. Prices here, he says, are 4d, 6d, & 7d [per lb] that in Adelaide would be 2d to 3/2d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

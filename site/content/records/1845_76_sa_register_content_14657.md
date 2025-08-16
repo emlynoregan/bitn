@@ -36,4 +36,4 @@ The town has recently been visited by thieves who have entered houses of several
 
 The Redruth Bridge is now drawing towards completion.  This is not before time, as the Company has again dammed the creek and recent rains have thus made the ford all but impassable.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

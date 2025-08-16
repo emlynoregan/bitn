@@ -28,4 +28,4 @@ publication_slug: record-1880-99
 
 Editorial on troubles with labour on the SAR.  John H. Smith, Chairman of the Railway Commissioners has been effecting changes, which reduce wages.  In Pt Pirie there have been demonstrations and he has been burnt in effigy.  A meeting recently at Port Adelaide indicated that strikes are imminent and on Thursday Mr Smith was hanged in effigy.  He has reduced wages to 5/- a day.  The editorial is strongly on the side of the workers.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 ‘One Who Wants to Know’ writes questioning the power of the Central Board of Health to appoint or to cause to be appointed, a Medical Officer foe Burra, and suggesting that all that is needed could be done by the Inspector.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 At Hospital Sunday next Sunday at St Mary’s the Ven. Archdeacon French of Petersburg will preach.  Members of the Corporation and other bodies will be present and proceeds will aid the Samaritan Fund.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

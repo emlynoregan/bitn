@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader is a waffly extravagant construction decrying the lack of fanfare and any public demonstration to greet the arrival of the town water supply and concluding with the observation that ‘Our title for Dr Brummitt is “Aquarius the Waterman”’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

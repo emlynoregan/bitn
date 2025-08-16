@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 [Note the mistake in numbering: the sequence went from 1099 to 200.  Apparently the 0 in 1099 was overlooked.  If subsequently noticed it was not corrected, but on the microfilm version there is a handwritten 1 in front of the number to make it 1200.  This handwritten change continued to 1207 and then ceased.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -28,4 +28,4 @@ publication_slug: sa-register
 
 Mr M.H. Furniss was presented with an illuminated parchment at a meeting at Banks’ Hotel in Kooringa in recognition of his conduct over the last 15 years.  Mr Furniss has long been employed by the SAMA as accountant at the Mine and while not active in public life, has in a quiet manner done much to further the interests of the townspeople as well as those of the company.  He is leaving the district to reside in Adelaide.  Some 40-50 friends attended the gathering, which was chaired by Mr W.H. Rosman.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

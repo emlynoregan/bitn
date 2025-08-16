@@ -25,4 +25,4 @@ publication_slug: northern-argus
 
 Marriage.  Bronwyn Steele will marry Thomas Williams this Saturday.  They will live at Gum Creek.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

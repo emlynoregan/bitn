@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Christian Revival.  On Whitsunday a special series of services at Kooringa Wesleyan Church were held to encourage young people to commit to Christ.  Careful preparation had been made with prayer meetings each evening.  There was a prayer meeting on Sunday at 7.30 a.m.  The morning service was followed in the afternoon by a Sunday school meeting at 3.15 p.m. where a calm gathering resulted in 18 boys and 20 girls giving their names as having received Christ or were resolved to seek him.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -22,4 +22,4 @@ publication_slug: sa-register
 
 The North mail capsized a week ago soon after leaving the Post Office.  No one was hurt.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

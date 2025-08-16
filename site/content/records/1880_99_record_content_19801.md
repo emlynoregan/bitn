@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Incident at Dawson.  On Wednesday P.J. Carmody and another man were working on the gable of the Roman Catholic Church at Dawson, about 40’ up, when a thunderstorm dropped two bolts of lightning nearby.  Carmody thought they had better descend and they had barely done so when lightning destroyed about 4’ of the gable where they had been.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

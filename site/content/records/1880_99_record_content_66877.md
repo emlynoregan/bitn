@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Friendly Societies’ Parade service last Sunday at St Mary’s was crowded.  The offertory to the hospital was £4-12-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

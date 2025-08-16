@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 The Salvation Army Social on 10 June will be associated with a public meeting chaired by Rev. W.A. Langsford (Wesleyan) and Rev. T.M. Flood will also attend.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

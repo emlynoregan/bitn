@@ -32,4 +32,4 @@ Wednesday 8 November.  A shocking accident occurred last night.  A ballast train
 
 [Note that this account is nothing like that given at the inquest, see XV, 272, 29 Nov. 1893, page 3, where it is said the train was coming from the station to the quarry and the impact occurred on the bridge over the Burra Creek.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

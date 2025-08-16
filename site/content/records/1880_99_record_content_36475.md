@@ -36,4 +36,4 @@ The footbridge in Bridge St is to be repaired.
 
 About 300 ft of timber is required to repair the Waterworks well, but it is to stand over till the Commissioner can be interviewed about the reduction of the capital account when the condition of the well will be raised and a plea put in for the necessary repairs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

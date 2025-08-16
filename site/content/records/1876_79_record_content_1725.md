@@ -30,4 +30,4 @@ publication_slug: record-1876-79
 
 This turned out to be possible and SAMA directors agreed to take back the old Aberdeen site and grant freehold to the Burra Hotel site. Value of the new property was estimated at £2,547/15/9. The conveyance of the property to the town corporation is daily expected. The new hospital is free of the noise of the mine stamps and of the flour mill as well as the dust of the main road and is nearer the residences of the local doctors. Occupation should be possible by 20 Jan. 1877
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

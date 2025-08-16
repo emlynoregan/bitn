@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Kooringa Court.  People at Kooringa complain with good reason that the authorities have failed to erect or even to rent a suitable building for the dispensing of justice.  The hovel now designated the Court-House is contemptible in appearance and so small that parties attending on business, except those actually being examined, have to stand outside, whether in hot or rainy weather.  There are also not three magistrates within the requisite distance to constitute a Local Court of full jurisdiction and for that it is necessary to travel to Clare Village for the adjudication of all suits for amounts exceeding £5.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

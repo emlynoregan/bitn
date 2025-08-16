@@ -51,4 +51,4 @@ The chairman declared Harvey’s amendment carried by a majority of six.
 
 Captain Killicoat defended the DC against Mr Ridgway’s remarks.  The latter had contended that the DC spent very little in Redruth Ward, but a large sum had been spent.  Roads had been made.  He would like to see Mr Ridgway do half as much for the same amount.  He had come to fill the chair, but had he known the sort of remarks Mr Ridgway had made were to be presented, he would not have attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

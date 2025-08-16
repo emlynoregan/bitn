@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Butcher: His rider, though clumsy and decidedly unpopular, is doing all he can to land him first past the judges post.  ‘If Butcher should happen to win it will be through the bad judgement of the other riders.’  Since winning the North Ward Stakes two years ago ‘he has not done any harm, neither has he done any good.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

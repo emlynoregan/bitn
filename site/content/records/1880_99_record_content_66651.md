@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 F.W. Holder has announced that SA has come out with a financial surplus of £32,000 after a deficit last year of £28,000.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

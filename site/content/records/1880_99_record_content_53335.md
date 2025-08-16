@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Sale at Sod Hut.  There was a sale in the assigned estate of J. Fradd.  220 sheep and 9 cattle and the usual farm equipment was offered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

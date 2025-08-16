@@ -23,4 +23,4 @@ publication_slug: record-1880-99
 
 Depression.  A letter to the editor complains that butchers as a group have withdrawn credit from the poor so now instead of all the shopkeepers getting paid a bit off their bills, just the butchers get paid!
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -39,4 +39,4 @@ All necessary tools and implements to be found by the tenant.
 
 Henry Ayers, Secretary, 1 May 1851.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

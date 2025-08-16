@@ -43,4 +43,4 @@ Charles Drew, storekeeper.  Was returning from Black Springs at c. 3.45 a.m. Tue
 
 Henry Drake.  Saw the flames coming out of the building in one sheet.  Gave the alarm and ran to the Bank.  I also called Mr Chappell, Mr Dyer and the policeman.  Then went up the street giving the alarm as far as Mr Robert’s.  On returning I went up the hill by which time the roof was a mass of flames.  Went to the Bank and helped carry water upstairs.  Saw no sign of the fire until I was getting out of the cart about 100 yards away.  About 20 persons were present on my return.  The wind was blowing towards the creek and Dr Maurau’s.  The flame was six feet above the skylight.  The powder exploded while I was coming back – perhaps six minutes after I saw the fire.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

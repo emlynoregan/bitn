@@ -24,4 +24,4 @@ publication_slug: record-1876-79
 
 The assessment for rates for the Mine has been reduced by £50-1Q-0 as it is no longer working.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

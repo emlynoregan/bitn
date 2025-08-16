@@ -31,4 +31,4 @@ publication_slug: record-1880-99
 
 Robbery.  Anok Sangh, an Afghan hawker, was lured into a house in Thames St by two women and was lulled into displaying his goods and having a drink.  Having got him merry Claude Henry Jordan and Alfred De Vul St Clair attacked him and stole £2-14-0 before bundling him outside.  The victim rushed back, seized the smaller man, and summoned the police.  The house was in a frightful state.  The beds were old stable straw and the stench dreadful.  The women and men were from Victoria and were headed north, only being in Burra briefly.  Mr West, manager of the Burra Mine property promptly ordered them off the premises.  In court the men were sentenced to two months in Redruth Gaol.  After getting drunk at Redruth the women were held overnight and fined the next morning.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -32,4 +32,4 @@ publication_slug: sa-register
 
 Why does the Northern Railway carry goods for the Burra Company as far as Section 112 when it will not take other freights?  There is much produce that has to go from here to Adelaide, but on account of high freight charges and the scarcity of cattle, the settlers are unable to get it to Gawler.  If the railways can take copper and coals from section 112, it ought to take other goods.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

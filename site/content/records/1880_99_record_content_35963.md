@@ -25,4 +25,4 @@ publication_slug: record-1880-99
 
 Editorial on the Opposition policy as outlined by Hon. T. Playford.  Most of his speech was taken up with criticism of the past acts of the Government.  He had little to say about his own policies.  The editor then quotes the Sydney Star in support of the Government.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

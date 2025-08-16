@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 Agriculture.  Kooringa area.  If the weather remains dry reaping will begin next week.  Prospects are good for an abundant harvest.  The grain is plump and free from disease.  Locusts have done no material damage.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

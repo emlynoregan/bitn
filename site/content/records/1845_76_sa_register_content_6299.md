@@ -26,4 +26,4 @@ publication_slug: sa-register
 
 Advertisement.  [An advertisement was inserted by the committee to see G.S. Kingston elected.  Their names are listed and they say a member of the committee will wait on you as an elector and they hope you will remain unpledged to another candidate until they have spoken to you.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

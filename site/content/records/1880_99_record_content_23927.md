@@ -27,4 +27,4 @@ publication_slug: record-1880-99
 
 Advt.  Messrs Halls & Bromley, Cabs.  Fares from any street to the railway station or to Aberdeen or Redruth, 6d.  Fares from stand to stand are 3d.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

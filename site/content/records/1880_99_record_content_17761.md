@@ -35,4 +35,4 @@ Burra Co. RVF.  Wednesday.  1st Company meeting with Captain Bleechmore of Terow
 
 Officer resolved that Mr F.W. Holder be appointed to the position.  There being no other nominations, Holder was elected unanimously.  J. O’Connell was appointed Sergeant and W. Anderson and G. Butterworth corporals.  After compliments and thanks had been exchanged the next drill was appointed for Monday.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

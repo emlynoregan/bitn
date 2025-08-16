@@ -30,4 +30,4 @@ The Light River Bridge
 
 We learn that the new bridge over the River Light on the Roseworthy-Redruth Railway has been placed on the Thomas Blyth, which was loading at Newport on 9 September and was expected to sail around the end of the month.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

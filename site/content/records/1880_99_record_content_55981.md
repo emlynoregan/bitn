@@ -22,4 +22,4 @@ publication_slug: record-1880-99
 
 Polo is growing in popularity and a good crowd watched last Saturday’s practice.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

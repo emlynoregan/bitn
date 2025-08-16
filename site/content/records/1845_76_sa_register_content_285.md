@@ -63,4 +63,4 @@ The Directors should lose no time in laying out a town and administering to the 
 
 The quality of the ore may be inspected at Mr Stocks’s stores.  The shareholders of the Mining Assoc. have good reason to congratulate themselves on their prospects of success.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

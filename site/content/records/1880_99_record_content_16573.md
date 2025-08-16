@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Davieston.  The special effort here was very largely attended.  On Sunday Rev. S. Knight preached two powerful sermons and on Wednesday the tea meeting was such that not half those present could get into the building.  Special thanks are due to T. Drew who paid the railway fare for the choir.  The circuit fund was £20 short and the proceeds of the effort were £20-14-6.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

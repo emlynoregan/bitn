@@ -24,4 +24,4 @@ publication_slug: sa-register
 
 [Obituary.  James Killick died 7 June 1869 Kooringa aged 42.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

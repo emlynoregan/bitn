@@ -32,4 +32,4 @@ publication_slug: record-1880-99
 
 [It seems unlikely that the writer would indeed have been so ignorant and while Hardy later denies having carried a hod, the thrust may well be a disguised shot at his past as a chimneysweep.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

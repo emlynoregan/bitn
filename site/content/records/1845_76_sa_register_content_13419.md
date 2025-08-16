@@ -56,4 +56,4 @@ Mr S. James proposed and Mr Evans seconded that a 1/- subscription be establishe
 
 Other motions were passed enabling the above to be implemented.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

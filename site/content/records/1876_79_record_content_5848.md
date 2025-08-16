@@ -25,4 +25,4 @@ publication_slug: record-1876-79
 
 Obituary. Mrs McInnes of Copperhouse died on Monday last. An inquest found death by natural causes: heart disease.  [Mary McInnes died 3 February 1879 near Copperhouse, residence Copperhouse aged 65.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

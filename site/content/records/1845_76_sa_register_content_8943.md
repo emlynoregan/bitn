@@ -37,4 +37,4 @@ These sales will throw a considerable amount of land onto the market, more or le
 
 The Echunga gold diggings are still being worked by a few diggers, who find their labour pays.  No second goldfield has been discovered.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

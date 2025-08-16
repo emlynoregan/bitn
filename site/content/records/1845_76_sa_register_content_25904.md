@@ -55,4 +55,4 @@ Georgetown is a thriving place with a lot of new building.  There may be 150 hou
 
 [Continued 1 October.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Racing Club reports a profit of c. £40 on the last meeting and has about 60 members.  Had the totalizator been working it is thought the profit could have been £40 more.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

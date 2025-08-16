@@ -41,4 +41,4 @@ publication_slug: sa-register
 
 A New Oddfellows’ Lodge was opened at Bro. Lamb’s Aberdeen Hotel, Aberdeen on Thursday 9 September.  The officers of the Adelaide District assisted by brethren of the Burra Lodge walked in procession with the Kooringa Band, from their lodge room to the new lodge room, where the new lodge was constituted and opened.  At 7 p.m. more than 100 of the brethren sat down to a sumptuous dinner prepared by Brother Lamb.  Bro. T.W. Powell occupied the chair.  [The toasts are reported and in the process the following brethren are named: Wells, John Kent, James Prongley, Forder, J. Genders, H. Genders, B. Opie, Gibbs and Ryan.]
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

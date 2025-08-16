@@ -26,4 +26,4 @@ Public Meeting at Redruth
 
 A public meeting was held at Redruth last Monday evening for the purpose of petitioning the Government to erect a bridge across the creek.  A private subscription list was also started for the erection of a footbridge there and some £10-£12 was promised.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

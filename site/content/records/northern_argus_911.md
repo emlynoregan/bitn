@@ -49,4 +49,4 @@ The Council appointed a management board to manage these grants and arranged for
 
 Since being in operation, the board has paid all loan repayments, amounting to over $65,000 and capital expenditure $42,000, in addition to the maintenance and operating costs.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 Midland Road Board responds to the request from the Burra Corp. to spend money on the Eastern Road by empowering the superintending surveyor to spend up to £300.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

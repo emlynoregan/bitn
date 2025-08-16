@@ -34,4 +34,4 @@ publication_slug: record-1880-99
 
 Editorial on fears that while SA squabbles over whether the deep port should be at Pt Pirie or Pt Germein, or whether the railway should be extended from Wallaroo via Snowtown to Crystal Brook to use the Wallaroo smelters etc. etc. Sydney or Melbourne could step in and appropriate the Barrier trade.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

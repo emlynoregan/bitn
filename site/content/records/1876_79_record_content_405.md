@@ -27,4 +27,4 @@ publication_slug: record-1876-79
 
 The clearing of Roach’s Shaft below the 60 continues, but because we have to haul water, mud and stuff 80 fathoms with a windlass and wheel, to Peacock’s, we are not making the progress we could wish.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1876–79](/publications/record-1876-79/)

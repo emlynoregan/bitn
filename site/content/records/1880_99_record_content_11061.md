@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Advt.  Liston, Shakes 7 Co. offer 33,929 sheep on 2 November.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 Burra Literary Society met last Friday and discussed the Chinese question.  The result was in favour of some restriction of Chinese immigration.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

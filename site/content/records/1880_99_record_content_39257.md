@@ -24,4 +24,4 @@ publication_slug: record-1880-99
 
 2nd Leader on the Watercourse issue.  It was important to get a legal decision for the precedence set.  There are other watercourses in the corporation area which if the Corporation had lost the right of would have led later to costs associated with their diversion.  It is a pity the defendants did not act with less stubbornness.  We object to the action of the minority of Councillors trying to counter the decision of the majority in such a case.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

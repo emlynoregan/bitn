@@ -49,4 +49,4 @@ The Kooringa Primitive Methodist Sunday School held its special anniversary serv
 
 There seems little bustle in preparations for Christmas this year.  Indeed the weather has been so unlike the characteristics of even an Australian Christmas that we cannot realise the season is upon us.  ‘In fact, it don’t seem like Christmas at all.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -35,4 +35,4 @@ J. Jenkin’s tender for a culvert at the junction of Ayers and George Sts was a
 
 The United Friendly Societies’ Sports Committee wanted £60 spent on improvements to Victoria Park. The Council voted to spend £10 if the UFSSC spend £10.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

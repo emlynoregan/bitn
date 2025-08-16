@@ -68,4 +68,4 @@ The first five were elected.
 
 Other Directors are: J.B. Graham, W. Peacock, S. Stocks Jnr & C. Beck (Chairman).
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

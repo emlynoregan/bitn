@@ -25,4 +25,4 @@ publication_slug: sa-register
 The Kooringa Court has been very quiet, though Thomas Viant was fined £5 for drunkenness, the heavy fine reflecting his third offence.
 
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

@@ -28,4 +28,4 @@ Burra Burra DC.  The new District Clerk is Rod Walsh [Photo.]
 
 He comes from Penneshaw where he was District Clerk-CEO.  He comes with his wife Lynne and three children aged 4, 2 and a few months.  Rod is a water skier and represented SA in the South Pacific Zone of the Australian Titles 1978-75 [sic].  He also plays golf, tennis and squash.  He has been associated with Apex.  He begins work at Burra 16 January.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The Northern Argus](/publications/northern-argus/)

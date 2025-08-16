@@ -29,4 +29,4 @@ Lionel W. Stanton writes from the Parsonage, Redruth, 8 September concerning the
 
 I wish to inform those who have responded to the call to aid Owers that it now seems that he will recover a little of his sight – sufficient to distinguish objects and so move about independently.  This is a matter for rejoicing, though it does not diminish much the severity of the calamity or reduce his need for assistance ‘especially as contributions do not, at present, overwhelm us as a torrent’.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

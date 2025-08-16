@@ -47,4 +47,4 @@ William Geake - grocer.  Heard of the fire about 2.30 a.m. when it had just reac
 
 The coroner made a long summing up and the jury had a lengthy consultation before deciding there was not sufficient evidence to show how the fire originated.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

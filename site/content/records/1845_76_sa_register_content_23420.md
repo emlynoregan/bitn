@@ -25,4 +25,4 @@ publication_slug: sa-register
 
 Burra Mine.  Mr W.H. Challoner remains the chief local representative of the SA Mining Association.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

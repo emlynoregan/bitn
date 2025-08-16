@@ -35,4 +35,4 @@ Divine worship has been instituted here and appeals are being made to erect a su
 
 Reports also speak of an attempt to re-open one of the abandoned mines in this locality, which would give an impetus to trade and an increase of population.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

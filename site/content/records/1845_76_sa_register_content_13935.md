@@ -36,4 +36,4 @@ Some patriotic gentlemen in the district are attempting to establish a rifle cor
 
 During the week the various denominations here have held daily and nightly prayer meetings in accordance with the suggestion of the Evangelical Alliance.  They have been pretty well attended.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

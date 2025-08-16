@@ -26,4 +26,4 @@ publication_slug: record-1880-99
 
 Billiards.  At the Burra Hotel on Saturday J. Chorlton gave Thomas Halls 40 points in 100 for a £1 a side billiard match.  Halls won by 9 points.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

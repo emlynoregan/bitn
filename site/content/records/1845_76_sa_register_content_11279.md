@@ -24,4 +24,4 @@ Jiber, a misprint for jibber
 
 A horse or other animal in harness that stops and refuses to go on or that moves restively backwards or sideways instead of going on.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

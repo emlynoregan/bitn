@@ -27,4 +27,4 @@ Editorial on the Chinese question.  Six months ago it was simply proposed across
 
 ‘A resolute and united front must be presented and England will secure for us the protection we need.’
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [Burra in the News Record 1880–99](/publications/record-1880-99/)

@@ -39,4 +39,4 @@ Major Nelson is in the Burra Hotel with a severe bilious attack.  He came up to 
 
 Two or three miners have left Burra to try their luck at the Echunga diggings as they heard that some new lead of gold has been struck there.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

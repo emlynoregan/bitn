@@ -35,4 +35,4 @@ The attendance of students has, as usual, been affected by their absence to take
 
 There is also a problem of the lack of teaching materials, long ordered from England, but not yet arrived.  The lack of school furniture is another problem.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)

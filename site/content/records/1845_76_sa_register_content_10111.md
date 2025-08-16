@@ -30,4 +30,4 @@ Burra Burra Mine
 
 Operations continue with great vigour.  About 1,000 tons of ore are being raised every month.   There is about 12,000 tons on the surface awaiting the coming season when it will be smelted and carted to the port for shipment.
 
-Source: [1985-87_Northern__Argus.md](/downloads/markdown/1985-87_Northern__Argus.md)
+Source publication: [The South Australian Register](/publications/sa-register/)
