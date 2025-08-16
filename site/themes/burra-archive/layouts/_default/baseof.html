@@ -26,10 +26,14 @@
     <!-- CSS -->
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     
-    <!-- Fonts -->
+    <!-- Fonts (async load to avoid blocking first paint) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap">
+    </noscript>
     
     <!-- Prefetch search assets -->
     <link rel="prefetch" href="{{ "js/lunr.min.js" | absURL }}" as="script">
@@ -78,6 +82,10 @@
             // Set base URL for JavaScript
             window.HUGO_BASE_URL = "{{ .Site.BaseURL }}";
         </script>
+        <!-- Prefetch search data opportunistically -->
+        <link rel="prefetch" href="{{ "js/search-data.json" | absURL }}" as="fetch" crossorigin>
+        <!-- Bootstrap worker as early as possible, then page-specific logic will hook into it -->
+        <script src="{{ "js/search-bootstrap.js" | absURL }}" defer></script>
         <script src="{{ "js/lunr.min.js" | absURL }}"></script>
         <script src="{{ "js/search.js" | absURL }}"></script>
     {{ end }}

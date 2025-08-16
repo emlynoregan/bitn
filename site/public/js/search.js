@@ -5,7 +5,8 @@
 
 class ArchiveSearch {
     constructor() {
-        this.index = null;
+        this.index = null; // unused when worker is present
+        this.worker = window.BITN_SEARCH_WORKER || null;
         this.documents = [];
         this.searchInput = null;
         this.searchResults = null;
@@ -58,27 +59,31 @@ class ArchiveSearch {
         if (!this.searchInput) return;
         
         try {
-            // If index not yet built, load data and build once
-            // If first-time init, show loading indicator until ready
-            const needsInit = !this.index || this.documents.length === 0;
-            if (needsInit && loadingEl) {
-                loadingEl.style.display = '';
-            }
+            const showReady = () => {
+                if (loadingEl) loadingEl.style.display = 'none';
+                if (searchUiEl) searchUiEl.style.display = '';
+                this.isInitialized = true;
+            };
+            const showLoading = () => {
+                if (loadingEl) loadingEl.style.display = '';
+                if (searchUiEl) searchUiEl.style.display = 'none';
+            };
 
-            if (!this.index || this.documents.length === 0) {
-                await this.loadSearchData();
-                this.buildIndex();
+            if (window.BITN_SEARCH_READY) {
+                this.worker = window.BITN_SEARCH_WORKER || null;
+                showReady();
+            } else {
+                showLoading();
+                window.addEventListener('bitn-search-ready', () => {
+                    this.worker = window.BITN_SEARCH_WORKER || null;
+                    showReady();
+                }, { once: true });
             }
-
-            // Hide loading, show search UI (if present in header)
-            if (loadingEl) loadingEl.style.display = 'none';
-            if (searchUiEl) searchUiEl.style.display = '';
             
             // Setup event listeners
             this.setupEventListeners();
             
-            this.isInitialized = true;
-            console.log('Archive search initialized successfully');
+            console.log('Archive search initialized (UI wired)');
             
             // If we're on the dedicated search page and have a query, run it immediately
             if (pageResultsEl) {
@@ -236,23 +241,25 @@ class ArchiveSearch {
             // Defer heavy work to allow searching indicator to render
             setTimeout(() => {
                 try {
-                    const results = this.index.search(trimmedQuery);
-                    console.log('[search] results', results.length);
-                    const searchResults = results.map(result => {
-                        const doc = this.documents.find(d => d.url === result.ref);
-                        return {
-                            ...doc,
-                            score: result.score
-                        };
-                    }).slice(0, 50);
-                    if (pageSearchingEl) { pageSearchingEl.style.display = 'none'; console.log('[search] hiding searching'); }
-                    const pageContainer = document.getElementById('search-page-results');
-                    if (pageContainer) {
-                        this.renderPageResults(pageContainer, searchResults, trimmedQuery);
-                        document.body.classList.add('search-has-results');
-                    } else {
-                        this.displayResults(searchResults, trimmedQuery);
-                    }
+                    const worker = window.BITN_SEARCH_WORKER;
+                    if (!worker) throw new Error('Worker not initialized');
+                    const onMsg = (e) => {
+                        const msg = e.data || {};
+                        if (msg.type === 'search-result' && msg.q === trimmedQuery) {
+                            worker.removeEventListener('message', onMsg);
+                            const searchResults = msg.results || [];
+                            if (pageSearchingEl) { pageSearchingEl.style.display = 'none'; console.log('[search] hiding searching'); }
+                            const pageContainer = document.getElementById('search-page-results');
+                            if (pageContainer) {
+                                this.renderPageResults(pageContainer, searchResults, trimmedQuery);
+                                document.body.classList.add('search-has-results');
+                            } else {
+                                this.displayResults(searchResults, trimmedQuery);
+                            }
+                        }
+                    };
+                    worker.addEventListener('message', onMsg);
+                    worker.postMessage({ type: 'search', q: trimmedQuery });
                 } catch (innerErr) {
                     console.error('[search] Search failed (inner):', innerErr);
                 }
