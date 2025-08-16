@@ -10,6 +10,7 @@ class ArchiveSearch {
         this.searchInput = null;
         this.searchResults = null;
         this.isInitialized = false;
+        // status helpers no timers; render via innerHTML
         
         this.init();
     }
@@ -42,7 +43,7 @@ class ArchiveSearch {
         const searchUiEl = document.getElementById('search-ui');
         const pageResultsEl = document.getElementById('search-page-results');
         const pageIntroEl = document.getElementById('search-intro');
-        const pageStatusEl = document.getElementById('search-status');
+        const pageStatusEl = null;
         const mainContainer = document.getElementById('swup');
         const pageInput = mainContainer ? mainContainer.querySelector('#search-input') : null;
         console.log('[search] setupSearch elements', {
@@ -92,20 +93,20 @@ class ArchiveSearch {
                             console.log('[search] triggering performSearch from setupSearch attempt', attempt, 'q', q);
                             // Hide intro when we have a query
                             if (pageIntroEl) pageIntroEl.style.display = 'none';
-                            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
+                            // no status element now
                             this.performSearch(q);
-                            if (pageStatusEl) pageStatusEl.style.display = 'none';
                         } else if (attempt < 10) {
                             setTimeout(() => tryRun(attempt + 1), 50);
                         }
                     };
                     tryRun();
                 } else {
-                    // No query → reset to intro state and paint intro into results area
-                    if (pageIntroEl) pageIntroEl.style.display = '';
-                    if (pageStatusEl) pageStatusEl.style.display = 'none';
-                    if (pageResultsEl) this.renderIntro(pageResultsEl);
+                    // No query → reset to intro state (single intro only)
                     document.body.classList.remove('search-has-results');
+                    if (pageIntroEl) pageIntroEl.style.display = 'block';
+                    // no status element now
+                    if (pageResultsEl) pageResultsEl.innerHTML = '';
+                    console.log('[search] no query: showing intro', { hasIntro: !!pageIntroEl });
                 }
             }
             
@@ -172,9 +173,8 @@ class ArchiveSearch {
                     window.history.pushState({}, '', url);
                 } catch (_) {}
                 const pageIntroEl = document.getElementById('search-intro');
-                const pageStatusEl = document.getElementById('search-status');
                 if (pageIntroEl) pageIntroEl.style.display = 'none';
-                if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; }
+                // no status element now
                 this.performSearch(query);
                 return;
             }
@@ -212,7 +212,7 @@ class ArchiveSearch {
         }, 300);
     }
     
-    performSearch(query) {
+    async performSearch(query) {
         if (!this.isInitialized) {
             return;
         }
@@ -228,41 +228,42 @@ class ArchiveSearch {
         
         try {
             // Show status on search page and hide intro if present
-            const pageStatusEl = document.getElementById('search-status');
             const pageIntroEl = document.getElementById('search-intro');
-            console.log('[search] performSearch show status?', { hasStatus: !!pageStatusEl, hasIntro: !!pageIntroEl });
             if (pageIntroEl) { pageIntroEl.style.display = 'none'; console.log('[search] hid intro'); }
-            if (pageStatusEl) { pageStatusEl.textContent = 'Searching…'; pageStatusEl.style.display = ''; console.log('[search] show status text=Searching…'); }
-            // Perform search
-            const results = this.index.search(trimmedQuery);
-            console.log('[search] results', results.length);
-            
-            // Get full document data for results
-            const searchResults = results.map(result => {
-                const doc = this.documents.find(d => d.url === result.ref);
-                return {
-                    ...doc,
-                    score: result.score
-                };
-            }).slice(0, 50);
+            const pageSearchingEl = document.getElementById('searching');
+            if (pageSearchingEl) { pageSearchingEl.style.display = 'block'; console.log('[search] showing searching'); }
 
-            const pageContainer = document.getElementById('search-page-results');
-            if (pageContainer) {
-                this.renderPageResults(pageContainer, searchResults, trimmedQuery);
-                if (pageStatusEl) { pageStatusEl.style.display = 'none'; console.log('[search] hide status after render'); }
-                document.body.classList.add('search-has-results');
-            } else {
-                // Fallback: dropdown (legacy behavior if needed)
-                this.displayResults(searchResults, trimmedQuery);
-            }
-            
+            // Defer heavy work to allow searching indicator to render
+            setTimeout(() => {
+                try {
+                    const results = this.index.search(trimmedQuery);
+                    console.log('[search] results', results.length);
+                    const searchResults = results.map(result => {
+                        const doc = this.documents.find(d => d.url === result.ref);
+                        return {
+                            ...doc,
+                            score: result.score
+                        };
+                    }).slice(0, 50);
+                    if (pageSearchingEl) { pageSearchingEl.style.display = 'none'; console.log('[search] hiding searching'); }
+                    const pageContainer = document.getElementById('search-page-results');
+                    if (pageContainer) {
+                        this.renderPageResults(pageContainer, searchResults, trimmedQuery);
+                        document.body.classList.add('search-has-results');
+                    } else {
+                        this.displayResults(searchResults, trimmedQuery);
+                    }
+                } catch (innerErr) {
+                    console.error('[search] Search failed (inner):', innerErr);
+                }
+            }, 0);
+
         } catch (error) {
             console.error('[search] Search failed:', error);
             const pageContainer = document.getElementById('search-page-results');
-            const pageStatusEl = document.getElementById('search-status');
             const pageIntroEl = document.getElementById('search-intro');
             if (pageIntroEl) { pageIntroEl.style.display = 'none'; console.log('[search] renderPageResults hid intro'); }
-            if (pageStatusEl) { pageStatusEl.style.display = 'none'; console.log('[search] renderPageResults hide status'); }
+            // no status element now
             if (pageContainer) {
                 pageContainer.innerHTML = '<p class="text-red-600">Search failed. Please try again.</p>';
             } else {
@@ -402,13 +403,11 @@ class ArchiveSearch {
             selectedItem.click();
         }
     }
-    
+
     // Render results onto the dedicated search page container
     renderPageResults(container, results, query) {
         try {
             if (!container) return;
-            const pageStatusEl = document.getElementById('search-status');
-            if (pageStatusEl) pageStatusEl.style.display = 'none';
             if (!results || results.length === 0) {
                 container.innerHTML = `<p class="text-gray-500">No results match your search.</p>`;
                 document.body.classList.add('search-has-results');
@@ -424,6 +423,7 @@ class ArchiveSearch {
                     </a>
                 </div>
             `).join('');
+            document.body.classList.add('search-has-results');
             // Navigation: prefer PJAX/Swup
             container.querySelectorAll('a[data-url]').forEach(a => {
                 a.addEventListener('click', (e) => {
@@ -441,10 +441,13 @@ class ArchiveSearch {
                     }
                 });
             });
+            // no status element now
         } catch (err) {
             console.error('[search] renderPageResults failed', err);
         }
     }
+
+    // Status helpers removed
 
     // Render intro block into results container when no search has happened
     renderIntro(container) {
