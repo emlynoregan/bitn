@@ -216,7 +216,13 @@ class ArchiveSearch {
                         const baseUrl = window.HUGO_BASE_URL || '';
                         const sep = baseUrl.endsWith('/') ? '' : '/';
                         const path = url.startsWith('/') ? url.substring(1) : url;
-                        window.location.href = baseUrl ? (baseUrl + sep + path) : url;
+                        const navigateUrl = baseUrl ? (baseUrl + sep + path) : url;
+                        // Prefer PJAX navigation to preserve JS state
+                        if (window.__swupInstance && typeof window.__swupInstance.navigate === 'function') {
+                            window.__swupInstance.navigate(navigateUrl);
+                        } else {
+                            window.location.href = navigateUrl;
+                        }
                     }
                 });
                 
