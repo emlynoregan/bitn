@@ -31,6 +31,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
     
+    <!-- Prefetch search assets -->
+    <link rel="prefetch" href="{{ "js/lunr.min.js" | absURL }}" as="script">
+    <link rel="prefetch" href="{{ "js/search-data.json" | absURL }}" as="fetch" crossorigin>
+
     <!-- RSS Feed -->
     {{ range .AlternativeOutputFormats -}}
         <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
@@ -60,8 +64,8 @@
     <!-- Header -->
     {{ partial "header.html" . }}
     
-    <!-- Main content -->
-    <main role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
+    <!-- Main content (Swup container) -->
+    <main id="swup" role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
         {{ block "main" . }}{{ end }}
     </main>
     
@@ -77,6 +81,20 @@
         <script src="{{ "js/lunr.min.js" | absURL }}"></script>
         <script src="{{ "js/search.js" | absURL }}"></script>
     {{ end }}
+
+    <!-- PJAX (Swup) -->
+    <script src="https://unpkg.com/swup@4"></script>
+    <script>
+        (function(){
+            try {
+                if (!window.__swupInstance) {
+                    window.__swupInstance = new Swup({ containers: ['#swup'] });
+                }
+            } catch (e) {
+                console && console.warn && console.warn('Swup init failed:', e);
+            }
+        })();
+    </script>
     
     <!-- Analytics -->
     {{ if .Site.Config.Services.GoogleAnalytics.ID }}

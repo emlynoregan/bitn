@@ -22,6 +22,10 @@ class ArchiveSearch {
             } else {
                 this.setupSearch();
             }
+            // Bind for PJAX (Swup) navigations: re-bind inputs only, keep index in memory
+            document.addEventListener('swup:contentReplaced', () => {
+                this.setupSearch();
+            });
         } catch (error) {
             console.error('Search initialization failed:', error);
         }
@@ -33,16 +37,16 @@ class ArchiveSearch {
         this.searchResults = document.getElementById('search-results');
         
         if (!this.searchInput || !this.searchResults) {
-            console.warn('Search elements not found on this page');
+            // Not a page with search UI; nothing to wire up
             return;
         }
         
         try {
-            // Load search data
-            await this.loadSearchData();
-            
-            // Build search index
-            this.buildIndex();
+            // If index not yet built, load data and build once
+            if (!this.index || this.documents.length === 0) {
+                await this.loadSearchData();
+                this.buildIndex();
+            }
             
             // Setup event listeners
             this.setupEventListeners();

@@ -32,6 +32,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
     
     
+    <link rel="prefetch" href="http://localhost:1313/bitn/js/lunr.min.js" as="script">
+    <link rel="prefetch" href="http://localhost:1313/bitn/js/search-data.json" as="fetch" crossorigin>
+
+    
     
     <script type="application/ld+json">
     {
@@ -144,7 +148,7 @@
 </header>
     
     
-    <main role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
+    <main id="swup" role="main" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7;">
         
 <div class="container mx-auto px-4 py-8">
     
@@ -392,6 +396,20 @@
         <script src="http://localhost:1313/bitn/js/lunr.min.js"></script>
         <script src="http://localhost:1313/bitn/js/search.js"></script>
     
+
+    
+    <script src="https://unpkg.com/swup@4"></script>
+    <script>
+        (function(){
+            try {
+                if (!window.__swupInstance) {
+                    window.__swupInstance = new Swup({ containers: ['#swup'] });
+                }
+            } catch (e) {
+                console && console.warn && console.warn('Swup init failed:', e);
+            }
+        })();
+    </script>
     
     
     

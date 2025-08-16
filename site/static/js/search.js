@@ -22,6 +22,10 @@ class ArchiveSearch {
             } else {
                 this.setupSearch();
             }
+            // Bind for PJAX (Swup) navigations: re-bind inputs only, keep index in memory
+            document.addEventListener('swup:contentReplaced', () => {
+                this.setupSearch();
+            });
         } catch (error) {
             console.error('Search initialization failed:', error);
         }
@@ -31,18 +35,30 @@ class ArchiveSearch {
         // Get DOM elements
         this.searchInput = document.getElementById('search-input');
         this.searchResults = document.getElementById('search-results');
+        const loadingEl = document.getElementById('search-loading');
+        const searchUiEl = document.getElementById('search-ui');
         
         if (!this.searchInput || !this.searchResults) {
-            console.warn('Search elements not found on this page');
+            // Not a page with search UI; nothing to wire up
             return;
         }
         
         try {
-            // Load search data
-            await this.loadSearchData();
-            
-            // Build search index
-            this.buildIndex();
+            // If index not yet built, load data and build once
+            // If first-time init, show loading indicator until ready
+            const needsInit = !this.index || this.documents.length === 0;
+            if (needsInit && loadingEl) {
+                loadingEl.style.display = '';
+            }
+
+            if (!this.index || this.documents.length === 0) {
+                await this.loadSearchData();
+                this.buildIndex();
+            }
+
+            // Hide loading, show search UI
+            if (loadingEl) loadingEl.style.display = 'none';
+            if (searchUiEl) searchUiEl.style.display = '';
             
             // Setup event listeners
             this.setupEventListeners();
